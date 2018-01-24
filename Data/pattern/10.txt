@@ -1,0 +1,292 @@
+159
+strictly speaking a memory leak is consuming memory that is no longer used by the program
+391
+the score for searching for john smith would be higher search in partition 1 as the term is more scarce
+566
+in c# the int type is the same as system.int32 and is a value type ie more like the java int
+875
+git is not better than subversion
+875
+but even with this lengthy addition i still stand by my core message git is not better or worse it s just different
+875
+but even with this lengthy addition i still stand by my core message git is not better or worse it s just different
+893
+if i m developing a single project on my pc laptop git is better because it is far easier to set up and use
+1261
+however i ve heard a lot of people say that svn is better
+1384
+that is where nhibernate comes in as it gives you lightweight pocos that are unrelated to your database model but the setup time is much longer
+1517
+aquamacs has a more irregular schedule but it s seen some pretty major updates over the last year
+1561
+aquamacs has a more irregular schedule but it s seen some pretty major updates over the last year
+1687
+other information such as addresses should be saved in your own database by your own application logic this approach is more extensible and maintainable
+1752
+i ve switched to a more flexible delegate public property object model which is significantly better
+1752
+i ve switched to a more flexible delegate public property object model which is significantly better
+1971
+i think programmer comfort is my main reason to choose python but i think perl is still better supported
+2017
+this is more or less the perfect use case for svk
+2068
+view is more loosely coupled to the model
+2614
+here is a good way to remember the process that each of them follow that i use when trying to decide which is better for my circumstance
+2678
+it sounds like git is more complicated to live with
+2678
+it sounds like git is more complicated to live with
+2962
+because of this it is more or less assumed that if you have any message loop it must be available for the lifetime of your process
+3050
+even the canonical factorial function example is better implemented with a loop
+3751
+database storage is usually more expensive than file system storage
+3751
+database storage is usually more expensive than file system storage
+3981
+if how ever you have a list of users which is access more often than is written to then i would firstly create a clustered index on the column that is access the most usually the primary key
+4064
+you can also cache in memory which is much more efficient
+4064
+you can also cache in memory which is much more efficient
+4344
+i think the real appeal to me is that most of the stuff can all be integrated together wiki pages can include other wiki pages and articles which is more useful than you might think
+4684
+which one is better suited i run windows so the platform-independence of vmware does not count and easier to automate
+4833
+edit strchr is better only for one char
+4833
+edit strchr is better only for one char
+5132
+just a bit of a question is the reason they are choosing grails because groovy is closer in syntax to java than ruby or because they want access to java
+5400
+also make sure to let him struggle though some of the tougher problems nothing is more satisfying than the moment you figure it out on your own
+5403
+a change request is more like but we need to consider this other thing as well.
+5645
+and since c# is more widely used you can easily find java -- c# tutorials on google or check out and watch some videos
+6099
+the database backup requirement is more interesting though and one that i ve come up against more than once
+6144
+this is no more dangerous or critical than the normal odd file problem and can be because of various problems like a subversion program dying mid-change power-disruption etc
+6215
+of course using a csv parser is better but just for the fun of it you could
+6531
+assigning functions to the prototype is better for public methods because all instances of the class will share the same copy of the method
+6582
+subversion 1.5 just added merge tracking but git is still better
+6852
+the newly encoded file is longer and when comparing the binary of the before and after the data hardly matches up at all
+6906
+i ve heard it said that java is more like write once debug everywhere but that s probably as true as or even moreso than c#
+6933
+in cocoa it is far more common to return objects to a caller that are autoreleased than it is to return objets that the caller itself needs to release
+6972
+having said that these three blocks of code have very different external behaviors so comparing them is like asking whether quicksort is more efficient than adding an item to a red-black tree
+7091
+uint32 is much more readable and writeable than unsigned long long which is the equivalent for some systems
+7482
+this makes it more complicated if you ask me
+7678
+a table in a db is really the set of that entity it makes more sense once you re using set-logic
+7994
+having the right interaction model is probably more important
+7994
+having the right interaction model is probably more important
+8228
+so this is it more than programming but google found nothing and you guys are just the right kind of geniuses
+8596
+less power consuption which is better for the environment
+8626
+a real deployment of a grid is more complicated but i just need something portable for development
+8753
+there is also my flexunit automation kit which does more or less the same for flexunit
+8780
+which is more important quickly getting the programs to work or getting the programs working quickly
+9152
+ontime is more an alm tool - it s trying to do everything
+9274
+is that mdb2 goes much further to
+9304
+i know this is more a philosophical subjective questions but is there any reason to use these auto-properties except from saving five lines of code for each field
+9752
+not the most optimal solution a table lookup is faster
+9752
+not the most optimal solution a table lookup is faster
+9783
+i ve used sql server express on the past projects but time and time again i hear people saying that the product from oracle is faster and more powerful
+9860
+sql express is also more install and forget than oracle
+9860
+sql express is also more install and forget than oracle
+10230
+which is more efficient for the compiler and the best practice for checking whether a string is blank
+10949
+i need to be able to generate a deep clone of this object - so i write a clone method and implement it with a simple binaryformatter serialize deserialize - or perhaps i do the deep clone using some other technique which is more error prone and i d like to make sure is tested
+10951
+i would tend to be of the opinion that if you re after performance improvements your time is much better spent elsewhere tweaking your schema optimising your queries and ensuring good index coverage
+11074
+unit testing a full code generator is more like integration testing than unit testing if you ask me
+11136
+it supports embedding images and tables as well as text opens by default using microsoft word and whilst it s featureset is more limited count out any advanced formatting for something that looks and feels and opens like a word document it s not far off
+11662
+c# is more java like and probably c++ like
+11679
+from what i have read this is more portable than stricmp because stricmp is not in fact part of the std library but only implemented by most compiler vendors
+11902
+where possible i transpose the objects into xml - this means that the web service is more portable - i can then access the service in whatever language i just need to create the parser object transposer in that language
+11902
+where possible i transpose the objects into xml - this means that the web service is more portable - i can then access the service in whatever language i just need to create the parser object transposer in that language
+12107
+we had setup tortoisesvn to use _svn following the recommendation that this works better for visual studio and have also installed tortoisesvn on the build server in case it is ever needed
+12140
+this works better in any case much better than having all those objects need some global settings object --- that of course effectively makes unit testing impossible disadvantage can be that you sometimes need to set a dozen of properties or that you need to let those properties percolate into sub-objects
+12394
+clearly the using statement is no longer applicable so the programmer would have to manually call dispose when he or she is done with the resource
+12412
+bash is the better interactive shell in my opinion.
+12822
+people say that imagemagick is much faster
+12875
+however this route is somewhat more complicated and possibly less performant if all you need is a radius search
+12965
+most modern email is more complex than that though
+13064
+this is more difficult than it looks
+13210
+.net 3.0 and .net 3.5 did not change the version of the clr so using asp.net 3.5 is a more complicated thing that it sounds like it should be at first
+13487
+the fact that there is a firefox add-on for jslib add-on for firefox makes more more confident
+13487
+the fact that there is a firefox add-on for jslib add-on for firefox makes more more confident
+13536
+using sql server 2005 or presumably 2008 i find for xml path to allow for much easier to maintain sql than for xml explicit particularly once the sql is longer
+13577
+significant optimization is better done by caching strategies and optimizing your database access
+13678
+the team captain thinks that labview is better for its ease of learning and teaching
+13706
+wow i m not sure we re talking migration here anymore - the difference is more like re-writing
+13746
+as a postcript i d say that c c++ is more suited to robotics since the students will no doubt have to deal with embedded systems and fpgas at some point
+13746
+as a postcript i d say that c c++ is more suited to robotics since the students will no doubt have to deal with embedded systems and fpgas at some point
+14070
+that narrows the field a lot if you care to guess the company. i know joel s opinion and my experience leads me to partially disagree for the same reason that a white hat hacker is more effective finding security holes certain kinds of errors are more effectively found by white box testers who know how to write code and therefore what the common mistakes are - for example resource management issues like memory leaks
+14394
+the shorter names makes it more readable to me as well
+14422
+even this badly-auto-translated japanese tutorial is more useful than the rest of the documentation i could find
+14530
+so the question is this for simple data retrievals which approach is better linq-to-sql or stored procs
+14568
+once again this is more so i don t have to scroll through a lot of text when i just want to review some event handlers
+14688
+a leak means that the object is no longer accessible to you or to the os framework and will not be freed for the lifetime of the operating system s current session
+14926
+i must admit that i m not sure wether this performs better or worse than the normal asp.net repeater onitemdatabound cast code but anyway here s my 5 cent
+15002
+string just looks more like c c++ style
+15011
+i am not going to debate which one is better
+15089
+as andrei points out metalscroll is a better alternative
+15091
+technically ruby is more sophisticated than java or c# being closer to smalltalk in terms of oo purity and closer to lisp in terms of meta-programming facilities
+15193
+performance is generally better from the point of view of network traffic - if you have a cursor or similar then there aren t multiple trips to the database
+15198
+your time is probably better spent setting up processes to minimize bugs than trying to estimate how many you have
+15788
+what s a better ajax toolkit for .net that can provide equal or better set of functionality that is more scalable straight forward and completely customizable
+15887
+make sure that everyone is aware that the wiki is even more informal than email..
+16320
+which is better and why
+16408
+the larger your data set and the smaller m is the more likely you ll get a collision .
+16455
+what that means in the long run is that when you come back to make a change to your string format you will either have the ability to pop in and make a few adjustments to the format string or wrinkle your brow and start moving around all kinds of property accessors mixed with text which is more likely to introduce problems
+16455
+what that means in the long run is that when you come back to make a change to your string format you will either have the ability to pop in and make a few adjustments to the format string or wrinkle your brow and start moving around all kinds of property accessors mixed with text which is more likely to introduce problems
+16616
+in .net is it more appropriate to throw an argument null exception for an integer if the value is integer.minvalue or integer 0 assuming that 0 is not a valid value
+16810
+algebraic data types in haskell support full parametric polymorphism which is the more technically correct name for generics as a simple example the list data type
+16810
+algebraic data types in haskell support full parametric polymorphism which is the more technically correct name for generics as a simple example the list data type
+16810
+of course haskell s type system allows more .
+16817
+the spring dm google group is no longer active and has moved to eclipse.org as the gemini blueprint project which has a forum here
+16877
+apparently visual svn is much better but costs money
+16908
+if you really need to write a good hash function that minimizes collisions more than the default implementations available in the standard languages you need an advanced degree in mathematics
+16973
+if you have any choice in the matter consider using relax ng as your schema syntax it is much more readable and maintainable
+17043
+other times using the full class name is more helpful as it documents the code better than var does
+17181
+which one is better
+17390
+following the official extension promotion path multitexturing is no longer an optionally implemented arb extension but has been a part of the opengl core api since version 1.3
+17390
+following the official extension promotion path multitexturing is no longer an optionally implemented arb extension but has been a part of the opengl core api since version 1.3
+17438
+sure you can pound a nail in with a screw driver but a hammer works much better because it was actually designed for it.
+17477
+i am rather certain neither has a vs plug-in but with posh the command line is more fun anyway
+17477
+i am rather certain neither has a vs plug-in but with posh the command line is more fun anyway
+17562
+perhaps because javascript is a more powerful programming language than those two
+17713
+i suspect that a ss js solution that supports more recent ecma specs would be no more cumbersome than using other scripting languages for the task
+17812
+this is more likely to happen if your projects are in separate solutions and can therefore be compiled separately
+17970
+the friend keyword lets me create an accessor function which is more concise than always having a getinstance method on the class
+17970
+the friend keyword lets me create an accessor function which is more concise than always having a getinstance method on the class
+18307
+php is more well known and used than eruby but i like the ruby language so i tend to like using eruby
+18320
+mysql is more likely to have database corruption issues and it doesn t fix them automatically when they happen
+18465
+i m not familiar with the fundamentals of parse versus convert so i am always at a loss when asked which one is better faster more appropriate
+18465
+i m not familiar with the fundamentals of parse versus convert so i am always at a loss when asked which one is better faster more appropriate
+18473
+i ve never used crystal so i can t tell you which is better but i get the distinct impression that ms tried to rush ssrs out the door
+18543
+it s not free like the microsoft clr profiler but is faster and more to the point in my opinion
+18669
+i know the original solution is performing faster but i think this one is much cleaner
+18876
+this isn t any more elegant than what you have stipulated so i wonder if any of the django or rails guys can provide any input
+18884
+secondly i d suggest using document.getelementbyid display-name .value instead of document.forms as it won t break if you rearrange the html and is more the commonly accepted standard of what to do
+19047
+after upgrading to the latest version of tortoisesvn 1.5.2.13595 it s context menu is no longer available
+19047
+after upgrading to the latest version of tortoisesvn 1.5.2.13595 it s context menu is no longer available
+19130
+this is better but still leaves the user slightly puzzled
+19179
+calling a command line from a gui spawns external processes for each command and is more disruptive to the os
+19296
+that way your code will run after any handlers which makes it more emulate a normal event handler
+19296
+that way your code will run after any handlers which makes it more emulate a normal event handler
+19349
+i ve heard that this problem presents itself more often on vista 64-bit because dep is on by default
+19368
+however i ve worked in small teams where communication is better
+19368
+however i ve worked in small teams where communication is better
+19383
+if you run the command a second time the operating system will likely have the contents of file.txt cached in memory and you will not likely see any perceptible delay unless file.txt is very large or the file is no longer cached.

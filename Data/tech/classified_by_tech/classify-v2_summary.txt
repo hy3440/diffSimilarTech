@@ -1,0 +1,29 @@
+Comparative sentences: 236
+Sentence number: 5606
+Pattern 10: 38 sentences
+Pattern 1: 14 sentences
+Pattern 0: 46 sentences
+Pattern 3: 4 sentences
+Pattern 2: 2 sentences
+Pattern 5: 55 sentences
+Pattern 4: 47 sentences
+Pattern 7: 39 sentences
+Pattern 6: 9 sentences
+Pattern 9: 4 sentences
+Pattern 8: 10 sentences
+
+
+Comparative sentences: 263
+Sentence number: 6213
+Pattern 10: 49 sentences
+Pattern 1: 15 sentences
+Pattern 0: 47 sentences
+Pattern 3: 2 sentences
+Pattern 2: 2 sentences
+Pattern 5: 73 sentences
+Pattern 4: 40 sentences
+Pattern 7: 45 sentences
+Pattern 6: 16 sentences
+Pattern 9: 8 sentences
+Pattern 8: 9 sentences
+

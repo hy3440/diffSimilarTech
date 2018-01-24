@@ -1,0 +1,416 @@
+583
+
+personally i prefer int string double etc
+
+1971
+
+i think programmer comfort is my main reason to choose python but i think perl is still better supported
+
+2360
+
+go to system preferences keyboard and mouse then choose keyboard shortcuts
+
+6659
+
+but i would recommend unitils a great wrapper for junit testng dbunit easymock regardless of which route you take
+
+10232
+
+they do a great job for us and i would highly recommend using maven over ant
+
+13561
+
+i need to display list of categories on every page and to be able to choose items from a specific category to be displayed
+
+16581
+
+i have used both msbuild and nant and i much prefer msbuild mainly because it requires a lot less configuration by default
+
+19307
+
+i would like to recommend this jquery plugin though jqmodal
+
+20192
+
+there are lots of good reasons to prefer iis over the cassini server articles by dominick baier
+
+23273
+
+it loses points for being about standard ml when ocaml f# and haskell are seemingly more popular
+
+24454
+
+i heavily prefer cakephp for php django for python rails for ruby
+
+27440
+
+better performance can be bought with more ram and cpu and more appropriate database design and clever stored procedure tricks and so on - and all of that is cheaper and easier for random-website-x than agonizing over which to pick mysql or postgresql and specialist tuning from expensive dbas
+
+27785
+
+would match http or https just fine
+
+30261
+
+edit textchanged event is only triggered when the textbox loses focus so that can t be the issue
+
+34149
+
+i d recommend hpricot for ruby or beautiful soup for python which are both excellent parsers for html
+
+34295
+
+if it is emacs you want i would recommend aquamacs more mac-like or carbon emacs more gnu-emacs-like
+
+34474
+
+i prefer phpunit now but when i started out i used simpletest as i didn t always have access to the command line
+
+35676
+
+subversion is complicated to set up -- if you have no experience with version control at all i d recommend using a distributed vcs because they don t require any server configuration
+
+41774
+
+right click on the trunk folder and choose either checkout if you want to update from svn later or export if you just want your own copy of that revision
+
+42697
+
+i would personally learn ironruby because i prefer the way ruby works over python and since it s one of the same then choose which language you prefer
+
+44034
+
+i set up a little ajax app that compares any number of catalog instances to a master and shows the diffs
+
+46583
+
+first i highly recommend using source control like subversion cvs or git
+
+49806
+
+if i have several of these windows open at once and i click one with my mouse when they disappear they cause my application to lose focus it switches focus to the app behind the current one
+
+51866
+
+to do this i m using ms vc++ .net 2003 and mappoint europe 2006 to do this but am having problems as when i select insert activex control no mappoint control appears in the list of options
+
+56371
+
+if you re determined to have rich-client style development and your audience is small for admins only then i d probably recommend wpf over silverlight as it currently provides a richer set of tools and controls
+
+58306
+
+i want to choose any two records from the set and be able to show all simple paths between the chosen records
+
+58363
+
+i would recommend memcached or apc
+
+60075
+
+not sure if they keep track of the tree of process spawning i think it depends on what os you use but since when you kill bash or any shell all running children are also killed i think unix like systems do keep track of this
+
+60137
+
+i haven t decided which one yet but my understanding is that they ll give me a base os install i d prefer debian or ubuntu an ip address a root account ssh and that s about it
+
+61192
+
+i recommend python as it s not only a sexy language but also very widely used and easy to integrate with c++ through boost.python
+
+62659
+
+using the stl or boost are quite good approaches if you don t know beforehand how many entries you will have in each dimension of the array because they will give you dynamic memory allocation and i recommend either of these approaches if your data set is to remain largely static or if it to mostly only receive new entries and not many deletions
+
+66072
+
+open the file using whatever scripting language you prefer perl python and traverse the file until you find a match for your version
+
+66963
+
+chartdirector is available for lots of platforms win linux solaris bsd osx and has an api for lots of languages too perl asp .net java php python ruby c++
+
+67718
+
+i prefer cxxtest because it has a perl python script to build the test runner
+
+67798
+
+works to match any from line but i want it to be restricted to lines in the body anything after the first blank line
+
+68566
+
+note its hard to beat rsync if you plan on transferring files via ssh especially if the alternative is plain old scp
+
+69387
+
+the general consensus is that programmers prefer drupal whereas mere mortals prefer joomla
+
+70486
+
+if i was starting today maybe i would pick python or ruby but i don t know enough about them to make a judgement call
+
+73236
+
+i personally prefer python but php will work as well
+
+74174
+
+i can however recommend itextsharp which is a .net port of the java itext
+
+74992
+
+i prefer zsh over bash because of its support for very powerful file globbing variable expansion modifiers and faster tab completion
+
+78106
+
+as your question is tool writing and exploit development i would recommend ruby if you choose metasploit or python if you choose canvas
+
+78106
+
+as your question is tool writing and exploit development i would recommend ruby if you choose metasploit or python if you choose canvas
+
+80157
+
+on windows i prefer nsis from nullsoft only because it s less objectionable than installshield or installanywhere
+
+80609
+
+i prefer java or xslt -based solutions ant will do fine but if there s an easy way to do that in rake ruby or python please don t be shy -
+
+81628
+
+selecting any of the groups is optional so you could pick set a or b or both
+
+82634
+
+grails works because we can mix and match groovy with the existing java solutions
+
+85267
+
+i d recommend python or perl
+
+86256
+
+when i say design-view i mean that i right+click on the file and choose view designer - this gives me access to the toolbox and tabs for designer split and code-view which is the view i primarily work in
+
+87006
+
+i ve used svn cvs clearcase base ucm ccc harvest but none of them can beat accurev s strengths
+
+88100
+
+for instance if a preference picks tcp versus udp have your conditional instantiate a tcpprovider or udpprovider which the rest of your code uses with minimal muss or fuss
+
+92359
+
+just compare let s say average php or visual basic programs and solutions in smalltalk common lisp haskell and the like
+
+92868
+
+the back-end doesn t matter much but i do recommend using json as your protocol of choice over xml
+
+95046
+
+bottom line joomla tends to look pretty from an administration perspective but drupal tends to outperform joomla and be a more easily customizable system to achieve many of the things you really want out of a cms
+
+95821
+
+i see that it supposedly beats erb and eruby now.
+
+98430
+
+so if the team want to choose erlang or haskell then management has the responsibility to the company to say no
+
+102670
+
+i recommend hosting a cgi-bin which looks up the ip-address of a hostname and access that via javascript
+
+106443
+
+i would recommend lucene - its free its fast it is is pretty easy to set up a powerful index on any content for anyone with programming experience
+
+109032
+
+i also have this button labeled bold that i want if someone selects text in the richtextbox then presses the button the selected text turns bold
+
+110453
+
+i strongly recommend vmware over parallels as vmware supports 2 virtual cpu s i think it s up to 4 virtual cpu s in v2
+
+113331
+
+wxpython has a very good demo and it can do pretty much anything which pyqt can do i would anyday prefer pyqt but it may bot be free for commercial purpose but wxpython is free and is decent cross platform library
+
+116347
+
+you really can t compare xml to csv because csv is an extremely limited way of representing data
+
+119190
+
+i recommend using something like maven or ant as a standardized build system
+
+119892
+
+if you choose xhtml as a standard your markup will be more likely to be useful in an ajax environment
+
+122410
+
+the user can select any rows desired by checking the checkbox on the row and you can get all the selected rows easily inot a collection to process
+
+125068
+
+atlassian fisheye allows you to get commit notification on email as well as rss and as a bonus you can select which directory file to subscribe to and only get notified of those file dir changes
+
+125569
+
+making any change to a row probably takes just as much i o as writing the entire row except of course updating indexed columns also requires index writes so you lose out by making several updates which hit lots of rows
+
+132757
+
+what are your own reasons to prefer python over perl
+
+132841
+
+personally i prefer solaris or a bsd for stability
+
+139478
+
+i recommend using sorteddictionary string tvalue or sortedlist string tvalue
+
+140471
+
+for generic possibly malformed html there are libraries to handle that kigurai recommends beautifulsoup for python i know also tagsoup for java there are others
+
+142100
+
+that being said i greatly prefer asp.net both mvc and webforms myself - but i left asp development about 7 years ago
+
+142156
+
+just remember that if you have a warehousing strategy of dropping indexes before updating a table then recreating them you will have to set the index up for monitoring again and you ll lose any monitoring history for that index
+
+142565
+
+the group contains w which means non-word character and - so the regex should match any non-word character or any hyphen
+
+145075
+
+that said one of the pluses of developing a web application in java is that the interface for working with the http is standardized the servlet specification so that you can pick any servlet container you want be it glassfish tomcat jetty or weblogic
+
+146871
+
+i have decided that i prefer scheme over common lisp so that narrows it down a bit
+
+150078
+
+it matches any character which is not contained in the ascii character set 0-127 0x0 to 0x7f
+
+153155
+
+you should be able to use a combination of labels and id attributes to pick out the correct properties for your edit-in-place implementation to work
+
+158519
+
+in other words how can i find records that match any of the flags in my mask that i m sending to the procedure
+
+158635
+
+for a little gui app i would recommend tk either with tcl or as tkinter with python
+
+161559
+
+nowadays i prefer git over svn but it takes a while to get over the threshold if you come from cvs svn land
+
+162974
+
+if you want to do dynamic storage allocation such as for a linked-list you must use pointers because they re the only way to grab memory from the heap
+
+162991
+
+i will probably choose swt swing or qtjambi for the ui controls but i am wondering what to do with the graphical part of the simulation
+
+163765
+
+if i wanted to publish the results as a doctoral thesis i would make a bigger deal about this and i would probably compare gcc tendra ten15 llvm watcom borland visual c++ digital mars icc and other compilers
+
+167922
+
+the net effect of this was that it was very difficult to get two machines to boot up and work on the kvm switch and the switch would lose keyboard or mouse input on one or both machines every few days
+
+172363
+
+you can match any number of nested parens through brute force but you can t ever match an arbitrarily long set of nested brackets
+
+174577
+
+i would highly recommend gallio formally mbunit for unit testing and unfortunately not free ncover for code coverage
+
+175161
+
+in visual studio open your project s properties and go to the signing tab select sign the clickonce manifests and create test certificate
+
+177532
+
+do you prefer vhdl or verilog and why
+
+178555
+
+once you re ready to choose an hdl i heartily recommend verilog having learned vhdl first
+
+180497
+
+even if you don t use that garbage collecting memory manager i would still recommend delphi over c++
+
+180497
+
+for excel add-ins as you mentioned in your comment i would recommend delphi over c++ builder because it has better com support which i believe you need for excel add-ins
+
+181401
+
+go into window - preferences then select java - installed jres clone the jre used by tomcat and add the following to the default vm arguments
+
+184056
+
+i find it most disturbing to see so few people around here are actually using maven or at least ant though i prefer maven for the dependency handling.
+
+187601
+
+if you want to use win32 ports of some unix utilities rather than installing cygwin i recommend gnu utilities for win32
+
+189526
+
+if you do i would recommend mono which is a .net free implementation or java both platforms work well in windows osx linux
+
+192156
+
+other rdbms would prefer coalesce instead of isnull
+
+192633
+
+but for parsing rss feeds i d recommend universal feed parser which can also parse atom
+
+192960
+
+this really causes a problem if all the items are selected or the next item the user wants to select was part of the current selection
+
+194197
+
+i actually prefer lxml as it has api like elementtree but has also nice additional features and performs well
+
+195398
+
+at the load levels where postgresql s better locks overtake mysql s other parts of your platform could be the bottlenecks
+
+197210
+
+this will not remove the key binding from vmware but you could set the option to grab keyboard and mouse intput on key press in the vmware preferences
+
+199835
+
+rather like editors do you prefer vim or emacs choice of shell is partly a question of familiarity and partly a question of preference
+
+199835
+
+another problem for those using linux is that the gnu tools have more options than the classic unix versions and you can lose portability not because of the shell programming constructs that you use but because of the command options you use
+

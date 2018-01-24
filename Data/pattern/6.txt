@@ -1,0 +1,202 @@
+19
+in my tests with built-ins the version is fastest on gcc 4.2 because it auto-folds the atan 1 into a constant
+19
+with -fno-builtin specified the atan2 0 -1 version is fastest
+103
+javascript is the easiest way to get the client s local time
+112
+understanding .net s memory model is your best way of avoiding it
+112
+understanding .net s memory model is your best way of avoiding it
+207
+to set the apache not the php log the easiest way to do this would be to do
+597
+i agree that scripting everything is the best way to go and is what i advocate at work
+713
+i think nunit is your best bet
+921
+this is my biggest nightmare right now having to support a multi-cultural environent but not having any way to reliably know what number format the user will use
+1340
+do you mean that from a set of n colors you need to pick m colors where m n such that m is the best representation of the n colors in the m space
+1826
+if not as hairy as it can be i think webdav is your best bet
+2685
+i still think using a udf is the best way...any other suggestions
+3155
+my utils class is my bestest friend in the whole world it was before extension methods came along and they have only helped to strengthen our relationship
+3164
+if i have managed to locate and verify the existence of a file using server.mappath and i now want to send the user directly to that file what is the fastest way to convert that absolute path back into a relative web path
+3492
+no web developer who values his time should begin debugging browser compatibility problems without first ensuring that the markup is at least syntactically valid mdash
+3869
+perforce - imho the best features but it s not open source
+3929
+filestream solves most of the problems around storing the files in the db
+4387
+which is the best
+4573
+i have tried almost every obfuscator on the market and smartassembly is the best in my opinion
+5014
+one note for python is that most of the frameworks for python web development can be plugged right into any current project
+5187
+this allows you to have your include files outside the web server root which is a best practice
+5187
+this allows you to have your include files outside the web server root which is a best practice
+5356
+black text on white background is the best example of a high contrast combo
+5356
+black text on white background is the best example of a high contrast combo
+5396
+given this what is the best practice to follow
+6371
+this is the biggest barrier i see in moving toward continuous integration and one-step-builds
+6559
+the reason is that a generic class like is for most purposes treated externally as a normal class
+6559
+the reason is that a generic class like is for most purposes treated externally as a normal class
+6758
+or to be exact there are a lot of icon sets for an affordable price and i think buying a professional set is the best choice you have if you re not a graphics designer yourself
+6792
+i ve found that in cases where i m building strings in a fairly linear fashion either doing straight concatenations or using stringbuilder is your best option
+6792
+i ve found that in cases where i m building strings in a fairly linear fashion either doing straight concatenations or using stringbuilder is your best option
+7085
+i think modern compiler implementation in ml is the best introductory compiler writing text
+7106
+the static constructor for a class executes at most once in a given application domain
+7257
+the try-catch method is the quickest if the object does hold an int and by far the slowest if it doesn t even slower than gettype
+7815
+i think you ll agree that is nothing is the best choice
+8100
+orm everytime the least i have to think about databases the better
+8117
+and with some strict interfaces and good base classes most of the coding is just telling the software what to do when x happens
+8306
+i am thinking that post-commit scripts could be used to propagate changes but i am not sure if this is the best way to go anyone have any input
+8344
+i suspect this is at least in part because of the fairly strong tdd bias within the rails community - not so much debugging being necessary because they re working in small test-driven steps
+8643
+i would look at the crash in more detail - if it s crashing in a test case then it sounds pretty easily reproducible which is usually most of the challenge
+8771
+this is the biggest issue
+8775
+i think that this combination covers most of my needs
+9713
+maybe this is the easiest
+9713
+maybe this is the easiest
+10438
+i believe that the office open xml format is the best way to go
+10438
+i believe that the office open xml format is the best way to go
+10484
+option 3 is the best
+10811
+i might have forgotten a few but i think this is about most of the new cool and useful stuff
+10870
+this is the oddest thing about d d in air
+11277
+which coincidently is how most people learn english
+11406
+i don t know whether this is the best approach to the problem or not but here is how i got it to work
+11714
+build tool msbuild - you ll want to customize the build process and learning msbuild is the best way to do this
+11775
+the folderbrowserdialog class is the best option
+11775
+the folderbrowserdialog class is the best option
+11866
+orion edwards solution is the best i can come up with
+11945
+use what works best for you
+11959
+if i had to go back server 2003 is the least i would accept not having a real functional web server is just not an option
+11963
+dijkstra shortest-path algorithm is the best known
+11963
+dijkstra shortest-path algorithm is the best known
+12167
+i m not sure that this is the best way to do it but when i m deploying ruby gui apps not python but has the same problem as far as .exe s are concerned on windows i just write a short launcher in c# that calls on my main script
+12243
+in case it helps most of this functionality will be revealed via web services and we re a microsoft shop with all the latest gizmos and gadgets
+13040
+according to the lxml validation docs lxml can handle dtd validation specified in the xml doc or externally in code and system catalogs which covers most cases i can think of
+13075
+this is how most of my software works
+14070
+black box testing is what most people think of when you mention quality assurance
+14070
+black box testing is what most people think of when you mention quality assurance
+14322
+not sure if this is the best service but it s one of the major ones
+14430
+but for getting to know the basics of shader programming with cg the cg tutorial is the best book i ve found
+14908
+you should be focusing on some of the more human-to-machine technologies like voice xml and the ones used in ivr systems nuance is the biggest player there
+14934
+i know this is a best practice
+15201
+code repetition is the worst thing you can do when you re trying to build a maintainable application
+15277
+code repetition is the worst thing you can do when you re trying to build a maintainable application
+15357
+unfortunately this meant that your average csla object has at least three responsibilities -- representing the domain model containing business rules and containing data access definition not the dal or data access implementation as i previously stated implied all at the same time
+15357
+unfortunately this meant that your average csla object has at least three responsibilities -- representing the domain model containing business rules and containing data access definition not the dal or data access implementation as i previously stated implied all at the same time
+15397
+so a regex is the best solution to that problem
+15898
+in my biased opinion c is the best point to start
+16104
+if you have access to c#7 and the latest .net this is the best way
+16104
+if you have access to c#7 and the latest .net this is the best way
+16165
+the trunk is the development line that holds the latest source code and features
+16280
+when i was looking for log analysis software a while ago i wanted to avoid anything that looked overly bloated and enterprisey which is what most stuff seemed to be focusing more on the marketing and advertising aspects of reports
+16437
+pick the right tool based on the job d whichever looks cleanest
+16564
+i am not sure this is the best process
+16573
+edit i didn t post this as a complete answer on the subject so i ll echo fredrik kalseth s statement that overriding equals works best for immutable objects
+17137
+of course this is the easiest approach based on the question
+17290
+the case statement is my best sql friend
+17341
+the comparison with an epsilon value is what most people do even in game programming
+17341
+the comparison with an epsilon value is what most people do even in game programming
+17782
+the aim is that this is most of the time stable and if push came to shove you could cut a release anytime that would reflect the current functionality of the system
+17971
+this is the easiest way to get a good understanding of how your computer works and what your high-level code is actually doing
+18249
+this one takes most of what has already been mentioned into consideration but includes hex and octal numbers negative scientific infinity and has removed decimal scientific 4e3.2 is not valid
+18284
+i don t usually have any issues learning new languages or technologies so i m not worried about which is the best language or web stack to work with
+18327
+i agree that cygwin openssh is the best choice but its setup can be involved to say the least
+18327
+i agree that cygwin openssh is the best choice but its setup can be involved to say the least
+18407
+if i have a variable in c# that needs to be checked to determine if it is equal to one of a set of variables what is the best way to do this
+18672
+tail is the best answer so far
+18901
+for html xml html tidy is the best option
+18901
+for html xml html tidy is the best option
+18929
+this is the best you can do as far as i know.
+19383
+in this example tail spends most of it s time waiting for more data on the buffer and cat spends most of it s time waiting for the operating system to retrieve data from the harddrive
+19383
+in this example tail spends most of it s time waiting for more data on the buffer and cat spends most of it s time waiting for the operating system to retrieve data from the harddrive
+19395
+for the most native-like apps however interface builder is your best bet
+19395
+for the most native-like apps however interface builder is your best bet

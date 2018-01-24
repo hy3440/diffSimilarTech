@@ -1,0 +1,688 @@
+3511
+
+according to bodmas multiplication should always be done before addition therefore 17 is actually the correct answer according to bodmas and will also be the answer which your calculator will give if you type in 2 + 3 x 5
+
+3776
+
+once they are added they could be flipped through using hide show or bringtofront sendtoback methods
+
+4725
+
+also i want to add even if you find places where lisp will make sense you will probably not convince anyone else that it should be used over java c++ c# python ruby etc
+
+5494
+
+external incoming requests will be using the host header portal.mycompany.com and be forced to use ssl
+
+5607
+
+with identity page fill factor is pretty useless as a tuning mechanism and might as well be set to 100 - rows will never be inserted in any page but the last one
+
+6120
+
+set a threshold score such that any matchscore threshold will not be considered a match for a given companyname
+
+9144
+
+honestly i doubt that you ve got a lot of incoming developers who suck with c++ but would be awesome with python anyway
+
+13100
+
+any changes to the value of an out or ref parameter will be passed back to the caller
+
+14515
+
+we use nunitlite although i think we did have had to add some code to it in order for it to work
+
+15712
+
+there were some excellent suggestions already but i just wanted to mention that perl can also be called can call to c c++
+
+15712
+
+there were some excellent suggestions already but i just wanted to mention that perl can also be called can call to c c++
+
+15838
+
+the practice of programming be improved using any of c s native utilities if i set the i variable to be a register variable
+
+15838
+
+the practice of programming be improved using any of c s native utilities if i set the i variable to be a register variable
+
+16746
+
+thus when debugging you can get the debugging feed when you want to see completed transactions you go to the transactions feeds etc
+
+17120
+
+before leveraging cruisecontrol to it s fullest extent you need to create an automated build script that can be run by msbuild or nant
+
+18448
+
+it seems wcf could ve been an option but i prefer not to upgrade from .net 2.0
+
+19138
+
+function call expressions can also be considered statements of course but unless the execution environment has a special built-in variable to hold the returned value there is no way to retrieve it
+
+20426
+
+it can be assumed that leaf nodes will stay as leaf nodes interior nodes will stay as interior nodes and the whole thing will remain as a proper tree
+
+20607
+
+strtotime and getdate are two functions that can be used to get dates from strings and timestamps
+
+21137
+
+i would have thought that templates be readily available for nunit xunit mbunit et
+
+22140
+
+is there a way of compiling apache http server so its installation location s can be specified dynamically using environment variables
+
+23481
+
+the zip file produced can not be updated via winzip or win-rar -- each indicates the archive is corrupt
+
+24995
+
+classes can be written in scala then extended in java for example
+
+25100
+
+depending on how your host is set up you may be permitted to place a php.ini file in the root of your home directory with extra configuration directives
+
+27622
+
+the trace macro can be used to output diagnostic messages to the debugger when the code is compiled in debug mode
+
+27638
+
+additionally the aforementioned parsing process can be extended through reader macros that let you customize the way your compiler turns text into s-exps
+
+28319
+
+output can be exported to xml postscript csv or plain text
+
+28700
+
+it stands as much of a chance to be installed as python or ruby
+
+28947
+
+when you compile without the debug flag set any call to writedebug will be removed as was assumed was happening with debug.write
+
+29852
+
+with that setup the svn revision number of the metarepository could possibly be used for versioning the complete system
+
+30995
+
+occasionally while attempting to save a crystal report that i m working on in vs2008 a dialog titled file save failed pops up saying the document could not be saved in c users phillip appdata local temp xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx .rpt
+
+34566
+
+in other words the default implementation of object.gethashcode is going to be based on reference equality since there are no real instance fields to use and therefore does not guarantee unique return values for different objects
+
+36291
+
+if it doesn t then the property code queries the database and computes it then stores the value in the _total field so that it need not be recomputed the next time it s requested
+
+37024
+
+also some tools some o r mappers expect object data to be represented by properties and do not recognize public or protected member variables
+
+38769
+
+the application can be written in perl vb6 vb.net or c# but must be easily scheduled from a windows based server
+
+38839
+
+common lisp code can be converted into scheme code with relative ease
+
+41524
+
+it will be duplicated for each branch tag in your revision control system remember in most svn system copies are cheap
+
+42007
+
+the synchronization is going to be a little messy perhaps but it can be simplified if each app has its own framebuffer and the sync program points the video controller to the correct framebuffer inbetween frames when switching to the next app
+
+43472
+
+if you append a span containing ellipses to the end of each query a simple logical test in javascript with a bit of css manipulation could be used to hide show them as needed
+
+46053
+
+i like the sound of combinatorial tests in mbunit i ve tried the abstract base class interface test technique with nunit and although it does work you d need to have a seperate test fixture for every interface a class implements since in c# there is no multiple inheritance - although inner classes can be used which is pretty cool
+
+46165
+
+you can then have ssrs export the report to about 10 different formats and send to the client including pdf excel html etc
+
+50861
+
+you can set __malloc_hook __free_hook and __realloc_hook to point to functions which will be called from malloc realloc and free respectively
+
+57528
+
+i seem to recall reading somewhere that the command object shouldn t be used in vbscript or jscript because of security vulnerabilities but i can t seem to find that article
+
+57936
+
+a compiled c# .exe contains platform-independent code that can be run in any .net-compatible environment including mono
+
+59412
+
+that may have been the case long long ago but any self-respecting query optimizer will choose some fast method to count the rows in the table - there is no performance difference between
+
+60487
+
+have used this for over a year on wordpress ip.board and mediawiki sites and have absolutely zero spam
+
+61029
+
+in order for the #make and #model divs to sit side by side with out the use of floats they must be displayed as inline elements so add display inline to both #make and #model note that this will lose the vertical margin on those elements so you might need to make some other changes to get the exact layout you want
+
+61462
+
+in this example var is an array and the contents can be accessed using the construct var index where index is the array index starts with 0
+
+61924
+
+you can set a simple rule described in your header file that any variables to be accessed external to the class must be accessed via the property or by using custom methods on the class to affect values
+
+63084
+
+the multiple gets must be replaced by an equal number of puts before another thread will be allowed to get the mutex
+
+66924
+
+according to yahoo s documentation for geoplanet requests are made in the form of an http get messages which can very easily be made using python s httplib module and responses can take one of several forms including xml and json
+
+66924
+
+according to yahoo s documentation for geoplanet requests are made in the form of an http get messages which can very easily be made using python s httplib module and responses can take one of several forms including xml and json
+
+67388
+
+tuples are the cheapest kind of containers in python they are also hashable so they can be used as dictionary keys set members etc
+
+67798
+
+works to match any from line but i want it to be restricted to lines in the body anything after the first blank line
+
+69474
+
+note after a bit more thought - you d need to have these covers be linked so clicking on them would take you to where the tab was supposed to which means you could should do this with the anchor element set to display box width and height set as well as the transparent background image
+
+70881
+
+precedence rules specify priority of operators which operators will be evaluated first multiplication has higher precedence than addition pemdas
+
+71336
+
+jedit was kinda big in 2004 but now notepad++ seems to have taken the lead on windows
+
+71371
+
+the last parameter to builder.node is array list of other nodes to be appended as children according to the wiki
+
+72214
+
+you can start a replication by creating a database from scratch and you can control either the updates will be done by updating the available client database or simply recreating the database
+
+73946
+
+the worksheet object has three properties that can be used to access cell data cells rows columns and a method that can be used to obtain a block of cell data get_range
+
+74420
+
+basically you are enabling your .net classes to be called through com activex from your win32 code delphi or c++
+
+77018
+
+there is nothing useful in soap that can t be done with rest for transport and json xml or even plain text for data representation
+
+77166
+
+since python is far less ubiquitous than php i wouldn t be surprised if hosting developer and other maintenance costs for it long term would have it fit this scenario
+
+78217
+
+must be able to be accessed from any number of web applications on just about any platform windows nix php asp c# python django et cetera
+
+79774
+
+so for example if i have an expiry set to 08 march 2008 i want that value to be returned to any client - no matter what their timezone is
+
+80478
+
+when invoked as a constructor a new object will be created and this will be bound to that object
+
+83907
+
+there is the following levenshtein distance algorithm which assigns a value to the similarity of two strings well the difference actually that could be used to build upon
+
+84253
+
+the distance can be used to gauge the similarity of your tracks
+
+84504
+
+as well an element you give a specific id to can be manipulated via javascript and dom commands - getelementbyid for example
+
+85386
+
+what may have confused the author of the thinkvitamin article is the fact that hitting enter in the address location bar in safari and opera results in different behavior for urls with query string in them
+
+86325
+
+note the abort message will be written to stderr as opposed to puts which will write to stdout
+
+86812
+
+for example a single abstract class that can have child nodes if no children its a leaf if no parent its a root but this can change in its lifetime
+
+88157
+
+in case a new value cannot be accepted you can cancel data update bringing back the previous value in the field
+
+90039
+
+although the csla framework is written in .net the overall approach can be used in any language
+
+92135
+
+now if you use primitive types instead like int or float and pass them as method parameters changes in object c cannot be seen by object a because object a merely passed a copy instead of a reference of its own copy of the variable
+
+94838
+
+just a note iteration over all elements in a map is o n so it would be guaranteed o n not worse to look up the way you are thinking of doing it
+
+96163
+
+it is possible for iptables i guess your suse has iptables firewall to be setup to let trough only ping icmp packets
+
+98237
+
+javascript prototype can be used to extend existing objects much like c# extension methods
+
+98915
+
+it also can be used to process documents that are generated in another language php ruby which i imagine is not practical except to help in transitioning existing applications to use jaxer
+
+104264
+
+when you move to the server iis something that you would have had access to in cassini doesn t work the same
+
+104939
+
+deletepersoncommand will have the execute and in the execute can check attribute that will be passed by getter setter previously the call of the execute
+
+105817
+
+if you have solid proof using the query plan that the query can t be executed any faster than that then you should increase the timeout there s no other way to keep the connection that s the purpose of the timeout to terminate the connection if the query doesn t complete in that time frame
+
+106628
+
+otherwise they should just be used to handle the unexpected and exit gracefully while capturing as much information as possible to help with debugging
+
+106847
+
+java ee is actually a collection of technologies and apis for the java platform designed to support enterprise applications which can generally be classed as large-scale distributed transactional and highly-available applications designed to support mission-critical business requirements
+
+107691
+
+most awk one liners can be achieved with perl one liners - if you choose to get into a perl one liner mindset
+
+108189
+
+that same method of console.writeline can be invoked from c# vb.net pascal c++ ruby python f# and any other language that has been made to work on top of the .net platform
+
+108949
+
+and because it also detects ssl you wont have to worry about weather your resources will be sent over http or https if you ever add ssl support to your server
+
+112138
+
+the windows system api is a bit weird and frustrating if you expect the same flexibility as with basic js objects but they do have thorough documentation if you can handle digging through the msdn pages and seeing all the examples in vbscript
+
+113879
+
+edit i can t think of a c++ library with the type of pluggable persistence mechanism you re describing but i did something in python that could have had this type of facility added
+
+116038
+
+a fully correct standard-compliant and portable solutions could be constructed using std ifstream s rdbuf into a std ostringstream and from there into a std string
+
+116038
+
+a fully correct standard-compliant and portable solutions could be constructed using std ifstream s rdbuf into a std ostringstream and from there into a std string
+
+116063
+
+tex can be converted to mathml for browsers which support it thus
+
+117370
+
+the logging application block has a instrumentation event that can be used to trace events you can find more info on the ms enterprise library docs
+
+118504
+
+it s arcane but one can learn enough rtf to create simple formatting and printing print previewing can both be implemented using native classes as well
+
+118504
+
+it s arcane but one can learn enough rtf to create simple formatting and printing print previewing can both be implemented using native classes as well
+
+119538
+
+the lua version posted above is faster but relies on the truncation of double to a 32-bit result therefore it requires the x87 unit to be set to double precision and cannot be adapted for double to 64-bit int conversion
+
+122571
+
+edit sorry i should ve specified jndi to lookup the db connection and jdbc to perform the operations
+
+123002
+
+now before i started using an inversion of control container i would have created a factory and maybe even a simple objectsettings object for each of the objects that requires more than 1 setting to keep the size of the constructor to the recommended less than 4 parameter size
+
+124797
+
+there is no advantage to be gained by switching from perl to python
+
+124797
+
+there is also no advantage to be gained by switching from python to perl
+
+126056
+
+some methods will be left private and tested implicitly as part of unit tests for the public protected methods
+
+126481
+
+although trac can be configured to use mysql or postgresql too
+
+127017
+
+looks like i may just be stuck with downloading editing and re-uploading the document
+
+128958
+
+if that works your imagemagick and ghostscript installations are basically ok and something needs to be done in magicknet or your app
+
+129369
+
+the system.componentmodel.typedescriptor stuff can be used to add attributes to types properties and object instances and it has the limitation that you have to use it to retrieve those properties as well
+
+130678
+
+when decoding the letters a truncated final block can be filled out with zero letters and converted to a 47-bit base 2 representation
+
+132295
+
+my question is how this can be done in weblogic webspehre glassfish etc.
+
+132885
+
+is there an easy way to do this based on some variable so that the configuration doesn t have to be revised when deploying to a new environment every time
+
+134149
+
+when invoked as a constructor a new object will be created and this will be bound to that object
+
+134374
+
+for example when an element is appended by anything to the document i would like to be passed that element to act on it like
+
+135257
+
+ref parameters are for data that might be modified out parameters are for data that s an additional output for the function eg int.tryparse that are already using the return value for something
+
+139218
+
+while you might find a solution that works for strings for numerical predicates you need to also make sure they re only passing in numbers simple check is can it be parsed as int double decimal
+
+140469
+
+i think hudson can even be used to call ant tasks though a maven wrapper might be in order
+
+141873
+
+all of these operators can be applied to integer values int long possibly short and byte or char
+
+142165
+
+if you remove the generic constraint above where t entity you could make this a generic rules engine that could be used with any poco
+
+144467
+
+and use a component that has a prompt to show the prompt and enable input and a also follows the usual shell abstraction of having stdin an inputstream that reads from the prompt but can be bound to let s say files or so and stdout and possibly stderr outputstreams bound to the textarea s text
+
+144771
+
+and just as a complete set of tax forms includes not just the main tax form but others that may need to be filled out additional schedules for example so a package contains not just the main classes but other classes it may need to interact with
+
+146189
+
+you can either encrypt the http connection via https or there are md5 and other hashing algorithms implemented in javascript that can be used client side to hash the password client side before sending it hence stopping a sniffer being able to read your password
+
+146463
+
+i d have to check up on how annotations work in java though but this stuff could easily be done with python annotations.
+
+151079
+
+this seems to be broken in ff and ie but work in opera safari and chrome
+
+153419
+
+asynchronous testing cairngorm events can also be done with flexunit but is not as elegant as with dpuint
+
+156009
+
+because of the more tedious way of adding hosts to be monitored in nagios it requires defining a host object as opposed to the previous program which only required the ip and hostname i figured it d be best to automate this and it d be a great time to learn perl because all i know at the moment is c c++ and java
+
+156684
+
+can be used for security - pass in some kind of value to identify the client - from their the webserver will either deny or grant access to the client dependant on some criteria - maybe a lookup list
+
+157151
+
+furthermore setting the icon of the form from a png is an unessecary performance hit it should have been an ico in the first place
+
+158997
+
+that is rather than dealing with time and frames in flash one is dealing with describing where components should be placed with mxml and how those components work with actionscript
+
+159002
+
+so yes everything that can be done with mxml can be done with actionscript but not the other way around
+
+159002
+
+so yes everything that can be done with mxml can be done with actionscript but not the other way around
+
+160165
+
+i checked the ..xoml.wfconfig.xml file and set the properties for required to true i set the content type to required and i used share point design to mark them as required
+
+160165
+
+i checked the ..xoml.wfconfig.xml file and set the properties for required to true i set the content type to required and i used share point design to mark them as required
+
+160212
+
+i re-read some things that i had looked at before and discovered that svn externals don t just refer to using code in different repositories but can also be used to use multiple working copies in visualsvn
+
+160592
+
+if you d be allowed to move to something java compatible yet has a syntax that s at least closer to perl than java check out groovy
+
+162107
+
+first off the selenium ide is rather limited you should consider switching to selenium rc which can be driven by java or perl or ruby or some other languages
+
+166159
+
+might have been the rowcount count property for which i read this. the difference is one of them disregards datarow.rowstate and the other respects uses it
+
+166190
+
+using datatable.clear will fail if there are any constraints applied that would be violated but using datatable.reset will get rid of anything and everything that has been put in place since the datatable was created
+
+166754
+
+i installed mono on a gentoo server a couple of weeks ago just to find out that it can t run precompiled asp.net sites you be warned linux ain t made for .net
+
+167871
+
+the next release of eclipse should be based on cocoa rather than carbon which is the current but that won t be until next june
+
+168012
+
+for example mysql and oracle allow multiple nulls in a unique column or set of columns because null is not a value and cannot be considered unique null
+
+168628
+
+json becomes a javascript object pretty quickly and doesn t have to be parsed like xml does
+
+168628
+
+json becomes a javascript object pretty quickly and doesn t have to be parsed like xml does
+
+168752
+
+assuming that doesn t result in too many files for the shell to handle these will all be passed as arguments to cat and the output will be written to out.txt
+
+169234
+
+mono can be run on linux bsd unix mac os x solaris and windows operating systems
+
+170669
+
+apache itself can be configured to function this way although if you are on linux or unix squid is the better option as it is specifically designed to do this very job
+
+171213
+
+if it cannot be done platform-independently linux unix is a priority for me
+
+172672
+
+you either need to wrap it in an enclosing document element whose markup will still be escaped or use a properly-initialized xmlreader to process the value once you ve retrieved it from the configuration
+
+173276
+
+for example if i have a single-bit field isready it may make perfect sense for this field to have a default value of false and null not be allowed but this implicitly asserts that we know that the whatever is not ready when in fact we may have no such knowledge
+
+175004
+
+in this scene only the diagonal line would be considered. for each such line project it into a trapezoid whose front edge is the original line whose sides lie on lines from the light source through each end point and whose back is far away past the whole scene
+
+176110
+
+for a more complicated answer there is such a thing as sample counting clipping detectors that require x consecutive samples to be at the max min value for them to be considered clipping where x may be as high as 7
+
+176110
+
+for a more complicated answer there is such a thing as sample counting clipping detectors that require x consecutive samples to be at the max min value for them to be considered clipping where x may be as high as 7
+
+176225
+
+the reason for this mode is that while everything is ok you don t want to be bothered by extra output and certainly if there is a failure you don t want to miss it because of the noise of other output
+
+177375
+
+most of the stuff can be done in interop but you need a driver to get the filename cause it lives in the kernel s address space
+
+179002
+
+logging behavior can be controlled by editing a configuration file without touching the application binary
+
+179626
+
+visualstudio offers or at least offered a wizard to do a conversion from vb6 to vb.net which could then be converted to c# with a bit of work possibly helped by #develop s vb.net - c# converter but when last i used it for anything non-trivial there was a lot of manual work needing to be done so i suspect you re probably better rewriting or porting by hand if this is a large and or important application
+
+179849
+
+the tools need to be accessed from windows linux various unix s vms and solaris
+
+180528
+
+python has for example a wonderful solution with jpype that automatizes the process although the same solution cannot be applied to c++ due to c++ and python different natures
+
+181153
+
+edit olliej sigh nevermind this only works in safari and ie and i can t be bothered downloading a firefox nightly to see if it exists in trunk -
+
+181341
+
+http goes through a proxy -- i m not too concerned about my traffic being sniffed as it s ssh that ll be going plaintext through the tunnel -- but it s a lot more likely to be mangled than https which fundamentally cannot be proxied
+
+181698
+
+if you only wanted to trap selection of a single column of cells you could insert a hidden column to the right extend the selection to include the hidden cell to the right when the user clicked and this gives you an editable cell which can be trapped every time it is clicked
+
+182008
+
+yes lighttpd can also be used as frontend to apache and or fastcgi
+
+182822
+
+however if you are multiplying your currency numbers by floating-point types or dividing your currency values the rounding does need to be worked out one way or the other
+
+183209
+
+anyone have pointers for properly handling this situation so that the resources in unmanaged code can be cleaned up and a usable exception can be thrown out to the managed code which initiated the whole call stack
+
+185825
+
+in flex and many other languages a function method of a class can be declared private or protected or public
+
+185997
+
+any symlink to the file in bin would be broken by this but a hardlink being a link directly to the inode for the file wouldn t care
+
+186661
+
+jobs consist of a series of steps to be executed in order and when you add a new step to your job you can choose various types of step including transact-sql script
+
+187079
+
+it seems that you are expecting internal classes used in the wcf service which you have marked as datacontracts to be exported as .net objects to your client code the silverlight ui
+
+187713
+
+if a 8-bit unsigned integer were to be used for fixed-point math then the fractional part would be split into 256 evenly divisible parts
+
+188242
+
+i can understand why not all data types would be supported from mysql oracle postgre sql and so forth
+
+188871
+
+it generates random words sentences using determinated rule you choose the site contains very funny things but in italian only the rules can be written in any language.
+
+190245
+
+but mainly it is controlled by the inline keyword and compiler switches for example you can have it auto inline small functions even without the keyword. its important to note that debug compilations should never be inlining as the callstack will not be preserved to mirror the calls you created in code
+
+190470
+
+jeffrey richter documents an almost identical case in clr via c#. when a hash does need to be stored i d prefer it to be calculated in a way which is always guaranteed to be stable - md5 or a custom interface implemented by your types with a guarantee of stability
+
+192254
+
+assign the property to an initial value which can be distinguished from any other value that it might be set to null for reference types
+
+192806
+
+if you want a keyboard shortcut to be used from any control on the form without using a toolbar set
+
+195693
+
+this is the section of code that describes how the object should be instantiated on deserialization - it sets the constructor arguments to three string values
+

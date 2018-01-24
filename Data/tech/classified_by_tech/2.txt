@@ -1,0 +1,16 @@
+9144
+
+honestly i doubt that you ve got a lot of incoming developers who suck with c++ but would be awesome with python anyway
+
+74992
+
+i prefer zsh over bash because of its support for very powerful file globbing variable expansion modifiers and faster tab completion
+
+161559
+
+nowadays i prefer git over svn but it takes a while to get over the threshold if you come from cvs svn land
+
+180497
+
+for excel add-ins as you mentioned in your comment i would recommend delphi over c++ builder because it has better com support which i believe you need for excel add-ins
+

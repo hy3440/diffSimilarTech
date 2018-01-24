@@ -1,0 +1,456 @@
+2562
+
+i found the production of wmv much better and easier than flv because all windows flv encoders i tried are not really good and stable whereas pretty much every tool can natively output wmv
+
+3455
+
+another option is vmware fusion which is much better than parallels in my opinion + windows xp + sql server management studio
+
+12140
+
+this works better in any case much better than having all those objects need some global settings object --- that of course effectively makes unit testing impossible disadvantage can be that you sometimes need to set a dozen of properties or that you need to let those properties percolate into sub-objects
+
+15093
+
+if you have a sql statement like the one above that may change data in more than one row you might want to include a cursor to update all records affected by the trigger
+
+16381
+
+gethashcode should be a lot quicker than equals but doesn t need to be unique
+
+18132
+
+finally what are thoughts on using nhibernate which has been around for a long time and may be more mature than the ado.net entity framework
+
+20752
+
+of course shells do more than that like piping input and output but you should be able to accomplish the basics using fork execve and waitpid
+
+23109
+
+c# - performance wise its far better than either of the big three p s in lamp perl php and python
+
+24035
+
+in fact your going to get a value bigger than an integer can hold 4 billion unsigned 2 billion signed before the stack is going to over flow fibbonaci 46
+
+24564
+
+i have found that visualsvn is about 50 slower than running svn as a native service
+
+25105
+
+and of course the bsd man pages which are an excellent resource as they are maintained to a far greater extent than your average linux man-page
+
+27443
+
+in most regards postgresql is slower than mysql especially when it comes to fine tuning in the end
+
+28276
+
+vmware is beefer and sucks more of the system s performance away by default also seems to perform somewhat better than parallels but can have serious graphical problems depending on your setup particularly if you try to use unity mode
+
+34338
+
+i found simpletest was even easier than phpunit to set up
+
+36398
+
+since hbase and hypertable are all about performance being modeled on google s bigtable they sound like they would certainly be much faster than hive at the cost of functionality and a higher learning curve they don t have joins or the sql-like syntax
+
+39616
+
+i like tools that will perform more than one task notepad++ is a great notepad replacement and has a document monitor plugin installs with standard msi that works great
+
+41069
+
+here the first argument is the window that owns the dialog box the second is the title of the window and the third is the default path to start at you need the at the end otherwise it ll start a directory higher with the user s home folder selected
+
+42888
+
+an xpath style api might be better than a dom api in that case - it might you decouple the nodes from the tree a bit more and treat the mutated tree more intelligently
+
+43037
+
+if your core requirement is a data-interchange format lighter than xml then you might want to consider using json instead of yaml
+
+43548
+
++1 for visualsvn being better than ankhsvn having tried both and +1 for the fogbugz add-in
+
+43548
+
++1 for visualsvn being better than ankhsvn having tried both and +1 for the fogbugz add-in
+
+43743
+
+i found some wild remarks that asp.net mvc is 30x faster than asp.net webforms
+
+49953
+
+java has much better performance than python and has way better tool support
+
+49953
+
+sometimes those things matter a lot and java is the better language than python for a task
+
+50909
+
+vimeo will always have fewer users than youtube because the user experience is poor for low bitrate users
+
+53056
+
+if you do this just keep in mind that the hashtable s size needs to be set bigger than your dataset when you start otherwise you are going to rehash the data which will trigger reinserts and more equals evaluations though possibly more realistic
+
+54827
+
+scala has much lighter syntax than java has a repl is statically typed and runs on the jvm - you might give that a shot as well
+
+55855
+
+is there an easier way than subclassing the textbox and implementing icommandsource to hook up the textchanged event to my viewmodel class
+
+58301
+
+speed is usually faster than gdi and slower than directx and depends greatly on how you do things seen something to work 60 times faster after rewriting in a sensible way
+
+61138
+
+performance is the main downfall with python being somewhat faster than ruby as i understand it
+
+61734
+
+ruby will expose you to more concepts than python does due to it being more liberal in how it handles things like lambda functions code blocks eval and so on
+
+62198
+
+personally i feel that you can get pretty far by checking that you get the right results 1+1 should return 2 in a addition function trying out all the boundary conditions you can think of such as using two numbers of which the sum is greater than the integer max value in the add function and forcing error conditions such as network failures
+
+67312
+
+transcendental functions are always much more slower than addition or multiplication and a well-known bottleneck
+
+67312
+
+transcendental functions are always much more slower than addition or multiplication and a well-known bottleneck
+
+67714
+
+https traffic is much bigger than its equivalent http traffic due to encryption and certificate overhead and it also puts a bigger strain on the server encrypting and decrypting
+
+67931
+
+for instance try using the w3c dom more for more than just trivial javascript
+
+70423
+
+but there are many citations of real world tests which show that heapsort is significantly slower than quicksort on average
+
+70881
+
+precedence rules specify priority of operators which operators will be evaluated first multiplication has higher precedence than addition pemdas
+
+74327
+
+this is also the reason why gc can be faster than malloc free
+
+75798
+
+ruby has similar issues and although i do like ruby much better than i like python i get the impression that rails is roughly in the same boat at django when it comes to managing supporting the app
+
+77086
+
+i know that serving a python base webpage via cgi is slower than php because of its long start up every time
+
+77328
+
+i really do not get the appeal it s marginally better than textwrangler bbedit s free little brother but if you re spending money you may as well buy the better tool for a few dollars more
+
+77328
+
+i really do not get the appeal it s marginally better than textwrangler bbedit s free little brother but if you re spending money you may as well buy the better tool for a few dollars more
+
+78327
+
+your second solution of using ldap for authentication and a db for authorization seems more robust as the ldap data is controlled by the user and the db would be controlled by an admin
+
+83952
+
+also of note vmware forbids any type of benchmarking to be posted on the internet unless if they authorize the data you will not see any benchmarks that show vmware as slower than tech x the rumor mill states that you can see better performance with hyper-v xvm sun s enterprise version of virtualbox and xen
+
+84408
+
+and as for what makes python easier than java you might check out this question java - python
+
+84438
+
+testing the distance between rectangles is easier than testing the distance between polygons and you can immediately eliminate any polygons that are more than nearest_rect + its_diagonal away possibly you can refine that even more
+
+86346
+
+my personal take is that the wcf approach is more clean as you can do contract-driven services and focus on messages not objects i m making a generalization here based on the default programming models of wcf .net remoting
+
+88047
+
+drupal tends to be more developer-friendly than end-user friendly so if you re not a developer it is harder to grasp than something like joomla
+
+95373
+
+also python and perl are older than java and c# from the days when it was illegal to export cryptographic software from the us
+
+96689
+
+from a practical perspective i generally consider any select that ends up taking more than 10 lines to write putting each clause condition on a separate line to be too long to easily maintain
+
+101066
+
+i have set up another question for any task that takes more than a minute or two and so ought to be scheduled into a deployment process
+
+101169
+
+you can validate that and much more by using an xml schema language like xsd
+
+101381
+
+that s one reason why going from hex to binary is much easier than from decimal to binary
+
+103591
+
+doing some tests if you connect to a database even with a slow dynamic language like perl and perform some row by row operation on a dataset the speed will still be much greater than a cursor in the database
+
+104770
+
+you can make more than one movieclip dragging at once using events mousedown mousemove and mouseup
+
+108030
+
+if you want to get reliability out of udp then you re basically going to be re-implementing some of tcp s features on top of udp which will probably make things slower than just using tcp in the first place
+
+108980
+
+in the most cases setter and getter do more as only setting and getting an internal field
+
+109735
+
+if you really need very quick estimation you can do work breakdown structure with every task for 1-2 days or smaller and after this estimate every task by providing min and max estimated values
+
+110564
+
+with this technique you can quickly test for factors near the square root of n much faster than by testing individual primes
+
+110564
+
+with this technique you can quickly test for factors near the square root of n much faster than by testing individual primes
+
+115838
+
+as a general rule png is never worse and often better than gif because of superior compression
+
+116210
+
+indexed png less than 256 colors is actually always smaller than gif so i use that most of the time
+
+116461
+
+if your png files are coming out larger than equivalent gif files it is almost certainly because your source image has more than 256 colors
+
+116461
+
+if your png files are coming out larger than equivalent gif files it is almost certainly because your source image has more than 256 colors
+
+116461
+
+it is possible to hack a gif file to have more than 256 colors using a combination of animation frames with do-not-replace flags and multiple palettes but this approach has been virtually forgotten about since the advent of png
+
+118503
+
+yes purely asymmetric encryption is much slower than symmetric cyphers like des or aes which is why real applications use hybrid cryptography the expensive public-key operations are performed only to encrypt and exchange an encryption key for the symmetric algorithm that is going to be used for encrypting the real message
+
+120530
+
+i never found parallels to be much faster or slower than vmware - it often would be a case of the state of the vm i was running the host machine itself and the app s i was running within the vm
+
+122033
+
+i wasn t trying to imply that linq is better than ruby python
+
+123002
+
+now before i started using an inversion of control container i would have created a factory and maybe even a simple objectsettings object for each of the objects that requires more than 1 setting to keep the size of the constructor to the recommended less than 4 parameter size
+
+123076
+
+edit double metaphone was specifically designed to be better than soundex and work in languages other than english
+
+124612
+
+perl is generally better than python for quick one liners especially involve text regular expressions
+
+128221
+
+unfortunately g++ packed the structs significantly looser than gcc which caused significant problems sharing objects between c and c++ code
+
+128221
+
+unfortunately g++ packed the structs significantly looser than gcc which caused significant problems sharing objects between c and c++ code
+
+130264
+
+amazon doesn t support more than one set of credentials per account
+
+133271
+
+if a function is static thus not exported anyway and only called once within your code and you never use a pointer to the function chances are good that gcc will decide to inline it automatically as it will have no negative impact the binary won t get bigger by inlining it only once
+
+134705
+
+one key is to understand that javascript dom call are way slower than html parsing
+
+137962
+
+if my memory serves correctly the private keyword is the only way to create a privately scoped property getter or setter when its opposite has greater than private accessibility
+
+138034
+
+you also might want to consider opensolaris as it is from the same company which developed java in the first place and i ve heard rumours that it supports threading better than linux does and in java threads are quite important
+
+138306
+
+even in scalar code loading 8-bit or 16-bit values is no slower than loading 32-bit since movzx movsx is no different in speed from mov
+
+138306
+
+even in scalar code loading 8-bit or 16-bit values is no slower than loading 32-bit since movzx movsx is no different in speed from mov
+
+139120
+
+i suspect codeigniter doesn t have quite as flexible a structure it s smaller and lighter than cakephp but a quick look at the cakephp manual to see how behaviors components helpers and the vendors folder may be helpful
+
+140359
+
+it certainly looks nicer and has better usability than mantis or bugzilla but it s not open and it makes some tradeoffs for a simpler interface
+
+145087
+
+if its mainly cpu bound then i would create no more than 1 worker thread per processor core on the box
+
+147392
+
+emacs or vim is not significantly better than vim or emacs
+
+147887
+
+the overhead of allocating memory and copying the data to a thread before it can be partioned will be much slower with mpi and an unlimited number of processors than quicksort running on a single processor
+
+149164
+
+your web server should use compression for this extension and your code should check if the number of rows returned is greater than what excel can display in one worksheet
+
+149445
+
+bottom line making lots of short requests over https will be quite a bit slower than http but if you transfer a lot of data in a single request the difference will be insignificant
+
+150435
+
+this means that from the user s perspective pages with plenty of static content will appear to load slower after the browser is restarted and from your server s perspective the volume of requests for static content over https will be higher than would have been over http
+
+163280
+
+if you have more than 6 lines wihtout a blank line then that group is probably not a cohesive thought idea operation
+
+168371
+
+i work in php in the lamp stack so i don t have to handle bunches of external libraries the way i probably would if i was using perl and the projects i develop on lamp are usually simpler than my windows development
+
+168914
+
+however for some reason the java implementation of treeset is quite a bit slower than using an arraylist and a sort
+
+169083
+
+instead of testing the width see if the height of the element is more than one line measured in ems since you ll be changing the font size around
+
+170948
+
+here is a solution in scheme because i know that better than common lisp and have an interpreter for checking my work
+
+172734
+
+i had a nice 4 processor machine that wouldn t use more than 1.2 processors at a time
+
+172794
+
+i m surprised no one mentioned shedskin it automagically converts your python program to c++ and in some benchmarks yields better improvements than psyco in speed
+
+172833
+
+this has scaling problems selecting from really large datasets but so do all the less-normalized schemas sorting and filtering by a text field will probably always be slower than using an integer for example
+
+174920
+
+are you sure the frame fits completely within the screen and contentsize s width is not greater than the scroll view s width
+
+175266
+
+in this case i would argue that using functions to perform the action and update the state is better than having a setter getter that performs an action as a side-effect of updating the property
+
+175686
+
+i don t think you can make it any easier than using remove add if you are using a set
+
+177346
+
+however slapping labels on methods is faster than building logic to show hide buttons or do security validation in code
+
+177346
+
+however slapping labels on methods is faster than building logic to show hide buttons or do security validation in code
+
+178555
+
+yes vhdl was once much more feature-rich than verilog but later revisions of the language verilog 2001 verilog 2005 systemverilog etc.. have cherry-picked most of the interesting features and there is far more robust toolchain support for verilog and its variant these days in addition to it being the dominant language in use in the us in my experience vhdl is only used here when dealing with extreme legacy blocks and in academic contexts partially due to the tools support mentioned previously
+
+180358
+
+i like the vcl gui stuff delphi seems more suited to windows api calls than vb6 i really like the fact that it s much better at oo than vb6 and i like the unit-testing framework that comes with the ide
+
+192409
+
+if you don t support this in the base class you ll run into major problems when you try to implement anything more complex than a textbox and a button
+
+194130
+
+it is much better than ant because for most common tasks you don t have to write a complicated build.xml maven has very good defaults and it s all convention over configuration
+
+194306
+
+since it will take a while to work out the nuances you ll probably be happier with a dynamic language like python or ruby than with a static language like java or c#
+
+194596
+
+is your own dsl and vm better than java or python
+
+196705
+
+anyway the most important issue is that web2py is easier than django pylons php and rails
+
+196705
+
+anyway the most important issue is that web2py is easier than django pylons php and rails
+
+198148
+
+in general a commit is much faster than a rollback but in the case where you have done nothing they are effectively the same
+
+198624
+
+because representation of a given problem with a nfa is far easier than the equivalent dfa
+
+199290
+
+decoding nullpointerexception is going to take a bit longer than illegalargumentexception filepath must be supplied or whatever
+
+199290
+
+decoding nullpointerexception is going to take a bit longer than illegalargumentexception filepath must be supplied or whatever
+

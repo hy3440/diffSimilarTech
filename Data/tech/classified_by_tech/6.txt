@@ -1,0 +1,100 @@
+12167
+
+i m not sure that this is the best way to do it but when i m deploying ruby gui apps not python but has the same problem as far as .exe s are concerned on windows i just write a short launcher in c# that calls on my main script
+
+18249
+
+this one takes most of what has already been mentioned into consideration but includes hex and octal numbers negative scientific infinity and has removed decimal scientific 4e3.2 is not valid
+
+23232
+
+as expected perl supports the greatest variety of operators but python looks equally capable if not more so
+
+54403
+
+debian live provides the best tools for building a linux live cd
+
+54403
+
+debian live provides the best tools for building a linux live cd
+
+61317
+
+but looking at wpf xaml silverlight they seem very large technologies and so where is the best place to get start
+
+70427
+
+if an attacker can choose the input to be sorted he can easily construct a set that takes the worst case time complexity of o n 2
+
+75151
+
+learn macros because vim is the best for automated tasks and snippet insertion like formatting a few words into a complex xml tag or converting a csv to an html table
+
+86693
+
+the distance between the polygons is at most r
+
+103711
+
+given an unsigned int 0 is 0 or 360 degrees and the max 32 bit unsigned integer 0xffffffff is the biggest value just below 360 degrees
+
+111780
+
+kerberos uses udp ssl uses most of the time tcp
+
+111780
+
+kerberos uses udp ssl uses most of the time tcp
+
+112266
+
+however i think the wikipedia entry on png and gif formats is the best place to start
+
+117091
+
+groovy is the best java alternative i ve seen that includes features of dynamic languages including closures run-time class extension etc
+
+131369
+
+this is because most public subversion projects either use http or if https they don t use a certificate with full cert chain
+
+141798
+
+using display none in conjunction with javascript and css is the easiest way of simply showing or hiding dom elements on the fly
+
+160592
+
+if you d be allowed to move to something java compatible yet has a syntax that s at least closer to perl than java check out groovy
+
+166865
+
+despite the title hardcore visual basic is the best and the fastest way to learn vb6 if you are coming from another programming language
+
+167471
+
+if this is the best way is there any way around having to set each parameter twice in jdbc
+
+168060
+
+7.2 6 for an enumeration where e min is the smallest enumerator and e max is the largest the values of the enumeration are the values of the underlying type in the range b min to b max where b min and b max are respectively the smallest and largest values of the smallest bitfield that can store e min and e max
+
+168060
+
+7.2 6 for an enumeration where e min is the smallest enumerator and e max is the largest the values of the enumeration are the values of the underlying type in the range b min to b max where b min and b max are respectively the smallest and largest values of the smallest bitfield that can store e min and e max
+
+169094
+
+i ve always held onto the belief that a classic waterfall or hybrid waterfall iterative prototyping is the best approach for medium to large projects
+
+169677
+
+that said one of the most important problems programmers not-so-competent with javascript make is that most pieces of code accessing dom elements tend to create memory leaks which is the highway case for most web developers
+
+174454
+
+aptana studio is the best in my opinion it s based on eclipse and subsequently java so it will run on pretty much anything and has design views supporting firefox opera and safari on os x and windows i assume it does other browsers as well if they are installed
+
+176144
+
+second safari has the greatest standards support combined with a marketshare which isn t negligible opera is just hard to justify for cost benefit reasons
+

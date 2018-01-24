@@ -1,0 +1,12 @@
+28130
+
+if it will be used frequently and if it will be extended in the future i would almost recommend adding either python or lua into your code
+
+66508
+
+every industry expert i ve heard on podcasts blogs and interviews recommend learning silverlight first and then gradually moving to wpf which is a huge ui framework
+
+135656
+
+the everything-is-an-object model in python is what made me oo programming really click for me - and as a former php programmer and doubly-certified zend engineer i strongly recommend exploring python s oo if you want to understand what oo is all about
+
