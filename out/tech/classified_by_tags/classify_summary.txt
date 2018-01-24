@@ -1,7 +1,7 @@
 Id from 0 to 99999
  in 2084.59488416
 Comparative sentences: 284
-Sentence number: 11212
+Sentence number: 5606
 Pattern 10: 44 sentences
 Pattern 1: 21 sentences
 Pattern 0: 51 sentences
