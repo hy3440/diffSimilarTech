@@ -1,0 +1,408 @@
+233
+some places list more than this key others just this key so you may need to test a little bit to find the proper one s
+233
+some places list more than this key others just this key so you may need to test a little bit to find the proper one s
+601
+i d like a similar function class for c++ or c# which can generate more than 32 bits of randomness and which low-order bits are equally as random as high-order bits
+635
+for the books generating xml is much easier than parsing
+875
+also it s much faster than svn
+1145
+it s trivial to do if the search and replace strings are the same length or the replace string is shorter than the search string since i have enough space allocated
+1174
+judging by your example property would you be better of with a class approach for the final level and real properties
+1339
+i if destination does not exist and copying more than one file assumes that destination must be a directory
+1347
+you will probably find better support with nant
+1347
+i would learn both and use which every fits more smoothly with your environment
+1949
+additionally there would be some table classes that would exist in more than one datacontext
+2033
+is slower than by reference since the system has to copy the parameter
+2033
+is slower than by reference since the system has to copy the parameter
+2064
+as matthew stated you really shouldn t bother an rss feed more than the producer allows but you can use http headers to check for changes in a very light way which is something rss2email does quite well
+2310
+if you have more than one project you might want to replicate this kind of structure under each project
+2369
+this is an alternative way datareader is faster than this one
+2384
+the stream contains more information than i m trying to read since i m not interested in data at the end of the file
+2538
+note that monads let you do more than handle side-effects in particular many types of container object can be viewed as monads
+2538
+note that monads let you do more than handle side-effects in particular many types of container object can be viewed as monads
+2538
+superficially it might seem a little like a mathematical function mapping reals to reals but a c++ function can do more than just return a number that depends on its arguments
+2562
+i found the production of wmv much better and easier than flv because all windows flv encoders i tried are not really good and stable whereas pretty much every tool can natively output wmv
+2703
+previous version would fail for input string longer than 4000 chars
+2862
+i m not sure how lightweight it is but it certainly feels snappier than eclipse
+2901
+also any forms that you show non-modally will continue to run alongside your main form which will enable you to have more than one windows that do not block each other
+2938
+joey i believe anything is lighter than eclipse
+2984
+from what i understand it does a bit more than just syntax analysis
+3112
+the problem is that the value will be a scalar when there is only one value and it will be an array reference when there is more than one value
+3455
+another option is vmware fusion which is much better than parallels in my opinion + windows xp + sql server management studio
+3801
+my impression is that the cpu in a webserver does not need to be that fast because requests are usually rather lightweight so having more slower cores should be a better choice as we got many small requests
+3932
+they recently also added a personal license that is significantly cheaper than the corporate one
+3974
+values with more than two digits might not work as expected for either your original solution or the x100 trick
+4238
+and of course if you are only wanting to profile a single application each commercial package has a 15 or 30 day trial more than enough time to pinpoint any issues in an existing application
+4299
+that would be more secure than enabling clr support in the database server
+4305
+something like mediatemple - which won t host the worlds fastest websites but for the price is far better than shared hosting
+4305
+something like mediatemple - which won t host the worlds fastest websites but for the price is far better than shared hosting
+4392
+it has to be easier than this though
+4401
+this is cleaner than using a two-step approach of generate script plus run
+4593
+i dont think that mondrian is better than ssas but i do know that its free and you independently distribute it
+4661
+i have more than one openid as i have tried out numerous
+4932
+further edit the reason the second option would print integer is because there is no widening into a larger primitive as an option so it must box it up thus integer is the only option
+5264
+in other words the image if smaller than the dimensions allotted on the design surface will be anchored to the top left corner not in the center
+5264
+my report will know the url of the image at runtime and i need to be able to center this image if it is smaller than the dimensions specified in my designer
+5270
+in addition to being more lightweight than ssms you can also practice writing linq queries- way more fun than boring old tsql
+5310
+considering that i don t think using more than one datacontext would do any harm- in fact creating different datacontexts for different types of work would help make your linqtosql impelmentation more usuable and organized
+5345
+and once you ve learned to work with the page layout system it s usually no harder than table based layout
+5354
+following these two simple rules is worth more than most user interface usability guidelines
+5474
+accessibility is important and maintaining semantic x html is much easier than maintaining table layouts but that #1 spot on google will bring home the bacon
+5683
+from my experience vmware is waaaay better than virtual pc if you can convince your company to use it you wont regret the switch
+5683
+from my experience vmware is waaaay better than virtual pc if you can convince your company to use it you wont regret the switch
+5736
+anything requiring slightly more than simple addition is going to involve pointers and they are sure to get it
+5739
+from what i understand - it s all client side and requires nothing more than their jar file
+5949
+assuming that the web app in question is secure enough to prevent people entering other numbers to view other users without authorization a simple sequentially-assigned surrogate key also leaks the total number of instances older than this one in this case users which might be privileged information
+6134
+how can i best identify the ones that have run for longer than an hour or so
+6369
+how do i call my stored proc with more than 1 value in the list
+6413
+but palmsey is more correct especially if your page could have the possibility of more than one master page
+6553
+when it does break i go back to one higher than where i was previously so if it broke at the 75th floor i go back to the 51st floor and drop the second marble and move up a floor at a time until it breaks at which point i know the highest floor i can drop from with no marble breakage
+6805
+note 2 you ll want to profile this because it ll be bigger and slower than the solution you ve already got
+6906
+i ve heard it said that java is more like write once debug everywhere but that s probably as true as or even moreso than c#
+6911
+i think there are larger problems than performance to worry about
+6913
+my goal is to create a centralized piece of code for managing several ui components in a particular way and then be able to use that both the ui layout and the logic in more than one place
+6980
+it s a lot easier than using a cursor and seems to work fairly well
+6987
+add an .ico file to the application section of the properties page and recieved the error thats been described when i checked the icon file with an icon editor it turn out that the file had more than one version of the image ie 16 x 16 24 x 24 32 x 32 48 x 48 vista compressed i removed the other formats that i didnt want resaved the file just with 32x 32 and the application now compiles without error
+7018
+tons more lines of code much faster than the awk script
+7039
+you can start diving into some funky effectcs and even consider using the gpu for more than it was originally intended
+7090
+other things to consider with the files i ve tested png compresses better than jpeg
+7257
+the try-catch method is the quickest if the object does hold an int and by far the slowest if it doesn t even slower than gettype
+7265
+but i think you are within reason to do it and it s probably going to be a whole lot cheaper than having to fire him and recruit someone new
+7290
+i don t know how you can be more non-technical than that except by saying turing complete means able to answer computable problem given enough time and space
+7478
+if it s being examined on a regualr basis writing to a table amkes the reporting back much easier as it s trivial to reverse the order and only show the last x events for the current time period
+7487
+for the sieve you can do better by using a wheel instead of adding one each time check out the improved incremental prime number sieves
+7492
+more scalability problems would surface at the second stage and even more - after the launch
+7858
+however like it has been mentioned any convention is better than no convention
+7917
+i m importing some data from a csv file and numbers that are larger than 1000 get turned into 1 100 etc
+7937
+does anyone have an even better solution than this one
+7939
+yes join usually is worse than no join at all when it comes to performance but join usually is better than fake join by first reading the whole table a and then using the gained information to read and filter table b
+7939
+yes join usually is worse than no join at all when it comes to performance but join usually is better than fake join by first reading the whole table a and then using the gained information to read and filter table b
+8051
+if there are more than 4 you are right 4s and s would be the same but with fewer than 4 chars in g s would be left justified and 4s would be right-justified in a 4 char field
+8247
+it s limited to 4gb files on windows and it s likely slower than just using a platform-specific call like getfilesizeex or stat64
+8356
+or anything faster than o n then the try catch solution would be faster of course
+8450
+it handles way more than just icons as well
+8462
+i find the bit-shifting easier than typing 4 8 16 32 and so on
+8599
+and it goes without saying that it needs to be smaller than xml and faster to parse
+8762
+everytime i ve used those they have given me much better results than srgb alone
+8910
+you can get warnings errors when the same row has been updated by more than one user
+8941
+create an interface and implement the interface in the extension methods which would probably be cleaner than a bit fat switch
+9144
+you still have to compile but compile times will be shorter than c++
+9247
+if you re calling a stored procedure 30 000 times you have far bigger problems than connection pooling
+9247
+if you re calling a stored procedure 30 000 times you have far bigger problems than connection pooling
+9355
+however i can t work out how to select more than one file
+9715
+torn reads can occur on any value whose fields add up to more than the size of a pointer
+9723
+it was designed as a vector graphics package and is compatible with more browsers than svg and the canvas tag
+9788
+partition i section 12.6.6 of the cli spec states a conforming cli shall guarantee that read and write access to properly aligned memory locations no larger than the native word size is atomic when all the write accesses to a location are the same size.
+9788
+so that confirms that s_initialized will never be unstable and that read and writes to primitve types smaller than 32 bits are atomic
+9796
+that said i have much more experience with ss than oracle so ymmv
+10103
+john s answer referencing the cli spec indicates that accesses to variables not larger than 32 bits on a 32-bit processor are atomic
+10112
+i ve never found anything i like more than cygwin
+10285
+vb.net shouldn t be much slower than c#
+10339
+unless you re communicating with a lot of other native c dlls or so on c# is likely to be between 5 slower to 5 faster than c++ std string really kills you if you re using it
+10339
+unless you re communicating with a lot of other native c dlls or so on c# is likely to be between 5 slower to 5 faster than c++ std string really kills you if you re using it
+10550
+once you know where the keys are you probably just want to practice typing out text and a program like that won t really aid any more than notepad apart from counting your words per minute and giving you something to type
+10552
+i originally had more bitmasking going on instead of comparisons but i seriously doubt bitmasking is any faster than comparison on modern hardware
+10661
+is the action output caching faster than page output caching
+10713
+i don t have a thorough analysis but it was definitely faster than sax
+10756
+more than 1 responsibility its an integration test
+10764
+however this is not really much more than obfuscation since your code is likely to be stored in some source repository somewhere
+10911
+wpf also apparently has poor performance on pre-vista machines when more than one wpf process is running
+10995
+there s nothing worse than having text you cannot read properly.
+10995
+there s nothing worse than having text you cannot read properly.
+11034
+that said tfs is a server connected model so it ll always be a bit slower than true offline source control systems
+11049
+if you have column names that occur in more than one table specifying the table name as part of the column reference is a must and thus a table alias will allow for a shorter syntax
+11088
+working with some low level code occasionally you need to work with bytes that have unsigned values greater than 128 which causes java to interpret them as a negative number due to the msb being used for sign
+11290
+therefore it s not any faster than page output caching
+11588
+no point in writing up all your docs twice and watching things get more and more out of sync
+11646
+it has the same flaws as many other wiki packages e.g difficult to reorganize without orphaning pages but is as good if not better than other wiki packages i ve used
+11661
+it is definately a lot safer than passing void around
+11689
+i m looking for discussion and what issues are important more than i m looking for hard answers
+11704
+for serious wiki users then you probably need something more than the sharepoint provided wiki - either via an extension or a dedicated wiki product
+11974
+basically something better than this
+12140
+this works better in any case much better than having all those objects need some global settings object --- that of course effectively makes unit testing impossible disadvantage can be that you sometimes need to set a dozen of properties or that you need to let those properties percolate into sub-objects
+12166
+it s newer than py2exe and handles eggs quite well
+12184
+if you want to provide general-purpose data that the receiver might want to do unforeseen weird and crazy things with or if you want to be really paranoid and picky about i18n or if what you re sending is more like a document than a struct or if the order of the data matters or if the data is potentially long-lived as in more than seconds xml is the way to go
+12184
+if you want to provide general-purpose data that the receiver might want to do unforeseen weird and crazy things with or if you want to be really paranoid and picky about i18n or if what you re sending is more like a document than a struct or if the order of the data matters or if the data is potentially long-lived as in more than seconds xml is the way to go
+12374
+the second part of my questions is whether unit testing would be is easier with linq
+12815
+implementing features became so much easier after writing a test and we were able to make major architectural changes to the system with all the confidence in the world that everything still worked the same as it did yesterday
+12852
+on consumer sites you could also be hand-wavier under a minute
+12857
+i m using the database because that way i can detect when pages timeout which happens a lot more than i d like
+13094
+that might be more overhead than it s worth
+13197
+i don t know anything better than an iframe
+13214
+it s possible for a thread to be in more than one state at once therefore the threadstate property is actually a bitmap of possible states
+13295
+when coding i use many variables and don t do more than one step on a line
+13463
+if person a is running the project but person b and c want to make changes and share those changes with each other it becomes much easier with distributed source control
+13870
+i think that this approach is much easier than hooking api calls and much less intrusive
+13918
+if that article goes over your head have a look at this documentation first and then re-read the original article i found the article made much more sense after i d used the event library
+14201
+i mostly just use notepad++ but i like babelpad when i need to open a file in a unicode path or when i need to have more control over unicode stuff
+14210
+in general enterprise moves slower than consumer
+14310
+i m having problems using textures that are larger than the opengl window or the display size as non-display render targets
+14374
+it s more than a smtp server you can send thousands of emails from - not sure if that s what you re looking for
+14404
+it goes on in some more detail with diagrams and all
+14607
+most documentation that will be viewed by more than one pair of human eyes
+14690
+it s also easier to make backups - cloning a repository to another location machine disk means i can just push the changes to that location which is even easier with a default push repository
+14759
+this contains a lot of different pieces of advice for getting more speed out of mysql
+14989
+adopting a contrary standard is going to cause more grief than it s worth even if it s something generally recommended
+15034
+it should have more than enough ram to generate the resources
+15077
+if any of our projects ever has enough loc that building takes more than trivial time doing this will also gracefully degrade in the direction of a daily build
+15077
+if any of our projects ever has enough loc that building takes more than trivial time doing this will also gracefully degrade in the direction of a daily build
+15093
+if you have a sql statement like the one above that may change data in more than one row you might want to include a cursor to update all records affected by the trigger
+15195
+if it s technical people without a cs background they ought to be told about the halting problem which is undecidable and is simpler than counting and classifying the remaining bugs
+15222
+if the internal implementation was say a linked list then a simple for loop would be quite a bit slower than a foreach
+15232
+so it appears fairly consistent for is quicker than foreach and arrays are quicker than generic lists
+15310
+i am aware that microsoft has a rule of thumb stating that a ssrs report should take no longer than 30 seconds to execute
+15323
+that said once the physiological leap is taken it more than makes sense - it seems inappropriate to structure objects the old way
+15601
+if you re in the more than two monitor club you ll need two video cards as well
+15635
+is there anything more annoying than having to stop and wait for your tools
+15660
+with a pointer being wider than a character and all the processing associated with indirection you d be mad to use that particular pattern that way in a word processor
+15667
+generally visual studio vs is more advanced and performs significantly better than eclipse - at least the versions of vs that i have seen
+15874
+using ints is generally better than using shorts because java uses 32-bit values internally anyway even for bytes unless in an array so using ints will avoid unnecessary conversion to from short values in the bytecode
+15899
+do anyone have a better way than this
+15949
+ago which is longer than the server configured value of
+16140
+assuming i can pick any piece of the app what are some factors to consider that would make that piece better or worse as an osgi guinea pig
+16160
+here s the wikipedia entry on branches since they probably explain things better than i can
+16381
+gethashcode should be a lot quicker than equals but doesn t need to be unique
+16471
+concatenation didn t even register as 1ms which is why i output the timer ticks as well
+16480
+if it contains numbers or any other non-string things dates i d use string.format because it gives me more control over the formatting
+16551
+it s a lot lighter weight than xml
+16696
+they are both relatively easy to install - although i seem to remember webalizer being a little easier than awstats and they both have varied configuration options to let you decide exactly what you want to get out of them
+16797
+i found factor css - complete with source code but i think it does way more than i d need
+16914
+the pen is more than one pixel thick
+16940
+admittedly this might not be a problem on larger screens but my employer is abit tight and refuses to buy monitors larger than 19inch this means that i dont have much screen real estate to view all the visual studio windows and my code at the same time or two pieces of code at once
+17033
+a more robust and cleaner approach than the line line idea would be to simply use namespaces and embed xhtml content
+17048
+boot can be smaller than 1gb this is just my standard will not become full ever size
+17311
+if you want to perform more complicated operations like reading the output of the external program you may be better served by the popen system call
+17390
+it may happen that more than one vendor agrees to implement the same extended functionality
+17412
+finally you might get better result by inlining this function
+17412
+finally you might get better result by inlining this function
+17580
+if you need default behaviour than use an abstract class
+17670
+the algorithm doesn t need to be the most secure as the database is already in a reasonably secure environment not an open network the inter-webs but does need to be better than rot13 which i can almost decrypt in my head now
+17670
+the algorithm doesn t need to be the most secure as the database is already in a reasonably secure environment not an open network the inter-webs but does need to be better than rot13 which i can almost decrypt in my head now
+17690
+generating c code is as easy as generating html just use print or equivalent which in turn is much easier than writing a c parser or html parser
+17703
+server-side programming has been around for a lot longer than client side and has lots of good solutions already
+17730
+if you put these in one table and you want to allow users to have more than one photo or cv then you need two link-tables to associate files- users and files- cms_pages
+18033
+personally i think going with the whole package of components is a better deal as it s only 289 and comes with many useful components
+18076
+there are some gotchas in terms of p invoke calls not always working across 32 64 as well as managed directx not working well under 64-bit but on the whole i think its something people are going to be doing more as time goes by
+18132
+finally what are thoughts on using nhibernate which has been around for a long time and may be more mature than the ado.net entity framework
+18167
+unfortunately i ve reached a point in my development where i need more than the token sample records that are currently in the staging database
+18488
+besides gtk# is a better toolkit than windows forms as it is
+18488
+besides gtk# is a better toolkit than windows forms as it is
+18563
+there are some gotchas in terms of p invoke calls not always working across 32 64 as well as managed directx not working well under 64-bit but on the whole i think its something people are going to be doing more as time goes by.
+18709
+so too could an open source project get more done than a dedicated team if you have a project exciting enough to draw in participation
+18837
+if you had more than one file that matches .sh you d get a syntax error from find
+18838
+what if you need to scale your app by load balancing more than one web server
+18864
+i can tweak the limbs and leaves of a tree easier than i can alter it s trunk
+19007
+surprisingly in both products creating tables isn t as easy as it should but both are faster than reportviewer and handle extremely well multi-column reports barcodes and aggregate data
+19373
+all that said an algorithm that should work would be to determine a minimum volume amplitude threshold and duration say 10dba for more than 2 seconds and then simply do a volume analysis of the waveform looking for areas that meet this criteria with perhaps some filters for millisecond spikes
+19398
+in the second case which is common practice there are three conditional statements which is obviously slower than just having one
+19492
+i suspect that this should go some way towards helping solve some of our problems but i can still see some advantages of having more control over the build projects
+19545
+much better than the reverse of munging different things together
+19555
+sqlite is used in more applications than any other db
+19555
+it seems to be higher performance than sqlite which probably has more to do with it being run on an smp machine and making use to different threads
+19555
+it seems to be higher performance than sqlite which probably has more to do with it being run on an smp machine and making use to different threads
+19557
+if you want to use the merge-tracking of subversion 1.5 over more than one project at the same time you should use a single tree without externals
+19672
+i haven t done any proper benchmarks but i tried out several other components and found that spreadsheetgear was considerably faster than xlsio which i was using before
+19692
+using a new language in production code is about more than easy syntax and high-level capability
+19814
+this is for reasons similar to the reasons it s good to learn c like how a strcpy takes more time than copying an integer or why you should use pointers to arrays as function parameters instead of arrays by value
+19908
+worked fairly well just a little slower than i like

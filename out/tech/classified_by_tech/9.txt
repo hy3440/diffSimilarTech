@@ -1,0 +1,48 @@
+7761
+
+i would say that normally this is not a big problem but in this case i think the line tag is most correct since it explicitly shows that you don t actually interpret what the lines may mean in different cultures
+
+9391
+
+the number on the webpage is most likely i m assuming here the svn revision number for the whole project
+
+21030
+
+all cocoa development is best done with objective-c or one of the many automatically generated bridges to dynamic languages such as python or ruby
+
+22002
+
+json works best for me i like to keep oo in js and don t know how to parse xml well
+
+100740
+
+a quadtree is best for when you use a height map for terrain etc
+
+102764
+
+the trick is not only to generate all possible letter combinations that match a given number but to select the letter sequence that is most easy to remember
+
+121652
+
+as a rule of thumb it is best to commit all merge modifications in a single commit and to only have the merge modifications in the commit so that you can rollback the merge later if needed
+
+126392
+
+in addition this is the most general solution it scales best in the future as you add more keys it is easy to code the sql to get the data out and the database will be able to optimise the query better than you would imagine i wouldn t put effort into prematurely optimising this case unless it was proven to be a bottleneck in testing later on in which case you could consider the next two options below
+
+126392
+
+in addition this is the most general solution it scales best in the future as you add more keys it is easy to code the sql to get the data out and the database will be able to optimise the query better than you would imagine i wouldn t put effort into prematurely optimising this case unless it was proven to be a bottleneck in testing later on in which case you could consider the next two options below
+
+128966
+
+in the case of clicking on links this would be following the link but the difference is most noticeable in form submit handlers where you can cancel a form submission if the user has made a mistake entering the information
+
+153248
+
+as i do not need to create overly complex excel sheets the most complicated thing is that i explicitely need to set a cell type to numeric or text i m looking towards option 1 next but i just wonder if there are any other good and supported ways to generate excel 2007 sheets
+
+195398
+
+that s why it s usually said that mysql is best for webapps while postgresql is more enterprisey
+

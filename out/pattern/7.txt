@@ -1,0 +1,348 @@
+159
+you know an application has a memory problem when monitoring shows that more and more memory is allocated to your process after each garbage collection cycle
+629
+using a lambda seems a tad more concise and with such an insignificant difference it seems the better choice in the average situation
+635
+for the books generating xml is much easier than parsing
+713
+your other main choice is probably mbunit which is more and more position itself as the bdd framework of choice in conjunction with gallio
+713
+your other main choice is probably mbunit which is more and more position itself as the bdd framework of choice in conjunction with gallio
+886
+my own reasoning also makes me think dvcs makes things harder for qa and release management if you do things like centralized releases
+910
+git is very flexible very timtowtdi there is more than one way to do it
+910
+it s much harder to learn because git has more concepts and more commands
+986
+it sounds like .net 2.0 does this better thank goodness but honestly i never had time to go back and check
+1051
+once you ve figured out which process es have the file locked you ll need to safely inject a small native dll into the process you can also inject a managed dll but this is messier as you then have to start or attach to the .net runtime
+1145
+it s trivial to do if the search and replace strings are the same length or the replace string is shorter than the search string since i have enough space allocated
+1145
+it s trivial to do if the search and replace strings are the same length or the replace string is shorter than the search string since i have enough space allocated
+1261
+i know svn is newer but other than that i m unfamiliar with its benefits
+1468
+ben alman s hashchange plugin makes the latter a breeze if you re using jquery
+1640
+i personally feel that if reusable code is split into projects it is simpler to use other places than if it is just in folders
+1665
+i personally feel that if reusable code is split into projects it is simpler to use other places than if it is just in folders
+2138
+in theory linq is nothing more than syntactic sugar and the resulting il code should look the same as it would have in .net 2.0
+2138
+in theory linq is nothing more than syntactic sugar and the resulting il code should look the same as it would have in .net 2.0
+2369
+this is an alternative way datareader is faster than this one
+2490
+most people use .net serialization there is faster binary and slower xml formatter they both depend on reflection and are version tolerant to certain degree
+2494
+michael s link is much better
+2498
+so if insertion is a higher priority than retrieval red-black may be a better solution
+2520
+it seems to me that bdd is a broader scope
+2736
+to retrieve the number of widgets from each widget category that has more than 5 widgets you could do this
+2781
+some other solutions i ve seen have a string-conversion like select convert varchar 11 getdate 101 in them which is slower by a factor of 10
+3042
+calling and returning from a routine repeatedly involves a lot of stack pushing and popping which is slower than looping
+3309
+ms have released style cop to compliment fxcop unlike fx cop this has better rules and can check amount of comments etc
+3309
+ms have released style cop to compliment fxcop unlike fx cop this has better rules and can check amount of comments etc
+3368
+the big-o is still o n even though we might find our number the first try and run through the loop once because big-o describes the upper bound for an algorithm omega is for lower bound and theta is for tight bound
+3371
+this makes life easier for working with multiple browsers
+3455
+another option is vmware fusion which is much better than parallels in my opinion + windows xp + sql server management studio
+3455
+another option is vmware fusion which is much better than parallels in my opinion + windows xp + sql server management studio
+3588
+its always easy to switch your database later though and using sqlite really is easier if you are developing on a mac
+3656
+xhtml is stricter and probably better but i can t see what advantages you will get with one standard over another
+3781
+when prototyping initial gui functionality with a customer is it better to use a pen paper drawing or to mock something up using a tool and show them that
+3913
+it s kind of pointless to talk about database performance query performance is a better term here
+4305
+something like mediatemple - which won t host the worlds fastest websites but for the price is far better than shared hosting
+4401
+this is cleaner than using a two-step approach of generate script plus run
+4593
+i dont think that mondrian is better than ssas but i do know that its free and you independently distribute it
+5076
+svn definitely makes this trivial task using a gui like tortoise is even easier however
+5125
+i certainly believe that being enough familiar with java plus some experience programming with a dynamic language is more than enough if you plan to do serious development with grails
+5132
+i have never used grails or rails before but i have used groovy and ruby before and as a language i think ruby is much cleaner and more consistent and the team might enjoy production more
+5201
+there is an express version on ssms that has considerably fewer features but still has the basics
+5260
+note this will probably not work if delay is more than 9 hours long
+5310
+the datacontext or linq to entities objectcontext is more of a unit of work than a connection
+5310
+the datacontext or linq to entities objectcontext is more of a unit of work than a connection
+5354
+following these two simple rules is worth more than most user interface usability guidelines
+5402
+while i do feel that maintenance is made easier for some things when your site is purely laid out with css i don t think it s the case for all kinds of maintenance -- especially when you re dealing with cross-browser css which can obviously be a nightmare
+5403
+but designing a server to handle that many pageviews is more than just saying our server should handle 300 000 000 000 pageviews it should contain a very detailed specification for how it can do that right down to processing time guarantees and disk access average times
+5474
+accessibility is important and maintaining semantic x html is much easier than maintaining table layouts but that #1 spot on google will bring home the bacon
+5683
+from my experience vmware is waaaay better than virtual pc if you can convince your company to use it you wont regret the switch
+5724
+is there a better windows command line shell other than cmd which has better copy paste between windows windows and console windows
+5724
+is there a better windows command line shell other than cmd which has better copy paste between windows windows and console windows
+5831
+a more memory-efficient algorithm uses windowing but produces much bigger patch files
+5918
+yahoo has separate map for india which has more details than the regular maps.yahoo.com at
+6100
+restful web services do not not use wsdl because the service can t be described by it and the feeling is that rest is simpler and easier to understand
+6227
+which is friendlier to humans and doesn t leak that tiny bit of information
+6620
+i m no expert windows programmer but i m sure that using the registry makes it easier to do other windows-specific things user-specific settings network administration stuff like group policy or whatever else
+6785
+i wasn t so much asking for which was quicker at concatenating a string but which is quicker at injecting one string into another
+6940
+my main monitor is a wide screen so i find that gives me more than enough room for my code
+7090
+other things to consider with the files i ve tested png compresses better than jpeg
+7237
+however database performance seems slower on sql 2005 than on sql 2000 in some cases we have not confirmed this using benchmarks yet
+7237
+however database performance seems slower on sql 2005 than on sql 2000 in some cases we have not confirmed this using benchmarks yet
+7519
+each iteration moves closer to the most compact xaml-only implementation possible
+7519
+each iteration moves closer to the most compact xaml-only implementation possible
+7714
+any naming standard is better than no standard
+7844
+perhaps silverlight has fewer properties in the thumb class.
+7858
+however like it has been mentioned any convention is better than no convention
+7858
+however like it has been mentioned any convention is better than no convention
+7861
+this is more of a comment than an answer but wouldn t
+7939
+yes join usually is worse than no join at all when it comes to performance but join usually is better than fake join by first reading the whole table a and then using the gained information to read and filter table b
+7939
+yes join usually is worse than no join at all when it comes to performance but join usually is better than fake join by first reading the whole table a and then using the gained information to read and filter table b
+8327
+as a result of this i find that 99.9 of the time i use source view in my ide because as your page content becomes more dynamic the design view becomes more useless
+8327
+as a result of this i find that 99.9 of the time i use source view in my ide because as your page content becomes more dynamic the design view becomes more useless
+8629
+one thing i m kind of proud of is how to mark your spam as read this is for courier imap and maildir where read means move to different folder and change the filename
+8782
+i think it s important to realize is that the whole system is diff-based a merge is nothing more than automatically applying the changes that have been made in one branch to the code in another branch instead of correcting the code yourself
+8981
+if you can move to sql server 2008 you can take advantage of the filestream support which gives you the best of both - the files are stored in the filesystem but the database integration is much better than just storing a filepath in a varchar field
+8981
+if you can move to sql server 2008 you can take advantage of the filestream support which gives you the best of both - the files are stored in the filesystem but the database integration is much better than just storing a filepath in a varchar field
+9087
+the database is a better solution for us since it makes this easier and we aren t going to run into scaling problems
+9485
+with large forms it becomes easier to get a labels value by just typing lbl and selecting it from the list _ it also follows the logic stated by jon limjap
+9860
+pl sql is better than t-sql
+10229
+which is a better approach and why do you think so
+10243
+i d like to make sure that this feature of the png works in older browsers as well
+10462
+the real reason has more to do with race conditions and lays back in ancient win32 times
+10504
+based on your comment showing that the design becomes simpler i m assuming you guys practice tdd
+10584
+the growth of jruby means that more ruby is compiled these days though making it act more like java above
+10774
+i find git is actually easier for this as you don t need a server or worry about entering url s and so on
+10774
+i find git is actually easier for this as you don t need a server or worry about entering url s and so on
+10830
+if the column_datetime field is not indexed and is unlikely to be or the index is unlikely to be used then using datediff is shorter
+10830
+if the column_datetime field is not indexed and is unlikely to be or the index is unlikely to be used then using datediff is shorter
+10901
+some of this code is older than me originally written in the late 70s and some members of our team are still on visual studio 6
+11091
+the framework we use is cxxtest which is much lighter
+11091
+the framework we use is cxxtest which is much lighter
+11277
+it might be a good idea to stay away from perl until perl 6 is closer to completion because it fixes some of the difficulties of reading and understanding perl
+11363
+given my lack of experience with variadic parameters in c i m not sure if you can use this with a function pointer but this gives even more flexibility than the first solution albeit still with the lack of type safety
+11657
+you design stuff it might look like an existing pattern you name it that way so everyone understand what you are talking about and the rationale behind your design decision is stronger knowing it has been discussed ad nauseum before
+12351
+but again this is a bigger issue
+12571
+if your full codebase is closer to 70-80 coverage you are doing a good job
+12712
+by default wshttpbinding has a receive size quota of like 65 kb so if the serialized data table s xml is more than that it would throw an error and i m 95 sure the data table is more than 65 kb with data in it
+12712
+by default wshttpbinding has a receive size quota of like 65 kb so if the serialized data table s xml is more than that it would throw an error and i m 95 sure the data table is more than 65 kb with data in it
+12712
+by default wshttpbinding has a receive size quota of like 65 kb so if the serialized data table s xml is more than that it would throw an error and i m 95 sure the data table is more than 65 kb with data in it
+12822
+also in my opinion imagemagick has much better api interface
+12859
+obviously some profiling will be needed to ensure this is actually faster than regeneration - forcing the web server back to disk regularly can be detrimental so the resource really does need to have heavy reuse
+13057
+while both these hold the same information the second list is larger and slower
+13374
+using an outliner i can keep increasing the level of detail and easily move these details around as the solution becomes clearer
+13443
+most of the time it takes longer to solve the problem though dedicated - stressed - work then it does by taking a break
+13455
+which makes it harder to find all of the previous revisions of a specific file
+13516
+the only time you should be sure to do so is if you are working with a large object which is one larger than 84k in size such as bitmaps
+13516
+the only time you should be sure to do so is if you are working with a large object which is one larger than 84k in size such as bitmaps
+13600
+reference about win32_session but the objects in win32_session are of type win32_logonsession which has more interesting properties
+13797
+subsonic data access toolkit + lots more
+13870
+i think that this approach is much easier than hooking api calls and much less intrusive
+13899
+if you know another way to copy and otherwise work with data from a store you might as well use it but using the cmdlets provides a better learn-once use-often approach
+13942
+declarative is usually better for anything where you really don t need the fine-grained control over how something is done
+14197
+depending on how your code is structured you can often version your directories and just update a symlink to the latest version which makes rollbacks easier
+14197
+depending on how your code is structured you can often version your directories and just update a symlink to the latest version which makes rollbacks easier
+14210
+in general enterprise moves slower than consumer
+14261
+if you write your own reusable components then writing them in actionscript may sometimes give you a little more control but for non-reusable views mxml is much better
+14261
+if you write your own reusable components then writing them in actionscript may sometimes give you a little more control but for non-reusable views mxml is much better
+14298
+the cause of this error is an older version of nvidia s glext.h which still has this definition
+14556
+deployment is easier because everything is compiled into dll s
+14576
+consistently well formatted code is easier to read and code that is easier to read is easier to maintain
+14655
+oh and rob i completely agree -- this is more than likely a limitation of my design and not the language
+14690
+it s also easier to make backups - cloning a repository to another location machine disk means i can just push the changes to that location which is even easier with a default push repository
+14690
+it s also easier to make backups - cloning a repository to another location machine disk means i can just push the changes to that location which is even easier with a default push repository
+14908
+human-to-human spontaneous speech this is a bigger more complex problem
+14908
+human-to-human spontaneous speech this is a bigger more complex problem
+14910
+that being said any automated build is better than no automated build
+15011
+when taking on a project that has never had an automated build process it is easier to take it in steps
+15077
+if any of our projects ever has enough loc that building takes more than trivial time doing this will also gracefully degrade in the direction of a daily build
+15090
+so this is much easier to maintain than having one different server application for each client
+15277
+in this case it is easier to push one new sproc but in my experience 95 of pushed changes affect the code and not the database
+15874
+using ints is generally better than using shorts because java uses 32-bit values internally anyway even for bytes unless in an array so using ints will avoid unnecessary conversion to from short values in the bytecode
+15949
+ago which is longer than the server configured value of
+16280
+it seems that as javascript page-tagging becomes the more popular choice as a way of processing web stats there s not as much work being done on log-based analysis tools anymore in the marketplace
+16408
+generating a good hash is easier said than done
+16438
+another reason to prefer string.format is that .net strings are immutable and doing it this way creates fewer temporary intermediate copies
+16457
+i actually like the first one because when there are a lot of variables intermingled with the text it seems easier to read to me
+16463
+formatting is easier to optimize for the compiler although the second will probably be refactored to use the concat method which is fast
+16463
+formatting is usually clearer to read especially with fancy formatting
+16558
+generally speaking i get the impression that nant offers more flexibility compared to msbuild whereas with my relatively simple needs i ve been fine with the latter so far
+16792
+cannot sort a row of size 9522 which is greater than the allowable maximum of 8094
+16914
+the pen is more than one pixel thick
+16973
+however as the schema becomes larger and larger you may lose the overview especially when you author an xml schema document which can be very verbose
+16991
+please list any features you think are brilliant or useful when suggesting an ide makes it easier to compare
+17177
+with modern compilers and processors i don t think there is really any speed difference so this is more just a matter of style
+17332
+its easier to develop and maintain and the std sort algorithm is asymptotically faster than bubble sort
+17427
+- too bad the discussion that pursued after this posting is harder to find
+17427
+- too bad the discussion that pursued after this posting is harder to find
+17465
+i guess this is more of a request to the adobe team rather than the microsoft one yet i should be cool
+17690
+generating c code is as easy as generating html just use print or equivalent which in turn is much easier than writing a c parser or html parser
+17730
+the two table approach is slightly cleaner and only allows files to be associated with the correct type of entity with a simple belongsto relationship
+17809
+will route all default traffic through the 10.17.x.x gateway if you find that it still routes through the other interface you should make sure that the new rule has a lower metric than the existing routes
+18033
+personally i think going with the whole package of components is a better deal as it s only 289 and comes with many useful components
+18059
+so what i do above is catch all exceptions and pop a box this is better than silently failing but still clearly far from ideal
+18059
+so what i do above is catch all exceptions and pop a box this is better than silently failing but still clearly far from ideal
+18124
+there s also sql prompt from redgate which has more bells and whistles than you can poke a stick at mssql only and it s not free
+18124
+there s also sql prompt from redgate which has more bells and whistles than you can poke a stick at mssql only and it s not free
+18186
+that does not necessarily mean it is a better solution
+18335
+i truly feel that grails has brighter future than ror
+18488
+besides gtk# is a better toolkit than windows forms as it is
+18523
+however if you have an object that might be an int or might be a string convert.toint32 is quicker
+18563
+others have mentioned that this allows more ram which is true
+18669
+i know the original solution is performing faster but i think this one is much cleaner
+19398
+in the second case which is common practice there are three conditional statements which is obviously slower than just having one
+19398
+in the second case which is common practice there are three conditional statements which is obviously slower than just having one
+19426
+aside when choosing between two equally acceptable answers from chanchan and jonathan i arbitrarily marked jonathan s as accepted because a he got in first and b his rep is currently lower
+19481
+relating to point #1 this direct binding makes it harder to isolate each component view model controller presenter and unit-test
+19555
+it seems to be higher performance than sqlite which probably has more to do with it being run on an smp machine and making use to different threads
+19598
+relating to point #1 this direct binding makes it harder to isolate each component view model controller presenter and unit-test
+19604
+i m looking to integrate a light texteditor in an asp.net mvc application and i choosed the tinymce solution and not the classic fckeditor as this seems more lightweight and more jquery friendly
+19692
+using a new language in production code is about more than easy syntax and high-level capability
+19814
+this is for reasons similar to the reasons it s good to learn c like how a strcpy takes more time than copying an integer or why you should use pointers to arrays as function parameters instead of arrays by value
+19865
+take command is syntactically compatible with cmd.exe and enhances each command quite a bit and adds many more

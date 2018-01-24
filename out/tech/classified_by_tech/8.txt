@@ -1,0 +1,76 @@
+6671
+
+testng strives to be much more configurable than junit but in the end they both work equally well
+
+15091
+
+technically ruby is more sophisticated than java or c# being closer to smalltalk in terms of oo purity and closer to lisp in terms of meta-programming facilities
+
+29557
+
+i ve read time and time again that tdd test first is more difficult with mstest than it is with other testing frameworks such as nunit mbunit etc.
+
+31425
+
+the long answer expanding on what the op said is to be more compatible with apache and mysql postgresql
+
+51580
+
+also i don t see how xml s angle brackets are less human readable than json s square brackets curly brackets and quotes
+
+69545
+
+there is icefaces which provides more semantic support than richfaces .also you can try nitobi suite which also provides similar kinda solution.if you are not satisfied with any of these i suggest try to write your own part extending the sun faces
+
+77166
+
+since python is far less ubiquitous than php i wouldn t be surprised if hosting developer and other maintenance costs for it long term would have it fit this scenario
+
+80157
+
+on windows i prefer nsis from nullsoft only because it s less objectionable than installshield or installanywhere
+
+81223
+
+btw i would discourage the use of alloca since stack tends to be much more limited than heap use malloc instead
+
+95046
+
+in general joomla s admin gui is considered prettier and more user-friendly than drupal s but joomla is in my opinion a less intuitive system at the programming level and makes certain tasks more difficult than necessary
+
+106826
+
+in my opinion json is more human readable than xml and json.net gives the option to write nicely formatted json
+
+116739
+
+sha-256 uses 64 characters in the database but with an index on the column that isn t a problem and it is a proven hash and more reliable than md5 and sha-1
+
+119414
+
+my experience is that assertions even if complex and time-consuming traversing the whole free list to check invariants are much less work and are more reliable than unit-testing esp
+
+146627
+
+python s windows-support is much more mature than ruby s
+
+149409
+
+3des is more expensive than aes for example
+
+180112
+
+xml has a bit more overhead than json because of the angle brackets and extra information and what not
+
+181920
+
+moss considerably more expensive than wss which ships as part of microsoft server licensing
+
+185315
+
+try finding out more info by logging asp.net application shutdown events
+
+199289
+
+if you re using an oo language then i d suggest it s essential to validate the arguments to public methods but less important with private and protected methods
+

@@ -1,0 +1,336 @@
+16558
+
+generally speaking i get the impression that nant offers more flexibility compared to msbuild whereas with my relatively simple needs i ve been fine with the latter so far
+
+23203
+
+i really like thompson s haskell the craft of functional programming because it s well written and haskell allows an easier start than other functional languages while being completely pure unlike lisp or scheme
+
+27443
+
+in most regards postgresql is slower than mysql especially when it comes to fine tuning in the end
+
+32145
+
+i see a lot of debate about getter setter class methods and is it better to just access simple property variables directly or should every class have explicit get set methods defined blah blah blah
+
+35934
+
+depending on requirements you use the mapped value to point at the result directly or to short list of the candidates which would allow a smaller map but requires greater subsequent processing - you re not in o 1 lookup territory any more
+
+38097
+
+this is more of a how-to-implement tip but i started dabbling with creating an activerecord datamapper implementation in php and quickly ran into many hurdles with array-like access
+
+41479
+
+this is no better than the equivilent foreach var item in somelist .
+
+43743
+
+i found some wild remarks that asp.net mvc is 30x faster than asp.net webforms
+
+45886
+
+of course asp.net provides much better ways of accomplishing the same thing but it s still a bit of a loss and can make migrating an old site to .net a pain
+
+45963
+
+finding a package that can work with both new delete and malloc free obviously gives you more flexibility
+
+48015
+
+textmate is a better emacs for macs though that won t help you with solaris
+
+49953
+
+java has much better performance than python and has way better tool support
+
+49953
+
+sometimes those things matter a lot and java is the better language than python for a task
+
+50632
+
+otherwise if the operand that has unsigned integer type has rank greater or equal to the rank of the type of the other operand then the operand with signed integer type is converted to the type of the operand with unsigned integer type
+
+51512
+
+yeah java has gotten better since 1.5 but for example you can iterate through a string in python with this same construct
+
+54827
+
+scala has much lighter syntax than java has a repl is statically typed and runs on the jvm - you might give that a shot as well
+
+60910
+
+however i m not really much of an emacs user and the preferences menu in aquamacs is less than clear on where and how one might make such a change
+
+62097
+
+you should generally know why you re optimizing code as in a specific task in your existing codebase is taking too long not i heard php is slower than python
+
+62198
+
+personally i feel that you can get pretty far by checking that you get the right results 1+1 should return 2 in a addition function trying out all the boundary conditions you can think of such as using two numbers of which the sum is greater than the integer max value in the add function and forcing error conditions such as network failures
+
+62310
+
+if the line height was increased same effect though font-size with less words per line this becomes less of an issue
+
+62310
+
+if the line height was increased same effect though font-size with less words per line this becomes less of an issue
+
+64682
+
+lua is more lightweight than python
+
+67714
+
+https traffic is much bigger than its equivalent http traffic due to encryption and certificate overhead and it also puts a bigger strain on the server encrypting and decrypting
+
+67714
+
+https traffic is much bigger than its equivalent http traffic due to encryption and certificate overhead and it also puts a bigger strain on the server encrypting and decrypting
+
+70423
+
+but there are many citations of real world tests which show that heapsort is significantly slower than quicksort on average
+
+70708
+
+after finding questions with words from query we might want to calculate distance between words we are interested in in questions so question with phrases similarity text ranks higher than question with discussing similarity you hear following phrases... text
+
+70881
+
+precedence rules specify priority of operators which operators will be evaluated first multiplication has higher precedence than addition pemdas
+
+77883
+
+bazaar is imho easier to learn than git
+
+78327
+
+your second solution of using ldap for authentication and a db for authorization seems more robust as the ldap data is controlled by the user and the db would be controlled by an admin
+
+84893
+
+wcf though has much better server throughput than .net remoting
+
+86346
+
+my personal take is that the wcf approach is more clean as you can do contract-driven services and focus on messages not objects i m making a generalization here based on the default programming models of wcf .net remoting
+
+88183
+
+the python c api manual is longer than the whole lua manual including the lua c api
+
+88183
+
+the python c api manual is longer than the whole lua manual including the lua c api
+
+91317
+
+webclient is sometimes easier to use than webrequest
+
+92324
+
+c++ is more standard you will find more code libraries examples etc. and you may freely use the stl and boost while object pascal is more of an exotic language
+
+92324
+
+c++ is more standard you will find more code libraries examples etc. and you may freely use the stl and boost while object pascal is more of an exotic language
+
+92588
+
+a second option is to use the webclient class this provides an easier to use interface for downloading web resources but is not as flexible as httpwebrequest
+
+97114
+
+however we ve now added a dynamic dispatch call where static would suffice the object is larger even in the production version and we ve added a new failure path for foo s constructor allocation can fail
+
+99817
+
+that is the height is more than half the width and depth -- little rule of thumb
+
+100698
+
+if your old site is vbscript it s probably easier to go with vb.net
+
+101239
+
+row and col at first glance this seems more succinct than row_num and col_num and just as descriptive
+
+101239
+
+at best reads as the integer loop counter for the row is less than the max imum number of col umn s
+
+101381
+
+that s one reason why going from hex to binary is much easier than from decimal to binary
+
+101969
+
+using this trace method not only would i have to keep adding and removing keywords from in front of variables as i worked on different bugs but i don t think that it would be any real improvement over just adding good logging debugging messaging which is much easier to remove or disable when pushed to production
+
+105287
+
+although several ci tools such as teamcity have better support for nunit probably would change as mstest becomes more popular
+
+115838
+
+as a general rule png is never worse and often better than gif because of superior compression
+
+115838
+
+as a general rule png is never worse and often better than gif because of superior compression
+
+116177
+
+there were some reports that this method is slower than preallocating the string and using std istream read
+
+116338
+
+the cells can be of different colspans so when the cell is dropped into the middle of another cell which is bigger the following steps should be performed
+
+122033
+
+i wasn t trying to imply that linq is better than ruby python
+
+124612
+
+perl is generally better than python for quick one liners especially involve text regular expressions
+
+127922
+
+mbunit has compatible syntax with nunit but has more features especially data driven tests
+
+133247
+
+how to convince people python is better than perl
+
+134346
+
+using a non-reversible hash such as md5 is much more secure and you can store the hashed value as clear text
+
+135198
+
+perl has constants multi-line anonymous functions and autovivification but python has better default object orientation
+
+138306
+
+even in scalar code loading 8-bit or 16-bit values is no slower than loading 32-bit since movzx movsx is no different in speed from mov
+
+140283
+
+if it s a client app that doesn t use asp.net etc you may be able to use the .net client profile install which is much smaller c
+
+140501
+
+if the width is greater then height 3 4 screen.width then
+
+145153
+
+i d say the python community is larger and more mature than the ruby community and that s really important for me
+
+149028
+
+you should use tls ssl https so that eavesdropping on the http traffic is harder to perform
+
+149028
+
+you should use tls ssl https so that eavesdropping on the http traffic is harder to perform
+
+149164
+
+your web server should use compression for this extension and your code should check if the number of rows returned is greater than what excel can display in one worksheet
+
+155711
+
+glut hasn t been updated for awhile but you can also try freeglut which is a newer open source replacement of glut and is included by several linux distributions out of the box
+
+163395
+
+when you don t set a font mozilla uses monospace by default ie uses courier new opera courier new with quotes safari lucida grand with single quotes
+
+169083
+
+instead of testing the width see if the height of the element is more than one line measured in ems since you ll be changing the font size around
+
+170479
+
+the problem is you can t really tell the user how many characters are allowed in the field because the escaped value obviously has more characters than the unescaped one
+
+170669
+
+apache itself can be configured to function this way although if you are on linux or unix squid is the better option as it is specifically designed to do this very job
+
+170669
+
+apache itself can be configured to function this way although if you are on linux or unix squid is the better option as it is specifically designed to do this very job
+
+171436
+
+as for the read timeout that is trickier you need it to be low so you don t exhaust your pool of workers who are waiting for the remote service to return but you also don t want it so low that it closes the connection before reading a response
+
+172525
+
+log4net is a richer and more flexible way of tracing or logging than the in-built trace or even asp health monitoring
+
+174331
+
+will work fine in bash if you re aiming for portability across various unix environments where you can t be sure that the default shell will be bash and whether it supports the -z test condition it s safer to use the form if x some_var x since that will always have the intended effect
+
+174920
+
+are you sure the frame fits completely within the screen and contentsize s width is not greater than the scroll view s width
+
+177346
+
+however slapping labels on methods is faster than building logic to show hide buttons or do security validation in code
+
+177565
+
+vhdl is more popular in europe and verilog is dominating in the us
+
+180099
+
+json is smaller and simpler than xml
+
+183173
+
+specific performance tuning methods vary by database but in general avoid returning more records or fields than you actually need make sure all join fields are indexed as well as common where clause fields avoid cursors although i think this is less true in oracle than sql server i don t know about mysql
+
+186990
+
+i ve heard that configobj is easier to work with than configparser
+
+191465
+
+on my dev machine i use a quad core cpu and although our project has more than 1200 files it is still easily processor limited during compile time although a faster hard drive would still help speed things up
+
+193887
+
+i think the biggest difference is that ruby is much more similar to perl in terms of useage
+
+195795
+
+for example if the integer is less than shrt_max you can assume it s a short
+
+196705
+
+anyway the most important issue is that web2py is easier than django pylons php and rails
+
+198148
+
+in general a commit is much faster than a rollback but in the case where you have done nothing they are effectively the same
+
+198624
+
+because representation of a given problem with a nfa is far easier than the equivalent dfa
+
+199481
+
+for example checkstyle has stronger support for checking javadoc and finding magic numbers to name a couple
+

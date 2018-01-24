@@ -1,0 +1,22 @@
+52
+so i d recommend trying out their collection code and see if it helps
+1190
+i have been in dicussion with another developer and found the following post on channel 9 as well which recommends making use of the sql state service to store the viewstate avoiding the postback issue and also page size
+1340
+these algorithms usually don t just pick existing colors from the source space but creates new colors in the target space that most closely resemble the source colors
+2944
+i d recommend getting vmware player and using the free mono development platform image that is provided on the website
+3020
+i would recommend storing this type of information in its own table
+7085
+wirth s language designs are fairly conservative. compiler construction is a very succinct distillation of wirth s basic ideas so whether you like his style or not or not i highly recommend reading this book
+7724
+i recommend checking out microsoft s sql server sample databases
+13465
+i recommend checking out the following from eric sink
+16035
+i highly recommend getting inspect this as well
+16222
+it seems to prefer making web applications that look like applications instead of web applications that look like websites
+17069
+i recommend trying netbeans if you re on windows

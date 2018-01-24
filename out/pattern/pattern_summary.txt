@@ -1,0 +1,96 @@
+Id from 0 to 990 in 614.810417175
+Comparative sentences: 61
+Sentence number: 2423
+Post number: 396
+Pattern 10: 7 sentences
+Pattern 1: 5 sentences
+Pattern 0: 5 sentences
+Pattern 3: 1 sentences
+Pattern 2: 0 sentences
+Pattern 5: 22 sentences
+Pattern 4: 8 sentences
+Pattern 7: 9 sentences
+Pattern 6: 9 sentences
+Pattern 9: 2 sentences
+Pattern 8: 0 sentences
+
+Id from 1000 to 1998 in 547.657777071
+Comparative sentences: 51
+Sentence number: 2392
+Post number: 377
+Pattern 10: 8 sentences
+Pattern 1: 5 sentences
+Pattern 0: 6 sentences
+Pattern 3: 2 sentences
+Pattern 2: 1 sentences
+Pattern 5: 13 sentences
+Pattern 4: 8 sentences
+Pattern 7: 7 sentences
+Pattern 6: 2 sentences
+Pattern 9: 3 sentences
+Pattern 8: 2 sentences
+
+Id from 2000 to 2653 in 268.790222883
+Comparative sentences: 36
+Sentence number: 1157
+Post number: 246
+Pattern 10: 3 sentences
+Pattern 1: 1 sentences
+Pattern 0: 10 sentences
+Pattern 3: 0 sentences
+Pattern 2: 0 sentences
+Pattern 5: 15 sentences
+Pattern 4: 5 sentences
+Pattern 7: 7 sentences
+Pattern 6: 0 sentences
+Pattern 9: 1 sentences
+Pattern 8: 0 sentences
+
+Id from 2653 to 3052 in 319.512723923
+Comparative sentences: 36
+Sentence number: 1358
+Post number: 231
+Pattern 10: 4 sentences
+Pattern 1: 3 sentences
+Pattern 0: 5 sentences
+Pattern 3: 2 sentences
+Pattern 2: 0 sentences
+Pattern 5: 11 sentences
+Pattern 4: 4 sentences
+Pattern 7: 3 sentences
+Pattern 6: 1 sentences
+Pattern 9: 4 sentences
+Pattern 8: 1 sentences
+
+Id from 3100 to 9999 in 4075.20638204
+Comparative sentences: 388
+Sentence number: 17408
+Post number: 3162
+Pattern 10: 40 sentences
+Pattern 1: 35 sentences
+Pattern 0: 68 sentences
+Pattern 3: 2 sentences
+Pattern 2: 3 sentences
+Pattern 5: 123 sentences
+Pattern 4: 55 sentences
+Pattern 7: 55 sentences
+Pattern 6: 32 sentences
+Pattern 9: 15 sentences
+Pattern 8: 5 sentences
+
+Id from 10000 to 19998 in 6873.61968088
+Comparative sentences: 661
+Sentence number: 27877
+Post number: 5145
+Pattern 10: 84 sentences
+Pattern 1: 41 sentences
+Pattern 0: 110 sentences
+Pattern 3: 4 sentences
+Pattern 2: 6 sentences
+Pattern 5: 224 sentences
+Pattern 4: 95 sentences
+Pattern 7: 93 sentences
+Pattern 6: 57 sentences
+Pattern 9: 35 sentences
+Pattern 8: 11 sentences
+
