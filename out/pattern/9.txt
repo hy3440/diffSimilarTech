@@ -118,3 +118,159 @@ i m not sure what wpf is but most development for the osx platform is done in ob
 using a many to many table quotemessage to join quote to message is the most correct model but will leave orphaned message records
 19843
 though i think the try - catch phrase is the most elegant i know from my experience with vb that it can really be a bummer
+20034
+the client code can be written in anything jim claims actionscript 3 is the most popular follow by c++ but the server stuff has to be java
+20948
+you have to find the balance where your combination of code and comments is the most readable
+20995
+i think silverlight is most advantageous for companies that have .net developers but noone with designer experience
+21030
+all cocoa development is best done with objective-c or one of the many automatically generated bridges to dynamic languages such as python or ruby
+21441
+using javascript to override the click event is the most common i have seen.
+22002
+json works best for me i like to keep oo in js and don t know how to parse xml well
+22202
+and for me having the required html in the aspx ascx file is the most non-scalable and dirty way to do it
+22202
+and for me having the required html in the aspx ascx file is the most non-scalable and dirty way to do it
+22682
+this is the most basic way to use the library minus any error handling
+22709
+some type of visual prototyping even if it s done with html and css is best i think
+22829
+this would be quite practical as many users may actually try such approach when they do not know which term is the most meaningful
+22829
+this would be quite practical as many users may actually try such approach when they do not know which term is the most meaningful
+23216
+generally perl has the most expansive syntax but i m often hamstrung by the limitations of even egrep extended grep
+23758
+my reasoning is because the major apis i have worked with use this approach and i find it makes the most sense
+23769
+in this case the haystack so i think option 2 is the most appropriate
+24603
+if you want to be able to draw on-screen they have the cintiq which is the most expensive starting at 999 but definitely worth it
+24659
+if we are worried about performance well then i initialize only what has to be done and place it in the areas it gives the most bang for the buck
+24748
+encapsulation is most often achieved through information hiding which
+24948
+this is most useful where you have if conditional statements as exists can be a lot quicker than count
+25072
+it is not a simple matter of which is best because each has advantages and disadvantages
+25203
+i am not going to argue which is best
+25220
+edit you didnt explicitly say you wanted the conditionals for if statements although this seems most likely that was my assumption
+26087
+this is best described by microsoft itself
+26385
+if you download prism ie xulrunner that will give you a base that you can customize to your needs and this includes the most recent version of the control in the prism xulrunner directory you ll find mozctlx.dll
+26398
+and last but not least the best way to find which is best is to generate sample data as much as you need to be a real scenario and then create a gist index measuring how much time is needed to create the index insert a new value execute a sample query
+26398
+and last but not least the best way to find which is best is to generate sample data as much as you need to be a real scenario and then create a gist index measuring how much time is needed to create the index insert a new value execute a sample query
+26597
+using mod_rewrite is most likely faster than parsing the url with your current language
+27391
+now that resolution is most uncommon
+27630
+unmanaged resources can leak and finalize is best practice to ensure that they don t
+28066
+something tangible that you will actually use is best as you ll constantly be thinking of ways to improve modify
+28172
+to make your life easier i think getting this kind of input is best done through a gui where users are restricted in what they can type in
+28992
+however linq s abstraction allows microsoft to improve this over time
+28992
+however linq s abstraction allows microsoft to improve this over time
+29422
+my advice would be to make a really awesome product that attracts the most people and beat off any competition by having the best product service community and not the most obfuscated code
+29609
+the self-contained command line version 7za.exe is the most portable choice
+29903
+closed testing is most definitely your first port of call and this should last for longer than a closed beta on a more technical product
+30596
+this is best handled by directshow
+30767
+readability is most important
+31665
+while this isn t the most efficient way exceptions are evil blah blah blah it s quick and painless
+31800
+in my application the canonical uri is the most stable of the alternatives
+32509
+this pattern works best to avoid resource leaks
+33510
+yet i find myself wrestling with not so much how to do it i can think of lots of ways but which method is best
+33564
+for instance if you have a method that throws an exception on a duplicate username you might wrap that exception with one that includes additional information about the circumstances of the failure for example the ip of the request that provided the dupe username that wasn t available to the lower-level code
+33858
+your second point is the most important
+34332
+maybe starting with the cli and getting functionality working makes the most sense for an audio conversion application
+34372
+slow compile time is most often caused by having large numbers of embedded resources embed or embed
+34567
+if you are getting the data from users or some other system in some free-form manner and don t really care what type of data it is then the best way to store it is the most generic manner varchar etc
+34924
+however we also have a requirement to support either 3.1 or 5.1 audio where 5.1 is the most wanted feature
+35204
+i don t understand why the selected answer is best by any standard
+36026
+the following example is a routing rule for an action that shows the most recent questions in an application defaulting to page 1 using a pager
+36184
+well i figured it out myself right after posting which is the most embarassing way
+36184
+well i figured it out myself right after posting which is the most embarassing way
+36532
+stack overflow wants me to decide which answer is best when best is a subjective opinion
+36548
+sendmail is the most well known but is a real pig when it comes to configuration
+36922
+faster to understand of course which is the most important part
+37276
+i generally prefer jquery which i find to be a little more intuitive in my head anyway but i would use mootools if slick animation is the most important requirement
+37276
+i generally prefer jquery which i find to be a little more intuitive in my head anyway but i would use mootools if slick animation is the most important requirement
+39036
+i don t think this is best practice
+39428
+also it allows you to handle data errors where it is most easy to recover from up near the ui whether in the controller or within the ui layer for simpler apps where the data is entered
+41938
+i think free text maybe varchar 25 is the most widely used standard
+42504
+i find that it s the schema that causes most of the issues people have with querying a database
+42519
+update nick s answer is the most straightforward but is there a way to do it better than n 2
+43122
+if you re building an enterprise program looking into the stdout redirection is probably best using what other people recommended
+45585
+if you are using plain jsp views as is most common then simply add
+45659
+remember that identity returns the most recently created identity for your current connection not necessarily the identity for the recently added row in a table
+47431
+the subquery option sounds best to me something like the following psuedo-sql
+47431
+the subquery option sounds best to me something like the following psuedo-sql
+47826
+since performance is the most common reason to choose one over the other my advice is to not worry about it and just pick one
+47998
+seo is at best kremlinology and at worse a field that the black hats won over a long time ago
+48023
+hardware and is most useful when
+48213
+the distro which is most developer friendly in my opinion is gentoo
+48213
+the distro which is most developer friendly in my opinion is gentoo
+48372
+i like both and i haven t yet decided which one is best
+48903
+unordeded because of subjectivity but note that silverlight offers the most choice
+49301
+rather than writing it youself however you might also want to look into something like lucene which does most of the work for you
+49301
+rather than writing it youself however you might also want to look into something like lucene which does most of the work for you
+49598
+however as lars pointed out to me the question referred to a windowed application which i missed when i read the question so his solution is probably best
+49722
+any distributed revision control system is best for lone developers like git or mercurial

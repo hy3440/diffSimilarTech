@@ -20,3 +20,33 @@ i highly recommend getting inspect this as well
 it seems to prefer making web applications that look like applications instead of web applications that look like websites
 17069
 i recommend trying netbeans if you re on windows
+20140
+if you want to go with an orm tool say nhibernate then i would recommend checking out the summer of nhibernate screencasts
+21968
+i d strongly recommend saving each request to some file
+28010
+you can do other authentication with the javascript but i wouldn t trust it i always prefer putting any sort of authentication checking in the back-end
+28130
+if it will be used frequently and if it will be extended in the future i would almost recommend adding either python or lua into your code
+28248
+there are more real books being published and i recommend beginning groovy and grails
+29606
+i recommend checking out the book referenced by jko
+31542
+for more information i recommend checking out what apple has to say about delegates here
+35872
+but instead of making a rectangular grid you can choose dividing lines that closely match the lines of the voronoi diagram this way you will get fewer areas that cross dividing lines
+36820
+how would people recommend doing version control for word documents
+38925
+if you want to dig a little deeper into this topic i d recommend getting this book
+42002
+i also recommend reading map projections-a working manual paperback by john snyder if you are into these kinds of things
+43760
+if you re working solo i would recommend purchasing sql developer edition it s only 50
+44955
+if you can fit the data into memory and you like python then i recommend checking out the unitable portion of augustus
+47098
+if it s not too much work then i d recommend getting back to a clean working copy and redoing your changes committing after each step
+49132
+i highly recommend checking out ibm s xml schema quality checker

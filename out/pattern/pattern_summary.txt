@@ -94,3 +94,19 @@ Pattern 6: 57 sentences
 Pattern 9: 35 sentences
 Pattern 8: 11 sentences
 
+Id from 20000 to 49995 in 22545.103302
+Comparative sentences: 2256
+Sentence number: 94815
+Post number: 17654
+Pattern 10: 287 sentences
+Pattern 1: 122 sentences
+Pattern 0: 365 sentences
+Pattern 3: 15 sentences
+Pattern 2: 22 sentences
+Pattern 5: 808 sentences
+Pattern 4: 334 sentences
+Pattern 7: 320 sentences
+Pattern 6: 148 sentences
+Pattern 9: 78 sentences
+Pattern 8: 41 sentences
+

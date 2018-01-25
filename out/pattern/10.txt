@@ -290,3 +290,577 @@ however i ve worked in small teams where communication is better
 however i ve worked in small teams where communication is better
 19383
 if you run the command a second time the operating system will likely have the contents of file.txt cached in memory and you will not likely see any perceptible delay unless file.txt is very large or the file is no longer cached.
+20003
+this approach works well for reporting and is easier in subversion however i feel i lose a bit of the structure this way
+20119
+another option that is more complicated but could work if you were forced to do it is to write a layer of restful web services that will expose access to rails
+20426
+this would be iterative get an item from the schedule processing it schedules more items
+20515
+i m sure that it will differ which one is better depending on the situation just like all good programming problems
+20682
+we have a largish application 160+ osgi bundles where each bundle is a maven module and the lesson we learned and continue to learn is that flat is better
+20713
+if you are asking why the atom syndication format is not more widely adopted than the various versions of the rss format i think it would be difficult to come to an objective answer
+20713
+if you are asking why the atom syndication format is not more widely adopted than the various versions of the rss format i think it would be difficult to come to an objective answer
+20713
+the rfc-822 datetime format utilized by rss is more difficult to parse as this particular timestamp format allows a lot more possible variation in the format that is still considered valid
+21019
+accessorizer helps you create accessor methods for your classes while mogenerator does more advanced code generation for core data managed object classes that are modeled using xcode s modeling tools
+21093
+but i ve found that when executing 1000 concatenations or less string.join is even more efficient than stringbuilder
+21114
+stringbuilder is more efficient generally but if you re only concatenating a few strings and doing it all in one line code optimizations will likely take care of it for you
+21292
+linq to sql is an orm built ontop of the linq foundation but linq is much more
+21619
+this is much faster than storing the state of the database and resetting it after every test
+21731
+i don t really see any value in creating this class just because the classname is more readable
+21738
+i don t get a stack trace or anything it looks like the jvm itself crashes and windows shows me a pop-up that says the usual this process is no longer responding message
+21738
+i don t get a stack trace or anything it looks like the jvm itself crashes and windows shows me a pop-up that says the usual this process is no longer responding message
+22074
+in my mind illegalargumentexception seems more specific than using a npe since it s telling me that the problem was with an argument i passed to the method and not with a value that may have been generated while performing the method
+22270
+imagemagick is faster generates better images is more configurable and finally is imo much easier to code for
+22300
+imagemagick is faster generates better images is more configurable and finally is imo much easier to code for
+22420
+once you find an element you can iterate over it and its children which is more useful for understanding the contents in code than it is with regular expressions
+22420
+once you find an element you can iterate over it and its children which is more useful for understanding the contents in code than it is with regular expressions
+22511
+or take a look at this review of inside microsoft sql server 2005 query tuning and optimization this one is more centered on tuning the queries itself
+22592
+this is much more concise
+22695
+remote debugging is obviously more tricky to get it to work correctly you might have to map the remote url with a php script in your workspace than a local debugging setup which is pretty easy to configure if you are on a mac or a linux desktop
+22723
+i agree with corey urllib2 is more complete than urllib and should likely be the module used if you want to do more complex things but to make the answers more complete urllib is a simpler module if you want just the basics
+22813
+in regards to performance a foreach is more consuming than a for
+22824
+i believe this is more efficient than casting back and forth
+22844
+of course if you do something like the following you are basically rewriting the for loop which in c# is slightly more performant
+22978
+i ve found that having real books to thumb through is more helpful than an online reference in some cases
+23059
+this one is more difficult to deal with b c it usually involves having automated testing tools like robot for ex.
+23068
+this is where testing is more difficult and if possible should be partially outsourced to good qa tester as they ll have the knack of breaking things
+23068
+this is where testing is more difficult and if possible should be partially outsourced to good qa tester as they ll have the knack of breaking things
+23208
+debugging is somewhat more difficult
+23598
+gac is more suitable for frameworks where there is expectation for library to be shared among more applications in 99 of cases you don t need it
+23634
+at a a lower level it gives more experienced developers an opportunity to give the more junior developers advice on how they could have solved problems better more simply etc
+24074
+but apart from that you re of course right this function is the better alternative
+24074
+but apart from that you re of course right this function is the better alternative
+24075
+the actual wmi return is more like this
+24075
+the actual wmi return is more like this
+24130
+which is better to use in php a 2d array or a class
+24216
+i know there are many discussions if resharper or coderush is better
+24224
+it seems like containerid binid sequence is much better suited to be a nonclustered index
+24226
+i think the real answer is like all approaches in programming that it depends on which one is better
+24316
+which has the more hidden implementation c++ s iostreams or c s file s
+24624
+sealing your class forces them to use composition which is much more robust
+24624
+sealing your class forces them to use composition which is much more robust
+24648
+which one kernel is better for learning purposes
+24846
+that scenario is where boxing becomes a more meaningful problem
+24846
+that scenario is where boxing becomes a more meaningful problem
+24867
+just ensure that your future needs are going to be met - complex xml creation is better done using libraries - some of which come in very simple flavors too
+24867
+just ensure that your future needs are going to be met - complex xml creation is better done using libraries - some of which come in very simple flavors too
+25061
+there s no empirical evidence that suggests that object orientation is a more natural way for people to think about the world
+25061
+there s no empirical evidence that suggests that object orientation is a more natural way for people to think about the world
+25072
+it reality it is not going to matter until you get to rediculously high request numbers and in that case it makes more sense to be using an extension that has been specifically designed for mysql rather than one which abstracts things and happens to provide a mysql driver
+25081
+so if you don t need the postfix semantics it is better to use the prefix operator
+25182
+which runs faster or do they really do the same thing
+25196
+but for plain coding this is way better and free
+25849
+my project is hosted on sourceforge and i have a google account so which is better and why
+26415
+since this is more along the lines of product support your best bet is probably emailing the support people
+26838
+i d rather hack up some javascript to hide it at least that can be bound to the master page which is much more portable
+27033
+mercurial is much faster to work with mostly because most of your common operations are local
+27206
+given that the enterprise edition is much more expensive i would like to know what are the main benefits of the newer enterprise built-in implementation
+27228
+edit sorry this is not more explanatory but i have to run
+27353
+this is much more appropriate for virtually all uses
+27439
+from how i understand it postgresql is a more correct database implementation while mysql is less correct less compliant but faster
+27440
+mysql is much more commonly provided by web hosts
+27440
+so if your decision factor is which is faster
+27624
+i ve had other little issues with s3fox myself like this and now use a java based tool jets3t which is more forthcoming about error conditions
+27624
+i ve had other little issues with s3fox myself like this and now use a java based tool jets3t which is more forthcoming about error conditions
+28122
+the bitwise solution is even more fun than the recursive solution
+28260
+do i need an object to do this task or is it more suited to static methods
+28564
+edit forgot bsd which is more a license-template than a license and mit mentionned by daniel
+28564
+edit forgot bsd which is more a license-template than a license and mit mentionned by daniel
+28573
+the second option is the more costly
+28616
+and while they do analyze exception it seems more from a stand point of catching errors in your code
+28617
+some people say that a smaller ide is better for learning
+28716
+performance graph smaller is better
+29144
+while i m sure a lot of it comes down to experience personal preference i was wondering if any research had been done into which method of version control is more efficient to work in
+29178
+merge is more efficient
+29289
+i don t think it s a matter of which language is better
+29309
+with respect to diff and merging i think the version control is more critical for graphics and media elements
+29340
+i think this is more suited to a design department for shared access searching and versioning etc to all assets -- where there is a business incentive to not reinvent the wheel wherever whenever possible
+29403
+i believe that physical security is more important for voting booth system rather than you know code security
+29635
+if that is the case you might be able to recreate it more consistently if the timer fires more quickly thus increasing the chances of you closing the form just as the timer is firing
+29643
+theoretically the log file is faster but is there a gotcha here
+29748
+i ve seen benchmarks claiming that this server is even faster than lighttpd
+29748
+i ve seen benchmarks claiming that this server is even faster than lighttpd
+30114
+some people also use artistic style command line tool although it requires perl and works better with c c++ code than with c#
+30176
+if you re retrieving the data once then doing a table scan is faster
+30176
+the benefit being that looking up related information in related tables using the temp table is much faster
+30176
+the benefit being that looking up related information in related tables using the temp table is much faster
+30382
+remember that in either case sometimes creating a large object is more expensive than keeping a reference alive and reusing it
+30684
+but maybe using another way of inter process communication is better
+30684
+but maybe using another way of inter process communication is better
+30794
+by returning the interface that provides just the functionality you need if some new collection type comes along in the future that is better faster a better match for your application as long as it still implements ienumerable you can completely rewrite your method using the new type inside it without changing any of the code that calls it
+30794
+by returning the interface that provides just the functionality you need if some new collection type comes along in the future that is better faster a better match for your application as long as it still implements ienumerable you can completely rewrite your method using the new type inside it without changing any of the code that calls it
+30798
+jquery is more focused on a lot of nice utility functions and makes dom manipulation a whole lot easier
+30854
+if configuration then you can use a resourcebundle or spring if your configuration is more complex
+31076
+a typical example of a crossdomain.xml is twitters more info about how the file works can be found here
+31119
+static functions often require you to use setters and getters which clutter a class s api and makes things more complicated in general
+31214
+the other huge benefit to this is that when you re refactoring something which is further down the page or in a shared library or something you can just re-run the tests as opposed to finding out the hard way that a seemingly unrelated change was actually related
+31315
+generating create scripts from the objects in the database is way faster in ssms compared to em
+31603
+map is more general than mapcar for example you could do the following rather than using mapcar
+31857
+corrupt specific messages this is more difficult
+31857
+corrupt specific messages this is more difficult
+31859
+which is no longer available
+31877
+if the items in the list were to be non-unique however and i guess in the example that a typeid is a foreign key then i m more interested in the distribution
+31913
+maybe it is better to think to some solution without even citing the visitor pattern and clean our mind
+31929
+this is more important in the java world because they wanted to support compiling code using java 5 with generics and having it run on old 1.4 or previous jvm s which microsoft deliberately decided not to bother with
+32234
+i agree that c++ style cast are verbose but that s what i like about them they are very easy to spot and they make the code easier to read which is more important than writing
+32476
+it s relatively involved for each but the linq to sql is the more flexible solution and also the easiest to implment
+32647
+however the flavor of subversion software you use does matter though for instance one vendor makes it so the metadata is stored in _svn instead of .svn you might want to check for compatibility first
+32675
+to me padding just sounds more inner than margin
+32859
+i would that this question is geared more toward the approach of unit testing in game development
+32932
+cygwin acts more like a linux command line emulator
+33181
+it is fast but you would need to compare activemq and msmq for your traffic to know which is faster
+33338
+the problem with turning off this hosting process is that all the run and rewrite functionality is no longer available
+33338
+the problem with turning off this hosting process is that all the run and rewrite functionality is no longer available
+33403
+edit i know my basic data structures 101 and why a linked list is better for adding removing and a hashtable is better for random access
+33403
+edit i know my basic data structures 101 and why a linked list is better for adding removing and a hashtable is better for random access
+33510
+this makes things harder not easier because there are seemingly so many ways of accomplishing both of the goals modularity platform agnosticism
+33893
+since the font is not monotype a query of all i s is more narrow than a query of all w s
+34056
+this is more useful than just looking at an existing api because it also discusses design choices and trade-offs
+34071
+if you use mfc cregkey class is even more easier solution
+34627
+edit kamens is a faster typer than i am
+34969
+the above line is more or less the same as writing something like this not quite real code but you ll get the idea
+35204
+o n lgn o n and it changes the list or else creates a copy of it which is still more expensive in space and time
+35236
+the search database is further enhanced with additional code and metadata from the black duck knowledgebase the industry s most complete database of open source and third-party code
+35236
+the search database is further enhanced with additional code and metadata from the black duck knowledgebase the industry s most complete database of open source and third-party code
+35391
+this is far more concise than having nested if statements
+35479
+note that the bug causing the web service to bomb and lock up the dll is in my code which is outside of said dll so i think this is a more general problem than just the freeimage library not to bring them any heat
+35606
+if green boxes are your measure of better then ntfs is better
+35690
+the answer to which method is better is highly dependent on your exact situation but i will write what my overall experience has shown so far
+35744
+this all sounds much more complicated than it needs to
+35776
+at this point it becomes more clear what your processor-intensive algorithms are through proper profiling
+35777
+it s expressive and dynamic typing makes it more concise in many cases
+35777
+it s expressive and dynamic typing makes it more concise in many cases
+35984
+ditto stopwatch it is way better
+36122
+now lets say the user enters some more text into this string
+36340
+partial function application is more direct - it takes a function and one or more arguments and returns a function with the first n arguments set to the n arguments specified
+36447
+this is really more for the rails crowd
+36556
+aryeh s method with the accumulated parent list is probably better
+36556
+aryeh s method with the accumulated parent list is probably better
+36642
+1 which is better in your opinion
+36859
+you should either use iframe s if you prefer pure html this is more common eg
+36859
+you should either use iframe s if you prefer pure html this is more common eg
+36906
+can someone tell me which is faster and why
+37006
+which renders administration more difficult and--more
+37029
+from my investigations it looks as though the cursor option is generally faster and uses less reads and cpu time
+37029
+from my investigations it looks as though the cursor option is generally faster and uses less reads and cpu time
+37267
+the list looks more or less like this
+37404
+the whole idea that enterprise development is somehow distinct from and usually the implication is more important than normal development really irks me
+37511
+if the haystack needs pre-processing like say in a trie the haystack.find needle or words.hasawordwithprefix prefix works better
+38179
+more branches means harder testing which makes it more error prone
+38179
+more branches means harder testing which makes it more error prone
+38187
+i strongly suggest using videoinput lib it supports any directshow device even multiple devices at the same time and is more configurable
+38206
+i suppose that the name popen makes it more likely for people used to the old functions to find and use the new ones
+38255
+i believe linq to sql is designed to be fairly lightweight and simple whereas the entity framework is more heavy duty and probably more suitable in large enterprise applications
+38519
+the debate about which one is better is going to be just like the tabs vs
+38791
+which database table schema is more efficient and why
+38791
+which database table schema is more efficient and why
+38820
+which class design is better and why
+38820
+which class design is better and why
+38843
+the problem with turning off this hosting process is that all the run and rewrite functionality is no longer available
+38843
+the problem with turning off this hosting process is that all the run and rewrite functionality is no longer available
+38905
+if employee and member really are users and they are mutually exclusive then the first design is better
+38965
+and normally database space is much more expensive than file system space
+38965
+and normally database space is much more expensive than file system space
+39206
+in some cases we do but it s more of a sysadmin type of use case where the generated files say dns zone files built from a script have intrinsic interest in their own right and the revision control is more linear audit trail than branching-and-tagging source control
+39270
+if you create a field for user to input some kind of tags it becomes much more easier to query
+39282
+usually flex is more suited for application that need a lot of access to data but for simple things in flash you should use some xml data sources and write the xml source yourself in something like php asp python perl etc
+39306
+so the question one should be asking is not which of these two operations is faster it is which of these two operations expresses more accurately what you are trying to accomplish
+39444
+it covers what s going on in your head while programming and learning and states that this process is more important than what goes on in your ide
+39444
+it covers what s going on in your head while programming and learning and states that this process is more important than what goes on in your ide
+39586
+if you look at the source-code for the likes of asp.net mvc this is no longer accurate
+39586
+if you look at the source-code for the likes of asp.net mvc this is no longer accurate
+39598
+this might lead to a technology which is better suited for normal software development
+39656
+picking upper case variable names like i makes it more readable and
+40238
+the mutex is much more complex in these cases than a binary semaphore and using a semaphore in such an instance will cause priority inversions because the task manager is unaware of the priority inversion and cannot act to correct it
+40291
+this is bad for our concurrency requirements and can make stack overflows more likely
+40344
+opening a large table is much faster this way and access has easy-to-use right-click filtering and sorting
+40353
+for one thing grails is far more flexible than rails
+40471
+which is more efficient for non-threaded applications
+40509
+you probably can find some balance point at which maintaining the buffer is more costly than processing all the cells
+40779
+what i would like is something more like this 3.5 build 3198
+40878
+this makes hashmap better for non-threaded applications as unsynchronized objects typically perform better than synchronized ones
+41013
+the onload event is considered the proper way to do it but if you don t mind using a javascript library jquery s document .ready is even better
+41051
+really you re only doing four calculations so readability seems way more important here than efficiency
+41131
+that being said i agree with google that javascript is becoming more and more important and that the other browser makers should spend some time on optimizing it
+41224
+this is even more important to notice if you intend to perform auto-logon as an administrator
+41319
+my guess is that the second option is faster since it ll come back with a result as soon as it sees the first item whereas the second option for an ienumerable will need to visit every item to return the count
+41390
+fwiw most systems will scale most effectively by ignoring this until it s a problem- moore s law is still holding and unless your traffic is growing faster than moore s law does it s usually cheaper to just buy a bigger box at 2 or 3k a pop than to pay developers
+41497
+this is probably better written as
+41632
+regarding his solution depending on the implementation of ht either memory and or time is more then o n
+41662
+it has a c interface but is more c++-like in its implementation
+41765
+i agree with nick mvc is much closer to the real web paradigm and by using it you ll be confronted with how your website really works
+42025
+basically soundex is better for finding that schmidt and smith might be the same surname
+42025
+levenshtein distance is better for spotting that the user has mistyped levnshtein
+42057
+i don t think either is better and i d consider both a distance algorithm and a phonetic one for helping users correct typed input
+42077
+so if you do a count column and that column is indexed with a non clustered index sql server only has to scan the non clustered index which is faster than the clustered index because more will fit on 8k pages
+42269
+it might not catch everything but it should help you ensure your javascript code is more compliant
+42384
+however it does not catch everything because with ipv6 it is much more complicated acording to wikipedia all of the following examples are technicaly correct however the regex above will only catch the ones with a
+42532
+compute the relevance weight based on a and b as x a + y b where x and y are weight multipliers assign a higher weight multiplier to b as tagging is more relevant than simple word search
+42641
+gtk# is much more consistent and reliable for cross platform guis
+42726
+as other said ironpython is more stable and mature and you can find more samples and lots of regular python code that you will be able to try out
+42951
+a lot of scaffolding code is unnecessary in dynamic languages and that means the end result is more readable and more focused on the actual problem at hand
+43118
+of course that only works if the first command is no longer active
+43263
+which has all more
+43801
+this is a more dynamic approach than an explicit function method call where the object must support that function
+43962
+edit adams entirely right as you can see from his numbers - json is much more economical not only in this situation but for serialization in general
+43991
+also this way is much more performant
+43991
+selecting nextval from a sequence is a highly optimised operation in oracle whereas running ddl to alter the sequence is much more expensive
+44100
+which is marginally more complicated but seems to offer additional safety and is closer to what i would think of as the code complete solution
+44178
+for instance on some sites it makes more sense to use an email address as your identification token instead of a username
+44651
+globs can get a bit nasty when used from within a script and find is much more flexible
+44752
+make sure you re using a source control system that supports branching and merging i ve had experience with perforce and svn and while perforce is better svn is free
+44789
+as i have no industry experience i figured there might be a number of basic types of code which is done more often than i realize but which just doesn t materialize as external products
+44864
+so my question is is there any way to determine why the browser is sizing #outer the way it is or why it is choosing to wrap #inner3 even though there is plenty of room to put it on the previous line
+45454
+you can see which is quicker more consise and clearer
+45512
+as to the original question - which is faster
+45596
+by the way vb having the same underlying architecture allows much more flexible select case statements the above code would work in vb and still produces efficient code where this is possible so the argument by techical constraint has to be considered carefully
+45607
+i have tried others a lot but joomla is better because it has numerous extentions components modules and also its very easy to customize
+46002
+one potential problem is that if your file is bigger than 4gb or in practice the limit is lower often 2gb you will need a 64bit architecture
+46005
+mmap is way faster
+46005
+under the covers of boost iostreams i implemented a source which is more or less another view of the interaction between std streambuf and std istream
+46078
+to me it sounds like you need another interface to your existing shell that better supports copy and paste not another shell that supports more different features
+46123
+even at link time which is even more clever
+46123
+even at link time which is even more clever
+46123
+if the function is more complex say an indexer return m_value index
+46191
+web-services is more appealing because it works with standarized protocols even though jini service discovery is more natural
+46191
+web-services is more appealing because it works with standarized protocols even though jini service discovery is more natural
+46191
+web-services is more appealing because it works with standarized protocols even though jini service discovery is more natural
+46240
+if you are really concerned try doing some benchmarking and see which is faster
+46281
+apart from the concept of distributed repository i see two main advantages being touted the merge is better automated and the rename is handled right
+46288
+devpartner also tends to break as each new version of visual stuido was release maybe this is better now
+46288
+devpartner also tends to break as each new version of visual stuido was release maybe this is better now
+46415
+ssl encryption is also a good idea as this makes it more difficult to decipher what s actually being sent back to the server
+46486
+it has only one verification digit and is more difficult to implement compared to the simple formula above
+46614
+post is also more secure than get because you aren t sticking information into a url
+46930
+i realize that this question is perhaps more vague than is intended on stack overflow so how about this
+46933
+i know there are plenty of ways around this but i m more curious why this isn t possible implemented in c#
+46946
+composition is slightly more work for the api developer but makes the api more useful for its consumers
+47027
+the client code may not even need to know its using a singleton if a reference to the singleton is stored earlier on
+47083
+in addition since it s fairly common to make the wcf service code stateless it s pretty easy to scale out the actual wcf code by adding additional boxes which means the overall performance of your system is much more likely to be limited by your business logic and persistence layer than it is by wcf
+47168
+context while it s true that http overhead is more significant than parsing js and css ignoring the impact of parsing on browser performance even if you have less than a meg of js is a good way to get yourself in trouble
+47168
+context while it s true that http overhead is more significant than parsing js and css ignoring the impact of parsing on browser performance even if you have less than a meg of js is a good way to get yourself in trouble
+47197
+this format is more readable and will run more efficiently
+47197
+this format is more readable and will run more efficiently
+47626
+however the concat method is more efficient when concatenating an empty string onto an existing string
+47628
+so the concat method is more strict in what it accepts
+47674
+in other words m2eclipse is more friendly to the maven way
+47674
+in other words m2eclipse is more friendly to the maven way
+47761
+in java i assume c# is more or less identical
+47795
+you re coupling your test to your code but it s for the sake of noticing that your stub is no longer sufficient and your test needs re-working
+47805
+static libraries that makes life more difficult in this regard
+47845
+i ve heard that creating a new process on a windows box is more expensive than on linux
+47845
+i ve heard that creating a new process on a windows box is more expensive than on linux
+47908
+udp is slightly quicker in my experience but not by much
+47921
+in any case it is not more susceptible to corruption than tcp
+47929
+udp is faster than tcp and the simple reason is because its nonexistent acknowledge packet ack that permits a continuous packet stream instead of tcp that acknowledges a set of packets calculated by using the tcp window size and round-trip time rtt
+47966
+sometimes you don t want expectations on every method you re calling so some mocking frameworks will allow partial mocks that are like mock stub hybrids in that only the expectations you set are enforced and every other method call is treated more like a stub in that it just returns a value
+47977
+it s not that duck typing is more productive than static typing as much as it is simply different
+48002
+it s not that static typing is more productive than duck typing as much as it is simply different
+48002
+it s not that static typing is more productive than duck typing as much as it is simply different
+48075
+not that this is necessarily better but you could have an inner loop which always goes up to fizz and an outer loop which repeats it all some certain number of times
+48088
+so my question is can anyone give me an example where a return statement or other flow control in a finally block produces better more readable code
+48088
+so my question is can anyone give me an example where a return statement or other flow control in a finally block produces better more readable code
+48097
+hql is more my style and it s better than sql - it s object based not schema based and seems to work better for me for simple getx methods
+48134
+still this sounds like an interesting question where the solution is probably more work than it s worth.
+48154
+function is made more sophisticated
+48159
+being able to run the bytecode also enables more aggressive native optimization than a static compiler could safely use
+48255
+the only way to predict which is faster is to run them against your database
+48255
+the only way to predict which is faster is to run them against your database
+48458
+i would simply start trying these things and seeing which seems better but pydev s refactoring support doesn t seem to handle package moves very well so it will likely be a non-trivial task to get all of this working again
+48508
+c++ is complex enough as it is and the standard library classes especially the stl is much more important and at least superficially easier to understand than the c subset of c++
+48733
+any thoughts on whether there is anything fundamentally wrong with this design or if anyone is doing this and has had better luck with working with hibernate on the reloads
+48745
+for things like video streaming and multiplayer gaming where it is better to miss a packet than to delay all the other packets behind it this is the obvious choice
+48896
+a singleton with an actual instance is better
+48938
+also you can add or to the pas file which is probably better since it ll work even if you move the file to another project
+48938
+also you can add or to the pas file which is probably better since it ll work even if you move the file to another project
+49182
+based on the documentation on msdn and my experience binary is better since the md5 hash does not vary in size
+49290
+you can t do this with abstract methods - you must use inheritance instead which is more fragile
+49390
+and by the way it s a good idea with few repositories instead of many because change history normally is better preserved that way change history is gone if you move files between repositories unless you take special and somewhat complicated action
+49482
+depending on your needs awk is more flexible than cut
+49598
+this is more elegant than sleeping for a fixed or supplied via parameter amount of time
+49625
+i always encourage myself to use a standard documentation style like javadoc for java or the equivalent for .net in code but really any kind of documentation is better then none at all.
+49953
+java has much better performance than python and has way better tool support

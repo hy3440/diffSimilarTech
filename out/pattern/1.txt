@@ -178,3 +178,247 @@ i ve become quite fascinated with liquibase
 i don t know if it s still in print but i found navigating c++ usefull but i was also very comfortable with pointers from pascal
 19565
 - the way it s phrased makes about as much sense as which java
+20021
+from other questions here such as this one or this one i can see that i m not alone and that this is not a trivial problem
+20649
+it s a very specific problem with this code i doubt it will be useful for someone else but here it goes
+20944
+they must be doing some really crazy stuff with javascript to get it to work notice how neither the parent nor the nested anchor tags have a name or href attribute - all functionality is done through the class name and js
+20962
+i think silverlight and xaml is preferable to actionscript and though i m not familiar with actionscript ide s i am familiar with vs2008 and expression web blend and they are very good development environments and getting better all the time
+22031
+scraping stack overflow is especially easy with shoes and hpricot
+22057
+in my opinion as long as normal username password account creation is offered alongside openid average internet users will naturally begin to try and eventually stick with using openid
+22800
+true it s not as advanced as aero et al but that doesn t always matter
+22873
+explore functional programming with haskell
+22912
+we ve had pretty good luck by writing our own malloc and free functions
+22940
+explore functional programming with haskell
+23148
+in my admittedly limited experience with ssis it is quite good at rapidly getting something up and running but frusteratingly limited in getting something that feels like the most elegant efficient solution to a programmer
+23190
+i am having an especially hard time with this because i cant visualize 20 dimensions p
+23339
+i would go with flex for a nice clean straightforward approach - especially if you re already familiar with flash and actionscript 3.0
+23402
+anything thats as good and as stable and as feature-rich as gigaspaces
+23718
+i m not familiar with cherrypy so i can only suggest you look for an apache module for cherrypy
+24127
+personally i have very good experiences with camtasia
+24299
+having only developed programs with .net through mono using c# and ironpython my experience with ides only involve emacs and experiments with eclipse and monodevelop
+24531
+it s as painless as svn can be on windows
+24762
+since subversion uses an update edit commit cycle rather than checkin checkout you will need to be especially careful with binary files
+25182
+also i went with where in since i didn t feel like opening up the analyzer
+25275
+i am not familiar with ruby on rails but the following is untested php code
+25287
+but reference material is pointing to the fact that this is not possible by design
+25499
+i m looking for something as simple as ado.net s sqlcommand class with it s executenonquery executescalar and executereader
+25532
+i want something as easy as set up one template and subsequent pages derive from the template and override content regions similar to master pages
+26126
+i find that i need to make very few changes since i don t do anything extraordinarily complex with css
+26131
+i find that i need to make very few changes since i don t do anything extraordinarily complex with css
+26621
+if you are not familiar with mvcc you will be shocked that you were ever able to live without it
+26762
+is it as good as any other or is it pretty solid with good features comparatively
+26802
+my biggest gripe is that the performance of the server under windows is no where near as good as under nix and if you are using a nix server they do not officially support the option for case-insensitive filenames meaning you either forgo support relating to filesystem errors or setup a trigger that prevents people adding foo.cpp if foo.cpp exists
+26851
+while i did like the tools for example visual diff and merge and the admin bits we had some really tiresome issues with binding as chris mentions
+26905
+i ve also had pretty good experiences with aptana ide though and i hear that intellij is good if you don t mind paying the price
+27254
+it could be that prototype or mootools or extjs are as good as jquery
+28405
+on top of that readability should probably be more highly preferred than performance in this case
+28635
+some of this confusion also comes from the fact that functions they call might take pointers or even smart pointers as arguments when references would perhaps be better clearer
+28668
+i m quite handy with sql and if somebody could point me to some filemaker plug-in that could give me sql access to the data within filemaker i would be pleased as punch
+28762
+not possible with linq as calling .count ... does enumerate the collection
+28992
+abstraction this is especially true with linq-to-entities
+29463
+i m not good with c c++ at all so maybe someone can clean up my syntax or be more specific
+29529
+anyway i m not familiar with log4j and don t know whether you can inject your own serializer into it
+29660
+and even if you wanted to do something as kludgy as using context_info see you can t set that from within a udf anyway
+30116
+i dont t know asp.net mvc but i am very familiar with mvc pattern
+30281
+is as good as django or ror
+30284
+i dont t know asp.net mvc but i am very familiar with mvc pattern
+30458
+otherwise i ve had very little trouble with php on windows
+30720
+you can probably find a combination of tools object-relational layers or other data access tools which will do a lot of that for you but setting up the tools is going to be as much hassle as writing the code
+31142
+i ve not familiar with using either of these but try searching msdn for splitbutton or dropdownbutton
+31631
+git has become as ubiquitous as any single tool can be and you really would only be cheating yourself to not use it unless you just really want to use something not-git
+32303
+this needed some explanation which i later wrote-up as seam is the new struts
+32947
+the reportviewer control should work just fine with sql server 2008
+33438
+but some of the data i have to show on some forms has to come from text files and by text files i mean human-readable files they can be csv tab-delimited or even a key value pair per line since my data is as simple as this but my preference of course is xml files
+33484
+also i just wanted to share this question because i m totally impressed with freebase and think if people haven t looked at it they should
+33615
+i ve had pretty good luck with this using pure c++ code to read and write out datafiles this could be a third party library of some kind even and then my c++ cli code converts copies the c++ data into .net types in memory which can be consumed directly as if i had written the read write library in c#
+33618
+there s a potentially serious problem with this code because it ignores the character encoding specified in the string which is utf-8 by default
+33670
+i m not really familiar with aptana but in eclipse you can expand whats being installed and uncheck anything you don t need
+34812
+this integrates very easliy with iis websites
+34941
+for perl at least the first option is sufficient i m not familiar with php
+35464
+i m also not sure why you think the fact that this is valid c++ code is helpful when attempting to figure out why it doesn t compile as c
+35509
+if you try it ll slowly grow to be just as complex as bosh but without the benefit of third-party library support or standardization
+35731
+so i say subsonic makes sense in small apps but maintenance on subsonic apps gets pretty hairy we have especially hard times with overlapping validation code and pre post in code triggered events
+35759
+even code that s as simple as printing an error message with a format string can fail at runtime because of mismatched types
+35879
+i am only familiar with php
+35960
+different browsers have different max lengths for get requests - but none of them are as large as post
+36075
+while there are lots of ways to auto-generate code for something as simple as this i believe you could write a simple xslt that takes in an xml representation of the enum and outputs the code file
+36593
+i think you will be very impressed with sql buddy
+36711
+i would say you should have as many as required or any that make the code cleaner such as guard clauses
+36800
+not exactly analogous to nunit but very good with nice features including test auto-discovery and a watch the tests and code - when something changes rerun the tests that failed last time
+36840
+provide real unsubscription upon click on unsubscribe
+36858
+as horrible as it looks the git gui and gitk commands are as good as any
+36990
+if you re not familiar with mocking it sounds like a lot of work
+38129
+but you will need someone good with linux to handle this and preferably good with this precise technology
+38130
+i m not great with xml but i like vaibhav s idea of generating straight from a schema rather than using a template
+38201
+i ve had rather terrible experiences with mysql as a back-end
+38352
+i m thinking about using xml but i m not familiar with querying xml db fields
+38384
+as far as i understand they re not nearly as performant as iron python that is developed by the same team
+38521
+nothing feels quite so bad as tracking down a critical problem to code you added help track down critical problems.
+38533
+btree files are often much faster than relational databases
+38629
+also backing up those websites would be as simple as ftp the entire thing
+38705
+also backing up those websites would be as simple as ftp the entire thing
+38825
+i m not familiar specifically with cakephp but this kind of thing seems to happen anywhere with fixtures
+39343
+openoffice has a basic interpreter which is largely compatible with vba
+39464
+disclaimer i m not very familiar with c# so these are general answers
+39489
+that way when you decide to point the package to another sql server it is as simple as editing the alias to point to the new server no editing necessary in the ssis package
+39598
+i m not sure what exactly to make of that but the khronos group the guys working on the opengl standard are working on the opencl standard and is trying to make it highly interoperable with opengl
+40009
+if the modification is as simple as writing to a port ie
+40244
+i m looking for something that is almost as easy as writing a normal pipe
+40308
+i have written code for palmos and it s about as painful as writing raw win32 code in c
+40422
+ok is this as easy as wrapping an ajax autocomplete around a dropdown
+41015
+they have been very picky with this - and have not accepted my attempts to integrate with linkedin yet they tell me i have to wait with everyone else apparently my applications are not high-profile enough
+41082
+i realize that foss is your primary desire and i definitely agree with this
+41181
+consuming twice as much ram as firefox
+41277
+if the designer is not familiar with smarty i think it s almost the same as if you use the existing codeigniter templating system which leaves everything to php actually
+41386
+note that this concept is only concerned with scalability - not optimizing the number of steps for each car
+41457
+is this as simple as spelling
+41720
+so start with mvc and you will easily be able to move in to webforms if needed
+43010
+i m not familiar with java regex but documentation for the pattern class would suggest you could use
+43053
+i have an impression that spring.net never really took off or at least not as much as castle project monorail
+44291
+again it s not unbreakable by any stretch of the imagination but it s completely invisible to the naked eye
+44443
+i guess i was wondering if postgresql or mysql have any obvious advantages in these areas i am primarily familiar with oracle
+44973
+is it currently possible with pre release of ironruby to run rubygems
+45008
+it s not very difficult with javascript though
+45383
+there is no magic in the clr to call dispose methods automatically other than tracking objects that contain finalizers and storing them in the finalizer table by the gc and calling them when some clean up heuristics kick in by the gc
+45408
+is it something as hacky as mapping the mnemonic instructions to binary codes stuffing it into an char pointer and casting it as a function and executing
+45417
+is it something as hacky as mapping the mnemonic instructions to binary codes stuffing it into an char pointer and casting it as a function and executing
+46079
+only disable after user clicks the submit button but before the posting back to the server
+46123
+never implement functions as macros for the following reasons
+46296
+i m not familiar with bazaar but git doesn t track file renames
+46586
+should these be considered as dangerous as goto
+47177
+the getsystemloadaverage and disk space querying methods are only available under java 6
+47235
+while i m very familiar with asp.net i ve not seen this extension before
+47628
+now disassemble with javap -c included in the sun jdk
+48003
+imagine trying to use something so simple as map in java and no i don t mean the data structure
+48010
+if this is not about porting but creating you should really consider opengl as this api is as powerful as directx and much easier to port to mac or linux
+48431
+i m not real familiar with svn i ve never used it - so i can t comment that mergeing is worse with tfs - and haven t hit the merge bug ben s reported - but i ve had great success with branching and merging using tfs
+48448
+but unless the other languages are a small part of your shop just stick with svn
+48508
+i ve had quite good experiences with this order of teaching in the past
+48561
+given that you are on a shared host it is improbable that you can access to that file and even if you would access it it is probable that it contains then entries for all the websites hosted on the given machine setting up separate logging for each virtualhost is certainly possible with apache but i don t know if it is a common practice
+48733
+any thoughts on whether there is anything fundamentally wrong with this design or if anyone is doing this and has had better luck with working with hibernate on the reloads
+48772
+i have never hand-coded object creation code for sql server and foreign key decleration is seemingly different between sql server and postgres
+48882
+i am not familiar with apache cxf but the following should be applicable to any java servlet based framework
+48974
+i m not familiar enough with c# or ruby to know what their version of decorators would be
+49786
+i already have the parser and most of these will be hand written so i decided against xml
+49859
+you can become quite good with sections of it though and be super productive very quickly

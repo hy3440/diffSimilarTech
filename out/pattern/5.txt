@@ -814,3 +814,1619 @@ i haven t done any proper benchmarks but i tried out several other components an
 i haven t done any proper benchmarks but i tried out several other components and found that spreadsheetgear was considerably faster than xlsio which i was using before
 19952
 the rfc for a java class is set of all methods that can be invoked in response to a message to an object of the class or by some method in the class
+20093
+i ll second geoff s suggestions of phrogram used to be kpl and alice
+20156
+can this be done through string.format or are there any functions available to do this
+20175
+as you can see there is nothing in there about ordinals so it can t be done using string.format
+20175
+as you can see there is nothing in there about ordinals so it can t be done using string.format
+20200
+edit as others have mentioned the same thing can be accomplished using reflection which might actually be closer to what you would like to be the case - for example the above method replies on the concrete classes being inside the same file as the abstract class which probably isn t very convenient
+20200
+edit as others have mentioned the same thing can be accomplished using reflection which might actually be closer to what you would like to be the case - for example the above method replies on the concrete classes being inside the same file as the abstract class which probably isn t very convenient
+20227
+every method i write to encode a string in java using 3des can t be decrypted back to the original string
+20249
+it would be located in project webcontrols assembly company.webcontrols
+20277
+the definitive guide is a series of books that can be found on amazon
+20281
+i was thinking about sending a form out via email allowing the form to be filled out then sent back
+20282
+these can be created and distributed through email
+20293
+that way you ll have preserved the original referrer all the way from your users first visit and when your users have completed whatever steps you want them to have completed ie account creation you can read back that cookie on the server and do whatever parsing analyzing you want
+20312
+if comet is not your answer i m sure this could be implemented using the same idea but using more extensively ajax or coding in json for better results
+20344
+i think it depends on the mainboard and cpu and should be treated as random for your own good
+20426
+it can be assumed that leaf nodes will stay as leaf nodes interior nodes will stay as interior nodes and the whole thing will remain as a proper tree
+20478
+for me this solution worked fine but now i have a little more time on my hands now and have thought about refactoring the code to use a more elegant and efficient solution
+20489
+dr interfaces defines a list of methods that need to be followed think api while an abstract class gives some basic common functionality which the subclasses refine to specific needs
+20511
+i realize that in a perfect world i wouldn t be concerned with this
+20587
+the approach i was taking was to use an ssis package to create a temporary file and then have a ftp task within the pack to ftp the file over but our dba s do not allow temporary files to be created on any servers
+20607
+strtotime and getdate are two functions that can be used to get dates from strings and timestamps
+20620
+all of the software patterns listed here could be used using a strong waterfall process which is anathema to agile development
+20631
+alt + shift + x can be switched for alt + shift + d in all the above examples to run in the debugger
+20665
+attributes can also be used in aspect oriented programming to inject manipulate objects at run time based on the attributes that decorate them and add validation logging etc
+20670
+your code was fine except for the base 64 encoding bit which you mentioned was a test the reason the output may not have made sense is that you were displaying a raw byte array doing tostring on a byte array returns its internal java reference not the string representation of the contents
+20681
+i m all for keeping jars cohesive but it can be taken too far sometimes
+20771
+c# does not allow all expressions to be used as statements
+20771
+in particular only assignment call increment and decrement expressions may be used as statements
+20784
+red black trees solve that by forcing your tree to be balanced whenever you insert or delete
+20821
+this could be done with html if the previous point is possible
+20850
+the thing is that to remove the disk you have to eject the volume and in this case do it for both volumes which causes an annoying warning dialog to be shown every time
+20879
+as an example on a gaming web site i worked on recently there was a summary display of some stats about recent games this was all based on dirty reads it was more important for us to include then exclude the transactional data not yet committed we knew anyway that few if any transactions would be backed out we felt that on average the data would be more accurate that way
+20890
+values in the data can be changed and rows can appear or disappear in the data set before the end of the transaction
+21008
+i have had to maintain code that was refactored down to one and two line methods with seemingly meaningful names but the reality was there should have been comments to give the bigger picture of what was going on and how the methods related to other things that were going on
+21037
+remember that the subquery needs to be run for each row
+21137
+i would have thought that templates be readily available for nunit xunit mbunit et
+21302
+the user should be allowed to input globs which can be shell expanded
+21326
+any function can be declared inline and putting the function body in the class definition is one way of doing that
+21356
+other bluetooth profiles can be found on msdn as well
+21374
+if a or b store money then they should be represented in fixed point
+21476
+it can be taken my friend
+21531
+so if the smallest unit is 16 bits long what in x86 would be called a word then a 32 bit word representing the value 0xffff0000 could be stored like this
+21531
+so if the smallest unit is 16 bits long what in x86 would be called a word then a 32 bit word representing the value 0xffff0000 could be stored like this
+21531
+so if the smallest unit is 16 bits long what in x86 would be called a word then a 32 bit word representing the value 0xffff0000 could be stored like this
+21561
+edit that can be shortened a bit
+21584
+it is possible that you network admin could have revoked access to the securable object for the particular machine you are trying to access
+21598
+virtual inheritance will then break the ambiguity created in the bottom class when you call function in that class and the function needs to be resolved to either class d1 or d2 above that bottom class
+21606
+you can use this tool to export the state of a database at a given time and then when you re unit testing it can be rolled back to its previous state automatically at the beginning of the tests
+21609
+this can all be automated and can be considered an atomic action
+21609
+this can all be automated and can be considered an atomic action
+21636
+i played around with a structure awhile ago that used a hierarchical format using left and right columns obviously not those names calculated by a pre-order traversal and a post-order traversal respectively --don t worry these don t need to be recalculated every time
+21656
+you haven t reached eof because the eof mark hasn t been read yet binarically speaking its conceptual location is just after the 30 line
+21697
+if i wrote a service layer like this would you be annoyed at having to write presenters that use it in this way
+21885
+this could be used like
+21916
+may be worth investigating what permissions can be given to each zone
+21927
+before burning the house down to catch a fly with nolock all over you may want to take a look at that deadlock graph you should ve captured with profiler
+21985
+tk a hashing algo can only be guessed not reverse engineered
+21995
+it can also be used in other similar cases when merely logging the exception is not sufficient and an e-mail alert needs to be sent out
+21995
+fortunately i spotted it but it could have resulted in serious problems especially since the very uncommon corner case that it was supposed to catch turned out to be a lot more common than i anticipated
+22003
+whenever iboutlet is used in program text it will be replaced with nothing at all
+22026
+then in the event handler method you can load the assembly that was attempted to be resolved using one of the assembly.load assembly.loadfrom overrides and return it from the method
+22026
+what it gives you is that the location of each and every assembly that the clr fails to resolve can be determined and loaded by your code at runtime.
+22057
+you put your trust in the website with your password assuming you do not use a password storage program so that shouldn t be used against openid
+22074
+in my mind illegalargumentexception seems more specific than using a npe since it s telling me that the problem was with an argument i passed to the method and not with a value that may have been generated while performing the method
+22087
+strong and em phasis tags should be used where you d put emphasis on the word
+22140
+is there a way of compiling apache http server so its installation location s can be specified dynamically using environment variables
+22176
+i think the same pattern can be used for sequential operations sequential commands
+22216
+you want to start extracting your data access code so that it can be replaced with orm functionality without disturbing too much
+22266
+this technique can probably also be adapted to .net by making scopeguard implement idisposable and sprinkling using statements as needed
+22298
+it seems to be inspired by hibernate
+22407
+fortunately arrays are quite flexible and can be used as hash tables as well
+22418
+finally you can kind of emulate a binary tree with an array with the potential to have wasted space
+22430
+there are lots of gotchas that have to be taken into account
+22535
+they can be used to add tables add columns migrate data from an old to a new column format then drop the column insert master data rows such as user types etc
+22551
+this can be done easily using appropriate naming conventions for the classes
+22653
+when a file was uploaded this backend service sync d the data in the file system folders making it available to be served from either web server
+22654
+it was barely not really usable for testing mac specific browser bugs that couldn t be reproduced in safari on windows
+22700
+since you are using windows if you install wincvs with macros support python module loaded it has a macro that can be used to mass change cvs roots
+22718
+and read a href rel nofollow noreferrer on trusting trust a to get a clue about the unobvious things that can be done in this domain
+22897
+the won t be displayed in excel
+22903
+i know this isn t strictly a programming question but y all must have experienced this
+22903
+i tried terminals a few times before but quite often i need to see two or three sessions side by side which the tabbing doesn t really facilitate too well would ve been nice to have a pop out in own window button
+22968
+as these files will be used for validation and aggregation i store these in an image field in a table
+23008
+if you think something can t be done using stored procedure in pl sql use java stored procedure
+23008
+if you think something can t be done using java stored procedure consider pro c
+23008
+if you think something can t be done using java stored procedure consider pro c
+23068
+assume that if you don t find flaws then they will be discovered in production to your companies serious loss of face
+23074
+yeah everything you described except maybe perf monitoring can be done with database maintenance plans back ups shrinking log files etc
+23235
+don t forget that the product backlog items should be rated in order of importance using a weighting system prime numbers fibonacci .. so that if you have items in your backlog that of similar importance 2 items with a weight of 21 then they should in theory both try and be inserted in the sprint ahead of the 13s and 8s
+23292
+finding a good css theme easily can be used in asp.net
+23419
+this may or may not be what you re looking for but read this article simulate a windows service using asp.net to run scheduled jobs
+23474
+this webservice can be secured with username pass if desired
+23481
+the zip file produced can not be updated via winzip or win-rar -- each indicates the archive is corrupt
+23488
+i see you have your solution but mine would have avoided this and added a field to the documents you re indexing called email_domain into which i would have added the parsed out domain of the email address
+23499
+in many cases the status of the call stack will hold the information that would be equivalent to that which would be stored in state variables in procedural code
+23502
+in c# 3.0 fields can be converted to properties easily by using auto-implemented properties
+23533
+allow your oracle apps to access as 400 tables and be queried using oracle
+23533
+allow your oracle apps to access as 400 tables and be queried using oracle
+23635
+the gac can also be used by assemblies that require elevated permissions to perform privileged operations on behalf of less trusted code a partial trust asp.net application
+23653
+it s possible but forces the user to create three separate events that repeat weekly on m w f individually and any changes they want to make will have to be done on each one separately as well
+23688
+should senior developers be exempt from unit testing - or should they be allowed to use lackeys to implement them
+23714
+i would argue that from a tdd purist standpoint one that thinks that unit tests should be written before implementation senior developers should be writing more unit tests than lackeys not less
+23825
+for each versioned entity a table will be created which will hold the history of changes made to the entity
+23836
+and a few previous versions of vb so it s not going to be updated any time soon
+23836
+and a few previous versions of vb so it s not going to be updated any time soon
+24082
+if jconsole can t be used you can
+24082
+this doesn t affect performance and can always be run in production
+24084
+the distinction is that member methods can t be invoked on null values so the cil inserts a check against null values
+24156
+also i m curious do you have code completion and syntax highlighting when you code
+24156
+switching between tabs can be done using the cursor or several different shortcuts depending on the platform
+24224
+in particular there are a few requirements that must be met for sql server to perform an efficient bulk insert
+24227
+similarly methods can be marked obsolete
+24305
+i think that it sounds like this could be done using ssis packages
+24305
+i think that it sounds like this could be done using ssis packages
+24370
+mutable objects can be changed in-place dictionaries lists user-defined objects whereas immutable objects can t integers strings tuples
+24451
+while perusing libavcodec which is written in c the other day i noticed multiple uses of it
+24499
+however it s yet to be seen whether performance will be up-to-par with the ugly soda queries
+24592
+if the item is inserted in the database then it will be assigned a row
+24632
+because you always want to be handed a reference to the class and not to a derived one for various reasons
+24659
+if we are worried about performance well then i initialize only what has to be done and place it in the areas it gives the most bang for the buck
+24732
+be prepared to sink a lot of time into the process
+24781
+this would have to be done in unmanaged code as you ll be loaded into explorer.exe
+24829
+logically i d think value types inside classes would be in the heap but i m not sure if they have to be boxed to get there
+24852
+function which can be passed the time after which the function will be executed
+24894
+i think its fine - but be prepared to shift to a library should you find yourself spending more then a few minutes maintaining your own code
+24933
+query#1 results need to be retrieved where subquery results match
+24933
+query#1 results need to be retrieved where subquery results match
+24964
+be warned this book is a bit of a door step
+24995
+classes can be written in scala then extended in java for example
+24999
+boost is another library which has a lot of features that can be recognized as derived from functional programming
+25008
+also due to lsp liskov substitution principle one can use derived class where base class is expected and this is actually imposes the greatest impact from use of inheritance code using base class may be given an inherited class and it still has to work as expected
+25014
+from 0-50 your hex value would be ffxx00 where
+25014
+from 50-100 your hex value would be xxff00 where
+25024
+the algorithm could be made in any language
+25033
+a line is considered to be terminated by any one of a line feed n a carriage return r or a carriage return followed immediately by a linefeed
+25072
+there are a lot of considerations that need to be taken into account when deciding between mysqli and pdo
+25089
+cdata sections will only make markup be processed as character data they will not change line break processing
+25100
+depending on how your host is set up you may be permitted to place a php.ini file in the root of your home directory with extra configuration directives
+25144
+os x doesn t really have this problem because most needed glyphs can be reached via alt keys but windows doesn t have this feature
+25146
+anyway if the client is not there to commit at the end of the job the changes should be rolled back by the server
+25150
+anyway if the client is not there to commit at the end of the job the changes should be rolled back by the server
+25151
+chances are if someone tried to input html characters or stuff they actually wanted that to be displayed as text anyway
+25178
+i believe that our fallback plan would have worked the vmware converter images of the vms that were running orphaned were tested and ran fine with no data loss
+25190
+i do not have ms sql query analyzer at hand to actually check my hypothesis but think that where in variant would be faster because with union server will have to do 3 table scans whereas with where in will need only one
+25284
+the later dbms may have optimized that difference away but it s doubtful
+25318
+if to be used with sql server 2000 2005 the original code needs to be enclosed in transaction to make sure that data remain consistent in concurrent scenario
+25318
+add as already suggested merge should be used where available
+25355
+obviously this could all be done in code-behind but this seems like the correct approach
+25365
+the code would be used like this
+25365
+the code would be used like this
+25408
+althought your password must be encrypted maybe it s worth just checking if your user was actually created
+25422
+althought your password must be encrypted maybe it s worth just checking if your user was actually created
+25449
+i want to create a java program that can be extended with plugins
+25473
+it also supports the use of the mouse scroll-wheel for adjustment as well as the traditional just type it in approach and can be configured to restrict to n -minute steps too if you like
+25499
+can anybody demonstrate how it would be done using atl consumer templates for oledb
+25499
+can anybody demonstrate how it would be done using atl consumer templates for oledb
+25517
+see this is the problem with so-- every answer so far has made a valid point and should be considered the final answer
+25566
+how might i write an even worse big-o sort without just adding extraneous junk that could be pulled out to reduce the time complexity
+25592
+without testing it myself i would see this as strong evidence that all non-ascii characters in source code will likely be considered lowercase
+25606
+also a sample mvc controller method can be found here which basically uses the jsonresult action type like
+25656
+and truth to be told it s kind of fun and not all that difficult once you get the hang of it
+25692
+however you may create a kind of validation layer between controller and model so that most of syntactical validations can be carried out on data before it reaches to model
+25793
+n maximally distant colors can be considered a set of well-distributed points in a 3-dimensional color space
+25950
+are there some concrete things that can be done with ruby apps or things to avoid to keep performance at the best possible level
+25958
+first it does truly try to separate the presentation html from the code .cs which may be implemented by using visual basic or c# syntax
+26021
+loading significant chunks of that data can take some time and we have implemented various measures to reduce the amount of data that has to be searched and loaded for larger queries such as storing larger granularities for queries that don t require a high resolution time-wise
+26069
+i use so that i can pump colorized output from grep into it and maintain the ansi colour sequences
+26147
+they created a chromium-based .net browser component called dotnetbrowser which can be used to display modern web pages in windows forms applications
+26173
+the widget would be used to enter date and times of a course as an example if i run a programming course 3 days a week on mon tue and wed every 7 00 am to 9 00am 2 hours every day from 1st september to 30th november
+26225
+typically these sorts of problems can be solved using a recursive descent parser
+26229
+can it be done with visio alone or do i need a plugin
+26352
+but first you want to be done and push it out to see how people react to it
+26366
+design patterns and pattern languages seem to have embraced the structure of alexander s design patterns but not many capture the essence
+26428
+in the no-cost category newer versions of gzip and bzip2 are supposed to include large file support someone on the internet tells me that bzip2 1.0.1 and beyond is large file compatible thanks to cyril pilsko while gzip 1.2 can be patched which the dowloadable binaries are and the gzip 1.3 beta includes support
+26485
+it s absolutely foolish to not design by contract when doing anything in an soa realm and it s always helpful if you re working on any sort of modular work where bits pieces might be swapped out later on especially if any black boxen are involved
+26542
+if you are more interested in documentation then i would use annotations that can be used with static analyzers and the like to make sure the code isn t breaking your annotations for example
+26686
+i ve used glowcode extensively in the past and have had nothing but positive experiences with it
+26710
+jeditorpane can be used to display html pages
+26756
+your job may be made a bit easier by using the squish library to decompress the blocks for you
+26857
+further clarification how do automated spam bots fill out forms and click the submit button if they were written in c#
+26857
+further clarification how do automated spam bots fill out forms and click the submit button if they were written in c#
+26862
+i have deployed mssql2005 express on several enterprise level projects which i knew had a fixed database size that would never be exceeded express has a limit of each database of 4gb
+26949
+also try to avoid situations where you have circular object references as it is possible that these may not be freed either
+26994
+it is usually a big mistake to have config.h be included from public headers
+27043
+if you select the conditional formatting menu option under the format menu item you will be given a dialog that lets you construct some logic to apply to that cell
+27155
+i would have thought you d create a customer table and an address table and normalized the tables
+27196
+cases can be linked to each other but if you re looking for a tree of cases prerequisites and such you need fogbugz 7 or later
+27219
+the id may be an ok place but would not be guaranteed unique if i had multiple select s sharing values and other scenarios
+27227
+separation of concerns that can all be tested in isolation
+27253
+bonus points if the tool can be run on mono or linux
+27326
+this will make the pointer unmanaged which can then be passed into unmanaged functions
+27344
+allow partitions to be maintained by switching partitions in and out of the partitioned table
+27532
+this will be written in java but the display layer is already taken care of i just need to figure out how to figure out what to display
+27622
+the trace macro can be used to output diagnostic messages to the debugger when the code is compiled in debug mode
+27628
+so using the out-the-box trace from mfc you won t actually be able to read any trace text because it won t even be written out
+27638
+additionally the aforementioned parsing process can be extended through reader macros that let you customize the way your compiler turns text into s-exps
+27687
+also oracle sql developer is a cross platform application that can be used with any version of oracle and is also free
+27707
+if they happen not to have made any local changes then their config file will vanish but they can just re-get the previous one out of source control and use that
+27707
+if they happen not to have made any local changes then their config file will vanish but they can just re-get the previous one out of source control and use that
+27717
+if you are only reading from the file i know it can be done with windows api createfile
+27749
+the underlying os infrastructure supports deleting renaming open files although i believe it does have the restriction that memory-mapped files cannot be deleted which i think isn t a restriction found on nix but the default opening semantics do not
+27752
+this kind of flowchart can be accomplished using css resorting to javascript graphing libraries canvas might be overkill
+27752
+this kind of flowchart can be accomplished using css resorting to javascript graphing libraries canvas might be overkill
+27757
+resource mynamespace.resources.file.png cannot be found in class mynamespace.myclass
+27758
+well in short i have a class that needs to be serialized to xml
+27791
+the desktop.mail uri method .the uri can be used to set all the fields of the mail sender recipients body subject
+27815
+afaict taggregatefield objects are automatically recalculated and can be bound to data-aware controls like tdbtext but don t have any onupdate event
+27815
+taggregate objects on the other hand do have an onupdate event but can t be bound to data-aware controls
+27906
+marking an element as obsolete informs the users that the element will be removed in future versions of the product
+27951
+under memory pressure the pages belonging to a table variable can be pushed out to tempdb
+28026
+or integral type can be casted to any other with reinterpret cast
+28052
+they also permit similar-looking functions to be written boost lexical_cast which is quite nice from a consistency perspective
+28152
+php is dynamically typed language and variable will be casted to string on the fly
+28256
+using this method however leaves me with everything having the same precedence - it s evaluated left to right regardless of operator although precedence can be enforced using parenthesis
+28319
+output can be exported to xml postscript csv or plain text
+28363
+any suggestions will be appreciated free open source or commercial
+28406
+one problem i run into a lot though is programs that cannot be told to use the proxy for dns queries too
+28411
+this can be used to submit data to post s
+28411
+as an array the data will be sent as multipart form-data which is not always accepted by the server
+28448
+note that ant properties cannot be changed once set so you override a value by defining a new value before the default value
+28464
+even though that really isn t a huge problem when you re using a dependency injection framework it still feels that there are certain properties that really don t need to be interfaced out just for the sake of interfacing them
+28467
+as for using arrays with boost i personally haven t done this but i know the functionality to expose arrays to python using boost is available - this might be helpful
+28470
+if your class relies on the implementation details of another class that needs to be refactored abstracted to the point that the classes can be tested in isolation
+28538
+i can see that the methods exported by classes can be listed using javap but there doesn t seem to be an opposite facility to list the imports
+28538
+i can see that the methods exported by classes can be listed using javap but there doesn t seem to be an opposite facility to list the imports
+28538
+this would be similar to the dumpbin utility in windows development which can be used to list the exports and imports of a dll
+28553
+it allows for usage of a certain library but modifications to it should be made public
+28563
+maybe it s not terribly idiomatic but i d be inclined to go with
+28573
+leopard server however can be run under emulation and can be used for desktop purposes
+28573
+leopard server however can be run under emulation and can be used for desktop purposes
+28693
+all named queries will be validated at initialization time an exception will be thrown if any is not valid can be disabled if needed
+28693
+all named queries will be validated at initialization time an exception will be thrown if any is not valid can be disabled if needed
+28700
+it stands as much of a chance to be installed as python or ruby
+28711
+it can be used from any .net language
+28734
+with expression trees that can be parsed into sql
+28742
+this means that the standard apache authentication methods can be used for access control
+28844
+expression design is basically a vector drawing program that can be used to design smaller components that are then used within expression blend as parts of the ui
+28947
+when you compile without the debug flag set any call to writedebug will be removed as was assumed was happening with debug.write
+28952
+i realize that tools could be written to collect this data and report on it but i m wondering if there is any tool that lets me see a live view of which databases are contributing most to the sqlservr.exe cpu load
+29014
+if lightweight cmmi can be done i d love to forward it off to a few people
+29057
+are you aware that the access 2007 runtime can be downloaded for free
+29143
+those named groups can be found by either indexing by number or with a string
+29143
+the example above can be used like this
+29143
+the example above can be used like this
+29208
+tim sullivan from bertrand meyer it can only be related to eiffel
+29315
+comparisons ... shall be performed using the collating sequence of the current locale
+29369
+if you re looking for a higher-level explanation of this stuff as in not code applied cryptography has quite a few relevant examples and i believe a section on secure elections that covers some voting strategies
+29403
+these machine by their very nature shouldn t be connected to any kind of public networks especially not the the internet
+29474
+there may be different elements that need to be configured during deployment
+29475
+that is when estimating the time an iteration should take the time of design write and or execute the cases should be incorporated into this time estimate
+29614
+the static variable would be lost whenever the appdomain unloaded of course
+29643
+are there any optimizations that can be done on either approach
+29678
+my idea is to have yesterdays data moved into ssas every night and there store the aggregated value of number of transactions and the actual number of transaction from yesterdays data
+29739
+if slsbs were designed thread safe every call would have looked like a servlet doget post with request info containing tx context security context info and etc
+29775
+the first deliveries will not be used in production
+29806
+i know the colours are changed in environment fonts and colors but i haven t found out which display item the object is
+29806
+i know the colours are changed in environment fonts and colors but i haven t found out which display item the object is
+29852
+with that setup the svn revision number of the metarepository could possibly be used for versioning the complete system
+29902
+2 you haven t given many any details as to what kind of game you are talking about so it s pretty hard to answer this one
+29953
+i would have said that something must have updated either the libeay32.dll or another dll that depends on it
+30008
+also the questions under oop design in the same article can be done on pen and paper or even in your head and are i think good exercises to do
+30049
+the choice of behaviour is really quite different and i can t find a clarification on which is correct or if this is simply an oversight in the specification it doesn t seem to be clarified in levels 2 or 3
+30077
+have discovered that this only occurs when the script is run on a different drive to the one where the exe is located
+30079
+you ll need to be linked against mapkit for this and it will prompt for location access i believe
+30094
+but would it be quicker to add an index with the column at the head prime key following do the query then drop the index
+30108
+unless the contents of a file can be verified for completion it has a verifiable format or includes a checksum of the contents only the sender can verify that a whole file has arrived
+30114
+as for a runs-everywhere command line tool to be used with commit hooks try narrange
+30121
+after my webform is submitted a regex will be applied to user input on the server side via php
+30167
+if you have a pre-compiled web site then none of code files .vb .cs etc need to be deployed the server
+30172
+this fix is long-specific but it could probably be generalized to handle any primitive type having this problem
+30188
+i am trying to set a javascript date so that it can be submitted via json to a .net type but when attempting to do this jquery sets the date to a full string what format does it have to be in to be converted to a .net type
+30197
+the gears plugin can also be installed in firefox
+30204
+if you had other folders that begin with dots those would not be included either
+30274
+tables can be used to markup tabular material or for layout purposes.
+30331
+alex s article springs to mind here however it s only applicable if you re using asp.net - it could be emulated in javascript however but again you d have to use document.write
+30353
+since the required information for the route content pathinfo is entirely satisfied always no required data at all in this route and it s near the top of the route list then all your attempts to map to unnamed routes will match this pattern and all your urls will be based on this content
+30416
+based upon his site this data could be skewed a bit but i think we fairly similar numbers as well
+30428
+update i will be a bit more specific - not that interested in web app clustering unless it can be pulled out and run standalone
+30566
+it is happening regularly and seem to be triggered by traffic
+30574
+you may have come across this posting but it appears that a flash security update changed the behaviour of the crossdomain.xml requiring you to specify a security policy to allow arbitrary headers to be sent from a remote domain
+30595
+if your data can be laid out in a two-dimensional grid use
+30598
+however some of these account subclasses implement versionable or listable or editable so that they can be thrown into controllers that expect to use those apis
+30638
+a similar effect can be achieved with tmux
+30690
+there is a balance to be found between having build steps be broken down with enough granularity and being a complete unit
+30715
+all units should be able to be tested in isolation
+30995
+occasionally while attempting to save a crystal report that i m working on in vs2008 a dialog titled file save failed pops up saying the document could not be saved in c users phillip appdata local temp xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx .rpt
+31004
+however the moment those functions need some kind of external non compile-time const data then that function should be made an instance method and encapsulated along with its data into a class
+31140
+i assume this could be done with reflection but i m not really sure how best to go about it not having worked with reflection before
+31186
+the math to do this is quite simple and should be covered by any textbook on basic geometry
+31207
+some of it may be paged to disk or not
+31208
+discoverability could be done using reflection to walk over each field
+31208
+discoverability could be done using reflection to walk over each field
+31221
+but this code is on a master page and can be executed from any folder level
+31271
+it was originally intended for writing technical documents related to computer hardware and software but it can be used for any other sort of documentation
+31326
+however for the other browsers that are to be supported namely firefox at the moment but i strive for multi-browser support i simply display message to the user that they need to close their browser to log out of the application which effectively flushes the application cache
+31419
+even if they are idiots nobody likes to be treated like one
+31421
+if the program has plugins which are essentially fire and forget with no api level integration then the resulting work is unlikely to be considered a derived work
+31421
+if on the other hand the code is deeply dependent upon the gpl ed work such as extensively calling apis or tight data structure integration then things are more likely to be considered a derived work
+31421
+if the interpreted code relies heavily upon your apis or vice-versa then it would be considered a derived work
+31432
+probably plenty of typos here to be found when compiled
+31477
+the brail view engine has been implemented to be used in asp.net mvc
+31542
+it s designed so that each ui component is intended to be extended via delegation rather than subclassing or other means
+31548
+the one i could remember search software america seems to have been bought out by these guys but i suspect any of these sorts of solutions would be far to expensive for a contacts application
+31589
+i wouldn t be concerned about performance
+31625
+this use to be what i considered object oriented but really this leads us just to exposing the guts and implementation of the object and not really taking advantage of encapsulation
+31643
+edit i should have mentioned that s the professional version the free community version ships with visual studio
+31665
+if the user is not valid the directory entry nativeobject cannot be accessed and throws an exception
+31860
+as a consequence and are required to be read as named
+31877
+it s probably moot - something like an employee table is likely to be small enough that it will stay cached in memory and you probably wouldn t notice a difference between that and indexed retrieval anyway
+31884
+what would have been instance methods on your class become just functions in the module and any data just becomes variables in the module instead of members of the class
+31884
+what would have been instance methods on your class become just functions in the module and any data just becomes variables in the module instead of members of the class
+32002
+in log4j this can be done using the logmanager or basicconfigurator classes
+32041
+the debug statements would need to be marked somehow maybe using annotations
+32087
+can files be edited using scripting tools
+32087
+can files be edited using scripting tools
+32087
+can everything that can be done using the windows gui be done using a scripting language
+32087
+can everything that can be done using the windows gui be done using a scripting language
+32165
+more informaiton can be found at wikipedia
+32176
+if you have only simple html pages as you said it can be opened with word
+32195
+on the other hand the latest version of sharepoint 2007 can t speak for earlier versions allows for office documents to be opened by clicking a link in the browser and edited in the local application
+32196
+it was defaulting to user which must have displayed the prompt
+32210
+it s harder to see ungreppable conflates different actions that should not be conflated and can t do everything that c++-style casts can do
+32251
+on some projects we have a 3 week beta test period where lots of people hack on the system before the smallest of changes can be rolled out
+32251
+in other areas less critical small changes can be moved out with just the nod of another developer
+32258
+it turns out that i actually need a 301 redirect because the uri i m redirecting to is more correct and stable and should therefore be used for future requests
+32286
+was the original url in the post but should not be used for .net 2.0 and above
+32346
+on a large project we can have devs writing tests that fail based on issues reported by users
+32376
+ideally this library supports the b-tree index to be stored manipulated as a disk file so that large trees can be built using a configurable ie minimal ram footprint
+32390
+then again if it can be tied to javascript you might as well hash the password on the client-side before sending a request to the server
+32404
+i won t necessarily have to implement this part but i need a rough idea how it would be done in order to decide whether to design along these lines
+32440
+i do it using the pythoncom libraries that come included with activepython or can be installed with pywin32 python for windows extensions
+32536
+you should however be familiarized with user interface design specially with ease of use and terms as goal oriented design
+32666
+that can be added with editor macros or a code-processing script
+32666
+edit the verbose check could be added this way as well but i think it s significantly easier to automate the addition of a single line
+32851
+the libraries will be written in c#
+32898
+the error would have happened when sqlite3 was require d before the migration finished so it looks like they ve fixed the issue
+33000
+ianal but it seems some corrolations can be drawn to having your car stolen and someone commits a crime with it
+33000
+you will be investigated and can be determined innocent if you have some alibi or logs showing your machines were not responsible for that traffic
+33023
+regions and code folding is really all about providing a way to easily group sections of code that can be collapsed folded hidden to minimize the amount of extraneous noise around what you are currently working on
+33077
+tuneup is a free service whereby you download a plugin and when you run your application it injects a panel at the top of the screen that can be expanded to display detailed performance metrics
+33107
+in fact this cheaty approach to be extended to borrowing colour schemes from applications that are already out there that have colours schemes you admire -
+33172
+ienumerable is great because it can then be processed by linq operators
+33172
+note that the file is read character by character with the code deciding when newlines are to be treated as row delimiters or part of a quoted string
+33256
+ps - this question should be tagged as objective-c not c since nsenumerator is a cocoa class and the new for .
+33265
+if i understand this right these operators can be used in types which i want to use instead of a boolean expression and where i don t want to provide an implicit conversion to bool
+33405
+you pretty much need to keep the same data context available throughout the lifetime of the operations you want to perform if you re ever going to be storing changes which are to be .submitchanges d later as otherwise you will lose those changes
+33434
+killing and restarting your nis server can have funky effects on particularly non-linux clients so be careful doing it willy-nilly
+33452
+you have a seperate gui system which will be passed these parameters in a generic fashion but the catch is that it needs to present the gui component specific to the concrete type of the parameter class
+33456
+for session cookies it doesn t seem to be supported in tomcat yet
+33456
+a somewhat involved work-around for now can be found here which basically boils down to manually patching tomcat
+33566
+slightly off-topic but one feature of findbugs that i think is very useful is to be able to annotate the parameters of methods to describe which parameters should not be passed a null value
+33566
+the annotation describes your intention for how the method should be called aiding documentation
+33570
+some reports that i ve been working on that used to take two hours simply to export have been cut down to under a minute
+33578
+this kind of session tracking is very likely to be done using a combination of a cookie with a unique id identifying your current session and the website pairing that id with the last ip address you used to connect to their server
+33598
+you may be surprised - mono does have a system.data.sqlclient namespace so you may not have much work to do
+33603
+thus you could have a resizemypage function defined somewhere in the javascript and it would be run whenever the browser is resized
+33611
+one of the typical concerns is i m writing this awesome library which is supposed to be used like so
+33656
+you have two choices embedding values into a table allows versioning multiple items that can be queried or having an explictly named object such as a table or somesuch you can test for
+33681
+their scope can be limited in cmd scripts with setlocal and endlocal
+33689
+you d then be tied to firefox though
+33729
+in other words code that was compiled on java 5 can still be deployed to java 1.4
+33743
+instead clone the templates you want to have customized variants of
+33746
+the other team said that this was not industry standard and that attributes should only be used for meta data
+33746
+i searched for the mysterious industry standard that was mentioned but the closest i could find was the xml attributes should only be used for meta data but said the debate was about what was actually meta data
+33755
+it is arguable either way but your colleagues are right in the sense that the xml should be used for markup or meta-data around the actual data
+33757
+i would have done something like
+33928
+basically tail recursions are able to be optimized into iteration
+33948
+edit emmett - the width could just as easily be applied via css
+33960
+how can this be done in java
+33973
+in the vein of programming questions suppose there s a collection of objects that can be compared to each other and sorted
+34008
+for internal code ie code that won t be referenced in any interop manor with other languages i vote for using unsigned when the situation warrants it such as length variables as mentioned earlier
+34023
+i think that i should have been more clear with my original question
+34035
+an introduction about how to use it against an informix database can be found in this article
+34090
+unless you really want to understand the algorithms by writing your own you d be advised to use libgmp under c
+34177
+while i hate to give an answer i m not 100 certain of the lack of responses so far makes me think a potentially correct answer might be okay in this case
+34195
+in particular if you want the extra text to be ignored you can use overflow hidden as a css property on the text
+34287
+the other possibility is that the project is open and running in debug mode on another instance of visual studio - although i suspect you will allready have ensured this is not the case
+34294
+other developers must have come across this before in delphi
+34322
+i know that webtests can only be recorded using the tester edition of vs
+34415
+there are some good documents to be found regarding this for example here
+34418
+what services must be started before this one what user it runs as
+34506
+i know this example is trivial but if i have a vector of complex data that is going to be always the same for all derived class but is needed to be accessed from base class methods
+34509
+all their input is parametrised and the like but i can t change the format - if they put in rec2 and rec10 they expect them to be returned just like that and in natural order
+34538
+your function here can only be used to replace one element with the response from the ajax call
+34566
+in other words the default implementation of object.gethashcode is going to be based on reference equality since there are no real instance fields to use and therefore does not guarantee unique return values for different objects
+34578
+adding particularly long sleeps can also be used for debugging to try and force a particular order of events
+34578
+the sleeps should be removed after debugging
+34638
+for column based security we could perhaps have secured to either assist in query generation or perhaps use an aspect to filter the information returned
+34645
+hard limits mark the maximum value which cannot be exceeded by setting a soft limit
+34681
+there are very clever attacks that can be performed by forcing collisions in a hash
+34716
+you probably need to think about how you re going to handle any thread safety issues and it might be overkill for this particular application but it might work for you
+34780
+this approach is pretty brute force but it is simple and can probably be duplicated in any imperative language
+34855
+however if you re against this for some reason you could also write a function to create date pickers for all text boxes in your template div to be called after each duplication
+34896
+i am leaning more towards the first method because any data that came from user input must still be approached cautiously where the cleaned data might still unknowingly or accidentally be dangerous
+34924
+i haven t done any high-tech audio stuff using flash so i was wondering if anyone knew if it was possible to do
+34926
+has to be done with inline vb.net
+34990
+it has the capability to specify operations which can be recombined into roles or assigned directly to users
+35008
+if all servers in your cluster will host a replica the home directory in iis can be configured to go against the local drive d
+35012
+thanx to daniel but i needed it to be done inline .
+35016
+your branching strategy would be dictated by which tool s you re using
+35017
+i need a database that could be stored network drive and would allow multiple users up to 20 to use it without any server software
+35077
+be sure to convert each part of the path separately otherwise path file will be converted into path 2ffile
+35083
+no new features should be added no refactoring and no code cleanups
+35085
+be made which is the value of the expression
+35110
+since dbsprockets is likely to be incorporated into turbogears it will likely be maintained
+35136
+i use this quite a bit - be forewarned this implementation is a bit naive there are some potential problems with it depending on what you are serializing and how you use it on the client particularly with datetimes
+35136
+i use this quite a bit - be forewarned this implementation is a bit naive there are some potential problems with it depending on what you are serializing and how you use it on the client particularly with datetimes
+35157
+anyone who doesn t use their tables every day can probably wait for them to be restored from backup
+35380
+1 2 ...n such that the parent process prints all odd numbers and the child process prints all even numbers and all of this needs to be done using posix signals
+35380
+1 2 ...n such that the parent process prints all odd numbers and the child process prints all even numbers and all of this needs to be done using posix signals
+35438
+for the few cases where we really needed unique constraints we made sure we used replace instead of insert mysql proxy can be used to guard for proper usage .
+35449
+this step can be used to show how a simple data structure or array can represent the game board simple input to get user commands moves simple output to display the game board and prompts etc
+35449
+more complex and satisfying games can still be produced using text mode or simple graphics
+35449
+more complex and satisfying games can still be produced using text mode or simple graphics
+35615
+i know design patterns in a software context usually refer to oo based design patterns but i mean design patterns in the broader sense of the term common clean solutions to common problems tasks
+35672
+you ll also find that common ides either come with subversion support or have plugins which can be installed which allow most version control operations to be performed within that environment
+35688
+example code for this can be found via any search engine or via google code search
+35690
+qa should be done on each branch before it is merged to the trunk
+35722
+can this be done with c and shell scripting
+35776
+there s far less idioms required to be involved in writing good python code than in writing good c++.
+35798
+what techniques can be applied to detect polymorphic and metamorphic viruses
+35803
+of course these detection techniques are also known to virus creators and can easily be bypassed using a bunch of random unharmfull code executions before the actual payload
+35807
+i d imagine a generic xslt for xsd- sql once written could be applied to any such scenario and would be cross-platform too
+35876
+someone should be assigned to aggregate user comments and reports and discern which are actual bugs and which are duplicates and which give some sort of clue on how to replicate them
+35880
+the child container the nav list in your case should be positioned absolute and forced to occupy the whole space with top 0
+35887
+for the users it s probably more about how you ask the questions and letting them know that you require certain ones to be answered or which ones you d find more helpful then you d probably get better responses
+35995
+you need to watch out for using mysql s built in timestamp function like current_timestamp or cur_date because they will be called whenever the query is actually executed
+35998
+either method can be generalized to connect more data
+36014
+the noviablealtexception that is thrown is fully intended and designed to be caught by user code
+36027
+apparently gcc doesn t behave like the one described in the c programming language where it says that the command cc helloworld.c produces a file called a.out which can be run by typing a.out on the prompt
+36033
+the newly created type can be used like this
+36033
+the newly created type can be used like this
+36047
+this should be raised when any unhandled thread exception occurs
+36079
+in my php webapp i want to be notified via email whenever certain errors occur
+36093
+maybe i should have asked what s the best tool to use for versioning photoshop and related files
+36124
+the access 2007 runtime can be obtained free from here which makes distribution less expensive
+36126
+the popup window can be closed using the onclick html event as follows
+36291
+if it doesn t then the property code queries the database and computes it then stores the value in the _total field so that it need not be recomputed the next time it s requested
+36349
+dual-licensing works for developer-tools code libraries that have to be linked distributed with commercial software
+36364
+the method above adds two objects of the same type and can be used for any type t that has the + operator available
+36384
+if you re on an intranet windows authentication can be handled for free by configuration alone
+36464
+it can be used to bypass javascript validation and check whether the server side is doing its thing
+36469
+you can add a suffix to the generated commands so that you can have standalone ruby 1.8 and ruby 1.9 builds both at the same time
+36488
+if there are large files to be cached i d look at ensuring your content engine supports if-modified-since
+36501
+rpc methods such as named pipes can be used to communicate to a master process should this be required
+36682
+but my question here is why do they need to be declared as static in the containing class
+36689
+dp should be registered before any class which uses that db instance created
+36714
+can be made more readable imho like this
+36734
+update it s highly unlikely that property support will be added in java 7 or perhaps ever
+36780
+the hardiest part that i can see is tracking dependencies eg for a particular deployment table b might need to be updated before table a
+36781
+this message my be tagged asp.net but i think it is a platform independent issue that pains all new web developers as they seek a clean way to do this
+36781
+setredirecturl would be called in any action that produces links forms which need to redirect to a given url
+36813
+when and how should table stats gathering be performed for oracle version 9 and up
+36821
+position relative will cause any contained elements to be positioned relative to the #wrapper container and position absolute will cause the #legend div to be pulled out of the flow and sit above the map keeping it s bottom right edge at the bottom of the #wrapper and stretching as required to contain the marker descriptions
+36870
+depending on the project or coding guidelines most of the boiler-plate code could be replaced by macros
+36908
+such function accepts only 3 positional arguments and everything after can only be passed as keyword arguments
+36911
+foo can be invoked like foo 1 2 3 4 5
+36911
+bar can be invoked like
+36927
+gathering stats should be done whenever there has been large changes to the data content for example a large number of deletes or inserts
+36989
+however the variable value already has to be enclosed in quotes which means that you need a second set of quotes and the inner set has to be escaped
+37024
+also some tools some o r mappers expect object data to be represented by properties and do not recognize public or protected member variables
+37029
+it is generally accepted that the use of cursors in stored procedures should be avoided where possible replaced with set based logic etc
+37029
+i haven t done any extensive testing but is this what others find
+37072
+if so there is little reason to poll the db to find out if you need to reindex just index as you insert or create an queue table which can be used to tell lucene what to index
+37093
+you say that objects can be modified at any time by a third party but i would still suggest you use immutable return objects here and instead have a separate thread event log you can subscribe to to get noticed when objects expire
+37103
+note the effect i want can be achieved by using inline elements white-space no-wrap that is how i did it in the image shown
+37103
+this however is no good to me for reasons too lengthy to explain here as the child divs need to be floated block level elements
+37103
+this however is no good to me for reasons too lengthy to explain here as the child divs need to be floated block level elements
+37162
+we generate web pages that should always be printed in landscape mode
+37310
+in the answer would be done like the other answer
+37330
+the function can only be used on compile-time arrays
+37384
+i don t believe that they are ever necessary however because any use of a protected member variable can be replicated using a private member variable and a couple of getters and setters
+37396
+edit i am changing this post to compile a possible list of distros and window managers that can be used to configure a real lightweight development environment
+37408
+the job when started will actually be passed a file descriptor to the socket by launchd when it does a simple check-in
+37474
+if you don t catch the exception terminate will be called which will end the program similarly to abort
+37632
+in dynamically typed languages the use case described above is less necessary since the compiler will allow any method to be called on any object failing at runtime if it does not exist but the second case of looking for methods which are marked or work in a certain way is still common
+37638
+the code can be written against known interfaces but the actual classes to be used can be instantiated using reflection from configuration files
+37638
+the code can be written against known interfaces but the actual classes to be used can be instantiated using reflection from configuration files
+37638
+the code can be written against known interfaces but the actual classes to be used can be instantiated using reflection from configuration files
+37690
+in the compact framework which i m usually in though it s pretty much anethema and should be avoided like the plague in most cases
+37755
+when using hibernate filters you need to be aware that the additional restrictions will not be applied to sql statements generted by the load or get methods
+37938
+i tend to use enum for avoiding magic numbers this can be overcome by const i guess but enum allows you to group them up
+37968
+you have a reason to want the type to be allocated in stack space
+37975
+all the information you need can be found on wikipedia and msdn s wpf site
+37978
+the struct will be passed by value so structtest will get it s own a struct and when it changes a.foobar will change the foobar of its new type
+38000
+the good news is that as developers on bazaarx we have got our act together and have our respective assignments for what area of bazaarx to work on and bazaarx is being designed to be vcs agnostic which will make my job of integrating git into it much easier
+38000
+i can t say when i ll be done and hit 1.0 but i am happy with the direction i am going on in gitty and bazaarx
+38017
+it needs to be comipled by mingw on windows but all the steps are explained very well here in this moment the link is down hope not dead
+38057
+then field foo will not be mapped for class b
+38057
+i expect the class uglyproblem to have fileds id and name and both classes to be mapped using same table
+38057
+i was moving this project to jboss 4.2.2 and i found out that there are inherited mappings of onetomany mappedby and it worked fine on old setup...
+38110
+- for example someone has suggested that radioactive decay is truly random but imho just because scientists haven t yet worked out the pattern doesn t mean that there isn t a pattern there to be worked out
+38135
+a lot of things still need to be ironed out there
+38138
+this tends to be overlooked but can cause some serious headaches if it is not implemented
+38229
+that s the default type for a floating-point constant - if you wanted them to be float s then you would use the f suffix
+38287
+i ve yet to see an operation that can t be done using a global function or an instance method
+38425
+however if continuous testing requires this method it may be a signal that the private methods should be extracted which could be tested in the traditional public way
+38587
+any queries running slow because access is doing something stupid can generally just be solved by using views and any really data-intensive code can easily be moved into postgresql functions and then called from access
+38587
+any queries running slow because access is doing something stupid can generally just be solved by using views and any really data-intensive code can easily be moved into postgresql functions and then called from access
+38598
+some of those steps may actually be stored procedures
+38680
+if he has 10 question per page and 10 new questions happened to be added he ll get exactly the same content second time
+38708
+there is a limit to how much memory each process can lock it can be shown with ulimit -l and is measured in kilobytes
+38769
+the application can be written in perl vb6 vb.net or c# but must be easily scheduled from a windows based server
+38787
+mpp does have its own object model that can be used to access data in it
+38839
+common lisp code can be converted into scheme code with relative ease
+38854
+even though you might have secured browser your server what about the rest of the internet your server twitter
+38864
+each of the interfaces might be connected or disconnected from a network
+38869
+it can be modified to find any child relationship
+38927
+we haven t done this though as the above method works well enough
+38955
+if this isn t possible in java is there some way to do it that could be called from java
+39064
+can somebody provide the smallest code snippet for a c++ dll that can be called from .net
+39065
+since the resource files don t have an namespace at least as far as i can tell they can t be accessed like regular classes
+39091
+in order to take control over the properties that you want to be cached you can call refreshcache passing the properties that you want to hang around
+39092
+it will most likely be written in c++
+39136
+isdate - to check if it can be cast to datetime pre
+39160
+when this is your only error it can be detected and fixed immediately
+39164
+safe mode and open_basedir can be used to restrict files outside of a specific directory from being accessed
+39164
+ini-set can be used to set and unset this value at runtime
+39166
+normally derived files should not be stored in version control
+39204
+that linq-to-sql was not designed to be used in this way
+39252
+if the wording was predicates should apply const functions... or something like that then i would have concluded that const volatile functions were not ok
+39292
+but priority management can also be achieved by using differend queues... edit
+39296
+it would also be quite easy to automatic the creation of the history tables and triggers to maintain assuming it would be done via triggers
+39434
+i will admit i am not totally a fan of it but i ll play devil s advocate really that is one of the main advatages and pushing this idea can be kinda neat
+39454
+especially at lower resolution the experience is so bad that it can not be used in production code
+39475
+hello i have the following error by git-fsck which cannot be cleaned by git-gc even in --aggressive mode
+39503
+i need to edit the mbr because i m working on a project that needs to modify hardware registers after post in bios but before windows will be allowed to boot
+39541
+i know it s not very useful code but it demonstrates the ease with which control arrays can be used in vb6
+39562
+a friend of mine is now building a web application with j2ee and struts and it s going to be prepared to display pages in several languages
+39568
+it can be done with cuda gpu but it s tricky
+39576
+the following works in mysql but doesn t seem to be supported in oracle
+39598
+the question is though how the gpu will be used for this
+39614
+however i ve never seen a control array that couldn t be refactored in .net to something better
+39619
+the classic trick to detect a vm is to populate the itlb run an instruction that must be virtualized which necessarily clears out such processor state when it gives control to the hypervisor then run some more code to detect if the itlb is still populated
+39625
+must have missed that bit in the documentation when i was thinking through the response
+39636
+help basename can be extracted using the nifty n option
+39683
+this can of course be mitigated by having your validation logic return only a mention of the first failure etc
+39683
+the same validation rules should be used wherever validation occurs - if client-side validation passes then it should never fail validation later on pre-save business rules foreign key violation etc.
+39693
+this can be used to render filled polygons like triangles for things like 3d model rendering
+39720
+differentiation between instances of the main class could be supported using the nested diagnostic context ndc feature
+39778
+the most impact i expect to be improved javascript performance and the usability perspective
+39778
+the most impact i expect to be improved javascript performance and the usability perspective
+39780
+i know this can be done by querying the msdb database on the sql server running the job
+39881
+piece moves can be calculated by using the array indexes
+39887
+as far as i have heared google chrome will have multithreaded javascript so it is a current implementations problem
+40009
+then drivers exists for all versions of window which can do this reading writing a value from to a certain port which can be called from user mode
+40065
+inside the lock check the cache again you might have been blocked
+40121
+this method can be called either with
+40133
+which requires a piece of javascript code to be added to each page to function
+40164
+success would be indicated by null
+40205
+you will generally not get access to bios without the cooperation of the os though so your program again will be restricted to dos
+40238
+the key point is that mutexes should be used to protect shared resources while semaphores should be used for signaling
+40238
+if there are multiple bathrooms one might be tempted to key them alike and make multiple keys - this is similar to a semaphore being mis-used
+40238
+i suppose a semaphore can be used in such situations but rarely are there real-world situations where the analogy actually holds - it s more often that there are several of the same type but still individual resources like the bathrooms which cannot be used this way
+40284
+it really just comes down to whether or not it is appropriate for you to set these default values or if your objects should be specced out at construction all the time
+40295
+can this be done without registering every address in the subdomain or is it possible to register a single ns record of ntdomain.local that points to the windows dns server
+40303
+they can be overused which can make things a bit tedious to debug and manage so try to keep them out of code tables and other reference data if at all possible
+40303
+they can be overused which can make things a bit tedious to debug and manage so try to keep them out of code tables and other reference data if at all possible
+40410
+because the natural number 0 cannot be decreased calling p on a semaphore containing a 0 will block the execution of the calling process thread until some moment at which the number is no longer 0 and p can be successfully and atomically executed
+40410
+as mentioned in other answers semaphores can be used to restrict access to a certain resource to a maximum but variable number of processes
+40464
+it is of course in an early beta so it s missing a lot of the things people would need or at least feel they need like plugins cross-machine synchronization of data could be done with plugins cross-platform support ie
+40485
+one idea for example would be to precompute at iteration n the zones that could be modified at iteration n+1 so that if a cell does not belong to such a zone it won t even be considered for modification at iteration n+1
+40572
+in computer graphics you can plot draw a circle with its centre at 0 0 from a initial point x y the next point x y can be found using a simple formula
+40572
+recursive search algorithms can sometimes be implemented using a queue rather than the process s stack the search has to backtrack from a deadend and take another path - these backtrack points can be put in a queue and multiple processes can un-queue the points and try other paths
+40757
+in any case writing somefunc would cause a core dump as the heap memory behing somefunc cannot be executed - this protects you from all sorts of viruses
+40797
+i believe this means the sanity of the cast is checked at compile time and optimizations can be applied whereas ctype always uses the vb runtime.
+40814
+these statements need to be separated by go statements but sqlcommand.executenonquery does not like go statements
+40824
+obviously the problem is not with lists of dml commands they can be executed without go in between
+40825
+bugzilla is more of an issue tracker than a request tracker but it can be configured to handle email-based status tracking
+40868
+any page-wide resources you need have to be declared using a similar syntax
+40873
+hopefully someone can help or i might be forced to use the solution
+40914
+will soon be run by hudson ci server
+40914
+deltas and dumps have to be reviewed before beta test
+40934
+considering there s a lack of embedded compilers i d be surprised to find full embedded ides
+40959
+this lets you concentrate on the interface under test and be reasonably sure that all implementations will be tested without having to do a lot of manual implementation
+40959
+for xunit.net i created a type resolver library to search for all implementations of a particular type the xunit.net extensions are just a thin wrapper over the type resolver functionality so it can be adapted for use in other frameworks
+40981
+mmattax i m looking for property that can be called from client-side javascript
+40987
+additionally the caller might have instanced components from the library multiple times and for resource contention or threading issues want to provide a different logger callback for each one
+41009
+unfortunately on that article and basically everywhere else there is no explaination of how to use irapistream in .net i have found c c++ documentation but my desktop app needs to be written in c#
+41100
+in the relational world null should only ever be read to mean i don t know
+41142
+it can be done with xpath 1.0
+41156
+care must be also be taken to use identifiers that are long enough to make collisions unlikely given the anticipated total number of identifiers
+41156
+according to their specification uuids are not designed to be unpredictable and should not be used as session identifiers
+41279
+i ve got bunches of auxiliary files that are generated by code and latex documents that i dearly wish would not be suggested by spotlight as potential search candidates
+41279
+so can spotlight be configured to ignore say all .log files
+41290
+it was my understanding that attempted access from other threads would be told to wait until the lock was released
+41386
+ignoring how many other things must be done to each car for example it may take a fixed number of steps to calculate the position of an individual car for n cars it takes n 2 visits to cars to run this algorithm
+41405
+i ve been thinking that rather than adding the common library as a project reference perhaps we should start developing the common library as a standalone dll and publish different versions and target a particular version for a particular project so that changes can be made without any risk to other projects using the common library
+41414
+in order to get this to work the class varargs has to be implemented to override that returns a proxy object which in turn overrides operator
+41427
+if you re dealing with linq to sql and the orderby is an expression tree it will be converted into sql for execution anyway
+41473
+some ideas of how the api can be used include
+41473
+in most situations the api is fast enough to be used in interactive applications
+41492
+for example what is the default property of the vb6 control commandbutton and how would i found out any other controls default
+41492
+for example what is the default property of the vb6 control commandbutton and how would i found out any other controls default
+41514
+now the c# team has released a coding guideline stating that var should only be used to capture the result of a linq statement that creates an anonymous type because here we have no real alternative to var
+41524
+it will be duplicated for each branch tag in your revision control system remember in most svn system copies are cheap
+41593
+there s a difference between broken code and unfinished code and whether the test should be addressed immediately depends on which circumstance this failing test exposes
+41598
+they can be used like this
+41598
+they can be used like this
+41660
+otherwise it would have been something like reduce make_and l make_true .
+41801
+especially being in the constructor where there is only one thread that can call a constructor unlike with methods where it could be shared across threads and be accessed from any thread that is shared
+41814
+in which case the _servletcontextproperties will be replaced with any context-params specified in the web.xml
+41847
+identity columns must be replaced with sequences -- not technically t- or pl but just sql
+41919
+here you re giving freedom to the code itself that it will always be used for free purposes
+41928
+finally i enclosed and this is dirty my apologies lines 1417 to 1474 with a try catch block swallowing the exception
+42007
+the synchronization is going to be a little messy perhaps but it can be simplified if each app has its own framebuffer and the sync program points the video controller to the correct framebuffer inbetween frames when switching to the next app
+42087
+if you want all of those words to be printed out on their own use print instead of printf
+42146
+i m also interested in a broader answer that could be applied to any networked applications
+42167
+are users with restrictive firewalls like that likely to be permitted to install and run a .exe file from your website
+42206
+was the previous user a local admin or power user that could have masked this problem
+42283
+the wsdl can be parsed using the standard .net xml classes
+42397
+can be written like this
+42397
+can be written like this
+42442
+there is no defense to be found in scanning urls for dangerous strings
+42489
+when i wrote my question title stackoverflow suggested me several related questions and i found out that there was already two similar questions
+42596
+there is no defense to be found in scanning urls for dangerous strings
+42655
+however it is executed before triggers and cannot be used to return trigger-generated values
+42666
+no code yet but i mention it as there may be code in firefox to do this in the future
+42751
+all those details may be specified externally either programmatically in a service host or via the config file
+42790
+so if cron runs a shell script which defines an environment variable using the first syntax before running some other command the other command will never be executed because sh bombs out trying to define the variable
+42879
+my main pause is that there are ton s of customized datagrids in the app as it is written now and since so much of the code needs to be rewritten to use gridviews .
+42907
+i think that most rdms can be accessed from c code now days
+42936
+i was wondering if there s any way that data could be loaded into ram so that it doesn t have to be accessed from disk
+42949
+the power of what can be done with dynamic languages is really what makes them so much fun to work with in my opinion
+42951
+when things go wrong your program may be stopped but this rarely happens if you ve done a few tests
+42959
+it s pretty ugly and would have to be invoked in place of the basic showdialog call but it should work
+43015
+jonathan holland is this something that can be done from .net
+43029
+because of that most collections are able to be traversed using an indexer and the for loop construct
+43040
+the only thing you might have missed was whether or not you wanted to make a backup of the 2003 project just in case
+43089
+they can also be used in windows but there are probably better more native solutions for that platform
+43090
+so for the expression rule | 0x80 the result will be an int since 0x80 is an int and rule which is a byte can safely be converted to int
+43199
+yet firebug reports that the page is served up in utf-8 so presumably the form submission request would also be encoded in utf-8
+43204
+this can be traversed in linear time
+43213
+i don t think it can be done using existing simulink blocks
+43244
+i agree with you i don t think it can be done i m afraid
+43324
+i might not be worried except i do plan on scaling this app in the future
+43341
+in contrast dmigrations takes the stupid approach it requires you to explicitly state the changes in a sequence of migrations which will be applied in turn to bring a database up to the most recent state that reflects the underlying models
+43377
+its width will be worked out based on the pixel width of its content and will be calculated after the contents are rendered
+43383
+in sweden for example you will have to be certified by pci payment card industry where your internal and external security will be tested a long with a lot of other things
+43393
+the hibernate query language doesn t feel right to me seems too much like writing sql which to my mind is one of the reason to use an orm tools so i don t have to furthermore it s all in xml which means it s poor for refactoring and errors will only be discovered at runtime
+43456
+one that will be called in get
+43472
+if you append a span containing ellipses to the end of each query a simple logical test in javascript with a bit of css manipulation could be used to hide show them as needed
+43491
+all commits of this branch will be related to this functionnality
+43530
+you re using field.index.un_tokenized so no analyzer will be used for indexing i think
+43703
+i believe the second part can t be done in css alone and will need javascript
+43720
+there may be some overhead in providing the clock to the class that relies on it but that could be handled by any number of dependency injection solutions using an inversion of control container plain old constructor setter injection or even a static gateway pattern
+43750
+the sql profiler tool is only available with the standard and enterprise version of sql server however all version can be profiled using the tool
+43808
+this issue can be solved by synchronizing the access on the java side - you only let one thread begin fetching the ids at one time
+43813
+not sure if it can only be used inside biztalk - it does says it is a .net class library
+43871
+if the present system uses vba to create the powerpoint presentation perhaps much of it could be transferred to access
+43928
+if you compare exception handling to traditional c-style return-value checking this caching effect should be taken into account as well the question is usually ignored in discussions
+44136
+again this can be simplified by using a function to populate the temporary table.
+44137
+also while it may be leaking it may be by design meaning that the browser might not have reclaimed the dom elements yet and released them
+44152
+to define unit tests which will automatically be noticed by django s testing framework put them in a module called tests which can be either a file named tests.py or a directory called tests
+44171
+i d still be concerned about inlining however
+44298
+configured this way any non-empty strings which cannot be converted to decimal result in a validation error which will immediately highlight the textbox
+44339
+even simple things like making it obvious what can and cannot be clicked can be overlooked or too subtle
+44396
+when the dependency downloaded does not have attached javadoc i manually add a link for the javadoc in the .classpath file so that i can see the javadoc for the dependency in eclipse
+44421
+when i try to run the code from the server i get a dcom source error message that states the machine-default permission settings do not grant local activation permission for the com server application with clsid 000c101c-0000-0000-c000-000000000046 to the user this security permission can be modified using the component services administrative tool. i have modified the permissions using the component services tool but still get this same error
+44546
+one of the biggest causes that i have found for email to be flagged as spam is dns
+44586
+i would probably rely on an issue tracking system for this purpose and make sure to tag each change that needed to be brought forward into the trunk code
+44599
+looks like it can t be done from bash
+44602
+having evaluated these i could have made a proper value judgement on whether cvs svn were worth their free price tag
+44619
+the default url will appear to be www.example.com as this default host as set in actioncontroller integration session
+44620
+it should also be pointed out that you can specify your controller action and params to the .form helper and if they fit into your routing rules then no query string parameters will be used
+44647
+however we use private branches to ensure that check-ins can still be made while this is in progress and that other check-ins don t have to interfere
+44656
+i know i can have thread b periodically check in thread safe way to see if a flag has been set by thread a but that makes the code more complicated
+44715
+i.e. are there other occasions where a ruby method cannot be invoked without self
+44715
+disagree either ruby could or could not be implemented without any further
+44778
+the cases and should be mapped to s and respectively.
+44799
+some of these tools do not have apis we can program against
+44809
+this can be setup on firefox as well
+44821
+does this mean that my executable can only be run on windows mobile devices instead of any generic windows ce installation
+44827
+and let s be honest you ll rarely create an empty string array without wanting to add at least one element to it
+44870
+it appears to be caused by using annotations from a 3rd party library like junit and not including the jar with that annotation in the javadoc invocation
+44936
+by reducing the comparisons to integral types and string and those things that can be reduced to integral types and are intended to they avoid potential issues
+45005
+from what i gather from reading the javadocs it looks like this allows a spring webservicemessagereceiver to be invoked using a jms client instead of a web services client
+45087
+so objects that have to be finalized are moved to a special queue to be cleaned out by a different thread the finalizer thread - which if you kill makes all kinds of bad things happen
+45258
+it s great as a standalone library though it can also be used with jquery yui prototype and gwt
+45264
+does anyone know of any existing packages or libraries that can be used to build a calendar in a django app
+45348
+depending on the stage of the page lifecycle the label control may not have been loaded yet
+45364
+a null-defined macro is a macro which will be replaced by nothing will be removed by the preprocessor
+45439
+perhaps this is something that can be done via wmi
+45470
+the need is to be able to expose services on the perl infrastructure which can be called by java .net applications seamlessly
+45501
+this file is just xml and it can be edited programmatically by anything that knows how to parse xml
+45512
+all the swap algorithms will be spending most of their time waiting for data to be fetched from memory
+45618
+err wait that is to support openid authentication in a rails application you are writing not to have run an openid endpoint in rails
+45656
+so when you re running a query that can be operated on any type of person just query the personview view
+45713
+remotesoft makes a tool that compiles a .net application into a package that can be run without .net installed
+45795
+what you want can be achieved using dependency injection
+45827
+is there an html tag to do it or does it have to be done via javascript
+45847
+also there is and article titled simulate a windows service using asp.net to run scheduled jobs at that uses an expiring cache to simulate a timer
+45847
+it claims it can be run on any hosted site
+45923
+it s downloadable in a simple text-format that can easily be parsed to auto-generate the blacklist
+45963
+this type of system is also further complicated if you are working with c++ objects because polymorhpic classes can be deleted in varying ways causing trickiness in determining the true base pointer that is being deleted
+46007
+there isn t any sort of unique identifier that can be used to tie records together and the data quality isn t always that good - there will always be typos people using different names joe vs
+46029
+also i ve decided to use log4net to log all of the errors and warnings so that each method can be declared void and doesn t need to return anything
+46029
+for some background the program will be written in either c# or vb.net and the tables will more than likely be stored in either access or sql server ce
+46029
+for some background the program will be written in either c# or vb.net and the tables will more than likely be stored in either access or sql server ce
+46030
+the form will be used to display information to the screen
+46043
+the contents of the method can be disassembled using javap -c
+46043
+the contents of the method can be disassembled using javap -c
+46043
+again all this can be shown with javap -c
+46053
+i like the sound of combinatorial tests in mbunit i ve tried the abstract base class interface test technique with nunit and although it does work you d need to have a seperate test fixture for every interface a class implements since in c# there is no multiple inheritance - although inner classes can be used which is pretty cool
+46088
+may also be called rename by tortoise but svn move is the command in the barebones svn client
+46155
+how can an email address be validated in javascript
+46165
+you can then have ssrs export the report to about 10 different formats and send to the client including pdf excel html etc
+46184
+interface methods can t be labelled public
+46210
+this does invariably mean that the problem has exponential running time but could be solved using machine-learning heuristics
+46210
+this does invariably mean that the problem has exponential running time but could be solved using machine-learning heuristics
+46233
+furthermore list comprehensions are generally preferred to map thus i d expect generator expressions to be preferred to imap
+46282
+i need to create a utility which will allow the user to generate a new configuration file that includes both the class library configuration as well my own configuration so new objects will be created which were not read from the .xml file
+46353
+a request to resolve a domain name if it can t be resolved by any other dns server will filter up to the tld
+46386
+chris brings up a good performance hit since the top 10 query would be run for each row
+46404
+the select top 10 query will be executed for each row in the table which could be a huge performance hit
+46461
+this could be as simple as calculating the maximum number of points that could realistically be earned per time unit of play or transmitting game logs back to the server to make sure the scoring is correct
+46491
+certain characters have special significance in html and should be represented by html entities if they are to preserve their meanings
+46491
+if you require all html character entities to be translated use htmlentities instead
+46539
+from the look of the code is seems like you might have been prototyping this in sql studio or similiar right
+46539
+from the look of the code is seems like you might have been prototyping this in sql studio or similiar right
+46584
+since a binary reference can t be debugged stepped into one would be forced to replicate and fix issues by extending the existing test projects rather than testing and fixing within the context of the consuming application alone
+46639
+a post would be used for any operation which is neither safe or idempotent
+46639
+typically a post would be used to create a new resource for example creating a new so question though in some designs a put would be used for this also
+46777
+also i will let the users do some actions without even visiting the site at all just send an email with command domain.com and the command will be carried out
+46777
+i can not have the script be called by random people visiting the site as that solution won t work for several reasons
+46777
+i think i would like to hear more about the possibility of having the script be run as response to an email coming in if anyone has any input at all on that
+46883
+most of these are geared toward creating pdfs but they should have read capability as well
+46946
+the long answer can be found here covariance and contravariance
+47027
+once a reference to a singleton object is obtained it can be used just like any other object
+47081
+the path argument to execv is the path to the application you wish to execute not the current working directory which will be returned by getcwd or the shell search path which will be returned by getenv path
+47081
+the path argument to execv is the path to the application you wish to execute not the current working directory which will be returned by getcwd or the shell search path which will be returned by getenv path
+47093
+using recursion to find a node by id could be done somewhat like this note i typed this in the textbox it may be wrong
+47171
+a double is a long float and floating point arithmetic should never be used for financial calculations
+47202
+everyone who is developing code to be released into production
+47276
+mips has special instructions lwl and lwr which can be used to access 32 bit quantities from unaligned addresses
+47320
+application memory can also be swapped out so the simple fact that one process has it in memory makes it potentially possible for it to end in the swap file
+47474
+as specified in the css syntax the width property can be given as percentage which is stated to be a number
+47475
+if unit-test names can become outdated over time and if you consider that the test itself is the most important thing then is it important to choose wise test names
+47662
+for warnings to be flagged to php natively would require changes to the mysql mysqli driver which is obviously beyond the scope of this question
+47678
+godi can t seen to find the gl gl.h file though i can --you can see that it is checking the suggestion
+47781
+if you need an interface with multiple methods to be mocked go with a mock framework
+47805
+in case of dynamic libraries you could just have used ldd on the resulting executable and be done with it
+47871
+edit if you got a comment-rss feed you may have luck using a mechanism that counts xml nodes like xpath s count
+47908
+the choice shouldn t be made on performance but on the message content and compression techniques
+47909
+if receipt must be verified tcp is your best option
+47913
+this can be done using crel
+47958
+the disadvantage are that it can be cumbersome to package your app up as a .egg file
+47990
+the xor operator can be used to toggle a bit
+47994
+lgpl is fine any modification to lgpl content has to be released under lgpl but using the code content is safe
+47997
+a good motivation to monads is sigfpe dan piponi s you could have invented monads
+48006
+is the functionality that it offers over vim going to be paid back in productivity increases in a reasonable timeframe
+48017
+can someone explain the mechanics of a jump table and why is would be needed in embedded systems
+48019
+if your problem is what to name exposed internal classes maybe you should consolidate them into a larger class
+48033
+a jump table would be used to draw characters because it would take too long to load a bitmap from memory and use a for loop to shove the bitmap out
+48083
+when a record is clicked in the gridview it shows up in the form and it can be edited in either the gridview and or the form by setting some properties
+48103
+so in that vein here s a very low level look at the math of modulus for an example of x which should show you how simple it can be compared to division
+48154
+whether or not this is a problem depends on what you re doing with the text if the order doesn t matter it s fine or if the generator adds text to the stream in the order it will be displayed it s fine
+48157
+from their help text it looks like both can be used to configure static routes
+48180
+in fact i was all ready working my way to understanding that it could be done for list or report view with listview_getcountperpage and i would use you way to get it for for the others though i don t need the listview_approximateviewrect since i will all ready know the new size of the listview
+48244
+for one it requires the csrss to be notified about process creation which involves lpc
+48244
+that said i see the overall slowdown in the sum of all those little things that have to be done in addition to the raw creation of a process va space and initial thread
+48297
+and if there s nothing else to be done the queue is now empty it returns a minus
+48343
+i think your interpretation is correct - you would not be allowed to download and execute javascript code in v8
+48436
+this can be secured by security role
+48444
+exceptions can be thrown from finally blocks but in that case the exhibited behaviour is almost certainly what you want
+48454
+another thing to add with that approach - you may have decided over time that you want to refactor the way your application is organized folders etc and this will give you an oppurtunity to do so
+48475
+ideally the lookup of all items that are tagged with at least a set of n given tags should be done using a single sql statement
+48507
+perhaps this can be alleviated with proper tuning and seperate physical drives - but i d think in the long run it would be a lot simpler to just either use some old hardware - or spin up a small virtual machine on a seperate host for your builds
+48508
+getting help knowing how to search for the right information in my experience is the single most important thing that has to be taught about c++
+48651
+in fact you could argue that abstract classes give you slightly more since they allow you to both require implementations to satisfy your code you must implement start and provide default implementations i have a standard paint you can override if you want to -- with interfaces implementations must be provided which over time can lead to brittle inheritance problems through interface changes
+48657
+sorry i should have been more complete in this answer
+48670
+that chunk or memory would be given back to the system and so can no longer be reliably read
+48704
+the function returns a handle that can be used to access an object
+48781
+but it s likely to be right down in the noise - particularly for languages which allow unnecessary parameter passing to be optimized out
+48794
+i need to embed partial view into my masterpage that will list pages and articles filtered with some criteria and be displayed on each page
+48832
+then everything inside the quotes should be treated as text
+48884
+amazon associates web service - used to be called e-commerce api or something along those lines
+48884
+amazon associates web service - used to be called e-commerce api or something along those lines
+48903
+ajax -- compatibility problems across browsers may be mitigated via ajax libraries though
+48907
+increased encapsulation consider two top-level classes a and b where b needs access to members of a that would otherwise be declared private
+48907
+by hiding class b within class a a s members can be declared private and b can access them
+48931
+i think these can be stored using the jquery.data function
+49056
+the member m_nstate may not be changed either unless declared with the keyword mutable
+49102
+however you ll also need to respond to the wm_hotkey message - i m not sure if there is a way to get access to the wndproc of a wpf window or not which can be done for windows forms windows
+49282
+as noted in answer by joseph pecoraro you might want to watch for strings that are valid non-decimal numbers such as those starting with 0x for hex and 0b for binary and potentially more tricky numbers starting with zero that will be parsed as octal
+49379
+or should such sensitive components be built in native code for example vc++ and call them via jni
+49388
+in mysql when you use match on your indexed column each keyword you supply will be given a relevance score calculated roughly by the number of times each keyword was mentioned that will be more accurate than your method and certainly more effecient for multiple keywords
+49400
+so i have to ask do you really need hardened protection like you are seeking for your application
+49400
+so i have to ask do you really need hardened protection like you are seeking for your application
+49479
+in this case you would not want to use the c formatter as this would have inserted the currency symbol and further separators which were not required
+49518
+basically once the tcpclient.connect method has been successful it will have created a mapping between the physical mac address of the embedded system and the route it should take to that address which network card to use
+49518
+i don t believe that all messages then sent over the tcpclient connection will be sent out via both network cards
+49555
+we recently switched to feature based development using trunk branch code management we have a one project running well with scrum but its hard to get this approach adopted by the wider masses
+49572
+as discussed earlier scrum and other agile techniques can be introduced step by step
+49586
+in one column i keep class name that will be used to handle the record
+49602
+in oracle the number of rows returned in an arbitrary query can be limited by filtering on the virtual rownum column
+49662
+we d also like to make sure it can t be copied and distributed to our customers customers
+49696
+the tid can be addressed in sql by the name
+49712
+it can be done in less than half an hour including setting up the repository
+49732
+most of the work i do is with what could be considered enterprise web applications
+49732
+most of the work i do is with what could be considered enterprise web applications
+49766
+one final note you can t rename a folder that you haven t mapped or that you haven t done a get from
+49791
+in addition to finding bugs in your code such as guaranteed null pointer dereferencing infinite loops etc. static analysis can be used for security analysis of the code
+49793
+the strongest assumption here is that all your objects can be treated partly like the same ie they implement the same interface iconfigurationobject in the example or belong to the same inheritance tree
+49937
+how is it different from static code analysis ie what can it catch that can t be caught in static
+49953
+they can be passed as parameters to other functions defined inside other function and have lexical scope
+49957
+in the previous example if an exception was thrown in the performactiononumanagedresources method although the performanotheractiononumanagedresources method would not be processed the using block will still implicity invoke the dispose method on dc ensuring the realese of any unmanaged resources
+49984
+during the static analysis it is difficult to impossible to know what files will be passed as input what web requests will come what user will click etc
+49988
+this also could be used for writing batch scripts and writing batch scripts is programming

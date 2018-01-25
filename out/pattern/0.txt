@@ -406,3 +406,733 @@ using a new language in production code is about more than easy syntax and high-
 this is for reasons similar to the reasons it s good to learn c like how a strcpy takes more time than copying an integer or why you should use pointers to arrays as function parameters instead of arrays by value
 19908
 worked fairly well just a little slower than i like
+20083
+i think the key for most new programmers especially children who are more than apt to losing interest in things is instantaneous feedback
+20185
+i d like to avoid this however since it would make my abstract class file a lot bigger than i d like it to be
+20286
+this would allow me to see what advertising is working and from where with a somewhat finer grain than google analytics would
+20648
+i suppose it may be a little more work than the value converter but it is another option
+20752
+of course shells do more than that like piping input and output but you should be able to accomplish the basics using fork execve and waitpid
+20866
+if you only need 50 of them and you re not low on memory then separate bools is pretty much always a better choice than a bitset
+20975
+it s possible for an application to have more than one appdomain so that may or may not do what you want
+21035
+second mover advantage - just as microsoft built a better java with .net they re able to look at how you d design a ria plugin from scratch today
+21037
+depending on how you want the output to look a subreport could do or you could group on id property1 property2 and show the items from your other table as detail items assuming you want to show more than just count
+21037
+carlton jenke i think you will find an outer join a better performer than the correlated subquery in the example you gave
+21093
+the stringbuilder.append method is much better than using the + operator
+21113
+when concatenating more than three dynamic string values use stringbuilder
+21307
+if you have floating point errors you have even more problems than this
+21317
+if you have floating point errors you have even more problems than this
+21374
+drpizza i am no performance guru but i would expect fixed point operations to be quicker than floating point operations in most cases
+21374
+drpizza i am no performance guru but i would expect fixed point operations to be quicker than floating point operations in most cases
+21384
+drpizza i am no performance guru but i would expect fixed point operations to be quicker than floating point operations in most cases
+21384
+drpizza i am no performance guru but i would expect fixed point operations to be quicker than floating point operations in most cases
+21514
+multiple connections to a server or shared resource by the same user using more than one user name are not allowed
+21616
+wikipedia describes it better than i can
+21749
+given that people seem to be stumbling on my example perhaps i can try with a better example a text editor that allows you to have more than one file open at the same time
+21830
+gin indexes are two-to-three times larger than gist
+21934
+is this better than the python approach
+21985
+i would say that a 3rd party encryption tool is not safer than the .net framework encryption algorithms these libraries just help you doing your job faster
+22420
+it is much better than regular expression checking because it works like using the dom even if the html is poorly formatted
+22431
+something more than use lucene or semantic web is the way oneliners tho
+22431
+something more than use lucene or semantic web is the way oneliners tho
+22535
+for all .sql files numbered higher than version execute them in order
+22535
+for all .sql files numbered higher than version execute them in order
+22804
+slower than direct file access
+22806
+as for do...while loops i use those when i have to do more than just flip through an array
+23022
+well it s stronger than username password and doesn t have the same vulnerabilities openid has
+23024
+there are a lot of performance tests out there that prove conclusively that for is generally no faster than foreach
+23109
+c# - performance wise its far better than either of the big three p s in lamp perl php and python
+23416
+you even taking the time to type the table size consideration into this question already cost more than the extra hard drive space it would take
+23439
+have you found a better solution than using a global instance that you just re-use for every new video
+23538
+i am much more familiar with textpad s search replace functionality which rocks
+23538
+i am much more familiar with textpad s search replace functionality which rocks
+23643
+if you re creating versioned web services with more than 1 version of the implemented interfaces then you often have a single version of your apps business objects with more than 1 version of the data contract message contract objects
+23643
+if you re creating versioned web services with more than 1 version of the implemented interfaces then you often have a single version of your apps business objects with more than 1 version of the data contract message contract objects
+23738
+i could only find very small precise p2p code which didn t do much more than use client server architecture on all users which wasn t really what i was looking for
+23738
+i could only find very small precise p2p code which didn t do much more than use client server architecture on all users which wasn t really what i was looking for
+23959
+cool. getting developers inspired and motivated about what they do what they re working on and how they go about it will pay dividends more out than using peer review to establish pecking order and rank
+23959
+cool. getting developers inspired and motivated about what they do what they re working on and how they go about it will pay dividends more out than using peer review to establish pecking order and rank
+23959
+cool. getting developers inspired and motivated about what they do what they re working on and how they go about it will pay dividends more out than using peer review to establish pecking order and rank
+24013
+in small companies you may wear more than one hat
+24035
+in fact your going to get a value bigger than an integer can hold 4 billion unsigned 2 billion signed before the stack is going to over flow fibbonaci 46
+24045
+ankhsvn is free in more than one sense of the word while visualsvn costs 50
+24109
+a good dependable basic toolset is important and what is more basic than an ide
+24110
+checkout netbeans it s written in java so you ll have the same environment regardless of your os and it supports a lot more than just c++
+24119
+and while plain vim is still more than capable neovim is a promising restart and it s modernised a few old warts
+24235
+coderush is way more than refactoring
+24429
+it throws an exception if it waits more than 120 seconds because you may get caught in a situation where the file is never released
+24455
+this allows better control over nested loops
+24455
+this allows better control over nested loops
+24476
+if you re in a nested loop and need to break out of all loops a goto can make this much cleaner and simpler than break statements and if-checks
+24476
+if you re in a nested loop and need to break out of all loops a goto can make this much cleaner and simpler than break statements and if-checks
+24499
+our experiences is that you can potentially get much better performance than typical relational databases
+24499
+db4o s text searching is far far slower than sql full text indexing
+24564
+i have found that visualsvn is about 50 slower than running svn as a native service
+24583
+for longer than msbuild and has more
+24645
+quite the contrary i have been in the situation more than once where i want to extend a class but couldn t because it was sealed
+24689
+i bet your cache is heavier than serving the pages straight
+24846
+boxing can be a bigger concern than unboxing
+24948
+this is most useful where you have if conditional statements as exists can be a lot quicker than count
+24948
+in some implementations mostly older such as microsoft sql server 2000 in queries will always get a nested join plan while join queries will use nested merge or hash as appropriate
+24957
+as i usually use uml more as a communication tool rather than a modeling tool i sometimes have the need to flex the language a bit which makes the strict modeling tools quite unwieldy
+25081
+however in c++ if using other types that provide their own ++ operators the prefix version is likely to be faster than the postfix version
+25105
+and of course the bsd man pages which are an excellent resource as they are maintained to a far greater extent than your average linux man-page
+25196
+this isn t exactly ideal for making animations graphics and such then you re better of with flash cs3
+25196
+this isn t exactly ideal for making animations graphics and such then you re better of with flash cs3
+25249
+way if the content requires more height than the viewport provides
+25386
+i think it was fowler who said imperfect tests run frequently are much better than perfect tests that are never written at all
+25519
+also there could be more than 1 anchor tag in the string
+25750
+for dictionary keys this makes a huge difference because if i can see the two pointers are pointing to the same thing that s much cheaper than having to do a whole string comparison to make sure the strings have equal value
+25768
+it s a lot simpler than xml easier to use and mind-numbingly trivial to implement
+25776
+this method won t be faster than a line by line copy but it will save coding and it will be more resistant to changes in your database or code
+26046
+if you have to go to disk the performance hit is many orders of magnitude greater than memory
+26126
+i used to have more problems with javascript differences but after i started using javascript libraries such as jquery i stopped having any serious problems with that
+26195
+so my question is this has anyone out there found a decent solution for this that does more than this script
+26284
+or you might have instances living and working longer than you expect
+26325
+grapefrukt i detest the flash components they typically cause more grief than time saved however in this case i had a lot of cue points and navigation stuff going on with the video files and the flvplayback component was the best solution i found
+26539
+of course you can t do this if your breaking conditionally in more than one place which i ve done on occasion
+26566
+i always have it set to on for the reasons above but if you have more than 1 result set in your proc it could mess up client code
+26756
+your job may be made a bit easier by using the squish library to decompress the blocks for you
+26836
+bigger than it was at the last checkin
+27030
+the objects have 8 total properties but each object will not have a value for each and the arrays are never going to be any larger than 8 items each so maybe the brute force method of traversing each and then looking at the values of the 8 properties is the easiest way to do what i want to do but before implementing i wanted to see if anyone had a more elegant solution
+27054
+the friction of keeping your changes in your local branches and not publishing them is typically lower than publishing them in some branch on a publically available server
+27168
+chartdirector is fantastic and supports more than just java and .net
+27202
+for my projects deleting chaff from a checkout has always been faster than checking out a fresh working copy
+27212
+edit the answer kamens gave deserves consideration as well since a single function to compare two given objects would be much smaller than any library to do what i suggest although my suggestion would certainly work well enough
+27258
+our site already uses jquery for some things so i ll probably use jquery for making requests since in my experience it seems to perform much better than asp s ajax framework does
+27360
+in a one off situation where i just need it here i think using some handrolled reflection code is a better approach than having an additional library to link against and only calling it one place.
+27443
+in most regards postgresql is slower than mysql especially when it comes to fine tuning in the end
+28119
+if you re looking for more control over the format of the string then printf is your answer
+28176
+definitely a better approach than using a cursor
+28228
+once you get over the fact that up-arrow and down-arrow are replaced by esc k and then j you ll see that vi mode offers more than emacs mode for command line editing in bash
+28228
+once you get over the fact that up-arrow and down-arrow are replaced by esc k and then j you ll see that vi mode offers more than emacs mode for command line editing in bash
+28276
+vmware is beefer and sucks more of the system s performance away by default also seems to perform somewhat better than parallels but can have serious graphical problems depending on your setup particularly if you try to use unity mode
+28317
+i am not even seeing any performance issues as the hardware in the macbook pro is much better than the hardware i had in my previous laptop
+28443
+inaccuracy with floating point numbers doesn t come from representing values larger than double.maxvalue which is impossible excluding double.positiveinfinity
+28561
+the price might be having to give credit but that would be way cheaper than actually writing and debugging the software
+28580
+explicit is better than implicit
+28876
+it has many tutorials and makes it all easy way easier than opengl in my opinion
+28981
+this will usually give more than enough precision unless you need to mix both huge scale planets and microscopic level basketballs in the same world
+28984
+i ve actually done a small test like this in python on a website i maintain and found that they are almost equivalent in speed with the procedural approach winning by something like ten-thousandths of a second but that the oo code was so significantly cleaner i didn t continue the exercise any longer than one iteration
+29092
+i don t know the implementation details of the stack overflow authentication provider but that cookie data is probably automatically used to verify your identity at a lower level than the vote controller method
+29114
+if you want to run more than one command at the same time use quotes and semicolons
+29265
+now iterate between 3 and 4 with more and more functional prototypes and more specs with more details
+29293
+that is precisely why you should not have more than one datacontext
+29395
+it s quite a bit bigger than xxd and is distributed under the gpl
+29408
+i m not even sure that s foolproof but it s certainly much better than javascript
+29444
+if the type has more than one constructor then you may have to do some fancy footwork to find the one that accepts your string parameter
+29504
+since we never read more than this only affects the last two bytes
+29614
+it would probably be more work than it s worth but you can use static c# vb variables in a sql clr udf so i think you d be able to do what you want to do by simply incrementing this variable every time the udf is called
+29686
+the problem is sometimes i get http timeouts presumably because the request runs longer than executiontimeout 110 seconds per default
+29763
+i think memory consumption was about 50 mb bigger with eaccelerator then it was without when i did my benchmarks
+29777
+i have a solution in visual studio 2005 professional edition which in turn has 8 projects.i am facing a problem that even after i set the command arguments in the project settings of the relevant project it doesnt accept those command line arguments and it shows argc 1 inspite of me giving more than 1 command arguments
+29922
+the dct is heavily used in video compression as the human visual system is must less sensitive to high frequency changes therefore zeroing out the higher frequency values results in a smaller file with little effect on a human s perception of the video quality
+29962
+it s highly customizable and imho easier than cruisecontrol
+30189
+elements can belong to more than one class so you can do something like this
+30193
+html is a really complex language which is one of the major reasons that xhtml was created which is much simpler than html
+30277
+added oh one more thing temporary indexes are not only physically slower than a table scan but they would destroy your concurrency
+30306
+but to your original question adding and dropping an index for the purpose of a single query is only beneficial if you do more than one select during the query for example the select is in a sub-query that gets run for each row returned
+30397
+the groups that we have set up deal more with function such as manager employee etc
+30428
+but we need a bit more than just session clustering
+30535
+define data types for each component of the name - note some cultures have more than two names
+30660
+that for some data is not in sync meaning the master holds more data than the slave
+30700
+since the question asks about making life easier with mstest and not about alternatives here are my mstest tips
+30707
+while having a background window flash its taskbar button is better than having it automatically come to the top and steal input focus flashing taskbar buttons are still very intrusive
+30756
+tldr a c++ expert may create faster code as an c# expert but a mediocre c++ programmer may create slower code than mediocre c# one
+30756
+tldr a c++ expert may create faster code as an c# expert but a mediocre c++ programmer may create slower code than mediocre c# one
+31242
+i have a form that is longer than the screen so a vertical scroll-bar appears as expected
+31245
+i hope you have weighed the upgrade you are doing against just rewriting from scratch -- as long as you are not intending to extend the app too much and you are not primarily responsible for maintaining the app upgrading a complex workflow-based app like you are doing may be cheaper and a better choice than rewriting it from scratch
+31271
+if its only for word processing then perhaps docbook might be a little lighter than odf
+31273
+you have to cast each object into a new list though that becomes much easier with linq
+31384
+you can also add a second python installation but that also causes more problems than it s worth imo
+31542
+if you re interested in seeing how the delegate pattern is used in real-world code look no further than cocoa on mac os x
+31711
+how can i plot a by-road journey of more than 25 points on a virtual earth map
+31800
+i m building a restful web service which has multiple uris for one of its resources because there is more than one unique identifier
+31824
+you can then have more control over the xml outputed
+31896
+this will only get worse over time
+32021
+yes a-za-z will be much faster than setting the regexoptions.ignorecase largely because of unicode strings
+32131
+if you need to count and then loop you may be better off with a list
+32427
+i assume at this point that there isn t a better way than find-replace to increment these version numbers in all of the script tags
+32450
+i assume at this point that there isn t a better way than find-replace to increment these version numbers in all of the script tags
+32495
+it will be very helpful for you down the road when you re apps have more interaction with the database throughout and you want to minimize code duplication
+32656
+in addition to that i find that the svn path is almost always shorter than my file paths so it s less to type
+32712
+this might prove to be faster than shelling out and you may encounter other situations such as this that need to be implemented specifically for windows
+32747
+i need to set a string variable to today s date preferably without the year but there s got to be a better way than building it month- -day one piece at a time
+32771
+hopefully your sales_office exists to serve more than 1 client and will continue to exist for a while at least without any clients
+32932
+much faster than grep for finding files by name
+32982
+however undoing this is harder than single-line comments
+33026
+if you are absolutely stuck using .net 2.0 rtm then validators.dll is better than nothing
+33243
+the easiest way to generate elegant html and css is to use mvc framework where you have much more control over html generation than with web forms
+33246
+writing in file is slower than writing in memory so a commit will be slower if performed for many operations in a row rather then for a set of coalesced updates
+33246
+ps i know for sure that in a scenario i ve seen in a certain application changing the number of coalesced updates from 5k to 50k makes it faster by an order of magnitude 10 times faster
+33292
+i think it s much better than soapui at least on mac os x
+33502
+doing 2d should be even easier than this
+33587
+c++ may be faster than java this is debatable fwiw but you ll get platform independence a lot more easily with java
+33587
+c++ may be faster than java this is debatable fwiw but you ll get platform independence a lot more easily with java
+33587
+i doubt that .net would be much faster than java they re both vm languages after all but the big problem with .net is platform independence
+33623
+yes caching to a database is slower than caching on your webserver
+33628
+it would solve this problem pretty well it s much faster than a database and is also excellent for caching pretty much anything else too
+33689
+writing plugins for ie is much harder than for ff i wouldn t go down that path unless forced to
+33729
+that s why .net generics are better than java generics
+33729
+that s why .net generics are better than java generics
+33759
+i don t think it s worse than procedural stuff
+33815
+it s certainly going to be a lot easier than hacking wordpress to have wiki features especially with the sort of granular permissions you re describing
+33858
+i would only use uint if you absolutely need the ability to count higher than int but without using the extra memory long requires it s not much more memory so don t be cheap -p
+33893
+would this be better handled by javascript
+33929
+to use a classic example though more c-ish than lisp the factorial function illustrates tail recursion
+34177
+if you want more details please shout but i suspect pablo s blog will have more than enough info for you to steam ahead
+34280
+digging around the ruby-lang.org documentation page will get you more stuff than you can probably stand
+34303
+i believe it is a restriction of iis that you can only run more than one website on server versions of the windows os
+34329
+if you have the expertise use native frontends it ll effectively double the job you have to do for ui but from my experience non-native ui is a little bit clunkier than their native counterparts
+34338
+i found simpletest was even easier than phpunit to set up
+34424
+this could be much cleaner with jquery
+34538
+another thing a more robust framework will give you is the ability to do more than just use innerhtml to replace items in the dom
+34583
+using ant also makes it possible to do more than just compilation when building and conditional compilation only compile a swf or swc if the source code has actually changed
+34708
+the final result was a code that was much smaller than a guid and looked random even though it absolutely wasn t
+34756
+you may have the option to keep more than one version of the library you have and reference a specific version instead of pulling hairs figuring out which version is used by which project
+34984
+also make sure that you re doing the sanitizing from a trusted process - javascript anything client-side is worse than useless security integrity-wise
+35187
+this is usually caused when using a build system like apache ant that only compiles java files when the java file is newer than the class file
+35248
+that would be better than downloading an exe every time they wanted to download a large file
+35338
+if you use the whole package that tfs offers bug tracking builds reports etc then tfs is a pretty solid choice certainly better than rational
+35616
+when the process closes the file the os deletes the inode because there are no more directory entries pointing at it and no more processes with the inode open
+35677
+i ve heard of an xmpp gateway protocol but it s unclear if this is any better than the client solution
+35710
+this will enable your application to scale better than doing processing server-side
+35757
+in my opinion python is more than ready for developing complex applications
+35768
+if you re not open source then gtk+ would be the cheaper option as qt is only free for open source use whereas gtk+ is lgpl
+35777
+it would be fine to use it for stack overflow which has three developers and i guess no more than 30k lines of code
+35834
+for example firefox could be running but could be more than one window
+35967
+a light os install with a static file optimized server will perform faster than apache or iis on a heavy os
+36019
+this wouldn t work with more than one folder without multiple instances but it would probably do the job
+36342
+if my computer dies i ll always have a full bootable back-up that is no more than 24 hours old and incremental back-ups no more than an hour old
+36398
+since hbase and hypertable are all about performance being modeled on google s bigtable they sound like they would certainly be much faster than hive at the cost of functionality and a higher learning curve they don t have joins or the sql-like syntax
+36424
+it is really easy to write multi-threaded code that performs no better than the single-threaded code it replaces
+36777
+storing this outside the scope of the page in the session state or cookie may cause problems if more than one browser window is open
+36802
+this should be fast enough and i believe is simpler than building a voronoi diagram
+36870
+more than one return is better than huge arrows and guard clauses are generally ok
+36870
+more than one return is better than huge arrows and guard clauses are generally ok
+36943
+it s possible and actually i m hoping that the middle compression method will always be better than the list or the bit array or both
+37173
+there is no issue in having more than one segment but there can be a big problem if you try to merge two segments which have 1mil items in each and you have a watcher thread which kills the process if it takes too long...
+37194
+for those kinds of children and if it s your own child who you can teach one-on-one you could do worse than javascript - it has the advantage that you can do real stuff with it right away and the edit-test cycle is simply hitting refresh in the browser
+37276
+i have found mootools to be pretty slick for animations just a little smoother than jquery
+37409
+i came into the scene more than six months after this and it was stil flooded with bugs
+37456
+the bin packing problem partition a set into a minimum number of sets where each subset is smaller than some limit
+37567
+it s far from perfect as not everyone is doing it and we have multiple product versions in use but better than nothing
+37687
+make a regular expression replace more than one match answer to the specific problem
+37786
+i could write more but as you can see i struggle to be concise
+37970
+typing of enum values being more than a fixed enum but less that a full blown class already has been mentioned just want to advocate
+38082
+since hitting the mdb uses file-based operations it s pretty easy to end up with a corrupt database if you have anything more than a trivial db
+38198
+i believe a float is smaller than a double so it might be to prevent overflows caused by not knowing what decimal format to use
+38246
+but from my .net experience i know it would hold up just as well if not better than current production ruby applications
+38524
+personally i tend to be of the opinion that if you need to return more than one value from a function you should reconsider if you re doing things the right way or use an object
+38533
+btree files are often much faster than relational databases
+38595
+in our tests it was 4x faster than memcachedotnet and almost 2x faster than enyim with a lower memory footprint
+38647
+when using the entity framework does esql perform better than linq to entities
+38689
+there s nothing worse than using a technology stack that doesn t have a feature you really really need
+38863
+perhaps there is a better solution than this though
+38905
+i don t think composition is always better than inheritance just usually
+38931
+for quite some time i ve been using profont mainly because it allows a lot of lines fit into a given height a lot more than say consolas or others
+38936
+as you say there s no adobe-created way to do this but you might have better luck with zinc it is similar to air but provides real os integration of flash-based applications
+38954
+of course there may be more than one interface that would get you there
+39011
+it s a google developer tool which bundle majors javascript libraries and make it easier to deploy upgrade and make them lighter by always using compressed versions
+39031
+the wal logging operates on the page level which is much lower than the table level and doesn t even know which page holds data from which table
+39036
+the simple truth is that an interface is nothing more than a contract that a method is implemented
+39251
+for fetching data or at least the fetching of data that is coming from more than one table you can use stored procedures or views because the results will not be anonymous so you can return them from an outside method
+39309
+a java application bundle on os x is nothing more than a directory containing your .jars and a number of configuration files
+39344
+table variables and temporary tables where available will often be better than using a large source table
+39473
+i get the impression that it s not exactly a match made in heaven but a decent speed increasy would be better than nothing
+39579
+which is used of course only for values of h greater than zero
+39598
+apple have recently announced opencl which they claim is much more than cuda yet quite simple
+39616
+i like tools that will perform more than one task notepad++ is a great notepad replacement and has a document monitor plugin installs with standard msi that works great
+39638
+i wasted more time than i d like to admit debugging problems that turned out to be related to the various configuration size settings on both the client and server
+39946
+can someone give me a short and understandable explanation shorter than the definitions on wikipedia here and here
+39961
+all chrome does is separate multiple components different tabs plug-ins etcetera into separate processes but i can t imagine a single page having more than one javascript thread
+39961
+i don t think it will ever be implemented in the language itself since true multi-threading is only useful if the browser can run a single page multi-threaded or even more than one core and the difficulties there are way larger than the extra possibilities
+39961
+i don t think it will ever be implemented in the language itself since true multi-threading is only useful if the browser can run a single page multi-threaded or even more than one core and the difficulties there are way larger than the extra possibilities
+40026
+i have a little widget i wrote that shows thumbnails from a couple of photo streams and i d like to fix it so i can look at more than one stream at a time
+40128
+i don t see how your type string option is any safer than using object or struct
+40128
+i don t see how your type string option is any safer than using object or struct
+40142
+it would also be faster than dictionary lookups for parameter values
+40249
+guids will certainly be slower and use more memory than standard integer keys but whether or not that is an issue will depend on the type of load your system will see
+40358
+i don t know how well it will do with really large tables but visual studio is much quicker than sql management studio for basic table operations
+40512
+that makes hashtable slower than hashmap
+40631
+i like it better than flex builder
+40631
+i like it better than flex builder
+40663
+are there any other tools libraries strategies for validating a larger than normal xml file
+40705
+i d like to avoid this because system may have a newer version than python 2.4 or may have python 2.5 but no python 2.4
+40878
+this makes hashmap better for non-threaded applications as unsynchronized objects typically perform better than synchronized ones
+40904
+actually it d be worse as the mysql manual doesn t seem to indicate it supports d
+41069
+here the first argument is the window that owns the dialog box the second is the title of the window and the third is the default path to start at you need the at the end otherwise it ll start a directory higher with the user s home folder selected
+41100
+you can have more than one oracle instance on a server
+41156
+the strings are longer than full alphanumeric strings to compensate for using fewer symbols
+41312
+that said one thought would be to check if iis is configured to run in web garden mode more than 1 process executing your application which would break your locking logic
+41367
+2 maybe the need to scale will not outpace moore s law and maybe upgrading hardware will be cheaper than refactoring
+41370
+to summarize i ve argued that xemacs has a much lower market share poorer performance more bugs much lower stability and at this point probably fewer features than gnu emacs
+41370
+to summarize i ve argued that xemacs has a much lower market share poorer performance more bugs much lower stability and at this point probably fewer features than gnu emacs
+42013
+as per this comment in a related thread i d like to know why levenshtein distance based methods are better than soundex
+42049
+i find them useful when you always deal with two or more objects as a set
+42108
+it is a bit of a hack but it s a lot easier than other options and you won t need a 3rd party lib to do it though if you prefer a cleaner solution there probably are some kind of 3rd party tools out there you could use
+42148
+if you use an xmltextreader class it will technically be faster than using an xmldocument which parses the entire file and builds a dom for you
+42286
+it seems like there should be something shorter than this
+42519
+update nick s answer is the most straightforward but is there a way to do it better than n 2
+42629
+my current database was completely awash with countless small tables of no more than 5 rows each
+42640
+i use it all the time for oracle and have had good results often better than oracle s tools
+42640
+i use it all the time for oracle and have had good results often better than oracle s tools
+42646
+if that works you could try to make the line segments look more natural by using bezier curves to form curvy trapezoids
+42646
+if that works you could try to make the line segments look more natural by using bezier curves to form curvy trapezoids
+42700
+these two things should have taken the programmer no more than 5 days of work or else you are looking at too much code to review for the this step in the process be done thoroughly
+42757
+nothing worse than having someone beaver away in the dark for several days weeks months only for you to find that they ve implemented something in completely the wrong way technique style etc
+42888
+an xpath style api might be better than a dom api in that case - it might you decouple the nodes from the tree a bit more and treat the mutated tree more intelligently
+43037
+if your core requirement is a data-interchange format lighter than xml then you might want to consider using json instead of yaml
+43084
+i ve also read that due to the way that infopath works it can not handly more than one schema for each namespace
+43088
+it has a better implementation than this one which i leave here just in case someone s interested in seeing how one might roll your own calculator
+43201
+if you required the store name to be a higher priority than the function itself in the url
+43223
+or alternatively is there a way to allow certain block to run at a faster speed than the rest of the application
+43478
+there s no way to do this a lot easier with jdk methods but as apocalisp has already noted you re not the only one with this idea you could use ioutils from jakarta commons io it also has a lot of other useful things that imo should actually be part of the jdk.
+43524
+it s much slower than vc6 say
+43548
++1 for visualsvn being better than ankhsvn having tried both and +1 for the fogbugz add-in
+43548
++1 for visualsvn being better than ankhsvn having tried both and +1 for the fogbugz add-in
+43704
+in their il form they retain more metadata than c code does when compiled to machine language
+43743
+i found some wild remarks that asp.net mvc is 30x faster than asp.net webforms
+43743
+i found some wild remarks that asp.net mvc is 30x faster than asp.net webforms
+43855
+i can run eclipse which is java which is memory hungry and slower than native code and this is still way faster than vs 2005
+43863
+the absolute value of the result is strictly smaller than the absolute value of the second operand
+43898
+i do find the syntax of .slice to be cleaner than using the selector filters though
+44062
+i may be channelling spolsky not sure if he s said this but using vss is actually worse than not using source control at all
+44195
+union will be slower than union all because union will filter out dups
+44218
+there is an addition in 3.5 sp1 that allows better interaction between directx and wpf d3dimage and one way to get to that is through xna
+44478
+if there are common batch activities like delete all older than x date for instance i would write a static method on a collection class that executes the batch update or delete
+44558
+if you re up for it a full blown di framework with swappable configurations is the way to go but i think this is at least better than using globals.connectionstring
+44644
+ideally we would have better control over this situation and we are trying to get control over it but that is taking a while
+44691
+nightly backups of work folders to servers will prevent losing more than a days work
+45002
+i cannot seem to find a way to build either a custom sort or a custom scorer that can rank exact term matches much higher than other prefix term matches
+45234
+and preventing more than one flashing operation at a time on a given window would be nice too
+45313
+i experience that on several different machines with plugins without plugins with vb.net or c# solutions of many different sizes closing the solution in vs 2005 generally takes significantly more time than actually building the solution
+45498
+although i couldn t recommend doing this as anything more than a short term fix or for small one-off tasks
+45527
+database indexes perform better than fs trees when more number of items are to be stored
+45547
+paragraph widths larger than your display make a web site completely unusable
+45611
+that was easier than writing the deletion query i d have needed to do this in sql -- removing whole slices of the database isn t a normal operation so the schema isn t exactly adapted to it
+45636
+if your c c++ code is portable to nix few things are better than valgrind
+45890
+is there an easier way than this though
+46123
+but if c f is greater than c c then the code size is going to increase
+46123
+but if c f is greater than c c then the code size is going to increase
+46178
+unless you choose an int representation that s longer than the string collisions will always be possible no matter what conversion you re using
+46185
+the remote debugging experience on newer vs versions is a lot smoother than old versions in my experience
+46216
+if you have a string of more than 4 ascii characters or more than two unicode characters then there are more possible string values than possible integer values
+46216
+if you have a string of more than 4 ascii characters or more than two unicode characters then there are more possible string values than possible integer values
+46224
+i doubt that doing comparisons on big integers would be substantially faster than doing string comparisons in the first place
+46224
+in any case if your strings are around 10 characters i doubt that comparing say a bunch of 32 bit hashes will be all that much faster than direct string comparisons
+46244
+or something more robust by using a library such as jquery
+46544
+dvcs achieve better merges by tracking the parent revisions of merges
+47156
+although i believe it s much easier by utilizing filter
+47279
+the only ones i ve found is produced by oracle corp and as such are little more than advertising pieces pushing their technology of the moment
+47410
+bottom line jruby has its merits multithreading solid platform easy java integration but given that interpreted mode is the only mode that worked for us in practice it may be expected to be no better performance-wise than c ruby
+47410
+bottom line jruby has its merits multithreading solid platform easy java integration but given that interpreted mode is the only mode that worked for us in practice it may be expected to be no better performance-wise than c ruby
+47474
+it will depend on the browser s ability to solve this situation if it can t divide the parent s box by 3 without remaining will it draw a 1- or 2-pixel space or make 1 or 2 spans out of three wider than the rest
+47659
+about q4e i have been reading a lot of good stuff about it and seems the next versions will do a lot more than m2eclipse with a better dependency management and even visual graphs
+47735
+for those who don t have it enabled you can always make the submit button for the hidden form visible and instruct them to press it if it takes more than 5 seconds
+47795
+really what s going on here is that whether you use a stub or a mock in some cases you have to couple to your code more than you d like
+47865
+since the address space of the new process is already up and running this is should be cheaper than calling createprocess in windows and having it load the exe image associated dlls etc
+47895
+in programming a magic number is a value that should be given a symbolic name but was instead slipped into the code as a literal usually in more than one place
+47895
+this is sometimes helpful but can also create more complexity than it s worth
+47964
+it is clear that at least historically the need for unix-based systems to have fast process creation is far greater than for windows systems
+47990
+use 1ull if number is wider than unsigned long
+47990
+promotion of doesn t happen until after evaluating where it s ub to shift by more than the width of a long
+48001
+superclass name more than a qualified
+48012
+is asp.net mvc that much better than php with tools like cakephp
+48031
+if does cost you a tiny bit of performance for accessing the table but this is no worse than any other virtual function call
+48035
+so the only other problem you mentioned and that i can think of is the security of it but it shouldn t be too difficult to make it secure and it s obviously a lot more secure than using eval
+48035
+so the only other problem you mentioned and that i can think of is the security of it but it shouldn t be too difficult to make it secure and it s obviously a lot more secure than using eval
+48053
+perhaps someone can confirm this but i thought the difference is 5-10 time slower than with an integer division operation
+48097
+simple queries may be easier with hql while using the specification pattern you may find the criteria api to be a better fit
+48097
+hql is more my style and it s better than sql - it s object based not schema based and seems to work better for me for simple getx methods
+48098
+creating proper destructors for each class will make the deletion a little cleaner than massive loops throughout the code
+48098
+creating proper destructors for each class will make the deletion a little cleaner than massive loops throughout the code
+48103
+a side effect of many division routines is the modulus - so in few cases should division actually be faster than modulus
+48110
+to give a bit of background when learning my way around a new system i frequently find myself wanting to discover where some particular value came from but searching the entire code base turns up far more matches than i can reasonably assess individually
+48180
+the amount of overhead in trashing your buffer and reallocating memory is smaller than the overhead of going out to the network and doing an odbc read some make the buffer fairly small and change it often rather
+48210
+its all-java version for example cannot play mpeg-2 mpeg-4 windows media realmedia most quicktime movies flash content newer than flash 2 and needs a plug-in to play the ubiquitous mp3 format
+48259
+what s funny here is that the binary tree search appears a little probably not statistically quicker than the cil switch instruction
+48319
+for the reason mentioned above i ve had the project to implement my own collections library for .net but i ve stopped this project after the first benchmark revealed that even a straightforward non-thread-safe generic vector implementation is slower than the native
+48431
+i m not real familiar with svn i ve never used it - so i can t comment that mergeing is worse with tfs - and haven t hit the merge bug ben s reported - but i ve had great success with branching and merging using tfs
+48431
+if you have developers who need or want to often be disconnected from the network for long periods of time - you are likely better off with svn
+48448
+6 if you do more than just .net java work eclipse etc go with svn
+48462
+it has high overhead and is slower than arraylist so you shouldn t use it except for a large amount of data when its hashing speed becomes a factor
+48462
+treeset keeps the data ordered therefore is slower than hashset
+48797
+i think a place where singleton will make more sense than the static class is when you have to construct a pool of costly resources like database connections
+48897
+learning flex may be interesting and useful but is it more useful to you than more experience with .net technologies
+48912
+sockets operate at a higher level than raw packets - it s like a file you can read write from
+48929
+the read call may block until the requested number of bytes are read but it can return fewer bytes than what was requested
+49031
+to me this is better than having the main form perform creation of the object and to be so tightly bound to it
+49290
+abstract classes cannot define mix-ins -- a class cannot extend more than one parent
+49356
+if so is there a better name than projects
+49381
+all of the hyperlink controls with the class name nolink will automatically have all of their urls removed and the link will appear to be nothing more than text
+49428
+some of the more advanced java bytecode obfuscators do much more than just class name mangling
+49443
+a feasible architecture would probably be to use a sip trunk they optimize on using voip as much as possible and thus can provide much lower rates than a gsm provider generally does
+49492
+explicit is better than implicit
+49565
+this is why iterative development and iterative releases work so much better than waterfall
+49611
+you really can t get much easier than visualsvn for version control on windows
+49953
+java has much better performance than python and has way better tool support
+49953
+sometimes those things matter a lot and java is the better language than python for a task

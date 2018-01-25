@@ -18,3 +18,47 @@ there is no compelling reason to choose ftp over http anymore and there are a fe
 i would strongly recommend against this
 19604
 sadly tinymce doesn t come with the image manager or document manager integrated like fckeditor but you must buy them as plugins form moxiecode
+20049
+another thing to note is that you should never select all as this might lead to unexpected results later on if you add or remove columns to this table
+22444
+in this case i want to grab everything after project name up to the part where it says j0000011 the 11 is going to be a different number every time
+23082
+did you ever have to choose between wisa or lamp at the beginning of a web project
+25072
+if you re just using mysql then you can choose between pdo and mysqli
+25072
+so why would you choose mysqli over pdo
+28833
+they compete with adobe studio products
+29463
+but that is prabably not very portable and i would recommend against this
+35139
+least likely buffer for c-x b to select by default
+39209
+they re not likely to have much of a routing table and getbestinterface will automatically prefer wired over wireless - so you should be good
+40244
+the named pipe fifo solution is one that indeed works and i have used in the past but it actually requires quite a bit of work to do properly if you compare it with using a bash pipe
+40483
+based on the info here i d recommend going with hashmap
+41411
+i would recommend against this though because there s a lot of pitfalls using this approach
+41810
+none of the options i ve looked at really compare with this contact form for wordpress
+42649
+generally the database server is the biggest most expensive box we have to buy as scaling vertically is the only option
+43256
+if you are gonig down the plugin route i tend to prefer subversive over subclipse
+44693
+do i have to choose between performance and data integrity
+48514
+in both cases i d recommend staying with oracle only because it will simplify your code
+49002
+why prefer composition over inheritance
+49002
+when should you choose inheritance over composition
+49070
+another very pragmatic reason to prefer composition over inheritance has to do with your domain model and mapping it to a relational database
+49521
+in any case i would recommend against using the ep library
+49859
+the newer features in the language like linq are just something you ll have to pick up over time

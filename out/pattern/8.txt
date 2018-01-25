@@ -36,3 +36,85 @@ i suspect that a ss js solution that supports more recent ecma specs would be no
 most of the time writing the code itself is quicker and more effective than writing about the code because their programming intuition is tuned to the task
 19245
 is iis 7.0 much more stable than iis 6.0
+20966
+most of the time writing the code itself is quicker and more effective than writing about the code because their programming intuition is tuned to the task
+21093
+but i ve found that when executing 1000 concatenations or less string.join is even more efficient than stringbuilder
+22074
+in my mind illegalargumentexception seems more specific than using a npe since it s telling me that the problem was with an argument i passed to the method and not with a value that may have been generated while performing the method
+22824
+i believe this is more efficient than casting back and forth
+25455
+or is there at least a way that s more efficient than using plain text boxes
+26600
+edit i kept thinking after posting because it s a little more complicated than sizeof for valuetypes for example reference types can have references to other objects and so on.
+26851
+if anything i find working with svn easier and more intuitive than perforce
+26851
+perforce does have support for many other oses but our non-windows devs feel more comfortable with svn too
+27756
+if such a function exists use it it is almost guaranteed to be more reliable and more efficient than any hand-crafted code
+27942
+i m embarking on a path to becoming more familiar with c c++ but should i go much lower than that into assembly
+29557
+i ve read time and time again that tdd test first is more difficult with mstest than it is with other testing frameworks such as nunit mbunit etc.
+30415
+it s much more flexible than partitioning or lvm
+31425
+the long answer expanding on what the op said is to be more compatible with apache and mysql postgresql
+32675
+to me padding just sounds more inner than margin
+33729
+the reason why they chickened out was that java was significantly older and more widespread than .net when they introduced generics
+36769
+he told me that symbian was the worst of the lot - it caused far more headache than any other mobile platform
+36914
+something like jquery or yahoo s yui think how many people hit the yahoo javascript in a day and the variety of browsers is just way more road-tested than any snippet you or i come up with
+38089
+in my experience these things lead to more evil bugs than any effective performance increases
+38335
+it s slightly more complicated than this
+38645
+is there a more efficient way than using fieldnames and a for loop
+38965
+and normally database space is much more expensive than file system space
+39138
+they re both a little old and more nxy than windows
+40509
+you probably can find some balance point at which maintaining the buffer is more costly than processing all the cells
+41046
+actually the trace macro is a lot more flexible than outputdebugstring
+41277
+it s more complex than with codeigniter but there s already a primer on how to do exactly that in the zf documentation
+42945
+the argument is more complex than this read yegge s article is weak typing strong enough for an interesting overview
+43729
+for it is more complex as this is multiline pattern
+44216
+of course things are a lot easier especially when you want to do more complicated things with jquery
+44513
+in an sql query is not really more troublesome than typing select businessname from .
+44789
+it is not a requirement that the work translates extremely well to gpu programming as we are willing to accept modest performance improvements better little than nothing right
+45695
+ok so i demo d refactor pro and resharper i m more comfortable with resharper so that s what i bought
+46005
+clearly i m leaving out details like how to determine when you reach the end of the file in the event that your file isn t a multiple of page_size for instance but it really shouldn t be much more complicated than this
+47168
+context while it s true that http overhead is more significant than parsing js and css ignoring the impact of parsing on browser performance even if you have less than a meg of js is a good way to get yourself in trouble
+47304
+you can do some more powerful things with named url patterns they re very handy
+47577
+emacs.app feels more zippy than aquamacs to me but its just bare cvs-emacs and doesn t come with the same amount of stuff you have to install your own auctex etc.
+47601
+it is more addictive than stack overflow - i ve found that with my google type habits - i need the more expensive subscription so i can look at any book at any time - but i d recommend the trial to anyone even remotely interested
+47972
+how is duck-typing more productive than static typing
+47977
+it s not that duck typing is more productive than static typing as much as it is simply different
+48016
+there are some things that you can do in emacs that make it more powerful than vi but not all of them are even programming-related
+48016
+since i posted this i have come across ways that using emacs has made me more productive than using vi
+49482
+depending on your needs awk is more flexible than cut

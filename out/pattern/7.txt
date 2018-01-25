@@ -346,3 +346,643 @@ using a new language in production code is about more than easy syntax and high-
 this is for reasons similar to the reasons it s good to learn c like how a strcpy takes more time than copying an integer or why you should use pointers to arrays as function parameters instead of arrays by value
 19865
 take command is syntactically compatible with cmd.exe and enhances each command quite a bit and adds many more
+20061
+storing in an xml file actually makes more sense to me but i thought if i suggested that i d get torn apart
+20113
+using a free certificate is a better idea if your developers use firefox 3
+20113
+using a free certificate is a better idea if your developers use firefox 3
+20910
+i ve done development using both and i honestly believe silverlight is easier to work with
+21616
+wikipedia describes it better than i can
+21777
+another reason for using a list of status objects is that identifying multiple errors such as during validation is much easier
+21830
+the index size becomes much bigger than the available memory
+21934
+so an object that has no more use will be immediately destroyed
+21959
+nothing is worse than an application crashing with some user unfriendly stacktrace dumped to the screen
+21983
+also if you read the comments he says that the block has too many moving parts and the asp.net cache is much more lightweght
+21985
+i would say that a 3rd party encryption tool is not safer than the .net framework encryption algorithms these libraries just help you doing your job faster
+22047
+tie it in with gravatar and rewriting your profile is much more painless - perhaps one or two fields
+22680
+i also used to be a tsql guy and find some of oracle s idiosyncrasies more than a little perplexing
+22680
+i also used to be a tsql guy and find some of oracle s idiosyncrasies more than a little perplexing
+22681
+manual debugging is generally quicker for me - var_dump and debug_print_backtrace are all the tools you need to arm your logic with
+22681
+manual debugging is generally quicker for me - var_dump and debug_print_backtrace are all the tools you need to arm your logic with
+22717
+use the software you are building as much as you possibly can there is no better way to see it s fault s shortcomings and problems then to experience them yourself
+23091
+visio is another tool to do screen design but i still think excel has a better edge over it considering its vba support and its functions
+23188
+lisp is more pure as functional languages go
+23203
+i really like thompson s haskell the craft of functional programming because it s well written and haskell allows an easier start than other functional languages while being completely pure unlike lisp or scheme
+23306
+edit the c# documentation on this indicates one more use besides the two i mentioned for the this keyword - for declaring indexers
+23324
+this is much harder to do with procedural programming not easy with functional but still easier
+23339
+flex makes alot more sense in my opinion - silverlight still has to mature
+23538
+heard firebug is even better since it allows you to edit too but haven t tried it
+23693
+there are situations when functional programming is the obvious choice and other situations were procedural programming is the better choice
+23700
+the wikipedia article probably does a better job of explaining how the formula works than me and there s also this aviation formulary page that covers that goes into more detail
+23857
+innosetup or nsis whichever seems easier to you
+23959
+this is tougher to set-up
+24019
+if a client can support lamp it is certainly cheaper but it is important what the client or company can support
+24119
+and while plain vim is still more than capable neovim is a promising restart and it s modernised a few old warts
+24131
+i d go for the object oriented way using classes because i find it makes for cleaner code at least in my opinion
+24156
+powershell is much better
+24208
+then we have a script called migration_watcher which as we are in pre-alpha currently runs on every page load and checks whether there is a new migration_xx.sql file where xx is larger than the current migration version
+24235
+coderush is way more than refactoring
+24377
+this is easier to write using a generator as covered in a previous answer
+24429
+i know you asked for c# but my vb.net is much better
+24455
+this allows better control over nested loops
+24547
+the first one format looks better to me
+24583
+for longer than msbuild and has more
+24596
+however doing a quick search for java frameworks returns more than 50 to choose from
+24596
+however doing a quick search for java frameworks returns more than 50 to choose from
+24621
+there are three reasons why a sealed class is better than an unsealed class
+24621
+there are three reasons why a sealed class is better than an unsealed class
+24623
+i was wondering which way is better and more scalable
+24675
+which is a better solution store the simple comment template and render comments from a db call each time the page is loaded or store a cached copy of the comments page as a html page - each time a comment is added edited deleted the page is recached
+24902
+just be aware that creating xml text is harder than it looks
+24902
+just be aware that creating xml text is harder than it looks
+24911
+i m sure that the amazon team has much more experience and resources available to run a heavy-duty web site than i do
+24922
+this second method called garbage collection is much easier on the developer but you pay a penalty in overhead and performance
+24954
+it is the layout of the registry that makes it harder to determine in a standard way what applications are associated with an extension what are there display names and where their executables are located
+24959
+debugging asp.net websites web projects in visual studio.net 2005 with firefox is loads slower
+25002
+this is easier in python due to duck-typing though .
+25284
+also the union method is much longer and more difficult to maintain what if you want a third
+25391
+using a lambda expression makes it simpler than actually declaring the predicate
+25391
+using a lambda expression makes it simpler than actually declaring the predicate
+25525
+it supports hierarchical selectors using indentation to establish hierarchies among other things which makes life easier to an extend from a syntactical perspective you repeat yourself a lot less
+25540
+tapestry is more of a full featured web stack than tile and is probably good for your purposes
+25663
+the spofford book mdx solutions is more up date and a little deeper but a bit harder to get through
+25678
+successful use of the pattern isolates business logic from user interface considerations resulting in an application where it is easier to modify either the visual appearance of the application or the underlying business rules without affecting the other
+25856
+while your algorithm is slower it doesn t progress steadily but instead performs random jumps
+25862
+this is far easier with a new position
+25869
+touching a file makes sure that its timestamp is newer than at the time it was last compiled
+26045
+i would reccomend sticking to what you know - php is more than capable
+26059
+i would reccomend sticking to what you know - php is more than capable
+26195
+so my question is this has anyone out there found a decent solution for this that does more than this script
+26207
+matz ruby 1.8.6 is much slower when it comes to performance and 1.9 and jruby do alot to speed it up
+26379
+in addition i m looking to make my application runnable off a usb flash drive and having the settings tied into the file seems much friendlier to that process
+26573
+updating appears more flexible.
+26602
+that leaves us with only one drawback of doing show hide logic in javascript - the html sent to user is bigger than necessary
+26693
+for example because the view doesn t care about the underlying model supporting multiple file formats is easier just add a model subclass for each
+26693
+for example because the view doesn t care about the underlying model supporting multiple file formats is easier just add a model subclass for each
+26869
+sql express has more features and is a lot more powerful but will only run on windows boxes
+26869
+sql express has more features and is a lot more powerful but will only run on windows boxes
+26910
+optparse while being a bit more verbose is much better structured and simpler to extend later on
+27054
+the friction of keeping your changes in your local branches and not publishing them is typically lower than publishing them in some branch on a publically available server
+27082
+i will however stress that nullable types is the better route to go if you can use them
+27082
+i will however stress that nullable types is the better route to go if you can use them
+27134
+my concern is that a dvcs makes it easier to not share your work since you don t have the drawbacks of not sharing your work you get with svn
+27134
+if the friction of not sharing is lower than the friction of not sharing which it is in dvcs a developer all else being equal might easily choose the path of least friction
+27360
+in a one off situation where i just need it here i think using some handrolled reflection code is a better approach than having an additional library to link against and only calling it one place.
+27443
+in most regards postgresql is slower than mysql especially when it comes to fine tuning in the end
+27536
+there are other methods of interpolation that sometimes work better
+27537
+however if you have just two separate programs but want to run them as single application then i guess ikvm is a better approach as suggested by marxidad
+27586
+for me the best visual swing editor is jformdesigner which you can run standalone or as a plugin for intellij and eclipse
+27586
+for me the best visual swing editor is jformdesigner which you can run standalone or as a plugin for intellij and eclipse
+27950
+this provides better quality than getimagethumbnail would out of the box
+28228
+once you get over the fact that up-arrow and down-arrow are replaced by esc k and then j you ll see that vi mode offers more than emacs mode for command line editing in bash
+28228
+once you get over the fact that up-arrow and down-arrow are replaced by esc k and then j you ll see that vi mode offers more than emacs mode for command line editing in bash
+28306
+so on some level it is easier to reason about order of evaluation with respect to one function at a time
+28312
+from my experience the only thing that matters is which one is easier to mock in unit tests
+28312
+i always felt singleton is easier and natural to mock out
+28580
+explicit is better than implicit
+28591
+moving the files in starteam and then updating your project solution is the cleaner way to go
+28591
+moving the files in starteam and then updating your project solution is the cleaner way to go
+28602
+asynchronous requests mitigate the connection cost through faster request response time...because you cannot easily achieve this in php without out some threading then the performance hit is greater then simply reusing the same connection
+28602
+asynchronous requests mitigate the connection cost through faster request response time...because you cannot easily achieve this in php without out some threading then the performance hit is greater then simply reusing the same connection
+28834
+expression studio is targeted more at designers
+28840
+its clear that the functional team have plenty of ideas but these are not well communicated to the development team and the demo poses more questions than answers
+28938
+note although dean edwards s packer achieves a better compression rate than yui compressor i ran into a few javascript errors when using it
+28938
+note although dean edwards s packer achieves a better compression rate than yui compressor i ran into a few javascript errors when using it
+28954
+basically packer does a better job at initial compression but if you are going to gzip the files before sending on the wire which you should be doing yui compressor gets the smallest final size
+29293
+evan the datacontext or linq to entities objectcontext is more of a unit of work than a connection
+29293
+evan the datacontext or linq to entities objectcontext is more of a unit of work than a connection
+29686
+the problem is sometimes i get http timeouts presumably because the request runs longer than executiontimeout 110 seconds per default
+29698
+the second is inverting the main colors white text on black background is much easier to stare at for hours in my opinion
+29828
+you could check that at insertion time or at retrieval time whatever makes more sense and throw an exception
+29831
+now it s true to say that this is higher overhead than some macro
+29882
+is there another system which is easier to integrate with iis
+29882
+is there another system which is easier to integrate with iis
+30155
+this makes more sense now that i have gotten used to it
+30193
+html is a really complex language which is one of the major reasons that xhtml was created which is much simpler than html
+30481
+i hear that subversion s integration into the ide is much better now than when i last used it
+30494
+here is my code which takes two version identifiers in the form 1 5 0 4 or 1.5.0.4 and determines which is the newer version
+30598
+the difference between using an interface and an abstract class has more to do with code organization for me than enforcement by the language itself
+30598
+the difference between using an interface and an abstract class has more to do with code organization for me than enforcement by the language itself
+30598
+while inheritance from abstract class is a is a relation that isn t always what you want and implementing an interface is more of a acts like a relation
+30660
+that for some data is not in sync meaning the master holds more data than the slave
+30707
+while having a background window flash its taskbar button is better than having it automatically come to the top and steal input focus flashing taskbar buttons are still very intrusive
+30707
+while having a background window flash its taskbar button is better than having it automatically come to the top and steal input focus flashing taskbar buttons are still very intrusive
+30757
+in my experience the design and implementation has much more to do with performance than do the choice of language framework however the usual caveats apply eg don t write a device driver in c# or java
+30799
+programming to an interface rather then a direct implementation allows for more dynamic and manageable code as you can completely swap out implementations as long as the contract is still held
+30805
+while the change wasn t necessarily prompted by the language i feel that the fck editor is a better choice because of it s versatility
+31236
+asp.net makes it easier to follow function calls around so you might start by breaking out your larger code blocks into several smaller functions
+31332
+programming phase common lisp development has more of an
+31425
+yes i could run them all in 32bit and have in the past but this is much more work then compiling one program
+31615
+price generally has higher cardinality
+31615
+this is because fewer cars will satisfy the price point than the color choice giving the query engine far less data to analyze
+31631
+git is even easier to set up and use than subversion and doesn t require a server component
+31632
+tfs is far better than vss though it is fairly expensive for such a small team
+31693
+i keep reading that java made the wrong decision or that .net has better implementations etc
+31732
+it s a distributed system like git but seems easier to use and seems far better supported on windows the latter of which was crucial for me
+31866
+in some ways this is much cleaner - if you need to use a collection in c# there is really very little reason to go with the non-generic version but those legacy classes remain in place cluttering up the landscape
+31950
+pygame works much better when it can manage its own window or even better use the whole screen
+32007
+having a list of variable assignments in the one ps1 file is probably easier than maintaining separate batch files
+32007
+having a list of variable assignments in the one ps1 file is probably easier than maintaining separate batch files
+32145
+i see a lot of debate about getter setter class methods and is it better to just access simple property variables directly or should every class have explicit get set methods defined blah blah blah
+32404
+i want one of the programs to act as a service which provides a higher level interface for operations on these objects and the other programs to access the objects through that service
+32404
+i want one of the programs to act as a service which provides a higher level interface for operations on these objects and the other programs to access the objects through that service
+32453
+packer with shrink vars achieves better compression the yui but can introduce bugs if you ve skipped a semicolon somewhere
+32606
+the text area default font is smaller therefore the text box is smaller
+32606
+the text area default font is smaller therefore the text box is smaller
+32606
+the text area default font is smaller therefore the text box is smaller
+32872
+this makes it easier for anyone maintaining your work to figure out why the code was changed between one revision and another
+32932
+it does feel pretty clunky but it is easier to port utilities to it and this is more complete than unxutils
+32982
+however undoing this is harder than single-line comments
+33107
+aim for pastel colours that are slightly dimmer than their full-blown counterparts a pastel red is dimmer than a 255 0 0 red for example
+33159
+sadly this is more work and a less elegant solution than the property sheet inheritance mechanism in c++
+33161
+i fiddled around with the scriptmanager suggestions - which i reckon i would have eventually got working but it seems to me that the timer idea is easier to implement and not really
+33246
+writing in file is slower than writing in memory so a commit will be slower if performed for many operations in a row rather then for a set of coalesced updates
+33563
+this page has more details on the differences
+33623
+yes caching to a database is slower than caching on your webserver
+33746
+the reason i suggested the first is that the size of the file created is much smaller
+33813
+i ve recently started using it and although i like its minimalistic interface it makes it harder to stumble upon cool features if you don t know what you re looking for
+33860
+i m not sure which is worse though sending a phantom click to an invisible submit button or calling eval on the getattribute onsubmit call after removing the return call with a javascript string replacement
+33952
+nant is an older and more mature build scripting language but they are both similar in how they work
+33957
+i now feel that templateresponse and view decorators is a better answer for decomposing view code
+34163
+i don t think either of the two methods is necessarily easier to read as long as you stick to it
+34212
+in that case it becomes much easier to have a single pace which attaches events rather than having to search many different html files to find where a particular function is called
+34345
+hint one can save more than 30 prisoners on average which is much more that 50 100 50 99 ... 1
+34345
+hint one can save more than 30 prisoners on average which is much more that 50 100 50 99 ... 1
+34681
+the second task is significantly easier due to the birthday paradox.
+34984
+also make sure that you re doing the sanitizing from a trusted process - javascript anything client-side is worse than useless security integrity-wise
+35187
+this is usually caused when using a build system like apache ant that only compiles java files when the java file is newer than the class file
+35187
+this is usually caused when using a build system like apache ant that only compiles java files when the java file is newer than the class file
+35195
+in which universe is that better
+35195
+in which universe is that better
+35304
+this is much easier to follow but it kinda feels like i m cheating a little either way
+35443
+the python documentation has more examples on how to do complex things with urllib2 that you might also find useful
+35443
+the python documentation has more examples on how to do complex things with urllib2 that you might also find useful
+35450
+when ever i need to do something similar usually i end up using xml parser easytree it has better documentation and is simpler to use
+35543
+html is harder since there s traditionally not been as much interest in validation among the html crowd run stackoverflow itself through a validator yikes
+35606
+edit okay according to ntfs has more green boxes than both ufs1 and ufs2
+35627
+also since you mentioned grep if all the source code for system libraries such as the kernel and libc is stored in usr local src doing a recursive grep for a particular error message coming from the guts of some system library is much simpler than if things were laid out as usr local library-name bin|src|doc|etc
+35677
+i ve heard of an xmpp gateway protocol but it s unclear if this is any better than the client solution
+35756
+the last one doxygen is more of an automatic documentation tool but it is capable of generating dependency graphs and inheritance diagrams
+35757
+in my opinion python is more than ready for developing complex applications
+35777
+cons as a dynamic language has way worse ide support proper syntax completion requires static typing whether explicit in java or inferred in sml its object system is far from perfect interfaces anyone
+35791
+i can agree that the second version is shorter but i m not sure that i think it s easier to follow
+35892
+this makes it easier to tie up exceptions on a client back to your app box by using logparser displaylang en
+35934
+for 15 000 points you probably have a much smaller map - i first sized it up as a first step to doing lat-lon to postcode searches which needs higher resolution
+36122
+language doesn t matter to me this is more of a theory question than anything so use whatever language you want just try to keep it to generally popular and current languages
+36186
+i think this is a better question and someone suggested i hope this question will allow others to join in and suggest other tools or give specific recommendation to using version que versus other tools
+36285
+as usual wikipedia has more details
+36342
+2 a working-backup of all my in-progress files which is never more than 30 minutes old monday-friday when i m at work and connected to the external drives
+36364
+so the compilation is slower
+36493
+usually this is more for documentation than comment
+36513
+in modern mixed paradigm languages like f# or scala this is easier
+36513
+in modern mixed paradigm languages like f# or scala this is easier
+36781
+setredirecturl would be called in any action that produces links forms which need to redirect to a given url
+36797
+trouble if the user has more than one tab window of that browser open
+36870
+more than one return is better than huge arrows and guard clauses are generally ok
+37146
+edit apparently mod_wsgi no longer supports multiple interpreters per process because idiots couldn t figure out how to properly implement extension modules
+37231
+this solution is easier to read than manual bit shifting
+37231
+this solution is easier to read than manual bit shifting
+37322
+i find the c++ behaviour makes more sense since base class c-tors are called first it stands to reason that they should call base class virtual functions--after all the derived class c-tor hasn t run yet so it may not have set up the right preconditions for the derived class virtual function
+37456
+the bin packing problem partition a set into a minimum number of sets where each subset is smaller than some limit
+37456
+the bin packing problem partition a set into a minimum number of sets where each subset is smaller than some limit
+37924
+to illustrate this the chance of me hitting the letter e in this comment is much higher than that of z so if i were to use key interrupts as a source of entropy it would be bias - but there is still some randomness to be had in that input
+38097
+this is more of a how-to-implement tip but i started dabbling with creating an activerecord datamapper implementation in php and quickly ran into many hurdles with array-like access
+38222
+the movement to the subprocess module would have been an opportune time to rename them but i guess that keeping popen makes it easier to find in the docs for those who have a long history with python or even to the venerable posix functions
+38246
+i really think this had to do more with the strong and tight binding with iis that .net has more than the speed of the framework
+38296
+adduser which is a frendlier front end to useradd
+38444
+think of your ajax code as just another client to your server it becomes easier to tackle authentication issues that way
+38519
+soap is nothing more than an updated version of the same principles defined with c and c contracts providers consumers etc.
+38519
+it s just that has appeared to soap succeed at least partially where the other two failed and it could be that soap just has a better marketing team that is that soap really does allow to different systems to connect rather easily compared to it s predecessors
+38883
+in the above model though this index through the unique_index is still calculated but i believe that this is easier to understand
+38905
+i don t think composition is always better than inheritance just usually
+38916
+it s relying on undocumented internal implementation details of the admin is likely to break again in future versions of django and is no easier to implement than just finding another js calendar widget and using that
+39031
+the wal logging operates on the page level which is much lower than the table level and doesn t even know which page holds data from which table
+39031
+the wal logging operates on the page level which is much lower than the table level and doesn t even know which page holds data from which table
+39036
+the simple truth is that an interface is nothing more than a contract that a method is implemented
+39306
+so the question one should be asking is not which of these two operations is faster it is which of these two operations expresses more accurately what you are trying to accomplish
+39308
+this way archiving older versions and restoring versions from archive is easier too
+40026
+as the title says is there a way to run the same adobe air app more than once
+40026
+as the title says is there a way to run the same adobe air app more than once
+40101
+this file is far easier to parse as the functions calls are already identified
+40101
+this file is far easier to parse as the functions calls are already identified
+40128
+i don t see how your type string option is any safer than using object or struct
+40128
+i don t see how your type string option is any safer than using object or struct
+40280
+this is harder to do in applications that are only in maintenance mode because it is hard to convince management that rewriting something that is already working is worth doing
+40350
+first this is much easier if both the server and your workstation are on the same domain the server needs access to connect to your machine
+40381
+also you re likely going to be doing the same amount of work that you were going to do if you just started from scratch but you might have an easier time trying to convince your bosses that this is a better approach
+40424
+also if your thing that moves through the maze is slightly smarter than just being able to move and hit stop at walls in that it can see from its current point in all directions i have other algorithms that might help
+40620
+helps create discrete logic that is much easier to build and test
+40783
+the minimum comfortably readable font size is larger than for languages written with the latin script
+40825
+bugzilla is more of an issue tracker than a request tracker but it can be configured to handle email-based status tracking
+40966
+for either case why is it better
+41045
+usually the slight loss in performance is more than made up for by not having to remember to delete dynamically allocated objects
+41051
+but if you can t change the protocol this code is much easier to read
+41241
+the wiki lists some more wrappers
+41262
+note that using reflection is considerably slower than accessing the property directly so the performance would have to be investigated
+41262
+note that using reflection is considerably slower than accessing the property directly so the performance would have to be investigated
+41339
+the second option is much quicker if you have multiple items
+41339
+this is potentially worse if you use one of the predicate overrides - count still has to check every single item even it there is only one match
+41479
+this is no better than the equivilent foreach var item in somelist .
+41637
+this is clearer with an example what i mean is that you can have
+41654
+the more formats it supports the better
+41863
+since inserts have more data this is a better time to do it
+41873
+the real limiting factor will be the writes to disk so you may need to run some tests while running perfmon to see which query causes more writes and causes the disk queue to get the longest longer is bad
+42323
+i would like to set the css width attribute of all my img tags to a particular value only when the image real width is bigger than the attribute value
+42638
+ideally your features will be broken up into smaller pieces so that any one task is no more than a few hours of work maybe a day
+42647
+nothing is worse then reading pages and pages of another person s code
+42720
+edit this is probably more of an alternate way of doing what you re looking for rather than a suggestion for a meta language
+42720
+edit this is probably more of an alternate way of doing what you re looking for rather than a suggestion for a meta language
+42729
+on a semi-related note if you want to start a process that has more privileges than your current process say launching an admin app which requires administrator rights from the main app running as a normal user you can t do so using createprocess on vista since it won t trigger the uac dialog assuming it is enabled
+43054
+what s interesting is that the more c# matures the more dynamic it starts to look
+43112
+my two biggest problems are as awt events bubble up through swt there are some erroneous events fired and due to wrapping the awt frame jfreechart becomes substantially slower
+43112
+my two biggest problems are as awt events bubble up through swt there are some erroneous events fired and due to wrapping the awt frame jfreechart becomes substantially slower
+43223
+my intention on keeping the continuous states is for better numerical integration
+43223
+my intention on keeping the continuous states is for better numerical integration
+43495
+treat each case seperately and logically and you will see which makes more sense put it in the app or put it in the database
+43743
+i found some wild remarks that asp.net mvc is 30x faster than asp.net webforms
+43743
+i found some wild remarks that asp.net mvc is 30x faster than asp.net webforms
+43863
+the absolute value of the result is strictly smaller than the absolute value of the second operand
+44062
+i may be channelling spolsky not sure if he s said this but using vss is actually worse than not using source control at all
+44128
+edit sqlmenace s answer is much easier
+44135
+does anyone have examples suggestions and explanations as to why a certain project layout is better than another
+44135
+does anyone have examples suggestions and explanations as to why a certain project layout is better than another
+44229
+foreach is technically slower however much easier to use and easier to read
+44443
+another aspect of the question was if either database is easier to work with when using python
+44443
+another aspect of the question was if either database is easier to work with when using python
+44594
+representing these bits in octal makes it easier to figure out what permissions are set
+45013
+i know i would have thought the answer was obviously no as well but i am experiencing a strange situation where when i view my site from our staging server it appears slightly larger than when i view it from my local dev server
+45148
+a class offers much more flexibility
+45184
+php is better than asp though - and somewhat similar at the basic level
+45239
+however if there is a advantage to for example check the user-agent and then return different files to different browsers that is fine if the total comprehensibility and maintainability of the web app is lower
+45312
+their pricing is the best in the uk but might fall down with us sms which is obviously cheaper - there are plenty of other sms api providers though
+45312
+their pricing is the best in the uk but might fall down with us sms which is obviously cheaper - there are plenty of other sms api providers though
+45454
+you can see which is quicker more consise and clearer
+45521
+it appears there is a new assembly in .net 3.5 called system.directoryservices.accountmanagement which gives a cleaner implementation than system.directoryservices
+45595
+it indicates that action needs more input
+45650
+i found that i can get around this by manually opening the project file in a text editor and modifying the path to something like .. .. .. common source.cs but this is more of a hack then i would like
+45886
+of course asp.net provides much better ways of accomplishing the same thing but it s still a bit of a loss and can make migrating an old site to .net a pain
+45963
+finding a package that can work with both new delete and malloc free obviously gives you more flexibility
+46002
+one potential problem is that if your file is bigger than 4gb or in practice the limit is lower often 2gb you will need a 64bit architecture
+46123
+big code means more chance of cache miss when fetching instructions which means slower code
+46123
+big code means more chance of cache miss when fetching instructions which means slower code
+46123
+but if c f is greater than c c then the code size is going to increase
+46247
+this means that a 100 character string only requires 25 compares maximum to find which is greater
+46247
+this means that a 100 character string only requires 25 compares maximum to find which is greater
+46289
+you can take that html and layout the form either side-by-side labels or labels on top of the textboxes which is easier
+46504
+having a private key prevents people from being able to forge a key but using a 16 bit cr makes it easier to break
+46665
+since goto is abused more than correctly used i believe it has no place in a well designed language
+47027
+this obviously makes things easier when you choose to ditch the singleton pattern in favor of a real pattern like ioc
+47087
+the second solution makes much more sense but manually escaping each value is a pain
+47297
+i ve done amf before but i feel like inlining parameters into the embed itself is a better solution because you don t have to wait for the browser to load a swf binary and the binary to make a web request
+47486
+in this case is it better to have a separate table for the history or just one that aggregates both the orders and the result
+47486
+in this case is it better to have a separate table for the history or just one that aggregates both the orders and the result
+47659
+but the general opinion is that m2eclipse is still better than q4e but q4e is getting better each new version and maybe will surpass m2eclipse soon
+47680
+the documentation has more details
+47717
+now look at 1 + 2 3 + 4 now you know that 2 3 has to to be evaluated because the next operator has lower precedence
+47717
+you compare each new operator with the one at the top of the stack if the one on top of the stack has higher priority you pop it off the operator stack pop the operands off the number stack apply the operator and push the result onto the number stack
+47750
+my solution represents an older school javascript mentality read pre the emergence of ajax and json
+47841
+edits i have significantly cleaned up the code after due consideration i think this is much cleaner
+47888
+in most cases this makes programs harder to read understand and maintain
+47908
+if it s a protocol with message exchange i d suggest that the very slight performance hit you take with tcp is more than worth it
+47964
+it is clear that at least historically the need for unix-based systems to have fast process creation is far greater than for windows systems
+47964
+it is clear that at least historically the need for unix-based systems to have fast process creation is far greater than for windows systems
+48006
+repeat i don t want a my editor is better than yours answer
+48015
+textmate is a better emacs for macs though that won t help you with solaris
+48031
+if does cost you a tiny bit of performance for accessing the table but this is no worse than any other virtual function call
+48088
+so my question is can anyone give me an example where a return statement or other flow control in a finally block produces better more readable code
+48088
+so my question is can anyone give me an example where a return statement or other flow control in a finally block produces better more readable code
+48099
+of the two editors emacs presents a better framework or constant customization
+48166
+route is a very old and basic tool for displaying and modifying the entries in the local ip routing table while netsh is the newer more robust command-line scripting utility that allows you to either locally or remotely manipulate the network configuration
+48180
+the amount of overhead in trashing your buffer and reallocating memory is smaller than the overhead of going out to the network and doing an odbc read some make the buffer fairly small and change it often rather
+48244
+as far as nt the kernel itself goes i do not think process creation ntcreateprocess and thread creation ntcreatethread is significantly slower as on the average unix
+48319
+for the reason mentioned above i ve had the project to implement my own collections library for .net but i ve stopped this project after the first benchmark revealed that even a straightforward non-thread-safe generic vector implementation is slower than the native
+48319
+for the reason mentioned above i ve had the project to implement my own collections library for .net but i ve stopped this project after the first benchmark revealed that even a straightforward non-thread-safe generic vector implementation is slower than the native
+48338
+this is probably more of a legal question
+48462
+it has high overhead and is slower than arraylist so you shouldn t use it except for a large amount of data when its hashing speed becomes a factor
+48630
+a conditional block that spans more than a screenful of text is hard to read
+48760
+whether or not a method is static is more of a design consideration than one of efficiency
+48993
+i guess you could probably use javascript to handle a selection event my javascript knowledge is a little in disrepair at the moment and switch on the value of the combo box but this seems like more of a hack
+49031
+to me this is better than having the main form perform creation of the object and to be so tightly bound to it
+49443
+and even if you use ssl you d have to convince your users trusting you that you don t record all the conversations going on but this too is more of a political than a coding issue
+49492
+explicit is better than implicit
+49620
+however if you do not specify the sizes you can see that the first declaration makes a larger string
+49953
+java has much better performance than python and has way better tool support
+49953
+sometimes those things matter a lot and java is the better language than python for a task

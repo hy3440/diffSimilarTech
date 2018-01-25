@@ -348,3 +348,671 @@ i don t like keeping it enabled because then it will instill hesitation in users
 i would like to recommend this jquery plugin though jqmodal
 19943
 in conclusion i don t recommend switching from php but i do recommend accommodating the developer s interest in some way at work
+20058
+as for resources i d highly recommend msdn magazine
+20140
+i would recommend using linq or an orm tool to interact with the database
+20143
+unless some mssql guru comes to the rescue i recommend submitting the problem to the vendor
+20169
+just in case you might need to this may help if you need to grab unicode arguments on win32 2k xp etc
+20192
+there are lots of good reasons to prefer iis over the cassini server articles by dominick baier
+20192
+another reason why i would not recommend cassini
+20222
+i prefer optparse to getopt
+20276
+i d prefer using a regex but i m for regular expressions
+20478
+i used an enum containg the sql keywords select insert ... and basically parsed each line iterating over the enum to determine if any sql was present
+20603
+it s case insensetive and should match statements that span across multiple lines too
+20682
+the problem with encoding semantics in your hierarchy is that you lose flexibility
+20895
+i would recommend using a subreport
+21118
+however rico mariani .net optimization guru made up a quiz in which he stated at the end that in most cases he recommends string.format
+21532
+i can recommend ninject
+21584
+i would recommend using the win32 api function netlocalgroupgetmembers
+21765
+a search plugin written in perl that beats vim s internal grep implementation and externally invoked greps too
+21934
+why does java choose this strategy and what is the benefit from this
+22115
+it would be really cool to be able to specify a regex for strings so that my generator spits out things which match this
+22134
+i prefer textmate on os x
+22292
+i would recommend fiddler but if you re on linux or something then you ll need to use wireshark to figure some of the things out
+22304
+i can t recommend any good php frameworks for that though
+22325
+i d also recommend downloading some of the plethora of apps on django pluggables and seeing how they do it
+22338
+so how have people tended to choose names logos and branding
+22397
+i would probably favor invoke over begininvoke as the latter will result in the code being called asynchronously which may or may not be what you re after but would make handling subsequent exceptions difficult to propagate without a call to endinvoke
+22480
+you make it non-greedy by using when using the latter construct the regex engine will at every step it matches text into the . attempt to match whatever make come after the
+22480
+this means that if for instance nothing comes after the then it matches nothing
+22615
+if you have all of the data connections set up you can configure rules to select which connection to submit to
+22640
+some folks prefer dateadd d 1 activitydatemidnight instead - but it s the same thing
+22693
+then just compare server time with stored time
+22693
+if the events times can change between users and even per user it may make development and debugging easier if you choose option 1
+22829
+this is by the way very helpful to choose tags and appropriate spelling avoiding the subversion vs
+22900
+select the entire column and right click and select format cells select text from the list of options
+22904
+thomas owens re source control yes but that s not source control in the same sense that i can check in a .cs file or .cpp file or whatever and go and pick out any revision i want
+22917
+if your database is medium sized then visual studio has some nice project integrations with built in compare data compare database refactoring tools database testing framework and even data generation tools
+22970
+i would recommend using ad-hoc sql unless you can find a specific reason not to
+23111
+i did it for an old job and when given a choice i would choose php
+23193
+if you prefer lisp you can try to power through the 99-problems in lisp which you can do in any language really or you can watch the lectures from the people who wrote sicp
+23273
+it loses points for being about standard ml when ocaml f# and haskell are seemingly more popular
+23814
+of the three i prefer option #3
+24019
+as an independent developer i would not recommend lamp when all of the client s assets exist on windows
+24125
+i just want it for 1-3 videos so i prefer free but am willing to pay if have to
+24137
+as well as the performance penalty of having to search the php include path it defeats opcode caching
+24258
+i don t know the answer to your question but i would highly recommend add-in express for doing the addin
+24259
+the root source code is available so you can grab this implementation if you want
+24299
+but - as always - i would recommend python for great fun when unpaid
+24454
+i heavily prefer cakephp for php django for python rails for ruby
+24602
+a lot of people recommend wacom
+24648
+can you recommend any good books
+24682
+one thing to note though if you pick minix it is designed for learning
+24715
+if i want to match red i should get apple and firetruck
+24803
+for books i strongly recommend linux kernel development by robert love
+24892
+i can also recommend watin
+24959
+i prefer firefox for debugging firebug etc
+25072
+so why would you choose mysqli over pdo
+25247
+i ve found both to be excellent although i prefer cygwin slightly as i m able to tail files over the internet efficiently without crashes tail for win32 has crashed on me in some instances
+25291
+note that when using this method you will lose any listener that you may have previously registered on the editor.editordocument
+25474
+if your only need is to inspect some assembly i would recommend mono.cecil which is very lightweight and fast
+25701
+i ve worked with jdom as well and there s absolutely nothing wrong with it although i do prefer xom
+25727
+i d recommend rdiff-backup
+26082
+if you re using sql server to back a web application you probably don t have any choice unless you want to buy a cal for every user or computer that hits your web site you need to purchase processor licenses
+26112
+you have more devices than users accessing the database buy user cals
+26112
+you have a lot of users accessing a server through an small set of devices buy device cals
+26232
+or if you prefer use the special query syntax provided by the c# 3 compiler
+26285
+for java i highly recommend core java
+26345
+i have a regex that handles most cases though i believe it does match html within a multiline comment
+26383
+thus i prefer contract to this one
+26423
+for windows application desktop or ce i d recommend using the taligent model-view-presenter version without the interactions commands and selections e.g the controller presenter performs all the work
+26428
+while i use 7zip on my windows pc for convenience i tend to prefer bzip2 for speed vs compression
+26448
+whatever algorithm you choose either it s broken and you ll run into problems with #3 later or it works and then #1 should work just as well
+26634
+you d also need to compare this across multiple blogs of that type as you want to make sure that it s not something specific to the skin or theme in use on the blog only
+26703
+what if you used a combination of the captcha ideas you had choose any of them - or select one of them randomly
+26725
+for more information on application.cfc including all of the various special functions available and every little detail about what and how to use it i recommend this post on raymond camden s blog
+26803
+this means that i send stuff on my home server over to my webhost and all files databases on my webhost back home so i m not screwed if i lose either my house or my webhost
+26830
+when your application exits .net will kill any threads with isbackground true
+26832
+i would also recommend using the as keyword instead of casting
+26943
+i would recommend using a javascript toolkit i use mochikit but it isn t for everyone to get some of the harder work done - use unobtrusive javascript techniques if at all possible unlike what i use in this example
+26963
+i recommend using something more along the lines of
+27140
+it seems to me that most web pages contain very similar construction and that it should be possible to in many cases pick out where the repeated headers and side columns are
+27212
+another option is to use a library which has some nice facilities for comparing objects - i use and recommend mochikit
+27247
+could you recommend manual or guides about epoll library
+27260
+as far as javascript libraries are concerned this one and prototype are probably the most popular if you re looking to compare jquery to something else
+27294
+because i have to parse the xmlelement i m using a huge 10-15 cases in the real code switch to pick which child class to instantiate
+27343
+you can mix and match java and javascript in your rhino run scripts so if you know a little java it shouldn t be too hard to get this running with text-streams as well
+27440
+better performance can be bought with more ram and cpu and more appropriate database design and clever stored procedure tricks and so on - and all of that is cheaper and easier for random-website-x than agonizing over which to pick mysql or postgresql and specialist tuning from expensive dbas
+27445
+then i ld recommend postgresql hands down because it has a lot more features which make your db layer much more customizable so that you can fine-tune it to any requirements you might have
+27508
+red gate s sql compare product not only allows you to do object-level comparisons and generate change scripts from that but it also allows you to export your database objects into a folder hierarchy organized by object type with one objectname .sql creation script per object in these directories
+27529
+hard to compare mysql and postgres
+27785
+would match http or https just fine
+28003
+i have a large database and would like to select table names that have a certain column name
+28105
+since you are using only asp.net 2.0 i would recommend ajaxpro will which create the .ashx file
+28233
+anyway i d do something like this note i prefer exists to joins but you can re-write them as joins if you like
+28327
+it ll help you pick colors that work well with each other
+28343
+when such a case appear it would lead to lose instances in treesets for example
+28517
+ended up using the date class problem then became making that work with the rails select helper - which didn t happen just generated the html myself
+28551
+does this have to match bundle identifier
+28617
+since windows console is far from great i d not recommend using it
+28693
+various classes have been renamed to match hibernate 3.2 names
+28698
+its not the best thign in the world but it beats writing ddl
+28843
+i prefer slickedit for my ide but the only way i can get it to update the tag files to incorporate code changes is to recreate the project and or run start a re-tag manually
+28868
+you start to lose time trying to figure out if something like a performance issue is related to the orm or to your code
+28928
+no matter what ide editor combination you choose for hacking on source files i recommend using ib where you can
+29134
+although a bit esoteric i prefer and recommend mochikit
+29268
+in addition to other people s suggestions i d recommend either acquiring a copy of sicp or reading it online
+29474
+the reasons i prefer this approach are
+29542
+if you can find out the on screen position of the part of the page you are interested in you could compare this with the position of the mouse when you receive the drop event
+29545
+that might slow things down a bit so i recommend setting up a continuous integration server like cruisecontrol.net and having it run code analysis on every checkin
+29656
+which one of them you choose depends on whether you want the file to be opened as a c library file stream which tmpfile does or a direct file descriptor mkstemp
+29770
+the second is bicycle repair man which i guess wins points on name
+29789
+some program such as process explorer appear to elevate a running process when you choose show details for all process in the file menu in this case but what they really do is start a new instance and it s that new instance that gets elevated - not the one that was originally running
+29819
+however there are some tools which can compare word documents so if you set up your version control client to use these tools for comparison you can have some fun
+29856
+in the past i have run apache and mysql to match this install in 32 bit mode even stripping out the 64 bit stuff from apache to make it work
+29875
+explanation it matches either a single letter except p followed by an optional whitespace and more characters or multiple letters at least two
+29917
+this will now deal with p tags with or without attributes and the closing p tags but will match pre and similar tags with or without attributes
+29953
+you can compare this with other machines on which perl runs
+29965
+but a regex to match html tags that aren t
+30097
+some people prefer mvc for better testibility but personally most of my code is in the middle layer and easily tested anyway.
+30148
+does this mean i lose out on the performance benefits of assemblies in the new version of the framework
+30183
+i can select target framework though 2.0 3.0 and 3.5 not that i see any use of that for this particular problem.
+30237
+i would recommend using something like 7-zip if your folders contain hidden system files folders
+30248
+that would mean asp.net sets the textbox to cause a postback submit the page for anything the might cause the textbox to lose focus including the enter key
+30261
+edit textchanged event is only triggered when the textbox loses focus so that can t be the issue
+30280
+provided this question is properly tagged you can select lamp server option during installation of ubuntu
+30353
+since the required information for the route content pathinfo is entirely satisfied always no required data at all in this route and it s near the top of the route list then all your attempts to map to unnamed routes will match this pattern and all your urls will be based on this content
+30427
+the reason that i recommend using a separtate partition for home is that when you want to completely switch distros or if the upgrade option on your distro of choice for whatever reason doesn t work or if you just want to start from scratch and do a clean system install you can just format and boot and leave home with all the user data intact
+30670
+i cannot recommend this as the way but you could create a com-callable wrapper for your c# library then create a vb6 activex exe project that delegates calls to your c# library
+31053
+however this is inelegant and would destroy any r+ r n already in the text although they are not likely to exist
+31054
+i would recommend activemq from apache
+31914
+i recommend using apache commmons logging as your logging interface
+31922
+for python i recommend pylons docs book
+32011
+briefly you right-click on your project and select add existing item
+32016
+i tend to prefer using the new linq syntax
+32019
+creates a new command mcd that creates a new directory and then changes to that directory i prefer pushd to cd in this case because it lets me use popd later to go back to where i was before
+32161
+i would recommend using the unicode character for a non-breaking space instead of an entity just for that reason
+32342
+i would also highly recommend using a logging framework
+32621
+the sdk recommends using vebirdseyescene.getboundingrectangle but this returns bounds of up to two miles from the center of my scene which in major cities still returns way too many addresses
+32704
+this would most likely be faster because in the other case almost every letter matches r so it would capture that and then look for the n after that
+33181
+it is fast but you would need to compare activemq and msmq for your traffic to know which is faster
+33188
+if you can edit the sp to select xml you can append xml_info to the query to get the schema back
+33343
+it may be useful for getting the feel of how a livecd is composed but i would probably not recommend using an ubuntu livecd
+33433
+i don t use p4v much but i think the equivalent is to select hide local workspace files in the filter dropdown of the workspace view tab.p4 help fstat
+33612
+this is sort of a silly question but i prefer rhino mocks as it represents a more complete understanding of mocks vs
+33707
+the message stream is slow - this is to save power and also because all the satellites transmit on the same frequency and they re easier to pick out if they go slow
+33748
+the reason i specifically recommend using one of these libraries is that they were designed to be relatively easy to use in existing applications you get support a community and all sorts of upgrade paths options
+33831
+just add 1 line per process you want to kill save as a .bat file and put in in your startup directory
+33887
+doing it in code allows you to selectively choose which cookies are httponly and which are not
+34089
+if you prefer java based tools the java compiler compiler javacc is a nice parser scanner
+34149
+i d recommend hpricot for ruby or beautiful soup for python which are both excellent parsers for html
+34150
+i would also recommend using this for testing webservices and its free
+34196
+i would not recommend writing your own xml parser unless you feel the need for the intellectual exercise
+34295
+if it is emacs you want i would recommend aquamacs more mac-like or carbon emacs more gnu-emacs-like
+34345
+once inside room b each prisoner gets to open 50 boxes he chooses which one he opens
+34377
+in visual studio source control explorer right click on the directory you want to compare and select compare
+34474
+i prefer phpunit now but when i started out i used simpletest as i didn t always have access to the command line
+34509
+sorting these in c# is easy - just break it up into and then compare sequence values in turn
+34520
+one process loses out and must wait for the other to finish
+34589
+i would recommend using a vcs that has been designed with frequent merging in mind from the start
+34757
+i ve seen and done implementations for initial random passwords that pick random words and numbers as an easier and less error prone string
+34816
+i use if for managing my active directory hyper-v twitter some keyboard automation hosting powershell in a winforms app to grab keystrokes and a ton of other stuff
+34848
+the thing is that the error message with this validator sucks value is empty but a non-empty value is required
+34882
+when you want to check if the cookie needs recreating re - serialize the object and compare this new base 64 string against the one stored in a member variable
+34892
+all prisoners are however required to never pick any box twice
+34899
+i recommend tortoisesvn
+35138
+if you destroy user input you can never get it back and if they make a mistake they can edit and fix later
+35198
+the says to match any character other than
+35348
+choose any 1 bit of a b and use that as a mask -- in more detail choose x as a power of 2 so that x a b is nonzero
+35420
+is there any program os x win linux or php no problem that lets me monitor and resolve replication issues
+35451
+i wish every time that they would store them in a db and let me choose where to save that file
+35676
+subversion is complicated to set up -- if you have no experience with version control at all i d recommend using a distributed vcs because they don t require any server configuration
+35780
+i recommend wxwidgets or qt
+35907
+can anyone recommend components that will jazz up my ui
+35908
+anyway i would not recommend using zwopendirectoryobject
+35960
+i don t know that any of these are a slam-dunk reason to choose post - unless the amount of data being sent exceeds the querystring length for some major browser
+35991
+if you have made changes to a model and wish to alter the database tables to match use the sql command to display the new sql structure and compare that to your existing table schema to work out the changes
+36063
+the quick and dirty is selecting your files using ctrl in project explorer view right-click them choose replace with.
+36325
+simply right-click on the revision you want to revert and select revert changes from this revision
+36342
+thanks to my daily backups i didn t lose any work or productivity
+36552
+i d strongly not recommend rolling your own encoding
+36655
+honestly if you want an mvc framework for asp.net i would pick castle monorail
+36816
+my most pertinent experience was writing code to compare any two data entities of the same type in a large object model property-wise
+36886
+i recommend python for s60 as good way to explorer the capabilities of the nokia s60 symbian platform
+37089
+when launching a thread or a process in .net or java is there a way to choose which processor or core it is launched on
+37117
+is there a way to choose which processor or core it is launched on
+37162
+web browser print dialogs default to portrait so for every print job the user has to manually select landscape
+37185
+the .net situation is considerably nicer with socket.beginread socket.endread where the continuation is passed directly to socket.beginread and that s where you pick back up
+37276
+i generally prefer jquery which i find to be a little more intuitive in my head anyway but i would use mootools if slick animation is the most important requirement
+37282
+i have found that indy while a simpler concept in the beginning is awkward to manage due to the need to kill sockets to free threads at application termination
+37309
+i highly recommend dwr if you going to be doing a lot of client-server interaction
+37400
+the reason why i would choose ubuntu is because it s the one i ve had the most experience with and the one i can easily find help for
+37415
+i would recommend xubuntu
+37555
+the problem with this is that ontextchanged gets raised when the textbox loses focus which causes problems because of the postback
+37620
+i recommend nose
+37672
+aside from going through the entire thing one table and relationship at a time and creating the whole database from scratch by hand can anyone recommend any tool utility method for converting the visio database model into a sql script that can be used to create a new db in sql server
+38077
+out of those three i d recommend doctrine
+38099
+mike ...the need to kill sockets to free threads...
+38333
+my problem with hyper-v is that it kills performance on some things on the host os especially a v stuff
+38583
+i recommend mixing in a few packages from debian unstable feeds
+38612
+everything works great and users are able to add orders using the numerous dropdownlist controls to choose items from the list
+38762
+davidg recommends using dicts
+38802
+as for an orm i d recommend doctrine
+38864
+i need this because i have a product that has to choose which adapter to bind to
+38993
+if i were to do a list of files and match any that end in either .sty or .cls how would i do that
+39000
+will match any string ends with .sty or .cls
+39266
+i personally prefer amfphp for larger datasets and plain xml for smaller stuff especially since they introduced e4x way better xml handling in actionscript 3
+39342
+in oracle you can look at the explain plan to compare variations on your query
+39565
+xen for example typically recommends using a specific range of addresses 00 16 3e xx xx xx
+39583
+do you prefer client side transaction handling transactionscope in .net over server
+39594
+i prefer client-side transaction handling where available
+39858
+so i can t recommend this technique for forward-compatible or cross-implementation portable code which really means it should be avoided entirely
+39963
+if you select sha1 they look like this
+40194
+i can no longer recommend tapestry as i did previously
+40209
+i cannot choose this answer but this is the answer that i the questioner was looking for
+40221
+the code above will leave only the flag1 bit set if it is set at all then compares this result to flag1
+40238
+in short this happens when a lower priority task uses a mutex to grab a resource a then tries to grab b but is paused because b is unavailable
+40496
+if a process doesn t come back i recommend strace to analyze how a process is interacting with the operating system
+40749
+basically a continuation is the ability for a function to stop execution and then pick back up where it left off at a later point in time
+40764
+under what circumstances should i choose each over the others
+40852
+for more powerful text editing you can of course use your favorite text editor but then you lose intellisense and live syntax checking so it s a big trade-off
+41010
+i prefer codeigniter because of its simple design
+41045
+as a general rule i prefer using value rather than pointer semantics in c++ ie using instead of
+41255
+i would recommend using the bigint data type as this goes up to 9 223 372 036 854 775 807
+41272
+there doesn t seem to be an easier way unless you re willing to buy mamp pro
+41362
+i would recommend gnu x
+41425
+i prefer using my own loop to iterate over each line and use one simple regular expression to determine whether a line is the start of a new entry or not
+41465
+some other reasons to choose firefox
+41604
+i prefer using a top-level namespace for the application and sub namespaces for the components
+41618
+i would recommend using qt
+41624
+some people prefer using using just for single elements
+41774
+right click on the trunk folder and choose either checkout if you want to update from svn later or export if you just want your own copy of that revision
+41913
+if you want to ensure it is always free then choose gpl or another copyleft license
+42406
+i definitely recommend weka which is an open source data mining software written in java
+42425
+for a captcha system i heartily recommend recaptcha
+42478
+i highly recommend wireshark for traffic analysis
+42656
+it s useful for when you want to choose which method to use for a given argument based on its type at runtime rather than compile time
+42697
+i would personally learn ironruby because i prefer the way ruby works over python and since it s one of the same then choose which language you prefer
+42699
+whichever you choose take a look at ironeditor -- it s great for playing around
+42734
+i recommend downloading it pointing it at your index and seeing what s in there
+43029
+i greatly prefer using a for loop in this situation compared to tracking the index with a local variable
+43170
+after this you simply select any products belonging to any of these categories
+43188
+if you have any interest in real time systems and you should at least understand the differences and reasons for real time os s then i d also recommend microc os-ii by labrosse
+43256
+if you are gonig down the plugin route i tend to prefer subversive over subclipse
+43264
+if they are on different drives and the drive containing the data fails you can apply the log to the last backup so you don t lose any data
+43414
+as to web application frameworks for python i recommend turbogears 2
+43515
+i would honestly recommend using one of the many libraries available for ajax
+43515
+i use prototype myself while others prefer jquery
+43721
+except i tend to prefer delegates for this as they don t clutter up your class hierarchy with stuff like iclock .
+43729
+one approach can be to first run whole of you code to match multiline comments and then take out only the parts not matching .
+43733
+i would recommend munin
+43804
+are separate gems uploaded for each platform and the gem software selects which one to pull down
+43835
+i highly recommend using one of these web frameworks for any real project because of the convenience and features and documentation etc
+43928
+if you compare exception handling to traditional c-style return-value checking this caching effect should be taken into account as well the question is usually ignored in discussions
+43943
+can pick which version of the .net
+43943
+feature-set to match this
+44032
+i also recommend ffmpeg but the command line suggested by john boker has an unintended side effect it re-encodes the file to the default bitrate which is 64 kb s in the version i have here at least
+44034
+i set up a little ajax app that compares any number of catalog instances to a master and shows the diffs
+44181
+how can i select this column from both tables and return it as a single column in my result set
+44251
+there are multiple known implementation available but i would recommend hibernate or toplink as good starting points
+44298
+however the textbox can still lose focus and remain in an invalid state
+44298
+not allow the textbox to lose focus until it contains a valid value
+44362
+lostfocus will trigger when the textbox loses focus
+44454
+i recommend this articly by joe celko for more on keys
+44577
+otherwise i prefer using visual studio s capability to put traces in the code as special breakpoints you insert a breakpoint and right-click it then select when hit... and tell it what to display in that case
+44638
+ok rails is actually pretty good but there is just a little bit too much magic going on in there from the ruby world i would much prefer merb to rails
+44674
+if just integration you are after i will recommend mule
+44715
+postpones this decision the longest and chooses semantics based on the most contextual
+44750
+i have yet to see any ide for .net which beats this one
+44759
+although i have tinkered with lego mindstorms and enjoyed it in the past i would thoroughly recommend xna game studio for the following reasons
+45404
+i would definitely recommend git
+45475
+i ve got around the problem by creating regular anchors appending queries to their hrefs and checking for them at page load but i d prefer c# to be doing the grunt work
+45502
+or and i prefer this one
+45508
+i would also recommend mercurial
+45530
+the selectors level 4 spec allows you to select which part of the select is the subject
+45641
+i recommend using ip addresses as well
+45717
+if you re using ms vc++ i can highly recommend this free tool from the codeproject
+45770
+it s not going to win any design awards but it will work if you have a large or unknown number of possible classes
+45770
+and in sql2005 you can still use xpath in your sql queries to select rows based on some property that is stored as xml
+45886
+it s so nice to be able to right click on a function call and choose go to definition rather than having to dig around to find the file where the function is actually implemented
+45908
+right click on project and select unload project right click on unloaded project and select edit
+45995
+tools- options select projects and solutions tab
+46079
+prefer jquery if any library at all
+46120
+if the configuration manager option is not available to you then i recommend using the following properties from the project
+46129
+when i come to commit my changes i select the missing file and the new one and select repair move from the right click menu
+46146
+looking for a string to pass to string#matches string that will match ipv4 and another to match ipv6
+46146
+looking for a string to pass to string#matches string that will match ipv4 and another to match ipv6
+46171
+here s a regex to match ipv4 addresses
+46193
+i choose alt - shift - t which this dialog box likes to call shift - alt - t for um tree i guess
+46198
+i personally prefer dottrace but that may just be because that is what i used first and there has never been any good reason to switch
+46247
+then you can compare each number four integer compares should take no time compared to walking the string
+46300
+to see these go to the properties for a project click on the compile tab and then choose build events...
+46327
+i d recommend any kind of community software that s semi-established well documented not too often in the news because of security issues and offers api to extend its base
+46583
+first i highly recommend using source control like subversion cvs or git
+46785
+heres an implementation of this i ve used to pick out special replace strings from content and localize them
+46915
+i read this detecting when a flex application loses focus but was not very clear.
+46971
+i personally prefer simpletest
+47165
+i would recommend using subversion
+47475
+if unit-test names can become outdated over time and if you consider that the test itself is the most important thing then is it important to choose wise test names
+47477
+in your example i d recommend naming like
+47601
+should i buy this book
+47641
+the chrome installer currently does not allow the user to pick where the application is to be installed
+47659
+but the general opinion is that m2eclipse is still better than q4e but q4e is getting better each new version and maybe will surpass m2eclipse soon
+47668
+i can recommend sphinx
+47717
+you compare each new operator with the one at the top of the stack if the one on top of the stack has higher priority you pop it off the operator stack pop the operands off the number stack apply the operator and push the result onto the number stack
+47766
+in fact i generally prefer stubs and use mocks when necessary.
+47879
+i think it s not fair to compare createprocess to fork since they are not interchangeable
+47879
+it s probably more appropriate to compare fork exec to createprocess
+48016
+i prefer emacs to vi but i m comfortable in both
+48068
+you often see magic numbers embedded in file formats because files can be sent around rather promiscuously and lose any metadata about how they were created
+48114
+i hastily read it at first and mistakenly thought you were indicating to sequentially choose each element with fixed probability k n which would have been wrong - but your adaptive approach appears correct to me
+48141
+this algorithm will select unique indicies of the items list
+48247
+i can wholeheartedly recommend writing such a process with a simple perl client using the mail mapclient module
+48318
+when .net code enumerates windows it s pretty obvious that first visible window top level window will match this criteria
+48320
+which of these three would you recommend using and why
+48356
+edit lots of edits apologies implementing idisposable and calling a.dispose from where a loses scope doesn t work - my dispose implementation still has to call either .close or .disconnect true or .shutdown both but none of those unbind the socket
+48458
+folder heirarchy would match package heirarchy
+48507
+i would also recommend having the build server on a completely seperate machine
+48572
+i couldn t recommend this program more
+48665
+i would recommend ektron cms400.net -- it s an excellent cms with great built-in translation
+48805
+some e-marketing tools claim to choose which web page to display based on where you were before
+48876
+i won t go into the details on why but they prefer apache bsd or mit style licenses
+48905
+i would prefer citations if you have them so i can read understand the explanations
+49002
+why prefer composition over inheritance
+49002
+when should you choose inheritance over composition
+49040
+i m not saying i recommend any of these but they might work
+49066
+how can i easily rename the underlying windows folder name to match this new project name under a tfs controlled project and solution
+49070
+another very pragmatic reason to prefer composition over inheritance has to do with your domain model and mapping it to a relational database
+49082
+either way i prefer having a searcher that class
+49105
+i recommend this book
+49504
+otherwise you d have to alter the regexp in rewritecond to match any character which should still work due to the anchoring but this certainly feels safer
+49562
+in other words if i were working with this in expression blend or mobiform aurora i would be able to select the chart from the logical tree or select any of the individual pens to edit their properties
+49610
+can anyone recommend either open source or commercial alternatives that support 64 bit native c++ mfc applications
+49679
+i can highly recommend this book
+49806
+if i have several of these windows open at once and i click one with my mouse when they disappear they cause my application to lose focus it switches focus to the app behind the current one
+49933
+a simple javascript program compares instances against it and a simple xsl transform yields the create or alter statements
+49943
+if and only if your application is relatively light i could recommend ants profiler
+49948
+where d matches any digit use 0-9 if your regex engine doesn t support it.

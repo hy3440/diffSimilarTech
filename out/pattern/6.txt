@@ -200,3 +200,299 @@ in this example tail spends most of it s time waiting for more data on the buffe
 for the most native-like apps however interface builder is your best bet
 19395
 for the most native-like apps however interface builder is your best bet
+20423
+calling idisposable every time is the easiest place to start and definitely an effective way to grab all the low-hanging memory leak fruit in the codebase
+20533
+faceoff which is the best text editor ever
+20543
+faceoff which is the best mac text editor ever
+21113
+most of the time stringbuilder is your best bet but there are cases as shown in that post that you should at least think about each situation
+21113
+most of the time stringbuilder is your best bet but there are cases as shown in that post that you should at least think about each situation
+21286
+tinymce is the simplest i ve found to use
+21590
+if the objects aren t heavily keyed by other tables and the lists are short deleting everything in the domain and just re-inserting the correct list is the easiest
+21644
+i think you should benchmark and take a look at what you are doing to determine if stat is the slowest part of your code
+21907
+kieron s answer is the best one so far
+21992
+personally i think this option is the best out of three for compatibility reasons
+21992
+personally i think this option is the best out of three for compatibility reasons
+22145
+the smaller lengths need to be cut in the order that produces the least amount of off cut waste from the 5m lengths of aluminium extrusions
+22435
+as stated above using forms is the easiest way to go
+22435
+as stated above using forms is the easiest way to go
+22916
+code repetition is the worst thing you can do when you re trying to build a maintainable application
+23232
+as expected perl supports the greatest variety of operators but python looks equally capable if not more so
+24211
+pulling data out to the middle tier to process it can be useful though because it removes the processing overhead off the db server which is the hardest thing to scale and is normally doing other things as well
+24211
+pulling data out to the middle tier to process it can be useful though because it removes the processing overhead off the db server which is the hardest thing to scale and is normally doing other things as well
+24582
+this means that between an algorithm in o n and one in o n 2 the fastest is not always the first one though there always exists a value of n such that for problems of size n the first algorithm is the fastest
+25072
+you are correct about mysqlnd which is the newest mysql core language level library however it is not a replacement for mysqli
+25072
+you are correct about mysqlnd which is the newest mysql core language level library however it is not a replacement for mysqli
+25344
+it is not open source and this is the best that i have found
+25356
+model view controller is the best way i ve found to isolate visual design changes
+25356
+model view controller is the best way i ve found to isolate visual design changes
+25378
+i have to say i ve not tried these myself so i don t know which one is the best
+25614
+is there a consensus as to which is the best
+25806
+host the clr and add logging at this level i think this is the hardest solution to implement not sure if you have the required hooks in the clr though
+26369
+where is the best place the store user settings considering windows guidelines
+26398
+if you need to index simple char or integer values then the normal b-tree index is the best
+26517
+i m a big fan of jetbrains and when it comes to java intellij is the best ide i have used
+26725
+you may be best off leaving it as-is but understanding which scope is the best tool for the job will definitely make your future code better
+26725
+you may be best off leaving it as-is but understanding which scope is the best tool for the job will definitely make your future code better
+26858
+this imo is the best solution for a home developer and is how i keep things
+26956
+rather you should be checking if the client has at least verion 1.0 or 2.0 etc
+27030
+the objects have 8 total properties but each object will not have a value for each and the arrays are never going to be any larger than 8 items each so maybe the brute force method of traversing each and then looking at the values of the 8 properties is the easiest way to do what i want to do but before implementing i wanted to see if anyone had a more elegant solution
+27172
+it s a pain in the butt but like i said this is the best i could come up with
+27324
+that is what reflection is the best at
+27400
+sourcegear vault is the best scm for migrating vss users to
+27400
+sourcegear vault is the best scm for migrating vss users to
+27450
+in that case yes the third line is the simplest you can get at client-side
+27454
+this is the best explanation i can offer i m afraid
+27476
+the genetic algorithm is easiest to implement when the target language is functional and dynamically typed
+27476
+the genetic algorithm is easiest to implement when the target language is functional and dynamically typed
+27630
+in either case using is best practice
+27630
+in either case using is best practice
+28026
+compatible with the target type and the base class has at least one
+28026
+compatible with the target type and the base class has at least one
+28619
+bloodshed dev-c++ is the best windows c c++ ide imo
+28628
+to delve into theprise s answer for the construction of the automaton o 2 m is the worst case though it really depends on the form of the regular expression for a very simple one that matches a word it s in o m using for example the knuth-morris-pratt algorithm
+28937
+result eaccelerator is fastest in all tests followed by xcache and apc
+28937
+result eaccelerator is fastest in all tests followed by xcache and apc
+29567
+qt 4 is the best tool for this job
+29867
+with the above two things handling revision controlled word documents is at least tolerable
+29867
+with the above two things handling revision controlled word documents is at least tolerable
+29987
+imo this is the cleanest answer
+30402
+drjava is your best bet
+31481
+the change script is run when everything is turned off you have to pick a time that annoys the least amount of users for this and it is run command by command manually just in case anything goes weird
+31497
+i m curious what situations or patterns are present where this method is the best solution
+31597
+this is the simplest form of a cic filter
+31826
+the black line is the best fit to the blue points
+32495
+since you seem to be just getting started with this now is the best time to familiarize yourself with the concept of a data access layer obligatory wikipedia link
+32827
+as of visual studio 2005 all of the project files at least for .net based projects are actual msbuild files so you can call msbuild on the command line and pass it the project file
+32986
+i know that if you have a loop that modifies the count of the items in the loop using the nsenumerator on a set is the best way to make sure your code blows up however i would like to understand the performance tradeoffs between the nsenumerator class and just an old school for loop
+32988
+i would actually disagree with thomas in the sense that i think bandwidth is the biggest problem as it s unlikely there are many dodgy people in your area who just so happen to connect to your network to misbehave
+33008
+in this situation throwing an appropriate exception which could be caught and handled by the application framework server is the best option
+33321
+in asp.net web forms what is the best chioce for providing a righ ui a la ajax
+33331
+for this kind of thing a free function is probably best like c++
+33331
+for this kind of thing a free function is probably best like c++
+33343
+one key piece of advice i can give is that most livecds use a compressed filesystem called squashfs to cram as much data on the cd as possible
+33458
+sql server 2008 offers a solution that has the best of both worlds the filestream data type
+33984
+using a min-heap is the best way
+34005
+a min-heap is the best if you might need to remove the min element at any given time although several operations are nontrivial amortized log n time in some cases
+34126
+which method is the best
+34164
+this is the best approach use thread-safe synchronization objects for inter-thread communication even for simple flags
+34285
+my solution makes at most two passes through the list if the last node is linked to the penultimate lode and in the common case no loop will make only one pass
+34296
+my solution makes at most two passes through the list if the last node is linked to the penultimate lode and in the common case no loop will make only one pass
+34296
+i believe your algorithm is the best solution though
+34311
+i feel that opencv is the best library out there for this kind of development
+34809
+i was going to override the .net s object.gethashcode method but i wasn t sure that this is the best way to go about checking if an object is modified
+34830
+a good hash code is the best way to see if an object is as-is
+35001
+for many people this is the hardest thing to grasp since they are so used to living in their own world
+35564
+where is the best tutorial for getting ruby on rails working on a windows box with mongrel
+35652
+i think your second approach tagging releases and doing experimental stuff in branches considering the trunk stable is the best approach
+35811
+his writing style covers most of the aspects of doing tdd even the wrong turns we are destined to take
+35870
+given any x y coordinates what is the fastest way to find the closest coordinates on the list
+36015
+this works best when doing lots of little database changes during development
+36102
+your suggestion to include the stack trace in the constructor is your best bet
+36238
+which is the best language for your particular use case is too subjective to answer so i won t try but often the answer will be the one your developers know best
+36589
+cruisecontrol.net is your best option in my opinion
+36844
+i think c++ offers the best semantics in terms of having the most correct behavior .
+37477
+which one has its longest edge removed first
+37512
+use lxml which is the best xml html library for python
+37512
+use lxml which is the best xml html library for python
+37624
+a byte is at least large enough to contain any member of the basic execution character set and is composed of a contiguous sequence of bits the number of which is implementation-defined
+37643
+if you have money to spend you can also use redgate sql doc 1.3 is the latest version
+37654
+this stops most people messing with duplicate addresses
+37724
+this means that most engines have their own method
+37862
+from the first you sample i and then map this uniformally over one to n where n is at most the phase dimension
+37862
+from the first you sample i and then map this uniformally over one to n where n is at most the phase dimension
+37864
+using graphics.measurestring textrenderer.measuretext and some fancy wrapping logic is your best bet
+37864
+using graphics.measurestring textrenderer.measuretext and some fancy wrapping logic is your best bet
+38130
+i can t help thinking that this isn t the best way of doing things so any comments on better ways would be appreciated
+38222
+now i m not saying that this is the greatest name in the world but here was the idea as i understand it
+39103
+rubygems then installs the latest version
+39365
+my question is this what is the best practice for organising the development and testing of a facebook application
+39401
+this is the simplest method i know of
+39673
+some hosts godaddy is the worst block your use of sendmail and mail
+39673
+some hosts godaddy is the worst block your use of sendmail and mail
+40235
+in other words the alternative of overloading the function is at least as bad
+41220
+which is the best
+41447
+this can take a long time and depends on the crawl frequency of the linking sites so the url submission is the quickest way to let google know about you
+41447
+this can take a long time and depends on the crawl frequency of the linking sites so the url submission is the quickest way to let google know about you
+41600
+stylecop originally called source analysis is the best choice for c#
+41752
+this list below is from which is the best any why
+41765
+webforms astracts most of these things away from you and coming from a php background i found it really anti-intuitive
+42649
+generally the database server is the biggest most expensive box we have to buy as scaling vertically is the only option
+42649
+generally the database server is the biggest most expensive box we have to buy as scaling vertically is the only option
+43065
+then yes dbi is your best bet by far
+43136
+in linux and os x popen really is your best bet as dmckee pointed out since both oss support that call
+43364
+i use catdoc or antiword for this whatever gives the result that is the easiest to parse
+43571
+input tag does at least not in most standard browsers
+43923
+as far as i know this is the easiest way
+44109
+i ve already seen a few ways to do it but can t decide on which one is the best
+44251
+jpa is the latest java api for persistence which basically allows one to map plain old java object aka pojo to rdbms table structures
+44558
+if you re up for it a full blown di framework with swappable configurations is the way to go but i think this is at least better than using globals.connectionstring
+44605
+the learning curve for svn is at least as low as for vss and if you have devs happier with their source control system they re more likely to use it early and often
+46163
+user-agent sniffing is the best all-round solution in my opinion
+46163
+user-agent sniffing is the best all-round solution in my opinion
+46247
+at the end of the day a single alphanumeric character has at least 36 possible values
+46247
+at the end of the day a single alphanumeric character has at least 36 possible values
+46316
+you can do this with a proxy but i think will harris s answer is the best - use a subdomain
+46486
+apparently this algorithm catches most of the errors
+46486
+apparently this algorithm catches most of the errors
+46731
+this is the best way to guarantee that you don t accidentally pick up changes to the library that haven t been completed or tested
+46927
+the only time is has some weirdness to it is if you call it on startup which has some weirdness sometimes which is why most people will also set the showintaskbar false and hide the form too
+47297
+taking all of that into account what is the best practice for rendering a flex widget with a rails back-end these days
+47423
+this takes at most 4n time with small constant space
+47506
+you d probably also find the myriad of wordpress templates reasonably useful to build on as wordpress is at least reasonable at separating content from layout
+47720
+i believe starting with an un-normalized database and moving toward normalized as you progress is usually easiest to get started
+47909
+if receipt must be verified tcp is your best option
+48079
+the c and c++ standards don t specify the sign of the modulus when the first number is negative until c++11 which does guarantee it will be negative which is what most compilers were already doing
+48138
+this is the best i could come up with on a first cut
+48673
+whenever i am doing something in c or c++ that is my biggest problem.
+49142
+.net openid project is the best library to use right now that i know of
+49142
+.net openid project is the best library to use right now that i know of
+49558
+therefore i add a wide invisible element an img which warrants that the paragraph is at least two lines long
+49672
+in general i ve adopted the practice of making a very simple system that keeps the honest people honest
+49943
+i have tried pretty much every .net profiler on the market ants vtune optimizeit devpartner yourkit and in my opinion dottrace is the best of the lot
