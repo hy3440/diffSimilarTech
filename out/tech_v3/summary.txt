@@ -1,0 +1,15 @@
+Id from 1000000 to 1987649
+Comparative sentences: 2927
+Sentence number: 4520293
+Pattern 10: 284 sentences
+Pattern 1: 186 sentences
+Pattern 0: 712 sentences
+Pattern 3: 54 sentences
+Pattern 2: 60 sentences
+Pattern 5: 970 sentences
+Pattern 4: 354 sentences
+Pattern 7: 429 sentences
+Pattern 6: 0 sentences
+Pattern 9: 0 sentences
+Pattern 8: 104 sentences
+

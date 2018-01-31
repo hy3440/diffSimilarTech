@@ -2897,3 +2897,31 @@ in c i have read that half-initialized arrays will be filled with zero for the r
 the svn diff utility just needs two revision which could be got from svn log or could be stored via some other mechanism
 since linq-to-sql is aimed at rapid development is it really possible with linq-to-sql to have a dal bll and presentation layer
 remote backup of the data could be done over http any better ideas are appreciated
+thus you ve fired more requests than tcp-ip ports are allowed to be opened
+personally i prefer shark for mac os x and gprof for linux
+leaving the target set to any cpu is the better choice your binary will run on either platform
+to compare python java c++ php and other languages
+i have a application need to run under administration right if i run it with guest user account after click the uac dialog using windows api to get the current user folder in ap will be changed to administration folder not guest folder
+the variable contains a reference which could be implemented in any number of ways
+if min max you ll the get same ids there may be tied min and max values
+you may create named placeholder for variable parts of the path by using name for required elements and
+for me it seems that the state machine aspects is more important
+although i would prefer yaml as configuration language since it is not so verbose as xml and have nice means of composing hierarchical configuration files which are usually needed when you have multiple development environment like dev test live
+groovy being less performing than scala
+i already had a look at quicktime windows media player flowplayer none of them offers as much features as vlc
+my array larger than max height width but not max height max width
+i have a couple of pictureboxes that need to be resized by aspects ratio when the window size changes
+but regardless of which approach one prefers aesthetically it does show one respect in which ruby lambdas are more powerful constructs than python s
+most use cases for passing a reference variable by reference involve initialization and out is more appropriate than ref
+put this in src java it can t be written in groovy because of a weird compilation error and register it in datasource.groovy using the configclass attribute
+this problem explained why my normal php on windows installation was crawling and may explain why windows-vista and windows 7 seems slower at times
+your cfid and cftoken cookies need to be set at session-cookies like this
+is this a problem with my installation or is python really that much slower than perl
+python is not particularly fast at numeric computations and i m sure it s slower than perl when it comes to text processing
+hibernate works well when you control the datamodel and is more object-centric while ibatis works well when you need to integrate with an existing database and is more data-centric
+python is slower then perl
+with nsfetchedresultscontroller you can set up a fetch request from your database for the elements to be displayed in your table view and limit the batch size of items to be loaded at any given time
+this way all of your implementers would not be forced to extends an abstract class
+some external tools like google analytics that you may be embedding on your site can be included through http some don t
+you would have gotten a login failed or not authentication sqlexception otherwise
+another person with this problem who unfortunately can t do any better than set the projection like i did
