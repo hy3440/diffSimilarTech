@@ -49,22 +49,3 @@ import webbrowser
 #         connection.commit()
 #         count += 1
 # connection.close()
-
-pkl_file = open(os.path.join(os.pardir, "Data", "pairs.pkl"), 'rb')
-pairs = pickle.load(pkl_file)
-pkl_file.close()
-
-def contains_key_tech(words):
-    for key in pairs.keys():
-        if key in words:
-            for value in pairs[key]:
-                if value in words:
-                    return True
-    return False
-
-text = "c# also has a out keyword and the difference between ref and out is a subtle one"
-words = text.split(" ")
-for word in words:
-    if word in pairs:
-        print word
-        print pairs[word]

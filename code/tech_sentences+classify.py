@@ -1,9 +1,14 @@
+import datetime
 import os.path
+from pattern_matcher import PatternMatcher
 import pickle
 from prepros import get_words
 import pymysql.cursors
 import sys
 import time
+
+print datetime.datetime.now()
+pattern_matcher = PatternMatcher()
 
 start_time = time.time()
 compa_sent_count = 0
@@ -24,36 +29,33 @@ connection = pymysql.connect(host='localhost',
                              db='stackoverflow')
 
 
-start = 0
-end = 10000
+start = 1000000
+# start = 0
+end = 2000000
 
 
-def contains_key_tech(words):
-    for key in pairs.keys():
-        if key in words:
-            for value in pairs[key]:
-                if value in words:
-                    return True
-    return False
-
-
-def contains_tech(tech, line, words):
+def contains_tech(tech, words):
     if " " in tech:
-        return tech in line
+        tech_list = tech.split(" ")
+        n = len(tech_list)
+        for i in range(len(words) - n + 1):
+            if tech_list == words[i:i+n]:
+                return True
+        return False
     else:
         return tech in words
 
 def check_tech_pairs(words):
-    line = " ".join(words)
     for first in pairs.keys():
         for first_tech in synonyms[first]:
-            if contains_tech(first_tech, line, words):
+            if contains_tech(first_tech, words):
                 for second in pairs[first]:
                     for second_tech in synonyms[second]:
-                        if contains_tech(second_tech, line, words):
+                        if contains_tech(second_tech, words):
+                            line = " ".join(words)
                             line = line.replace(first_tech, first)
                             line = line.replace(second_tech, second)
-                            return (line, first, second)
+                            return (line, first+"\t"+second)
     return None
 
 
@@ -70,30 +72,19 @@ try:
             for words in word_list:
                 rtn = check_tech_pairs(words)
                 if rtn is not None:
-                    compa_sent_count += 1
-                    data_file = open(os.path.join(os.pardir, "out", "tech_v2", "tech_sentences.txt"), "a")
-                    data_file.write("{}\n".format(current_id))
-                    data_file.write("{}\t{}\n".format(rtn[1], rtn[2]))
-                    data_file.write("{}\n".format(rtn[0]))
-                    data_file.write("\n")
-                    data_file.close()
-
-            # for words in word_list:
-            #     if contains_key_tech(words):
-            #         compa_sent_count += 1
-            #         data_file = open(os.path.join(os.pardir, "data", "key_tech", "key_tech_sentences-v2.txt"), "a")
-            #         data_file.write("{}\n".format(current_id))
-            #         data_file.write(" ".join(words))
-            #         data_file.write("\n")
-            #         data_file.close()
+                    words = rtn[0].split(" ")
+                    pattern_matcher.match_pattern(words, current_id, rtn[1], "keytechs")
 
 finally:
     end_time = time.time()
-    summary_file = open(os.path.join(os.pardir, "out", "tech_v2", "tech_summary.txt"), "a")
-    summary_file.write("Id from {} to {} in {}\n".format(start, current_id, end_time-start_time))
-    summary_file.write("Comparative sentences: {}\n".format(compa_sent_count))
+    summary_file = open(os.path.join(os.pardir, "out", "tech_v3", "summary.txt"), "a")
+    summary_file.write("Id from {} to {}\n".format(start, current_id))
+    summary_file.write("Comparative sentences: {}\n".format(pattern_matcher.compa_sent_count))
     summary_file.write("Sentence number: {}\n".format(total_sent_count))
-    summary_file.write("Post number: {}\n".format(post_count))
+    # summary_file.write("Post number: {}\n".format(num))
+    for key, value in pattern_matcher.count.iteritems():
+        summary_file.write("Pattern {}: {} sentences\n".format(key, value))
     summary_file.write("\n")
     summary_file.close()
-    connection.close()
+    pattern_matcher.connection.close()
+    print datetime.datetime.now()

@@ -9,7 +9,7 @@ def get_key_tech_dictionary():
     """
     count = 0
     pairs = {}
-    with open(os.path.join(os.pardir, "Data", "cateInGroups_freq100_v2.txt")) as data_file:
+    with open(os.path.join(os.pardir, "data", "cateInGroups_freq100_v2.txt")) as data_file:
         for line in data_file:
             tech_list = line.split("\t")
             first = tech_list[0]
@@ -31,7 +31,7 @@ def get_key_tech_dictionary():
     print len(pairs.values())
     data_file.close()
 
-    with open(os.path.join(os.pardir, "Data", "pairs.pkl"), 'wb') as output_file:
+    with open(os.path.join(os.pardir, "data", "pairs.pkl"), 'wb') as output_file:
         pickle.dump(pairs, output_file)
     output_file.close()
 
@@ -40,7 +40,7 @@ def get_key_tech():
     """Read tech pairs from text and import to mysql.
     """
     key_tech = set()
-    with open(os.path.join(os.pardir, "Data", "cateInGroups_freq100_v2.txt")) as data_file:
+    with open(os.path.join(os.pardir, "data", "cateInGroups_freq100_v2.txt")) as data_file:
         for line in data_file:
             tech_list = line.split("\t")
             first = tech_list[0]

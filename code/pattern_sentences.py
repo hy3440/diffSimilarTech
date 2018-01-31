@@ -25,8 +25,8 @@ nlp = spacy.load('en')
 matcher = Matcher(nlp.vocab)
 add_patterns(matcher)
 
-start_id = start = 10000
-end = 20000
+start_id = start = 20000
+end = 50000
 try:
     with connection.cursor() as cursor:
         while(start < end):
@@ -61,7 +61,7 @@ try:
                         compa_sent_count += 1
                         for pattern in patterns:
                             count[str(pattern[0])] += 1
-                            data_file = open(os.path.join(os.pardir, "Data", "{}.txt".format(pattern[0])), "a")
+                            data_file = open(os.path.join(os.pardir, "out", "pattern", "{}.txt".format(pattern[0])), "a")
                             data_file.write("{}\n".format(current_id))
                             data_file.write(" ".join(sent))
                             data_file.write("\n")
@@ -69,7 +69,7 @@ try:
             start += 100
 finally:
     end_time = time.time()
-    summary_file = open(os.path.join(os.pardir, "Data", "pattern_summary.txt"), "a")
+    summary_file = open(os.path.join(os.pardir, "out", "pattern", "pattern_summary.txt"), "a")
     summary_file.write("Id from {} to {} in {}\n".format(start_id, current_id, end_time-start_time))
     summary_file.write("Comparative sentences: {}\n".format(compa_sent_count))
     summary_file.write("Sentence number: {}\n".format(total_sent_count))
