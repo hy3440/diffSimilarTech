@@ -1,0 +1,30 @@
+71412
+jedit	emacs
+pattern1	
+other than that i m quite happy with jedit - it s the best general editor i ve found so far for linux ducks as hordes of vi and emacs users light up their flame cannons
+
+38773
+ruby-on-rails	grails
+pattern7	
+i can say that the ruby-on-rails community is much larger i m talking about ruby-on-rails vs grails not ruby-on-rails vs java and very helpful
+
+133247
+python	perl
+pattern7	pattern0	
+how to convince people python is better than perl
+
+133271
+inlining	inline
+pattern0	
+if a function is static thus not exported anyway and only called once within your code and you never use a pointers to the function chances are good that gcc will decide to inline it automatically as it will have no negative impact the binary won t get bigger by inlining it only once
+
+181450
+coalesce	isnull
+pattern0	
+also you can make your code simpler by using isnull or coalesce to handle columns which contains nulls
+
+172718
+postgresql	firebird	postgresql	mysql	firebird	mysql
+pattern4	
+i still use mysql for web sites but for in-house project i rather choose firebird or postgresql
+

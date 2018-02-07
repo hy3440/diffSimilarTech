@@ -1,0 +1,3168 @@
+90029
+deployment	install
+i m trying to create a deployment tool that will install software based on the hardware found on a system
+
+90031
+methods	extend
+making sure hibernate won t check the update count of batch operations might fix your problem you can achieve that by making your custom batcher extend the class batchingbatcher and then overriding the methods doexecutebatch ... to look like
+
+90039
+.net	csla
+although the csla framework is written in .net the overall approach can be used in any language
+
+90049
+internet-explorer	opera
+this works for opera 9 but not for firefox 2 or internet-explorer 7
+
+90068
+inherited	subclass
+by implementing multiple interfaces one can have a class that is a subclass to inherited some features yet also inherited the features of another by implementing an interface
+
+90095
+beautifulsoup	lxml
+there s lxml for parsing well-formed html but you should really use beautifulsoup if you re not 100 certain that your input will always be well-formed
+
+90112
+webforms	asp.net
+initially there was some buzz that url routing is totally decoupled from asp.net mvc and it could be used for webforms
+
+90136
+primitive	boolean
+the de-autoboxing back the the primitive boolean value is where the nullpointerexception comes from
+
+90138
+beautifulsoup	lxml.html
+use beautifulsoup html5lib or lxml.html
+
+90147
+any	set
+personally i have found that with tdd i write simpler code i spend less time debating if a particular code solution will work or not and that i have no fear to change any line of code that doesn t meet the criteria set forth by the team
+
+90153
+groovy	java
+the other advantage to learning a bit of groovy and java is that web frameworks like gwt will open up to you
+
+90157
+asp.net-mvc	webforms
+and you can also maintain an asp.net-mvc development style with webforms and be able to create unit tests of all your code so being testable isn t really an argument for asp.net-mvc being better
+
+90163
+unsigned	integer
+the most sensible data type for that column is an unsigned small integer
+
+90165
+emacs	vim
+there might even be a vim or emacs script that already does something similar
+
+90169
+synchronous	.when
+differently from .when you reference the .javascript files directly from the script-tag note that google javascript api also supports this see here google.load is not synchronous
+
+90171
+pointers	stack
+it is extremely small ram and rom footprint no push pop stack or stack pointers required romable and extensible
+
+90181
+display	width
+in the following example the bbar for the panels is display 2ems narrower than the panels it is attached to it s left aligned in ie6 where as in firefox it is display as the same width as the panels
+
+90197
+json	xml
+though we used json rather than xml
+
+90197
+put	get
+instead of the classic database jsp actions scheme for asp.net-mvc you ll find yourself moving to a servlet javascript scheme whereby the model is represented by http get requests actions are represented by post put delete requests and the view is rendered on the fly by the web browser
+
+90197
+specifications	w3c
+edit 1 i forgot to add that your team should study the w3c specifications religiously
+
+90223
+document	editing
+i would add the svn needs-lock property to word document stored in subversion so that people are required to lock the file before editing it
+
+90242
+double	int
+the double equals operator is used to compare values such as a pair of int and returns a boolean
+
+90242
+variables	boolean
+this is then assigned to the boolean variables iseven
+
+90245
+getter	setter
+as for the getter and setter
+
+90245
+cobertura	emma
+to test them is usually not necessary as the coverage is obtained by testing the logic - try to check some coverage reporting tools like cobertura clover or try emma and see what needs to be tested
+
+90253
+arrays	loops
+use for-each loops java1.5 for iterating over a collection or arrays or list
+
+90257
+enumerator	iteration
+for an example of how internal iterators work see ruby s enumerator api which has internal iteration methods such as each
+
+90282
+value	field
+edit it also would be much easier to understand than having an int field with cryptic value
+
+90283
+irrlicht	ogre3d
+ogre3d and irrlicht are both popular 3d game engines for c++
+
+90308
+python	java
+everything i ve seen so far in python and java omits one or more pretty important pieces or makes too many things hard
+
+90308
+subtract	add
+add and subtract intervals from timestamps
+
+90352
+httpwebrequest	webrequest
+the guys over at vbdotnetheaven.com have a simple example using the webclient webrequest and httpwebrequest classes
+
+90403
+ruby-on-rails	grails
+prototyping - use ruby-on-rails or grails to build quick prototypes with advantage of being able to runn it on the standard app server and maybe reuse existing services etc
+
+90423
+udp	tcp
+do i really need to use udp packets or will tcp suffice
+
+90435
+shell	bash
+the bash shell actually provides an arrays which can assist in that case that being pipestatus
+
+90441
+shell	bash
+if you put this at the top of the shell script it looks like bash will take care of this for you
+
+90441
+any	set
+as a previous poster noted set -e will cause bash to exit with an error on any simple command
+
+90441
+any	set
+set -o pipefail will cause bash to exit with an error on any command in a pipeline as well
+
+90444
+udp	tcp
+the protocol it s important that you decide whether you want tcp or udp
+
+90444
+portforwarding	port
+making sure your multiplayer game doesn t have to make 2000 outbound connections and uses a standard port so portforwarding is easy
+
+90458
+haskell	erlang
+unfortunately as erlang and haskell prove sometimes the best ideas remain relegated to an extremely fringe demographic
+
+90473
+put	get
+less duplication http already represents operations like delete put get etc
+
+90477
+quicksort	mergesort
+as many people have noted the average case performance for quicksort is faster than mergesort
+
+90482
+.net	wcf
+with tools like wcf in the .net framework it is very trivial to implement a service as rest or soap
+
+90518
+linux	aix
+there s also a reference tcf implementation for linux which you may or may not have any luck recompiling for aix but it allows for remote debugging if gdbserver is otherwise not available
+
+90539
+postgresql	mysql
+most other database servers like mysql and postgresql have similar interfaces for connection and manipulation
+
+90583
+design-view	designer
+i just want to add a free tool to design applications create an mxml file using a designer design-view
+
+90586
+textbox	button
+as long as i click on any clickable control textbox button or i press the tab key on the keyboard to change the cursor s location the dialog just closes no solution is created and the status bar will display creating project c mywebapp .
+
+90592
+licensing	platform
+licensing a commercial library like fmod or miles is an option in a sense that all this platform dependent work is already done for you
+
+90597
+treeview	gridview
+many of the common controls used in asp.net gridview and treeview for example can be processed through an adapter to change the resulting html that is outputted to the browser
+
+90618
+data-access	ado.net
+as for the data-access layer lib if you want some abstraction over ado.net
+
+90627
+filenotfoundexception	file-not-found
+throw new filenotfoundexception file-not-found
+
+90648
+constructor	object
+then you should provide a constructor with a parameter the oid of the object you want to edit
+
+90648
+constructor	object
+inside the constructor you should use the criteria to make the xpcollection contain only that object
+
+90654
+contains	elements
+when sizing elements that will contains text remember to gravitate towards text oriented sizes such as em ex and not px
+
+90655
+data-structures	hashmap
+the most used data-structures in java are hashset arraylist and hashmap
+
+90655
+getter	setter
+gotcha #3 - of accessors and mutators getter and setter
+
+90655
+double	int
+in java the primitive-types int float double char and long are not object s like in c#
+
+90655
+double	int
+all of them have a respective object representation like int float double etc
+
+90658
+required	checked
+no commits to a central repository should be required -- assume that there is a codeigniter engine which tries to build as soon as anything is checked in
+
+90660
+32-bit	64bit
+the long type is 32-bit but the handle type is probably 64bit
+
+90670
+rhino-mocks	typemock
+rhino-mocks typemock and moq are all good options for doing this
+
+90686
+configuration	environment
+set up build configurationurations for each of your deployment testing environment and use separate configuration files based on each build configurationuration
+
+90699
+selected	button
+the first button along the top of the bar will let you selected the type of resource you want to add
+
+90705
+session-storage	cookies
+then send the hash back to the browser in a cookies for instance so subsequent page loads send the hash back to the server to be compared against the hash held in your chosen session-storage
+
+90707
+click	mouse
+they are really easy to use just few mouse click without writing any code and good enough for small apps
+
+90713
+contains	set
+i ve seen this problem in another scenaio where i had created a collapsible field set contains the combobox on minimize and maximize of the fieldset the store vanishes for the same reasons
+
+90720
+keyboard	mouse
+if you want to capture mouse keyboard events outside of your application you will need low-level hooks
+
+90728
+common-lisp	lisp
+common-lisp lisp as god intended it to be used that is with loop
+
+90733
+debian	linux
+have it build on osx linux ubuntu linux debian linux redhat vista windows xp etc and have emails sent or whatever you prefer when a build fails
+
+90744
+python	ruby
+and also vim has all the scripting support you need either using it s native scripting language or using python ruby ...
+
+90759
+authentication	login
+also you have to login with a domain account on that computer otherwise that authentication box will be shown
+
+90775
+py2exe	exe
+i have an exe file generated with py2exe
+
+90795
+temporary	copy
+if you need to return such data with a selected you could use a temporary table in which to copy the original data and then update that table
+
+90798
+contains	any
+the buffer data i receive from the camera does not contains any exif information apart from the width height and pixels per inch
+
+90803
+push	pull
+in this case i have a sqlxml column in a ms sql 2005 server that i am trying to pull out and push into a function that requires an xmlnode as a parameter
+
+90805
+wordpress	blogs
+wordpress - i keep trying other blogs and i keep going back to wordpress
+
+90811
+dialog	pop-up
+i don t think this is possible -- if you use the browser s http client implementation it will always pop-up that dialog
+
+90839
+windows-vista	windows
+when developing for an windows application i use the windows-vista user experience guidelines but when i m developing an web application i use the appropriate guidelines because i develop dutch websites i use the drempelvrij guidelines which are based on the web content accessibility guidelines wcag 1.0 by the world wide web consortium w3c
+
+90843
+sniffing	packets
+the advantage of the devicepassword is that each device effectively has a unique secret and if i didn t know that it would make it harder to determine the secret by packets sniffing the submitted scores
+
+90852
+any	set
+if you use a prefix tree you ensure that to find any word is going to o n where n is the maximum length of a word in your data set
+
+90855
+versioning	upgrade
+i d like to offer my users correct links to an upgrade versioning of my program based on what platform they re running on so i need to know whether i m currently running on an x86 os or an x64 os
+
+90863
+32-bit	64bit
+32-bit 4 bytes 64bit 8 bytes
+
+90886
+onresize	onload
+once you can get this value and set the element s height you need to attach event handler to both the windows onload and onresize so that you can fire your resize function
+
+90888
+basic	vba
+as vba states visual basic for application it is living inside an application word excel scala whatever
+
+90889
+.net	wcf
+however how does the caching work when calling it from a wcf channel factory or .net web request objects
+
+90890
+punctuation	tokenize
+as you can see the pos tagger also tokenize the punctuation
+
+90890
+solaris	linux
+treetagger binary only linux solaris os-x
+
+90907
+testng	junit
+is there a way to do this simply using classical tools such as junit or preferrably testng
+
+90914
+integration-testing	automated-tests
+try http-unit although you are likely to end up writing automated-tests that are more integration-testing of a module than unit tests of a single class
+
+90934
+irrlicht	ogre3d
+like previously said ogre3d and irrlicht are probably your best options in regards to free
+
+90939
+punctuation	words
+the first line just gets libraries that help with parts of the problem as in the second line where urllib2 downloads a copy of ambrose bierce s devil s dictionary the next lines make a list of all the words in the text without punctuation
+
+90939
+unique	words
+then you create a hashtable which in this case is like a list of unique words associated with a number
+
+90947
+expression-blend	wpf
+this also means support for wpf with a xaml designer although most people still prefer expression-blend for wpf interfaces
+
+90964
+irrlicht	ogre
+if you want c++ and your just starting out i d go with irrlicht its free and its code although not blazing fast like ogre its very well structured and a good example of what a c++ should look like
+
+90969
+windows-mobile	symbian
+i ve done some symbian c++ application development it is quite difficult to get your head around and it s particularly hard if like me you have to switch between multiple development environments palm though not so much now windows-mobile desktop windows theos linux html css
+
+90993
+methods	extend
+it s even better to put the mock creation methods in a base servlet superclass and make all servlets unit tests to extend it
+
+91031
+windows-xp	windows-nt
+i did quite a bit of this work when our company was upgrading from windows-nt to windows-xp
+
+91069
+web-applications	enterprise
+i ve always found it quite comical how in enterprise environments there are quite draconian policies about what queue topic names you are allowed to use - yet in web-applications developers are free to use whatever uris they want in their applications
+
+91096
+facebook-apps	facebook
+testing facebook-apps is quite annoying as you don t have control of the middleware so watch out for your expectations of the facebook api and make sure you validate as much of them as possible early in the development stages not trying out all the things we needed to do with facebookml early on brought a few headaches
+
+91109
+testng	junit
+there are a large number of add-ons for junit testng available including
+
+91121
+versioning	upgrade
+from this point on you ve given the customer a reason why not to upgrade to your new versioning and to stay with the old versioning
+
+91122
+redmine	trac
+-project management and issue tracking eg trac redmine etc
+
+91123
+order	add
+this means that in order to throw any non-runtime exception-handling you also need to add a throws annotation to your methods declaration
+
+91123
+illegalargumentexception	runtimeexception
+a lot of exception-handling you take for granted such as nullpointerexception or illegalargumentexception in fact derive from runtimeexception and you therefore don t need to declare them
+
+91123
+primitive	int
+whereas in c# you can interchangeably use int as both a value type and reference-type in java they re literally not the same type you get the primitive value type int and the library reference-type java.lang.integer
+
+91123
+reference-type	generics
+this manifests in two common ways you can t use the value types as a generics type parameter so you ll use instead of and the utility methods such as parsing or tostring are statically implemented in the reference-type so it s not int a
+
+91127
+children	nodes
+targetexistsinnodes checks whether the dragged nodes is being dragged to one of its children
+
+91154
+cvs	git
+subversion cvs git
+
+91165
+redmine	trac
+as you already plan to use wiki like trac or redmine you could use it for km as well
+
+91178
+export	report
+we need to export some of the report into excel format
+
+91181
+order	add
+i use cruise control for my continuous-integration scheme i want to use obfuscation in order to add another protection layer to my assemblies
+
+91181
+compact-framework	.net
+the applications that i am building and want to obfuscate are mostly written in compact-framework 2.0 dot .net 2.0-3.5
+
+91185
+multiple-projects	subproject
+if you plan to have multiple-projects or subproject a test strategy document or wiki page would be good
+
+91191
+export	report
+sql-server report services has options to export to excel
+
+91214
+xml-serialization	xml
+like object xml-serialization only that the output format is not binary xml but java code
+
+91229
+dbd	dbi
+looks like dbi or a dbd not sure where bind parameters are used isn t honoring tie magic
+
+91259
+mbunit	nunit
+nunit mbunit ms test etc
+
+91265
+json	xml
+i ve never used it but is seems to support multiple backends other than xml - json
+
+91271
+mysql-real-escape-string	addslashes
+you can see the difference here mysql-real-escape-string and addslashes
+
+91278
+csv	xml
+warning there was some case-specific code in the original version it actually turned the xml into csv that i just stripped and i didn t test this version
+
+91278
+children	nodes
+the basic way it works should be clear it prints everything that doesn t have nodes children and otherwise recursively calls the templates on the nodes that does have children
+
+91304
+3des	aes
+i would like to use 3des or aes for some added security
+
+91317
+webrequest	webclient
+webclient is sometimes easier to use than webrequest
+
+91322
+credentials	account
+one potential issue when using httpwebrequest from a system service since it uses the ie proxy and credentials information default behavior may be a bit strange when running as the localsystem user or basically any account that doesn t log on interactively on a regular basis
+
+91326
+httpwebrequest	webrequest
+webrequest and more specifically the httpwebrequest class is a good starting point for what you want to achieve
+
+91326
+stream	send
+you will then create your postdata and send it to the stream like
+
+91344
+versioning	upgrade
+i would like to upgrade my team from vs2005 to vs2008 without touching the versioning of team server which is 2005
+
+91350
+value	field
+if the paypal form s field value were static there would be no problem but since i want to manipulate the form server-side to tweak the qty desc price fields etc this will be a problem
+
+91364
+virtual-machine	vmware
+i have a virtual-machine vmware with mercury quick test professional 9.2 installed
+
+91367
+debugging	trace
+is there a way to debugging or trace every javascript event in internet-explorer 7
+
+91406
+triggers	insert
+create a cache table update it on insert using a triggers it s the fastest solution but could be problematic if you have lots of updates to the main table
+
+91410
+internet-explorer	firefox
+if the problem is not specific to internet-explorer 7 but also occurs in firefox then another good way to debug javascript code is firefox and the firebug add-on which has a javascript debugger
+
+91436
+mbunit	nunit
+the only alternative i know is using c++.net to wrap your c++ classes and writing unit tests with one of .net unit-testing frameworks nunit mbunit etc.
+
+91446
+perl	ruby
+plan 9 may have a reputation for being c-only but several langauges including scheme ruby python and perl have been ported
+
+91449
+configuration	environment
+if rake starts the migration looking at the development environment and database configuration from database.yml it will expect to update to this environment at the end of the migration
+
+91469
+cxxtest	cppunit
+cxxtest is a lighting easy to use and cross platform junit cppunit xunit-like framework for c++
+
+91505
+debugging	trace
+matt berseth has something that may be the kind of thing you re looking for in debugging asp.net ajax applications with the trace console ajaxcontroltoolkit control
+
+91511
+bitblt	gdi
+use bitblt to let gdi perform the color conversion
+
+91511
+bitblt	gdi
+besides even if i find out i won t be using the accelerated features of gdi that bitblt has access to
+
+91519
+lightbox	thickbox
+else use something like a lightbox based solution like thickbox
+
+91575
+put	get
+the following code shows how to get at the pixels inside of a bitmap change them and put them back into the bitmap
+
+91576
+toolchain	gnu
+i m building a project using a gnu toolchain and everything works fine until i get to linking it where the linker complains that it is missing can t find crti.o
+
+91616
+linux	osx
+i m looking for one that minimally covers windows osx and linux with a c or c++ interface
+
+91618
+python	php
+but in dynamic languages like php and python you just take
+
+91618
+python	ruby
+ruby and python don t have them
+
+91642
+perl	ruby
+a more low-level appproach is redland which provides bindings to a lot of languages like perl php python and ruby
+
+91702
+value	field
+rule of thumb if you feel like you need to encode multiple value in the same field you probably need a foreign key to a separate table
+
+91702
+value	field
+your tricks with byte-blocks or unicode chars are just clever tricks to encode multiple value in one field
+
+91721
+google-chrome	firefox
+it works in widescreen maximize browser windows and is ok in ie7 firefox google-chrome and safari in maximize and reduced windows size
+
+91731
+value	field
+how do you update a summary field s value from post function in jira
+
+91732
+javascript	dom
+i think the easiest thing to do is to include some kind of javascript library on the html page say jquery and use it s functions for determining the position and size of dom nodes
+
+91741
+wxpython	pygtk
+the easiest one to cook up a prototype in a scripting language then convert to a compiled one might be any toolkit with a scripting language binding pygtk wxpython etc.
+
+91745
+selected	cell
+i am building a table using the datagridview where a user can selected items from a dropdown in each cell
+
+91794
+temporary	copy
+i d selected distinct the rows and throw them into a temporary table then drop the source table and copy back the data from the temp
+
+91795
+linux	unix
+otherwise you can find it using this for linux and unix
+
+91801
+ubuntu	debian
+xmltk doesn t seem to have package in debian ubuntu fedora or macports hasn t had a release since 2007 and uses non-portable build automation
+
+91835
+cxxtest	cppunit
+cxxtest is also worth a look for lightweight easy to use cross platform junit cppunit xunit-like framework for c++
+
+91888
+ref	out
+specifically it can be used for variables names that clash with reserved keyword you can t use params but you can use params instead same with out ref any other keyword in the language specifications
+
+91890
+python	c++
+looking for an open source library for c++ java c# or python for reading the data from quicken .qdf files
+
+91933
+subset	unique
+and so you can have a feel for scaling overall i m checking for duplicates about 1 000 000 times in the application but in subset of no more than about 64 000 that need to be unique
+
+91937
+pascal	delphi
+it is a free l gpl object pascal compiler which is compatible with the delphi -compiler
+
+91937
+freebsd	linux
+as a bonus your application will run on windows 32 64 bit linux mac os x freebsd solaris etc.
+
+91955
+python	perl
+decide on what operations you want to do on xml files and create a script in python perl perhaps that exposes that functionality through arguments for shell scripts to use
+
+91965
+spaces	output
+the -z means output with zeros 0 after the filenames so spaces are not used as delimeters
+
+91974
+filtering	sorting
+if your mail system s filtering can t set priority try sorting to different mail folders
+
+92048
+itextsharp	itext
+itextsharp is a pretty easy pdf tool to use with .net it s a port of the itext java project
+
+92062
+contains	any
+in visual-studio 2005 8 you can right click on a class and then selected view in class diagram which will create a new classdiagram contains the selecteded class and any related classes
+
+92071
+textbox	button
+try clicking select button next to attach to textbox and checking only managed code the relevant code type
+
+92085
+constructor	object
+mock objects presuppose the existence of the object whereas a constructor presuppose that the object doesn t exist
+
+92101
+default-value	default
+the inclusion of the default fills the column in existing rows with the default-value so the not null constraint is not violated
+
+92105
+selected	cell
+to change the active row for the datagrid you need to set the current cell property of the datagrid to a non-hidden non-disabled non-header cell on the row that you have selected
+
+92120
+contains	set
+i find sometimes that breakpoints don t work at all unless there is at least one breakpoint set in the starting project the one contains the entry point for my code
+
+92125
+dependency-injection	inject
+if your application is architected using the dependency-injection inversion technique where you inject the server component into the application then you can use a mock of the relevant server interfaces to enable you to script test cases
+
+92126
+union-all	union
+union removes duplicates whereas union-all does not
+
+92126
+duplicates	sorted
+in order to remove duplicates the result set must be sorted and this may have an impact on the performance of the union depending on the volume of data being sorted and the settings of various rdbms parameters for oracle pga_aggregate_target with or sort_area_size and sor_area_retained_size if
+
+92135
+double-pointer	pointers
+pointers may even point to other pointers double-pointer
+
+92137
+percentile	median
+if however you care about overall trend plotting daily trimmed mean median 5 and 95 percentile will portray history well
+
+92137
+percentile	median
+if you care about median or percentile they re probably irrelevant
+
+92182
+authentication	login
+i use scp ssh and authentication keys to allow my scripts to get data from all servers without any login prompts
+
+92202
+contains	any
+to summarize contains will find any pattern in the string but startswith and endswith will help you find matches at the beginning and end of the word
+
+92208
+subtract	add
+the only difference in c is that it s common to add and subtract from pointers - and if you get the logic wrong you can end up messing with data you shouldn t be touching
+
+92226
+internet-explorer	firefox
+if the problem is not specific to internet-explorer 7 but also occurs in firefox then another good way to debug javascript code is firefox and the firebug add-on which has a javascript debugger
+
+92246
+revision	updates
+if you feel up to it you could also create a tool that compares said element to the revision history of the document and shouts at you if you haven t updates it
+
+92247
+metaphone	soundex
+metaphone and double metaphone are similar to soundex except they may be tuned more toward your goal than soundex
+
+92254
+pylons	django
+i d suggest writing a non-trivial webapp using either django or pylons something that does some number crunching
+
+92264
+contains	elements
+you just use it on a few key items and then you can positioning them where-ever you want moving all the items contains within them along with the root elements of the section
+
+92268
+asp.net-mvc	webforms
+my guess is that asp.net-mvc is an alternative solution to classic webforms programming if you are interested in things like tdd rest write your own html and so on
+
+92322
+gzip	zip
+note that for transport the encoding doesn t matter much if you can zip gzip bz2 the data
+
+92324
+boost	stl
+c++ is more standard you will find more code libraries examples etc. and you may freely use the stl and boost while object pascal is more of an exotic language
+
+92336
+managed-code	unmanaged
+i use pointers and references heavily in my day to day work...in managed-code c# java and unmanaged c++ c
+
+92344
+arrays	loops
+then to enable disable just loops through the arrays and invoke the enable disable method or function for each control
+
+92345
+json	xml
+i would use a generic proxy that is responsible for consuming the webmethod and transforming the dataset into xml json
+
+92359
+haskell	lisp
+just compare let s say average php or visual basic programs and solutions in smalltalk common lisp haskell and the like
+
+92369
+dictionary	arrays
+note incidentally that dictionary isn t a string or an arrays or a char
+
+92373
+ruby	php
+the fcgid documentations page drops hints that php and ruby are supported -- php directly and ruby through dispatch.fcgi -- and python is not supported
+
+92413
+put	get
+i can get authentication to work if the grouping i put in is a global but not if the grouping is universal
+
+92420
+perl	ruby
+but even dynamic languages like ruby python perl etc
+
+92425
+hide	show
+i ended up working around the original problem by bringing up the search dialog with ctrl + h then click the customize button on the dialog which brings up a search page selection dialog which allows you to hide or show tabs on the search dialog
+
+92432
+case-statement	declare
+you can t declare a variables in a case-statement like that
+
+92434
+dialog	pop-up
+i m having a problem with an application hanging and giving me the default please tell microsoft about this problem pop-up instead of the unhandled exception-handling dialog in the application
+
+92472
+value	field
+but when i do the same for number field with comma seperated value it comes out something like
+
+92540
+subclassing	base-class
+my forms are subclassing and i have base-class code that automatically saves the form positioning and size in the registry keyed on the form name
+
+92551
+subtract	add
+add and subtract intervals from timestamps
+
+92556
+perl	php
+i ve been a unix-based web programmer for years perl and php
+
+92556
+perl	tcl
+i could do this is perl tcl tk but i want something more native for a variety of reasons
+
+92563
+versioning	upgrade
+also if your perlcritic is old you may want to upgrade it as some old versioning gave some incorrect errors in moose classes
+
+92569
+boost-test	cxxtest
+i ve used homegrown solutions cxxtest which requires perl and boost-test
+
+92573
+sql-server	oracle
+it has been a while since i worked with sql-server in oracle there is a call that can be made to switch the identity of the user
+
+92585
+any	set
+but bear in mind that this will replace any existing styles that are set on the style attributes
+
+92588
+httpwebrequest	webclient
+a second option is to use the webclient class this provides an easier to use interface for downloading web resources but is not as flexible as httpwebrequest
+
+92633
+subtraction	addition
+when you only need to update simple variables 32 or 64 bit int or pointers perform simply addition or subtraction operations on them or just swap the values of two variables most platforms offer atomic operations for that further gcc offers these as well
+
+92633
+32-bit	64bit
+however atomic makes sure that if one thread writes a 64bit value to a memory location for example and another thread reads from it the reading one either gets the value before the write operation or after the write operation but never a broken value in-between the write operation one where the first 32-bit are already the new the last 32-bit are still the old value
+
+92635
+linux	osx
+i can t speak to mono s osx support but it is used for some pretty big projects in linux such as banshee and f-spot
+
+92638
+account	api
+is there an api for opening new hosting account at other companies so it could automatically scale itself and protect itself against the insolvency of any one host
+
+92641
+defined	declare
+in c without the static you would need to ensure that only one source file defined val while the other source files declare it extern
+
+92642
+perl	ruby
+and python ruby perl is where the puck is going to be
+
+92664
+inlining	inline
+as for inlining in this case the variables is likely inline but that s only because it s declared const
+
+92685
+bots	api
+and as for the api there is not currently a general api for this aside from the creator writing some sort of bots script that could sign up for some of the current host companies .
+
+92718
+constructor	object
+and the wrapper if it can even be called that is kind of weird as it uses the same class to wrap different object just uses different constructor 1
+
+92750
+mstest	nunit
+so right now we use unittest++ for unmanaged c++ and i m currently deciding between mstest and nunit for the managed libraries
+
+92754
+lgpl	gpl
+is that possible to switching an open source project license from gpl to lgpl v3
+
+92765
+selected	textbox
+however you can get the listviewitem that is currently selected and use the visualtreehelper class to get the textbox from the listviewitem
+
+92774
+hardware	monitor
+you can use performance monitor to tracking hardware and os factors - like cpu usage memory
+
+92776
+virtual-memory	paging
+basically this mechanism uses the os s virtual-memory paging system to map your files and present them programmatically as byte buffering
+
+92778
+any	set
+this methods only loops on search results until it loops on the first search result if any and puts a bookmark on the found lines and optionally set an indicator on the found items
+
+92788
+case-statement	declare
+most of the replies so far are wrong in one respect you can declare variables after the case-statement but you can t initializer them
+
+92798
+account	api
+a bank account can t exist without a legal entity to own it but that s just a detail here - other failures are that amazon might pull sc2 or raise the price or make an incompatible api change or be bribed by your rival or ordered by a court to remove your app
+
+92802
+shell	bash
+i have a bash shell script in which i would like to pause execution until the user presses a key
+
+92809
+communication	messages
+do you quit or close all communication have you informed people that an away messages really means you are a way or something else
+
+92815
+order	add
+get the offset of the order date add the lead time then do a lookup on the calculated offset to get the end date
+
+92840
+directory	folder
+and then add a folder named vb_code and another folder named cs_code in your app_code directory
+
+92868
+json	xml
+the back-end doesn t matter much but i do recommend using json as your protocol of choice over xml
+
+92959
+contains	any
+some user-controlss are entirely self contains for example a user-controls displaying current stock quotes does not need to interact with any other content on the page
+
+92963
+.when	ready
+the im is preferable because you can choose to answer it .when you re ready - unlike the phone or face-to-face
+
+92971
+debian	linux
+i guess this is a big ask for the general case so to narrow things down a bit i m most interested in gnu emacs 22 on windows and debian linux
+
+92980
+python	java
+it contains concrete advices of do-s and dont-s for clean and pretty code with java python examples
+
+92998
+groovy	java
+in groovy you can easily mock java interfaces using the as operator
+
+93034
+space	input
+that is to say i think that determining the amount of stack space used depends on the branches taken which in turn depends on input parameters and in general requires solving the halting problem
+
+93044
+widget	button
+when the signal is called i get the button widget and eventargs as a parameter
+
+93044
+widget	button
+i need to determine the page number based on the button widget but mynotebook.pagenum buttonwidget always returns -1
+
+93051
+visual-studio	sharpdevelop
+sharpdevelop is an open source ide something of a visual-studio clone
+
+93074
+32-bit	64bit
+call iswow64process to find out if your 32-bit process is running in wow64 on a 64bit operating system
+
+93080
+mstest	nunit
+accorting to kjetil klaussen this is caused by the visual-studio testrunner running mstest tests in testdriven.net makes mstest performance comparable to nunit
+
+93094
+arguments	default
+how to assign a default constructor arguments value
+
+93126
+decrement	increment
+for now you can use pthreads or create your own platform independent wrappers around compare and swap and or interlocked increment decrement
+
+93134
+.net	wcf
+you would have a lot of options at this point for communication but .net remoting or wcf would probably be good and easy choices
+
+93150
+order	join
+i don t want to specify the join order and details manually-- there are too many queries affected by this for it to be worthwhile
+
+93150
+order	join
+is there a way that i can hint that a join will have a lot of rows without specifying the entire join order manually
+
+93156
+tcsh	bash
+bash uses uid while tcsh uses uid and in case matters
+
+93156
+tcsh	bash
+i ve also found that tcsh sets gid but i wasn t able to find a matching variable in bash
+
+93159
+attributes	properties
+partial classes are an option but if the properties i want to decorate with the data-members attributes is already defined in the autogenerated designer.cs file then i can t add the same properties definition to the partial class as this means the properties will have been defined twice
+
+93209
+directory	folder
+we tried deploying direct to the site using the built in deploy but that removes the entire directory deleting a whole bunch of static files we have within the iis root folder
+
+93211
+base-class	inherited
+you could create a base form class with common functionality such as remembering the positioning and size and inherited from that base-class
+
+93224
+spring	jsf
+in my case i have spring s messagesource integrated with jsf using messagesourcepropertyresolver
+
+93229
+primitive	int
+in the same way that integer has to be immutable to behave like int strings have to behave as immutable to act like primitive
+
+93233
+superclass	subclass
+subclass of the hierarchal superclass
+
+93236
+executable	upx
+upx can encrypt compress mac osx executable
+
+93252
+aes	rsa
+if they really need that much protection they probably should be using a more stable solution for data-access than a website a secure ssh tunnel to their server is bulletproof you can tell them they can have their 256-bit aes and 4096-bit rsa too or a vpn depending upon implementation
+
+93313
+32-bit	64bit
+i m porting a c++ 32-bit application to 64bit on windows
+
+93313
+websphere	ibm
+the application is a client of ibm websphere mq
+
+93331
+portable-executable	coff
+ntcore is a useful site for exploring portable-executable pe files which is what coff is now called
+
+93334
+nvidia	ati
+a pci nvidia geforce 5200 or ati radeon 7000 is still pretty easy to find
+
+93341
+value	field
+the access value just tells it how to access the field and field.camelcase just tells it the naming strategy
+
+93353
+contains	elements
+i want to make y lists each contains z elements
+
+93353
+contains	elements
+the rules are that no list may contains the same elements twice and that over all the lists the number of times each elementss is used is the same or as close as possible
+
+93361
+external	host
+we re testing our clickonce deployed application internally on iis internet information services but we re wondering if we can deploy it to the wider internet using apache on linux so we can make use of our existing external website host
+
+93363
+internet-explorer	firefox
+safari internet-explorer and firefox all have different max lengths that it accepts
+
+93373
+duplicates	contains
+if it s no longer being used and the information it contains is duplicates elsewhere in better more efficient services and how would you test for that
+
+93415
+frame	width
+when maximizing an emacs frame the frame expands to fill the width of both monitors and the height of the larger monitor
+
+93465
+duplicates	elements
+plus you have very little tests for duplicates elements
+
+93482
+selected	checkbox
+now i would like to persist the state of these checkbox for a particular tab when another tab is selected
+
+93489
+any	set
+the best you can do is compare the 2 query outputs based on a given set of inputs looking for any difference
+
+93492
+any	set
+you just need to set up which bits of your news feed to scour and voila instant rss without having to touch any code.
+
+93499
+json	csv
+the back end can communicate with the javascript using either simple csv json xml web service etc
+
+93505
+scheme	let
+in general i tend to embed derby into even my small applications use hibernate annotations to define my model classes and let hibernate deal with caching scheme to keep everything fast
+
+93512
+global-assembly-cache	gac
+assemblies can coexist in the gac global-assembly-cache even if they have the same name given that the versioning is different
+
+93515
+contains	elements
+each list has the same z number of elementss so it will be impossible to make lists where z is greater than x and still fulfill the rule that no list may contains the same elements twice
+
+93518
+png	gif
+the biggest advantage to doing this is that any browser which could display a png or gif would be able to display your frame
+
+93549
+global-assembly-cache	gac
+if your assembly commonutils.dll is strong-named signed you can think about installing it in the gac global-assembly-cache - you can install different versionings of the same assembly side-by-side in the gac therefore the calling application automatically gets the proper versioning from there because .net types include assembly versioning information
+
+93550
+rewrite	rule
+this operation is relevant in programming language theory because it allows the implementation of recursion in the form of a rewrite rule without explicit support from the language s runtime engine
+
+93579
+contains	set
+a materialized view is a table on disk that contains the result set of a query
+
+93581
+security	owasp
+while there are a few good commercial applications for black box testing of applications holodeck cenzic hailstorm the only open source applications that i know about only test network security spike owasp webscarab and nikto
+
+93587
+hosts-file	hosts
+you can use compgen and complete to create a bash-function that reads your etc hosts for results so all you have to type then is
+
+93589
+bufferedreader	urlconnection
+spawn a java.util.timertask where you will check if you have finished the process otherwise close the bufferedreader and the outputstream of the urlconnection
+
+93590
+hash	md5
+q are the bytes read from disk when i create the filestream object or when the object consuming the stream in this case an md5 hash algorithm actually reads it
+
+93598
+multiplication	addition
+instructions such as addition and multiplication are non-jumping
+
+93672
+switching	screens
+is there a 7-zip command-line switching that prevents the filenames from echoing to the screens as they are added to the archive
+
+93673
+punctuation	tokenize
+for example you could tokenize your document into a list of words by stripping out punctuation capitalization and stemming words running runs both - run to increase semantic matches
+
+93673
+python	c++
+then just build a hash map such as hash_map in c++ a dictionary in python etc of each adjacent pair of words to its number of occurrences so far
+
+93675
+constructor	private
+it uses asm to dynamically redefine the class bytecode so it can mock out all methods including static private constructor and static initializers
+
+93692
+javascript	dom
+note just to make it clear i m not interested in dom scripting or writing javascript in a browser
+
+93696
+aes	rsa
+as i said above the key bit of knowledge is that the cert doesn t matter so long as it s generated with an algorithm that supports aes 256-bit encryption rsa
+
+93711
+environment	execution
+a server is a runtime environment a process of execution
+
+93714
+linux	unix
+in linux and unix systems
+
+93771
+account	api
+i have a program that creates a windows user account using the netuseradd api which is suggested by microsoft
+
+93773
+activerecord	datamapper
+i was looking at datamapper which appeared at first glance to use the activerecord orm pattern
+
+93790
+triggers	insert
+now i have a stored procedure not function which is called by a triggers on an insert
+
+93791
+cakephp	symfony
+i ve been using it for over a year now and i ve very much enjoyed working with it however i notice that throughout stack overflow it doesn t seem to rate a mention when symfony or cakephp are being talked about as potential candidates for a framework
+
+93799
+selected	listbox
+before i set the value the listbox s selected value might be hello and the alert box which pops up after i ve assigned this value to text is also hello
+
+93803
+sql-server	oracle
+from there you can either come up with your own search algorithm for the spatial data or make use of one of a spatial databases such as microsoft sql-server postgis oracle spatial arcsde etc
+
+93825
+hide	show
+use the username as a reg_dword and a value of 1 to show the user and 0 to hide
+
+93846
+perl	ruby
+how can i allow others to create java .net ruby php perl web user interface components that interact with each other
+
+93846
+ruby	php
+for example one web ui component written in .net selects a customer and the other web user interface components are written in java ruby or php are able to refresh showing information about the selected customer from different systems
+
+93854
+code-generation	mygeneration
+i see code-generation harmfull as well but only if you use 3rd party tools like codesmith and mygeneration
+
+93896
+printf	scanf
+the s behaves differently on scanf and printf
+
+93934
+communication	messages
+there s no way to explicitly clear the session if you don t communication in some way between the client and the server at the point of windows closing so i would expect sending a special uri request to clear the session at the point of receiving a windows close messages
+
+93945
+contains	any
+actually your problem is even worse your string contains byte sequences that do not represent characters in any character encoding
+
+93967
+sql-server	oracle
+if you re feeling particularly keen you can use a recursive query oracle connect by or sql-server common table expressions to build a complete object dependency graph
+
+93967
+sql-server	oracle
+note that this is sql-server specific and the question owner has since made it clear that he s using oracle
+
+93975
+linux	bsd
+it runs on linux windows bsd and other platforms and you can write a python script if you want to use it with python
+
+93988
+configuration	environment
+in the directory with the configuration file with variables i have a directory with a file for each environment
+
+94024
+implements	abstract
+adauth.activedirectoryroleprovider does not implements inherited abstract member system.web.security.roleprovider.applicationname.get
+
+94024
+base-class	inherited
+do i have to create them all in my inherited class or is there a way to tell it to just use the ones from the base-class
+
+94025
+python	c++
+most python gui apis will be wrappers around the most common c c++ gui apis
+
+94035
+triggers	insert
+on the slave the insert will be executed and then the triggers will be re-run on the slave
+
+94042
+sniffing	traffic
+i unfortunately haven t been sniffing network traffic when this has happened to me or i would ve checked if the asp.net session cookie has stuck around or not
+
+94053
+configuration	environment
+if you re not using it how are you managing environment specific configuration settings that may change for each environment
+
+94054
+configuration	environment
+for highly scalability systems in production environment i would seriously recommend a scheme in which configuration files are kept in templates and as part of the build script these templates are used to render final configuration files all environment should use the same process
+
+94069
+instance-variables	subclass
+the way i have implemented something like this in the past is to implement a shutdown methods in my runnable subclass which sets an instance-variables called should_shutdown to true
+
+94070
+activerecord	datamapper
+datamapper is potentially more complex then activerecord but it s a lot easier to develop your domain model and database asynchronous then with activerecord
+
+94081
+environment	building
+we use properties files specific to the environment and have the ant building selected the correct set when buildinging the jars wars
+
+94099
+activerecord	datamapper
+activerecord is very heavy datamapper and domain object are separating those concerns out so you have a more defined set of code doing various aspects for you domain or entity objects
+
+94100
+hosts-file	hosts
+hardcode thier ip-address in your hosts
+
+94102
+required	checked
+required the use ofthe freedesktop shared-mime-info library but does both filename extension checked as well as magic checked.
+
+94113
+http	ssl
+http ssl tls options for wget
+
+94119
+easymock	unitils
+it is a bit more advanced than the code samples in fowler s article especially when you use the unitils library to wrap easymock so the syntax will be much simpler than that in the article
+
+94125
+.when	ready
+.when you are ready to give up do it in c++
+
+94141
+internet-explorer	firefox
+firefox and chrome will display before during and after while internet-explorer first shows during and only then does it show before and after
+
+94148
+callback	methods
+then i tried a plain old parsing methods that never returns and just fires events to registered listener callback
+
+94148
+callback	methods
+i ve tried both a single callback regardless of event type and a callback methods specific to each event type
+
+94148
+callback	methods
+i ve tried to avoid the new event call since there can be a huge number of events and the event objects are generally short lived and having the callback methods per type with primitive property arguments
+
+94148
+callback	methods
+i am not sure i like this and its really similar to the callbacks per type approach just code is inside an execute function in the type subclasses versus the callback methods per type
+
+94154
+children	nodes
+the menu also needs to display all the children of the root nodes
+
+94161
+automake	gnu
+i m working on a project that will be distributed with gnu autoconf automake and i have a set of bash scripting which call awk scripting
+
+94167
+configuration	environment
+then any configuration element that is environment-specific gets the environment appended like so
+
+94172
+frame	width
+i m not sure if there s a way to compute the max height width of a frame in the current windows environment
+
+94184
+keyboard	mouse
+my biggest increase in typing when coding was to really learn my ide s keyboard shortcuts since that eliminated the relatively slow process of using the mouse
+
+94195
+easymock	jmock
+easymock or jmock are definitely the winners
+
+94195
+easymock	jmock
+i haven t used jmock but i know with easymock you can setup the mock object according to a testing script and it will return certain values in certain situations or points during your test
+
+94202
+constructor	object
+i recommend just passing in cmanager as a parameter in your gui object constructor but don t maintain a reference to it java code here but you get the idea
+
+94211
+webserver	host
+the firewalls mapped external facing addresses to the webserver so by swapping host files on your pc the same url could be used - would go to either staging or production depending on which hosts file you had swapped in
+
+94216
+internet-explorer	firefox
+if your problem happens in internet-explorer but it renders the way you d expect in firefox or safari this link was extraordinarily helpful for me with a similar problem
+
+94224
+reliability	scalability
+some of the key reasons to use oo are to structure code in a similar way to how we humans like to perceive and relate to things and exploit the benefits of economy maintainability reliability and scalability
+
+94226
+revision	svn
+i don t want to use svn update -r 2 a.txt because this will delete all the revision after r2 namely r3 and r4
+
+94226
+revision	svn
+put it another way i want to still be able to see all 4 revision by using svn log a.txt after doing the update
+
+94286
+linux	osx
+anyway my criteria were 9 on ease of use 10 on maturity of documentation widgets 10 on installed base 5 on gui code generators 10 on native look and feel for both windows linux and 1 and 5 for the last two i m not big into mac osx even with a 10 here it suggests wxpython
+
+94289
+revision	svn
+i don t want to use svn update -r 2 a.txt because this will delete all the revision after r2 namely r3 and r4.
+
+94291
+revision	updates
+updates won t delete any revision on the server
+
+94304
+deprecated	javadoc
+this used to be possible by calling thread.stop but that methods has been permanently deprecated for the following reason copy-paste from the javadoc
+
+94351
+revision	svn
+the command svn up -r 4 only updates your local copy to revision 4
+
+94419
+superclass	subclass
+a methods in a subclass that used to override the superclass methods will no longer do so due the changed methods signature
+
+94442
+revision	svn
+after doing this update you will still be able to do svn log and see all the revision
+
+94484
+sql-server	oracle
+this isn t real deep or thorough but i think that if you re using ms sql-server or oracle perhaps nigel can help with a pl-sql sample ...nigel is on to something
+
+94507
+version-control	git
+it has built in milestones and releases and its subversion and git integration are pretty great we can log comments on and resolve tasks with version-control messages
+
+94511
+attributes	properties
+if you used a default constructor and exposed the two custom members with getter setter properties you could get away with just setting the attributes
+
+94526
+instances	self
+self most likely refers to the rokbox instances again so assuming you instantiate it with something like
+
+94528
+contains	elements
+in other words may one use regex to match the tag html elements which does not contains nested tag elementss
+
+94572
+binaries	install
+the live cd will make things a bit quicker by having a few precompiled binaries available but besides that you still have to choose what you want to install
+
+94581
+profiling	trace
+how do you trace profiling your .net applications
+
+94599
+sqlcompare	redgate
+redgate makers of sqlcompare above have many great tools
+
+94610
+callback	methods
+as such it uses asynchronous callback for all the calls to the methods of the service
+
+94610
+exception-handling	try-catch
+because it is an asynchronous call i can t wrap my begin call with a try-catch block and have it pick up an exception-handling that happens after the program has moved on from that point
+
+94610
+exception-handling	try-catch
+because the service proxy is automatically generated i can t put a try-catch block on each and every generated function that calls endinvoke where the exception-handling actually shows up
+
+94610
+exception-handling	try-catch
+i can t put the try-catch in my callback functions because the exception-handling occurs before they would get called
+
+94625
+constructor	object
+exception is already serializable but you need to override the getobjectdata method to store your variables and provide a constructor which can be called when re-hydrating your object
+
+94631
+attributes	properties
+i use this in combination with properties files to pull in customized attributes in my spring-based projects
+
+94634
+checkbox	textbox
+the user are to respond using free form textbox checkbox or pre-defined drop downlist
+
+94644
+oracle	mysql
+depending on your database you might have the option of either using a sequenser oracle or a autoincrement mysql ms sql etc
+
+94685
+lgpl	gpl
+this question is a follow up on one of my other questions can i legally incorporating gpl lgpl open-sourced software in a proprietary closed-source project
+
+94705
+json	xml
+in fact even when you are talking about fetching or sending data asynchronously the term ajax isn t entirely correct - it was originally coined to mean asynchronous javascript and xml but most modern implementations use json in place of xml
+
+94705
+javascript	dom
+the dom is actually rather complicated in comparison to the javascript language and is likely to be the place where you have the most trouble not least because the dom provided by different browsers tends to be subtly different
+
+94705
+javascript	dom
+notice i haven t mentioned ajax or any frameworks yet - you will find it much easier if you have a basic grounding in javascript and the dom before you start looking at a framework
+
+94706
+hotmail	gmail
+and be sure to test this using a wide variety of email clients eg thunderbird outlook outlook express gmail yahoo msn hotmail .
+
+94716
+contains	elements
+returns a jquery object that contains all the selected elements
+
+94724
+midp	cldc
+midp 2.1 cldc 1.1 and jsr-75 fileconnection are available
+
+94728
+msbuild	nant
+either can be integrated into your build environment if you re using msbuild or nant
+
+94733
+google-docs	spreadsheet
+it requires some javascript knowledge and include google-docs integration spreadsheet integration
+
+94744
+google-chrome	firefox
+if you attach scripts dynamically ie firefox and google-chrome will all download the scripts in an asynchronous manner
+
+94744
+google-chrome	firefox
+firefox and google-chrome will wait till all of the async requests return and then will execute the scripts in the order that they are attached in the dom but ie executes the scripts in the order that they are returned over the wire
+
+94772
+perl	awk
+we use awk and perl scripts to parse the log files and create summary reports and databases technically databases in that each row corresponds to a unique event with many columns of data about that event but not stored in a traditional database format
+
+94792
+emacs	vim
+please don t say use emacs as i ve already ramped up on vim and i m really enjoying it as an editor
+
+94824
+value	field
+some properties are read statically at class loading time and others might cache the value in some object field
+
+94835
+pointers	stack
+a function call is simply a shift of the frame pointers in memory onto stack and addition of a new frame on top of that
+
+94835
+pointers	stack
+the function parameters are shifted into local registers for use and stack pointers is advanced to the new top of stack for execution of the function
+
+94838
+iteration	elements
+just a note iteration over all elements in a map is o n so it would be guaranteed o n not worse to look up the way you are thinking of doing it
+
+94850
+directory	folder
+so make the sub folder a virtual directory on your site and then in the properties of the virtual directory choose the option for a redirection to a url .
+
+94862
+emacs	vim
+you can give emacs with vim emulation a try is not perfect but it may be somewhat familiar
+
+94869
+any	set
+first the documentation flat out lies where it reads in any style command the first row index may be set to one of the special strings splitlast or splitfirst to indicate that the style should be used only for the last row of a split table or the first row of a continuation. in the current release the splitlast and splitfirst row indices break with the aforementioned typeerrors on the textcolor and background commnds
+
+94873
+function-call	inline
+0 of course being what you would have gotten by not having a function-call ie inline it yourself
+
+94876
+decimal	hex
+just take any decent calculator and type in 7fffffff in hex mode then switch to decimal
+
+94894
+toolbar	tabs
+local bookmarks - i store bookmarks on the browser toolbar in folders so i can middle-click and open all in tabs
+
+94896
+handler	service
+i check the error property of the eventargs in the service methods completed event handler
+
+94901
+firefox	opera
+firefox 3 and opera 9.5 do
+
+94908
+ip-address	proxy
+the only real way to it is with a reverse proxy or a webserver acting as a reverse proxy between you and the outside world that knows what ip-address each folder is in
+
+94910
+type-safety	generics
+going forward you should still consider using generics due to the compile-time type-safety
+
+94950
+type-safety	generics
+generics whether java or .net should be used for design and type-safety not for performance
+
+94961
+.when	ready
+there will be some degree of refactoring to attach to the real object .when you are ready but that is why your developers should at least know enough xaml to know how to modify the bindings properly
+
+94974
+safari	opera
+but it tries as best it can to put a firebug console in ie safari and opera
+
+94975
+dijkstra	a-star
+i ve read in one of my ai books that popular algorithms a-star dijkstra for path-finding in simulation or games is also used to solve the well-known 15-puzzle
+
+94979
+contains	lookup
+add a member variables to the object that contains the current key allowing o 1 lookup
+
+95001
+double	int
+since an int uses 31 bits + 1 bit for the sign just double 2 30 to get approximately 2 billion
+
+95001
+double	int
+for an unsigned int using 32-bit double again for 4 billion
+
+95030
+exception-handling	try-catch
+but try-catch is an exception-handling no pun intended
+
+95033
+hide	show
+my understanding is that this simple jquery plugins just show and hide content
+
+95033
+thickbox	jquery
+i had the exact same problem with the jquery thickbox plugin that the item marked as hidden the dialog box will always show up in my mvc view page
+
+95033
+hide	show
+i can understand some of the mvc+jquery+json articles but i don t understand why the hide show doesn t work
+
+95046
+joomla	drupal
+under the hood joomla runs on mostly an oo architecture whereas drupal is almost entirely procedural with oo paradigms
+
+95046
+joomla	drupal
+joomla has no form builder that i am aware of so you are forced to hand-code entire blocks of html for the form whereas with drupal you create forms as structured arrays
+
+95046
+joomla	drupal
+in general joomla s admin gui is considered prettier and more user-friendly than drupal s but joomla is in my opinion a less intuitive system at the programming level and makes certain tasks more difficult than necessary
+
+95046
+joomla	drupal
+2 areas where drupal truly outshines joomla in my opinion is in the ability to create various content types - with various fields - on the fly to easily segment data and the ability to create pretty seo-friendly urls with path or even better with pathauto
+
+95046
+joomla	drupal
+bottom line joomla tends to look pretty from an administration perspective but drupal tends to outperform joomla and be a more easily customizable system to achieve many of the things you really want out of a cms
+
+95083
+newlib	glib
+pspsdk uses newlib which lacks some of glib s features and headers
+
+95106
+put	get
+it would be great if i could just hit a for example and instantly get put into insert mode at the end beginning of the argument list
+
+95114
+groovy	java
+groovy is extremely useful for quick reference within a java context.
+
+95121
+64bit	x86
+x86 is considerably slower a few clocks plus a clock or so per function argument while 64bit is much less because most function arguments are passed in registers instead of on the stack
+
+95199
+value	field
+another advantage of it over hidden field is that it is harder for users to hack into it and alter your value i believe in fact that you can encrypt your viewstate
+
+95208
+value	field
+keep in mind that when you deserialize an object with a transient field that field s value will always be it s default usually null.
+
+95210
+tcp-ip	udp
+udp and tcp-ip
+
+95218
+triggers	insert
+the triggers causes insert to fail
+
+95242
+persistent	transient
+you can start by looking into the transient keyword which marks fields as not part of the persistent state of an object
+
+95286
+any	set
+i have the following configuration but i have not able to find any documentation on how to set a maximum backup files on date rolling style
+
+95297
+python	ruby
+others such as python and ruby make you download third-party modules to do strong encryption
+
+95317
+put	get
+you ll have to put up with remembering to get it right
+
+95339
+contains	any
+this file also contains a startup target which sets up some runtime settings like assembly version information and any dependent paths
+
+95373
+python	java
+also python and perl are older than java and c# from the days when it was illegal to export cryptographic software from the us
+
+95442
+http	ssl
+i m used to using fiddler to sniff transactions between http clients and servers and it works great as long as you re using plain text or xml http requests and responses including those over ssl but it isn t much help for binary protocols like amf over http
+
+95443
+controller	routes
+the problem is that i need to modify the path to an absolute path to the view page because the relative path doesn t work with the asp.net-mvc routes controller action id
+
+95522
+superclass	inherited
+you could make an annotations enforceauthor with inherited on the superclass and use compiler annotationss since java 1.6 to catch up at compile time
+
+95604
+contains	elements
+alternativly localtime and gmtime will convert an epoch into an arrays contains day month and year and timelocal and timegm from the time local module will do the opposite converting an arrays of time elements seconds minutes ... days months etc. into an epoch
+
+95620
+exception-handling	try-catch
+if that s the only thing it does i think is better to remove the try-catch s from those classes and let the exception-handling be raised to the class that is responsible on handling them
+
+95722
+exception-handling	try-catch
+with wcf you can intercept and log an exception-handling using an ierrorhandler attached to your channeldispatcher another subject entirely - so you don t need the try-catch throw pattern
+
+95729
+.when	ready
+if you classify threads along the lines of these threads fill the audio buffering these threads make my app responsive to systemd events these threads make my app responsive to the user these threads are getting on with some business and will report .when they re good and ready then the threads ought to be prioritised accordingly
+
+95743
+constructor	object
+within the java language the only way to create an object is by calling its constructor be it explicitly or implicitly
+
+95787
+interpreter	runtime
+a just-in-time jit compiler is a feature of the runtime interpreter that instead of interpreting bytecode every time a methods is invoked will compile the bytecode into the machine code instructions of the running machine and then invoke this object code instead
+
+95800
+sftp	ssh
+what would be the easiest way to access a file or maybe create a remote project trough ftp and maybe ssh and sftp
+
+95809
+triggers	insert
+one piece of evidence that would be in favor does insert use a stack style scope nested triggers have their own inserts
+
+95821
+eruby	erb
+i see that it supposedly beats erb and eruby now.
+
+95824
+comma	words
+so i could call the command with replace file replace file new replace file options user etc. wrap the words with bold formatting and replace any comma with the right arrow command
+
+95833
+value	field
+form methods state is again similar -- it s useful for hiding field that tie a given form to some bit of data on the back end this user is editing record #512 so the form will contains a hidden input with the value 512
+
+95858
+document	element
+but is there a better way to get the id of the element and set the src or data parameter for the object embed and have it instantly load up a new document
+
+95880
+value	field
+value in the query string or form field can be trivially changed by the user
+
+95880
+value	field
+keeping track of value passed in a form as a user completes a process like a site sign-up well that can probably be kept in hidden form field
+
+95896
+compile-time-constant	constants
+unfortunately the above does not provide a compile time answer even if the compiler does inline optimize it to be a constants under the hood so cannot be used as a compile-time-constants expression
+
+95910
+attributes	properties
+i have done this with properties where i have looked for an attributes but never a private member field
+
+95927
+pointers	stack
+it is a very fast operation to create these variables simply increment stack pointers by the size
+
+95937
+instances	private
+yes however you will need to set your binding flags to search for private fields if your looking for the member outside of the class instances
+
+95944
+sftp	ssh
+i believe you re talking about ftp with ssl when you say sftp and not the sftp protocol that goes along with ssh
+
+95944
+sftp	ssh
+use sftp the ssh version as it doesn t require an encrypted control channel and will work fine over nat
+
+95950
+32-bit	64bit
+my desktop is 32-bit xp the oracle installation on the server is also 64bit
+
+95955
+any	set
+i think the best you can do is set a threshold for visiting a page. have an automated task run every 60 120 300 or some number of seconds that clears out any entry that is older than a specified amount of time
+
+95956
+command-prompt	cmd
+if i use them to iterate through the folder c windows system32 drivers they only find a handful of files although there are 185 when i issue a dir cmd in a cmd-prompt
+
+95978
+sftp	ftp
+yah i meant ssl ftp not sftp
+
+95992
+return-type	arguments
+one can think of delegates as an interface for a methods which defines what arguments and return-type a methods must have to fit the delegate
+
+96020
+private-members	instances
+one thing that you need to be aware of when reflecting on private-members is that if your application is running in medium trust as for instances when you are running on a shared hosting environment it won t find them -- the bindingflags.nonpublic option will simply be ignored
+
+96021
+triggers	insert
+if you always want this behavior you could put an after insert triggers on tablea that will update table b
+
+96028
+ref	out
+.net has out and ref parameters
+
+96028
+constructor	object
+there are other language differences but most of them are not expressed at the byte code level for example if memory serves java s non- static inner classes which do not exist in .net are not a bytecode feature the compiler generates an additional argument to the inner class s constructor and passes the outer object
+
+96041
+swing	swt
+some ui frameworks are layers over swing or swt for example a framework could read a description of a screen in xml and instantiate the corresponding swing components
+
+96042
+delphi	vb6
+i m working on the creation of an activex exe using vb6 and the only example i got is all written in delphi
+
+96048
+order	add
+this is possible because since it s an identity it will just increment as you add items which will be in the order that you are selected them
+
+96055
+associations	model
+using an associations model might solve your issue
+
+96109
+subclassing	superclass
+for a methods name you get the hierarchy showing superclass and subclassing with implementation of that methods distinguished from abstract mentions or classes that don t mention the methods
+
+96133
+solaris	aix
+i have uncovered another problem in the effort that we are making to port several hundreds of ksh scripts from aix solaris and hpux to linux
+
+96150
+directory	folder
+i believe that there is some kind of permissions issue but can t seem to find any difference between the permissions on the noted folders and the folder directory where the excel file is uploaded
+
+96153
+textbox	button
+this fills the userid and password textbox fine but i am not having any success getting that darned button to click
+
+96155
+32-bit	64bit
+if you are writing a 32-bit application to list all the files in a directory and the application may be run on a 64bit computer you should call the wow64disablewow64fsredirectionfunction before calling findfirstfile and call wow64revertwow64fsredirection after the last call to findnextfile
+
+96157
+attributes	properties
+set the existing totallogins properties as either private or protected and remove the readonly attributes
+
+96163
+packets	ping
+it is possible for iptables i guess your suse has iptables firewall to be setup to let trough only ping icmp packets
+
+96179
+32-bit	64bit
+when a 32-bit application reads from one of these folders on a 64bit os
+
+96201
+windows-vista	windows
+if you are building on top of windows server 2003 r2 windows-vista or windows server 2008 and doing internal network transfers another option is to leverage the new remote differential compression feature
+
+96213
+joomla	drupal
+moving to a content manager like drupal joomla wordpress or the like will be much easier if you re already organized with semantic markup too
+
+96217
+exception-handling	try-catch
+this reserves the try-catch for exception-handling that you want to recover from
+
+96217
+exception-handling	try-catch
+to deal with unexpected or unrecoverable exception-handling you may want a try-catch near the outermost layer of the program to log diagnostic information
+
+96220
+contains	any
+any files that are dependent on a particular module will be rebuilt any time the module class structure contains in the .h file is modified
+
+96245
+json	xml
+parsererror - when an xml json response is
+
+96257
+32-bit	64bit
+for example if you want your 64bit and 32-bit builds to use different icons you could include the appropriate resource file for each build as follows
+
+96313
+directory	folder
+i ve got a couple large checkouts where the .svn folder has become damaged so i m getting and error cleanup failed to process the following path.. and i can no longer commit or update files in that directory
+
+96316
+python	c++
+for example when wrapping c++ code to be used with other interfaces .net com python etc... i need to catch different types of exceptions
+
+96340
+configuration	environment
+we would also like to have separate configurations for each environment so when deploying you don t have to manually change certain configuration values that are environment specific such as conenction strings but at the same time don t want to maintain multiple large configuration files one for each environment as keeping this in sync when adding new configuration keys will prove troublesome
+
+96372
+directory	folder
+if you know which folder has the damaged .svn directory you can just delete that one directory and run an svn update again
+
+96372
+directory	folder
+of course if the folder with the damaged .svn directory is the one containing a gigabyte then you re back where you started
+
+96376
+command-line	cmd
+it is a cmd-line directory replication cmd
+
+96376
+windows-vista	windows
+it was available as part of the windows resource kit and is introduced as a standard feature of windows-vista and windows server 2008
+
+96395
+constructor	object
+from an api user perspective another alternative to constructors are static factory methods like biginteger.valueof though for the api author and technically for real the object are still created using a constructor
+
+96401
+persistent	transient
+you can tie the cart to some form of credentials rather than a transient session and persistent the cart long after the user has cleared their cookies
+
+96419
+getter	setter
+other times you need to generate code using the # and ## concatenation operators like generating getter and setter for a property this is for quite a limited cases through
+
+96429
+scp	ssh
+setting up password-less publickey authentication with ssh would allow you to scp your files to any of your servers very quickly or be automated by a shell script
+
+96432
+order	add
+however you will have to add back the namespace in order for it to work
+
+96454
+configuration-files	app-config
+you can split app-config into multiple configuration-files
+
+96462
+ssl-certificate	ssl
+if you can t see anything that isn t using ssl then this is usually down to a broken ssl-certificate somewhere
+
+96466
+configuration	environment
+during a build we generate all the configuration for the different environment by just looping through each environment in a nant script changing the value of the nant properties dbconnstring and webserviceuri for each environment in fact these are all set in a single file with sections for each environment and doing a nant copy with the option to expand properties turned on
+
+96472
+profiling	trace
+you can use the profiling tool to trace all existing and opening and closing connections
+
+96481
+32-bit	64bit
+to get a number from 0..n-1 you multiply the full value by n 32-bit by 32-bit giving 64bit and use the high 32-bit
+
+96486
+firefox	safari
+ie firefox opera safari compatible
+
+96490
+vbscript	jscript
+any comparison to jscript vbscript or dynamic typing is total bunk
+
+96528
+svg	vml
+raphael is pretty cool for that and works across browsers since it uses vml for msie and svg for everything else
+
+96531
+spring	grails
+i think grails and groovy hold promise but the user experience of working with them is cumbersome at present present being last spring
+
+96569
+vmware	esx
+we use vmware esx 3.5.x exclusively
+
+96574
+svg	vml
+however native vml can do text on a path and such things much like svg
+
+96574
+svg	vml
+i think theoretically if you want complex text handling you d want svg and vml like the raphael library that dan mentioned
+
+96576
+debian	rpm
+if you re running on redhat or debian consider packaging up your code into rpm s or debs
+
+96595
+pascal	basic
+if you are really and truly stuck understanding pointers in c then your best option might be to obtain a copy a a pascal compiler and try writing some basic pointer code in it pascal is near enough to c you ll get the basic in a few hours
+
+96628
+value	field
+i m assuming you mean by turned off that a field doesn t have a value
+
+96630
+constructor	object
+the resize effectively calls the default constructor of the object inside the vector but if the default constructor does nothing then nothing is initialized.
+
+96665
+copy-constructor	temporary
+but if the copy-constructor is user supplied then i don t see how the compiler can optimize out the temporary variables
+
+96676
+code-coverage	jscoverage
+i am also going to use jscoverage to get code-coverage analysis of the tests
+
+96682
+fontfamily	font-size
+if you are defining your own context menu via a contextmenu in wpf use the various fontxxx properties such as fontfamily and font-size
+
+96686
+privileges	sid
+you should regenerate the sid whenever a users privileges changes though
+
+96690
+xtend	xpand
+but despise those limitations the generation itself is quite easy with oaw you can navigate your models like a charm in xtend and xpand and by combining several workflows into bigger workflows you can also do very complex things
+
+96722
+expression	evaluation
+| does not do short-circuit evaluation in boolean expression
+
+96743
+code-coverage	jscoverage
+i am also going to use jscoverage to get code-coverage analysis of the tests
+
+96750
+compact-framework	.net
+i ve installed the latest version 3.5 of the microsoft.net compact-framework but whenever i run the apps i get an error message which states this application application name requires a newer version of the microsoft .net compact-framework than the version installed on this device.
+
+96750
+compact-framework	.net
+given i ve supposedly successfully installed the latest version this doesn t make sense leading me to believe i need to remove the .net compact-framework and start again
+
+96835
+safari	opera
+then move on to the other standards-based browsers namely safari and opera
+
+96837
+dialog	pop-up
+it uses a custom control that simply adds code before and after the content to format it as a pop-up dialog
+
+96837
+hide	show
+the yes button is a hyperlink because it executes javascript to hide the dialog and show a different one
+
+96837
+linkbutton	onclick
+i do not have an onclick event registered with the linkbutton because i simply check if ispostback is true
+
+96850
+midl	idl
+we work with several separate idl files hand-build for different parts of our framework making use of the #include construct to include them into the idl of the actual application then generate the single tlb using midl and tlibimp it
+
+96856
+copy-constructor	constructor
+to get this to 0 cost you need to write your own default constructor and your own copy-constructor as empty functions
+
+96864
+copy-constructor	constructor
+this way the default constructor is not called for each element but rather the copy-constructor
+
+96873
+put	get
+9 25 08 edit -- i just put up a blog posting on how to patch monodevelop 1.0 and get it working with astyle
+
+96875
+difference	count
+what are the difference between the front end calling ejbs using toplink vs adf business components through rmi in terms of scalability as the migration from struts to adf will also encompass pl sql and oracle forms thus increasing the user count drastically
+
+96877
+comma	words
+your problem is that is a magic comma that automatically quotes the words in front of it
+
+96877
+punctuation	words
+or you can add various punctuation so that you no longer have a simple words in front of the
+
+96924
+git-rebase	git-merge
+git git-rebase is only a rough equivalent to git-merge
+
+96935
+python	java
+in addition you can use existing python libraries in a java application
+
+96950
+value	field
+well you can return non-null value by passing as the parameter for field you don t wish to use in the current filtering
+
+96952
+value	field
+field with value 00345abc would need to return 345abc
+
+96982
+freebsd	debian
+runs on centos although debian fedora core freebsd are options if necessary
+
+97025
+revision	svn
+you can put the original dmg dmg templates even under version-control svn so if you ever accidentally change destroy it you can just go back to a revision where it was still okay
+
+97069
+python	java
+thus it is sometimes easier to write the code in python and integrate it via jython that to attempt to write the code in java
+
+97096
+grouping	sorting
+without experiencing any speed penalties as the sorting will be performed on the grouping field anyway
+
+97114
+constructor	object
+however we ve now added a dynamic dispatch call where static would suffice the object is larger even in the production version and we ve added a new failure path for foo s constructor allocation can fail
+
+97142
+ubuntu	debian
+others on debian or ubuntu seem to be able to get rid of this by installing libopenssl-ruby which is not available for redhat
+
+97187
+shell	bash
+when a login shell exits bash reads
+
+97187
+shell	bash
+a login shell is started bash reads
+
+97197
+having	select
+select n+1 is generally stated as a problem in object-relational mapping orm discussions and i understand that it has something do to with having to make a lot of database queries for something that seems simple in the object world
+
+97224
+shell	bash
+when using bash the first of .bash_profile .bash_login and .profile will be run for an interactive login shell
+
+97224
+shell	bash
+i believe .profile is generally run by unix shell besides bash
+
+97224
+shell	bash
+bash will run .bashrc for a non-login interactive shell
+
+97253
+persistence	hibernate
+reference java persistence with hibernate chapter 13
+
+97259
+vmware	esx
+vmware s esx has a similar tool i believe its called esxtop
+
+97260
+nagios	munin
+try nagios or munin
+
+97276
+linux	unix
+if i ve got a time_t value from gettimeofday or compatible in a unix environment linux bsd is there a compact algorithm available that would be able to tell me the corresponding week number within the month
+
+97276
+contains	any
+however if we re counting the number of mondays that have occurred so far then we want to count the number of integral weeks including today then consider if the fractional week left over also contains any mondays
+
+97277
+ip-address	hostname
+some spam filtering unfortunately also reject mail from hostname containing strings that imply they are in dynamic address pools dynamic dsl or a dash-separated ip-address as is common with many isps
+
+97299
+execution	exit
+somehow and i m not familiar with the specifics of how .bat files exit but either jsmin or the batch file execution is exiting with a non-zero return code
+
+97348
+triggers	insert
+first avoid cursors at all costs especially in insert deletes updates or triggers
+
+97350
+where-clause	sql
+on the other hand if you re doing something in code just write the sql on the fly and use the literal value of the form control for constructing your where-clause
+
+97359
+python	java
+if i had to parse some file i d choose python over java in a blink
+
+97373
+getter	setter
+both languages provide it but c# properties provides a better design for it in regards to setter and getter
+
+97375
+continuous-integration	code-coverage
+a continuous-integration with a high code-coverage is better
+
+97401
+arrays	loops
+if you are just doing a straight loops through your collection you won t see much difference between storing it as an arrays or as a linked list
+
+97401
+linked-list	arrays
+someone with more knowledge of the underlying arrays vs linked-list implementation and how it ends up looking in the byte code could probably tell you whether appending to a linked-list with a tail pointer or inserting into an arrays is faster my guess would be the arrays
+
+97414
+linux	unix
+i know you asked for windows but thought i d add this anyway in unix linux you could do
+
+97431
+google-chrome	safari
+so you should be asking for webkit rendering engine google-chrome use developed by safari s guys control
+
+97435
+comma	words
+any amount of white spaces on either side of a comma or the words and should be considered part of the delimiter.
+
+97435
+comma	words
+dan s answer was the most robust it even handles white sand tall waves and warm sun and reasonably with that odd comma placement after the words waves so i ve marked his as the accepted answer
+
+97440
+getter	setter
+instead consider creating an class that has public setter and getter that populate a hash visible only to the object
+
+97445
+deployment	install
+a deployment project from visual-studio allows you to install a sql-server express instance with ease
+
+97459
+selected	textbox
+clicking in the textbox should selected all the text if the textbox wasn t previously focused
+
+97459
+selected	textbox
+mouse down and drag in the textbox should selected only the text i ve highlighted with the mouse
+
+97459
+selected	textbox
+if the textbox is already focused clicking does not selected all text
+
+97459
+selected	textbox
+focusing the textbox programmatically or via keyboard tabbing should selected all text
+
+97459
+click	mouse
+calling .selectedall during the click event won t work because the user won t be able to selected any text with the mouse
+
+97466
+groovy	java
+if working with java jython is an option for this groovy is another
+
+97476
+.when	ready
+.when the feature is ready to be brought into main review the combined changes
+
+97510
+sqlplus	prompt
+for querying the db directly such as at a sqlplus prompt or through a db administration tool selected is generally fine--it saves you the trouble of writing out all the columns
+
+97513
+restart	reload
+i would like to use komodo as my python editor but i haven t found a replacement for pywin s ability to restart the shell and reload the current module
+
+97515
+highlight	selected
+this selected all the text on entry but allowed me to highlight part of the text afterwards or allow you to highlight on the first click
+
+97528
+httphandler	httpmodule
+i do not have access to iis 6.0 so i cannot map requests to asp.net and handle with a httphandler httpmodule
+
+97536
+copy-constructor	constructor
+std vector must initialize the values in the arrays somehow which means some constructor or copy-constructor must be called
+
+97540
+python	java
+jython allows you to use the java robustness and when needed the python clarity
+
+97578
+contains	any
+my problem is that the item name can contains any character including single and double quotes
+
+97586
+look-and-feel	swt
+can anyone provide an example of an swt application still being able to edit the gui in eclipse but having the aerith look-and-feel
+
+97595
+web-config	app-config
+the linq designer ads the connection string to the app-config of the class library but the web site needed to see it in the web-config of the web project
+
+97623
+constructor	private
+represents whatever parameters you need to create the end iterator which might use a private constructor
+
+97630
+getter	setter
+assuming you want to serialization the state of the non-serializable field in myclass2 that field must be accessible to myclass either directly or through getter and setter
+
+97630
+implements	extends
+per item 74 of effective-java myclass2 must have a no-arg constructor accessible to myclass otherwise it is impossible for myclass to extends myclass2 and implements serialization
+
+97642
+implements	abstract
+it s not the same as not adding these properties but the last time i saw this the engineer addressed it by implementing concrete nhibernate classes and deriving them from a common abstract base-class myauditable that implements the properties you dislike
+
+97666
+user-permissions	account
+i thought maybe i needed to set user-permissions in the visual-studio remote-debugging monitor but my admin account was already there
+
+97708
+python	php
+as i didn t want to install python just to run this script i ported it to php
+
+97742
+wxwidgets	mfc
+wxwidgets has all the mfc has in early wx versions a lot of classes were clones of mfc classes and a lot more
+
+97757
+web-services	security
+naturally you can also change the security for the wcf windows service to allow access remotely with a password if you want to allow multiple web-services to use the same service host for the purpose of improved resource usage
+
+97762
+click	mouse
+what is the best way to find the contains rectangle for a mouse click
+
+97778
+python	java
+the good deployment issue -- for python -- doesn t have the deep significance that it has for java
+
+97788
+32-bit	16-bit
+to boil down your problem you want to be able to have a class that has a ushort pixels field 16-bit per pixel sometimes and a uint32 pixels field 32-bit per pixel some other times
+
+97788
+32-bit	16-bit
+you could create replacements for ushort uint32 by making a pixel class with 32-bit and 16-bit sub-classes overriding various operators up the wazoo but this incurs a lot of overhead is tricky to get right and even trickier to determine if its right
+
+97788
+32-bit	16-bit
+the downside there is that you would likely end up with a lot of special case code in the imagedata class which executed one way or the other depending on some 16-bit 32-bit mode flag
+
+97788
+32-bit	16-bit
+the better solution i think would be to sub-class imagedata into 16-bit and 32-bit classes and use a factory methods to create instances
+
+97788
+subclassing	base-class
+imagedata is the base-class imagedata16bpp and imagedata32bpp are subclassing static methods imagedata.create string imagefilename is the factory methods which creates either imagedata16bpp or imagedata32bpp depending on the header data
+
+97790
+sql-server	firebird
+however if you need to ever do anything with data which is beyond simple read write then go with firebird as it is a full sql-server with all the enterprise features like triggers views stored procedures temporary tables etc
+
+97804
+double-quotes	single-quotes
+in javascript you can encode single-quotes as x27 and double-quotes as x22
+
+97830
+.net	wcf
+i m working on a project using windows 2008 .net 3.5 and wcf for some internal services and the question of how to host the services has arisen
+
+97850
+put	get
+i have a 2gb drive to put this on but i can get a bigger one if necessary
+
+97885
+bazaar	git
+the best answer for you is some sort of dvcs popular ones being git mercurial darcs bazaar ...
+
+97885
+compatibility	platform
+i haven t used these systems personally so others will be best at recommending a dvcs with a small footprint and good cross platform compatibility
+
+97890
+show	next
+show some kind of message right next to the field and updates it as he types
+
+97917
+curly-braces	macros
+was a macros expansion but that s a problem w macross not curly-braces w ifs.
+
+97922
+push	pull
+once you set this up you can use git pull to fetch the changes only you don t need to clone anymore just the first time and git push to push the changes the other way
+
+97934
+web-applications	enterprise
+in most enterprise web-applications you ll need a servlet container and most of the stress in a web application will be at the tier that handles httprequests or database access
+
+97937
+subtract	add
+convert your system.drawing.color to an hslcolor add subtract values against the luminosity and convert back to system.drawing.color for use in your app
+
+97944
+rollback	commit
+if you are then you want to create a savepoint and at the end you can just pass through the end of the function believing a commit or rollback will happen later or else rollback to your savepoint
+
+97979
+terracotta	jgroups
+jgroups treecache from jboss support this so does ehcache i think and i know it definitely works if you use ehcache with terracotta which is a very slick integration
+
+97983
+forwarding	port
+i would like to put another server that would listen to an http port accessible from outside and forwarding the requests to that httpserver and send back the response via http
+
+97994
+emacs	vim
+an editor like emacs or vim can really focus on being a good editor first and foremost
+
+98016
+ftp	ssh
+unless someone gains access to your server via ftp or ssh in which case you re already buggered i wouldn t worry about storing passwords in plaintext in php files
+
+98032
+solaris	linux
+you can consult their source code to see how this is accomplished on linux solaris windows and mac platforms
+
+98044
+webmethods	websphere
+would it be using a websphere adaptor for sap or webmethods or something else
+
+98048
+put	get
+obfuscate the password even rot13 will do it won t put up much defense if some does get access to the file but at least it will prevent casual viewing of it
+
+98058
+contains	sorted
+has_header is set to true if the first row contains header values that you don t want sorted
+
+98074
+contains	elements
+the strange thing is that if i pass false indicating invalid certificates are acceptable the collection contains one elements mdash
+
+98116
+python	java
+you can also port the python implementation to java -- i doubt it s very complex
+
+98127
+internet-explorer	opera
+on every browser firefox opera camino safari etc... except for internet-explorer i can access my own cookie
+
+98134
+command-line	cmd
+i know windows has the runas cmd but this won t work for an automated script as there is no way to enter the password via the cmd-line
+
+98151
+getter	setter
+there s also a nice bag of tricks directly available in the menus like generating getter setter extracting interfaces and the like
+
+98159
+web-applications	security
+web-applications designed for use inside a corporate firewall are often fairly lax about security
+
+98162
+compatibility	deprecated
+there are potential compatibility issues now that getyear has been deprecated in favour of getfullyear - from quirks-mode
+
+98162
+internet-explorer	firefox
+there are also implementation differences between internet-explorer and firefox as ie s implementation of getyear was changed to behave like getfullyear - from ibm
+
+98163
+administration	account
+i need to be able to install things without booting into the administration account
+
+98174
+webserver	host
+both webserver serve website using apache and one of them has an additional virtual host that serves simple html maintenance page
+
+98224
+command-prompt	cmd
+minimal you will get information similar to dir s cmd in windows cmd-prompt
+
+98225
+emacs	vim
+addendum the main reason i don t just use vim is that i love how emacs lets you open a file in two different frames added sorry this was confusing i mean separate windows which emacs calls frames
+
+98230
+jquery	dojo
+jquery prototype ext javascript dojo mootools yui mochikit the list goes on
+
+98234
+linux	unix
+sadly this was written for unix linux users
+
+98234
+binaries	install
+personally i would install cygwin just to get linux binaries of lftp rsync to work on windows as there appears not to be anything that competes with it
+
+98237
+methods	extend
+javascript prototype can be used to extend existing objects much like c# extension methods
+
+98238
+configuration-management	puppet
+it did cause some challenges for software install from non-red hat or centos packages but we managed to get around that with the configuration-management tool puppet
+
+98244
+getter	setter
+i m fairly surprised at how unanimous the sentiment is that getter and setter are fine and good
+
+98244
+getter	setter
+i suggest the incendiary article by allen holub getter and setter are evil
+
+98244
+getter	setter
+essentially if you have getter and setter for each and every private field you are making those fields as good as public
+
+98244
+getter	setter
+the vast majority of getter and setter don t make sense for their constituent objects
+
+98244
+getter	setter
+getter and setter also encourage users of the class to ask the object for some data perform a calculation and then set some other value in the object better known as procedural programming
+
+98244
+getter	setter
+getter and setter however are necessary evils at the boundary of layers -- user-interface persistence and so forth
+
+98244
+getter	setter
+restricted access to a class s internals such as c++ s friend keyword java s package protected access .net s internal access and the friend class pattern can help you reduce the visibility of getter and setter to only those who need them
+
+98267
+arguments	undefined
+the order-of-evaluation for arguments to a function is undefined
+
+98270
+bmp	gif
+it is in c++ not c but you should be able to easily extract the bmp and gif load code
+
+98288
+jquery	dojo
+a good place to start is with wikipedia s comparison of javascript frameworks which covers dojo ext javascript jquery midori mochikit mootools prototype script.aculo.us qooxdoo yui and sweetdev ria
+
+98291
+ruby-on-rails	django
+it just happens that the hottest ones are django and ruby on ruby-on-rails
+
+98331
+command-line	cmd
+you can do it for terminal.app by issuing the following cmd at the cmd-line
+
+98363
+windows-xp	windows
+is there a way to emulate the unix cut command on windows-xp without resorting to cygwin or other non-standard windows capabilities
+
+98366
+one-to-many	entity
+for example last i looked hibernate has issues with an entity having multiple one-to-many eager relationships
+
+98405
+rhino-mocks	moq
+there s a good comparison between moq and rhino-mocks here at phil haack s blog that i ve found useful and might be useful to you
+
+98409
+moss	wss
+if you don t have moss but wss mr
+
+98430
+haskell	erlang
+so if the team want to choose erlang or haskell then management has the responsibility to the company to say no
+
+98430
+haskell	erlang
+sorry to pick on erlang and haskell devs but there aren t that many of you about
+
+98445
+perl	ruby
+yaml used in ruby on rails for database configuration and has gained in popularity in other languages python java perl and others
+
+98448
+environment	building
+in an environment like linux with a good package manager and periodic and or random updates never expect the same source code to building the same program on the same computer either
+
+98475
+postback	ajax
+selenium will test your overall site with the output from the server its postback ajax calls all of that
+
+98476
+midp	cldc
+i ve made sure to build it using the correct cldc and midp versioning
+
+98477
+environment	execution
+supported kernel execution environment for tasks and did not support
+
+98477
+environment	execution
+processes which is the traditional application execution environment
+
+98500
+32-bit	x86
+the chuck api reference uses the c int type so the maximum value would depend on your local machine 2 31-1 around two billion on standard 32-bit x86
+
+98501
+contains	any
+this contains any build settings scripting and tools that this specific developer chooses to store in the source control system they can do whatever they want here
+
+98533
+identity-column	sql-server
+in sql-server you can just have an identity-column that starts at 100000000
+
+98536
+having	select
+select is o n sort is o nlogn grouping by is o n having is o n -- worse case
+
+98544
+configuration	environment
+generally this is a good thing because it means that any errors in the configuration or in the surrounding environment will be discovered immediately as opposed to possibly hours or even days down the line
+
+98547
+keyboard	mouse
+it s great for allowing you to keep your hands on the keyboard and away from the mouse
+
+98561
+git-clone	git-svn
+i d say the better way to do this would be instead of requiring that your coworkers do a git-clone just give them a a tarball of your existing git-svn checkout
+
+98576
+hardware	monitor
+however making such a program that would work across all systems and monitor would likely be much more work than simply going to each station and recording it unless all the systems have the same hardware
+
+98586
+perl	tcl
+our current best is derived from the best of perl + tcl s atof implementation and outperforms msvcrt.dll s atof by an order of magnitude
+
+98586
+perl	tcl
+the bcd related x86 instructions seemed promising but i couldn t get it to outperform the perl tcl c code
+
+98606
+keyboard	mouse
+i m always up for leaving my hands on the keyboard and away from the mouse
+
+98640
+web-services	api
+maps web-services - geocoding api
+
+98644
+revision	svn
+that is to say you have to track the correct start revision somehow unless you have svn 1.5 merge history
+
+98653
+tetris	pong
+i ve been quite used to working on small projects which i coded with 1 000 lines or less pong tetris simple 3d games etc
+
+98669
+versioning	upgrade
+however when i upgrade to prototype 1.6.0.2 the latest versioning from prototypejs.org everything breaks
+
+98707
+decrement	increment
+for jumping just pick a significant negative vertical velocity apply that to the character at the instant they jump and decrement it by your per-frame gravity increment
+
+98710
+solid-principles	principles
+principles of object oriented class-design the solid-principles
+
+98751
+scheme	lisp
+i would never want to program in scheme or lisp again if i didn t have to but i am glad that i at least did a little in them just to learn the different way to program
+
+98761
+physics-engine	bullet
+for more resources you can go to sourceforge and search for the bullet dynamics engine which is an open source collision-detection and physics-engine or you could check out which has plenty of resources on copious game development topics
+
+98813
+methods	extend
+one way to handle this might be to extend the xmlhttprequest object with an explicit timeout methods then use that to determine if you re working in offline mode that is for browsers that don t support navigator.online
+
+98843
+repository	entity
+this is the spreadsheet conundrum do you write repository.store entity or entity.storein repository
+
+98861
+void	main
+in my intro course we are taught java and i see lots of my friends struggling with public static void main even though that s not the point of the program and how the profs have no choice but to handwave it until they re more advanced
+
+98869
+put	get
+for example if you need to put some chars in a 2gb file you can use split -b bytecount put the ouptut in to a file append the new text to it and get the rest of the content and add to it
+
+98881
+base-class	inherited
+a c# class can only inherited from one base-class but can implement n amount of interfaces
+
+98915
+javascript	dom
+it is based on the mozilla engine so scripts are written with javascript and you have complete access to the dom on the server-side
+
+98915
+ruby	php
+it also can be used to process documents that are generated in another language php ruby which i imagine is not practical except to help in transitioning existing applications to use jaxer
+
+98915
+ruby	php
+technology php pearl ruby etc.
+
+98918
+design-principles	ocp
+as mentioned above some of the fundamental object oriented design-principles are ocp lsp dip and isp
+
+98934
+unsigned	integer
+for standard notation convert the aaa.bbb.ccc.ddd netmask into an unsigned 4 byte integer many networking libraries have this function and subtract that from 2 32 - 2
+
+98938
+getter	setter
+it seems that many people understand information hiding in principle but then also think that getter and setter for everything properties for everything is an example of it
+
+98938
+getter	setter
+the incendiary article by allen holub called why getter and setter are evil can be an eye-opener on the topic
+
+98938
+getter	setter
+in short private-members with direct getter and setter are little more than dressed-up public members
+
+98938
+getter	setter
+it is true that getter and setter are needed at layer boundaries user-interface persistence etc but their visibility should be restricted to those classes that have a legitimate need to call them
+
+98946
+value	field
+if you put all the variables in a class you can use reflection to iterate over its field getting their names and value and plugging them into a string
+
+98952
+put	get
+i haven t used this code for a put so i m not exactly sure if it s right for you but it might get you close
+
+98991
+parentheses	braces
+ctrl + for matching braces and parentheses
+
+99007
+javascript	dom
+if your 3rd party does some javascript that attempts to modify their dom a bit too early.
+
+99014
+getter	setter
+if everything is done with getter and setter and no other behavior you re writing procedural code
+
+99014
+getter	setter
+there are plenty of patterns to deal with this problem and they don t involve reducing everything to bags of getter and setter
+
+99056
+webforms	asp.net
+asp.net webforms + asp.net ajax
+
+99056
+webforms	asp.net
+are there any limitations that asp.net webforms asp.net ajax has vis-a-vis mvc
+
+99060
+any	set
+akin to not providing any client user-interface to set the price on an item being placed in a shopping-cart but posting a a bogus price on the url
+
+99065
+webforms	asp.net
+i love webforms but asp.net ajax is a pile of crap
+
+99065
+callback	methods
+asp.net ajax is a pile of crap because a callback requires the entire page class to be reinstantiated you aren t calling a single methods you are rebuilding the entire page on the server everytime
+
+99066
+ethernet	packets
+as your packets size decreases the overhead for spacing synchronized ethernet headers ip headers and udp headers increases in relation to the payload and therefore degrades your maximum throughput even more
+
+99071
+asp.net-mvc	webforms
+i can t say anything against asp.net-mvc because i haven t had a chance to use it but i want to make sure you know you are not limited to just ajax.net if you chose webforms
+
+99081
+nagios	munin
+both nagios and munin seem to have plugins support for xen data collection
+
+99086
+getter	setter
+this is why getter and setter are common .
+
+99086
+getter	setter
+i think you re usually better off maintaining state in private variables and providing getter and setter as a public interface to them when outside objects need to access them mostly because you ll always have the option to provide some kind of validation or transformation if it becomes necessary down the line without breaking your interface
+
+99113
+sql-server	oracle
+i would recommend you download a copy of reflector and compare the codebases for the sql-server and oracle providers they shouldn t be that complicated.
+
+99121
+scheme	lisp
+languages like lisp and the very closely related scheme are to programming what latin is to english
+
+99124
+player	movie
+flex is basically a language that compiles down to a flash movie or applet that will run in the adobe flash player plugins
+
+99127
+google-chrome	firefox
+other than that i would suggest running your tests in firefox using google-chrome as it produces much more reliable results but sometimes it is simply not possible due to business requirements
+
+99168
+perl	ruby
+while this is not considered to be a huge drawback by some those people are using python ruby or perl and not java
+
+99194
+while-loop	loops
+the while-loop is appropriate for polling or where the number of loops to meet exit condition will change based on activity inside the loop
+
+99221
+powerpc	arm
+personally i think x86 x64 popular in pcs directly applicable if you write c++ or c# on pc powerpc gaining popularity used in game consoles and also exposes you to risc or arm used in a lot of embedded devices such as mobile-phones might be better choices to learn
+
+99228
+for-loop	loops
+i agree that the for-loop should be used whenever possible but sometimes there s more complex logic that controls the iterator in the body of loops
+
+99239
+scheme	lisp
+though it s not blazingly fast like a compiled language nor is it particularly useful at serving websites or parsing text i ve found that scheme and other lisp by extension has no parallel when it comes to simplicity elegance and powerful functional manipulation of complex data-structures
+
+99241
+javascript	dom
+this is a third party page so i can t really include any custom javascript to do so...unless i can modify the dom somehow
+
+99247
+postback	ajax
+i really dislike the implementation of the asp.net ajax controls i ve run into a lot of issues with timing events and debugging postback issues
+
+99254
+webforms	asp.net
+imo asp.net mvc is much more dry than webforms
+
+99254
+asp.net-mvc	webforms
+i have recently made the move from webforms to asp.net-mvc and i hope i never have to go back
+
+99260
+shipping	tax
+it may require things like sales tax shipping costs customer discounts
+
+99282
+append	input
+by default cpp takes the name of the main input file deletes any directory components and any file suffix such as .c and append the platform s usual object suffix
+
+99304
+.net	wcf
+.net 3.5 may be used in a lot of hosted web apps but it is just starting to show up in distributed apps and with it wcf wpf etc
+
+99331
+ruby	php
+the janrain libraries are good for php python and ruby
+
+99337
+getter	setter
+this is somewhat more nuanced than simply not exposing internal data - merely placing accessor methods or property getter setter between internal data and the cold outside world is no more information hiding than launching into a conversation about this friend of mine and his herpes problem.
+
+99341
+abstract-class	base-class
+note that an abstract-class can define an implementation for a pure virtual function but that function can only be called with a qualified-id syntax ie. fully specifying the class in the methods name similar to calling a base-class methods from a derived class
+
+99341
+derived-class	base-class
+however there is an additional spaces overhead for the class associated with defining another vtable for the derived-class vs the base-class
+
+99386
+push	pull
+if you have control over the content or can gain control through mirroring or scraping you should consider using ajax or server-side include to pull external data onto and push it off of the page - it ll end up being more flexible more robust and easier to manage in the end
+
+99395
+directory	folder
+how to check if a folder directory exists in cocoa using objective-c
+
+99456
+javadoc	doxygen
+javadoc or doxygen is more suitable if you want distributable code documentation
+
+99462
+javadoc	doxygen
+generally speaking if you use a language that has good documentation generation tools javadoc doxygen ms s c# stuff you should write your documentation above your methods and have your tools generate the pages
+
+99468
+populate	row
+given that i need to retrieve the last row to get the number of rows and populate the end buffering is there a better way of doing it
+
+99485
+printf	strtok
+this library contains your printf your malloc your strtok etcetera
+
+99488
+widget	button
+ideally this would also include a solution solution that allows me to tint the widget s existing colors and identify the average colors of any images in use by the theme so that i can programmatically compensate for any color choices which might make text unreadable or otherwise clashing - but i would be happy if i could just turn a button red
+
+99507
+abstract-class	base-class
+note that an abstract-class can define an implementation for a pure virtual function but that function can only be called with a qualified-id syntax ie. fully specifying the class in the methods name similar to calling a base-class methods from a derived class
+
+99508
+bazaar	git
+it integrate with your source countrol system including git subversion mercurial bazaar tla and monotone so all your docs track with your project
+
+99520
+contains	any
+the basic problem here as i see it is that an interop assembly doesn t actually contains any il that can be instrumented except for maybe a few delegates
+
+99520
+put	get
+so although i can put together a test project that exercises the interop layer i can t get a sense for how many of those methods and properties i m actually calling
+
+99522
+function-pointers	virtual-functions
+if there are then there is a performance impact in calling the virtual-functions as these are called via function-pointers or other indirect methods depends on the situation
+
+99528
+webserver	upload
+i am looking to use a php library for upload pictures to a webserver so that i can use something that has been tested and hopefully not have to design one myself
+
+99540
+derived-class	inherited
+deep inherited hierarchies greatly increases the maintenance burden by adding unnecessary complexity forcing users to learn the interfaces of many classes even when all they want to do is use a specific derived-class
+
+99549
+selectedindex	selecteditem
+instead of trying to bind the selectedindex why don t you just bind the selecteditem in the combobox to the value in the record
+
+99553
+ruby	php
+ruby encoder - may be the best option as their php encoder looks alright i haven t tried it however but it s not available yet
+
+99565
+stateless	stateful
+connection pools are simply a bridge between the post-web era of stateless applications http-protocols and the pre-web era of stateful long-lived batch processing applications
+
+99568
+put	get
+now for a rectangle vertex put the x value in the line equation get the y value and see if the y value lies in the rectangle bounds shown below
+
+99575
+constructor	object
+since you can t make a virtual function call from a constructor or destructor the derived class object hasn t been constructed or has already been destroyed it calls the base class version which in the case of a pure virtual function doesn t exist
+
+99578
+postback	ajax
+using ajax where necessary will improve performance especially if the alternative is a complete full-page round-trip to the server a postback in asp.net terminology
+
+99579
+dictionary	arrays
+i ran a quick test loading in half of usr share dictionary words to an arrays 25000 words then looking for eleven words selected from across the whole dictionaryionary every 5000th word in the arrays using both the arrays-to-hash method and the any function from list moreutils
+
+99591
+instances	destroy
+usually when you call a virtual function through a dangling pointer--most likely the instances has already been destroy
+
+99591
+instances	destroy
+but usually it s just that the instances has already been destroy
+
+99605
+msbuild	nant
+nant for builds but msbuild rake almost anything would be fine and cruisecontrol.net for deployment
+
+99608
+webforms	asp.net
+webforms with asp.net ajax is heaven
+
+99608
+asp.net-mvc	webforms
+using webforms instead of asp.net-mvc will give you the ability to utilize the lifecycle to develop very good and re-usable controls
+
+99616
+directory	folder
+with weborb you can simply deploy your dlls into the bin folder of the virtual directory and it will take care of enabling your classes as flex remoting services
+
+99627
+autotools	gnu
+the gnu autotools definitely
+
+99628
+select	union
+can you not define a view on the db server that does the union query for you so from the client code it just looks like a single select
+
+99628
+select	union
+if you can t can you just issue the union operation as part of your select
+
+99633
+virtual-functions	member-functions
+see lippman s inside the c++ object model chapter 4.2 - virtual member-functions virtual-functions under mi
+
+99659
+click	mouse
+the action of click is broken into its two parts mouse down and mouse up
+
+99683
+exception-handling	error-handling
+my question is what do most developers prefer for error-handling exception-handling or error return codes
+
+99684
+environment	execution
+the most basic task in an object oriented environment is execution a methods on an object
+
+99684
+constructor	object
+is the proper way to establish this reference to pass the object as a parameter to the constructor or initializer method of the calling object
+
+99693
+default	reset
+i think by normal behavior you mean the default for my favorite browser. your building up css rules for these elements is a part of the reset exercise
+
+99702
+double	int
+say you want two hashtables one that maps objects of type string to type int and one that maps objects of type string to type double
+
+99702
+type-safety	generics
+without generics you d have to use the object type which in addition to having to be cast to be meaningful gives up type-safety
+
+99723
+python	c++
+my preference in c++ and python is to use exceptions
+
+99724
+put	get
+if you are developing a site that accepts passwords don t put a silly password limit unless you want to get tarred with the same brush
+
+99729
+getter	setter
+i could have getter and setter for the x and y coordinates or i could just make them both public and allow free read write access to the data
+
+99734
+value	field
+at some point in the future someone is going to inherit from your class because maybe an extra action needs to be taken when the value of a field changes so there has to be a setter
+
+99742
+exception-handling	error-handling
+i prefer to use exception-handling for error-handling and return values or parameters as the normal result of a function
+
+99745
+getter	setter
+working with dependency-injection a lot you often have setter but no getter as clients should be able to configure the object but others not get to know what s acutally configured as this is an implementation detail
+
+99751
+getter	setter
+public getter and setter is pretty much equivalent to public fields.
+
+99756
+internationalization	localization
+use errorcodes when you need localization internationalization -- in .net you could use these errorcodes to reference a resource file which will then display the error in the appropriate language
+
+99766
+textbox	button
+if you go to the tools customise menu option and press the keyboard button it gives you a list of commands you can search to see if a shortcut is available or you can select the press shortcut keys textbox and test shortcut keys you want to assign to see if they conflict
+
+99769
+shell	bash
+the default shell in solaris has command history but you can also use bash instead it s more user friendly
+
+99769
+shell	bash
+you can also edit etc passwd to make bash your default shell
+
+99771
+exception-handling	error-handling
+exception-handling allows more easilly to separate error-handling of normal behaviour
+
+99785
+perl	ruby
+for instance perl has cpan php has pear ruby has rubygems and so on
+
+99789
+spring	guice
+dependency injection frameworks like spring and guice provide a solution to cyclical dependencies in java by using proxies which can resolve the receiver of a message the first time it is required
+
+99793
+32-bit	64bit
+my first thought was that it would just run as a 32-bit app without making use of the 64bit power
+
+99796
+quadtree	octree
+i have also briefly perused material relating to quadtree and octree
+
+99802
+contains	any
+the idea is to parsing the output of phpinfo and write any setup values it contains into a local php.ini
+
+99817
+quadtree	octree
+i don t have much experience with bsps but i can say that you should go with octree over quadtree when you the scene you re rendering is tall
+
+99817
+quadtree	octree
+generally octree won t bring a huge cost over quadtree and they have the potential to speed things up a decent bit
+
+99848
+google-chrome	firefox
+but it works in firefox safari and google-chrome
+
+99897
+export	csv
+i have been given a set of cobol dat idx and key files and i need to read the data in them and export it into access xls csv etc
+
+99908
+mac-address	ethernet
+maybe cheating a little but the mac-address of a machines ethernet adapter rarely changes without the motherboard changing these days
+
+99926
+quadtree	octree
+two dimensions means a quadtree four an octree
+
+99926
+quadtree	octree
+as stated as quadtree can work in three-space but if you want each dimension given a proper treatment an octree is the way to go
+
+99929
+keyword	term
+the term itself is stolen from software languages -- for example c has the auto keyword for declaring variabless as being allocated on the stack when the scope it s in is executed and deallocated afterwards so that multiple invocations of the same scope do not see persistent value of that variables
+
+99948
+difference	zero
+draw the two images to the screen full screen quad with two textures set up with a fragment shader that computes abs texel1-texel2 and kills the pixel discard in glsl if the pixels are the same difference is zero or below some threshold
+
+99954
+bison	yacc
+lex flex and yacc bison provide easy-to-use well-understood lexer- and parser-generators and i d really recommend doing something like that as opposed to doing it procedurally in perl
+
+99954
+parentheses	keyword
+imagine dealing with all possible interleavings of keyword identifiers operators extraneous parentheses extraneous semicolons and comments that are allowed in something like verilog ams with regular expressions and procedural code alone
+
+99954
+verilog	vhdl
+also if you re lazy check out the eclipse plugins that do syntax-highlighting and basic refactoring for verilog and vhdl
+
+99965
+selenium-ide	selenium
+if you are using selenium-ide to generates code then you just get a list of every action that selenium will executes
+
+99980
+message-queue	messaging
+nservicebus and masstransit are two tools that can be used to implement messaging with msmq and other message-queue
+
+99999
+binary	hex
+the methods you are allowed to use might be restricted by the author - no patching no disassembling - or involve anything you can do with a binary objdump and a hex editor
+

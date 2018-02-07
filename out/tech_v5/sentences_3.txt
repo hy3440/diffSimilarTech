@@ -1,0 +1,925 @@
+120052
+version-control	git
+pattern4	
+from my own experience with it i wouldn t recommend git as an introduction to version-control
+
+120140
+checkstyle	ant	eclipse-plugin	ant
+pattern10	
+on the other hand i think .so many people use the same tools eclipse and often it is much better to have .some things standardised at design-time instead of building time - for example checkstyle is far more useful as an eclipse-plugin than as an ant or maven task - that it is better to standardise on the set of development tools and a common set of plugins
+
+121731
+python	ruby	erlang	python
+pattern10	
+i know of reia - a language that is based on erlang but looks more like python ruby
+
+122033
+python	ruby
+pattern0	pattern0	
+i wasn t trying to imply that linq is better than ruby python
+
+122571
+jndi	jdbc
+pattern5	
+edit sorry i should ve specified jndi to lookup the db connection and jdbc to perform the operations
+
+123030
+abstract-class	subclassing
+pattern5	
+i m more likely to building an abstract-class if i think there should be a creational contract specifically that a specific types of constructor should always be supported by subclassing
+
+123076
+metaphone	soundex
+pattern0	
+edit double metaphone was specifically designed to be better than soundex and work in languages other than english
+
+123307
+elementtree	lxml
+pattern5	
+as i understand it elementtree code can easily be ported to lxml
+
+124248
+aes	rsa
+pattern0	
+algorithms like rsa are much less user-friendly than aes
+
+124248
+aes	rsa
+pattern10	
+that is actually not the case with rsa which is --- more .so than aes --- just a math equation
+
+124248
+aes	rsa
+pattern7	pattern0	
+block crypto algorithms like aes do suffer from this problem too but without a pki aes is no less safe than rsa
+
+124612
+python	perl
+pattern7	pattern0	
+perl is generally better than python for quick one liners especially involve text regular expression
+
+124822
+sequences	unique
+pattern10	
+create sequences which is more or less the equivalent of an orrible function that generator unique numberss .when selected from as opposed to serial which generator the unique numbers .when the row is insert
+
+125172
+exception-handling	try-catch
+pattern5	
+the real kicker is that often this manifestation of ie6 s invalid arguments exception-handling cannot be protected by try-catch
+
+126199
+sql-server	oracle
+pattern7	pattern10	
+oracle people will tell you oracle is better sql-server peopele will tell you sql-server is better
+
+126267
+sql-server	oracle
+pattern7	
+imho oracle has better vldb support than sql-server for the following reasons
+
+126267
+sql-server	oracle
+pattern7	
+oracle has better table partition facilities than sql-server
+
+126267
+sql-server	oracle
+pattern0	
+oracle can be run on somewhat larger hardware than sql-server although one can run sql-server on some quite respectably large systemd
+
+127922
+mbunit	nunit
+pattern7	
+mbunit has compatible syntax with nunit but has more features especially data driven tests
+
+128055
+quicksort	shellsort
+pattern0	
+if you use shellsort no extra memory is needed at all though shellsort will be much slower than quicksort
+
+128221
+g++	gcc
+pattern0	
+unfortunately g++ packed the struct significantly looser than gcc which caused significant problems sharing object between c and c++ code
+
+128259
+tuples	set
+pattern7	
+second if the set types is the better answer how do i key it to look at just the first elements of the tuples instead of the whole thing
+
+128488
+getter	setter
+pattern5	
+validation can be placed in setter and getter for that matter
+
+128958
+ghostscript	magick.net
+pattern5	
+if that works your imagick and ghostscript installation are basically ok and something needs to be done in magick.net or your .app
+
+130230
+telnet	ssh
+pattern10	
+ssh encrypts all communication does everything telnet does and more
+
+131278
+remote-debugging	debugging
+pattern5	
+you can throw it away once you re done debugging and you never need to upload it to the server unless you re planning to do remote-debugging
+
+131931
+constructor	private
+pattern5	
+you need to mark methods you want to mock virtual and the class needs a constructor with no arguments this can be protected private won t work
+
+131954
+32-bit	16-bit
+pattern0	
+16-bit arithmetic was faster than 32-bit arithmetic though the cpu could handle a logical memory spaces of up to 4 gib
+
+132295
+glassfish	weblogic
+pattern5	
+my question is how this can be done in weblogic webspehre glassfish etc.
+
+132757
+python	perl
+pattern4	pattern2	
+what are your own reasons to prefer python over perl
+
+132829
+exception-handling	try-catch
+pattern5	
+i m from the school of thought where try-catch blocks should be used and exception-handling not rethrown
+
+132841
+solaris	bsd
+pattern4	
+personally i prefer solaris or a bsd for stability
+
+133247
+python	perl
+pattern7	pattern0	
+how to convince people python is better than perl
+
+133271
+inlining	inline
+pattern0	
+if a function is static thus not exported anyway and only called once within your code and you never use a pointers to the function chances are good that gcc will decide to inline it automatically as it will have no negative impact the binary won t get bigger by inlining it only once
+
+133461
+python	perl
+pattern7	
+show them how python oo is a better integrated to the language compare to perl
+
+134276
+json	xml
+pattern4	
+c# business layer - deals with taking user request submitted via http recived by an aspx page gathering the correct response based on the state of the database and returning it to the client via xml although i would recommend json
+
+134346
+hash	md5
+pattern10	
+using a non-reversible hash such as md5 is much more secure and you can store the hash value as clear text
+
+134934
+digits	zero
+pattern0	
+i want to display a leading zero for all numbers with less than 2 digits
+
+135198
+python	perl
+pattern7	
+perl has constants multi-line anonymous functions and autovivification but python has better default object orientation
+
+135543
+versioning	upgrade
+pattern0	
+the subversioning versioning on the server is older than the versioning on my notebook .so i guess my newer versioning .somehow upgrade the working directory .so they are incompatible with the old versioning on the development server
+
+135656
+python	php
+pattern3	
+the everything-is-an-object model in python is what made me oo programming really click for me - and as a former php programmer and doubly-certified zend engineer i strongly recommend exploring python oo if you want to understand what oo is all about
+
+138034
+opensolaris	linux
+pattern0	
+you also might want to consider opensolaris as it is from the same company which developed java in the first place and i ve heard rumours that it supports threading better than linux does and in java threads are quite important
+
+138306
+16-bit	8bit	32-bit	16-bit
+pattern7	pattern0	
+even in scalar code loading 8bit or 16-bit value is no slower than loading 32-bit since .movzx .movsx is no different in speed from .mov
+
+138949
+updating	updates
+pattern6	
+normalize makes updatess much faster because each updates is the smallest it can be you are updating the smallest - in terms of columns and rows - possible table
+
+139120
+codeigniter	cakephp
+pattern0	
+i suspect codeigniter doesn t have quite as flexible a structure it s smaller and lighter than cakephp but a quick look at the cakephp manual to see how behavior components helpers and the vendors folder may be helpful
+
+139478
+sorteddictionary	sortedlist
+pattern3	
+i recommend using sorteddictionary string tvalue or sortedlist string tvalue
+
+139546
+vb.net	vb6
+pattern1	
+the vb.net language is related but not compatible with vb6
+
+139633
+rollback	commit
+pattern5	
+truncated can therefore not be rollback and a failure in the truncated process will have issued a commit anyway
+
+139884
+postgresql	mysql
+pattern5	
+mysql and mssql both provide this functionality iirc .so i would be surprised if postgresql didn t
+
+140359
+bugzilla	mantis
+pattern0	
+it certainly looks nicer and has better usability than mantis or bugzilla but it s not open and it makes some tradeoffs for a simpler interface
+
+140502
+dialog	pop-up
+pattern7	
+i think it s a better idea to show a div as dialog in the middle of your website because the chance that this is pop-up blocked is smaller and it s imo less annoying
+
+140541
+derived-class	base-class
+pattern5	pattern5	
+base-class constructor get called before derived-class constructor but derived-class initializer get called before base-class initializer
+
+142100
+webforms	asp.net	asp.net-mvc	webforms
+pattern4	
+that being said i greatly prefer asp.net both asp.net-mvc and webforms myself - but i left asp development about 7 years ago
+
+142156
+any	set
+pattern4	
+just remember that if you have a warehousing strategy of dropping indexes before updating a table then recreating them you will have to set the index up for monitor again and you ll lose any monitor history for that index
+
+142240
+processor	cpu
+pattern7	
+some fancy compilers understand the un interrelatedness of instructions to a limited extent and will automatically interleave instruction flows probably over a longer windows than the cpu sees to better utilise the processor
+
+142427
+versioning	upgrade
+pattern7	
+using compatibility as the central points in the versioning numbers makes it easier for users especially if te product is a libs to judge whether or not they can expect a smoothe and safe upgrade or not
+
+142565
+contains	any
+pattern4	
+the grouping contains w which means non-word character and - .so the regex should match any non-word character or any hyphen
+
+145153
+python	ruby
+pattern7	
+i d say the python community is larger and more mature than the ruby community and that s really important for me
+
+145300
+python	ruby
+pattern8	
+e.g. common-lisp is a language that is even more dynamic than ruby or python and yet there are common-lisp compilers out there that can even give c a run for its money
+
+145348
+arrays	loops
+pattern7	
+but the most efficient general way i could find is to use a foreach loops on the arrays short-circuiting whenever a hit is found at least the implicit loops is better than the straight for
+
+145433
+buildr	maven
+pattern0	
+and even though everybody says ruby is slow buildr was 2-6x faster than maven
+
+145481
+python	ruby
+pattern4	
+unfortunately i cannot compare python to ruby since i never used that language
+
+145513
+perl	ruby
+pattern2	
+compare that with perl ruby or whatever where you have an extreme freedom which isn t that good in this case
+
+145907
+linked-list	tree
+pattern7	
+i doubt that means that binary tree are not useful but that in kernel and embedded world the linked-list probably fits better
+
+146463
+python	java
+pattern5	
+i d have to checked up on how annotations work in java though but this stuff could easily be done with python annotations.
+
+146627
+python	ruby
+pattern4	pattern2	
+i d recommend python over ruby as a windows scripting-language
+
+146627
+python	ruby
+pattern10	pattern8	
+python windows-support is much more mature than ruby s
+
+146871
+common-lisp	scheme
+pattern4	pattern2	
+i have decided that i prefer scheme over common-lisp .so that narrows it down a bit
+
+147392
+emacs	vim
+pattern0	
+emacs or vim is not significantly better than vim or emacs
+
+147392
+emacs	vim
+pattern5	pattern5	
+i have no doubt that anything you can get done in emacs you can also get done in vim just not standards
+
+148154
+instances	private
+pattern5	
+remember you can always have the static synchronous methods to be protected or private leaving it visible only to the instances of the class
+
+149028
+http	ssl
+pattern7	
+you should use tls ssl http .so that eavesdropping on the http traffic is harder to perform
+
+149122
+oracle	mysql
+pattern1	
+i m not familiar with oracle but in mysql you can use use|ignore|force_index see here for more details
+
+149164
+worksheet	excel
+pattern0	
+your webserver should use compression for this extension and your code should checked if the numbers of rows returned is greater than what excel can display in one worksheet
+
+149409
+3des	aes
+pattern10	pattern8	
+3des is more expensive than aes for example
+
+149913
+cryptography	openssl
+pattern1	
+for cryptography purposes you should use one of the standards cryptography libs out there instead such as openssl which will indeed use dev urandom .when available
+
+150078
+any	set	contains	any	contains	set
+pattern4	
+it matches any character which is not contains in the ascii character set 0-127 0x0 to 0x7f
+
+150464
+ruby-on-rails	rspec
+pattern7	
+i ve just started reading the art of ruby-on-rails which covers some more advanced topics such as meta-programming api-design and rspec
+
+151079
+google-chrome	firefox	google-chrome	opera	google-chrome	safari	firefox	opera	firefox	safari	safari	opera
+pattern5	
+this seems to be broken in firefox and ie but work in opera safari and google-chrome
+
+151399
+irrlicht	ogre	system-requirements	platform
+pattern7	pattern10	
+irrlicht has a cleaner api lower system-requirements and works better across platform than ogre in my opinion
+
+151587
+restart	exit
+pattern4	
+.when i right click the icons in the task panels by the clock and choose exit program it just restart moments later
+
+152126
+unicode-string	utf8-decode
+pattern5	
+the first paragraph is garbled since the â will not be sent using utf8-decode the second is fine because the unicode-string supplied is encode to utf-8
+
+153419
+cairngorm	flexunit
+pattern5	
+asynchronous testing cairngorm events can also be done with flexunit but is not as elegant as with dpuint
+
+154057
+subclassing	inherited
+pattern10	
+inherited is more useful .when a new subclassing wants to change the way a methods works if you just need to change the data the class uses to work probably an approach like this would do the trick
+
+155662
+radians	cos	radians	sin	cos	sin
+pattern5	
+that said javascript s sin and cos aren t quite as picky .so you must have halved your radians or .something
+
+155711
+freeglut	glut
+pattern7	
+glut hasn t been updates for awhile but you can also try freeglut which is a newer open source replacement of glut and is include by several linux distributions out of the box
+
+156304
+value	field
+pattern5	
+how do i set an attributes on a field anywhere in my assembly then reflect on those field attributess in my entire assembly and get set the field value that the attributes is attached too
+
+156684
+webserver	security
+pattern5	
+can be used for security - pass in some kind of value to identify the client - from their the webserver will either deny or grant access to the client dependant on some criterion - maybe a lookup list
+
+157151
+png	ico
+pattern5	
+furthermore setting the icons of the form from a png is an unessecary performance hit it should have been an ico in the first place
+
+157238
+lwjgl	jogl
+pattern10	pattern7	
+jogl is more java-like whereas lwjgl provides more gaming functionality on top of opengl access
+
+158997
+actionscript	mxml
+pattern5	
+that is rather than dealing with time and frame in flash one is dealing with describing where components should be placed with mxml and how those components work with actionscript
+
+159002
+actionscript	mxml
+pattern5	pattern5	
+.so yes everything that can be done with mxml can be done with actionscript but not the other way around
+
+161193
+keyboard	mouse
+pattern0	
+for example do you use keyboard more than mouse
+
+161559
+cvs	git
+pattern4	
+nowadays i prefer git over svn but it takes a while to get over the threshold if you come from cvs svn land
+
+161572
+version-control	git
+pattern7	
+for that reason git gives individuals better local version-control
+
+162793
+firefox	gecko
+pattern5	
+the last versioning is based on gecko 1.7.12 and i believe gecko is currently up to 1.9.x used in firefox 3
+
+162991
+swing	swt
+pattern5	
+once created those widget will be integrated with swt swing or qt-jambi framework
+
+162991
+swing	swt
+pattern4	
+i will probably choose swt swing or qt-jambi for the user-interface controls but i am wondering what to do with the graphical part of the simulation
+
+163765
+llvm	gcc
+pattern4	
+if i wanted to publishing the results as a doctoral thesis i would make a bigger deal about this and i would probably compare gcc tendra ten15 llvm watcom borland visual-c++ digital mars icc and other compilers
+
+164073
+innodb	myisam
+pattern1	
+i know with myisam tables you can get the table def updates time but thats not .so true with innodb and i ve found its not even reliable to look at the .frm file for an idea of .when the definition might have been modified..
+
+164652
+exception-handling	error-handling
+pattern7	
+i m guessing your consultant is suggesting use a status variables instead of exception-handling for error-handling is a better practice
+
+165747
+handler	service
+pattern0	
+would this be better implements as web service handler
+
+166196
+aes	des
+pattern10	
+i know you said you don t care about how secure it is but if you chose des you might as well take aes it is the more up-to-date encryption methods
+
+166754
+gentoo	linux
+pattern5	
+i install mono on a gentoo server a couple of weeks ago just to find out that it can t run precompile asp.net sites you be warned linux ain t made for .net
+
+166865
+basic	vb6
+pattern6	
+despite the title hardcore visual basic is the best and the fastest way to learn vb6 if you are coming from another programming language
+
+166949
+static-class	inherited
+pattern5	
+in your question you are using static-class methods b.foo d.foo this cannot be accomplished using inherited because the static-methods do not have a dynamic nature they do not take part in the lookup systemd
+
+167871
+carbon	cocoa
+pattern5	
+the next release of eclipse should be based on cocoa rather than carbon which is the current but that won t be until next june
+
+167905
+scriptaculous	sortable
+pattern0	
+mootools sortable are actually better than scriptaculous because they are dynamic
+
+167922
+keyboard	mouse
+pattern4	
+the .net effect of this was that it was very difficult to get two machines to boot up and work on the kvm switching and the switching would lose keyboard or mouse input on one or both machines every few days
+
+169094
+prototyping	waterfall
+pattern6	
+i ve always held onto the belief that a classic waterfall or hybrid waterfall imperative prototyping is the best approach for medium to large project
+
+169234
+solaris	linux	solaris	bsd	solaris	unix	linux	bsd	linux	unix	unix	bsd
+pattern5	
+mono can be run on linux bsd unix mac os x solaris and windows operating systemd
+
+169677
+javascript	dom
+pattern6	
+that said one of the most important problems programmers not-so-competent with javascript make is that most pieces of code accessing dom elements tend to create memory-leaks which is the highway case for most web developers
+
+170479
+value	field
+pattern7	
+the problem is you can t really tell the user how many characters are allowed in the field because the escaped value obviously has more characters than the unescaped one
+
+170669
+linux	unix	apache	squid
+pattern7	pattern7	
+apache itself can be configure to function this way although if you are on linux or unix squid is the better option as it is specifically designed to do this very job
+
+170948
+common-lisp	scheme
+pattern0	
+here is a solution in scheme because i know that better than common-lisp and have an interpreter for checked my work
+
+171213
+linux	unix
+pattern5	
+if it cannot be done platform-independently linux unix is a priority for me
+
+171436
+response	timeout
+pattern7	
+as for the read timeout that is trickier you need it to be low .so you don t exhaust your pool of worker who are waiting for the remote service to return but you al.so don t want it .so low that it closes the connection before reading a response
+
+171876
+rollback	commit
+pattern5	
+it is my understanding that .when the crash nodes comes back its transactional will have been rollback since it never got the commit messages
+
+172107
+common-lisp	lisp
+pattern6	
+this is a video of a talk given by peter seibel the author of practical common-lisp which is the best lisp textbook there is
+
+172177
+lighttpd	apache
+pattern10	pattern10	
+the benefit of both apache is more powerful and extensible useless if you don t need that power but anyway... and lighttpd is faster at static-content
+
+172363
+any	set
+pattern4	
+you can match any numbers of nested parens through brute force but you can t ever match an arbitrarily long set of nested brackets
+
+172432
+scala	java	kotlin	scala
+pattern5	
+edit thereâ s a free community edition which is a superb way to get started with java scala or kotlin
+
+172718
+postgresql	firebird	postgresql	mysql	firebird	mysql
+pattern4	
+i still use mysql for web sites but for in-house project i rather choose firebird or postgresql
+
+172727
+sql-server	mysql
+pattern4	pattern4	
+the microsoft stack does favor sql-server .when no other specifications is given and lamp favors mysql but i don t see it as being that strong of a bond
+
+173548
+accurev	svn	clearcase-ucm	accurev
+pattern4	
+we evaluated it alongside with plastic scm svn and clearcase-ucm that we already owned and used and decided to dump clearcase and svn both were used in two different grouping and to purchase accurev
+
+174577
+code-coverage	ncover	code-coverage	gallio	gallio	ncover
+pattern4	
+i would highly recommend gallio formally mbunit for unit-testing and unfortunately not free ncover for code-coverage
+
+174920
+frame	width
+pattern7	
+are you sure the frame fits completely within the screens and contentsize s width is not greater than the scroll view s width
+
+176144
+safari	opera
+pattern6	
+second safari has the greatest standards support combined with a marketshare which isn t negligible opera is just hard to justify for cost benefit reasons
+
+176144
+firefox	safari
+pattern7	
+third in my experience going from safari to firefox is usually less problematic than the other way around
+
+176644
+google-chrome	firefox
+pattern5	
+my understanding is that this was an ie-only properties that the other browsers picked up and isn t currently in any standards .so i d be surprised if firefox and google-chrome support it but ie stopped
+
+177532
+verilog	vhdl
+pattern4	
+do you prefer vhdl or verilog and why
+
+177565
+verilog	vhdl
+pattern10	
+vhdl is more popular in europe and verilog is dominating in the us
+
+178555
+verilog	hdl	verilog	vhdl	vhdl	hdl
+pattern4	
+once you re ready to choose an hdl i heartily recommend verilog having learned vhdl first
+
+178555
+verilog	vhdl
+pattern8	
+yes vhdl was once much more feature-rich than verilog but later revision of the language verilog 2001 verilog 2005 systemverilog etc.. have cherry-pick most of the interesting features and there is far more robust toolchain support for verilog and its variant these days in addition to it being the dominant language in use in the us in my experience vhdl is only used here .when dealing with extreme legacy blocks and in academic contexts partially due to the tools support mentioned previously
+
+179520
+google-chrome	safari
+pattern7	
+google-chrome al.so uses an earlier versioning of webkit than the current safari .so pages should be checked in both browsers
+
+179699
+google-chrome	safari
+pattern1	
+this would be a similar question to does google-chrome rendering the same as konqueror and altho the webkit html renderinging versioning may be different the javascript engines are very different between google-chrome safari and konqueror
+
+180099
+json	xml
+pattern7	pattern0	
+json is smaller and simpler than xml
+
+180112
+json	xml
+pattern8	
+xml has a bit more overhead than json because of the angle brackets and extra information and what not
+
+180112
+json	xml
+pattern0	
+any good parsing should be able to parsing json faster than xml for this reason
+
+180358
+delphi	vb6
+pattern10	
+i like the vcl gui stuff delphi seems more suited to windows api call than vb6 i really like the fact that it s much better at oo than vb6 and i like the unit-testing framework that comes with the ide
+
+180497
+delphi	c++
+pattern4	pattern2	
+even if you don t use that garbage collecting memory manager i would still recommend delphi over c++
+
+180497
+delphi	c++
+pattern4	pattern2	
+for excel add-ins as you mentioned in your comment i would recommend delphi over c++ builder because it has better com support which i believe you need for excel add-ins
+
+180528
+python	c++
+pattern5	
+python has for example a wonderful solution with jpype that automatizes the process although the same solution cannot be applied to c++ due to c++ and python different natures
+
+181450
+coalesce	isnull
+pattern0	
+also you can make your code simpler by using isnull or coalesce to handle columns which contains nulls
+
+181920
+moss	wss
+pattern8	
+moss considerably more expensive than wss which ships as part of microsoft server licensing
+
+183657
+sql-server	oracle
+pattern10	pattern8	
+i ll state my bias upfront - oracle is far more complex than sql-server
+
+186788
+oracle-xe	oracle
+pattern4	
+if you are an honest types grab oracle-xe read the appropriate guide at the documentation libs and spend a day or 5 throw together a blog address book flickr clone etc in your favorite language against oracle
+
+186788
+sql-server	oracle
+pattern5	
+as others have suggested there is some significant difference in things you would do compared to sql-server if you just apply what you know from sql-server to oracle you ll likely kill performance
+
+186990
+configparser	configobj
+pattern7	
+i ve heard that configobj is easier to work with than configparser
+
+187601
+cygwin	gnu
+pattern4	
+if you want to use win32 ports of some unix utilities rather than installing cygwin i recommend gnu utilities for win32
+
+187939
+default-arguments	arguments
+pattern7	
+if creating constructor with arguments is bad as many would argue then making them with default-arguments is even worse
+
+188242
+postgresql	oracle	postgresql	mysql	oracle	mysql
+pattern5	
+i can understand why not all data types would be supported from mysql oracle postgresql and .so forth
+
+188415
+shell	bash
+pattern8	
+the situation where the two line have different behavior is .when your scripting is not running in bash but some simpler shell in the sh family dash which i believe is used as bin sh in some linux distros because it is more lightweight than bash
+
+188871
+contains	any
+pattern5	
+it generator random words sequences using determinated rules you choose the site contains very funny things but in italian only the ruless can be written in any language.
+
+189058
+sql-server	ms-access
+pattern10	
+an in-process db like sql-server compact or ms-access is much more appropriate
+
+189987
+sql-server	mysql
+pattern4	
+sure you might have some customers that might prefer mysql to sql-server
+
+190913
+abstract-class	subclassing
+pattern0	
+making abstract-class before i had more than one subclassing in mind for them
+
+191318
+.when	ready
+pattern10	
+in some cases that s exactly what you want in others you might find that listening for .when the dom is ready is more appropriate - this event is similar to onload but fires without waiting for images etc
+
+191744
+python	java
+pattern7	
+forget all that python just allocates more memory as needed there is not a myriad of comandline arguments for the viewmodel as in java just let it run
+
+191824
+windows-vista	windows	versioning	upgrade
+pattern2	pattern0	
+a lot of companies are ignoring windows-vista and are planning to upgrade to the next windows versioning .when it comes out in the hopes that it will suck less than windows-vista
+
+192156
+coalesce	isnull
+pattern4	
+other rdbms would prefer coalesce instead of isnull
+
+192254
+any	set
+pattern5	
+assign the properties to an initial value which can be distinguished from any other value that it might be set to null for reference-type
+
+192409
+textbox	button
+pattern0	
+if you don t support this in the base-class you ll run into major problems .when you try to implements anything more complex than a textbox and a button
+
+192806
+any	set
+pattern5	
+if you want a keyboard shortcut to be used from any control on the form without using a toolbar set
+
+193887
+perl	ruby
+pattern10	
+i think the biggest difference is that ruby is much more similar to perl in terms of useage
+
+194197
+elementtree	lxml
+pattern4	
+i actually prefer lxml as it has api like elementtree but has also nice additional features and performs well
+
+194437
+while-loop	arrays
+pattern6	
+if you have many elements in the arrays and speed is an issue then you want to use a while-loop that iterates from highest to lowest
+
+194489
+xstream	xom
+pattern3	
+if you decide to roll your own xml-configuration i d recommend using xstream with customized serialization options or if you just need to parsing some xml take a look at xom
+
+194596
+python	java
+pattern0	
+is your own dsl and viewmodel better than java or python
+
+194633
+ubuntu	linux
+pattern5	
+virtualization or a live cd versioning of linux such as the ubuntu live cd is a fantastic way to get used to linux without having to throw out the safety blanket of windows right away
+
+195398
+postgresql	mysql
+pattern10	
+that s why it s usually said that mysql is best for webapps while postgresql is more enterprisey
+
+195398
+postgresql	mysql
+pattern4	
+at the load levels where postgresql s better locks overtake mysql s other parts of your platform could be the bottlenecks
+
+195415
+postgresql	mysql
+pattern2	
+you could then compare these with mysql and postgresql
+
+195696
+contains	any
+pattern5	
+the buffering being free by wavecompleteheader is not the one contains the pcm data the responsibility to free the pcm buffering lies with the application and there s no requirement that it be allocated in any specific way
+
+196241
+zend-debugger	xdebug
+pattern5	
+.so xdebug is known not to work with many zend tools i know zend-optimizer for certain i don t know about zend-debugger but i wouldn t be surprised if xdebug has a built-in checked for that
+
+196705
+ruby-on-rails	django	web2py	django	pylons	web2py	pylons	django
+pattern7	pattern0	pattern0	
+anyway the most important issue is that web2py is easier than django pylons php and ruby-on-rails
+
+197102
+ms-access	oracle
+pattern2	
+kexi competes with ms-access foxpro oracle forms and filemaker
+
+197210
+keyboard	mouse
+pattern4	
+this will not remove the key binding from vmware but you could set the option to grab keyboard and mouse intput on key press in the vmware preferences
+
+197760
+perl	php
+pattern1	
+i m not overly concerned with the core-language of the package unless i d need to hack on the code for the systemd itself in which case i m reasonably comfortable with php perl and .net though i could probably pickup an other language s as needed
+
+198148
+rollback	commit
+pattern7	pattern0	
+in general a commit is much faster than a rollback but in the case where you have done nothing they are effectively the same
+
+198624
+dfa	nfa
+pattern7	
+because representation of a given problem with a nfa is far easier than the equivalent dfa
+
+198780
+revision	svn
+pattern4	
+my team only ever needs to browse our svn repositories via a web browser and compare revision and for that we use websvn
+
+199290
+illegalargumentexception	nullpointerexception
+pattern0	
+decoding nullpointerexception is going to take a bit longer than illegalargumentexception filepath must be supplied or whatever
+
+199481
+checkstyle	javadoc
+pattern7	
+for example checkstyle has stronger support for checked javadoc and finding magic-numbers to named a couple
+
+199835
+emacs	vim
+pattern4	
+rather like editor do you prefer vim or emacs choice of shell is partly a question of familiarity and partly a question of preferences
+
