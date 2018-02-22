@@ -22,6 +22,8 @@ cv = {"beat", "beats", "prefer", "prefers", "recommend", "recommends",
 cin = {"than", "over", "beyond", "upon", "as", "against", "out", "behind",
        "under", "between", "after", "unlike", "with", "by", "opposite", "to"}
 
+pattern_set = {0, 8, 7, 10}
+pos_tag_set = {"JJR", "RBR", "JJ"}
 
 def add_patterns(matcher):
     matcher.add(0,
@@ -121,12 +123,23 @@ def classify(no):
                     patterns = matcher(nlp(pos_tag))
                     if patterns != []:
                         compa_sent_count += 1
-                        data_file = open(os.path.join(os.pardir, "out", "tech_v6", "sentences_1.txt"), "a")
+                        data_file = open(os.path.join(os.pardir, "out", "tech_v6", "sentences_.txt"), "a")
                         data_file.write("{}".format(current_id))
                         data_file.write("{}\n".format("\t".join(tech_pair)))
-                        for pattern in patterns:
-                            data_file.write("pattern"+str(pattern[0])+"\t")
-                        data_file.write(str("\n{}\n".format(line)))
+                        for (pattern, start, end) in patterns:
+                            data_file.write("pattern"+str(pattern)+"\t")
+                            out_list = []
+                            words = line.split()
+                            if pattern in pattern_set:
+                                for i in range(len(words)):
+                                    if tag_list[i] == "TECH":
+                                        out_list.append(words[i])
+                                    if i in range(start, end):
+                                        if tag_list[i] in pos_tag_set:
+                                            out_list.append(words[i])
+                            data_file.write(" ".join(out_list))
+                            data_file.write("\n")
+                        data_file.write(str("{}\n".format(line)))
                         data_file.close()
                 num += 1
     finally:

@@ -1,0 +1,1583 @@
+older	useful	
+fancy	easier	thread-safe	
+
+non-virutal	tricky	exact	
+smaller	
+easier	
+heavyweight	
+actual	larger	
+greater	slower	whole	faster	row-by	many	little	available	
+discoverable	semi-competent	able	true	
+easier	easier	
+general	cleaner	
+useful	better	
+syntactic	intuitive	python-centric	
+better	
+technical	major	capable	foreseeable	
+polished	heavyweight	
+automatic	net	concise	less	less	less	
+larger	
+better	certain	certain	
+complex	robust	
+restrictive	
+
+usable	down-and-dirty	
+single	higher	
+less	essential	local	likely	able	routine	simple	recursive	
+less	
+misleading	better	
+little	
+important	small	weird	cheaper	important	precalculate	
+better	good	
+
+awesome	
+better	strong	
+complicated	new	
+
+distinct	
+large-scale	flexible	slower	
+lighter	
+fair	larger	better	
+lighter	compliant	better	
+0-sized	better	null	consistent	empty	
+nesting	obscure	
+hard	exact	easier	
+easier	former	closer	previous	native	overall	good	native	big	
+cross-compatible	
+multiple	certain	better	
+specific	much	faster	
+safer	compliant	
+non-animated	painless	beneficial	better	
+much	leaner	larger	
+
+efficient	
+possible	easy	
+better	easier	
+common	least	
+elegant	
+larger	light-weight	easier	many	different	
+performant	
+odd	
+much	lighter	
+
+much	cutdown	better	
+light-weight	smaller	
+able	
+less	
+unix-like	
+quick	better	
+tri-state	intuitive	drop-down	approchable	less	inclined	
+efficient	old	
+better	first	
+better	
+net	net	net	net	wider	net	
+able	shorter	brilliant	understandable	
+single	less	greater	
+older	
+greater	
+better	
+easier	
+slower	
+comfortable	
+better	
+easier	extra	careful	
+productive	general	third	readable	
+safer	
+
+better	worse	
+relational	simple	much	similar	
+worse	non-clustered	
+peer-to-peer	net	
+useful	
+longer	
+expressive	small	little	
+easy	easier	
+
+interesting	
+
+better	
+better	likely	worse	
+much	worse	little	
+reliable	less	
+complex	
+
+painful	
+lower	
+common	general	
+harder	
+good	
+smaller	full	
+400k	larger	
+less	
+marked	whole	
+
+earlier	
+slower	
+able	less	valid	less	
+much	faster	
+easier	multiple	middle	compatible	back	
+better	
+less	bloated	
+complex	
+little	outdated	similar	better	
+corresponding	
+flexible	
+costly	complex	conventional	
+obejctive-c	best	robust	
+complicated	
+harder	harder	
+powerful	minor	customizable	specific	
+blue	lower	upper	minimal	red	
+actual	greater	
+total	annoying	
+initial	first	obvious	
+unused	circular	less	empty	
+easier	middle	
+contiguous	
+convenient	
+extra	incidental	better	
+
+familiar	
+empty	
+high-level	
+greater	lesser	current	
+
+much	faster	
+
+capable	
+much	lighter	
+
+
+right	
+fastforward	better	
+better	sorry	
+higher	
+sure	local	local	unable	unable	local	earlier	
+efficient	larger	
+particular	better	
+wrong	
+cleaner	
+simple	easier	better	
+easier	
+smaller	
+magic	
+
+current	current	
+fast	faster	
+better	
+much	faster	large	
+earlier	helpful	
+slower	certain	large	
+bigger	small	
+common	
+concise	
+faster	true	outer	inner	
+important	many	overall	smaller	wide	
+huge	likely	better	
+simpler	simple	simpler	
+faster	
+major	clock-cycle	much	faster	
+impossible	overhead	
+selective	cheaper	
+less	current	centered	
+several	much	simpler	
+appropriate	
+slower	
+
+slower	
+slower	
+better	
+cool	real	popular	good	popular	
+smaller	
+poor	common	better	
+better	many	native	open	easier	new	old	unnamed	functional	likely	
+
+open	costly	clean	
+faster	
+complete	separate	
+proper	slower	
+technical	happier	
+interesting	overall	many	4gb	better	
+
+little	possible	
+easy	easier	straightforward	
+familiar	
+slower	
+simpler	difficult	
+better	
+
+general	
+better	
+intuitive	easier	
+slower	
+particular	platform-native	
+simpler	worth	
+interchangeable	better	better	
+sufficient	slower	
+viable	better	superior	
+better	
+cleaner	
+worse	
+easier	easier	certain	previous	earlier	
+steeper	
+available	true	text-based	available	larger	available	
+many	simple	smaller	
+less	
+similar	slow	faster	trickier	long	
+net	verbose	
+much	faster	broken	better	vocal	
+greater	smaller	
+less	overhead	rapid	control	overhead	
+confident	single	several	fewer	individual	
+prevalent	
+easier	gmail-type	
+all.for	expensive	
+bigger	
+better	
+slower	
+slower	highest	
+better	animated	
+good	better	superior	
+elegant	
+greater	
+good	particular	much	faster	
+higher	
+common	greater	
+longer	
+efficient	
+obvious	
+less	
+better	occasional	frequent	better	
+better	
+better	
+
+general	
+slow	slower	
+slower	
+lightweight	
+total	wider	horizontal	
+general	conversational	
+local	
+better	plain	
+greater	
+c#	better	
+faster	
+similar	less	
+better	better	best	current	
+
+substantial	efficient	
+safer	
+personal	useful	
+balanced	much	faster	
+relative	
+specific	
+
+slower	slower	
+slower	
+last	
+fewer	
+fullest	
+helpful	tough	
+initial	worse	
+harder	
+everyday	
+flash-to-bang	designer-friendly	
+better	
+third	much	complex	
+slower	
+less	steep	
+
+backend	faster	higher-level	likely	slower	
+difficult	costly	
+much	lighter	able	
+due	
+
+good	bindable	useful	simpler	
+simple	many	
+obvious	useful	
+
+single	
+powerful	net	
+smaller	
+clear	visual	powerful	better	database-aware	
+
+faster	
+inner	larger	
+fewer	able	
+
+
+bigger	major	
+complex	
+efficient	
+easier	extra	
+slower	separate	slower	
+open	
+total	net	higher	
+greater	
+greater	
+easier	
+first	
+advanced	
+
+little	easier	cool	worth	
+better	front-end	back-end	actual	
+easier	
+different	frustrated	
+
+earlier	
+likely	less	
+
+mysqlhotcopy	better	
+better	
+surrogate	primary	auto_increment	better	fewer	primary	
+earlier	jquery-applied	unknown	quick	
+separate	expensive	
+single	
+easier	
+easier	
+akin	traditional	
+smaller	better	human	
+ireadwrite	ireadwrite	ireadonly	
+powerful	
+worse	better	
+complete	solid	complex	simple	
+entire	happy.but	heavy	
+full	express	inbuilt	better	
+better	
+smaller	easer	good	low	
+much	simpler	
+faster	
+trickier	straightforward	
+larger	faster	
+
+much	wider	
+lightweight	
+net	
+net	
+
+less	
+heavier	
+ack-grep	ack-grep	nicer	
+slower	
+different	personal	less	random	
+performant	unusable	
+appropriate	
+
+lightweight	
+easier	
+
+better	better	mature	many	many	
+
+
+
+least	greater	
+better	
+better	
+slower	slower	modern	
+slower	mercurial	
+longer	current	null	
+rich	
+
+wider	
+customizable	
+fewer	experienced	big	
+useful	
+
+common	easier	
+split-height-threshold	larger	
+inherent	original	
+available	fancy	special	easier	direct	available	
+worse	least	
+regular	quicker	
+faster	
+
+non-web	
+al.so	clearer	better	old	
+general	
+better	
+
+possible	top	bigger	
+better	
+complex	
+easier	efficient	whipping	quick	faster	one-off	
+refresh	unresponsive	ample	able	acceptable	
+meaningful	
+simple	readable	
+lower	less	
+net	slower	best	able	better	
+larger	
+
+easier	
+less	general	many	
+pure	easier	
+
+displaced	obvious	
+funny	faster	
+full	
+sensitive	
+full	limited	much	
+dangerous	
+cheaper	familiar	better	capable	robust	
+easier	
+less	
+important	stronger	higher	
+disabled	better	
+older	fine	
+
+larger	expensive	large	fewer	possible	expensive	matching	
+many	c#	hard	
+bigger	
+larger	
+
+simpler	
+better	
+young	similar	
+connectionless	relevant	connection-oriented	
+least	different	
+communicative	
+better	less	better	
+newer	current	
+
+faster	fastest	
+slower	raw	
+better	
+worse	
+much	stricter	easier	faster	
+productive	
+efficient	bloated	
+long	past	8kb	
+productive	terse	hard	
+due	real	greater	less	
+convoluted	previous	net	
+reliable	
+fancy	
+2gb	
+
+similar	horizontal	greater	
+less	horizontal	vertical	
+distributed-systemd	internet-wide	
+likely	so-called	null	later	null	
+good	inbuilt	easy	long	
+single	
+optimal	expensive	
+spatial	better	
+easier	in-fix	as.sociated	
+magic	easier	straightforward	
+original	predictable	
+natural	
+line-of-code-based	little	longer	
+functional	functional	
+static	
+extensive	last	exact	
+strange	
+maintainable	
+easier	
+popular	familiar	heavy	complex	
+easier	
+better	
+large	less	detrimental	
+
+
+better	
+significant	systematic	different	
+
+last	
+
+faster	
+faster	
+slower	slower	
+interesting	better	
+better	
+easier	early	possible	faulty	
+consistent	
+long	cheapest	new	expensive	particular	
+quick	dirty	bad	worse	higher	
+sophisticated	
+slower	necessary	time-critical	
+better	
+major	professional	heavy	
+sure	
+likely	hard	
+finer	
+typical	faster	
+less	
+better	much	bigger	
+likely	complex	
+longer	
+higher	
+non-parallel	tiny	better	
+smaller	
+faster	extra	smaller	many	
+large	admin	flexible	
+
+wrong	bigger	
+easier	intuitive	
+general	
+
+flexible	
+cheaper	
+easier	many	
+newer	complex	great	
+acceptable	worse	
+higher	
+relative	greater	negative	
+aware	
+better	
+real	easy	easier	
+
+excellent	suspicious	single	less	
+uitable	many	text.the	different	
+lighter	
+open	safer	
+volatile	volatile	expensive	due	
+better	
+top	easier	online	
+latest	better	
+larger	
+much	richer	
+exact	clear	longer	single-precision	longer	
+easy	nicer	
+interested	good	faster	much	cleaner	faster	
+foreign	frequent	better	surrogate	sequential	net	
+simple	
+simpler	
+architectural	independent	
+safer	general	sensible	
+higher	
+simpler	
+
+steeper	powerful	
+much	easier	
+better	total	
+biggest	
+better	
+123a	
+particular	slower	
+more-but-simpler	
+appropriate	
+
+
+sure	efficient	
+general	faster	
+possible	first	
+slower	faster	
+easier	small	
+better	tedious	prone	great	many	
+better	
+simpler	
+similar	easier	modern	
+modern	non	trivial	modern	difficult	
+better	trivial	
+longer	tall	dead	
+much	faster	faster	
+full	greater	
+better	
+legitimate	
+better	
+better	
+fine	worse	
+higher	
+ugly	natural	faster	
+easier	less	cluttered	
+object-oriented	familiar	
+
+better	
+best	higher	direct	higher	
+first	single	
+better	
+
+greater	current	greater	ideal	new	larger	
+random-ish	several	better	
+less	
+difficult	
+better	additional	willing	
+stronger	
+obvious	broad	higher	
+problematic	
+able	
+entire	less	
+sure	much	quicker	
+much	faster	ultimate	
+sound	
+single-linked	interesting	easier	
+better	
+fine	compact	
+less	
+better	
+certain	longer	
+mature	mature	broader	
+
+deeper	
+obvious	smaller	small	less	
+complex	topological	
+
+useful	
+
+smaller	
+less	clear	
+better	latest	
+contiguous	akin	
+slower	slower	
+sure	less	previous	
+higher	past	
+self-closing	better	
+
+sure	true	
+worth	
+suitable	
+less	weird	
+easier	
+easier	
+right	variabless	
+asp	larger	
+outrageous	greater	
+familiar	
+complicated	net	net	
+minimal	easier	
+dependent	interesting	
+much	likely	single	
+
+original	compatible	better	
+intent	better	
+impossible	better	cross-process	
+greater	top	
+line-height	
+due	native	worse	
+slower	faster	
+slower	
+better	mercurial	
+
+generalised	
+mature	better	
+lower	
+alternative	verbose	
+latest	
+
+empty	
+fewer	
+better	ill	higher	better	
+slower	
+raw	slower	
+direct	complex	
+much	simpler	
+better	uicomponent	
+better	
+
+theoretical	larger	
+smaller	
+larger	larger	
+large	quicker	
+complicated	left	right	third	
+better	
+flexible	
+dcache	
+higher	direct	
+better	
+nicer	
+ported	whole	mobile	outer	
+
+
+problematic	earlier	
+single	
+stronger	certain	defective	graphic	
+smaller	
+less	
+much	bloated	
+easier	
+less	
+readable	
+easier	
+great	better	
+shorter	
+restrictive	
+shallow	trivial	
+matching	first	single	
+greater	possible	
+
+comfortable	teeny	tiny	stupid	embarrassed	
+necessary	
+frequent	concurrent	
+many	concurrent	
+plain	wrong	
+slower	better	good	
+surprised	better	
+hard	impossible	full	easier	cleaner	
+common	foster	
+specific	better	portable	
+additional	longer	
+expensive	
+faster	slower	
+simpler	best	
+okay	current	common	
+better	
+typical	total	longest	smaller	high	
+complex	
+efficient	
+bigger	heavier	
+lightweight	smaller	
+smaller	faster	
+compact	direct	
+cumbersome	
+richer	
+
+
+pedantic	rigorous	similar	better	
+second	first	simple	less	
+traditional	acceptable	dark	bad	worst	possible	
+
+informative	
+
+new	better	remote	better	
+sql-language	richer	cool	computed	
+document-style	
+better	
+better	
+good	easier	net	
+better	
+
+compliant	
+greater	
+
+parameterless	descriptive	null	
+comfortable	
+good	
+faster	
+flexible	powerful	better	
+congruent	naive	poor	disabled	inefficient	longer	
+higher	interesting	easier	
+first	larger	least	confusing	
+new	previous	many	greater	greater	
+likely	less	second	higher	
+easier	larger	
+non-issue	older	likely	wonky	
+careful	
+general	flexible	
+smaller	
+cleaner	
+
+well-written	easier	
+costly	
+better	
+sure	better	better	
+proper	bigger	
+good	better	
+best	
+much	simpler	
+net	portable	
+single	
+true	larger	
+distinct	slower	
+much	faster	
+powerful	
+faster	
+slower	single	
+similar	
+
+first	
+specific	contiguous	better	new	
+
+complete	full	
+less	distasteful	
+easy	simpler	
+quicker	possible	extra	simple	light-weight	
+much	faster	past	
+readable	
+lightweight	smaller	
+fewer	
+publicly-available	associate	underlying	better	
+higher	easier	
+less	single	
+flexible	
+faster	
+quick	faster	
+less	
+better	scientific	
+powerful	
+visible	
+larger	intense	
+less	
+long	faster	long	
+advantageous	new	
+first	
+many	easy	least	different	less	
+easier	
+greater	
+high	slower	
+simpler	smaller	full	tcp-based	
+clear	original	cheaper	
+ansi-compliant	straight-forward	
+slower	
+smaller	
+
+better	less	
+initial	modern	
+less	first	
+better	able	
+better	
+mature	
+well-distributed	better	horrifying	
+smaller	
+native	
+cheaper	
+worst-case	worse	
+
+efficient	
+several	multiple	
+strange	invalid	certain	
+able	individual	
+good	slower	
+best	easier	
+worse	
+
+
+second	unix-like	involved	
+
+familiar	
+newer	
+easier	
+better	better	
+scary	slower	
+productive	less	
+lightweight	
+major	concurrent	
+inaccurate	enough	concise	
+clean	slower	unexpected	
+better	
+larger	
+starting	
+exact	dissimilar	
+
+per.sonnal	web-project	big	
+harder	
+
+cleaner	
+looser	specific	
+many	
+better	
+many	ugly	easier	
+reliable	
+
+
+consistent	different	older	
+much	faster	
+alternative	compact	
+easier	
+slower	
+slower	linear	
+better	small	
+secure	whole	sure	
+expensive	possible	less	
+
+smaller	
+intuitive	back-ground	powerful	
+
+lower	longer	online	
+better	cleaner	simpler	nicer	
+difficult	better	
+
+much	richer	
+richer	compact	
+easier	
+better	first	possible	
+better	
+
+bigger	smaller	
+bigger	original	later	
+
+complicated	
+
+
+less	less	longer	faster	faster	
+personal	better	many	
+crazy	fast	smaller	
+bigger	
+likely	
+expensive	raw	loss-recovery	
+traditional	simpler	higher	lower-layer	
+sure	better	
+worst	quadratic	slower	
+easier	
+
+
+original	net	better	
+able	outside	
+mercurial	great	
+better	
+elegant	easier	
+better	true	
+
+greater	certain	
+better	
+least	easier	easier	
+
+sure	pervasive	less	secure	
+previous	easier	
+appropriate	
+characteristic	implementation-dependent	different	less	
+functional	hands-down	functional	
+particular	slower	
+familiar	
+good	related	easier	
+horizontal	smaller	
+slower	
+complex	easier	
+optimal	slower	slower	
+small	
+bigger	full	
+better	
+particular	cumbersome	
+pro	top	specific	client-side	
+lucky	important	lucky	
+proprietary	myopic	hard	broader	much	faster	traditional	
+easier	flexible	
+shorter	
+easier	
+minor	personal	better	
+great	local	much	simpler	simple	
+lower	
+better	
+significant	late	
+quickest	easiest	realistic	effective	offscreen	higher	wider	higher	
+better	
+less	
+powerful	
+appropriate	
+slower	
+much	slower	
+sure	slower	
+slower	
+better	
+worse	
+true	slower	true	right	dramatic	
+mature	
+various	better	good	
+elegant	verbose	
+careful	larger	
+latest	greatest	better	
+larger	insurmountable	available	incompatible	
+
+comfortable	
+popular	simpler	
+better	
+earlier	
+distinct	messageid	fewer	
+better	
+
+
+new	greater	
+many	productive	huge	
+higher	previous	
+slower	
+1-to-1	faster	
+
+much	simpler	
+easier	
+capable	
+sophisticated	3d	much	
+knoeller	lower	available	
+preferred	magic	easier	original	
+sure	
+better	native	better	best	
+fread.while	less	whole	
+less	
+complex	simple	
+higher	
+interesting	
+necessary	better	alternative	
+worse	
+much	
+best	better	
+
+current	
+difficult	appropriate	
+correct	newer	
+
+fresher	cleaner	many	
+shorter	similar	
+faster	
+smaller	
+simpler	component-oriented	
+younger	
+net	easiest	
+general	multiple	
+professional	
+greater	
+greater	
+richer	out-of-the-box	
+current	less	greater	
+higher	higher	
+smaller	smaller	
+better	
+true	empty	better	
+useful	
+fewest	nils	clever	fewer	
+
+simple	
+
+slower	
+higher	
+net	traditional	better	
+steeper	
+quicker	
+hot	better	
+slower	
+
+
+better	
+natural	good	
+less	wide	
+problematic	
+efficient	decent	new	
+longer	
+tapestry-like	easy	
+apparent	different	distinct	
+native	native	much	less	complete	
+little	harder	
+able	able	obvious	
+general	fully-fledged	different	
+lower	
+easier	older	
+ancient	older	old	new	good	
+
+widespread	
+individual	
+excellent	wide-used	
+
+net	
+newer	alternative	
+master	central	
+faster	
+efficient	
+powerful	
+easier	
+non-standard	available	
+good	mature	available	
+better	
+additional	various	huge	
+centered	much	possible	
+useful	
+longer	
+bad	better	
+bigger	
+user-friendly	good	
+simpler	
+smaller	
+adequat	easier	
+easier	various	secure	
+general	intuitive	
+bad	slower	
+commercial	least	
+non-class	
+long	smaller	wrong	
+
+various	general	deserving	better	preferred	close	
+severe	solid	
+native	slower	
+expert	better	likely	
+preferred	faster	painful	
+bigger	
+actual	individual	greater	less	
+better	horrible	
+powerful	little	harder	
+tallest	deepest	
+particular	less	intensive	
+full	
+possible	possible	easier	
+
+useful	least	faster	
+considerable	faster	
+broken	
+first	
+mutable	complex	mutable	
+easier	easier	
+worse	
+serious	least	mytable	multival	
+good	
+easier	
+textual	intuitive	easier	many	critical	
+efficient	
+much	simpler	
+weaker	
+unary	tighter	
+useful	
+simple	expressive	
+
+better	
+possible	fast-forward	faster	
+special	1-way	multi-way	
+longer	leftover	
+flexible	object-oriented	
+admin	good	surprising	extra	
+
+slower	
+longer	
+specialized	
+prettier	
+artificial	
+better	
+compelling	
+developed	
+better	
+correct	better	
+easier	
+great	easier	
+compiler-generated	
+concise	
+simple	
+extra	whole	original	efficient	space-wise	
+
+available	
+acceptable	polluted	bad	
+lower	less	second	
+compact	
+lower	
+newer	
+great	solid	low	higher	
+easier	additional	
+less	updatesd_at	
+newer	preferred	consuming	
+easier	
+paired	high	alternative	greater	
+harder	
+high	
+greater	
+faster	
+slower	specific	
+small	null	
+longer	viewable	
+little	spiffy	fast	in-memory	large	much	faster	
+simple	right	
+richer	
+
+higher	
+older	
+plain	english	efficient	empty	empty	lower	alloc	
+big	many	second	biggest	little	faster	easier	
+resistant	
+highest	lower	
+unpredictable	less	clear	
+heavy	much	heavier	
+flexible	better	
+simpler	
+
+faster	
+better	
+control	
+fewer	unpassed	
+pricey	familiar	
+new	
+better	
+underpowered	full	easier	better-integrated	less	virtual	
+better	total	intermediate	larger	
+less	
+slower	
+better	
+less	flexible	
+greater	important	
+easier	fewer	
+productive	
+mutable	
+closer	small	os-dependent	little	
+full-blown	small	least	last	better	
+pragmatic	functional	much	simpler	modern	natural	
+tiny	
+slower	
+better	serious	
+easier	easy	familiar	
+better	
+slow	slower	
+less	leading	
+quicker	
+faster	current	different	
+slow	high	faster	
+different	wider	wide	
+older	
+arbitrary	
+powerful	less	avaliable	foreign	
+intuitive	
+older	
+strong	worse	lucky	
+safer	single	
+bigger	smaller	smallest	highest	
+higher	particular	
+great	easier	
+better	
+less	
+high	bigger	
+
+faster	
+platform-specific	much	easier	
+current	brightest	current	
+greater	many	
+better	slower	
+better	
+slower	
+better	
+single	null	quicker	
+lesser	faster	
+efficient	
+restful	much	simpler	
+
+tricky	
+deeper	
+powerful	powerful	
+lower	
+reliable	slower	safe	fault-handling	
+slower	
+resultant	low	fundamental	greater	
+larger	odd	
+latest	longer	
+many	general-purpose	
+central	better	single	second	1024-bit	
+#preamble	margins-bottom	margins-top	effective	bigger	
+logical	daily	
+
+microsoft	virtual	cheaper	commercial	
+less	
+huge	strong	
+smaller	
+better	
+simpler	
+whole	bigger	different	
+connectionless	
+easier	
+better	least	good	similar	
+expensive	expensive	
+secure	better	sha256managed	
+bigger	smaller	smaller	
+small	higher	smaller	justified	better	
+important	
+wider	properitary	
+better	larger	
+easier	
+wise	net	bigger	new	
+
+slower	ongoing	
+faster	
+individual	
+readable	
+
+current	
+available	costly	
+
+
+peer-to-peer	net	
+better	
+interesting	smaller	
+
+able	
+due	sudden	
+less	costly	
+clearer	
+past	familiar	
+
+easier	larger	
+faster	
+earlier	personal	independent	great	
+
+ubiquitous	older	good	likely	older	wild	great	maintainable	stricter	
+specific	first	non	greater	
+newer	
+complicated	multiple	
+higher	
+slower	available	
+
+first	second	
+
+last	longer	much	faster	brute	
+nicer	
+likely	easier	simple	easier	
+general	easier	
+complex	actual	easier	
+
+modular	fastest	modular	expensive	
+general	known	direct	simple	
+deeper	
+bigger	real	
+available	worse	
+non-trivial	worth	
+much	simpler	
+modern	complex	
+close	easier	many	
+less	
+beautiful	
+mature	easy	
+smart	smaller	conventional	
+complicated	internal	modern	direct	indirect	
+restrictive	restrictive	non	
+
+ridiculous	possible	lower	single	original	
+compact	easier	
+
+popular	
+better	
+visual	larger	
+similar	
+useful	initial	static	complicated	
+straight	faster	straight	
+expressive	
+greater	
+
+smaller	
+better	
+
+easier	
+better	
+narrower	
+greater	less	
+total	less	
+
+
+familiar	complete	
+many	expressive	powerful	powerful	
+simpler	simpler	
+sure	greater	
+
+functional	mixed-paradigm	functional	pure	
+less	
+picky	
+slower	
+suitable	
+single	effective	
+liberal	
+big	
+simpler	
+general	
+better	
+better	
+faster	due	expensive	due	
+greater	
+quicker	least	slower	
+several	
+many	accurate	less	biggest	internal	actual	useless	
+finer	
+outermost	ginormous	big	
+mercurial	easier	
+mass	
+little	mature	
+
+good	standalone	
+better	
+unlikely	appropriate	
+cumber.some	non-obvious	better	
+visible	
+bottom-up	better	
+common	common	larger	faster	
+simpler	
+similar	
+interchangeable	meaningful	meaningful	
+2gb	better	
+less	
+better	
+interesting	accurate	
+easier	smaller	
+smaller	
+difficult	ugly	
+
+better	
+nicer	
+easier	convenient	fast	
+easy	much	looser	
+small	
+complex	initial	steeper	
+unforuntatly	limited	flexible	
+newer	corresponding	corresponding	
+newer	corresponding	corresponding	
+easier	
+similar	less	
+
+better	
+small	
+fewer	left	right	left-adjustment	
+easier	
+greater	
+less	
+lighter	heavy	
+horrible	greater	
+much	cleaner	
+ideal	net	bloated	inefficient	complicated	better	
+better	smallish	
+
+clearer	
+goal-directed	brief	goal-directed	
+al.so	higher	
+comfortable	compelling	long	particular	
+classic	better	similar	
+complicated	better	
+useful	
+
+specific	
+less	new	
+smaller	
+likely	uglier	
+intuitive	
+left	less	
+better	mic	
+easier	
+many	expansive	real	
+better	
+useful	easier	cleaner	
+great	better	slower	pure-java	simple	
+extra	shorter	less	buggier	
+slower	
+general	much	faster	pure	
+
+larger	
+better	extensible	enough	
+greater	
+greater	
+
+
+easier	full	
+less	
+better	
+syntax-wise	easier	little	
+due	attractive	
+smaller	
+
+many	available	
+smaller	
+
+
+much	shorter	
+better	
+easier	
+big	bigger	small	
+able	
+1px	wider	
+clear	fyi	easier	
+better	
+overhead	
+familiar	
+
+elegant	powerful	
+longer	corresponding	
+
+better	
+better	
+competitive	lower	
+better	
+net	efficient	
+total	received	
+longer	
+
+latter	plain	better	
+new	slower	
+empty	new	slower	
+square	less	
+first	easier	richer	
+complicated	
+formal	
+simpler	
+simpler	
+familiar	easier	
+greater	less	greater	precise	
+middle	down-then-up	best	
+open	easier	comfertable	
+
+smaller	black	
+
+big	
+actual	
+lighter	blue	
+functional	popular	functional	
+slower	
+stringent	
+larger	wide	
+
+
+different	odder	
+concise	junior	able	
+simpler	
+
+unencoded	many	larger	
+lighter	
+general	slow	
+many	better	useful	better	common	
+
+better	
+better	english	
+less	user-friendly	
+
+less	safe	
+better	quick	regular	
+orrible	
+better	
+better	
+better	
+larger	large	
+compatible	
+extra	slower	
+looser	significant	
+second	better	first	whole	
+
+faster	logical	
+better	
+static	good	negative	bigger	
+better	
+non-reversible	secure	clear	
+less	
+multi-line	anonymous	better	
+older	newer	incompatible	old	
+first	better	important	
+slower	different	
+suspect	flexible	smaller	lighter	quick	helpful	
+nicer	better	open	simpler	
+better	smaller	annoying	
+fancy	limited	better	
+central	easier	safe	
+larger	mature	important	
+
+efficient	general	least	better	straight	
+slow	2-6x	faster	
+useful	embedded	better	
+mature	
+better	
+harder	
+greater	
+expensive	
+advanced	meta-programming	
+cleaner	lower	
+useful	new	
+newer	open	several	
+java-like	
+
+better	local	
+better	
+better	
+secure	up-to-date	
+better	
+many	unescaped	
+better	
+better	
+trickier	low	remote	low	
+powerful	extensible	useless	
+sure	greater	
+third	less	problematic	
+popular	
+feature-rich	interesting	robust	variant	dominant	extreme	academic	due	
+earlier	current	
+smaller	simpler	
+overhead	extra	
+good	able	faster	
+better	
+simpler	
+expensive	
+complex	
+easier	
+bad	many	worse	
+different	simpler	lightweight	
+in-process	compact	appropriate	
+
+appropriate	similar	
+myriad	
+less	
+major	
+biggest	similar	
+better	
+enterprisey	
+important	easier	
+general	much	faster	
+easier	
+longer	
+stronger	

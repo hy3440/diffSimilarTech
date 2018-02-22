@@ -37,9 +37,16 @@ for c in cv:
 for c in cin:
     stopwords_en.add(c)
 
-with open(os.path.join(os.path.pardir, "out", "tech_v2", "sentences.txt")) as data_file:
-    texts = [[word for word in line.split() if word not in stopwords_en] for line in data_file]
-data_file.close()
+with open(os.path.join(os.path.pardir, "out", "tech_v2", "sentences.txt")) as data2_file:
+    texts = [[word for word in line.split() if word not in stopwords_en] for line in data2_file]
+
+with open(os.path.join(os.path.pardir, "out", "tech_v3", "sentences.txt")) as data3_file:
+    for line in data3_file:
+        line_list = []
+        for word in line.split():
+            if word not in stopwords_en:
+                line_list.append(word)
+        texts.append(line_list)
 
 dictionary = gensim.corpora.Dictionary(texts)
 corpus = [dictionary.doc2bow(text) for text in texts]
@@ -47,4 +54,4 @@ corpus = [dictionary.doc2bow(text) for text in texts]
 lda = gensim.models.ldamodel.LdaModel(corpus=corpus, id2word=dictionary, num_topics=10, update_every=1, chunksize=10000, passes=1)
 
 for no, out in lda.print_topics(10):
-    print out
+    print "Topic {}: {}\n".format(no, out)

@@ -1,0 +1,1316 @@
+20049
+sqldatareader	sqlconnection
+if you are querying a sql server database version 7 and up you should replace the oledb classes with corresponding classes in the system.data.sqlclient namespace sqlconnection sqlcommand and sqldatareader as those classes have been optimized to work with sql server
+
+20114
+button	checkbox
+click the validation button and uncheck the checkbox for checking validity
+
+20126
+idictionary	ilist
+the xaml serializer and deserializer handles generics without a problem collections of base classes and interfaces as well as long as the collections themselves implement ilist or idictionary
+
+20148
+innodb	myisam
+i ve read a bunch of stuff on the web about the differences between myisam and innodb and myisam seems like the obvious choice to me for the particular database tables that i ll be using for this task
+
+20192
+cassini	iis
+there are lots of good reasons to prefer iis over the cassini server articles by dominick baier
+
+20195
+postgresql	mysql
+mysql quietly truncates varchars that exceed max length whereas postgresql complains - quick workaround is to have these columns as text instead of varchar and use triggers to truncate long lines
+
+20195
+int	boolean
+boolean fields are compared using is and is not operators however mysql-compatible int 1 with and is still possible
+
+20263
+profiling	debugging
+i find using sql server profiling extremely useful during development testing and when i am debugging database application problems
+
+20483
+implements	extends
+however apply that interface to the extends class and the method only needs implements in the extends class
+
+20533
+emacs	aquamacs
+aquamacs and closer to the original emacs
+
+20568
+emacs	aquamacs
+aquamacs - emacs for os x emacs in a shell window is also an option
+
+20607
+getdate	strtotime
+strtotime and getdate are two functions that can be used to get dates from strings and timestamps
+
+20631
+getter	setter
+alt + s r to generate getter and setter
+
+20641
+hash	md5
+a cryptographic hash such as sh1 or md5 allows you to verify that file you have has been downloaded correctly and has not been tampered with
+
+20642
+hash	md5
+sha1 and md5 hash are used to verify the integrity of files you ve downloaded
+
+20654
+hash	md5
+with a has md5 sha-1 one input matches only with one output and then if you down load the file and calculate the hash again should obtain the same output
+
+20666
+hash	md5
+to go along with what everyone here is saying i use hashtab when i need to generate compare md5 and sha1 hash on windows
+
+20713
+rss	feed
+as there are quite a few deprecated versions of rss you might conceivably have to support rss feed that vary quite a bit in their formatting details
+
+20752
+waitpid	fork
+of course shells do more than that like piping input and output but you should be able to accomplish the basics using fork execve and waitpid
+
+20762
+rss	feed
+i need to consume an xml-based data source that conforms to a specific format think atom or rss feed but want to be able to consume data sources that have been published which contain invalid hexadecimal characters per the xml specification
+
+20795
+emacs	aquamacs
+if you ever plan on making a serious effort at learning emacs immediately forget about aquamacs
+
+20795
+emacs	textmate
+that might sound well and all but once you realize that it completely breaks nearly every standard keybinding and behavior of emacs you begin to wonder why you aren t just using textedit or textmate
+
+20850
+timemachine	hfs+
+one is an hfs+ volume which i use for timemachine backups
+
+20859
+symlink	realpath
+you may try using realpath to get what the symlink points to then trying to determine if it s a valid file using is file
+
+20861
+mbunit	nunit
+i would like to do some integration testing of a web service from within nunit or mbunit
+
+20866
+int	boolean
+a bitset is usually implemented as an array of int the boolean are packed into those int
+
+20866
+int	boolean
+so the first 32 boolean bits in your bitset will only take up a single 32bit int but to read each value you have to do some bitwise operations first to mask out all the values you don t want
+
+20866
+int	chars
+so if speed is an issue you ll be better off using a vector of chars or even int or even just use an old school bool array
+
+20873
+put	get
+having a tags table and a map table makes it pretty trivial to generate tag clouds such since you can easily put together sql to get a list of tags with counts of how often each tag is used
+
+20948
+getter	setter
+the worst thing you can do is add comments to obvious methods like getter and setter when they don t do more than what they should - get or set the named field
+
+20966
+put	get
+on the other hand most people would love to get 5-10 pages of simple class diagrams with some basic descriptions of how the system is put together
+
+20999
+entity-relationship	diagram
+i d definitely recommend gliffy.com for simple entity-relationship diagram it s an online flash based tool so cross platform
+
+21137
+mbunit	nunit
+i would have thought that templates be readily available for nunit xunit mbunit et
+
+21143
+mbunit	nunit
+mbunit and later versions of nunit also contain project templates for unit tests
+
+21149
+ironruby	ironpython
+the ironruby guys have got some internal builds of mvc to work with ironruby and ironpython 2 and ironruby have a lot of code in common with the dlr
+
+21149
+ironruby	ironpython
+i m not sure if they ll support ironpython ironruby when mvc is released but it s definitely worth keeping your eye on anyway - the old asp.net forms-based development model is old busted and the sooner it goes away the better
+
+21464
+post	get
+this is my first post here and i wanted to get some input from people doing iphone development
+
+21636
+children	parent
+you need some form of identifier to see the structure of the tree and grab all of a nodes children and a list of the parent path to a leaf to update
+
+21644
+memcached	apc
+you can avoid stating the same file repeatedly by caching the results via memcached apc or some other in-memory caching system
+
+21668
+emacs	aquamacs
+in much the way that aquamacs makes an os x-friendly version of emacs the emacsw32 project makes emacs out-of-the-box work just like a windows text editor
+
+21697
+mvp	presenter
+so with mvp the presenter handles events raised by the view
+
+21773
+int	chars
+int main int chars
+
+22015
+wordpress	elgg
+anyway have anyone tried to implement his own openid solution within the context of an intranet where there are many different applications wordpress elgg media wiki ..
+
+22074
+nullpointerexception	illegalargumentexception
+in my mind illegalargumentexception seems more specific than using a nullpointerexception since it s telling me that the problem was with an argument i passed to the method and not with a value that may have been generated while performing the method
+
+22096
+client-side	server-side
+that way you can combine server-side og client-side scripting and still dont have to hardcode _id ct100_nav _
+
+22169
+rss	feed
+for example if you wanted to dynamically create an rss feed you could write an http handler that handles all requests for .rss files creates the output and sends it back to the user
+
+22177
+post	get
+handlers are usually done for specific extensions and http request types post get
+
+22185
+pop-up	dialog
+if that is cleared then your web application users will see a pop-up ntlm dialog
+
+22219
+jython	pypy
+of course if i run jython or ironpython or possibly pypy then the garbage collector won t necessarily run until much later
+
+22259
+gif	png
+i want to allow users to upload avatar-type images in a variety of formats gif jpeg and png at least but to save them all as png database blobs
+
+22271
+gif	png
+it uses imagecreatefrom jpeg gif png and resize and converts the image and then outputs to the browser
+
+22376
+versioning	upgrade
+implementing the forced upgrade to ensure users have the latest versioning when running is so much easier in clickonce and a main reason for my usage of it
+
+22429
+firefox	safari
+is it possible to embed an inline search box into a web page which provides similar functionality to the ie7pro inline search or similar plugins for firefox safari
+
+22443
+cvs	svn
+get familiar with coding standards patch types unified diff and checkout a copy of their cvs or svn if they allow anonymous access
+
+22459
+memset	malloc
+as you can see i m not trying to use memset with a size larger that what s originally allocated with malloc
+
+22658
+folder	directory
+one of the things about subversion that irks me is that it puts its own folder in each directory of a project whereas git only puts one in the root directory
+
+22730
+hide	show
+for example as i am typing this answer i like the way it show a real-time preview of the answer with an option to hide preview - i would definitely want to use similar type of interaction while building a user forum interface
+
+22792
+versioning	upgrade
+we need a db compare tool to generate diff scripts to be able to upgrade a db from one versioning to another
+
+22829
+put	get
+allowing multi-tag search such that the user can put subversion svn or subversion svn well from programmers to programmers in the search box and get both
+
+22873
+lisp	scheme
+lisp scheme
+
+22880
+ssl	https
+is the best answer to use ssl https encryption for the entire web site and you have the best guarantee that no man in the middle attacks will be able to sniff an existing client session cookie
+
+22892
+innodb	myisam
+switching between myisam and innodb is trivial so load some test data and fire jmeter against your site and see what happens
+
+22912
+free	malloc
+we ve had pretty good luck by writing our own malloc and free functions
+
+22912
+free	malloc
+in production they just call the standard malloc and free but in debug they can do whatever you want
+
+22912
+realloc	malloc	free	realloc	free	malloc
+if you have a ton of code it may be a big job to replace calls to malloc and free to the new malloc and free don t forget realloc
+
+22912
+free	memset
+memset the memory with a marker on allocation to find usage of uninitialized memory and on free to find usage of free d memory
+
+22912
+printf	strncpy	printf	strcpy	strcpy	strncpy
+another good idea is to never use things like strcpy strcat or printf -- always use strncpy strncat and printf
+
+22931
+lisp	scheme
+if you want to learn lisp scheme read sicp
+
+22966
+httphandler	httpmodule
+you will need to learn the asp.net http pipeline and how to implement the ihttpmodule and the ihttphandler interfaces to create your own httpmodule or httphandler class to handle your routing
+
+22988
+textarea	textbox
+the main difference between this textbox and the others is that this is a multi-line box for inputting notes which i believe is rendered as an html textarea tag instead of an input tag in asp.net
+
+23048
+easymock	jmock
+when i tried learning about jmock and easymock i found the learning curve to be a bit steep though maybe that s just me
+
+23137
+post	get
+a better way would be to retrieve the post read by the current user and then use activerecord calculations to get a count without retrieving all the post in the database
+
+23193
+haskell	ocaml
+i posted a bunch of links to haskell and ocaml references that are books with examples et cetera that seem right up your alley
+
+23203
+haskell	scheme	lisp	scheme
+i really like thompsonâ s â œhaskell the craft of functional programmingâ because itâ s well written and haskell allows an easier start than other functional languages while being completely pure unlike lisp or scheme
+
+23219
+mouse	keyboard
+sounds like maybe if it s a keyboard or mouse windows grabs it exclusively
+
+23220
+post	get	post	put	put	get
+for each of those urls try running a get post put or delete http methods with different parameters so that you can ensure that you re only giving access to what you want to give access to
+
+23227
+client-side	server-side
+first off i think you need to be clearer in your question - what technology are you using and where is this process that is timing out - server-side or client-side
+
+23232
+perl	tcl
+for my own future reference i ll offer the regexp syntax summary page which contrasts the syntax for grep egrep emacs perl python and tcl
+
+23241
+int	double	int	chars
+i think that what makes pointers tricky to learn is that until pointers you re comfortable with the idea that at this memory location is a set of bits that represent an int a double a chars whatever
+
+23244
+rss	feed
+for instance this one sends you to google reader to view the rss feed for a page
+
+23273
+haskell	ocaml
+it loses points for being about standard ml when ocaml f# and haskell are seemingly more popular
+
+23322
+cvs	svn
+i think that using cvs with tortoisecvs and eclipse s would be nice as well though i prefer the way svn handles revisioning
+
+23335
+erlang	lisp
+in functional school we would have nearly functional some considered them to be impure lisp family and ml family and many purely functional haskell erlang etc
+
+23376
+rar	zip
+we tried zip in the past but once the database files crossed the 4gb boundary we had to use rar zip is 32-bit only
+
+23392
+jobs	cron
+under linux you can use cron jobs to schedule tasks
+
+23457
+lisp	prolog
+try prolog or lisp and see what you can do with those
+
+23511
+hash	md5
+i understand that it uses a function referred to as md5crypt but i can t seem to find a description of the algorithm beyond that at some point it uses md5 to create a hash
+
+23557
+hash	salt
+we can safely store the salt value with the hash password since even knowing the salt value won t help to decode the hash
+
+23592
+mp3	ogg	mp3	wav	wav	ogg
+for example let us assume that i have about 200 podcasts downloaded to my pc in the form of mp3 wav and ogg files
+
+23658
+vim	notepad++
+a fast loading text editor for when your ide is too much vim notepad++
+
+23703
+websphere	ibm
+for example for all the people who dislike the stop-the-world approach of the default sun java vm gc behaviour there are vm such as ibm s websphere real time which allows real-time application to run on java
+
+23726
+centos	linux
+what is the simplest way to install memcached on centos for someone new to the world of linux
+
+23737
+disk	ram
+my machine has 2 gb of ram dual core processor and a 7200 rpm hard disk
+
+23737
+disk	ram
+i know more ram and a faster hard disk could improve performance but do you have any tips to improve resharper visual studio performance
+
+23804
+versioning	upgrade
+thus you may want to upgrade your mysql 3 server to 4 - this compatibility mode allows for the export your database or individual tables to create a sql file that can import into a mysql 4 versioning server should work in 5 also
+
+23819
+clang	llvm
+for c and objective-c you can also use the llvm clang static analyzer
+
+23835
+for-loop	loops
+for-loop and while loops are entry condition loops
+
+23939
+vim	textmate
+for python stuff a good text editor textmate on os x g vim on linux programmers notepad on windows vcs i m mainly using git currently
+
+23963
+post	get
+is this actually important can i live happily ever after with just get and post
+
+23966
+post	get
+if you just use get and post it s still restful
+
+23966
+post	get
+your web service may only do things which only required get or post so that s fine
+
+24035
+integer	unsigned
+in fact your going to get a value bigger than an integer can hold 4 billion unsigned 2 billion signed before the stack is going to over flow fibbonaci 46
+
+24046
+firefox	safari
+in ie and firefox you see the alert box again in safari you do not
+
+24053
+firefox	safari
+i think it is because firefox and ie when going back are retrieving the page from the server again and safari is not
+
+24065
+put	get
+people seem to get the concept better you put it in those terms
+
+24103
+post	get
+i m no expert but from what i learned so far the golden rule is not to trust any user data get post cookie
+
+24119
+valgrind	gprof
+once thatâ s done the shell is your command interface to interact with the various tools â debuggers gdb profilers gprof valgrind etc
+
+24142
+client-side	server-side
+for instance if you have a form field that will only ever accept integers make sure you re implementing something at both the client-side and the server-side to sanitise the data
+
+24142
+onmouseover	onload
+likewise if you re going to display any user-inputted information onto a webpage make sure you ve stripped any script tags or anything else that might result in javascript execution such as onload onmouseover etc
+
+24148
+getter	setter
+your application isn t going to take any real-world performance hit either way but using a class lets you use getter and setter methods and is generally going to be better for code encapsulation and code reuse
+
+24150
+min	max
+most min max macros will include the parameters multiple times and may not do what you expect
+
+24156
+g++	gcc
+you should however know all the important parameters for g++ and ld the gcc linker tool that s invoked automatically except when explicitly prevented
+
+24174
+anjuta	gnome
+i hear anjuta is pretty slick for gnome users
+
+24270
+lsp	principles
+few people use oop in any rigorous sense few people adhere to or understand principles such as lsp
+
+24299
+cpython	ironpython
+you can also access the .net framework through ironpython a microsoft implementation of cpython
+
+24313
+opera	safari	opera	firefox	firefox	safari
+it worked great in every browser i tested it in ie6 7 firefox safari opera
+
+24322
+irc	telnet
+telnet onto an irc server and witness the simplicity of the protocol first hand
+
+24414
+keydown	keyup
+anyone know of a way to capture keyboard events keyup keydown in portable ie under window mobile
+
+24455
+goto	break
+in perl use of a label to goto from a loop - using a last statement which is similar to break
+
+24476
+goto	break
+if you re in a nested loop and need to break out of all loops a goto can make this much cleaner and simpler than break statements and if-checks
+
+24495
+getter	setter
+i have a struts + velocity structure like for example a person class whose one property is a car object with its own getter setter methods and it is mapped to a velocity form that submits to an action using modeldriven and getmodel structure
+
+24513
+goto	break
+sometimes it s clearer to use a flag variable of some kind to effect a kind of pseudo-multi-level break but it s not always superior to the goto at least a goto allows one to easily determine where control goes to unlike a flag variable and sometimes you simply don t want to pay the performance price of flags other contortions to avoid the goto
+
+24516
+haskell	ocaml
+i m trying to parse a grammar in ocamlyacc pretty much the same as regular yacc which supports function application with no operators like in ocaml or haskell and the normal assortment of binary and unary operators
+
+24549
+firefox	safari
+it s supposedly being ported to firefox and safari but that s been happening for a while now
+
+24595
+vim	emacs
+i have really tried to use emacs and vim but i don t have the time to learn them
+
+24602
+screens	tablet
+to some extent it really depends if you want only a tablet no video feedback on the device or a screens having video feedback which i find nice but is also a bit pricey...
+
+24613
+kate	kde
+kate kde syntax-highlighing
+
+24638
+firefox	safari
+there is currently no way to programmatically disable the safari spellchecker as there is in firefox and ie7+ so most rich text editors choose to let safari do its own thing by leaving the browser in control of the context menu
+
+24641
+inherited	subclassing
+inherited - subclassing - tends to
+
+24645
+implements	extends
+i exposed a minimal interface to interact with the client api and it would have been awesome to extends the client api class and then just add an implements clause with my new interface
+
+24661
+implements	extends
+i exposed a minimal interface to interact with the client api and it would have been awesome to extends the client api class and then just add an implements clause with my new interface
+
+24682
+minix	linux
+as a side note if you ve read just for fun linus actually was playing with minix before he wrote linux but it just wasn t enough for his purposes
+
+24707
+jsf	tapestry	jsf	wicket	tapestry	wicket
+i ve used tapestry 3 wicket echo and jsf fairly extensively
+
+24707
+jsf	tapestry	jsf	wicket	tapestry	wicket
+in the end i d recommend just taking a look at tapestry wicket and jsf and just picking the one that feels the best to you
+
+24732
+vmware	virtualbox
+aside from the good books already mentioned opeating system design implementation is particularly good get a hold of a 1.x release linux kernel load it into vmware or virtualbox and start playing around from there
+
+24734
+rss	feed
+i m trying to add support for stackoverflow feed in my rss reader but selectnodes and selectsinglenode have no effect
+
+24820
+ironruby	ironpython
+we use wix to automate msi builds for ironpython and ironruby
+
+24841
+cifs	smb
+you need something that speaks smb cifs on one end and your own code on the other
+
+24841
+cifs	smb
+winfuse which is kind of a barebones cifs smb server that can host your own filesystem
+
+24908
+free	malloc
+to fix you need to call free for everything that is obtained with malloc after you finish using it
+
+24910
+int	double
+for primitive types int double ... the operators are built in so the compiler will probably be able to optimize your code
+
+24941
+phpunit	simpletest
+tips on gui s for phpunit would also be appreciated but my main focus is simpletest for this project
+
+24943
+cvs	svn
+oh yeah don t forget support for source control directly from inside the tool svn cvs tfs scc
+
+24969
+getter	setter
+if it is completely trivial getter setter etc do not test it unless you don t have confidence in the code for some reason
+
+25008
+lsp	principles
+also due to lsp liskov substitution principles one can use derived class where base class is expected and this is actually imposes the greatest impact from use of inheritance code using base class may be given an inherited class and it still has to work as expected
+
+25011
+memcached	apc
+i ve heard great things about memcached through irc but have never heard of apc - what are your opinions on them
+
+25035
+vb.net	vb6
+were they in vb6 i think i would consider upgrading them to vb.net just for maintainability
+
+25049
+width	height
+you can only change the height and width of a span element when it is set to display block
+
+25056
+memcached	apc
+memcached is nice if you have clustered servers and youtube-like load but i d try out apc first too
+
+25077
+hash	md5
+but i am confused as to how both files came out to the same md5 hash
+
+25079
+memcached	apc
+i ve heard great things about memcached through irc but have never heard of apc - what are your opinions on them
+
+25079
+memcached	apc
+actually many do use apc and memcached together .
+
+25105
+unix	bsd
+unix and bsd courses courses and videos
+
+25105
+unix	bsd
+not quite related but i ll also recommend the video history of the berkeley software distributions as it gives a nice introduction to the bsd parts of the unix history and culture as well as plenty of hilarious anectodes from back when
+
+25110
+width	height
+you can set any element to display inline-block to allow it to receive a height or width
+
+25158
+hide	show
+use one form and hide and show controls
+
+25170
+hide	show
+the method i often use is actually to pre-setup all my controls on individual panel controls and then show and hide these panels as i need them
+
+25170
+hide	show
+and if you show or hide the panel the controls on it do the same
+
+25171
+post	get
+tamper data this can be helpful for debugging get post requests
+
+25171
+opera	safari	opera	firefox	firefox	safari
+i also install safari and opera but mostly just use them for testing and benchmarking since their dev tools aren t as robust as firefox and they aren t as buggy as ie
+
+25196
+actionscript	mxml
+flashdevelop hooks up nicely with the flex compiler which is available for free it compiles both mxml the language flex applications are written in and actionscript 3
+
+25238
+range	minimum
+what s the best way to make an element of 100 minimum height across a wide range of browsers
+
+25241
+httpcontext	httpmodule
+how do you unit test a httpmodule in asp.net given that httpapplication and httpcontext do no implement an interface
+
+25256
+httpcontext	httpmodule
+essentially you need to remove the httpmodule s reliance on httpapplication and httpcontext replacing them with an interface
+
+25303
+vb.net	vb6
+if what you are trying to do is allow searches for a tag say vb also find things tagged as vb6 visual basic visualbasic and vb.net wouldn t those values be set as synonyms in the db s thesaurus rather than query parameters
+
+25343
+mouse	keyboard
+does one exist or are all products based on recording mouse and keyboard presses
+
+25469
+hide	show
+show and hide these panels as i need
+
+25511
+jobs	cron
+it sounds like you need to put some scheduled jobs in place with cron or windows equiv
+
+25581
+firefox	safari
+if you learn css to the point where you can code most things without having to look up the reference if you re still looking up reference regularly you don t really know it and can t claim to complain i think and then develop for firefox safari it s a pretty nice place to be in
+
+25581
+firefox	safari
+leave the pain and suffering of ie compatibilit to the end after it works in firefox safari so your mind will attribute the blame to ie where it damn well belongs rather than css in general
+
+25614
+jdom	xom	jdom	dom4j	dom4j	xom
+i ve used jdom in the past and have looked briefly at xom and dom4j
+
+25646
+width	height
+the width and height are correct and 800x600 buffer and m_pixelbuffer is correctly filled with 0xaa00aa00
+
+25701
+jdom	xom
+i ve worked with jdom as well and there s absolutely nothing wrong with it although i do prefer xom
+
+25784
+getter	setter
+they become part of the method signature available from the runtime which do can look at to determine how to best serialize a transaction. there are also the attributes within property declarations copy retain assign readonly readwrite nonatomic getter and setter
+
+25815
+super	implements
+c.__bases__ is an array of the super classes so you could implements your hypothetical function like so
+
+25855
+udp	mtu
+for linux according to the udp man page the kernel will use mtu discovery it will check what the maximum udp packet size is between here and the destination and pick that or if mtu discovery is off it ll set the maximum size to the interface mtu and fragment anything larger
+
+25892
+int	boolean
+several new data types including long long int optional extended int types an explicit boolean data type and a complex type to represent complex numbers
+
+25983
+jdom	xerces
+if you want to benefit from an xsl transformation engine like xalan or an xpath engine like jaxen or saxon i would recommend sticking to the more popular framework available like xerces jdom
+
+25983
+xslt	xquery
+of course if you need blinding speed and do not care about xpath xquery or xslt you can surely find yourself something that is much faster and or resource-hungry
+
+26015
+hash	salt
+the way i ve been doing it is a rather conventional approach of sending the score and player name in plain text and then a hash of the two properly salt
+
+26025
+apache	nginx
+i have heard of mod_wsgi and mod_python on apache nginx and lighty
+
+26068
+apache	lighttpd
+you may not want to server all files using apache and use lighttpd lighty to server static files
+
+26080
+postgresql	mysql
+edit i should mention that i ve only used this syntax with access sql 2000 2005 express mysql and postgresql so those should be covered
+
+26127
+opera	safari	opera	firefox	firefox	safari
+if you size your elements and space the content within using padding you can make many layouts work great in ie6 7 firefox safari and opera without any hacks
+
+26133
+subtract	add	multiplying	add	multiplying	subtract
+design your own class structure containing multiple higher order datatypes like double or int64 variables and define basic math operations for them using operator overloading in c++ or via methods named add subtract multiplying shift etc
+
+26162
+boost	stl
+this is also used in the stl and in many libraries including boost
+
+26162
+boost	stl
+edit i ve amended the code to reflect boost stl conventions as pointed out by daniel in his comment.
+
+26228
+button	checkbox
+the tools that visually-impaired people use to access the web need the label s to read-out the meaning of checkbox and radio button
+
+26240
+disk	ram
+it s possible that your using up most of the ram and causing the disk the trash or some similar problem
+
+26350
+lisp	scheme
+for lisp and scheme hell functional programming in general there are few things that provide a more solid foundation than the little schemer and the seasoned schemer
+
+26364
+ncover	fxcop
+msbuild is responsible for updating from svn on every commit compiling and running fxcop and ncover nunit
+
+26397
+ford-fulkerson	dijkstra
+dijkstra and ford-fulkerson algorithms on graphs i like the fact that the second one has many applications
+
+26398
+int	chars
+if you need to index simple chars or int values then the normal b-tree index is the best
+
+26423
+mvp	presenter
+the issue i find with the mvp framework that the p p lib offers is that forms and controls own presenter instead of presenter controllers owning forms who didn t read it s just a view pragmatic programmer
+
+26468
+persistent	transient
+this is basically the catch-all method as it converts a transient object into a persistent one save updates the object if it is existing update or even handles if the entity is a copy of an already existing object copy
+
+26602
+hide	show
+which code decides to show hide the button that leads to the action is irrelevant
+
+26602
+hide	show
+that leaves us with only one drawback of doing show hide logic in javascript - the html sent to user is bigger than necessary
+
+26602
+hide	show
+having show hide logic in php does have a minus though
+
+26602
+hide	show
+so if you already have a script that runs when your document load for other reasons i would seriously consider having show hide logic there
+
+26668
+vtune	shark
+vtune and shark are both excellent as well
+
+26682
+profiling	instrumentation
+it has several types of profiling built in performance memory windows handles exception tracing static analysis etc. and instrumentation the code to get the results
+
+26845
+bazaar	git
+what are you using mercurial darcs git bazaar
+
+26851
+perforce	svn
+we used perforce for well over a year before switching to svn recently
+
+26851
+perforce	svn
+if anything i find working with svn easier and more intuitive than perforce
+
+26851
+perforce	svn
+contrary to perforce visualsvn does not work with the ms scc interface but rather directly with the svn client which i personally see as an advantage
+
+26851
+perforce	svn
+perforce does have support for many other oses but our non-windows devs feel more comfortable with svn too
+
+26863
+folder	directory
+deleting the visual studio 9.0 folder in my application settings directory
+
+26873
+mvp	presenter
+i think another benefit of using the mvc pattern is that it opens up the doors to other approaches to the design such as mvp presenter first and the many other mv patterns
+
+26879
+opera	firefox
+however when the content gets larger opera and firefox show a scrollbar at the left so you can scroll to the content not on the screen
+
+26912
+hide	show
+i have ran into issues using the ajaxcontroltoolkit on repeated fields and usually side with using a lighter weight client-side option up to and including rolling your own show hide method that can be reused just by passing in an dom understood id
+
+26920
+struts	wicket
+i had successfully developed an online banking application with struts when i discovered wicket and saw how easy web application development can be
+
+26929
+perforce	cvs
+perhaps after years of using a centralized model in one format or another perforce subversion cvs i just found distributed source control difficult to use
+
+26942
+swt	swing
+don t know if it works with swt as well because i used only swing in my apps
+
+26965
+boost	stl
+if you look into stl boost mfc atl and many open source projects you can see there are so many assertion statements and that makes project going further more safely
+
+26969
+cvs	svn
+and cherry-picking merges while not trivial is not terribly difficult and far more advanced than anything svn or cvs can do
+
+26973
+client-side	server-side
+because merges are performed client-side they are much faster and less error-prone than initiating a server-side merge
+
+27000
+nullpointerexception	indexoutofboundsexception
+on the other hand nullpointerexception s and indexoutofboundsexception s might actually often be appropriate
+
+27032
+min	max
+rather than just dropping controls on the form you ll have to play a bit with panels padding min max sizing and docking
+
+27035
+opera	safari	opera	firefox	firefox	safari
+this is supported in opera and firefox and i recon in safari but haven t tested
+
+27132
+put	get
+last in first out lifo means that the last thing you put in is always the first thing you get back out - if you push 2 items on the stack a and then b then the first thing you pop off the stack will be b and the next thing is a
+
+27132
+cpu	processors
+don t break your programs up too far into smaller and smaller functions - even without counting local variables each function call consumes as much as 64 bytes on the stack 32 bit processors saving half the cpu registers flags etc
+
+27140
+put	get
+do you put the contents first so that the user has to listen to them every time or do you put them at the end so that they can get to the content first
+
+27148
+rss	feed
+i want to merge multiple rss feed into a single feed removing any duplicates
+
+27160
+csv	tsv
+from my experience even just excel makes a pretty good tool for quickly whipping up graphs of perfmon if you relog the data to csv or tsv
+
+27162
+rss	feed
+here is an article on merge multiple rss feed into one with yahoo
+
+27244
+rss	feed
+simplepie is a php library that supports merging rss feed into one combined feed
+
+27254
+extjs	mootools
+it could be that prototype or mootools or extjs are as good as jquery
+
+27256
+jquery	scriptaculous
+to put some names out there prototype scriptaculous jquery dojo yui ...those all seem to have active users and contributers so they are probably worth reading up on to see if they meet your needs
+
+27292
+folder	directory
+unfortunately svn places .svn hidden directory everywhere which cause problems especially when other developers make folder structure changes or copy move website directory
+
+27340
+post	get
+considering the callback is buried in the client code it would take someone with equal determination to get either the querystring or the post request
+
+27391
+width	height
+and why expect a certain minimum width or height
+
+27393
+rss	feed
+in the latest podcast jeff and joel talked about the rss feed for tags and joel noted that there is only the current ability to do and on tags not or
+
+27418
+avr	microcontroller
+on my platform avr 8-bit microcontroller running gcc
+
+27430
+jboss	resin	jboss	weblogic	weblogic	resin
+it support many servers not only weblogic including tomcat jboss resin jetty and websphere
+
+27435
+postgresql	mysql
+i am working on a web application using python django and would like to know whether mysql or postgresql would be more suitable when deploying for production
+
+27439
+postgresql	mysql
+from how i understand it postgresql is a more correct database implementation while mysql is less correct less compliant but faster
+
+27440
+postgresql	mysql
+better performance can be bought with more ram and cpu and more appropriate database design and clever stored procedure tricks and so on - and all of that is cheaper and easier for random-website-x than agonizing over which to pick mysql or postgresql and specialist tuning from expensive dbas
+
+27443
+postgresql	mysql
+if you are writing an application which may get distributed quite a bit on different servers mysql carries a lot of weight over postgresql because of the portability
+
+27443
+postgresql	mysql
+in most regards postgresql is slower than mysql especially when it comes to fine tuning in the end
+
+27445
+postgresql	mysql
+i haven t used django but i have used both mysql and postgresql
+
+27445
+postgresql	mysql
+postgresql is a little more scalable it doesn t hit the brick wall as fast as mysql as data size client count increases
+
+27450
+accessor	properties
+in addition you can serve out additional server-side objects from the myserverobject instance if you include public accessor for them in iremoteserver interface so accessing those objects become the simple matter of method calls or properties accesses on your main server object so you don t have to use activator for every single thing
+
+27463
+ssl	https
+443 when used for https relies on ssl not ssh for its encryption
+
+27481
+multiplying	multiplication
+multiplying by 3 can be done by simple shifts adds if no multiplying instruction exists or if multiplication only works with 8 bit operands
+
+27483
+avr	microcontroller
+on my platform avr 8-bit microcontroller running gcc
+
+27503
+put	get
+you should be able to take this and do some mild pruning of it to put in your username password dbname to get it up and working for you
+
+27508
+folder	directory
+red gate s sql compare product not only allows you to do object-level comparisons and generate change scripts from that but it also allows you to export your database objects into a folder hierarchy organized by object type with one objectname .sql creation script per object in these directory
+
+27529
+postgresql	mysql
+hard to compare mysql and postgresql
+
+27587
+x86	64bit
+both 32 and 64bit x86 and 64bit ppc
+
+27598
+websphere	ibm
+ibm websphere 6.1 it s supossed to support jsr 160 javatm management extensions jmx remote api
+
+27630
+public	protected
+public dispose calls protected dispose true - deals with both managed and unmanaged resources
+
+27642
+boost	stl
+so no stl or boost
+
+27674
+firefox	safari
+in our project sharpwired we re trying to create a download component similar to the download windows in firefox or safari
+
+27687
+disk	ram
+it is limited to 4gb of disk space 1gb of ram and will only use 1 processor
+
+27711
+gridview	linqdatasource
+i m having a problem obtaining the total row count for items displayed in a gridview using paging and with a linqdatasource as the source of data
+
+27786
+easymock	jmock
+i started using mocks through jmock but eventually transitioned to use easymock
+
+27905
+disk	ram
+wcm - actually to nit pick the table variable isn t ram only - it can be partially stored on disk
+
+27993
+redhat	fedora
+just happened across this article which point out shortcomings in redhat centos fedora implementations of perl which affect uri profoundly
+
+27993
+redhat	fedora
+i realized that anyone running perl code with the distribution perl interpretter on redhat 5.2 centos 5.2 or fedora 9 is likely a victim
+
+28059
+svnkit	subclipse
+i used the update url and i installed the javahl adapter the subclipse project itself and the svnkit adapter beta
+
+28115
+int	boolean
+if you re converting anything other than simple types like int or boolean you d need to write your own function method for the type that you re trying to convert otherwise php will just print the type such as array googlesniffer or bidet
+
+28132
+range	min	range	max	min	max
+the real power of arrayformula comes when you take the result from one of those computations and wrap it inside a formula that does take array or range arguments sum max min concatenate
+
+28172
+post	get
+if you plan on doing it from the command line that is the impression i get from your post then you should probably define a strict set of allowable inputs only single letter variables no whitespace and only certain mathematical symbols +- etc.
+
+28196
+post	get
+how can i join the tables to get all post with tags nuclear and deals that also belong to the category category1
+
+28256
+yacc	bison
+it s simple enough that i don t see the need for yacc or bison
+
+28272
+yacc	bison
+note that using a grammar does not at all imply using a specific tool a la yacc bison ...
+
+28286
+cos	sin
+if you want it to be really really general such as be able to parse mathematical functions as well like sin 4+5 cos 7 3 you will probably need a parse tree
+
+28317
+mouse	keyboard
+i also made sure that some of the mac os keyboard and mouse shortcuts were not registered in vmware fusion to stop strange things happening
+
+28470
+getter	setter
+i would advise using setter getter instead
+
+28541
+aptana	radrails
+i started out with radrails then moved to aptana when they took it over wasn t too bad
+
+28551
+submit	submission
+in a day or two i ll be ready to submit my iphone app to the appstore and i m curious whether people who have gone through this process have any tips suggestions for a smooth submission process
+
+28758
+datamapper	activerecord
+in his book on patterns martin fowler points out that activerecord tends to break down under conditions where your model is fairly complex and suggests a datamapper as the alternative
+
+28758
+datamapper	activerecord
+whether your datamapper classes contain raw custom sql or calls to a data abstraction layer api or even access an activerecord pattern themselves doesn t really matter to the controller code that is receiving a nice populated user object
+
+28769
+ilist	icollection
+there s also ilist or icollection if you want to use a construct that is still somewhat flexible but also has the feature you require
+
+28820
+vbscript	jscript
+i d like this to be a little more friendly for the admins who are familiar with scripting in vbscript jscript etc
+
+28827
+expression-blend	silverlight
+expression-blend code-named sparkle - visual user interface builder for windows presentation foundation and silverlight applications
+
+28838
+vbscript	jscript
+there is definitely not a vbscript engine i ve ever heard of nor jscript
+
+28849
+tolower	toupper
+what steve says is right but i guess that if your code had to support several languages you could have a factory method that encapsulates a set of methods that do the relevant toupper or tolower based on that language
+
+28874
+post	get
+i am reluctant to post a chunk of ms framework code here but you could use either reflector or this to get the source code for the relevant bits of the framework so that you could try implementing various bits to see where it fails
+
+28878
+domxpath	domdocument
+in php i m using domdocument and domxpath which closely corresponds to c# xmldocument
+
+28885
+solaris	aix
+however having done a lot of development on ancient versions of solaris aix and hp-ux just recently - yes these platforms are still alive in the fortune 50 i can tell you that if you really care about portability you should use templates as little as possible
+
+28919
+ilist	icollection
+if possible you might want to consider changing to use an icollection or ilist icollection being more widely scoped than ilist which has a count property on it
+
+29046
+postgresql	mysql
+if you want to build a web site you really need a database server engine like ms sql postgresql mysql oracle or their brethren
+
+29053
+firefox	safari
+the extra comma in the array is being ignored by safari and firefox while ie treats it as another object in the array
+
+29053
+firefox	safari
+most people say that ie is correct but then safari is also doing the same thing as firefox
+
+29124
+cos	sin
+my only warning against skipping the parsing tools or just using the shunting yard algorithm or a hand rolled recursive decent parser is that little toy languages 1 may someday turn into big actual languages with functions sin cos log and variables conditions and for loops
+
+29124
+multiplication	exponent
+3 snippet of a haskell parser using parsec a four function calculator extended with exponent parentheses whitespace for multiplication and constants like pi and e
+
+29144
+perforce	svn
+edit to clarify i know both perforce svn allow locking merging but svn encourages a liberal edit merge method whereas as i understand it perforce encourages a checkout-checkin method
+
+29174
+jquery	simplemodal
+i m using jquery and simplemodal in an asp.net project to make some nice dialogs for a web app
+
+29177
+mousemove	mouseleave
+i have found a blog post describing one mechanism but it involves a good deal of manual bookkeeping including status flags mousemove events manual mouseleave checking etc
+
+29235
+superclass	subclassing
+if you don t declare your own constructor in the subclassing trying to instantiate it will throw a fatal error because it tries to call the superclass constructor
+
+29238
+perforce	svn
+perforce supports merging and in fact had better merge support than svn until svn 1.5 where named merges were added as well as change lists which perforce has always had and i mis very much moving to a shop that used svn but we won t upgrade until 1.5 has been a bit more time tested.
+
+29238
+perforce	svn
+it s worth noting that svn and perforce both allow you to do a locked checkout so you can do the unmerged model if you want but aside perhaps from managing binaries with version control i don t see much use for this
+
+29242
+stdout	stderr
+edit clarification i am looking for code that i can easily drop in to my own programs to write to stderr stdout log files or other such output streams
+
+29274
+getter	setter
+they are all emulated by using getter and setter
+
+29277
+daemon	cron
+i think your best bet would be a ping daemon cron job that checks the status of each box periodically and sends an email if one doesn t respond
+
+29319
+put	get
+if you put .tostring to a var query variable you get the sql
+
+29358
+ati	nvidia
+for something that s not crazy expensive go with either a nvidia geforce 8000 series card or an ati 3000 series card
+
+29422
+decoder	encoder
+running it through an encoder of some kind this is so so useful as it can just be run through the decoder
+
+29521
+int	chars
+or you can convert the int to its chars value
+
+29524
+put	get
+on the other hand it s possible to log arbitrary exceptions and if they get put in the stream as well my point stands.
+
+29532
+integer	unsigned
+typically you should maintain the two-element buffer but handle a machine word 32 64 bit unsigned integer at a time
+
+29545
+put	get
+once you get the count to 0 via the attribute you then put in a rule that new checkins may not introduce fxcop violations
+
+29557
+mbunit	nunit	mbunit	mstest	nunit	mstest
+i ve read time and time again that tdd test first is more difficult with mstest than it is with other testing frameworks such as nunit mbunit etc.
+
+29562
+ubuntu	debian
+my main goal is to create a .deb package for debian ubuntu users but i don t understand make configure files
+
+29563
+nunit	mstest
+we are in fact moving away from nunit to mstest
+
+29622
+put	get
+you also have to get your game rated by the esrb which will put you back another 2500
+
+29640
+swt	swing
+it allows you to design user interfaces for swing swt and even the google web toolkit gwt
+
+29680
+pop-up	dialog
+whenever the user provides invalid credentials the ntlm dialog box pop-up in internet explorer
+
+29694
+integer	unsigned
+i keep mysql s auto_increment as unsigned integer fields of various sizes in order to make use of the full range as i know there will never be negative values
+
+29694
+integer	unsigned
+ms sql does not support the unsigned attribute on all integer types so i have to choose between ditching half the value range or creating some workaround
+
+29705
+put	get
+basically you get data from somewhere your outgoing articles do something to it aggregate and put it somewhere else your aggregates table data warehouse etc
+
+29726
+opera	firefox
+someone has done it in ie6 but it does not work in firefox or opera afaik
+
+29752
+sortedlist	sorteddictionary
+you can use either a sortedlist or sorteddictionary both sort by the key or a dataview
+
+29754
+post	get
+to get around that you could implement a processing page like rob suggests that post back until the response is ready
+
+29760
+installation	upgrade
+installation upgrade runs.
+
+29770
+vim	emacs
+the first is rope a python refactoring library that comes with a vim and emacs plug-in
+
+29770
+vim	emacs
+also plugs into vim and emacs
+
+29792
+postgresql	mysql
+i have worked with oracle ms sql server mysql postgresql sqlite and sybase that i can think of
+
+29831
+profiling	benchmarking
+and if after all this your profiling and benchmarking reveals that the lexical_casts are an unacceptable bottleneck that s when you should consider doing some macro horror
+
+29836
+igraph	networkx
+as already mentioned networkx is very good with another option being igraph
+
+29837
+cvs	svn
+maybe keep the doc s under cvs or svn and set it up so that emails are generated to whoever has checked out a copy when updates for the same doc
+
+29862
+min	max
+the basic way of handling this is to group by your fixed fields and select a max or min for some unqiue value a datetime usually works well
+
+29923
+bazaar	git	bazaar	svn
+at the place where i work we decided to move from svn to bazaar after evaluating git and mercurial
+
+29923
+bazaar	git
+bazaar was easy to start off with simple commands not like the 140 commands that git has
+
+29923
+bazaar	git
+in git you can do the same with playing around in the index staging area but bazaar has a better ui for it
+
+29934
+opera	firefox
+the firefox model opera uses the handy variables input .selectionstart and selectionend
+
+29972
+teamcity	nant
+i use teamcity with an nant build script
+
+29972
+teamcity	nant
+teamcity makes it easy to setup the ci server part and nant build script makes it easy to do a number of tasks as far as report generation is concerned
+

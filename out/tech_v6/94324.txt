@@ -1,0 +1,1412 @@
+6
+firefox	safari
+when i use a percentage-based width on the child div it collapses to 0 width on internet explorer 7 but not on firefox or safari
+
+76
+wordpress	joomla
+try looking at wordpress drupal joomla and other well known php-based cms s to see how their api hooks look and feel
+
+79
+versioning	upgrade
+does anyone know if there is a way to upgrade the versioning of eclipse aptana that is built against to 3.3.0
+
+89
+svnkit	subclipse
+i m not sure how aptana is different but try either upgrading javahl or switching to the pure-java svnkit implementation within the subclipse config
+
+113
+versioning	upgrade
+i did upgrade directly from an older versioning to 1.5.2 though and never used 1.5.1
+
+126
+getter	setter
+what is the purist or correct way to access an object s properties from within an object method that is not a getter setter method
+
+126
+getter	setter
+i know that from outside of the object you should use a getter setter but from within would you just do
+
+126
+getter	setter
+when i learned oo i was taught to use getter setter for every single property even if it was public and actually i was told never to make any variable property public
+
+126
+getter	setter
+it appears that people answering this question are maybe saying that you should have public properties and that those don t need getter and setter which goes against what i was taught and what i was talking about although maybe that needs to be discussed as well
+
+127
+getter	setter
+this has religious war potential but it seems to me that if you re using a getter setter you should use it internally as well - using both will lead to maintenance problems down the road somebody adds code to a setter that needs to run every time that property is set and the property is being set internally w o that setter being called
+
+139
+public	protected
+another approach would be to utilize a private protected method to actually do the getting caching db etc and a public wrapper for it that increments the count
+
+143
+getter	setter
+if your getter setter does something you need use it
+
+143
+getter	setter
+the opposite case could be made that if you use the getter setter and somebody changes the getter setter they have to analyze all the places the getter and setter is used internally to see if it messes something up
+
+169
+getter	setter
+if you have getter and setter use them
+
+195
+post	put
+if you want more info on this post something and i can put the script somewhere accessible
+
+264
+puts	gets
+my application is pretty simple i ll be doing gets and puts of records that are about 1kb each
+
+307
+ironruby	ironpython
+a different approach would be to consider a language that is specifically built for scripting such as ironruby ironpython or lua
+
+307
+ironruby	ironpython
+ironpython and ironruby are both available today
+
+367
+cpu	processors
+it will tell you the number of cpu cycles executed since the processors was booted
+
+396
+email	dkim
+use email authentication methods such as spf and dkim to prove that your email and your domain name belong together and to prevent spoofing of your domain name
+
+396
+dns	spf
+the spf website includes a wizard to generate the dns information for your site
+
+430
+range	min	range	max	min	max
+if you supply an expected range where max 1000 min you can easily guess
+
+451
+dns	spf
+yahoo uses a method called sender id which can be configured at the spf setup wizard and entered in to your dns
+
+471
+lxml	libxml2
+it s in pure python and as i say pretty nice but if you wind up needing more performance then lxml exposes the same api and uses libxml2 under the hood
+
+516
+versioning	upgrade
+i choose not to put schema dumps in under versioning control as alumb and others suggest because i want an easy way to upgrade my production database
+
+516
+versioning	upgrade
+a sequence database upgrade scripts that contain the ddl necessary to move the schema from versioning n to n+1
+
+516
+versioning	upgrade
+gets a new entry every time an upgrade script runs which corresponds to the new versioning
+
+516
+versioning	upgrade
+this ensures that it s easy to see what versioning of the database schema exists and that database upgrade scripts are run only once
+
+518
+folder	directory
+i think you ll have to iterate through the various font folder on the system system library fonts library fonts and there can probably be a user-level directory as well library fonts
+
+532
+maven	pom.xml
+we commit the pom.xml to the scs and the maven repository contains all our dependencies
+
+535
+cruisecontrol	teamcity
+i am starting work on a hobby project with a python codebase and would like to set up some form of continuous integration running a battery of test-cases each time a check-in is made and sending nag e-mails to responsible persons when the tests fail similar to cruisecontrol or teamcity
+
+549
+ssl	https
+ssl https encryption
+
+549
+public	protected
+secret urls public url protected by digest
+
+555
+hash	salt
+instead store the salt hash
+
+555
+hash	salt
+the salt is a public value so you can store them with the hash in the database
+
+568
+int	chars
+int is one of the few primitives in java along with chars and some others
+
+568
+int	chars
+so int is a fancy way to work with an int just as perhaps string is a fancy way to work with a group of chars
+
+576
+gmail	hotmail
+sign up for an account on as many major email providers as possible gmail yahoo hotmail aol etc
+
+583
+int	double
+in c# int is just an alias for system.int32 string for system.string double for system.double etc.
+
+583
+int	double
+personally i prefer int string double etc
+
+591
+versioning	upgrade
+on all subsequent versioning i do two things i make a new text file to hold the upgrade sql scripts that contain just the alters for that versioning
+
+591
+versioning	upgrade
+then rather than make any human decisions about which scripts to run whatever code i have running the create upgrade scripts uses the versioning to determine what to run
+
+650
+versioning	upgrade
+i would like to be able to display a versioning number in the form of 1.1.38 so when a user finds a problem i can log the versioning they are using as well as tell them to upgrade if they have an old release
+
+669
+hash	md5
+md5 sha1 and des are weak password hash
+
+696
+openbsd	centos	post	get
+if anyone has run across getting everything to run natively under openbsd that would be great but what i think i may have to do is setting up a second server running centos with db2 installed most likely via zendcore for ibm since it seems to do all this for me and the driver so that i can set up a small transaction server that i can post against and get a json representation of the db2 data that i need
+
+754
+int	chars
+1 to capitalize it in say c - use the ascii codes to find the int value of the chars and subtract 32 from it
+
+766
+postgresql	mysql
+i can get python to work with postgresql but i cannot get it to work with mysql
+
+798
+mbunit	nunit
+mbunit is worth alook it has a set of features comparable to nunit it has its own gui or can be integrated into vs if you have resharper
+
+886
+pull	push
+if you need a change from someone else though she has to commit to her local repo and then she must push that changeset to you or you must pull it from her
+
+886
+pull	push
+someone has to be responsible for doing that push pull from everyone else s repository resolving any conflicts that would have been resolved at initial commit time before then doing the build and then having all the other developers re-sync their repos
+
+893
+pull	push
+if it were just 2 people i d say git is also easier because you can just push and pull from eachother
+
+906
+translation	localization
+if you get lazy and don t notify the people in charge of translation or you embed strings without going through your localization system it will be a nightmare to try and fix it later
+
+1043
+hex	binary
+w2k edit binary select data format hex click at the end of the hex string enter 0000 four zeros ok
+
+1043
+hex	binary
+wxp right-click the value choose modify binary data click at the end of the hex string enter 0000 four zeros ok
+
+1061
+punctuation	words
+the # char is indexed as punctuation and therefore ignored so it looks like we ll remove the letter c from our words indexing ignore lists
+
+1069
+disk	ram
+when running under a sophisticated debug environment rational purify vs2008 msvc9 or even microsoft application verifier the system becomes memory-speed bound and doesn t crash memory-bound cpu is not getting above 50 disk light is not on the program s going as fast it can box consuming 1.3g of 2g of ram
+
+1070
+solaris	aix
+what is the correct way to get the process size on solaris hp-ux and aix
+
+1131
+chm	winhelp
+then microsoft decided that winhelp was not hip and cool anymore and switched to chm up to the point they actually axed winhelp from vista
+
+1131
+chm	winhelp
+but with winhelp not being an option anymore either i wonder what the alternatives are especially when it comes to integrate with my application for winhelp and chm there are functions that allow you to directly jump to a topic
+
+1145
+free	realloc
+if i try to use realloc i get an error that tells me i am doing a double free - which i don t see how i am since i am only using realloc
+
+1149
+realloc	malloc
+just a shot in the dark because i haven t tried it yet but when you realloc it returns the pointer much like malloc
+
+1154
+free	realloc
+as a general rule you should never do a free or realloc on a user provided buffer
+
+1189
+opera	firefox
+firefox ie and opera all load successfully in the same scenario
+
+1216
+assemblyinfo	csproj
+customizing csproj files to autogenerate assemblyinfo
+
+1238
+chm	winhelp
+if you don t want to use an installer and you don t want the user to perform any extra steps to allow chm files over the network why not fall back to winhelp
+
+1269
+cvs	svn
+the two approaches are more or less the same idea but svn was specifically designed to fix long standing flaws in cvs so in theory at least svn will always be the better choice
+
+1272
+cvs	svn
+cvs only tracks modification on a file-by-file basis while svn tracks a whole commit as a new revision which means that it is easier to follow the history of your project
+
+1272
+cvs	svn
+add the fact that all modern source control software use the concept of revision so it is far easier to migrate from svn than it is from cvs
+
+1278
+cvs	svn
+svn has 3 main advantages over cvs
+
+1312
+turkish	thai
+i was just listening to a podcast from scott hanselman this morning where he talks about internationalization especially the really tricky things like turkish with it s four i s and thai
+
+1314
+nant	cruisecontrol
+we have been using cruisecontrol for quite a while with nunit and nant
+
+1331
+robocopy	xcopy
+note xcopy is now deprecated please use robocopy
+
+1415
+imap	nntp
+imap pop3 and nntp
+
+1453
+put	get
+i don t want to put a magic number in there for weight since the object i am using has a defaultweight parameter that all new shipments get if you don t specify a weight
+
+1488
+subtract	addition
+in addition to john downey and jdecuyper s solutions i ve also added an explicit deny bit at the end beginning of the bitfield so that you can perform additive permissions by group role membership and then subtract permissions based upon explicit deny entries much like ntfs works permission-wise
+
+1496
+vim	emacs
+for those of us that like to use the graphical version of vim or emacs instead of the console version which version do you recommend
+
+1496
+emacs	aquamacs
+for emacs carbonemacs xemacs and aquamacs
+
+1517
+macvim	textmate
+macvim works well and certainly looks more mature than vim-cocoa moreover there is a cocoa plugin architecture in the pipeline for macvim and someone is already working on a textmate style file browser tray plugin which is a huge ++ imho
+
+1528
+inherited	properties
+some of the more recent descendant classes inherited dependency properties which have become vestigial and can be a little confusing when using intellisense or using the classes in a visual designer
+
+1595
+int	chars
+to capatilise it in say c - use the ascii codes to find the int value of the chars and subtract 32 from it
+
+1595
+int	chars
+use library calls don t assume you can use int arithmetic on your chars to get back something useful
+
+1718
+phpunit	simpletest
+this started with junit in the java world and has become a best practice in php as well with simpletest and phpunit
+
+1762
+hide	show
+i am trying to set a flag to show or hide a page element but it always displays even when the expression is false
+
+1820
+testdriven.net	xunit.net
+i like testdriven.net even though i use resharper and i m pretty happy with xunit.net
+
+1821
+nunit	mstest
+for the microsoft-types mstest is adequate but slow and clunky compared to nunit
+
+1821
+mbunit	nunit
+oh and testdriven.net will give you ide integration for both nunit and mbunit
+
+1894
+versioning	upgrade
+i create folders named after the build versioning and put upgrade and downgrade scripts in there
+
+1894
+versioning	upgrade
+each one contains the script that allows you to upgrade or downgrade your database between versioning
+
+1936
+submit	submission
+one such situation is when you encounter validation errors after a form submission and need to redirect back to the form but would like the url to reflect the url of the form not the action page it submit to
+
+1936
+post	get
+if i use the viewdata parameter my post parameters will be changed to get parameters
+
+1995
+int	double
+i have values stored as strings in a datatable where each value could really represent an int double or string they were all converted to strings during an import process from an external data source
+
+1995
+int	double
+try to convert to int and then double
+
+1995
+int	double
+regular expressions designed to match the pattern of an int or double
+
+2048
+rss	feed
+for all the rss feed i subscribe to i use google reader which i love
+
+2048
+rss	feed
+i do however have a couple of specific rss feed that i d like to be notified of as soon as they get updated say for example an rss feed for a forum i like to monitor and respond to as quickly as possible
+
+2057
+rss	feed
+i ve used pingie in the past to send me an sms when a new items appears in an rss feed
+
+2064
+rss	feed
+as matthew stated you really shouldn t bother an rss feed more than the producer allows but you can use http headers to check for changes in a very light way which is something rss2email does quite well
+
+2067
+mvp	presenter
+mvp designs have the presenter access the model and interact with the view
+
+2080
+rss	feed
+if you have access to microsoft outlook 2007 or thunderbird these email clients allow you to add rss feed in the same way you would add an email account
+
+2080
+rss	feed
+i use google reader generally but when i want to keep up-to-date with something specific i add the rss feed to outlook and it arrives in my inbox as if it was an email
+
+2120
+hash	md5
+i want to get the md5 hash of a string value in sql server 2005
+
+2222
+cairngorm	flex
+also are there any other resources on how to do flex development the right way besides the cairngorm microarchitecture example
+
+2328
+client-side	server-side
+for example if we have a client-side ajax action to add a new item to the grid and then a row is dragged the grid is built server-side with one less item than on the client-side
+
+2360
+mouse	keyboard
+go to system preferences keyboard and mouse then choose keyboard shortcuts
+
+2361
+mouse	keyboard
+apple menu system preferences keyboard mouse keyboard shortcuts
+
+2374
+cvs	svn
+from a mechanical perspective you will need to see if they use svn for example on google code or cvs for example on sourceforge and determine if they use patch or some other method
+
+2525
+serializable	deserialization
+serializable deserialization
+
+2562
+wmv	flv
+i found the production of wmv much better and easier than flv because all windows flv encoders i tried are not really good and stable whereas pretty much every tool can natively output wmv
+
+2702
+aggregate-functions	sum
+i know i need to have although i don t know why a group by clause on the end of a sql query that uses any aggregate-functions like count sum avg etc
+
+2750
+getter	setter
+i m wondering if it s a good idea to make verifications in getter and setter or elsewhere in the code
+
+2750
+getter	setter
+this might surprise you be when it comes to optimizations and speeding up the code i think you should not make verifications in getter and setter but in the code where you re updating your files or database
+
+2754
+getter	setter
+validation should be captured separately from getter or setter in a validation method
+
+2761
+getter	setter
+well one of the reaons why classes usually contain private members with public getter setter is exactly because they can verify data
+
+2865
+rss	feed
+i would first find out if the site s in question provide an api server or rss feed for access the data you require
+
+2884
+ubuntu	linux
+if you do feel like using linux then you could try ubuntu
+
+2884
+unix	solaris
+modesty mono provides the necessary software to develop and run .net client and server applications on linux solaris mac os x windows and unix
+
+2905
+mouse	keyboard
+if you keep at it you can use exclusively the keyboard and never touch the mouse which increases your editing speed by a significant margin
+
+2905
+emacs	gedit
+update i think gedit is exclusively gui based though so it would be useful to learn emacs in case you are stuck with just a shell it is fully featured in both shell and graphical mode
+
+2905
+vim	emacs
+further update just fyi i am not trying to push emacs over vim it s just what i use and it s a great editor as i m sure vim is too
+
+2905
+emacs	gedit
+emacs seems the logical choice to me but gedit is a great simple text editor with some nice features if that s all you are looking for
+
+2976
+versioning	upgrade
+revert your site back to a known good status and if need be upgrade to the latest versioning
+
+2984
+clang	llvm
+i ve heard good things about clang static analyzer which iirc uses llvm as it s backend
+
+3010
+gmail	hotmail
+personally i ran mine through a freshly installed spam assassin a trained spam assassin and multiple hotmail gmail and aol accounts
+
+3019
+getter	setter
+if i remember well there was an option through which you could ask vs to create the setter and getter automatically for you
+
+3026
+getter	setter
+if you are using visual studio 2005 and up you can create a setter getter real fast using the insert snippet command
+
+3030
+button	checkbox
+for example if i have a treeview with checkbox think installation of a new program choose features to install page i might want a check all button which would be something like this pseudocode
+
+3032
+getter	setter
+this will create a getter setter property for a variable
+
+3032
+getter	setter
+i m not too big a fan of this technique as it is a little bit awkward to use if you have to create a lot of getter setter and it puts the property directly below the private field which bugs me because i usually have all of my private fields grouped together and this visual studio feature breaks my class formatting
+
+3075
+updatepanel	scriptmanager
+i have a simple page with my scriptmanager and my updatepanel and my contenttemplate has one listbox and one label
+
+3106
+ubuntu	linux
+i m developing some cross platform software targeting mono under visual studio and would like to be able to build the installers for windows and linux ubuntu specifically with a single button click
+
+3143
+teamcity	nant
+i m compiling a nant project on linux with teamcity continuous integration server
+
+3143
+teamcity	nant
+update take a look at mbunittask its a nant task that uses sends messages that teamcity expects from nunit so it lets you use all of teamcity s features for tests
+
+3217
+kate	kde
+kate the kde advanced text editor is quite good
+
+3234
+gif	png
+i am able to display images of type gif jpeg png all i have tested so far bit trying to display .swf or .ico files gives me a nice little error
+
+3315
+ienumerable	ienumerator
+but of course the compiler spits its dummy because foreach expects an ienumerable rather than an ienumerator
+
+3437
+ssl	https
+will the maps api work over ssl https
+
+3457
+firefox	safari
+so long as it works in ie firefox safari insert other browser here you should be okay
+
+3464
+int	double
+in java the primitive wrappers classes like int double float boolean.
+
+3464
+getter	setter
+so that this classes only has getter methods no setter besides the constructor
+
+3485
+getter	setter	public	protected
+i can be wrong because i m autodidact but i never user public properties in my java clases they are allways private or protected so that outside code must access by getter setter
+
+3485
+getter	setter
+if getter method is trivial i use the property directly but i allways use the setter methods because i could easily add code to fire events if i wish
+
+3486
+post	get
+precisely i don t want users automating access to forms issuing direct get post http requests to the appropriate servlet
+
+3511
+addition	multiplication
+according to bodmas multiplication should always be done before addition therefore 17 is actually the correct answer according to bodmas and will also be the answer which your calculator will give if you type in 2 + 3 x 5
+
+3603
+mbunit	nunit
+we use nunit and mbunit here
+
+3776
+hide	show
+once they are added they could be flipped through using hide show or bringtofront sendtoback methods
+
+3790
+put	get
+what i want to know is if there s some kind of redistributable that can be packaged with our software to allow 64-bit users to get the wmi installer provider put onto their machines
+
+3795
+hide	show
+why not just show hide the proper container when a node is selected in the grid
+
+3862
+cvs	svn
+the major centralized vcs are cvs and svn
+
+3862
+cvs	svn
+todo write explanation on what branches are and why merging is hard with cvs svn
+
+3862
+pull	push
+distributed vcs let everyone have their own server where you can pull changes from other people and push changes to a server
+
+3869
+perforce	svn
+my recommendation you re safest with either git svn or perforce since a lot of people use them they are cross platform have good guis you can buy books about them etc
+
+3869
+cvs	rcs
+dont consider cvs sccs rcs they are antique
+
+3881
+nullpointerexception	illegalargumentexception
+i have always been torn in this situation should i throw an illegalargumentexception or a nullpointerexception
+
+3886
+nullpointerexception	illegalargumentexception
+it seems like an illegalargumentexception is called for if you don t want null to be an allowed value and the nullpointerexception would be thrown if you were trying to use a variable that turns out to be null
+
+3895
+bazaar	git
+please do not use git or hg or bazaar because of the hype
+
+3895
+bazaar	git	bazaar	svn
+use git or hg or bazaar because they are better tools for managing source code than svn
+
+3979
+mbunit	nunit
+i used to use nunit but i switched to mbunit since it has more features
+
+4080
+cobertura	emma
+code coverage tools cobertura emma and any others
+
+4098
+emacs	textmate
+you can try emacs with ruby-mode rinari for rails and yasnippet which provides automatic snippets like textmate
+
+4104
+folder	directory
+will merge any files changed in the revision 67212 in the folder trunk on the repository and merge them into your current working directory
+
+4157
+button	checkbox
+as the user changes settings using the app s ui clicking checkbox choosing radio button etc. i plan to be writing those changes out to the appsettings
+
+4166
+ant	jdepend
+we use findbugs and jdepend integrated with ant
+
+4221
+listview	gridview	gridview	linqdatasource	gridview	repeater
+i m going to use the linqdatasource with the listview control not a gridview or repeater
+
+4231
+gridview	linqdatasource	gridview	repeater
+i know that if you use a paging repeater or gridview with the linqdatasource it will automatically optimize the number of results returned but i m also pretty sure in the datasource wizard you can go to advanced options and limit it to
+
+4260
+post	get
+a post with some links to get you started in that direction is here
+
+4312
+phpunit	simpletest
+i like php so phpunit or simpletest work well
+
+4332
+min	max
+start title dpath i min max separate | shared
+
+4408
+.htaccess	httpd.conf
+another solution would be to set an include path in your httpd.conf or an .htaccess
+
+4455
+put	get
+i get that you re mocking the ianimals seeing as apparently you don t yet have any concrete animals to play with but why not just make them stubs because obviously you re not expecting anything else to happen to them apart from being put into the list
+
+4586
+pentaho	olap
+i m not completely familiar with the implications of step 2 in your approach above but if you re looking for a more robust olap solution it might be worth your while to check out mondrian the open-source olap analysis services module of pentaho
+
+4627
+versioning	upgrade
+is it possible to upgrade my asp.net web server to versioning 3.x of the .net framework
+
+4670
+bazaar	git
+so i want to get a project on a distributed version control system such as mercurial git or bazaar
+
+4678
+hash	md5
+md5 and sha1 are typical hash algorithms
+
+4691
+tunnel	vpn
+another option that is often useful as it works over a vpn or simple ssh connectivity is ssh tunnel or x11 forwarding over ssh
+
+4692
+rss	feed
+i wrote a powershell provider to give me access to ie7 s rss feed store and had lots of fun with it
+
+4692
+folder	dir
+it lets me cd to a drive called feed and navigate around folder and feeds using cd and dir
+
+4706
+vmware	esx
+it works with vmware server and workstation but afaik it s not available for esx server
+
+4755
+lisp	scheme
+two semesters ago i used scheme a language based on lisp to write an interactive program that simulated abbott and costello s who s on first routine
+
+4755
+lisp	scheme
+in summary learning lisp or scheme may not yield many practical applications beyond ai but it is an extremely valuable learning experience as many others have stated
+
+4768
+tunnel	vpn
+x11 forwarding with ssh is secure and uses the existing ssh connection to tunnel so working through a vpn should be no problem
+
+4897
+keydown	keyup
+each time keyup or keydown is fired update the reference to the active selected item in the data structure
+
+4924
+button	checkbox
+one method you can used to obtain this option is by placing a checkbox object and changing its appearance from normal to button this will give you the same functionality that i believe you are looking for
+
+4937
+vim	emacs
+vim or emacs varying on religion will always be my first answer to this question over any point-and-click ide
+
+4968
+ready	each
+then at the end of each day or whenever you merge together whatever you are ready to test and you check it out onto the dev server and test it
+
+5036
+vim	emacs
+if you are taking your time switching to linux i d switch to emacs or vim at some point as well
+
+5036
+vim	emacs
+the key with either vim or emacs is knowing it could probably take you the better part of the day just to figure out what you want them to do let alone how to get them to do that
+
+5071
+cvs	svn
+do you guys know any way to recursively add everything in a given directory to the current cvs project or if svn or git makes this notably easier
+
+5142
+interbase	bde
+bde administration version 5.01 installed with interbase 4.0 drivers
+
+5179
+post	get
+an httpwebrequest works great if you don t want to redirect and javascript is fine in some cases but can get tricky if you really do need the server-side code to get the data together for the post
+
+5320
+gtk	motif
+there s a particularly good port for python wxpython as well as versions for different languages -- c# c++ perl and ruby come to mind -- and for various guis win32 mac os x gtk x11 motif wince
+
+5322
+versioning	upgrade
+then you put your scripts to build a new database in your versioning control and it ll either build a new database or upgrade any existing database to the schema in versioning control
+
+5343
+ada	pascal
+bindings exist for ada qtada 4 c # qyoto kimono 5 java qt jambi 6 pascal perl php php-qt ruby rubyqt and python pyqt
+
+5357
+implements	extends
+i don t know how java is implements internally but if the constructor of the superclass throws an exception then there isn t a instance of the class you extends
+
+5357
+equals	tostring
+it would be impossible to call the tostring or equals methods for example since they are inherited in most cases
+
+5382
+int	boolean
+they re called bitwise but they are defined for both int and boolean data types in c#
+
+5445
+int	boolean	int	double
+it is pointless and distracting but is in relatively heavy use at my company at least for types like int strings boolean and double
+
+5462
+versioning	upgrade
+the times i ve run into headaches using cs is when the client wants functionality cs does not provide but also insists on keeping the ability to upgrade to the latest versioning whenever telligent releases an update
+
+5503
+expressionengine	multisite
+expressionengine with the multisite manager works great for that kind of situation
+
+5572
+hash	salt
+also if you are going to store the password field i highly recommend storing the password as a salt hash binary in the database
+
+5823
+mouse	keyboard
+take command does support copy cut paste from the keyboard and the mouse
+
+5872
+folder	directory
+i m getting tired of making a branch and then going through the branch and deleting all of the .svn folder the docs directory and my prototyping files
+
+5887
+folder	directory
+right click the root project folder tortoisesvn export and tell it where you want the .svn free directory
+
+5943
+for-loop	loops
+the reasoning is that you have n iterations in the for-loop and o 1 work in side loops
+
+5997
+getter	setter
+in my form class i wouldn t think twice about using getter and maybe setter around this even if they didn t do anything other than provide direct access to the variable
+
+5997
+getter	setter
+however the vs designer doesn t seem to implement such getter setter for those public objects that are components on a form and therefore does not comply with good programming practice
+
+5997
+getter	setter
+in order to do the right thing should i wrap such vs designer components or objects in a getter and or setter
+
+6003
+getter	setter
+i always do that and if you are following an mvp design creating getter setter for your view components would be a design requirement
+
+6003
+getter	setter
+microsoft violates a lot of good programming practices to make it easier to create stuff on visual studio for the sake of rapid app development and i do not see the lack of getter setter for controls as evidence of violating any such best practices
+
+6005
+getter	setter
+the reason for not implementing getter and setter for components on a form i believe is cause they wouldn t be thread safe .net objects are suppose to be only modified by the form thread that created them if you put on getter and setter you are potentially opening it up for any thread
+
+6014
+put	get
+the general idea i have in mind is create one that before the commit will put the new revision number in the file get it using svnlook or maybe change a bogus property on the file it has to change or svn will ignore it
+
+6018
+getter	setter
+however the vs designer doesn t seem to implement such getter setter for those public objects that are components on a form and therefore does not comply with good programming practice
+
+6018
+getter	setter
+a form could have forty or fifty controls it d be somewhat unnecessary and unwieldy to provide a getter setter for every control on the form
+
+6018
+getter	setter
+the designer leaves it up to you to provide delegated access to specific controls via public getter setter
+
+6022
+maven	cobertura
+cobertura for our coverage reports - run from maven
+
+6095
+hide	show
+public methods or properties are behavior show hide position or data-oriented set data get data update data
+
+6113
+post	get
+unfortunately i can t get to the jon galloway post at work so i can t judge if that will work
+
+6188
+opera	safari	opera	firefox	firefox	safari
+standards based and works in ie6 safari firefox opera etc
+
+6192
+free	malloc
+the inefficient malloc free backend
+
+6199
+folder	directory
+use the export command to export to a folder called export in the same directory as a file called deploy.bat then i run the deploy script v1 stands for version 1 which is what version i am currently on in this project this script utilizes 7-zip which i have placed on my system path so i can use it as a command line utility
+
+6285
+firefox	safari
+if safari and firefox support is good enough for you there is a css solution
+
+6296
+rss	feed
+in my work place we ve set up a post-commit hook that generates rss feed that are displayed in various dash boards and are used for code reviewers to know when it is time to review and for us to see that new employees are committing enough
+
+6309
+integer	unsigned
+typically integer values are signed unless you explicitly need an unsigned value
+
+6344
+min	max
+also it won t work if your min and max are greater than 10000
+
+6359
+rss	feed
+as the lead developer i get a roll-up of commits every morning via the rss feed from that basecamp forum and can see what my team has been up to pretty quickly
+
+6371
+versioning	upgrade
+a follow-up question how do you track database versioning so you know which scripts to run to upgrade a given database instance
+
+6371
+post	put
+it s about 200 lines so i won t post it though i might put it on pastebin if there s interest
+
+6378
+put	get
+i m starting to get the feeling that each of these client implement different parts of the standard and i m unsure of what pieces of information we should be trying to export from the application so that someone can put it on their calendar especially around recurrence
+
+6382
+versioning	upgrade
+these scripts will upgrade the current production database to the new versioning in development
+
+6405
+free	malloc
+just malloc a new buffer return that and let the caller decide whether or not to free the old text
+
+6441
+firefox	safari
+the following code works great in ie but not in firefox or safari
+
+6441
+firefox	safari
+it works great in ie but the problem manifests itself in firefox 3 in my case and safari all on windows xp
+
+6456
+firefox	safari
+in firefox and safari document.frm in your code evaluates to undefined
+
+6463
+folder	directory
+flubba does this allow me to have folder inside my include directory
+
+6471
+solaris	aix
+at least it didn t worked in aix and solaris
+
+6543
+implements	sealed
+is there a way to implements a sealed class from an interface.
+
+6578
+free	malloc
+i m reasonably comfortable with c s malloc and free concept but cocoa s references counting scheme has me rather confused
+
+6607
+config	ini
+storing them in a local ini file or config file or similar
+
+6614
+free	malloc
+the basic way this differs from malloc and free is that any given object doesn t need to worry about other parts of the system crashing because you ve free memory they were using
+
+6620
+config	ini
+if you just need a simple way to store config information i would recommend a config file using ini or xml as the format
+
+6651
+bazaar	git
+there s a nice comparison between git hg and bazaar in this infoq article
+
+6658
+junit	testng
+we have been considering switching over to junit 4 for new tests being written but i have been keeping an eye on testng for a while now
+
+6658
+junit	testng
+what experiences have you all had with either junit 4 or testng and which seems to work better for very large numbers of tests
+
+6659
+junit	testng	junit	unitils	junit	easymock	testng	unitils	testng	easymock	easymock	unitils
+but i would recommend unitils a great wrapper for junit testng dbunit easymock regardless of which route you take
+
+6661
+onmousedown	onmouseup
+i m aware of things like onchange onmousedown and onmouseup but is there a good reference somewhere that lists all of them complete with possibly a list of the elements that they cover
+
+6671
+junit	testng
+testng strives to be much more configurable than junit but in the end they both work equally well
+
+6757
+config	ini
+if it s a small application and you want to have aspects of it user-configurable without making a config form go for a quick ini file
+
+6778
+firefox	safari
+the background renders correctly in firefox and safari however as soon as you use the browser s scroll bar then mouse over the flash control you must click once to activate the control
+
+6824
+profiling	benchmarking
+but it s a guess try benchmarking and or profiling the two to get a proper comparison
+
+6824
+profiler	perf
+if you suspect a perf bottleneck then stick a profiler on your code and see where it really is
+
+6854
+png	ico
+i like the free silk icons at famfamfam but they re png s and when i convert them to ico format they look pretty crappy
+
+6932
+mp3	flv
+i d like to do something like youtube or google video where users can upload whatever format they want and i encode it to flv mp3 and or mp4
+
+6950
+mouse	keyboard
+the left monitor is actually a separate computer running linux and keyboard mouse shared with synergy so i have multiple ebooks or documentation pages open one on each virtual desktop.
+
+6955
+atomic	compare-and-swap
+edit chris s suggestion to use an atomic compare-and-swap would certainly work
+
+7020
+processors	work-stealing
+or if you prefer have one reader thread assign the lines to three other processors threads via their own queues and implement a work-stealing strategy
+
+7031
+hide	show
+using javascript to show and hide buttons and php to check to see which buttons to show
+
+7035
+ubuntu	linux
+i m writing a few little bash scripts under ubuntu linux
+
+7035
+sudo	passwd
+so far the only input required is a passwd for sudo - and gksudo handles that fine
+
+7080
+stdout	stderr
+the following will silence both stdout and stderr
+
+7080
+stdout	stderr
+the following silences stdout but stderr will still appear via stdout
+
+7087
+hide	show
+if you don t intend to show the buttons it s not useful to send the html and images to the browser and then hide them with javascript
+
+7097
+getter	setter
+in the book he talks about how to handle mutable objects that callers pass to your code in setter and mutable objects that you pass to callers in getter
+
+7098
+opera	google-chrome	opera	safari	opera	firefox	firefox	safari	google-chrome	firefox	google-chrome	safari
+if you are using a browser that doesn t implement border-radius google-chrome pre-v4 firefox pre-v4 ie8 opera pre-v10.5 safari pre-v5 then the links below detail a whole bunch of different approaches
+
+7099
+opera	safari	opera	firefox	firefox	safari
+although this works ok in the latest versions of safari and firefox but not at all in ie7 and i don t think in ie8 or opera
+
+7104
+accessor	properties
+the best you can do is detect when this happens and throw an exception by checking that instance is non-null in the properties accessor
+
+7151
+actionlink	redirecttoaction
+unlike rails url_for anchor urlhelper.generateurl and actionlink redirecttoaction and so on which use it don t have a magic property name that lets you encode an anchor
+
+7190
+ncover	nant
+we are currently looking at configuring cruise control to work with nant nunit ncover and trac as a test case
+
+7192
+coalesce	isnull
+using coalesce or isnull for that matter as shown in the link in lance s post uses a similar method but doesn t leave you with an extra comma to remove
+
+7206
+opera	safari
+there is now a firebug lite that works on other browsers such as internet explorer safari and opera built
+
+7221
+ncover	cruisecontrol	ncover	fxcop
+we use cruisecontrol with nunit ncover fxcop svn and some custom tools we wrote ourselves to produce the reports
+
+7222
+opera	safari
+this is the firebug lite that john was referring to that works on ie safari and opera
+
+7257
+int	double
+as you have a string i d look at whether you need to know that it s an int rather than a double
+
+7257
+int	double
+if int.tryparse passes then so will double.tryparse so you could half the number of checks - return either double or string and floor the double when you expect an int
+
+7276
+feedback	review
+it might help if your code review feedback or discussions reference the book so he or she has a thread to pick up and follow
+
+7343
+folder	directory
+i m not in a position to modify the permissions on folder especially outside of the virtual directory home folder and don t already have an app_data folder so am a bit hesitant to go with that
+
+7345
+folder	directory
+i m not in a position to modify the permissions on folder especially outside of the virtual directory home folder and don t already have an app_data folder so am a bit hesitant to go with that
+
+7367
+inherited	properties
+i m looking for help setting a new default properties value for an inherited control in visual studio
+
+7385
+int	boolean
+darren that would work if the types were specific enumerations - for general enumerations to work you have to cast them to int or more likely uint to do the boolean math
+
+7470
+rss	feed
+after a couple hours fighting with the gallery2 rss module and getting only the message no feed have yet been defined i gave up
+
+7540
+cpu	processors
+i would like to be able to see what tabs are using what percent of my processors via the javascript on that page or anything in the page that is causing cpu memory usage
+
+7669
+stdout	stdio
+it opens a console then shoves the right handles into stdout and stdin so the debug function which was designed as a stdio interactive function can interact with the newly created console
+
+7682
+stdout	stderr
+msvcrt tries to emulate the unix handle numbers where stdin 0 stdout 1 stderr 2 and so on
+
+7715
+organization	naming
+naming is hard but in every organization there is someone who can name things and in every software team there should be someone who takes responsibility for namings standards and ensures that naming issues like sec_id sec_value and security_id get resolved early before they get baked into the project
+
+7724
+organization	naming
+the adventureworks sample uses a very clear and consistent naming convention that uses schema names for the organization of database objects
+
+7729
+apache	lighttpd
+the server-side part of this http pseudo-streaming method is fairly simple to implement for example in php as an apache module or a lighttpd module
+
+7756
+unix	solaris
+the problem is that the op s data seems to be comma delimited and solaris 8 s uniq doesn t allow you any way specify the record separator so there wasn t a super clean way to do the preprocessing using standard unix tools
+
+7756
+uniq	grep
+you could probably massage the uniq output into a single regexp to feed to grep but the benefit would only be known if the op posts expected ratio of lines containing suspected duplicate keys to total lines in the file
+
+7771
+rss	feed
+i use rss bandit for windows to stay up to date with my rss feed blogs
+
+7771
+rss	feed
+if you don t want another big application but have windows vista you could also choose to make internet explorer monitor the rss feed and use the feed sidebar application called feedschlagzeilen in german version not sure about the english one that comes with vista to show the latest headlines
+
+7815
+post	get
+i did not copy any of his answer here to ensure patrick steele get s credit for his post
+
+7833
+firefox	safari
+however in firefox 3.0.1 and safari 3.1.2 you must click the play button twice to see the animation
+
+7852
+textmate	geany
+when i searched for textmate alternative for linux i ended up using geany
+
+7856
+profiling	debugging
+set up a profiling for development then debugging by tweaking the source code adding logging and alert s and reloading the affected window
+
+7873
+contentplaceholder	loginview
+is there a way to hide this on the loginview as the contentplaceholder does an excellent job for this
+
+7926
+apache	nginx
+it s a lot easier to get going than the traditional solution of apache nginx + mongrel
+
+7949
+gedit	bbedit
+classic menubar-based editors like winedit gedit or bbedit
+
+7949
+emacs	aquamacs
+emacs and its brethren xemacs aquamacs etc
+
+7949
+emacs	textmate
+emacs and textmate are also easily extensible by user-created scripts in lisp emacs or any other command-line-language textmate
+
+7957
+versioning	upgrade
+when restoring backup sets from an earlier versioning of sql server a database upgrade may be required
+
+7958
+hide	show
+you can use javascript to hide the elements just before displaying an overlay then show them again once you re done
+
+7986
+rss	feed
+personally i prefer to send a message to something i can get an rss feed from as an email-per-commit would overload my inbox pretty quickly
+
+8035
+int	chars
+e is assumed to be an int converted to an unsigned chars and printed
+
+8042
+ienumerable	iqueryable
+is this what ms have done to ienumerable and iqueryable for linq
+
+8249
+fseek	ftell
+change the definition to int so that error messages can be transmitted and then use fseek and ftell to determine the file size
+
+8250
+fseek	ftell
+a quick search in google found a method using fseek and ftell and a thread with this question with answers that it can t be done in just c in another way
+
+8273
+integer	unsigned
+iirc the standard library defines off_t as an unsigned 64 bit integer which is what everyone should be using
+
+8286
+rss	feed
+seconding matt miller on rss feed
+
+8286
+rss	feed
+there s a useful tool called websvn that offers rss feed of every repository and individual branches tags folders with full commit messages
+
+8369
+.nettiers	codesmith
+in c# i love linq to sql for anything new but i really like using .nettiers + codesmith generator to get a quick and dirty data layer to the database happening if i m using c# on .net 2.0
+
+8371
+ssl	https
+i have a server on https for which i paid an ssl certification for and a mirror for which i haven t and keep around for just for emergencies so it doesn t merit getting a certification for
+
+8381
+ubuntu	debian
+ubuntu works well the only caveat is that you have to install rubygems manually as it does not adhere to the great debian filesystem naming ideology -
+
+8484
+post	get
+then if they are not then send it i m sure it wont take that many post to get to 100 and the community will instantly dive on anyone seem to be spamming with offensive tags why not add a report spam link that downmods by 200
+
+8532
+int	boolean
+and why does increasing the boolean query s static max clauses int actually make this error go away when i m definitely only using a prefix query
+
+8573
+accessor	properties
+this creates a proper accessor to that control that won t expose the control s whole set of properties
+
+8574
+hide	show
+you can use this public property to hide or show the control or to ask the control current visibility property
+
+8602
+put	get
+you could get visual c++ express and put together the startup program pretty easily
+
+8636
+int	double
+for many types int double datetime etc there is a static parse method
+
+8730
+postgresql	mysql
+if a query is more then just a simple select on a single table i always run it through explain if i am on mysql or postgresql
+
+8770
+cairngorm	flex
+about how to develop flex applications the right way i wouldn t look too much at the cairngorm framework
+
+8770
+cairngorm	flex	cairngorm	puremvc
+it uses flex to its full potential doesn t rely on global variables as cairngorm and puremvc and it makes it possible to write much more decoupled code
+
+8941
+implements	extends
+plus if you then need to later extends to any lightweight custom types they can also implements the same interface with no changes required to the base code
+
+8950
+firefox	safari
+edit browsing a sharepoint wss site on a mac whether using firefox or safari has a very similar look and feel as it does on windows ie
+
+8970
+macbook	isight
+is it possible to access the isight camera on a macbook programmatically
+
+9030
+ssl	https
+enabling ssl https for iis in windows xp
+
+9033
+accessor	properties
+properties accessor accessibility modifiers by xanadont
+
+9040
+put	get
+even if you do get it to switch drives it still is going to put a lot of stuff on the system drive
+
+9067
+sorting	filtering
+with this property in my baseclass i can automate handling of paging setting filtering values to filtering a gridview make sorting really easy etc
+
+9102
+postgresql	mysql
+if you re using mysql or postgresql there s various tools for seeing query activity in real time but i haven t found a tool as good as the sql profiler for measuring query performance over time
+
+9142
+mp3	ogg
+i ve been looking at the ntag project as well which handles mp3 wma ogg
+
+9193
+freebsd	linux
+linux freebsd and mac os x this final one on different hardware all degrade much more gracefully in terms of aggregate bandwidth when moving from one thread to two
+
+9193
+freebsd	linux
+my home unbranded pc amd athlon64 running windows xp 32-bit freebsd 64-bit and linux 64-bit with single drive
+
+9196
+folder	directory
+delete the bin and obj folder in your solution directory
+
+9218
+debian	linux	ubuntu	linux	ubuntu	debian
+let the nice package maintainers from linux distros such as debian or ubuntu do the work for you
+
+9240
+getter	setter
+in your business logic layer you have described your business objects getter setter accessors and so on.
+
+9288
+folder	directory
+this takes all of the files in my home directory and uses rsync s archive mode -a verbosly -v lists all of the changes made -i while deleting any files that don t exist anymore --delete and puts the in the folder home me school on my remote server
+
+9304
+getter	setter
+but when i want to actually implement some getter setter logic i have to use the private public pair anyway
+
+9304
+getter	setter
+i see the benefit that i save a lot of code one vs six lines without losing the ability to change the getter setter logic later but then again i can already do that by simply declaring a public field public string title without the need of the get
+
+9308
+getter	setter
+if you want to do stuff in getter or setter there s no problem to convert them to normal properties later on
+
+9308
+getter	setter
+also the properties allow you to set different access levels for the getter and setter which you can t do with a field
+
+9421
+int	chars
+for a function that returns an int and takes a chars you would do
+
+9596
+getter	setter
+but then again i prefer my private public pair to be together because that allows for easier debugging of getter setter logic as you see the private and public property next to each other
+
+9615
+svg	vml
+ie handles vml though and there are even javascript libraries that do some canvas-like drawing depending on a browser svg vs
+
+9615
+mouseover	mouseout
+the level of interactivity i need is ability to detect dom events on the vector image being displayed - mouseover mouseout click etc
+
+9639
+int	boolean
+results in a null if t is a reference type and 0 if it is an int false if it is a boolean
+
+9654
+opera	safari	opera	firefox	firefox	safari
+safari opera and firefox all support svg natively eg
+
+9654
+svg	vml
+unfortunately any standards based approach is kind of destroyed by ie s willful disregard of what is happening outside its own ecosystem however there are a number of libraries that try to convert canvas svg into vml ie s proprietary vector language such as iecanvas
+
+9749
+vmware	esx
+vmware esx vmware server xen installations..
+
+9769
+profiling	debugging
+i d like to script flexbuilder so that i can run debugging or profiling without having to switch to flexbuilder and manually clicking the button or using the key combo
+
+9788
+subtraction	addition
+additionally while reads and writes are atomic there is a race condition with addition subtraction and incrementing and decrementing primitive types since they must be read operated on and rewritten
+
+9801
+postgresql	mysql
+if you really want a free alternative that is similar to ms sql and supports growth should you need it you could have a look at mysql or postgresql
+
+9810
+globalization	localization
+take into consideration the fact that for globalization localization purposes some parts of the world use different calendars methods of organization of the year
+
+9814
+addeventlistener	onload
+there still is an ugly solution which is far inferior to using a framework or addeventlistener attachevent that is to save the current onload event
+
+9826
+queue	fifo
+while linux and others can choose between different policies before vista windows was locked in a single policy a fifo queue where all requests where splitted in 64 kb blocks
+
+9910
+post	get
+a recent post from 37signals gearheads don t get it really sums up a good point about not focusing on the technical details but content and community
+

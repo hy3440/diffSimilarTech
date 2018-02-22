@@ -1,12 +1,11 @@
-import nltk
+# import nltk
 import os
 import pickle
-from prepros import add_patterns, get_cv_and_cin, get_words
-import pymysql.cursors
-import spacy
-from spacy.matcher import Matcher
-import sys
-import webbrowser
+# from prepros import add_patterns, get_cv_and_cin, get_words
+# import pymysql.cursors
+# import spacy
+# from spacy.matcher import Matcher
+# import webbrowser
 
 # nlp = spacy.load('en')
 # matcher = Matcher(nlp.vocab)
@@ -16,25 +15,7 @@ import webbrowser
 # print pattern
 
 
-# connection = pymysql.connect(host='localhost',
-#                              user='root',
-#                              password='yfwrshgrm',
-#                              db='stackoverflow')
-# try:
-#     with connection.cursor() as cursor:
-#         # word = "java"
-#         num = sys.argv[1]
-#         cursor.execute("SELECT Body FROM Posts WHERE Id={}".format(num))
-#         # for i in range(cursor.rowcount):
-#         row = cursor.fetchall()
-#         with open("{}.html".format(num), "a") as f:
-#             f.write(str(row))
-#         f.close()
-#         webbrowser.get('mozilla').open_new_tab(os.path.join(os.getcwd(), "{}.html".format(num)))
-#         # print body
-#         # pos_tag = nltk.pos_tag(row)
-# finally:
-#     connection.close()
+
 
 # # Insert pairs.txt into mysql
 # cursor = connection.cursor()
@@ -49,3 +30,11 @@ import webbrowser
 #         connection.commit()
 #         count += 1
 # connection.close()
+
+synonyms_file = open(os.path.join(os.pardir, "data", "synonyms_for_all_similar_techs.pkl"), 'rb')
+synonyms = pickle.load(synonyms_file)
+synonyms_file.close()
+
+for key in synonyms.keys():
+    if key[0] == ".":
+        print(key)

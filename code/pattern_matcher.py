@@ -115,11 +115,11 @@ class PatternMatcher:
         patterns = self.matcher(self.nlp(u'{}'.format(" ".join(tag_list))))
         if patterns != []:
             self.compa_sent_count += 1
-            out_file = open(os.path.join(os.pardir, "out", "tech_v3", "sentences.txt"), "a")
+            out_file = open(os.path.join(os.pardir, "out", "tech_v4", "sentences.txt"), "a")
             out_file.write(" ".join(words))
             out_file.write("\n")
             out_file.close()
-            data_file = open(os.path.join(os.pardir, "out", "tech_v3", "output.txt"), "a")
+            data_file = open(os.path.join(os.pardir, "out", "tech_v4", "output.txt"), "a")
             data_file.write("{}\n".format(current_id))
             data_file.write("{}\nPattern(s): ".format(tech_pair))
             for pattern in patterns:
