@@ -1,0 +1,144 @@
+15300011
+width	height
+are there others aside from device width and height
+
+15300058
+hide	show
+if you chose to do it without hitting the database each time a notion improved in datatables by a process called pipelining then you d spit out divs of information based on the amount to display then show and hide them based on the page you want to be on
+
+15300059
+width	height
+what i would like to do is to make the img display using the div s width and stretch its height
+
+15300102
+folder	directory
+and the folder which can also be found in the project root directory is called
+
+15300163
+children	parent	width	height
+when a container s children have non-integer dimensions will there ever be instances where the sum of the child lengths or height not equal the inner width height of the parent element
+
+15300167
+ubuntu	debian
+i dont use ubuntu debian not sure how to do this
+
+15300198
+caliburn	prism
+here s a really crude example showing how different wpf controls can be shown in a single wpf window using contentcontrol and binding which is what a toolkit like prism or caliburn micro does
+
+15300203
+getter	setter
+i had to revoke the accepted answer creating getter and setter dynamically via object.defineproperty since though i thought it would solve my problem it doesn t really
+
+15300203
+getter	setter
+and those objects are usually updated via the getter not the setter
+
+15300203
+getter	setter
+as far as i can see i have no chance to notice changes done in this way with my dynamic getter setter implementation
+
+15300205
+children	parent
+in qt especially in qstandarditemmodel children are stored relative to their parent not relative to the model
+
+15300236
+hide	show
+unfortunately jquery uses display in show hide so you ll have to do it manually
+
+15300264
+directwrite	direct2d
+for example a browser may delegate its anti-aliasing to an os component such as ie9 does to windows direct2d and directwrite
+
+15300264
+width	height
+equal the inner width height of the parent element
+
+15300264
+google-chrome	safari
+note my earlier comment about the differences between google-chrome and safari on the same machine
+
+15300306
+int	chars	int	double	int	boolean
+a specialized template parameter here gets expanded rewritten for 9 different primitive types void boolean byte chars int long short double float
+
+15300352
+backtracking	greedy
+if you want the absolute optimal solution to clean the board you will have to use classic backtracking but if the matrix is very big it will take ages to find the best solution if you want an possible optimal solution you can use greedy algorithm if you need help writing the algorithm i can help you
+
+15300470
+post	get
+the email sends but upon opening the email there is no post data so i just get the strings i defined in the php script
+
+15300472
+hide	show
+here is the problem when i right-click the application icon in the dock select the menu item hide then after the application has hidden i select the show menu item from the dock and the problem occurs the main document window does not appear the palettes and menu do appear
+
+15300472
+hide	show
+at this point the show menu item does not change to hide even though the palettes have become visible
+
+15300472
+hide	show
+the document window show and the dock menu item for my application changes to hide as expected
+
+15300472
+hide	show
+i had suspected that an exception was being thrown and when i tested it using xcode s exception breakpoint as well as putting a breakpoint on objc_exception_throw just in case it dd not break when i hide or show the application
+
+15300472
+hide	show
+i have a idle event handler so from there i printed out the value of while i hide and show the application
+
+15300472
+hide	show
+i have read online that it is something that mac os x adds to command-line arguments for gui applications and i see it added to the command-line arguments for other applications that hide and show properly from the dock menu
+
+15300478
+portrait	landscape
+sometimes there is the problem in device s orientation from portrait to landscape or vice-versa
+
+15300507
+google-chrome	firefox
+i m trying to use the html5 audio tag in firefox or other browsers other than google-chrome but it doesn t seem to work
+
+15300536
+width	height
+b2 and b3 are the original width and height while b13 and b14 are the scrunched width and height
+
+15300559
+stdout	stderr
+check whether stderr stdout have been redirected anywhere in the program
+
+15300590
+oncreate	setcontentview
+inside oncreate after the setcontentview line
+
+15300613
+hide	show
+it works only when the source variable is show and it should work the otherway too when it is not equal to show or equal to hide please hide the classshow
+
+15300647
+setcontentview	findviewbyid
+you should use findviewbyid after setcontentview
+
+15300711
+preorder	inorder
+i plan to go through the xml file and create objects out of the data and create a vector of the objects in preorder and inorder so that i can construct the tree object
+
+15300711
+preorder	postorder
+my preorder and postorder methods
+
+15300711
+postorder	inorder	preorder	inorder	preorder	postorder
+so far i m able to go through the file and get the objects in preorder and postorder but i can t figure out how to get the data in inorder since there are no left or right pointers to call the function recursively
+
+15300749
+google-chrome	firefox
+it is currently only in google-chrome and firefox nightlies
+
+15300749
+google-chrome	firefox
+recently it has become stable enough that google-chrome can talk to firefox rather than just google-chrome to google-chrome and firefox to firefox
+

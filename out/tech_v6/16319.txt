@@ -1,0 +1,76 @@
+13700035
+accelerometer	gyroscope
+wait for the accelerometer or gyroscope delegate to fire up
+
+13700035
+accelerometer	gyroscope
+to atol the panorama once you come back to your starting point you will have to add all the accelerometer and gyroscope changes together and check if they are nearly one
+
+13700035
+accelerometer	gyroscope
+wait for the accelerometer or gyroscope delegate to fire up
+
+13700035
+accelerometer	gyroscope
+to atol the panorama once you come back to your starting point you will have to add all the accelerometer and gyroscope changes together and check if they are nearly one
+
+13700044
+labwindows	cvi
+we use cvi labwindows
+
+13700057
+min	max
+u should do some research before ask such questions its easy to figure it out with google it will take something like 20 min max
+
+13700139
+width	height
+but i need also to change the width height of the iframe after i change the image
+
+13700219
+comparator	comparable
+either you make player implementing comparable and use collections.sort players or you can directly create a comparator like this
+
+13700219
+comparator	comparable
+but this means that either your class person implements the comparable interface or you can pass an instance of comparator as the second argument of the collections.sort method as done above
+
+13700267
+subtraction	addition
+i m trying to write a method that does addition and subtraction
+
+13700322
+post	get
+it explains how you can get more meaningful messages out of the post build event failures
+
+13700342
+submit	submission
+i can do it when user submit the form.but my requirement is to check value with out submission form and username should get focus
+
+13700355
+width	height
+this algorithm assumes that we search a sub-matrix with contiguous rows and columns and with the largest possible product of height and width
+
+13700411
+interpolation	splines
+note that interp1 also accepts additional arguments like splines or pchip that allow you to specfify what interpolation kernel to use
+
+13700427
+google-chrome	firefox
+seems to work in latest google-chrome and firefox
+
+13700430
+aggregate-functions	sum	min	max
+aggregate-functions sum min max count and so forth
+
+13700438
+google-chrome	firefox
+clicking on first radio button then in select box it will show contents related to first radio button respectively...selecting first radio button its working fine when i am selecting second radio button the select box height is decreasing cant able to visible at all third also same its happening in google-chrome firefox its working fine
+
+13700455
+post	get
+to get a list of all the post variable information that the customer fill out
+
+13700580
+hide	show
+manually sort the table column to refresh the table content is not making sense so i have searched and found solution to show hide the table columns for updating the table view
+
