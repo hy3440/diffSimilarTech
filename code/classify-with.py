@@ -1,7 +1,7 @@
 import datetime
 import io
 from multiprocessing import Process
-# import nltk.tag
+from nltk import pos_tag
 from nltk.tag.stanford import CoreNLPPOSTagger
 import os.path
 import spacy
@@ -88,7 +88,6 @@ def classify(no):
         nlp = spacy.load('en')
         matcher = Matcher(nlp.vocab)
         add_patterns(matcher)
-        # with io.open(os.path.join(os.pardir, "out", "tech_v5", "{}.txt".format(no)), "r", encoding="utf-8") as data_file:
         with open(os.path.join(os.pardir, "out", "tech_v6", "{}.txt".format(no))) as data_file:
             compa_sent_count = 0
             for line in data_file:
@@ -99,13 +98,9 @@ def classify(no):
                     tech_pair[-1] = tech_pair[-1].strip()
                 elif num % 4 == 2:
                     tag_list = []
-                    # for token in doc:
-                    #     tag = token.tag_
-                    #     word = token.text
-                    # print(line)
+                    words = []
                     flag = False
                     for (word, tag) in CoreNLPPOSTagger(url='http://localhost:9000').tag(line.split(" ")):
-                    # for (word, tag) in nltk.pos_tag(line.split(" ")):
                         if flag:
                             word = "." + word
                             flag = False
@@ -117,8 +112,10 @@ def classify(no):
                             tag_list.append("TECH")
                         elif word == ".":
                             flag = True
+                            continue
                         else:
                             tag_list.append(tag)
+                        words.append(word)
                     pos_tag = " ".join(tag_list)
                     patterns = matcher(nlp(pos_tag))
                     if patterns != []:
@@ -129,7 +126,6 @@ def classify(no):
                         for (pattern, start, end) in patterns:
                             data_file.write("pattern"+str(pattern)+"\t")
                             out_list = []
-                            words = line.split()
                             if pattern in pattern_set:
                                 for i in range(len(words)):
                                     if tag_list[i] == "TECH":

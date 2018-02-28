@@ -1,0 +1,1324 @@
+90039
+csla	.net
+although the csla framework is written in .net the overall approach can be used in any language
+
+90049
+opera	firefox
+this works for opera 9 but not for firefox 2 or internet explorer 7
+
+90068
+inherited	subclassing
+by implementing multiple interfaces one can have a class that is a subclassing to inherited some features yet also inherited the features of another by implementing an interface
+
+90095
+lxml	beautifulsoup
+there s lxml for parsing well-formed html but you should really use beautifulsoup if you re not 100 certain that your input will always be well-formed
+
+90138
+html5lib	lxml.html	html5lib	beautifulsoup	lxml.html	beautifulsoup
+use beautifulsoup html5lib or lxml.html
+
+90163
+integer	unsigned
+the most sensible data type for that column is an unsigned small integer
+
+90165
+vim	emacs
+there might even be a vim or emacs script that already does something similar
+
+90196
+profiler	yourkit
+use a profiler e.g yourkit
+
+90197
+post	get	post	put	put	get
+instead of the classic database jsp actions scheme for mvc you ll find yourself moving to a servlet javascript scheme whereby the model is represented by http get requests actions are represented by post put delete requests and the view is rendered on the fly by the web browser
+
+90242
+int	double	int	boolean
+the double equals operator is used to compare values such as a pair of int and returns a boolean
+
+90245
+getter	setter
+as for the getter and setter
+
+90245
+cobertura	emma
+to test them is usually not necessary as the coverage is obtained by testing the logic - try to check some coverage reporting tools like cobertura clover or try emma and see what needs to be tested
+
+90283
+irrlicht	ogre3d
+ogre3d and irrlicht are both popular 3d game engines for c++
+
+90308
+subtract	add
+add and subtract intervals from timestamps
+
+90352
+webclient	httpwebrequest	webclient	webrequest
+the guys over at vbdotnetheaven.com have a simple example using the webclient webrequest and httpwebrequest classes
+
+90408
+doc	rtf
+i would suggest using rtf if you can as there really is not a sound solution for doc files yet
+
+90423
+udp	tcp
+do i really need to use udp packets or will tcp suffice
+
+90444
+udp	tcp
+the protocol it s important that you decide whether you want tcp or udp
+
+90455
+pycrypto	keyczar
+see google s keyczar project which provides a nice set of interfaces to pycrypto s functionality
+
+90473
+put	get
+less duplication http already represents operations like delete put get etc
+
+90477
+quicksort	mergesort
+as many people have noted the average case performance for quicksort is faster than mergesort
+
+90482
+post	get
+the reason for this is that rest is based on normal http requests which enables intent to be inferred from the type of request being made get retrive post write delete remove etc... and is completely stateless
+
+90539
+postgresql	mysql
+most other database servers like mysql and postgresql have similar interfaces for connection and manipulation
+
+90575
+serializable	deserialization
+typically this happens when we have cpu intensive operations in the code like xml parsing serializable deserialization etc
+
+90575
+profiler	yourkit
+in my experience yourkit profiler is very good
+
+90596
+width	height
+you ll just need to set the height and width on the cell and that should be it
+
+90609
+hash	salt
+instead why not hash the username and password and a secret salt and set that as the cookie value
+
+90616
+ant	maven
+plugins for eclipse maven ant and idea are available
+
+90655
+getter	setter	mutators	getter	mutators	setter
+gotcha #3 - of accessors and mutators getter and setter
+
+90655
+int	double	int	chars
+in java the primitive types int float double chars and long are not object s like in c#
+
+90655
+int	double
+all of them have a respective object representation like int float double etc
+
+90664
+int	chars
+int chars etc
+
+90664
+int	chars
+- int chars etc
+
+90664
+int	chars
+function taking an int and a chars and returning
+
+90670
+moq	typemock
+rhino mocks typemock and moq are all good options for doing this
+
+90720
+mouse	keyboard
+if you want to capture mouse keyboard events outside of your application you will need low-level hooks
+
+90733
+debian	linux	ubuntu	debian	ubuntu	linux
+have it build on osx linux ubuntu linux debian linux redhat vista windows xp etc and have emails sent or whatever you prefer when a build fails
+
+90798
+width	height
+the buffer data i receive from the camera does not contain any exif information apart from the width height and pixels per inch
+
+90803
+pull	push
+in this case i have a sqlxml column in a ms sql 2005 server that i am trying to pull out and push into a function that requires an xmlnode as a parameter
+
+90811
+pop-up	dialog
+i don t think this is possible -- if you use the browser s http client implementation it will always pop-up that dialog
+
+90844
+rss	feed
+anything else that matters which i couldn t think of right now - a ton more stuff like dynamic rss feed dynamic sitemaps data references etc
+
+90855
+versioning	upgrade
+i d like to offer my users correct links to an upgrade versioning of my program based on what platform they re running on so i need to know whether i m currently running on an x86 os or an x64 os
+
+90886
+onresize	onload
+once you can get this value and set the element s height you need to attach event handlers to both the window onload and onresize so that you can fire your resize function
+
+90907
+junit	testng
+is there a way to do this simply using classical tools such as junit or preferrably testng
+
+90934
+irrlicht	ogre3d
+like previously said ogre3d and irrlicht are probably your best options in regards to free
+
+90939
+punctuation	words
+the first line just gets libraries that help with parts of the problem as in the second line where urllib2 downloads a copy of ambrose bierce s devil s dictionary the next lines make a list of all the words in the text without punctuation
+
+90964
+ogre	irrlicht
+if you want c++ and your just starting out i d go with irrlicht its free and its code although not blazing fast like ogre its very well structured and a good example of what a c++ should look like
+
+91015
+temp	tmp
+have you tried with the environment variables temp and tmp set to a directory writable by all
+
+91109
+junit	testng
+there are a large number of add-ons for junit testng available including
+
+91121
+versioning	upgrade
+from this point on you ve given the customer a reason why not to upgrade to your new versioning and to stay with the old versioning
+
+91122
+redmine	trac
+-project management and issue tracking eg trac redmine etc
+
+91123
+nullpointerexception	illegalargumentexception	nullpointerexception	runtimeexception	illegalargumentexception	runtimeexception
+a lot of exceptions you take for granted such as nullpointerexception or illegalargumentexception in fact derive from runtimeexception and you therefore don t need to declare them
+
+91149
+jboss	glassfish
+i would choose jboss or glassfish for a start
+
+91165
+redmine	trac
+as you already plan to use wiki like trac or redmine you could use it for km as well
+
+91227
+concave	convex
+some algorithms for triangulating simple convex or concave but without self-intersections or holes polygons are at vterrain site
+
+91259
+mbunit	nunit
+nunit mbunit ms test etc
+
+91271
+addslashes	mysql-real-escape-string
+you can see the differences here mysql-real-escape-string and addslashes
+
+91304
+3des	aes
+i would like to use 3des or aes for some added security
+
+91317
+webclient	webrequest
+webclient is sometimes easier to use than webrequest
+
+91344
+versioning	upgrade
+i would like to upgrade my team from vs2005 to vs2008 without touching the versioning of team server which is 2005
+
+91436
+mbunit	nunit
+the only alternative i know is using c++.net to wrap your c++ classes and writing unit tests with one of .net unit testing frameworks nunit mbunit etc.
+
+91444
+mockups	balsamiq
+i ve been playing around with balsamiq mockups and it s ok for basic wireframes
+
+91469
+cxxtest	cppunit
+cxxtest is a light easy to use and cross platform junit cppunit xunit-like framework for c++
+
+91511
+bitblt	gdi
+use bitblt to let gdi perform the color conversion
+
+91511
+bitblt	gdi
+besides even if i find out i won t be using the accelerated features of gdi that bitblt has access to
+
+91575
+put	get
+the following code shows how to get at the pixels inside of a bitmap change them and put them back into the bitmap
+
+91672
+int	chars
+another method was to use a unicode string where each chars is the int denoting a group and this makes searching easy but is a bit of a fudge
+
+91695
+addslashes	multibyte
+if you re using some form of multibyte character set it s possible although probably only through poor design of the character set that one or both halves of a sixteen or thirty-two bit character representation is identical to the eight bits of a character addslashes would add a slash to
+
+91721
+firefox	safari	google-chrome	firefox	google-chrome	safari
+it works in widescreen maximize browser window and is ok in ie7 firefox google-chrome and safari in maximize and reduced window size
+
+91740
+range	min	range	max	min	max
+clustered indexes work great for range select from my_table where my_key between min and max
+
+91741
+wxpython	pygtk
+the easiest one to cook up a prototype in a scripting language then convert to a compiled one might be any toolkit with a scripting language binding pygtk wxpython etc.
+
+91759
+strcpy	strcmp
+you didn t mention whether your input is null terminated - if not then extra care is needed and strcmp strcpy won t be suitable
+
+91801
+ubuntu	debian
+xmltk doesn t seem to have package in debian ubuntu fedora or macports hasn t had a release since 2007 and uses non-portable build automation
+
+91835
+cxxtest	cppunit
+cxxtest is also worth a look for lightweight easy to use cross platform junit cppunit xunit-like framework for c++
+
+91937
+pascal	delphi
+it is a free l gpl object pascal compiler which is compatible with the delphi -compiler
+
+91937
+freebsd	linux	freebsd	solaris
+as a bonus your application will run on windows 32 64 bit linux mac os x freebsd solaris etc.
+
+91965
+spaces	delimiter
+the -z means output with zeros 0 after the filenames so spaces are not used as delimiter
+
+91974
+sorting	filtering
+if your mail system s filtering can t set priority try sorting to different mail folders
+
+91988
+allocator	stl
+yes you can write your own memory allocator and yes speed generally isn t a problem but there are differences between stl implementations across platforms and those differences mighe be subtle and potentially buggy
+
+92114
+robocopy	xcopy
+the limitation is in the copyfile and copyfileex functions which are used by xcopy explorer robocopy and the .net fileinfo class
+
+92137
+median	percentile
+if however you care about overall trend plotting daily trimmed mean median 5 and 95 percentile will portray history well
+
+92137
+median	percentile
+if you care about median or percentile they re probably irrelevant
+
+92208
+subtract	add
+the only difference in c is that it s common to add and subtract from pointers - and if you get the logic wrong you can end up messing with data you shouldn t be touching
+
+92247
+metaphone	soundex
+metaphone and double metaphone are similar to soundex except they may be tuned more toward your goal than soundex
+
+92324
+boost	stl
+c++ is more standard you will find more code libraries examples etc. and you may freely use the stl and boost while object pascal is more of an exotic language
+
+92359
+lisp	smalltalk
+just compare let s say average php or visual basic programs and solutions in smalltalk common lisp haskell and the like
+
+92413
+put	get
+i can get authentication to work if the group i put in is a global but not if the group is universal
+
+92425
+hide	show
+i ended up working around the original problem by bringing up the search dialog with ctrl + h then clicking the customize button on the dialog which brings up a search page selection dialog which allows you to hide or show tabs on the search dialog
+
+92434
+pop-up	dialog
+i m having a problem with an application hanging and giving me the default please tell microsoft about this problem pop-up instead of the unhandled exception dialog in the application
+
+92551
+subtract	add
+add and subtract intervals from timestamps
+
+92556
+perl	tcl
+i could do this is perl tcl tk but i want something more native for a variety of reasons
+
+92563
+versioning	upgrade
+also if your perlcritic is old you may want to upgrade it as some old versioning gave some incorrect errors in moose classes
+
+92566
+struts	stripes
+if you are familiar with struts then stripes will make sense to you but it s so much better
+
+92566
+struts	stripes
+they have a stripes vs struts section on their website
+
+92566
+struts	stripes
+it allows you to work with any ajax framework you want and i don t think it would take long to migrate from struts to stripes
+
+92588
+webclient	httpwebrequest
+a second option is to use the webclient class this provides an easier to use interface for downloading web resources but is not as flexible as httpwebrequest
+
+92633
+subtraction	addition
+when you only need to update simple variables 32 or 64 bit int or pointers perform simply addition or subtraction operations on them or just swap the values of two variables most platforms offer atomic operations for that further gcc offers these as well
+
+92639
+rss	feed
+for rss feed check out feeds.adobe.com
+
+92664
+inline	inlining
+as for inlining in this case the variable is likely inline but that s only because it s declared const
+
+92716
+cairngorm	flex
+it s my understanding that the cairngorm framework for adobe flex is just one example of an hmvc implementation
+
+92750
+nunit	mstest
+so right now we use unittest++ for unmanaged c++ and i m currently deciding between mstest and nunit for the managed libraries
+
+92825
+inherited	properties
+update the inherited properties in the aspx ascx file to reference the c# class this file still exists in the original vb project
+
+92830
+post	get
+i am not sure if there is a better way but i can think of a hack to get it - you could ajax post to the img url and parse the response to see if the image actually came back
+
+92840
+folder	directory
+and then add a folder named vb_code and another folder named cs_code in your app_code directory
+
+92971
+debian	linux
+i guess this is a big ask for the general case so to narrow things down a bit i m most interested in gnu emacs 22 on windows and debian linux
+
+92992
+serializable	deserialization
+structs are particularly useful in file serializable deserialization as the structure can often be written to the file verbatim
+
+93080
+nunit	mstest
+accorting to kjetil klaussen this is caused by the visual studio testrunner running mstest tests in testdriven.net makes mstest performance comparable to nunit
+
+93156
+bash	tcsh
+bash uses uid while tcsh uses uid and in case matters
+
+93156
+bash	tcsh
+i ve also found that tcsh sets gid but i wasn t able to find a matching variable in bash
+
+93209
+folder	directory
+we tried deploying direct to the site using the built in deploy but that removes the entire directory deleting a whole bunch of static files we have within the iis root folder
+
+93233
+superclass	subclassing
+subclassing of the hierarchal superclass
+
+93236
+executable	upx
+upx can encrypt compress mac osx executable
+
+93252
+rsa	aes	tunnel	vpn
+if they really need that much protection they probably should be using a more stable solution for data access than a website a secure ssh tunnel to their server is bulletproof you can tell them they can have their 256-bit aes and 4096-bit rsa too or a vpn depending upon implementation
+
+93313
+websphere	ibm
+the application is a client of ibm websphere mq
+
+93334
+ati	nvidia
+a pci nvidia geforce 5200 or ati radeon 7000 is still pretty easy to find
+
+93363
+firefox	safari
+safari internet explorer and firefox all have different max lengths that it accepts
+
+93415
+width	height
+when maximizing an emacs frame the frame expands to fill the width of both monitors and the height of the larger monitor
+
+93459
+rss	feed
+if you are trying to generate your rss feed for others to consume you will need to read the spec
+
+93464
+rss	feed
+write a webhandler that exposes the content of the database as an rss feed
+
+93469
+jstl	taglib
+if you look at the jstl taglib docs you can see which attributes are reuest time and which are not
+
+93477
+rss	feed
+this allows the feed to be auto-discovered by your user s browser the rss icon appears in the address bar in ff
+
+93487
+rss	feed
+if you are not in a position to add an rss feed to the existing site see page2rss as an intermediate solution
+
+93492
+rss	feed
+you just need to set up which bits of your news feed to scour and voila instant rss without having to touch any code.
+
+93509
+decoder	encoder
+your encoder decoder class sounds like it better fits the strategy pattern
+
+93518
+gif	png
+the biggest advantage to doing this is that any browser which could display a png or gif would be able to display your frame
+
+93589
+bufferedreader	urlconnection
+spawn a java.util.timertask where you will check if you have finished the process otherwise close the bufferedreader and the outputstream of the urlconnection
+
+93590
+hash	md5
+q are the bytes read from disk when i create the filestream object or when the object consuming the stream in this case an md5 hash algorithm actually reads it
+
+93598
+addition	multiplication
+instructions such as addition and multiplication are non-jumping
+
+93672
+switching	screens
+is there a 7-zip command-line switching that prevents the filenames from echoing to the screens as they are added to the archive
+
+93673
+punctuation	words
+for example you could tokenize your document into a list of words by stripping out punctuation capitalization and stemming words running runs both - run to increase semantic matches
+
+93673
+dictionary	map
+then just build a hash map such as hash_map in c++ a dictionary in python etc of each adjacent pair of words to its number of occurrences so far
+
+93696
+rsa	aes
+as i said above the key bit of knowledge is that the cert doesn t matter so long as it s generated with an algorithm that supports aes 256-bit encryption rsa
+
+93737
+post	get
+if you need to reload a page without this warning this page must come from a get not a post
+
+93749
+post	get
+to do just a get request if the data can be fetched without a post
+
+93773
+datamapper	activerecord
+i was looking at datamapper which appeared at first glance to use the activerecord orm pattern
+
+93825
+hide	show
+use the username as a reg_dword and a value of 1 to show the user and 0 to hide
+
+93897
+jobs	cron
+in any other cases you can use alternatives such as queue + cron jobs or else
+
+93944
+ant	maven
+do you use separate files ant maven resource filtering or other approaches
+
+93947
+ant	maven
+you will need to generate a war file or the folder of files that would comprise the war file a project would typically include an ant or maven build script to do this or if the project used eclipse s dynamic web project type there might be a generate war option somewhere
+
+94070
+datamapper	activerecord
+datamapper is potentially more complex then activerecord but it s a lot easier to develop your domain model and database asynchronous then with activerecord
+
+94099
+datamapper	activerecord
+activerecord is very heavy datamapper and domain object are separating those concerns out so you have a more defined set of code doing various aspects for you domain or entity objects
+
+94113
+ssl	https
+https ssl tls options for wget
+
+94119
+easymock	unitils
+it is a bit more advanced than the code samples in fowler s article especially when you use the unitils library to wrap easymock so the syntax will be much simpler than that in the article
+
+94141
+google-chrome	firefox
+firefox and google-chrome will display before during and after while internet explorer first shows during and only then does it show before and after
+
+94172
+width	height
+i m not sure if there s a way to compute the max height width of a frame in the current windowing environment
+
+94184
+mouse	keyboard
+my biggest increase in typing when coding was to really learn my ide s keyboard shortcuts since that eliminated the relatively slow process of using the mouse
+
+94195
+easymock	jmock
+easymock or jmock are definitely the winners
+
+94195
+easymock	jmock
+i haven t used jmock but i know with easymock you can setup the mock object according to a testing script and it will return certain values in certain situations or points during your test
+
+94216
+firefox	safari
+if your problem happens in internet explorer but it renders the way you d expect in firefox or safari this link was extraordinarily helpful for me with a similar problem
+
+94224
+width	height
+just has the added condition where the height is the same as the width
+
+94242
+sharepoint	splist
+you should be getting the splist object of that particular list using sharepoint object model
+
+94280
+ant	maven
+you can specify your environment either by using a user.name variable or by specifying the profile in a -d argument for ant or maven
+
+94280
+ant	maven
+both ant and maven support these capabilities
+
+94419
+superclass	subclassing
+a method in a subclassing that used to override the superclass method will no longer do so due the changed method signature
+
+94458
+prng	random
+sometimes the openssl command line utility does not abort with a prng not seeded error message but complains that it is unable to write random state
+
+94511
+getter	setter
+if you used a default constructor and exposed the two custom members with getter setter properties you could get away with just setting the attribute
+
+94610
+put	get
+i can t put the try catch in my callback functions because the exception occurs before they would get called
+
+94627
+wxpython	pythoncard
+pythoncard uses wxpython
+
+94634
+checkbox	dropdownlistfor
+the user are to respond using free form text boxes checkbox or pre-defined dropdownlistfor
+
+94706
+post	get
+additionally you may get security warnings from some email clients when trying to do the actual post from your email message over to the web site i m not sure about that as i ve never tried
+
+94706
+gmail	hotmail
+and be sure to test this using a wide variety of email clients eg thunderbird outlook outlook express gmail yahoo msn hotmail .
+
+94724
+cldc	midp
+midp 2.1 cldc 1.1 and jsr-75 fileconnection are available
+
+94744
+google-chrome	firefox
+if you attach scripts dynamically ie firefox and google-chrome will all download the scripts in an asynchronous manner
+
+94744
+google-chrome	firefox
+firefox and google-chrome will wait till all of the async requests return and then will execute the scripts in the order that they are attached in the dom but ie executes the scripts in the order that they are returned over the wire
+
+94792
+vim	emacs
+please don t say use emacs as i ve already ramped up on vim and i m really enjoying it as an editor
+
+94850
+folder	directory
+so make the sub folder a virtual directory on your site and then in the properties of the virtual directory choose the option for a redirection to a url .
+
+94862
+vim	emacs
+you can give emacs with vim emulation a try is not perfect but it may be somewhat familiar
+
+94894
+toolbar	tabs
+local bookmarks - i store bookmarks on the browser toolbar in folders so i can middle-click and open all in tabs
+
+94901
+opera	firefox
+firefox 3 and opera 9.5 do
+
+94974
+opera	safari
+but it tries as best it can to put a firebug console in ie safari and opera
+
+94975
+a-star	dijkstra
+i ve read in one of my ai books that popular algorithms a-star dijkstra for path-finding in simulation or games is also used to solve the well-known 15-puzzle
+
+95001
+int	double
+since an int uses 31 bits + 1 bit for the sign just double 2 30 to get approximately 2 billion
+
+95001
+int	double
+for an unsigned int using 32 bits double again for 4 billion
+
+95033
+hide	show
+my understanding is that this simple jquery plugin just show and hide content
+
+95033
+hide	show
+i can understand some of the mvc+jquery+json articles but i don t understand why the hide show doesn t work
+
+95083
+glibc	newlib
+pspsdk uses newlib which lacks some of glibc s features and headers
+
+95106
+put	get
+it would be great if i could just hit a for example and instantly get put into insert mode at the end beginning of the argument list
+
+95121
+x86	64bit
+x86 is considerably slower a few clocks plus a clock or so per function argument while 64bit is much less because most function arguments are passed in registers instead of on the stack
+
+95168
+range	minimum
+note that in python 3.0 there is only range and it behaves like the 2.x xrange but without the limitations on minimum and maximum end points
+
+95200
+telerik	componentart
+my only note is that currently 3rd party control vendors like telerik componentart etc don t really work well with mvc
+
+95208
+instances	transient
+that being said if you have instances variables that are themselves not serializeable the only way i know of to get around it is to declare those fields transient
+
+95208
+serializable	deserialization
+when you declare a field transient it will be ignored during the serializable and deserialization process
+
+95210
+udp	tcp
+udp and tcp ip
+
+95213
+post	get
+to save which items a user clicks on with no server-side post backs i was thinking a cookie would be a simple way to get this done
+
+95224
+serializable	deserialization
+you will need to implement writeobject and readobject and do manual serializable deserialization of those fields
+
+95242
+persistent	transient
+you can start by looking into the transient keyword which marks fields as not part of the persistent state of an object
+
+95317
+put	get
+you ll have to put up with remembering to get it right
+
+95346
+rss	feed
+i want to track how much traffic i m getting on an rss feed that is set up using .net 2.0 sql server
+
+95374
+rss	feed
+even if you don t want to use a 3rd party service it will give you an idea of what other people track for rss feed
+
+95586
+serializable	deserialization
+i can t think of any use-case for an exception with non-serializable members but if you avoid attempting to serializable deserialize them in getobjectdata and the deserialization constructor you should be ok
+
+95655
+post	get
+form methods get and post
+
+95715
+post	get
+what causes firefox to follow a post request with a get request when submitting a form via the post method
+
+95715
+post	get
+the get method is sent to the same url as the post method but without the request parameters
+
+95789
+rational-numbers	fractions
+a rational-numbers is one that can be represented as a fractions
+
+95821
+eruby	erb
+i see that it supposedly beats erb and eruby now.
+
+95896
+inline	constexpr
+under c++0x this problem go away if one replaces the keyword inline by constexpr constexpr is inline implicitly
+
+95956
+folder	dir
+if i use them to iterate through the folder c windows system32 drivers they only find a handful of files although there are 185 when i issue a dir command in a command prompt
+
+96018
+webkit	gecko
+so in gecko and webkit you d call div.setattribute class foo but in ie you have to use the javascript property name instead so div.setattribute classname foo
+
+96040
+cairngorm	flex	cairngorm	puremvc
+has anybody used an mvc framework such as cairngorm puremvc or easymvc on a real flex project
+
+96041
+swt	swing
+some ui frameworks are layers over swing or swt for example a framework could read a description of a screen in xml and instantiate the corresponding swing components
+
+96066
+junit	jsunit
+currently jsunit works well with junit but it seems to be abandonware and lacks good support for ajax debugging and timeouts
+
+96109
+superclass	subclassing
+for a method name you get the hierarchy showing superclass and subclassing with implementations of that method distinguished from abstract mentions or classes that don t mention the method
+
+96133
+solaris	aix
+i have uncovered another problem in the effort that we are making to port several hundreds of ksh scripts from aix solaris and hpux to linux
+
+96150
+folder	directory
+i believe that there is some kind of permissions issue but can t seem to find any difference between the permissions on the noted folder and the folder directory where the excel file is uploaded
+
+96213
+wordpress	joomla
+moving to a content manager like drupal joomla wordpress or the like will be much easier if you re already organized with semantic markup too
+
+96313
+folder	directory
+i ve got a couple large checkouts where the .svn folder has become damaged so i m getting and error cleanup failed to process the following path.. and i can no longer commit or update files in that directory
+
+96372
+folder	directory
+if you know which folder has the damaged .svn directory you can just delete that one directory and run an svn update again
+
+96372
+folder	directory
+of course if the folder with the damaged .svn directory is the one containing a gigabyte then you re back where you started
+
+96401
+persistent	transient
+you can tie the cart to some form of credentials rather than a transient session and persistent the cart long after the user has cleared their cookies
+
+96419
+getter	setter
+other times you need to generate code using the # and ## concatenation operators like generating getter and setter for a property this is for quite a limited cases through
+
+96486
+opera	firefox	opera	safari	firefox	safari
+ie firefox opera safari compatible
+
+96490
+vbscript	jscript
+any comparison to jscript vbscript or dynamic typing is total bunk
+
+96528
+svg	vml
+raphael is pretty cool for that and works across browsers since it uses vml for msie and svg for everything else
+
+96569
+vmware	esx
+we use vmware esx 3.5.x exclusively
+
+96574
+svg	vml
+however native vml can do text on a path and such things much like svg
+
+96574
+svg	vml
+i think theoretically if you want complex text handling you d want svg and vml like the raphael library that dan mentioned
+
+96641
+width	height
+so the basic technique is to update the top and left values as the user drags use these together with the defined width and height of the view onto the image to create the appropriate rect string and update the top left and clip properties of the img element s style property
+
+96690
+xpand	xtend
+but despise those limitations the generation itself is quite easy with oaw you can navigate your models like a charm in xtend and xpand and by combining several workflows into bigger workflows you can also do very complex things
+
+96711
+post	get
+encapsulate the session array in a session object that allows you to get variables from session get and post with a similar yet dissociable way including automatic security filters flash variables var that are used once then distroyed and default value setters
+
+96765
+maven	pom.xml
+one of the goals for maven t project object model pom.xml is to capture all information needed to reliably reproduce an artifact thus passing settings impacting the artifact creation is strongly discouraged
+
+96835
+opera	safari
+then move on to the other standards-based browsers namely safari and opera
+
+96837
+pop-up	dialog
+it uses a custom control that simply adds code before and after the content to format it as a pop-up dialog
+
+96837
+hide	show
+the yes button is a hyperlink because it executes javascript to hide the dialog and show a different one
+
+96873
+put	get
+9 25 08 edit -- i just put up a blog posting on how to patch monodevelop 1.0 and get it working with astyle
+
+96877
+punctuation	words
+or you can add various punctuation so that you no longer have a simple words in front of the
+
+96982
+freebsd	debian	freebsd	centos	debian	centos
+runs on centos although debian fedora core freebsd are options if necessary
+
+97027
+post	get
+i ve developed an open source oauth library for .net and posted an article on beginning to use oauth that might help to get you started - i tried to find a developers page api specification to brightkite - but because it s a beta service i don t have access - so perhaps post me a invite to this service via my blog and i can have a go at developing an example brightkite client at which point this answer can be revisited with some concrete example code useful to others
+
+97096
+sorting	grouping
+without experiencing any speed penalties as the sorting will be performed on the grouping field anyway
+
+97142
+ubuntu	debian
+others on debian or ubuntu seem to be able to get rid of this by installing libopenssl-ruby which is not available for redhat
+
+97211
+feedback	review
+this provides you with even more immediate feedback you review code as you write it
+
+97220
+post	put	disk	ram
+the proxy starts buffering in ram or in disk the request including headers and post put bodies
+
+97259
+vmware	esx
+vmware s esx has a similar tool i believe its called esxtop
+
+97276
+unix	bsd
+if i ve got a time_t value from gettimeofday or compatible in a unix environment linux bsd is there a compact algorithm available that would be able to tell me the corresponding week number within the month
+
+97373
+getter	setter
+both languages provide it but c# properties provides a better design for it in regards to setter and getter
+
+97431
+google-chrome	safari
+so you should be asking for webkit rendering engine google-chrome use developed by safari s guys control
+
+97440
+getter	setter
+instead consider creating an class that has public setter and getter that populate a hash visible only to the object
+
+97528
+httphandler	httpmodule
+i do not have access to iis 6.0 so i cannot map requests to asp.net and handle with a httphandler httpmodule
+
+97613
+single-quotes	backslash
+if it s going into an html attribute you ll need to both html-encode as a minimum to to and to it and escape single-quotes with a backslash so they don t interfere with your javascript quoting
+
+97630
+getter	setter
+assuming you want to serialize the state of the non-serializable field in myclass2 that field must be accessible to myclass either directly or through getter and setter
+
+97630
+implements	extends
+per item 74 of effective java myclass2 must have a no-arg constructor accessible to myclass otherwise it is impossible for myclass to extends myclass2 and implements serializable
+
+97761
+width	margin
+then the negative margin is used to move the left hand edge to the left a distance equal to half the element s width thus centering it
+
+97811
+many-to-one	one-to-many
+if working with byte values you can have many-to-one and one-to-many mappings between the spaces
+
+97850
+put	get
+i have a 2gb drive to put this on but i can get a bigger one if necessary
+
+97885
+bazaar	git
+the best answer for you is some sort of dvcs popular ones being git mercurial darcs bazaar ...
+
+97922
+pull	push
+once you set this up you can use git pull to fetch the changes only you don t need to clone anymore just the first time and git push to push the changes the other way
+
+97937
+subtract	add
+convert your system.drawing.color to an hslcolor add subtract values against the luminosity and convert back to system.drawing.color for use in your app
+
+97979
+disk	ram
+if you re doing the work in memory on one machine then ehcache will work perfectly assuming you have enough ram or a fast enough hard disk so that the overflow doesn t cause disk paging thrashing
+
+97994
+vim	emacs
+an editor like emacs or vim can really focus on being a good editor first and foremost
+
+98030
+min	max
+i prefer if statements over case statements because they are more readable and more flexible -- you can add other conditions not based on numeric equality like || max min
+
+98044
+webmethods	websphere
+would it be using a websphere adaptor for sap or webmethods or something else
+
+98048
+put	get
+obfuscate the password even rot13 will do it won t put up much defense if some does get access to the file but at least it will prevent casual viewing of it
+
+98109
+wxpython	pythoncard
+later if you wish to make the transition to an event-driven gui paradigm you can do so with a more powerful gui package such as anygui pythoncard tkinter wxpython etc
+
+98127
+opera	firefox	opera	safari	firefox	safari
+on every browser firefox opera camino safari etc... except for internet explorer i can access my own cookie
+
+98143
+cvs	rcs
+inside the rcs directory are a bunch of v files which are compatible with cvs should you wish to upgrade to that one day and from there to any of the other vcs systems other posters mentioned
+
+98151
+getter	setter
+there s also a nice bag of tricks directly available in the menus like generating getter setter extracting interfaces and the like
+
+98225
+vim	emacs
+addendum the main reason i don t just use vim is that i love how emacs lets you open a file in two different frames added sorry this was confusing i mean separate windows which emacs calls frames
+
+98230
+extjs	mootools
+jquery prototype extjs dojo mootools yui mochikit the list goes on
+
+98244
+getter	setter
+i m fairly surprised at how unanimous the sentiment is that getter and setter are fine and good
+
+98244
+getter	setter
+i suggest the incendiary article by allen holub getter and setter are evil
+
+98244
+getter	setter
+essentially if you have getter and setter for each and every private field you are making those fields as good as public
+
+98244
+getter	setter
+the vast majority of getter and setter don t make sense for their constituent objects
+
+98244
+getter	setter
+getter and setter also encourage users of the class to ask the object for some data perform a calculation and then set some other value in the object better known as procedural programming
+
+98244
+getter	setter
+getter and setter however are necessary evils at the boundary of layers -- ui persistence and so forth
+
+98244
+getter	setter
+restricted access to a class s internals such as c++ s friend keyword java s package protected access .net s internal access and the friend class pattern can help you reduce the visibility of getter and setter to only those who need them
+
+98270
+gif	bmp
+it is in c++ not c but you should be able to easily extract the bmp and gif load code
+
+98288
+jquery	scriptaculous	extjs	qooxdoo	extjs	mootools
+a good place to start is with wikipedia s comparison of javascript frameworks which covers dojo extjs jquery midori mochikit mootools prototype scriptaculous qooxdoo yui and sweetdev ria
+
+98427
+avr	microcontroller
+the arduino is also great because once you get familiar with it you can expand to writing raw c on any of the avr line of microcontroller with ease
+
+98476
+cldc	midp
+i ve made sure to build it using the correct cldc and midp versions
+
+98480
+jobs	cron
+this allowed them to notice and fix bugs in cron jobs that had problems
+
+98489
+cvs	svn
+i m pretty used to how to do cvs merges in eclipse and i m otherwise happy with the way that both subclipse and subversive work with the svn repository but i m not quite sure how to do merges properly
+
+98547
+mouse	keyboard
+it s great for allowing you to keep your hands on the keyboard and away from the mouse
+
+98586
+perl	tcl
+our current best is derived from the best of perl + tcl s atof implementation and outperforms msvcrt.dll s atof by an order of magnitude
+
+98586
+perl	tcl
+the bcd related x86 instructions seemed promising but i couldn t get it to outperform the perl tcl c code
+
+98606
+mouse	keyboard
+i m always up for leaving my hands on the keyboard and away from the mouse
+
+98653
+tetris	pong
+i ve been quite used to working on small projects which i coded with 1 000 lines or less pong tetris simple 3d games etc
+
+98657
+concave	convex
+it depends whether you use sprites concave polygons convex polygons rectangles squares circles points.
+
+98669
+versioning	upgrade
+however when i upgrade to prototype 1.6.0.2 the latest versioning from prototypejs.org everything breaks
+
+98710
+ocp	principles
+ocp the open closed principles you
+
+98751
+lisp	scheme
+i would never want to program in scheme or lisp again if i didn t have to but i am glad that i at least did a little in them just to learn the different way to program
+
+98869
+uniq	csplit
+commands like head tail split csplit cat shuf shred uniq really help a lot in text manipulation
+
+98869
+put	get
+for example if you need to put some chars in a 2gb file you can use split -b bytecount put the ouptut in to a file append the new text to it and get the rest of the content and add to it
+
+98872
+multiplying	add
+the simplest is to loop for each digit character in the string keep a running total multiplying the total by 10 then add the value of the next digit
+
+98872
+multiplying	add
+multiplier 0.1 multiplying by 4 get 0.4 add to running total makes 123.4
+
+98872
+multiplying	add
+multiplier 0.1 10 0.01 multiplying by 5 get 0.05 add to running total makes 123.45
+
+98872
+multiplying	add
+multipiler 0.01 10 0.001 multiplying by 6 get 0.006 add to running total makes 123.456
+
+98918
+ocp	lsp	ocp	principles	lsp	principles
+as mentioned above some of the fundamental object oriented design principles are ocp lsp dip and isp
+
+98934
+integer	unsigned
+for standard notation convert the aaa.bbb.ccc.ddd netmask into an unsigned 4 byte integer many networking libraries have this function and subtract that from 2 32 - 2
+
+98938
+getter	setter
+it seems that many people understand information hiding in principle but then also think that getter and setter for everything properties for everything is an example of it
+
+98938
+getter	setter
+the incendiary article by allen holub called why getter and setter are evil can be an eye-opener on the topic
+
+98938
+getter	setter
+in short private members with direct getter and setter are little more than dressed-up public members
+
+98938
+getter	setter
+it is true that getter and setter are needed at layer boundaries ui persistence etc but their visibility should be restricted to those classes that have a legitimate need to call them
+
+98939
+accessor	properties
+you may ask why are you making accessor that just provided the exact same access that making the original properties public
+
+98952
+put	get
+i haven t used this code for a put so i m not exactly sure if it s right for you but it might get you close
+
+98977
+integer	fractions
+you will do better accuracy-wise to compute the integer and fractions parts separately and compute the fractions at the end for 12345.6789 compute it as 12345 + 6789 10000.0 rather than 6 .1 + 7 .01 + 8 .001 + 9 0.0001 since 0.1 is an irrational binary fractions and error will accumulate rapidly as you compute 0.1 n
+
+99014
+getter	setter
+if everything is done with getter and setter and no other behavior you re writing procedural code
+
+99014
+getter	setter
+there are plenty of patterns to deal with this problem and they don t involve reducing everything to bags of getter and setter
+
+99086
+getter	setter
+this is why getter and setter are common .
+
+99086
+getter	setter
+i think you re usually better off maintaining state in private variables and providing getter and setter as a public interface to them when outside objects need to access them mostly because you ll always have the option to provide some kind of validation or transformation if it becomes necessary down the line without breaking your interface
+
+99121
+lisp	scheme
+languages like lisp and the very closely related scheme are to programming what latin is to english
+
+99127
+google-chrome	firefox
+other than that i would suggest running your tests in firefox using google-chrome as it produces much more reliable results but sometimes it is simply not possible due to business requirements
+
+99166
+post	put
+yes i am repeating some but i think the idea was to put one in each post and let the good ones float up
+
+99228
+for-loop	loops
+i agree that the for-loop should be used whenever possible but sometimes there s more complex logic that controls the iterator in the body of loops
+
+99239
+lisp	scheme
+though it s not blazingly fast like a compiled language nor is it particularly useful at serving websites or parsing text i ve found that scheme and other lisp by extension has no parallel when it comes to simplicity elegance and powerful functional manipulation of complex data structures
+
+99260
+tax	shipping
+it may require things like sales tax shipping costs customer discounts
+
+99337
+accessor	properties	getter	setter
+this is somewhat more nuanced than simply not exposing internal data - merely placing accessor methods or properties getter setter between internal data and the cold outside world is no more information hiding than launching into a conversation about this friend of mine and his herpes problem.
+
+99386
+pull	push
+if you have control over the content or can gain control through mirroring or scraping you should consider using ajax or server-side includes to pull external data onto and push it off of the page - it ll end up being more flexible more robust and easier to manage in the end
+
+99395
+folder	directory
+how to check if a folder directory exists in cocoa using objective-c
+
+99485
+printf	strtok	strtok	malloc
+this library contains your printf your malloc your strtok etcetera
+
+99508
+bazaar	git
+it integrate with your source countrol system including git subversion mercurial bazaar tla and monotone so all your docs track with your project
+
+99520
+put	get
+so although i can put together a test project that exercises the interop layer i can t get a sense for how many of those methods and properties i m actually calling
+
+99549
+selecteditem	selectedindex
+instead of trying to bind the selectedindex why don t you just bind the selecteditem in the combobox to the value in the record
+
+99565
+stateless	stateful
+connection pools are simply a bridge between the post-web era of stateless applications http protocol and the pre-web era of stateful long-lived batch processing applications
+
+99568
+put	get
+now for a rectangle vertex put the x value in the line equation get the y value and see if the y value lies in the rectangle bounds shown below
+
+99616
+folder	directory
+with weborb you can simply deploy your dlls into the bin folder of the virtual directory and it will take care of enabling your classes as flex remoting services
+
+99659
+mouseup	mousedown
+the action of clicking is broken into its two parts mousedown and mouseup
+
+99702
+int	double
+say you want two hashtables one that maps objects of type string to type int and one that maps objects of type string to type double
+
+99724
+put	get
+if you are developing a site that accepts passwords don t put a silly password limit unless you want to get tarred with the same brush
+
+99729
+getter	setter
+i could have getter and setter for the x and y coordinates or i could just make them both public and allow free read write access to the data
+
+99745
+getter	setter
+working with dependency injection a lot you often have setter but no getter as clients should be able to configure the object but others not get to know what s acutally configured as this is an implementation detail
+
+99751
+getter	setter
+public getter and setter is pretty much equivalent to public fields.
+
+99756
+internationalization	localization
+use errorcodes when you need localization internationalization -- in .net you could use these errorcodes to reference a resource file which will then display the error in the appropriate language
+
+99796
+octree	quadtree
+i have also briefly perused material relating to quadtree and octree
+
+99817
+octree	quadtree
+i don t have much experience with bsps but i can say that you should go with octree over quadtree when you the scene you re rendering is tall
+
+99817
+width	height
+that is the height is more than half the width and depth -- little rule of thumb
+
+99817
+octree	quadtree
+generally octree won t bring a huge cost over quadtree and they have the potential to speed things up a decent bit
+
+99848
+firefox	safari	google-chrome	firefox	google-chrome	safari
+but it works in firefox safari and google-chrome
+
+99926
+octree	quadtree
+two dimensions means a quadtree four an octree
+
+99926
+octree	quadtree
+as stated as quadtree can work in three-space but if you want each dimension given a proper treatment an octree is the way to go
+
+99954
+yacc	bison
+lex flex and yacc bison provide easy-to-use well-understood lexer- and parser-generators and i d really recommend doing something like that as opposed to doing it procedurally in perl
+
+99954
+verilog	vhdl
+also if you re lazy check out the eclipse plugins that do syntax highlighting and basic refactoring for verilog and vhdl
+
+99999
+hex	binary
+the methods you are allowed to use might be restricted by the author - no patching no disassembling - or involve anything you can do with a binary objdump and a hex editor
+
