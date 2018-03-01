@@ -1,6 +1,7 @@
 # diffSimilarTech
 
 ### Weekly Meeting
+* Week 8: [2018-03-01](https://github.com/hy3440/diffSimilarTech/blob/master/weekly%20summary/2018-03-01.md)
 * Week 7: [2018-02-22](https://github.com/hy3440/diffSimilarTech/blob/master/weekly%20summary/2018-02-22.md)
 * Week 6: -
 * Week 5: [2018-02-08](https://github.com/hy3440/diffSimilarTech/blob/master/weekly%20summary/2018-02-08.md)
