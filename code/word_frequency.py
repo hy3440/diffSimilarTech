@@ -4,7 +4,7 @@ import operator
 import os
 import pickle
 
-synonyms_file = open(os.path.join(os.pardir, "data", "synonyms_for_all_similar_techs.pkl"), 'rb')
+synonyms_file = open(os.path.join(os.pardir, "data", "synonyms.pkl"), 'rb')
 synonyms = pickle.load(synonyms_file)
 synonyms_file.close()
 
@@ -17,10 +17,10 @@ modal_verbs = {"can", "could", "will", "would", "may", "might", "shall", "should
 
 
 def count(file_name):
-    with open(os.path.join(os.path.pardir, "out", "tech_v5", file_name)) as data3_file:
+    with open(os.path.join(os.path.pardir, "out", "tech_v6", file_name)) as data3_file:
         num = 0
         for line in data3_file:
-            if num % 5 == 3:
+            if num % 4 == 2:
                 words = line.split(" ")
                 words[-1] = words[-1].strip()
                 for (word, tag) in CoreNLPPOSTagger(url='http://localhost:9000').tag(words):
@@ -46,26 +46,25 @@ def count(file_name):
                                 rb[word] = 1
             num += 1
 
-count("sentences_4.txt")
-count("sentences_3.txt")
+count("sentences_.txt")
 
 sorted_wf = sorted(wf.items(), key=operator.itemgetter(1), reverse=True)
 sorted_jj = sorted(jj.items(), key=operator.itemgetter(1), reverse=True)
 sorted_nn = sorted(nn.items(), key=operator.itemgetter(1), reverse=True)
 sorted_rb = sorted(rb.items(), key=operator.itemgetter(1), reverse=True)
 
-with open(os.path.join(os.path.pardir, "out", "word_frequency_v5.txt"), "a") as out_file:
+with open(os.path.join(os.path.pardir, "out", "tech_v6", "word_frequency_v5.txt"), "a") as out_file:
     for word, frequency in sorted_wf:
         out_file.write("{:<20}{}\n".format(word, frequency))
 
-with open(os.path.join(os.path.pardir, "out", "adjective.txt"), "a") as out_file1:
+with open(os.path.join(os.path.pardir, "out", "tech_v6", "adjective.txt"), "a") as out_file1:
     for word, frequency in sorted_jj:
         out_file1.write("{:<20}{}\n".format(word, frequency))
 
-with open(os.path.join(os.path.pardir, "out", "noun.txt"), "a") as out_file2:
+with open(os.path.join(os.path.pardir, "out", "tech_v6", "noun.txt"), "a") as out_file2:
     for word, frequency in sorted_nn:
         out_file2.write("{:<20}{}\n".format(word, frequency))
 
-with open(os.path.join(os.path.pardir, "out", "adverb.txt"), "a") as out_file3:
+with open(os.path.join(os.path.pardir, "out", "tech_v6", "adverb.txt"), "a") as out_file3:
     for word, frequency in sorted_rb:
         out_file3.write("{:<20}{}\n".format(word, frequency))

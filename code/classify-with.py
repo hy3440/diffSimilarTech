@@ -7,7 +7,8 @@ import os.path
 import spacy
 from spacy.matcher import Matcher
 
-
+total_compa = 0
+total_sent = 0
 cv = {"beat", "beats", "prefer", "prefers", "recommend", "recommends",
       "defeat", "defeats", "kill", "kills", "lead", "leads", "obliterate",
       "obliterates", "outclass", "outclasses", "outdo", "outdoes",
@@ -23,7 +24,8 @@ cin = {"than", "over", "beyond", "upon", "as", "against", "out", "behind",
        "under", "between", "after", "unlike", "with", "by", "opposite", "to"}
 
 pattern_set = {0, 8, 7, 10}
-pos_tag_set = {"JJR", "RBR", "JJ"}
+pos_tag_set = {"JJR", "RBR", "JJ", "NN", "NNS", "NNP", "NNPS"}
+recordings = {}
 
 def add_patterns(matcher):
     matcher.add(0,
@@ -65,7 +67,11 @@ def add_patterns(matcher):
                 [{'ORTH': 'TECH'}, {'ORTH': 'VBZ'}, {'ORTH': 'RBR'}],
                 [{'ORTH': 'TECH'}, {}, {'ORTH': 'VBZ'}, {'ORTH': 'RBR'}],
                 [{'ORTH': 'TECH'}, {'ORTH': 'VBZ'}, {}, {'ORTH': 'RBR'}],
-                [{'ORTH': 'TECH'}, {}, {'ORTH': 'VBZ'}, {}, {'ORTH': 'RBR'}])
+                [{'ORTH': 'TECH'}, {}, {'ORTH': 'VBZ'}, {}, {'ORTH': 'RBR'}],
+                [{'ORTH': 'TECH'}, {'ORTH': 'VBZ'}, {'ORTH': 'RBR'}, {}],
+                [{'ORTH': 'TECH'}, {}, {'ORTH': 'VBZ'}, {'ORTH': 'RBR'}, {}],
+                [{'ORTH': 'TECH'}, {'ORTH': 'VBZ'}, {}, {'ORTH': 'RBR'}, {}],
+                [{'ORTH': 'TECH'}, {}, {'ORTH': 'VBZ'}, {}, {'ORTH': 'RBR'}, {}])
     matcher.add(7,
                 None,
                 [{'ORTH': 'TECH'}, {'ORTH': 'VBZ'}, {'ORTH': 'JJR'}],
@@ -92,15 +98,19 @@ def classify(no):
             compa_sent_count = 0
             for line in data_file:
                 if num % 4 == 0:
-                    current_id = line
+                    current_id = line.strip()
                 elif num % 4 == 1:
-                    tech_pair = line.split("\t")
-                    tech_pair[-1] = tech_pair[-1].strip()
+                    techs = line.split("\t")
+                    techs[-1] = techs[-1].strip()
                 elif num % 4 == 2:
                     tag_list = []
-                    words = []
                     flag = False
-                    for (word, tag) in CoreNLPPOSTagger(url='http://localhost:9000').tag(line.split(" ")):
+                    words = line.split()
+                    tagged_words = CoreNLPPOSTagger(url='http://localhost:9000').tag(words)
+                    if len(words) != len(tagged_words):
+                        tagged_words = pos_tag(words)
+                    words = []
+                    for (word, tag) in tagged_words:
                         if flag:
                             word = "." + word
                             flag = False
@@ -108,7 +118,7 @@ def classify(no):
                             tag_list.append("CIN")
                         elif word in cv:
                             tag_list.append("CV")
-                        elif word in tech_pair:
+                        elif word in techs:
                             tag_list.append("TECH")
                         elif word == ".":
                             flag = True
@@ -116,35 +126,59 @@ def classify(no):
                         else:
                             tag_list.append(tag)
                         words.append(word)
-                    pos_tag = " ".join(tag_list)
-                    patterns = matcher(nlp(pos_tag))
+                    pos = " ".join(tag_list)
+                    patterns = matcher(nlp(pos))
                     if patterns != []:
                         compa_sent_count += 1
                         data_file = open(os.path.join(os.pardir, "out", "tech_v6", "sentences_.txt"), "a")
                         data_file.write("{}".format(current_id))
-                        data_file.write("{}\n".format("\t".join(tech_pair)))
+                        data_file.write("{}\n".format("\t".join(techs)))
+                        tech_pair = []
+                        for i in range(int(len(techs) / 2)):
+                            tech_pair.append((techs[i], techs[i+1]))
                         for (pattern, start, end) in patterns:
                             data_file.write("pattern"+str(pattern)+"\t")
                             out_list = []
                             if pattern in pattern_set:
+                                techa = ""
+                                techb = ""
                                 for i in range(len(words)):
                                     if tag_list[i] == "TECH":
-                                        out_list.append(words[i])
+                                        if techa == "":
+                                            techa = words[i]
+                                        elif out_list == []:
+                                            techa = words[i]
+                                        else:
+                                            techb = words[i]
+                                            if (techa, techb) in tech_pair or (techb, techa) in tech_pair:
+                                                if (techa, techb) in recordings:
+                                                    recordings[(techa, techb)].add("{} {} {} {}".format(current_id, techa, " ".join(out_list), techb))
+                                                elif (techb, techa) in recordings:
+                                                    recordings[(techb, techa)].add("{} {} {} {}".format(current_id, techa, " ".join(out_list), techb))
+                                                else:
+                                                    recordings[(techa, techb)] = set()
+                                                    recordings[(techa, techb)].add("{} {} {} {}".format(current_id, techa, " ".join(out_list), techb))
+                                            techa = ""
+                                            techb = ""
+                                            out_list = []
                                     if i in range(start, end):
-                                        if tag_list[i] in pos_tag_set:
+                                        if tag_list[i] in pos_tag_set and techa != "":
                                             out_list.append(words[i])
                             data_file.write(" ".join(out_list))
-                            data_file.write("\n")
-                        data_file.write(str("{}\n".format(line)))
+                            data_file.write("\t")
+                        data_file.write(str("\n{}\n".format(line)))
                         data_file.close()
                 num += 1
     finally:
         print("Proc {}: {}/{} from - to {}".format(os.getpid(), compa_sent_count, num/4, current_id))
+        return(compa_sent_count, num/4)
 
 print(datetime.datetime.now())
 
-for i in range(1, 9):
-    classify(i)
+for i in range(1, 83):
+    (c, t) = classify(i)
+    total_compa += c
+    total_sent += t
 # datalist = [0, 1, 2, 3, 4, 5, 6, 7]
 # procs = []
 # for i in range(8):
@@ -154,5 +188,12 @@ for i in range(1, 9):
 #
 # for proc in procs:
 #     proc.join()
-
+with open(os.path.join(os.pardir, "out", "tech_v6", "recordings.txt"), "a") as recordings_file:
+    recordings_file.write(str(len(recordings))+"\n\n")
+    for key, values in recordings.items():
+        recordings_file.write(key[0]+"\t"+key[1]+"\t"+str(len(values))+"\n")
+        for value in values:
+            recordings_file.write(value+"\n")
+        recordings_file.write("\n")
+print("{} / {}".format(total_compa, total_sent))
 print(datetime.datetime.now())
