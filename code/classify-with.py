@@ -4,6 +4,7 @@ from multiprocessing import Process
 from nltk import pos_tag
 from nltk.tag.stanford import CoreNLPPOSTagger
 import os.path
+import pickle
 import spacy
 from spacy.matcher import Matcher
 
@@ -24,7 +25,8 @@ cin = {"than", "over", "beyond", "upon", "as", "against", "out", "behind",
        "under", "between", "after", "unlike", "with", "by", "opposite", "to"}
 
 pattern_set = {0, 8, 7, 10}
-pos_tag_set = {"JJR", "RBR", "JJ", "NN", "NNS", "NNP", "NNPS"}
+pos_tag_set = {"JJR", "RBR", "JJ", "NN", "NNS", "NNP", "NNPS", "RB", "RBR", "RBS", "JJS"}
+tag_set = {"CIN", "CV", "VB", "VBZ", "VBD", "VBG", "VBN", "VBP"}
 recordings = {}
 
 def add_patterns(matcher):
@@ -85,7 +87,6 @@ def add_patterns(matcher):
     #             [{'ORTH': 'TECH'}, {'ORTH': 'VBZ'}, {}, {'ORTH': 'RBS'}],
     #             [{'ORTH': 'TECH'}, {}, {'ORTH': 'VBZ'}, {}, {'ORTH': 'RBS'}])
 
-
 def classify(no):
     num = 0
     compa_sent_count = 0
@@ -130,8 +131,8 @@ def classify(no):
                     patterns = matcher(nlp(pos))
                     if patterns != []:
                         compa_sent_count += 1
-                        data_file = open(os.path.join(os.pardir, "out", "tech_v6", "sentences_.txt"), "a")
-                        data_file.write("{}".format(current_id))
+                        data_file = open(os.path.join(os.pardir, "out", "tech_v6", "sentences.txt"), "a")
+                        data_file.write("{}\n".format(current_id))
                         data_file.write("{}\n".format("\t".join(techs)))
                         tech_pair = []
                         for i in range(int(len(techs) / 2)):
@@ -151,6 +152,8 @@ def classify(no):
                                         else:
                                             techb = words[i]
                                             if (techa, techb) in tech_pair or (techb, techa) in tech_pair:
+                                                data_file.write(" ".join(out_list))
+                                                data_file.write("\t")
                                                 if (techa, techb) in recordings:
                                                     recordings[(techa, techb)].add("{} {} {} {}".format(current_id, techa, " ".join(out_list), techb))
                                                 elif (techb, techa) in recordings:
@@ -164,8 +167,6 @@ def classify(no):
                                     if i in range(start, end):
                                         if tag_list[i] in pos_tag_set and techa != "":
                                             out_list.append(words[i])
-                            data_file.write(" ".join(out_list))
-                            data_file.write("\t")
                         data_file.write(str("\n{}\n".format(line)))
                         data_file.close()
                 num += 1
@@ -175,25 +176,28 @@ def classify(no):
 
 print(datetime.datetime.now())
 
-for i in range(1, 83):
-    (c, t) = classify(i)
-    total_compa += c
-    total_sent += t
-# datalist = [0, 1, 2, 3, 4, 5, 6, 7]
+try:
+    for i in range(1, 20):
+        (c, t) = classify(i)
+        total_compa += c
+        total_sent += t
+# datalist = [1, 2, 3, 4, 5, 6, 7, 8]
 # procs = []
 # for i in range(8):
 #     proc = Process(target=classify, args=(datalist[i],))
 #     procs.append(proc)
 #     proc.start()
-#
 # for proc in procs:
 #     proc.join()
-with open(os.path.join(os.pardir, "out", "tech_v6", "recordings.txt"), "a") as recordings_file:
-    recordings_file.write(str(len(recordings))+"\n\n")
-    for key, values in recordings.items():
-        recordings_file.write(key[0]+"\t"+key[1]+"\t"+str(len(values))+"\n")
-        for value in values:
-            recordings_file.write(value+"\n")
-        recordings_file.write("\n")
-print("{} / {}".format(total_compa, total_sent))
-print(datetime.datetime.now())
+finally:
+    with open(os.path.join(os.pardir, "out", "tech_v6", "recordings.txt"), "a") as recordings_file:
+        recordings_file.write(str(len(recordings))+"\n\n")
+        for key, values in recordings.items():
+            recordings_file.write(key[0]+"\t"+key[1]+"\t"+str(len(values))+"\n")
+            for value in values:
+                recordings_file.write(value+"\n")
+            recordings_file.write("\n")
+    print("{} / {}".format(total_compa, total_sent))
+    with open(os.path.join(os.pardir, "data", "recordings.pkl"), 'wb') as output_file:
+        pickle.dump(recordings, output_file)
+    print(datetime.datetime.now())

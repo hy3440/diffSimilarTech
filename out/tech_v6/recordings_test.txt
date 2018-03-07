@@ -1,0 +1,923 @@
+199
+
+wmv	flv	1
+2562 wmv easier flv
+
+testng	junit	6
+430883 testng more flexible junit
+6671 testng more configurable junit
+430883 testng testng more junit
+913928 junit better solution testng
+430883 testng testng more flexible junit
+811937 testng testng much friendlier junit
+
+listview	gridview	1
+10809 listview better the gridview
+
+gethashcode	equals	1
+16381 gethashcode quicker equals
+
+illegalargumentexception	nullpointerexception	3
+199290 nullpointerexception longer illegalargumentexception
+22074 illegalargumentexception illegalargumentexception more nullpointerexception
+22074 illegalargumentexception illegalargumentexception more specific nullpointerexception
+
+integer	unsigned	1
+24035 integer integer unsigned
+
+goto	break	2
+723329 break better goto
+24476 goto simpler break
+
+svn	perforce	3
+26851 perforce more comfortable svn
+44752 perforce perforce better svn
+26851 svn more intuitive perforce
+
+postgresql	mysql	23
+713801 mysql mysql postgresql
+259517 postgresql more powerful mysql
+846356 postgresql postgresql performance probably better mysql
+953814 postgresql postgresql more mysql
+201950 postgresql postgresql much better mysql
+761581 postgresql more sane mysql
+27439 postgresql postgresql a more mysql
+259517 postgresql postgresql which more powerful mysql
+259460 postgresql postgresql more mysql
+27443 postgresql postgresql slower mysql
+442181 postgresql postgresql better mysql
+259460 postgresql postgresql more compliant mysql
+259517 postgresql postgresql which more mysql
+586834 postgresql more mysql
+953814 mysql faster postgresql
+957655 postgresql postgresql more mysql
+602804 mysql mysql postgresql
+957655 postgresql postgresql more tricks mysql
+74931 postgresql better mysql
+27443 postgresql slower mysql
+205364 mysql faster postgresql
+27439 postgresql postgresql a more correct mysql
+52179 mysql worse postgresql
+
+simpletest	phpunit	1
+34338 simpletest easier phpunit
+
+filesystems	ntfs	1
+35627 filesystems less ntfs
+
+post	get	10
+46614 post post also more get
+46614 post more secure get
+46614 post post also more secure get
+434277 get get post
+430730 post post get
+698048 get less subsequent post
+724272 post post more get
+198565 get get more appropiate post
+198565 get get more post
+691900 get get post
+
+m2e	maven	2
+47674 m2e m2e more friendly maven
+47674 m2e m2e more maven
+
+udp	tcp	10
+638446 tcp tcp faster better udp
+638446 tcp better throughput udp
+638446 tcp tcp faster udp
+799142 udp less overhead tcp
+584128 udp lower overhead tcp
+584131 tcp tcp more udp
+799142 udp udp less tcp
+47929 udp udp faster tcp
+584131 tcp tcp more reliable udp
+584131 tcp faster udp
+
+textmate	emacs	2
+48015 textmate textmate a better emacs
+967805 emacs better textmate
+
+division	modulo	1
+48103 division faster modulo
+
+vimeo	youtube	1
+50909 vimeo fewer users youtube
+
+cakephp	codeigniter	2
+52881 cakephp cakephp codeigniter
+139120 codeigniter lighter cakephp
+
+vmware	virtualbox	4
+55578 vmware vmware more virtualbox
+630233 vmware vmware faster virtualbox
+630233 vmware vmware faster for virtualbox
+630233 vmware faster virtualbox
+
+gdi	directx	3
+58301 gdi slower directx
+368466 directx directx faster gdi
+58301 gdi gdi directx
+
+wideimage	phpthumb	2
+65079 wideimage wideimage the more modern phpthumb
+65079 wideimage wideimage the more phpthumb
+
+addition	multiplication	4
+67312 addition addition multiplication
+70881 multiplication multiplication higher addition
+810193 multiplication multiplication operator higher addition
+70881 multiplication higher precedence addition
+
+ubuntu	linux	2
+68674 ubuntu ubuntu closer but linux
+68674 ubuntu ubuntu closer linux
+
+icefaces	richfaces	3
+69545 icefaces more semantic support richfaces
+69545 icefaces icefaces which more semantic richfaces
+69545 icefaces icefaces which more richfaces
+
+heapsort	quicksort	8
+941325 quicksort quicksort usually faster then heapsort
+285023 heapsort smaller sets quicksort
+941325 quicksort simpler heapsort
+70423 heapsort slower quicksort
+107883 quicksort faster heapsort
+941325 quicksort quicksort usually faster heapsort
+70423 heapsort heapsort significantly slower quicksort
+771892 quicksort more efficient heapsort
+
+quicksort	mergesort	19
+201171 quicksort quicksort worse mergesort
+77945 quicksort better mergesort
+680613 quicksort quicksort also more complicated mergesort
+680613 quicksort more complicated mergesort
+70440 quicksort quicksort generally faster that mergesort
+70440 quicksort quicksort generally faster mergesort
+77945 quicksort quicksort not better mergesort
+70440 quicksort quicksort usually faster mergesort
+497967 quicksort better mergesort
+70440 quicksort faster mergesort
+201171 quicksort worse complexity mergesort
+497794 quicksort quicker mergesort
+497819 quicksort better mergesort
+70627 quicksort quicksort not better mergesort
+680613 quicksort quicksort also more mergesort
+90477 quicksort quicksort faster mergesort
+497967 quicksort quicksort better mergesort
+961662 quicksort faster mergesort
+487454 mergesort mergesort worse quicksort
+
+malloc	free	2
+73157 malloc malloc free
+780156 malloc malloc free
+
+textwrangler	bbedit	1
+77328 textwrangler textwrangler bbedit
+
+bazaar	git	6
+897862 bazaar bazaar it slower git
+706428 bazaar slower git
+897862 bazaar slower git
+706457 bazaar slower either git
+897862 bazaar bazaar git
+77883 bazaar bazaar imho easier git
+
+multiplication	multiplying	2
+79771 multiplication multiplication slightly more multiplying
+79771 multiplication multiplication slightly more complex multiplying
+
+xcopy	robocopy	1
+81982 xcopy xcopy robocopy
+
+datediff	difference	2
+81983 datediff datediff more difficult difference
+81983 datediff datediff more difference
+
+shared	restrict	1
+85010 shared shared restrict
+
+fractions	integer	1
+85416 fractions fractions larger integer
+
+webclient	webrequest	2
+91317 webclient webclient sometimes easier webrequest
+449918 webclient webclient simpler webrequest
+
+datamapper	activerecord	3
+818424 datamapper faster activerecord
+94070 datamapper datamapper potentially more complex activerecord
+94070 datamapper datamapper potentially more activerecord
+
+x86	64bit	2
+95121 x86 x86 considerably slower 64bit
+531772 64bit 64bit which it more x86
+
+height	width	15
+340054 width greater height
+686982 width width height
+922429 height greater width
+569500 width width height
+340054 height height greater width
+505839 width width that longer height
+922429 width greater height
+922429 height height greater width
+402030 width width height
+340054 width width greater height
+140501 width width greater height
+340054 height greater width
+505839 width width that longer that height
+99817 height height more width
+922429 width width greater height
+
+double	int	8
+526070 double double that greater int
+105339 double double it more difficult int
+594466 double faster a int
+526070 double double that less int
+605544 double double way greater int
+511928 double double value also larger int
+605547 double double far greater int
+105339 double double it more int
+
+puremvc	cairngorm	3
+109038 puremvc puremvc more invasive cairngorm
+109038 puremvc more invasive cairngorm
+109038 puremvc puremvc more cairngorm
+
+google-chrome	firefox	2
+640303 google-chrome google-chrome in less firefox
+115620 google-chrome google-chrome firefox
+
+png	gif	9
+115838 png better gif
+610542 png png a newer gif
+610573 png larger gif
+116210 png smaller gif
+610565 png smaller gif
+319433 png better gif
+116461 png larger equivalent gif
+115838 png png never worse gif
+115838 gif gif slightly better png
+
+hash	md5	3
+134346 md5 md5 much more secure hash
+116739 hash more reliable md5
+134346 md5 md5 much more hash
+
+pbkdf2	hash	1
+116767 pbkdf2 pbkdf2 a quicker hash
+
+metaphone	soundex	1
+123076 metaphone better soundex
+
+rsa	aes	5
+124248 rsa less user-friendly aes
+124248 rsa rsa which -- more aes
+124248 rsa rsa which -- more so aes
+124248 aes less safe rsa
+124248 aes aes no less rsa
+
+shellsort	quicksort	1
+128055 shellsort slower quicksort
+
+g++	gcc	1
+128221 g++ looser gcc
+
+inline	inlining	1
+133271 inline bigger inlining
+
+mantis	bugzilla	1
+140359 mantis mantis bugzilla
+
+integer	floating-point	6
+141340 integer simpler floating-point
+288727 integer integer arithmetic usually faster floating-point
+798046 integer integer that greater floating-point
+288727 integer faster its floating-point
+514184 floating-point slower integer
+514184 floating-point floating-point math slower integer
+
+cpu	processors	2
+142240 cpu cpu to better processors
+360494 cpu cpu more processors
+
+versioning	upgrade	3
+994571 upgrade lower versioning
+772710 upgrade upgrade versioning
+142427 versioning versioning number it easier upgrade
+
+buildr	maven	1
+145433 buildr faster maven
+
+cruisecontrol	nant	1
+148152 cruisecontrol cruisecontrol nant
+
+nginx	apache	3
+148194 nginx less memory apache
+535933 nginx faster apache
+431398 apache apache nginx
+
+cpu	hyperthreading	1
+149212 cpu cpu more hyperthreading
+
+3des	aes	3
+149409 3des more expensive aes
+149409 3des 3des more aes
+149409 3des 3des more expensive aes
+
+irrlicht	ogre	1
+151399 irrlicht irrlicht a cleaner ogre
+
+inherited	subclassing	2
+154057 inherited inherited more useful subclassing
+154057 inherited inherited more subclassing
+
+jogl	lwjgl	2
+157238 jogl jogl more lwjgl
+157238 jogl jogl more java-like lwjgl
+
+svn	cvs	11
+160037 svn svn better cvs
+245323 svn svn better in cvs
+160037 svn better cvs
+159971 svn better cvs
+159971 svn svn better cvs
+161216 cvs more useful features svn
+245323 svn svn better cvs
+191616 svn more efficient cvs
+161202 svn more comparable format cvs
+161216 svn better cvs
+782375 cvs more popular svn
+
+keyboard	mouse	5
+414289 keyboard faster the mouse
+400867 keyboard keyboard mouse
+219506 mouse mouse keyboard
+923190 keyboard more important mouse
+161193 keyboard more mouse
+
+scheme	lisp	4
+170948 scheme better common lisp
+311896 lisp lisp scheme
+563472 scheme scheme somewhat simpler lisp
+563472 scheme simpler common lisp
+
+apache	lighttpd	4
+371821 lighttpd lighttpd even faster at apache
+371821 lighttpd lighttpd even faster apache
+172177 apache apache more powerful lighttpd
+172177 apache apache more lighttpd
+
+vhdl	verilog	4
+178555 vhdl more feature-rich verilog
+177565 vhdl vhdl more popular verilog
+177565 vhdl vhdl more verilog
+764074 verilog less common vhdl
+
+google-chrome	safari	1
+179520 google-chrome google-chrome also an earlier safari
+
+isnull	coalesce	1
+181450 isnull isnull coalesce
+
+inherited	properties	3
+183126 inherited inherited which much more properties
+766479 inherited inherited it easier properties
+183126 inherited inherited which much more powerful properties
+
+ant	maven	9
+183290 ant ant more maven
+989209 ant clearer the maven
+599070 maven maven really a better ant
+304069 ant better maven
+305216 ant ant maven
+304069 ant ant better maven
+194130 ant ant maven
+413752 ant more maven
+183290 ant ant more a maven
+
+webkit	gecko	1
+184381 webkit smaller gecko
+
+configobj	configparser	1
+186990 configobj configobj easier configparser
+
+abstract-class	subclass	1
+190913 abstract-class more one subclass
+
+web2py	django	2
+196705 web2py web2py easier django
+196705 web2py easier django
+
+nfa	dfa	1
+198624 nfa nfa far easier dfa
+
+dialog	pop-up	2
+206134 dialog less intrusive pop-up
+784719 dialog better the pop-up
+
+antivirus	norton	1
+215539 antivirus better norton
+
+ini	config	2
+677459 ini less fifty config
+217708 ini ini config
+
+elf	coff	1
+220922 elf elf coff
+
+compiled-language	interpreted-language	1
+223029 compiled-language faster an interpreted-language
+
+multiplication	division	13
+226515 multiplication multiplication faster division
+655584 division slower multiplication
+899929 multiplication multiplication generally faster division
+980962 multiplication multiplication faster division
+899887 multiplication multiplication faster division
+597265 multiplication multiplication division
+836856 multiplication multiplication faster division
+899929 multiplication faster division
+506252 division busier place a multiplication
+506241 division slower multiplication
+436535 division slower a multiplication
+436535 multiplication slower hardware division
+655581 division slower multiplication
+
+teamcity	cruisecontrol	1
+226593 teamcity teamcity far easier cruisecontrol
+
+innodb	myisam	21
+277511 innodb innodb slower myisam
+228750 innodb innodb slower myisam
+405022 innodb higher throughput myisam
+389824 innodb faster myisam
+228750 innodb slower myisam
+754723 myisam less suitable innodb
+990780 myisam myisam faster but innodb
+405022 myisam myisam faster innodb
+990780 myisam myisam faster innodb
+262798 innodb innodb heavier myisam
+262798 innodb heavier myisam
+405022 myisam myisam faster in innodb
+579589 innodb higher performance myisam
+365834 innodb innodb more myisam
+277511 innodb slower myisam
+579589 innodb innodb 30 higher myisam
+380074 innodb better performance myisam
+389824 innodb innodb actually faster myisam
+990830 innodb innodb slower myisam
+754723 myisam myisam which generally less innodb
+380074 innodb innodb better myisam
+
+for-loop	loops	5
+472283 for-loop for-loop generally better loops
+229915 for-loop for-loop it neater and loops
+229915 for-loop for-loop it neater loops
+365630 for-loop for-loop much faster loops
+848039 loops loops wider for-loop
+
+ccombobox	clistctrl	1
+232055 ccombobox ccombobox clistctrl
+
+properties	accessor	1
+234378 properties properties accessor
+
+toupper	tolower	1
+234591 toupper toupper tolower
+
+nstableview	nssplitview	1
+241621 nstableview shorter the nssplitview
+
+kerberos	ldap	1
+242546 kerberos more one ldap
+
+greenfoot	bluej	2
+259080 greenfoot greenfoot better bluej
+259080 greenfoot better bluej
+
+ubuntu	centos	2
+263966 ubuntu ubuntu less desirable centos
+263966 ubuntu ubuntu less centos
+
+swt	swing	2
+269117 swt swt more swing
+269117 swt swt more simple swing
+
+boost	stl	4
+562990 stl stl boost
+277306 boost boost better stl
+548848 stl better boost
+548827 boost less standard stl
+
+rdiscount	bluecloth	1
+277564 rdiscount more reliable bluecloth
+
+glassfish	jboss	1
+283405 glassfish glassfish a better jboss
+
+parent	children	4
+289468 parent more content the children
+931234 parent more n children
+289468 parent parent us more children
+921679 parent parent children
+
+redmine	trac	4
+386835 redmine better trac
+323542 redmine better trac
+380757 redmine more complete trac
+294097 redmine nicer trac
+
+mapguide	arcmap	1
+303277 mapguide more arcmap
+
+sin	cos	1
+315407 sin sin cos
+
+crypt	md5	1
+317990 crypt crypt md5
+
+redmine	bugzilla	1
+323542 redmine more bugzilla
+
+activemq	rabbitmq	2
+333440 activemq activemq which way more popular rabbitmq
+333440 activemq activemq which way more rabbitmq
+
+chars	int	18
+337764 chars less room an int
+819327 int bigger chars
+380092 int better bet a chars
+784328 int more 11 chars
+721224 int int wider chars
+955645 chars greater a int
+964541 chars chars type more int
+964541 chars more usable int
+966107 int int often faster and chars
+433998 chars chars int
+857530 chars chars far more int
+955645 chars shorter a int
+966107 int int often faster chars
+964541 chars chars type more usable int
+819327 int int usually bigger chars
+857530 chars chars far more descriptive int
+857530 chars more descriptive int
+914297 int int less chars
+
+dlopen	dlsym	1
+365804 dlopen dlopen dlsym
+
+firefox	safari	3
+899967 safari faster either firefox
+365945 firefox more forgiving safari
+463954 firefox firefox just better safari
+
+sip	rtp	1
+373983 sip sip rtp
+
+getter	setter	1
+375160 getter getter setter
+
+declarative	imperative	1
+382518 declarative declarative code easier imperative
+
+tortoisegit	svn	1
+384102 tortoisegit better off svn
+
+ati	nvidia	1
+386826 ati ati nvidia
+
+free	memmove	1
+388146 free more efficient memmove
+
+macports	fink	2
+388422 macports macports it more up fink
+388422 macports macports it more fink
+
+sortedlist	sorteddictionary	10
+389813 sortedlist sortedlist faster sorteddictionary
+890438 sortedlist sortedlist less sorteddictionary
+890438 sortedlist less memory sorteddictionary
+472158 sorteddictionary sorteddictionary faster sortedlist
+890438 sortedlist faster sorteddictionary
+389813 sortedlist less memory sorteddictionary
+472158 sortedlist sortedlist less sorteddictionary
+389813 sorteddictionary sorteddictionary faster sortedlist
+472158 sortedlist less memory sorteddictionary
+389813 sortedlist sortedlist less sorteddictionary
+
+haskell	scheme	1
+392733 haskell earlier scheme
+
+tcl	perl	1
+393362 tcl worse perl
+
+tree	trie	2
+402806 tree tree more trie
+402806 tree tree more or trie
+
+prolog	lisp	1
+406426 prolog easier lisp
+
+awt	swing	3
+408820 awt awt more useful swing
+416947 swing less memory the awt
+408820 awt awt more swing
+
+pyglet	pyopengl	2
+408981 pyglet more pyopengl
+408981 pyglet pyglet actually more pyopengl
+
+fireworks	photoshop	1
+410176 fireworks fireworks an easier photoshop
+
+profiler	perf	2
+410465 profiler profiler you more perf
+410465 profiler profiler you more detailed perf
+
+modulo	subtraction	1
+414763 modulo slower subtraction
+
+subtract	multiplying	1
+417342 subtract more reliable multiplying
+
+minimum	max	1
+421566 minimum minimum max
+
+intersect	contains	1
+422343 intersect intersect one greater contains
+
+ntlm	kerberos	4
+453751 ntlm ntlm better kerberos
+453751 ntlm better kerberos
+592640 kerberos faster ntlm
+592640 kerberos slower ntlm
+
+x86	mips	1
+454121 x86 more complex instructions mips
+
+velocity	freemarker	5
+463420 freemarker freemarker more velocity
+463420 freemarker more powerful velocity
+463420 velocity simpler freemarker
+463420 freemarker freemarker more powerful velocity
+463420 velocity velocity simpler freemarker
+
+trac	bugzilla	2
+559937 bugzilla bugzilla trac
+471259 trac better bugzilla
+
+ram	disk	10
+688567 ram ram disk
+897118 ram ram disk
+472333 ram ram much faster disk
+848572 ram ram slower disk
+516941 disk cheaper ram
+937211 ram ram disk
+969709 disk larger available ram
+565933 ram ram alway faster disk
+472333 ram faster disk
+645799 ram ram disk
+
+hash	salt	1
+482268 hash longer the salt
+
+ftp	smb	1
+482412 ftp ftp faster smb
+
+hex	binary	2
+484066 hex hex representation a better binary
+484849 hex hex just less binary
+
+runtimeexception	unchecked-exception	1
+484840 runtimeexception runtimeexception unchecked-exception
+
+mstest	nunit	1
+486951 mstest mstest nunit
+
+subclassing	superclass	4
+488946 subclassing subclassing more specific superclass
+488946 subclassing subclassing more superclass
+839664 superclass superclass always smaller subclassing
+933047 subclassing bigger interface the superclass
+
+jscript	vbscript	3
+495528 jscript jscript infinitely more elegant vbscript
+495528 jscript more elegant vbscript
+495528 jscript jscript infinitely more vbscript
+
+mergesort	in-place	1
+497849 mergesort mergesort more in-place
+
+sproutcore	javascriptmvc	1
+509703 sproutcore more heavyweight javascriptmvc
+
+xslt	xsl-fo	1
+512569 xslt xslt more xsl-fo
+
+qt-designer	wxpython	2
+515325 qt-designer qt-designer more powerful wxpython
+515325 qt-designer qt-designer more wxpython
+
+freebsd	linux	2
+530086 freebsd freebsd much better linux
+530086 freebsd freebsd much better on linux
+
+localization	translation	1
+539857 localization localization it easier translation
+
+northwind	adventureworks	3
+597847 adventureworks better northwind
+597847 adventureworks adventureworks better northwind
+544898 northwind northwind adventureworks
+
+emacs	vim	6
+977462 emacs more powerful vim
+977462 emacs emacs better vim
+551342 emacs emacs much older vim
+977462 emacs emacs more powerful vim
+977462 vim vim quicker emacs
+977462 emacs emacs more vim
+
+cvsnt	svn	1
+559225 cvsnt cvsnt simply much better svn
+
+linux	opensuse	1
+568703 linux linux opensuse
+
+tree	skip-lists	1
+576296 tree better the skip-lists
+
+pdfbox	itext	1
+584198 pdfbox better itext
+
+pagespeed	yslow	1
+584890 pagespeed better yslow
+
+openrasta	asp.net-mvc	1
+585100 openrasta openrasta which much closer asp.net-mvc
+
+width	margin	1
+604314 width nicer any margin
+
+strncpy	memcpy	1
+610260 strncpy strncpy slower memcpy
+
+spaces	delimiter	2
+972203 delimiter delimiter spaces
+612937 spaces spaces field delimiter
+
+pypy	cpython	1
+619544 pypy faster cpython
+
+ironpython	cpython	2
+845066 cpython more of ironpython
+620976 ironpython ironpython faster cpython
+
+uiview	catransition	1
+630770 uiview more limited catransition
+
+entity-relationship	diagram	1
+656377 entity-relationship entity-relationship diagram
+
+dawg	trie	2
+681760 dawg dawg that more efficient trie
+681760 dawg dawg that more trie
+
+typo3	joomla	1
+683028 typo3 more professional joomla
+
+subtraction	multiplication	1
+698780 subtraction cheaper multiplication
+
+sml	haskell	2
+712054 sml sml haskell
+811801 sml better in haskell
+
+protected	public	3
+761864 protected more sense public
+714814 protected protected public
+761864 protected protected much more public
+
+repeater	gridview	2
+721563 repeater repeater better gridview
+721563 repeater repeater better but gridview
+
+addition	subtraction	1
+741341 addition addition subtraction
+
+cons	cdr	1
+744070 cons cons cdr
+
+gridview	datalist	2
+756327 gridview gridview much more bells datalist
+756327 gridview gridview much more datalist
+
+ruby-on-rails	merb	1
+764490 ruby-on-rails ruby-on-rails merb
+
+installation	upgrade	1
+765929 installation installation much better upgrade
+
+show	hide	1
+773225 show show hide
+
+cin	cout	1
+780111 cin cin printf faster cout
+
+zip	rar	1
+790473 zip zip rar
+
+put	get	2
+794801 put put method better get
+794801 put put method better since get
+
+nginx	lighttpd	2
+803700 nginx nginx even more lighttpd
+803700 nginx nginx even more ridiculously lighttpd
+
+lxml	beautifulsoup	2
+880821 lxml lxml faster beautifulsoup
+804829 lxml more beautifulsoup
+
+rtf	doc	2
+813984 rtf rtf which somewhat easier doc
+813984 rtf easier the doc
+
+actionscript	mxml	2
+814811 actionscript actionscript better for mxml
+814811 actionscript actionscript better mxml
+
+ruby-on-rails	ramaze	1
+816576 ruby-on-rails ruby-on-rails ramaze
+
+haskell	ocaml	2
+996052 haskell better ocaml
+827594 haskell haskell fewer ocaml
+
+svn2git	git-svn	1
+840730 svn2git better results git-svn
+
+int	boolean	1
+840989 int int boolean
+
+qcubed	qcodo	1
+843733 qcubed qcubed community much stronger qcodo
+
+isnull	nullif	1
+857900 isnull isnull nullif
+
+des	rsa	1
+864659 des larger rsa
+
+colt	jama	2
+879201 jama slower colt
+879201 colt more powerful jama
+
+division	addition	2
+884697 division division more tightly addition
+884697 division division more addition
+
+smb	cifs	1
+885598 smb smb cifs
+
+max	rank	1
+886136 max faster a rank
+
+udp	mtu	1
+887983 udp udp mtu
+
+bitvector	bitarray	1
+903548 bitvector more efficient bitarray
+
+push	pull	2
+912233 push push far more scalable pull
+912233 push push far more pull
+
+max	min	2
+924296 max max min
+924296 max less min
+
+grouping	filtering	1
+937557 grouping grouping filtering
+
+xna	spritebatch	1
+941685 xna more one spritebatch
+
+16-bit	64bit	1
+942017 16-bit less efficient 64bit
+
+coalesce	sum	1
+960774 coalesce less the sum
+
+vba	vbscript	1
+962399 vba better vbscript
+
+imagemagick	libjpeg	1
+965313 imagemagick slower libjpeg
+
+sudo	passwd	2
+982185 sudo sudo better passwd
+982185 sudo sudo better in passwd
+
