@@ -17,7 +17,7 @@ class MySentences(object):
         try:
             cnx = mysql.connector.connect(host='localhost',
                                           user='root',
-                                          password='yfwrshgrm',
+                                          password='ccywch',
                                           db='stackoverflow')
             cursor = cnx.cursor()
             query = "SELECT Id, Body FROM Posts WHERE Score >= 0"
