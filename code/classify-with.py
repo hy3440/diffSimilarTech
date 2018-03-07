@@ -177,7 +177,11 @@ def classify(no):
 print(datetime.datetime.now())
 
 try:
-    for i in range(1, 20):
+    for i in range(1, 83):
+        (c, t) = classify(i)
+        total_compa += c
+        total_sent += t
+    for i in range(100, 106):
         (c, t) = classify(i)
         total_compa += c
         total_sent += t
