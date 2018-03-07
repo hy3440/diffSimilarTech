@@ -87,9 +87,9 @@ matcher = Matcher(nlp.vocab)
 add_patterns(matcher)
 flag = False
 tag_list = []
-tech_pair = [".net", "c++"]
+tech_pair = ["python", "java"]
 tags = []
-line = "i want to test .net g++ and .net or js.lalal and js."
+line = "python isn t faster than java"
 words = line.split()
 tagged_words = CoreNLPPOSTagger(url='http://localhost:9000').tag(words)
 if len(words) != len(tagged_words):
