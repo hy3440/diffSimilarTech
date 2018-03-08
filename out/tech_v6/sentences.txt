@@ -1,0 +1,895 @@
+20192
+cassini	iis
+pattern4	
+there are lots of good reasons to prefer iis over the cassini server articles by dominick baier
+
+20666
+hash	md5
+pattern4	
+to go along with what everyone here is saying i use hashtab when i need to generate compare md5 and sha1 hash on windows
+
+70375
+equals	gethashcode
+pattern2	
+if two objects compare as equals the gethashcode method for each object must return the same value
+
+70375
+equals	gethashcode
+pattern2	
+however if two objects do not compare as equals the gethashcode methods for the two object do not have to return different values
+
+70423
+quicksort	heapsort
+pattern7	significantly slower	pattern0	slower	
+but there are many citations of real world tests which show that heapsort is significantly slower than quicksort on average
+
+70440
+quicksort	mergesort
+pattern7	usually faster	pattern0	faster	
+quicksort is usually faster than mergesort just because it s easier to code a tight implementation and the operations it does can go faster
+
+70440
+quicksort	mergesort
+pattern10	generally faster	pattern10	generally faster	
+it s because that quicksort is generally faster that people use it instead of mergesort
+
+1200232
+gif	png
+pattern7	much better	pattern0	better	pattern10	pattern10	
+png compresses much better than gif and allows more colors at the same time
+
+1500490
+maven	m2e
+pattern3	
+i recommend using maven eclipse and m2e
+
+1500539
+post	get
+pattern10	better	pattern10	better	pattern0	less secure	
+since post is better suited to transfer large amounts of data or difficult formatted data it is the established standard for submitting forms but it is in no way safer unsafer or more less secure than get requests
+
+2100226
+equals	gethashcode
+pattern3	
+we recommend implementing equals and gethashcode using business key equality
+
+2900131
+xsl-fo	xslt
+pattern7	
+i found the xsl-fo designer from ecrion to be good for both programmers familiar with xslt and xsl-fo and old ladies that need to make changes to the templates we are deploying a desktop solution based on xsl-fo that replaces an older proprietary solution and the ladies can make small changes to the document templates
+
+7700192
+bash	zsh
+pattern4	
+note that you ll never get behavior that exactly matches zsh one with bash only
+
+20192
+cassini	iis
+pattern4	
+there are lots of good reasons to prefer iis over the cassini server articles by dominick baier
+
+20666
+hash	md5
+pattern4	
+to go along with what everyone here is saying i use hashtab when i need to generate compare md5 and sha1 hash on windows
+
+70375
+equals	gethashcode
+pattern2	
+if two objects compare as equals the gethashcode method for each object must return the same value
+
+70375
+equals	gethashcode
+pattern2	
+however if two objects do not compare as equals the gethashcode methods for the two object do not have to return different values
+
+1200232
+gif	png
+pattern7	much better	pattern0	better	pattern10	pattern10	
+png compresses much better than gif and allows more colors at the same time
+
+1500490
+maven	m2e
+pattern3	
+i recommend using maven eclipse and m2e
+
+1500539
+post	get
+pattern10	better	pattern10	better	pattern0	less secure	
+since post is better suited to transfer large amounts of data or difficult formatted data it is the established standard for submitting forms but it is in no way safer unsafer or more less secure than get requests
+
+2900131
+xsl-fo	xslt
+pattern7	
+i found the xsl-fo designer from ecrion to be good for both programmers familiar with xslt and xsl-fo and old ladies that need to make changes to the templates we are deploying a desktop solution based on xsl-fo that replaces an older proprietary solution and the ladies can make small changes to the document templates
+
+7700192
+bash	zsh
+pattern4	
+note that you ll never get behavior that exactly matches zsh one with bash only
+
+583
+int	double
+pattern4	
+personally i prefer int string double etc
+
+2360
+mouse	keyboard
+pattern4	
+go to system preferences keyboard and mouse then choose keyboard shortcuts
+
+2562
+wmv	flv
+pattern0	easier	
+i found the production of wmv much better and easier than flv because all windows flv encoders i tried are not really good and stable whereas pretty much every tool can natively output wmv
+
+6659
+junit	testng	junit	unitils	junit	easymock	testng	unitils	testng	easymock	easymock	unitils
+pattern4	
+but i would recommend unitils a great wrapper for junit testng dbunit easymock regardless of which route you take
+
+6671
+junit	testng
+pattern8	more configurable	
+testng strives to be much more configurable than junit but in the end they both work equally well
+
+9788
+subtraction	addition
+pattern2	
+additionally while reads and writes are atomic there is a race condition with addition subtraction and incrementing and decrementing primitive types since they must be read operated on and rewritten
+
+10232
+ant	maven
+pattern3	
+they do a great job for us and i would highly recommend using maven over ant
+
+10809
+listview	gridview
+pattern0	better	
+listview much better than the gridview dataview in that they let you write out clean html
+
+12586
+rss	feed
+pattern4	pattern4	
+the rss brand very much defines the entire feed category though so on the rare occasion that someone does know enough to choose they will tend to choose rss because it s got the name. they will also tend to choose rss 2.0 because it s got the bigger number
+
+13455
+cvs	svn
+pattern4	pattern2	
+i would definitely choose svn over cvs if only because people who learned source control using cvs tend to use svn delete then svn add instead of svn move
+
+14261
+actionscript	mxml
+pattern7	
+if you write your own reusable components then writing them in actionscript may sometimes give you a little more control but for non-reusable views mxml is much better
+
+16381
+equals	gethashcode
+pattern0	quicker	
+gethashcode should be a lot quicker than equals but doesn t need to be unique
+
+20192
+cassini	iis
+pattern4	
+there are lots of good reasons to prefer iis over the cassini server articles by dominick baier
+
+20666
+hash	md5
+pattern4	
+to go along with what everyone here is saying i use hashtab when i need to generate compare md5 and sha1 hash on windows
+
+22074
+nullpointerexception	illegalargumentexception
+pattern10	more	pattern10	more specific	
+in my mind illegalargumentexception seems more specific than using a nullpointerexception since it s telling me that the problem was with an argument i passed to the method and not with a value that may have been generated while performing the method
+
+23203
+haskell	scheme	lisp	scheme
+pattern7	
+i really like thompsonâ s â œhaskell the craft of functional programmingâ because itâ s well written and haskell allows an easier start than other functional languages while being completely pure unlike lisp or scheme
+
+24035
+integer	unsigned
+pattern0	
+in fact your going to get a value bigger than an integer can hold 4 billion unsigned 2 billion signed before the stack is going to over flow fibbonaci 46
+
+24476
+goto	break
+pattern0	simpler	
+if you re in a nested loop and need to break out of all loops a goto can make this much cleaner and simpler than break statements and if-checks
+
+25701
+jdom	xom
+pattern4	
+i ve worked with jdom as well and there s absolutely nothing wrong with it although i do prefer xom
+
+26851
+perforce	svn
+pattern8	more intuitive	
+if anything i find working with svn easier and more intuitive than perforce
+
+26851
+perforce	svn
+pattern8	more comfortable	
+perforce does have support for many other oses but our non-windows devs feel more comfortable with svn too
+
+27439
+postgresql	mysql
+pattern10	more	pattern10	more correct	pattern10	pattern10	
+from how i understand it postgresql is a more correct database implementation while mysql is less correct less compliant but faster
+
+27440
+postgresql	mysql
+pattern4	
+better performance can be bought with more ram and cpu and more appropriate database design and clever stored procedure tricks and so on - and all of that is cheaper and easier for random-website-x than agonizing over which to pick mysql or postgresql and specialist tuning from expensive dbas
+
+27443
+postgresql	mysql
+pattern7	slower	pattern0	slower	
+in most regards postgresql is slower than mysql especially when it comes to fine tuning in the end
+
+27529
+postgresql	mysql
+pattern4	
+hard to compare mysql and postgresql
+
+29557
+mbunit	nunit	mbunit	mstest	nunit	mstest
+pattern8	
+i ve read time and time again that tdd test first is more difficult with mstest than it is with other testing frameworks such as nunit mbunit etc.
+
+29923
+bazaar	git
+pattern7	
+in git you can do the same with playing around in the index staging area but bazaar has a better ui for it
+
+34295
+emacs	aquamacs
+pattern4	
+if it is emacs you want i would recommend aquamacs more mac-like or carbon emacs more gnu-emacs-like
+
+34338
+phpunit	simpletest
+pattern0	easier	
+i found simpletest was even easier than phpunit to set up
+
+34474
+phpunit	simpletest
+pattern4	
+i prefer phpunit now but when i started out i used simpletest as i didn t always have access to the command line
+
+34566
+equals	gethashcode
+pattern2	
+if two objects compare as equals the gethashcode method for each object must return the same value
+
+34566
+equals	gethashcode
+pattern2	
+however if two objects do not compare as equals the gethashcode methods for the two object do not have to return different values
+
+35627
+filesystems	ntfs
+pattern0	less	
+when people say that unix filesystems are better they might mean to be saying oh ext3 stores bits in such as way that corruption happens way less than ntfs but they might also be talking about design choices made at the common layer above
+
+37162
+portrait	landscape
+pattern4	
+web browser print dialogs default to portrait so for every print job the user has to manually select landscape
+
+44638
+merb	ruby-on-rails
+pattern4	
+ok ruby-on-rails is actually pretty good but there is just a little bit too much magic going on in there from the ruby world i would much prefer merb to ruby-on-rails
+
+44752
+perforce	svn
+pattern10	better	pattern10	better	
+make sure you re using a source control system that supports branching and merging i ve had experience with perforce and svn and while perforce is better svn is free
+
+45963
+free	malloc
+pattern10	pattern10	
+finding a package that can work with both new delete and malloc free obviously gives you more flexibility
+
+46614
+post	get
+pattern10	also more	pattern10	also more secure	pattern8	more secure	
+post is also more secure than get because you aren t sticking information into a url
+
+47674
+maven	m2e
+pattern10	more	pattern10	more friendly	
+in other words m2e is more friendly to the maven way
+
+47929
+udp	tcp
+pattern10	faster	pattern10	faster	
+udp is faster than tcp and the simple reason is because its nonexistent acknowledge packet ack that permits a continuous packet stream instead of tcp that acknowledges a set of packets calculated by using the tcp window size and round-trip time rtt
+
+48015
+emacs	textmate
+pattern7	better	
+textmate is a better emacs for macs though that won t help you with solaris
+
+48103
+division	modulo
+pattern0	faster	
+a side effect of many division routines is the modulo - so in few cases should division actually be faster than modulo
+
+50632
+integer	unsigned
+pattern7	
+otherwise if the operand that has unsigned integer type has rank greater or equal to the rank of the type of the other operand then the operand with signed integer type is converted to the type of the operand with unsigned integer type
+
+50909
+youtube	vimeo
+pattern0	fewer users	
+vimeo will always have fewer users than youtube because the user experience is poor for low bitrate users
+
+52179
+postgresql	mysql
+pattern0	worse	
+i just checked the timings using mysql 5 and they are slightly worse than postgresql
+
+52725
+gridview	repeater	gridview	formview
+pattern10	pattern10	
+the bind method really isn t for the repeater it s more for the formview or gridview where you are editing just one item in the list not every item in the list
+
+52881
+codeigniter	cakephp
+pattern0	
+also i don t think it is so much that asp.net mvc is so much better than cakephp or codeigniter ruby on rails etc. the great thing about asp.net mvc and other asp.net-based technologies such as monorail is that developers who are using asp.net now have the option of following the mvc pattern using tools and languages they are familiar with
+
+54817
+invalidoperationexception	argumentexception
+pattern4	pattern2	
+this seems like an object state invalid scenario to me so i d pick invalidoperationexception over argumentexception the parameters are valid but not at this point in the objects life
+
+55578
+vmware	virtualbox
+pattern7	more	
+vmware has more features but costs 80 virtualbox on the other hand is more basic but is free for most users see virtualbox licensing faq for details
+
+58301
+directx	gdi
+pattern0	pattern0	slower	
+speed is usually faster than gdi and slower than directx and depends greatly on how you do things seen something to work 60 times faster after rewriting in a sensible way
+
+58363
+memcached	apc
+pattern4	
+i would recommend memcached or apc
+
+60137
+ubuntu	debian
+pattern4	
+i haven t decided which one yet but my understanding is that they ll give me a base os install i d prefer debian or ubuntu an ip address a root account ssh and that s about it
+
+60910
+emacs	aquamacs
+pattern7	
+however i m not really much of an emacs user and the preferences menu in aquamacs is less than clear on where and how one might make such a change
+
+62220
+postgresql	mysql
+pattern4	
+however the observation of database-locking stands - if you have particularly onerous updates sqlite performance won t match mysql or postgresql
+
+64644
+vim	emacs
+pattern4	
+i don t think you would want to wait 10 seconds for your text editor to become ready ...if you are going to spend some serious time coding then spend some time and learn to use vim emacs too but i recommend vim
+
+65079
+wideimage	phpthumb
+pattern10	more	pattern10	more modern	pattern10	pattern10	
+wideimage is the more modern php5 approach while phpthumb has much more features
+
+67312
+addition	multiplication
+pattern0	
+transcendental functions are always much more slower than addition or multiplication and a well-known bottleneck
+
+68674
+ubuntu	linux
+pattern10	closer	pattern10	closer	
+ubuntu is getting closer but there are still numerous things with linux that will keep the grandmothers of the world from using it
+
+69545
+richfaces	icefaces
+pattern10	more	pattern10	more semantic	pattern8	more semantic support	
+there is icefaces which provides more semantic support than richfaces .also you can try nitobi suite which also provides similar kinda solution.if you are not satisfied with any of these i suggest try to write your own part extending the sun faces
+
+69989
+post	get
+pattern0	
+get is basically just like post it just has a limit on the amount of data you can send which is usually a lot smaller than post and a semantic difference which makes get not a good candidate from that point of view even if technically they both can do it
+
+70375
+equals	gethashcode
+pattern2	
+if two objects compare as equals the gethashcode method for each object must return the same value
+
+70375
+equals	gethashcode
+pattern2	
+however if two objects do not compare as equals the gethashcode methods for the two object do not have to return different values
+
+70423
+quicksort	heapsort
+pattern7	significantly slower	pattern0	slower	
+but there are many citations of real world tests which show that heapsort is significantly slower than quicksort on average
+
+70440
+quicksort	mergesort
+pattern7	usually faster	pattern0	faster	
+quicksort is usually faster than mergesort just because it s easier to code a tight implementation and the operations it does can go faster
+
+70440
+quicksort	mergesort
+pattern10	generally faster	pattern10	generally faster	
+it s because that quicksort is generally faster that people use it instead of mergesort
+
+70627
+quicksort	mergesort
+pattern7	not better	
+quicksort is not better it is well suited for a different kind of application than mergesort
+
+70881
+addition	multiplication
+pattern7	higher	pattern0	higher precedence	
+precedence rules specify priority of operators which operators will be evaluated first multiplication has higher precedence than addition pemdas
+
+71743
+tapestry	sitemesh
+pattern10	pattern10	
+i have used sitemesh and it is good for wrapping a set of pages in standard headers and footers but tapestry is better for creating components which are used on many pages possibly many times per page
+
+73157
+free	malloc
+pattern7	pattern7	
+yes that may since your allocating with new but deallocating with delelte yes malloc free is safer here but in c++ you should not use them since they won t handle de constructors
+
+74931
+postgresql	mysql
+pattern0	better	
+with correct locking for safety reasons and heavy concurrent use postgresql performed better than mysql
+
+74992
+bash	zsh
+pattern4	pattern2	
+i prefer zsh over bash because of its support for very powerful file globbing variable expansion modifiers and faster tab completion
+
+77328
+textwrangler	bbedit
+pattern0	pattern0	
+i really do not get the appeal it s marginally better than textwrangler bbedit s free little brother but if you re spending money you may as well buy the better tool for a few dollars more
+
+77883
+bazaar	git
+pattern7	imho easier	
+bazaar is imho easier to learn than git
+
+77945
+quicksort	mergesort
+pattern7	not better	pattern0	better	
+quicksort is not better than mergesort
+
+79550
+width	height
+pattern7	
+if you can get that to work you might want to try progressively removing the height width position attributes from div.header to get the minimal required attributes to get the effect you want
+
+79771
+multiplying	multiplication
+pattern10	slightly more	pattern10	slightly more complex	
+multiplication is slightly more complex as it needs an integer multiplying followed by a scale back such as 0.72 2 becomes 72 200 becomes 14400 becomes 144 scaleback becomes 1.44
+
+81982
+robocopy	xcopy
+pattern10	pattern10	
+at least use xcopy robocopy is even faster
+
+81983
+datediff	difference
+pattern10	more	pattern10	more difficult	
+datediff becomes more difficult to use as you have more dateparts in your difference in your case looks like minutes and seconds
+
+84239
+distance	polygons
+pattern4	
+for each vertex in the red polygons compute the distance to each vertex in the blue polygons and find the closest hint compare distance 2 so you don t need the sqrt
+
+84974
+union	distinct
+pattern4	
+in most cases what you really want to say is union all as it does not do duplicate elimination think select distinct between sets which can result in quite a bit of savings in terms of execution time
+
+85010
+restrict	shared
+pattern0	
+the code is riddled with classes which contain nothing more than public shared attributes variables and methods functions the result of which restrict the application from opening more than one project at a time
+
+85414
+vmware	virtualbox
+pattern2	
+i ve been using vmware for a while and am very happy with it but i would like to compare it with virtualbox
+
+85416
+integer	fractions
+pattern7	larger	
+if the number of bits in the mantissa or fractions is larger than the number of bits in your integer type then you ll possibly lose precision when someone types in a number such as
+
+87006
+cvs	svn	accurev	cvs	accurev	svn
+pattern4	
+i ve used svn cvs clearcase base ucm ccc harvest but none of them can beat accurev s strengths
+
+88100
+udp	tcp
+pattern4	
+for instance if a preference picks tcp versus udp have your conditional instantiate a tcpprovider or udpprovider which the rest of your code uses with minimal muss or fuss
+
+90477
+quicksort	mergesort
+pattern10	faster	pattern10	faster	
+as many people have noted the average case performance for quicksort is faster than mergesort
+
+91149
+jboss	glassfish
+pattern4	
+i would choose jboss or glassfish for a start
+
+91317
+webclient	webrequest
+pattern7	sometimes easier	
+webclient is sometimes easier to use than webrequest
+
+94070
+datamapper	activerecord
+pattern10	potentially more	pattern10	potentially more complex	
+datamapper is potentially more complex then activerecord but it s a lot easier to develop your domain model and database asynchronous then with activerecord
+
+95121
+x86	64bit
+pattern7	considerably slower	pattern7	
+x86 is considerably slower a few clocks plus a clock or so per function argument while 64bit is much less because most function arguments are passed in registers instead of on the stack
+
+95821
+eruby	erb
+pattern4	
+i see that it supposedly beats erb and eruby now.
+
+99817
+width	height
+pattern7	more	
+that is the height is more than half the width and depth -- little rule of thumb
+
+101381
+hex	binary
+pattern7	
+that s one reason why going from hex to binary is much easier than from decimal to binary
+
+105287
+nunit	mstest
+pattern7	
+although several ci tools such as teamcity have better support for nunit probably would change as mstest becomes more popular
+
+105339
+int	double
+pattern10	more	pattern10	more difficult	
+for floats and double it s more difficult as with plain int as these may or not may be in the host machines byte-order
+
+107883
+quicksort	heapsort
+pattern0	faster	
+for example quicksort average cost t n.log n and heapsort average cost t n.log n are both sorting algorithms with the same average cost - yet quicksort is typically much faster than heapsort
+
+109038
+cairngorm	puremvc
+pattern10	more	pattern10	more invasive	pattern8	more invasive	
+puremvc is more invasive than cairngorm meaning that your code is heavily dependent on the framework you have to subclass implement the framework classes interfaces but that doesn t mean that cairngorm isn t
+
+113331
+wxpython	pyqt
+pattern4	
+wxpython has a very good demo and it can do pretty much anything which pyqt can do i would anyday prefer pyqt but it may bot be free for commercial purpose but wxpython is free and is decent cross platform library
+
+115620
+google-chrome	firefox
+pattern0	pattern7	
+until people have more experience with google-chrome i would think firefox is a better choice
+
+115838
+gif	png
+pattern7	never worse	pattern0	better	
+as a general rule png is never worse and often better than gif because of superior compression
+
+115838
+gif	png
+pattern7	slightly better	
+there might be some edge cases where gif is slightly better because the png format may have a slightly larger overhead from metadata but it s really not worth the worry
+
+116210
+gif	png
+pattern0	smaller	
+indexed png less than 256 colors is actually always smaller than gif so i use that most of the time
+
+116461
+gif	png
+pattern0	larger equivalent	
+if your png files are coming out larger than equivalent gif files it is almost certainly because your source image has more than 256 colors
+
+116739
+hash	md5
+pattern0	more reliable	
+sha-256 uses 64 characters in the database but with an index on the column that isn t a problem and it is a proven hash and more reliable than md5 and sha-1
+
+116767
+pbkdf2	hash
+pattern7	quicker	
+a key-stretching algorithm like pbkdf2 applies a quicker hash like sha512 thousands of times typically causing the hash generation to take 1 5 of a second or so
+
+123076
+metaphone	soundex
+pattern0	better	
+edit double metaphone was specifically designed to be better than soundex and work in languages other than english
+
+124248
+rsa	aes
+pattern0	less user-friendly	
+algorithms like rsa are much less user-friendly than aes
+
+124248
+rsa	aes
+pattern10	more	pattern10	more so	
+that is actually not the case with rsa which is --- more so than aes --- just a math equation
+
+124248
+rsa	aes
+pattern7	less	pattern0	less safe	
+block crypto algorithms like aes do suffer from this problem too but without a pki aes is no less safe than rsa
+
+127152
+int	chars
+pattern0	
+schema is simple like hell one table with autoint as primary index and less than 10 int tiny int and chars 10
+
+127922
+mbunit	nunit
+pattern7	
+mbunit has compatible syntax with nunit but has more features especially data driven tests
+
+128055
+quicksort	shellsort
+pattern0	slower	
+if you use shellsort no extra memory is needed at all though shellsort will be much slower than quicksort
+
+128221
+g++	gcc
+pattern0	looser	
+unfortunately g++ packed the structs significantly looser than gcc which caused significant problems sharing objects between c and c++ code
+
+132841
+solaris	bsd
+pattern4	
+personally i prefer solaris or a bsd for stability
+
+133271
+inline	inlining
+pattern0	bigger	
+if a function is static thus not exported anyway and only called once within your code and you never use a pointer to the function chances are good that gcc will decide to inline it automatically as it will have no negative impact the binary won t get bigger by inlining it only once
+
+134346
+hash	md5
+pattern10	much more	pattern10	much more secure	
+using a non-reversible hash such as md5 is much more secure and you can store the hash value as clear text
+
+135543
+versioning	upgrade
+pattern0	
+the subversion versioning on the server is older than the versioning on my notebook so i guess my newer versioning somehow upgrade the working directories so they are incompatible with the old versioning on the development server
+
+139120
+codeigniter	cakephp
+pattern0	lighter	
+i suspect codeigniter doesn t have quite as flexible a structure it s smaller and lighter than cakephp but a quick look at the cakephp manual to see how behaviors components helpers and the vendors folder may be helpful
+
+139478
+sortedlist	sorteddictionary
+pattern3	
+i recommend using sorteddictionary string tvalue or sortedlist string tvalue
+
+140359
+mantis	bugzilla
+pattern0	
+it certainly looks nicer and has better usability than mantis or bugzilla but it s not open and it makes some tradeoffs for a simpler interface
+
+140501
+width	height
+pattern7	greater	
+if the width is greater then height 3 4 screen.width then
+
+140502
+pop-up	dialog
+pattern7	
+i think it s a better idea to show a div as dialog in the middle of your website because the chance that this is pop-up blocked is smaller and it s imo less annoying
+
+141340
+floating-point	integer
+pattern0	simpler	
+but integer arithmetic arguably is inherently simpler than floating-point
+
+142240
+cpu	processors
+pattern7	better	
+some fancy compilers understand the un interrelatedness of instructions to a limited extent and will automatically interleave instruction flows probably over a longer window than the cpu sees to better utilise the processors
+
+142427
+versioning	upgrade
+pattern7	number easier	
+using compatibility as the central point in the versioning number makes it easier for users especially if te product is a library to judge whether or not they can expect a smoothe and safe upgrade or not
+
+144494
+profiling	instrumentation
+pattern4	
+select profiling from the product menu in xcode 6 to launch apple s instrumentation tool
+
+145433
+maven	buildr
+pattern0	faster	
+and even though everybody says ruby is slow buildr was 2-6x faster than maven
+
+146871
+lisp	scheme
+pattern4	
+i have decided that i prefer scheme over common lisp so that narrows it down a bit
+
+147392
+vim	emacs
+pattern0	
+emacs or vim is not significantly better than vim or emacs
+
+148152
+nant	cruisecontrol
+pattern0	
+think about project management bug reports and it all adds up to something more than just cruisecontrol svn and nant
+
+148194
+apache	nginx
+pattern0	less memory	
+servers like lighthttp and nginx can handle large amounts of traffic in much less memory than apache if you can sacrifice apache s power and flexibility or if you just don t need those things which often you don t
+
+149212
+cpu	hyperthreading
+pattern7	more	
+almost any new cpu has more than one core or if it has just one it might support hyperthreading and thus pretending it has more than one
+
+149409
+3des	aes
+pattern10	more	pattern10	more expensive	pattern8	more expensive	
+3des is more expensive than aes for example
+
+150964
+range	max	range	min	min	max
+pattern4	pattern4	
+so you can either pick a date range run a select max and select min against your db or execute your query and then add the missing dates
+
+151399
+ogre	irrlicht
+pattern7	cleaner	
+irrlicht has a cleaner api lower system requirements and works better across platforms than ogre in my opinion
+
+154057
+inherited	subclassing
+pattern10	more	pattern10	more useful	
+inherited is more useful when a new subclassing wants to change the way a method works if you just need to change the data the class uses to work probably an approach like this would do the trick
+
+157238
+lwjgl	jogl
+pattern10	more	pattern10	more java-like	pattern7	
+jogl is more java-like whereas lwjgl provides more gaming functionality on top of opengl access
+
+159944
+cvs	svn
+pattern4	
+seriously why would you prefer cvs to svn
+
+159971
+cvs	svn
+pattern7	better	pattern0	better	
+svn is better than cvs
+
+160021
+cvs	svn
+pattern7	
+so what is with svn that your company dislikes so much and cvs does better
+
+160037
+cvs	svn
+pattern7	better	pattern0	better	
+svn is better than cvs because it was designed to be - it s roughly the same thing with some simplications and new features
+
+161193
+mouse	keyboard
+pattern0	more	
+for example do you use keyboard more than mouse
+
+161202
+cvs	svn
+pattern8	more comparable format	
+the first one can be solved by using svn +ssh which is the more comparable format as cvs uses its own protocol as well
+
+161216
+cvs	svn
+pattern0	better	
+svn was supposed to be better than cvs but in some areas that didn t work well
+
+161216
+cvs	svn
+pattern8	more useful features	
+the other distributed tools are a lot faster svn is slow as hell even cvs can be faster sometimes have much more useful features than svn are developing rapidly while seeing any new feature in svn takes years
+
+161559
+cvs	svn
+pattern2	
+nowadays i prefer git over svn but it takes a while to get over the threshold if you come from cvs svn land
+
+162047
+int	chars
+pattern4	
+then you need a function called int scanback const chars s const chars matches int start which starts at start goes down to z as long as the chars being scanned at s id contained in matches return the last index where a match is found
+
+162785
+post	put
+pattern3	
+you could put the text into an invisible span and read that spans width but basicly this looks like someone trying to sabotage your site and therefore i would recommend banning post with words longer than a certain lenth for example 30 characters without spaces allowing links to be longer
+
+162991
+swt	swing
+pattern4	
+i will probably choose swt swing or qtjambi for the ui controls but i am wondering what to do with the graphical part of the simulation
+
+166196
+des	aes
+pattern10	pattern10	
+i know you said you don t care about how secure it is but if you chose des you might as well take aes it is the more up-to-date encryption method
+
+167539
+getdate	dateadd
+pattern4	
+select dateadd dd 1 getdate will return a current date + 1 day
+
+167922
+mouse	keyboard
+pattern4	
+the net effect of this was that it was very difficult to get two machines to boot up and work on the kvm switch and the switch would lose keyboard or mouse input on one or both machines every few days
+
+170948
+lisp	scheme
+pattern0	better common	
+here is a solution in scheme because i know that better than common lisp and have an interpreter for checking my work
+
+171958
+merb	ruby-on-rails
+pattern4	pattern2	
+i personally prefer merb over ruby-on-rails as it adopts more ruby conventions
+
+172177
+apache	lighttpd
+pattern10	more	pattern10	more powerful	pattern10	pattern10	
+the benefit of both apache is more powerful and extensible useless if you don t need that power but anyway... and lighttpd is faster at static content
+
+172992
+disk	ram
+pattern4	
+but it basically matches ram blocks to disk blocks
+
+173548
+accurev	svn
+pattern4	
+we evaluated it alongside with plastic scm svn and clearcase-ucm that we already owned and used and decided to dump clearcase and svn both were used in two different groups and to purchase accurev
+

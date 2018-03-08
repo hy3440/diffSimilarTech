@@ -181,10 +181,10 @@ try:
         (c, t) = classify(i)
         total_compa += c
         total_sent += t
-    # for i in range(100, 106):
-    #     (c, t) = classify(i)
-    #     total_compa += c
-    #     total_sent += t
+    for i in range(100, 106):
+        (c, t) = classify(i)
+        total_compa += c
+        total_sent += t
 # datalist = [1, 2, 3, 4, 5, 6, 7, 8]
 # procs = []
 # for i in range(8):

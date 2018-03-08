@@ -144,7 +144,7 @@ def some_function(start):
                                       password='ccywch',
                                       db='stackoverflow')
         cursor = cnx.cursor()
-        query = "SELECT Id, Body FROM Posts WHERE Score >= 0 AND Id >= {} AND Id < {}".format(start, start+800000)
+        query = "SELECT Id, Body FROM Posts WHERE Score >= 0 AND Id >= {} AND Id < {}".format(start, start+400000)
         cursor.execute(query)
         for current_id, row in cursor.fetchall():
             post_count += 1
@@ -166,7 +166,7 @@ def some_function(start):
 
 # datalist = [120000, 130000, 140000, 150000, 160000, 170000, 180000, 190000]
 # datalist = [1100000, 1900000, 2000000, 2100000, 2200000, 2300000, 2400000, 2500000]
-datalist = [38500000, 39300000, 40100000, 40900000, 41700000, 42500000, 43300000, 44100000]
+datalist = [44900000, 45300000, 45700000, 46100000, 46500000, 46900000, 47300000, 47700000]
 
 procs = []
 for i in range(8):
