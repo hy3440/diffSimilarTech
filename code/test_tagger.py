@@ -89,7 +89,7 @@ flag = False
 tag_list = []
 tech_pair = ["python", "java"]
 tags = []
-line = "python isn t faster than java"
+line = "python isn t much faster than java"
 words = line.split()
 tagged_words = CoreNLPPOSTagger(url='http://localhost:9000').tag(words)
 if len(words) != len(tagged_words):

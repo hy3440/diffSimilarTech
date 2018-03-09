@@ -1,0 +1,1235 @@
+250
+
+wmv	flv	1
+('wmv', 'easier', 'flv', 'usability', '2562', 'i found the production of wmv much better and easier than flv because all windows flv encoders i tried are not really good and stable whereas pretty much every tool can natively output wmv\n')
+
+testng	junit	6
+('junit', 'more direct', 'testng', '', '1686834', 'junit is more direct and simpel to use if you start to learn java testng has more features but maybe is more complex\n')
+('testng', 'more configurable', 'junit', '', '6671', 'testng strives to be much more configurable than junit but in the end they both work equally well\n')
+('testng', 'more flexible', 'junit', 'usability', '1823057', 'if you have to do a lot of this honestly testng is more flexible but you can absolutely get it done in junit\n')
+('testng', 'much friendlier', 'junit', '', '811937', 'testng is much friendlier to this paradigm than junit though\n')
+('testng', 'more flexible', 'junit', 'usability', '430883', 'testng is more flexible than junit and have multiple advantages like support for parallel testing for example\n')
+('junit', 'better solution', 'testng', '', '913928', 'if there is a junit extension or similar framework that provides a better solution than testng then please let me know\n')
+
+listview	gridview	2
+('listview', 'more lightweight', 'gridview', 'memory', '1879340', 'regarding comparison between gridview and listview my experience is that listview is more lightweight as compared to gridview\n')
+('listview', 'better', 'gridview', '', '10809', 'listview much better than the gridview dataview in that they let you write out clean html\n')
+
+gethashcode	equals	1
+('gethashcode', 'quicker', 'equals', '', '16381', 'gethashcode should be a lot quicker than equals but doesn t need to be unique\n')
+
+illegalargumentexception	nullpointerexception	2
+('illegalargumentexception', 'more specific', 'nullpointerexception', '', '22074', 'in my mind illegalargumentexception seems more specific than using a nullpointerexception since it s telling me that the problem was with an argument i passed to the method and not with a value that may have been generated while performing the method\n')
+('nullpointerexception', 'longer', 'illegalargumentexception', '', '199290', 'decoding nullpointerexception is going to take a bit longer than illegalargumentexception filepath must be supplied or whatever\n')
+
+goto	break	2
+('goto', 'simpler', 'break', 'usability', '24476', 'if you re in a nested loop and need to break out of all loops a goto can make this much cleaner and simpler than break statements and if-checks\n')
+('break', 'better', 'goto', '', '723329', 'labeled break like in java would be better than goto for this purpose\n')
+
+svn	perforce	4
+('svn', 'more intuitive', 'perforce', '', '26851', 'if anything i find working with svn easier and more intuitive than perforce\n')
+('perforce', 'more comfortable', 'svn', 'usability', '26851', 'perforce does have support for many other oses but our non-windows devs feel more comfortable with svn too\n')
+('perforce', 'more advanced', 'svn', '', '1768520', 'perforce offers more advanced branching and merging capabilities than svn\n')
+('perforce', 'better', 'svn', '', '44752', 'make sure you re using a source control system that supports branching and merging i ve had experience with perforce and svn and while perforce is better svn is free\n')
+
+postgresql	mysql	40
+('postgresql', 'much better', 'mysql', '', '201950', 'postgresql gets much better performance and this is coming from a former mysql partisan\n')
+('postgresql', 'more tuning', 'mysql', '', '1162378', 'postgresql requires more tuning than mysql to achieve optimal performance\n')
+('postgresql', 'much more', 'mysql', '', '1338597', 'postgresql is much more complete and solid and will much better support complex queries and their optimization while mysql may shine in terms of retrieval speed for extremely simple queries\n')
+('postgresql', 'slower', 'mysql', 'performance', '1841772', 'i ve found that postgresql is in my expirience is slower as mysql\n')
+('mysql', 'worse', 'postgresql', '', '52179', 'i just checked the timings using mysql 5 and they are slightly worse than postgresql\n')
+('postgresql', 'more sane', 'mysql', '', '761581', 'since postgresql is a lot more sane than mysql there are not that many tricks to report on\n')
+('postgresql', 'bigger', 'mysql', 'memory', '1926885', 'b use indexes - postgresql has bigger repertoar of indexes then mysql so use it - there are gist gin indexes\n')
+('mysql', 'more resistant', 'postgresql', '', '2221787', 'the question is is mysql somehow more resistant than postgresql to sql injection attack under the perl dbi and why might this be the case\n')
+('postgresql', 'better', 'mysql', '', '74931', 'with correct locking for safety reasons and heavy concurrent use postgresql performed better than mysql\n')
+('postgresql', 'fewer', 'mysql', '', '1270393', 'traditionally postgresql has had fewer security issues than mysql but they are both doing very well on that\n')
+('postgresql', 'more compliant', 'mysql', '', '259460', 'postgresql is more compliant but if you re comfortable with mysql and you re using an orm you should probably use that\n')
+('postgresql', 'performance probably better', 'mysql', 'performance', '846356', 'as i said postgresql is far superior and i hate mucking with mysql s bizarre bugs and i think that overall postgresql performance is probably better than mysql for any even slightly complicated query\n')
+('postgresql', 'more correct', 'mysql', '', '27439', 'from how i understand it postgresql is a more correct database implementation while mysql is less correct less compliant but faster\n')
+('mysql', 'faster', 'postgresql', 'performance', '205364', 'mysql i am told can be optimized to do faster reads than postgresql but both are pretty ridiculously fast in terms of # transactions sec they support and it doesn t sound like that s your problem\n')
+('mysql', 'faster', 'postgresql', 'performance', '953814', 'mysql s version is apparently marginally faster than postgresql but lacks some of the more advanced spatial features therefore it s pretty much limited to finding records that match a certain range of coordinates\n')
+('postgresql', 'more sql', 'mysql', '', '1769414', 'postgresql is more sql compliant than mysql\n')
+('postgresql', 'more tricks', 'mysql', '', '957655', 'in general postgresql knows more tricks for how to optimize complicated queries than the mysql optimizer does but it also relies heavily on your having given the optimizer enough data to work with\n')
+('postgresql', 'faster', 'mysql', 'performance', '1373625', 'postgresql is faster than mysql s innodb\n')
+('postgresql', 'already slower', 'mysql', 'performance', '1162395', 'postgresql is already slower than mysql up to a certain point it is actually faster when you have a ridiculously large database\n')
+('postgresql', 'way more useful', 'mysql', 'usability', '1630987', 'explain in postgresql is way more useful than in mysql\n')
+('postgresql', 'way more', 'mysql', '', '1630987', 'explain in postgresql is way more useful than in mysql\n')
+('postgresql', 'fewer', 'mysql', '', '1374694', 'and postgresql has fewer experienced administrators than the big databases and mysql which i believe contributes to the reputation\n')
+('postgresql', 'slower', 'mysql', 'performance', '1162395', 'postgresql is already slower than mysql up to a certain point it is actually faster when you have a ridiculously large database\n')
+('postgresql', 'more simple', 'mysql', '', '1546912', 'postgresql license bsd is undoubtedly more simple than mysql s\n')
+('mysql', 'easier', 'postgresql', 'usability', '2193943', 'mysql is easier than postgresql but it doesn t really matter either way\n')
+('postgresql', 'better', 'mysql', '', '2000205', 'also you might take the time to compare postgresql and see if there is something about it that meets your needs as well or better than mysql\n')
+('mysql', 'more widely', 'postgresql', '', '1311750', 'mysql is more widely supported and a little easier to use but postgresql has some very cool features and functionality that s worth taking a gander at\n')
+('postgresql', 'better', 'mysql', '', '1373566', 'some people were saying that postgresql is better for security purposes whereas mysql is becoming more feature rich.\n')
+('mysql', 'not less', 'postgresql', '', '1922486', 'mysql is not less complicated that postgresql -- they re the same thing\n')
+('postgresql', 'generally better', 'mysql', '', '1795117', 'now i m not sure if i d say postgresql is generally better than mysql -- there are certainly things that mysql does much better and so it certainly has its uses -- but these are a few things i absolutely love about it\n')
+('postgresql', 'better', 'mysql', '', '1144979', 'fyi postgresql scales better than mysql on multi-processor overlapping requests from a review i was reading a few months back sorry no link\n')
+('postgresql', 'older', 'mysql', '', '2277052', 'postgresql is older than mysql so it might have influenced them\n')
+('postgresql', 'better', 'mysql', '', '1467079', 'if you need spatial data capabilities postgis with postgresql is better than mysql\n')
+('postgresql', 'better', 'mysql', '', '1795117', 'now i m not sure if i d say postgresql is generally better than mysql -- there are certainly things that mysql does much better and so it certainly has its uses -- but these are a few things i absolutely love about it\n')
+('postgresql', 'slower', 'mysql', 'performance', '27443', 'in most regards postgresql is slower than mysql especially when it comes to fine tuning in the end\n')
+('postgresql', 'better', 'mysql', '', '1016512', 'honestly though postgresql scales much better than mysql\n')
+('postgresql', 'much more complete', 'mysql', '', '1338597', 'postgresql is much more complete and solid and will much better support complex queries and their optimization while mysql may shine in terms of retrieval speed for extremely simple queries\n')
+('postgresql', 'more restrictive', 'mysql', '', '1717152', 'postgresql is a bit more restrictive than mysql\n')
+('postgresql', 'more powerful', 'mysql', 'usability', '259517', 'i cannot propose any db not knowing your specific needs but if you want to use a free software which excludes oracle and you re not already experienced with mysql you should try postgresql which is more powerful than mysql\n')
+('postgresql', 'better', 'mysql', '', '442181', 'i also personally believe that postgresql has better handling of complex queries that include sub-selects and the like which most mysql users used to avoid\n')
+
+simpletest	phpunit	1
+('simpletest', 'easier', 'phpunit', 'usability', '34338', 'i found simpletest was even easier than phpunit to set up\n')
+
+post	get	34
+('post', 'better', 'get', '', '1008704', 'yes post is better than get because post data is not usualy logged by a proxy or server but it is not secure\n')
+('post', 'also more secure', 'get', '', '46614', 'post is also more secure than get because you aren t sticking information into a url\n')
+('get', 'more appropiate', 'post', '', '198565', 'get is more appropiate for idempotent queries while post is more appropiate for action queries but you can shoot yourself in the foot just as easily with any of them if you don t understand the security architecture for the application you re maintaining\n')
+('get', 'much smaller', 'post', 'memory', '1860743', 'you ll hit problems with larger submissions and file-uploads as the size limit for a get is much smaller than a post\n')
+('post', 'request relatively harder', 'get', '', '1597598', 'for example post request are considered more secure than get request as creating a post request is relatively harder than creating a get request\n')
+('get', 'less secure', 'post', '', '1744404', 'the get request is marginally less secure than the post request\n')
+('post', 'also more', 'get', '', '46614', 'post is also more secure than get because you aren t sticking information into a url\n')
+('get', 'request marginally less', 'post', '', '1744404', 'the get request is marginally less secure than the post request\n')
+('post', 'better', 'get', '', '1678727', 'when post is better than get\n')
+('post', 'much more easier', 'get', 'usability', '1241338', 'i m sure there s a work around to use get for emails but the alternative post is much more easier and doesn t require any hacks to get around\n')
+('post', 'slightly less susceptible', 'get', '', '1744404', 'the only scenario in which post is slightly less susceptible is that many websites that arenâ t under the attackerâ s control say a third-party forum allow embedding arbitrary images allowing the attacker to inject an arbitrary get request but prevent all ways of injecting an arbitary post request whether automatic or manual\n')
+('post', 'less secure', 'get', '', '1500539', 'since post is better suited to transfer large amounts of data or difficult formatted data it is the established standard for submitting forms but it is in no way safer unsafer or more less secure than get requests\n')
+('post', 'safer', 'get', 'security', '1145134', 'and apart from common misleading information where post is safer than get it is not\n')
+('post', 'not more', 'get', '', '1008671', 'post is not more secure than get as itâ s also send unencrypted\n')
+('post', 'much more', 'get', '', '1241338', 'i m sure there s a work around to use get for emails but the alternative post is much more easier and doesn t require any hacks to get around\n')
+('get', 'less subsequent', 'post', '', '698048', 'an initial get request to a page usually costs less than subsequent post anyway so there s not much reason to avoid it\n')
+('post', 'more secure', 'get', '', '46614', 'post is also more secure than get because you aren t sticking information into a url\n')
+('post', 'more secure', 'get', '', '1311780', 'there appears to be a common mis-conception that post is more secure than get simply because it seems more obvious how to get a browser to manipulate the post variable\n')
+('get', 'method faster', 'post', 'performance', '1211881', 'it is said that get method is faster than post but i don t know why is it\n')
+('post', 'safer', 'get', 'security', '2143377', 'is post safer than get\n')
+('get', 'smaller', 'post', 'memory', '1860743', 'you ll hit problems with larger submissions and file-uploads as the size limit for a get is much smaller than a post\n')
+('post', 'less secure', 'get', '', '2080901', 'i wouldn t call post more or less secure than get\n')
+('post', 'more compact', 'get', 'usability', '1494219', 'is post more compact than get since get requests have to be url-encoded\n')
+('get', 'better', 'post', '', '1772728', 'sometimes get is a better option in those read-only scenarios because it makes your url scheme richer and avoids these sort of post warnings\n')
+('post', 'more secure', 'get', '', '1008671', 'post is not more secure than get as itâ s also send unencrypted\n')
+('get', 'more performant', 'post', '', '1850196', 'get is more performant as it is idempotent and does not contain a message body where as post does\n')
+('post', 'not more secure', 'get', '', '1008671', 'post is not more secure than get as itâ s also send unencrypted\n')
+('post', 'slightly less', 'get', '', '1744404', 'the only scenario in which post is slightly less susceptible is that many websites that arenâ t under the attackerâ s control say a third-party forum allow embedding arbitrary images allowing the attacker to inject an arbitrary get request but prevent all ways of injecting an arbitary post request whether automatic or manual\n')
+('get', 'more performant', 'post', '', '1849962', 'ajax calls using get are more performant than post according to yahoo\n')
+('get', 'lower', 'post', '', '1678683', 'generally when passing lots of data to the server to be processed or stored using post is a good idea since get has a lower limit than that of post\n')
+('post', 'more elegant', 'get', 'usability', '1030688', 'i think using post is more elegant and has more options for further development than passing them via get\n')
+('get', 'better', 'post', '', '1678727', 'when get is better than post\n')
+('post', 'more secure', 'get', '', '1597598', 'for example post request are considered more secure than get request as creating a post request is relatively harder than creating a get request\n')
+('post', 'better', 'get', '', '1500539', 'since post is better suited to transfer large amounts of data or difficult formatted data it is the established standard for submitting forms but it is in no way safer unsafer or more less secure than get requests\n')
+
+m2e	maven	2
+('m2e', 'more friendly', 'maven', '', '47674', 'in other words m2e is more friendly to the maven way\n')
+('maven', 'steeper', 'm2e', '', '1429767', 'maven 2 has a steeper learning curve but provides a much richer set of functionality for building your projects and eclipse integration through m2e or iam\n')
+
+udp	tcp	23
+('udp', 'more relevant here', 'tcp', '', '1442901', 'a heartbeat is by nature a connectionless contrivance so it goes that udp connectionless is more relevant here than tcp connection-oriented\n')
+('udp', 'lower overhead', 'tcp', 'performance', '584128', 'udp has a much lower overhead than tcp\n')
+('udp', 'less overhead', 'tcp', 'performance', '799142', 'udp has less overhead than tcp and is therefore faster\n')
+('udp', 'more appropriate', 'tcp', '', '1946932', 'btw i concur that udp is far more appropriate than tcp in this case\n')
+('tcp', 'better throughput', 'udp', '', '638446', 'in some applications tcp is faster better throughput than udp\n')
+('udp', 'always faster', 'tcp', 'performance', '2280675', 'also see this other so answer about the misconception that udp is always faster than tcp\n')
+('tcp', 'faster', 'udp', 'performance', '638446', 'in some applications tcp is faster better throughput than udp\n')
+('udp', 'connectionless more relevant', 'tcp', '', '1442901', 'a heartbeat is by nature a connectionless contrivance so it goes that udp connectionless is more relevant here than tcp connection-oriented\n')
+('tcp', 'slower', 'udp', 'performance', '2290873', 'tcp is reliable but slower than udp while udp is not safe and i have to implement my own fault-handling codes\n')
+('udp', 'faster', 'tcp', 'performance', '47929', 'udp is faster than tcp and the simple reason is because its nonexistent acknowledge packet ack that permits a continuous packet stream instead of tcp that acknowledges a set of packets calculated by using the tcp window size and round-trip time rtt\n')
+('tcp', 'windowing more expensive', 'udp', '', '1930483', 'tcp windowing is more expensive than raw udp but if you use udp to go faster and add a custom loss-recovery or seqno ack resend manager then that may slow you down again\n')
+('tcp', 'faster', 'udp', 'performance', '584131', 'tcp mounts are more reliable and you know you have a network problem much faster than with udp\n')
+('udp', 'faster', 'tcp', 'performance', '1514244', 'theoretically udp should be be 30-50 faster than tcp because it s missing the extra trip for the ack and has a smaller header overhead however in reality there are many cases where tcp would outperform udp just because of congestion control\n')
+('tcp', 'more reliable', 'udp', 'reliability', '1898944', 'what i have thought of so far is that tcp is going to be more reliable than udp and in rmi corba we want network reliability\n')
+('tcp', 'faster', 'udp', 'performance', '1581034', 'at my company we have found memory mapped files to be much faster than loopback tcp ip for communication on the same box so i m assuming it would be faster than udp too\n')
+('udp', 'less overhead', 'tcp', 'performance', '1099695', 'most importantly you can easily supplement udp with some reliable delivery hand-shaking that s less overhead than tcp\n')
+('udp', 'faster', 'tcp', 'performance', '2280675', 'also see this other so answer about the misconception that udp is always faster than tcp\n')
+('udp', 'far more', 'tcp', '', '1946932', 'btw i concur that udp is far more appropriate than tcp in this case\n')
+('udp', 'far more appropriate', 'tcp', '', '1946932', 'btw i concur that udp is far more appropriate than tcp in this case\n')
+('udp', 'connectionless more', 'tcp', '', '1442901', 'a heartbeat is by nature a connectionless contrivance so it goes that udp connectionless is more relevant here than tcp connection-oriented\n')
+('tcp', 'windowing more', 'udp', '', '1930483', 'tcp windowing is more expensive than raw udp but if you use udp to go faster and add a custom loss-recovery or seqno ack resend manager then that may slow you down again\n')
+('tcp', 'more reliable', 'udp', 'reliability', '584131', 'tcp mounts are more reliable and you know you have a network problem much faster than with udp\n')
+('tcp', 'faster better', 'udp', 'performance', '638446', 'in some applications tcp is faster better throughput than udp\n')
+
+textmate	emacs	2
+('textmate', 'better', 'emacs', '', '48015', 'textmate is a better emacs for macs though that won t help you with solaris\n')
+('emacs', 'better', 'textmate', '', '967805', 'i feel like emacs is so much better than textmate\n')
+
+division	modulo	1
+('division', 'faster', 'modulo', 'performance', '48103', 'a side effect of many division routines is the modulo - so in few cases should division actually be faster than modulo\n')
+
+vimeo	youtube	1
+('vimeo', 'fewer users', 'youtube', '', '50909', 'vimeo will always have fewer users than youtube because the user experience is poor for low bitrate users\n')
+
+gdi	directx	2
+('gdi', 'slower', 'directx', 'performance', '58301', 'speed is usually faster than gdi and slower than directx and depends greatly on how you do things seen something to work 60 times faster after rewriting in a sensible way\n')
+('directx', 'faster', 'gdi', 'performance', '368466', 'to say directx is faster than gdi is also something of a simplification - wpf and gdi-based rendering technologies just have different performance characteristics\n')
+
+wideimage	phpthumb	1
+('wideimage', 'more modern', 'phpthumb', '', '65079', 'wideimage is the more modern php5 approach while phpthumb has much more features\n')
+
+ubuntu	linux	2
+('ubuntu', 'closer', 'linux', '', '68674', 'ubuntu is getting closer but there are still numerous things with linux that will keep the grandmothers of the world from using it\n')
+('ubuntu', 'easier other', 'linux', 'usability', '1383228', 'although if you aren t interested in using adobe cs you can use ubuntu distro which is easier than other linux distro and quiet popular so you won t have any problem finding solution\n')
+
+icefaces	richfaces	3
+('icefaces', 'more semantic', 'richfaces', '', '69545', 'there is icefaces which provides more semantic support than richfaces .also you can try nitobi suite which also provides similar kinda solution.if you are not satisfied with any of these i suggest try to write your own part extending the sun faces\n')
+('icefaces', 'more semantic support', 'richfaces', 'usability', '69545', 'there is icefaces which provides more semantic support than richfaces .also you can try nitobi suite which also provides similar kinda solution.if you are not satisfied with any of these i suggest try to write your own part extending the sun faces\n')
+('icefaces', 'better', 'richfaces', '', '1014688', 'that said i found icefaces to be a useful product and much better than richfaces especially in terms of the quality of the documentation\n')
+
+heapsort	quicksort	9
+('quicksort', 'faster', 'heapsort', 'performance', '107883', 'for example quicksort average cost t n.log n and heapsort average cost t n.log n are both sorting algorithms with the same average cost - yet quicksort is typically much faster than heapsort\n')
+('heapsort', 'significantly slower', 'quicksort', 'performance', '70423', 'but there are many citations of real world tests which show that heapsort is significantly slower than quicksort on average\n')
+('quicksort', 'usually faster then', 'heapsort', 'performance', '941325', 'in practice however quicksort is usually faster then heapsort\n')
+('quicksort', 'simpler', 'heapsort', 'usability', '941325', 'each iteration in quicksort is a lot simpler than heapsort\n')
+('quicksort', 'more efficient', 'heapsort', 'performance', '771892', 'average asymptotic order of quicksort is o nlogn and it s usually more efficient than heapsort due to smaller constants tighter loops\n')
+('heapsort', 'smaller sets', 'quicksort', 'memory', '285023', 'i was just going to say radix sort however that could be a bit above what you were looking to implement introsort is generally the accepted sorting solution for data it s a variation of quicksort that switches to heapsort when it reaches smaller sets as it s faster on smaller sets than quicksort\n')
+('quicksort', 'worse', 'heapsort', '', '1853219', 'however quicksort s worst-case performance is significantly worse than heapsort s is\n')
+('heapsort', 'slower', 'quicksort', 'performance', '70423', 'but there are many citations of real world tests which show that heapsort is significantly slower than quicksort on average\n')
+('quicksort', 'usually faster', 'heapsort', 'performance', '941325', 'in practice however quicksort is usually faster then heapsort\n')
+
+quicksort	mergesort	18
+('quicksort', 'faster', 'mergesort', 'performance', '90477', 'as many people have noted the average case performance for quicksort is faster than mergesort\n')
+('quicksort', 'worse', 'mergesort', '', '201171', 'quicksort is worse complexity than mergesort in the worst case.\n')
+('quicksort', 'better', 'mergesort', '', '497819', 'previously discussed on so why is quicksort better than mergesort\n')
+('quicksort', 'also more complicated', 'mergesort', 'usability', '680613', 'quicksort is also more complicated than mergesort especially if you want to write a really solid implementation and so if you re aiming for simplicity and maintainability merge sort becomes a promising alternative with very little performance loss\n')
+('quicksort', 'better', 'mergesort', '', '497967', 'the biggest difference that can be produced between the two of them will always be to quicksort s detriment and it involves lists that are already largely sorted or contain a large number of ties when quicksort does better than mergesort the difference will not be nearly so great\n')
+('quicksort', 'also more', 'mergesort', '', '680613', 'quicksort is also more complicated than mergesort especially if you want to write a really solid implementation and so if you re aiming for simplicity and maintainability merge sort becomes a promising alternative with very little performance loss\n')
+('quicksort', 'worse complexity', 'mergesort', 'usability', '201171', 'quicksort is worse complexity than mergesort in the worst case.\n')
+('quicksort', 'usually faster', 'mergesort', 'performance', '70440', 'quicksort is usually faster than mergesort just because it s easier to code a tight implementation and the operations it does can go faster\n')
+('quicksort', 'not better', 'mergesort', '', '70627', 'quicksort is not better it is well suited for a different kind of application than mergesort\n')
+('quicksort', 'generally faster', 'mergesort', 'performance', '70440', 'it s because that quicksort is generally faster that people use it instead of mergesort\n')
+('quicksort', 'better', 'mergesort', '', '1527161', 'why is quicksort better than mergesort\n')
+('quicksort', 'faster', 'mergesort', 'performance', '961662', 'in most cases quicksort will run faster than mergesort even though the worst-case execution time is longer\n')
+('quicksort', 'faster', 'mergesort', 'performance', '70440', 'quicksort is usually faster than mergesort just because it s easier to code a tight implementation and the operations it does can go faster\n')
+('quicksort', 'better', 'mergesort', '', '77945', 'quicksort is not better than mergesort\n')
+('quicksort', 'more complicated', 'mergesort', 'usability', '680613', 'quicksort is also more complicated than mergesort especially if you want to write a really solid implementation and so if you re aiming for simplicity and maintainability merge sort becomes a promising alternative with very little performance loss\n')
+('quicksort', 'quicker', 'mergesort', '', '497794', 'i had been taught that quicksort is almost always quicker than mergesort and i understand that there is some debate on this topic but i at least expected it to be closer than this\n')
+('mergesort', 'worse', 'quicksort', '', '487454', 'given that it is possible to vastly reduce the likelihood of the worst case of quicksort s time complexity via random selection of the pivot for example i think one could argue that mergesort is worse in all but the pathological case of quicksort\n')
+('quicksort', 'not better', 'mergesort', '', '77945', 'quicksort is not better than mergesort\n')
+
+multiplication	addition	8
+('addition', 'lower precedence', 'multiplication', '', '1969120', 'of course it is 10 because the addition operator has a lower precedence than the multiplication operator and so 4 + 3 2 always means 4 + 3 2\n')
+('multiplication', 'higher', 'addition', '', '70881', 'precedence rules specify priority of operators which operators will be evaluated first multiplication has higher precedence than addition pemdas\n')
+('multiplication', 'operator higher', 'addition', '', '810193', 'well we know it is the first one because of precedence - the binary multiplication operator has higher precedence than the binary + addition operator and is resolved first\n')
+('multiplication', 'higher', 'addition', '', '1525321', 'just because multiplication has a higher precedence than addition doesn t mean we need to perform all multiplication in the expression before doing any addition\n')
+('addition', 'operator lower', 'multiplication', '', '1969120', 'of course it is 10 because the addition operator has a lower precedence than the multiplication operator and so 4 + 3 2 always means 4 + 3 2\n')
+('multiplication', 'higher precedence', 'addition', '', '70881', 'precedence rules specify priority of operators which operators will be evaluated first multiplication has higher precedence than addition pemdas\n')
+('multiplication', 'more expensive', 'addition', '', '1907934', 'since multiplication is more expensive than addition you want to let the machine paralleliz it as much as possible so saving your stalls for the addition means you spend less time waiting in the addition loop than you would in the multiplication loop\n')
+('multiplication', 'higher precedence', 'addition', '', '1525321', 'just because multiplication has a higher precedence than addition doesn t mean we need to perform all multiplication in the expression before doing any addition\n')
+
+bazaar	git	6
+('bazaar', 'slower', 'git', 'performance', '897862', 'mercurial is significantly faster than bazaar it s slower than git though by a much smaller difference\n')
+('bazaar', 'slower', 'git', 'performance', '706428', 'i hear all this stuff about bazaar being slower than git\n')
+('bazaar', 'slower', 'git', 'performance', '1372564', 'a lot of articles about bazaar will tell you it is a lot slower than git or mercurial\n')
+('bazaar', 'slower', 'git', 'performance', '706457', 'an incredibly rough eye balling of the numbers they posted showed bazaar to be 2-4x slower than either git or mercurial in the use cases tested\n')
+('bazaar', 'imho easier', 'git', 'usability', '77883', 'bazaar is imho easier to learn than git\n')
+('bazaar', 'easier', 'git', 'usability', '1011950', 'bazaar is easier to extend in an api way git is easier to extend in a unix way pipes\n')
+
+multiplication	multiplying	3
+('multiplication', 'slightly harder', 'multiplying', '', '2198143', 'multiplication is slightly harder just multiplying two scaled numbers and then divide by your scale factor\n')
+('multiplication', 'slightly more', 'multiplying', '', '79771', 'multiplication is slightly more complex as it needs an integer multiplying followed by a scale back such as 0.72 2 becomes 72 200 becomes 14400 becomes 144 scaleback becomes 1.44\n')
+('multiplication', 'slightly more complex', 'multiplying', 'usability', '79771', 'multiplication is slightly more complex as it needs an integer multiplying followed by a scale back such as 0.72 2 becomes 72 200 becomes 14400 becomes 144 scaleback becomes 1.44\n')
+
+datediff	difference	1
+('datediff', 'more difficult', 'difference', '', '81983', 'datediff becomes more difficult to use as you have more dateparts in your difference in your case looks like minutes and seconds\n')
+
+fractions	integer	1
+('fractions', 'larger', 'integer', 'memory', '85416', 'if the number of bits in the mantissa or fractions is larger than the number of bits in your integer type then you ll possibly lose precision when someone types in a number such as\n')
+
+webclient	webrequest	3
+('webclient', 'sometimes easier', 'webrequest', 'usability', '91317', 'webclient is sometimes easier to use than webrequest\n')
+('webclient', 'simpler', 'webrequest', 'usability', '449918', 'webclient is simpler to use than webrequest\n')
+('webclient', 'more access', 'webrequest', 'usability', '1726749', 'update i ve created a webhelper class that takes the place of webclient but provides more access to the necessary features of the underlying webrequest\n')
+
+datamapper	activerecord	3
+('datamapper', 'potentially more complex', 'activerecord', 'usability', '94070', 'datamapper is potentially more complex then activerecord but it s a lot easier to develop your domain model and database asynchronous then with activerecord\n')
+('datamapper', 'faster', 'activerecord', 'performance', '818424', 'i d recommend datamapper for orm not only it s way faster than activerecord but it s also very modularly built and plugins are actual gems that you can easily install\n')
+('datamapper', 'potentially more', 'activerecord', '', '94070', 'datamapper is potentially more complex then activerecord but it s a lot easier to develop your domain model and database asynchronous then with activerecord\n')
+
+x86	64bit	1
+('x86', 'considerably slower', '64bit', 'performance', '95121', 'x86 is considerably slower a few clocks plus a clock or so per function argument while 64bit is much less because most function arguments are passed in registers instead of on the stack\n')
+
+double	int	11
+('int', 'slower', 'double', 'performance', '2242618', 'using and at the same time to check equality on a int results in slower code because it takes two comparisons instead of one taking the double amount of time\n')
+('double', 'way greater', 'int', '', '605544', 'the range of double is way greater than the range of 32 or 64 bit int which is why std floor returns a double\n')
+('double', 'more space ints-an', 'int', 'memory', '1935145', 'you re getting the outofmemory because if you declare int 1000 the memory is allocated immediately additionally double take up more space than ints-an int representation will also save you space\n')
+('double', 'faster', 'int', 'performance', '594466', 'so i asked myself can a double be faster than a int\n')
+('double', 'far greater', 'int', '', '605547', 'another reason is that the range of double is far greater than that of int\n')
+('double', 'greater', 'int', '', '526070', 'today i noticed that when i cast a double that is greater than the maximum possible int to an int i get -2147483648\n')
+('double', 'more difficult', 'int', '', '105339', 'for floats and double it s more difficult as with plain int as these may or not may be in the host machines byte-order\n')
+('double', 'much wider', 'int', '', '1348958', 'the range of double is much wider than the range of int or long\n')
+('int', 'smaller range', 'double', 'memory', '1696724', 'int can hold a smaller range than double\n')
+('double', 'value also larger', 'int', 'memory', '511928', 'the largest double value is also larger than the largest int so it would have to be a long\n')
+('double', 'more complex', 'int', 'usability', '1400465', 'i am guessing this is because modifying a double is a more complex operation than modifying an int\n')
+
+puremvc	cairngorm	1
+('puremvc', 'more invasive', 'cairngorm', '', '109038', 'puremvc is more invasive than cairngorm meaning that your code is heavily dependent on the framework you have to subclass implement the framework classes interfaces but that doesn t mean that cairngorm isn t\n')
+
+png	gif	13
+('png', 'better competition', 'gif', '', '1084126', 'png images are always compressed lossless but their compression algorithm works better than competition gif\n')
+('gif', 'slightly better', 'png', '', '115838', 'there might be some edge cases where gif is slightly better because the png format may have a slightly larger overhead from metadata but it s really not worth the worry\n')
+('png', 'newer', 'gif', '', '610542', 'png is a newer format and often better than either jpeg of gif - especially for screenshots\n')
+('png', 'better', 'gif', '', '1200232', 'png compresses much better than gif and allows more colors at the same time\n')
+('png', 'larger equivalent', 'gif', 'memory', '116461', 'if your png files are coming out larger than equivalent gif files it is almost certainly because your source image has more than 256 colors\n')
+('png', 'better', 'gif', '', '319433', 'paul points out that png compresses static line art better than gif for nearly every situation\n')
+('png', 'much better', 'gif', '', '1200232', 'png compresses much better than gif and allows more colors at the same time\n')
+('png', 'smaller', 'gif', 'memory', '610565', 'if png isn t smaller than gif then your software may be saving it poorly - look for png optimisation progams like pngout and pngnq\n')
+('png', 'never worse', 'gif', '', '115838', 'as a general rule png is never worse and often better than gif because of superior compression\n')
+('png', 'smaller', 'gif', 'memory', '116210', 'indexed png less than 256 colors is actually always smaller than gif so i use that most of the time\n')
+('png', 'larger', 'gif', 'memory', '610573', 'jpg and png work well for most applications but the files will be larger than gif for very simple graphics\n')
+('png', 'better', 'gif', '', '115838', 'as a general rule png is never worse and often better than gif because of superior compression\n')
+('png', 'shim smaller', 'gif', 'memory', '1841996', 'a 8-bit png shim is smaller than the same dimension 1 pixel gif and everything will still work as planned\n')
+
+hash	md5	4
+('hash', 'higher strength', 'md5', '', '1786428', 'it is likely that you could do an sha hash of 100kb in well less than 10 second though and though sha-1 is still theoretically flawed it is of higher strength than md5\n')
+('hash', 'more reliable', 'md5', 'reliability', '116739', 'sha-256 uses 64 characters in the database but with an index on the column that isn t a problem and it is a proven hash and more reliable than md5 and sha-1\n')
+('md5', 'much more secure', 'hash', '', '134346', 'using a non-reversible hash such as md5 is much more secure and you can store the hash value as clear text\n')
+('md5', 'much more', 'hash', '', '134346', 'using a non-reversible hash such as md5 is much more secure and you can store the hash value as clear text\n')
+
+pbkdf2	hash	1
+('pbkdf2', 'quicker', 'hash', '', '116767', 'a key-stretching algorithm like pbkdf2 applies a quicker hash like sha512 thousands of times typically causing the hash generation to take 1 5 of a second or so\n')
+
+metaphone	soundex	1
+('metaphone', 'better', 'soundex', '', '123076', 'edit double metaphone was specifically designed to be better than soundex and work in languages other than english\n')
+
+rsa	aes	3
+('rsa', 'more so', 'aes', '', '124248', 'that is actually not the case with rsa which is --- more so than aes --- just a math equation\n')
+('rsa', 'less user-friendly', 'aes', 'usability', '124248', 'algorithms like rsa are much less user-friendly than aes\n')
+('aes', 'less safe', 'rsa', '', '124248', 'block crypto algorithms like aes do suffer from this problem too but without a pki aes is no less safe than rsa\n')
+
+shellsort	quicksort	1
+('shellsort', 'slower', 'quicksort', 'performance', '128055', 'if you use shellsort no extra memory is needed at all though shellsort will be much slower than quicksort\n')
+
+g++	gcc	1
+('g++', 'looser', 'gcc', '', '128221', 'unfortunately g++ packed the structs significantly looser than gcc which caused significant problems sharing objects between c and c++ code\n')
+
+inline	inlining	1
+('inline', 'bigger', 'inlining', 'memory', '133271', 'if a function is static thus not exported anyway and only called once within your code and you never use a pointer to the function chances are good that gcc will decide to inline it automatically as it will have no negative impact the binary won t get bigger by inlining it only once\n')
+
+codeigniter	cakephp	1
+('codeigniter', 'lighter', 'cakephp', 'memory', '139120', 'i suspect codeigniter doesn t have quite as flexible a structure it s smaller and lighter than cakephp but a quick look at the cakephp manual to see how behaviors components helpers and the vendors folder may be helpful\n')
+
+width	height	16
+('height', 'greater', 'width', '', '1753801', 'when working with a portrait photo the height is greater than the width\n')
+('height', 'larger', 'width', 'memory', '1830829', 'such that a landscape image would have an ideal height of 300 or slightly larger with a width 400 and a portrait image would have an ideal width of 400 or slightly larger with a height 300\n')
+('height', 'bigger original', 'width', 'memory', '1725214', 'if set true then it might increase the width or height if the given width and height are bigger than original width and height\n')
+('height', 'greater', 'width', '', '340054', 'add a new row until height is greater than width\n')
+('width', 'greater', 'height', '', '140501', 'if the width is greater then height 3 4 screen.width then\n')
+('height', 'greater', 'width', '', '2156868', 'now i want an array which contain those books id s which their height is greater than or equal to their width\n')
+('width', 'greater', 'height', '', '1405994', 'the width is greater than the height so our calculations are\n')
+('height', 'greater', 'width', '', '922429', 'it s close - i m finding if height is greater than width the left position of the rotated image is incorrect\n')
+('width', 'larger', 'height', 'memory', '1830829', 'such that a landscape image would have an ideal height of 300 or slightly larger with a width 400 and a portrait image would have an ideal width of 400 or slightly larger with a height 300\n')
+('width', 'greater', 'height', '', '1679092', 'whenever i resize an image to a desired size there whe width is greater than the height the proportions get screwed\n')
+('width', 'greater', 'height', '', '1753801', 'when working with a landscape photo the photo width is greater than the photo height\n')
+('width', 'longer', 'height', '', '505839', 'my fixed document xps has its page orientation set to landscape the page media size has a width that is longer that its height and it displays correctly in the viewer as landscape\n')
+('width', 'bigger', 'height', 'memory', '1499590', 'edit actually you resize the one that is the biggest if width is bigger you resize that and if height is bigger then you resize that\n')
+('width', 'greater', 'height', '', '922429', 'similarly if width is greater than height the top position of the rotated image is incorrect\n')
+('height', 'much bigger', 'width', 'memory', '2136850', 'however after rotating a rectangular image its new width and height is much bigger as these two screenshots should help clarify during rotation and after rotating then rotating again -- the little handles show where the images x y width height extends to\n')
+('width', 'greater', 'height', '', '340054', 'add a new column until width is greater than height\n')
+
+integer	floating-point	8
+('integer', 'simpler', 'floating-point', 'usability', '141340', 'but integer arithmetic arguably is inherently simpler than floating-point\n')
+('integer', 'faster', 'floating-point', 'performance', '288727', 'which uses all integer arithmetic is usually faster than its floating-point equivalent likely significantly faster in the case of a floating-point type equivalent to t-sql s decimal type\n')
+('integer', 'greater', 'floating-point', '', '798046', 'i know c++ have functions that return largest or smallest integer that is greater or lower than a like ceil or floor.is there a function that implement digit limitation of floating-point variable\n')
+('floating-point', 'divide faster', 'integer', 'performance', '2149859', 'floating-point divide is faster than integer fewer bits to divide assuming your cpu has floating-point unit\n')
+('floating-point', 'math slower', 'integer', 'performance', '514184', 'they take up more space and floating-point math is slower than integer math\n')
+('floating-point', 'faster', 'integer', 'performance', '1900794', 'depending on context floating-point code may be as fast as or faster than integer code or it may be four times slower\n')
+('integer', 'arithmetic usually faster', 'floating-point', 'performance', '288727', 'which uses all integer arithmetic is usually faster than its floating-point equivalent likely significantly faster in the case of a floating-point type equivalent to t-sql s decimal type\n')
+('floating-point', 'slower', 'integer', 'performance', '514184', 'they take up more space and floating-point math is slower than integer math\n')
+
+cpu	processors	2
+('cpu', 'indeed slower', 'processors', 'performance', '1371975', 'the cpu is indeed slower on sparc 1.2ghz and as answered by one of the sun s engineers t2 is usualy 3 times slower for single-threaded application than modern intel processors\n')
+('cpu', 'better', 'processors', '', '142240', 'some fancy compilers understand the un interrelatedness of instructions to a limited extent and will automatically interleave instruction flows probably over a longer window than the cpu sees to better utilise the processors\n')
+
+versioning	upgrade	5
+('versioning', 'number easier', 'upgrade', 'usability', '142427', 'using compatibility as the central point in the versioning number makes it easier for users especially if te product is a library to judge whether or not they can expect a smoothe and safe upgrade or not\n')
+('upgrade', 'newer', 'versioning', '', '1872552', 'these locations will convert when they go to windows 7 perhaps or because the application they use internally is upgrade and needs the newer browser versioning\n')
+('upgrade', 'lower', 'versioning', '', '994571', 'if i enable this then any setup is ran every time it will be asking for upgrade either it is on lower versioning over higher versioning or higher versioning over lower versioning\n')
+('versioning', 'easier', 'upgrade', 'usability', '1214032', 'does anyone know if the upcoming v8 versioning is easier to upgrade or if its easier to upgrade from a certain previous versioning compared to earlier versioning\n')
+('versioning', 'newer', 'upgrade', '', '1447805', 'running pear -v gives me versioning 1.7.2 when i run pear upgrade pear it says my versioning is newer than the current noe which is 1.9.0 if ran pear upgrade -f pear to force an upgrade it downloads the files and installs successfully but i still have versioning 1.7.2 and cannot install phpunit\n')
+
+buildr	maven	1
+('buildr', 'faster', 'maven', 'performance', '145433', 'and even though everybody says ruby is slow buildr was 2-6x faster than maven\n')
+
+nginx	apache	7
+('nginx', 'less memory', 'apache', 'memory', '1271575', 'nginx uses less memory than apache given the size of your setup i would definitely recommend that\n')
+('nginx', 'much faster', 'apache', 'performance', '1315178', 'for example nginx is much faster than apache\n')
+('nginx', 'better', 'apache', '', '1469813', 'nginx with its own mod_wsgi seems to perform even better than apache but hey you didn t ask about that\n')
+('nginx', 'faster', 'apache', 'performance', '535933', 'not only is nginx supposedly faster than apache at delivering static content but this also offloads your rails application for every image stylesheet javascript or whatever other static content\n')
+('nginx', 'less memory', 'apache', 'memory', '148194', 'servers like lighthttp and nginx can handle large amounts of traffic in much less memory than apache if you can sacrifice apache s power and flexibility or if you just don t need those things which often you don t\n')
+('nginx', 'faster', 'apache', 'performance', '1315178', 'for example nginx is much faster than apache\n')
+('nginx', 'better', 'apache', '', '2014241', 'nginx also happens to be better than apache at writing logfiles interestingly\n')
+
+3des	aes	1
+('3des', 'more expensive', 'aes', '', '149409', '3des is more expensive than aes for example\n')
+
+irrlicht	ogre	1
+('irrlicht', 'cleaner', 'ogre', '', '151399', 'irrlicht has a cleaner api lower system requirements and works better across platforms than ogre in my opinion\n')
+
+inherited	subclassing	2
+('subclassing', 'more accurately', 'inherited', '', '1331150', 'since ireadwrite implements ireadonly ireadwrite is said to be a subclassing of ireadonly although subclassing is more accurately used to describe a class which inherited a base class rather then implements an interface--for the sake of simplicity they are very nearly the same concept\n')
+('inherited', 'more useful', 'subclassing', 'usability', '154057', 'inherited is more useful when a new subclassing wants to change the way a method works if you just need to change the data the class uses to work probably an approach like this would do the trick\n')
+
+jogl	lwjgl	1
+('jogl', 'more java-like', 'lwjgl', '', '157238', 'jogl is more java-like whereas lwjgl provides more gaming functionality on top of opengl access\n')
+
+svn	cvs	12
+('svn', 'more efficient', 'cvs', 'performance', '191616', 'in fact svn does stores binaries a lot more efficient than cvs for more info see the svn-faq\n')
+('svn', 'better', 'cvs', '', '160037', 'svn is better than cvs because it was designed to be - it s roughly the same thing with some simplications and new features\n')
+('svn', 'better', 'cvs', '', '161216', 'svn was supposed to be better than cvs but in some areas that didn t work well\n')
+('svn', 'better', 'cvs', '', '1397047', 'if you use svn then it still okay because svn handles binary files much better than cvs\n')
+('svn', 'easier', 'cvs', 'usability', '1580034', 'part of the point of svn was to make the use of branches and merging much easier than in cvs\n')
+('cvs', 'more popular', 'svn', 'usability', '782375', 'in addition another coworker said cvs was a lot more popular than svn\n')
+('cvs', 'more useful features', 'svn', 'usability', '161216', 'the other distributed tools are a lot faster svn is slow as hell even cvs can be faster sometimes have much more useful features than svn are developing rapidly while seeing any new feature in svn takes years\n')
+('svn', 'better', 'cvs', '', '159971', 'svn is better than cvs\n')
+('svn', 'better', 'cvs', '', '245323', 'that being said i think svn is better in every other respect and you probably shouldn t start a new project with cvs\n')
+('svn', 'better', 'cvs', '', '1589215', 'svn in much better than cvs and have lot of mature tools for every platform\n')
+('svn', 'more comparable format', 'cvs', '', '161202', 'the first one can be solved by using svn +ssh which is the more comparable format as cvs uses its own protocol as well\n')
+('svn', 'better enviroment', 'cvs', '', '1101716', 'for all the reasons linked in the comment and elsewhere svn tends to be a much better enviroment than cvs or vss unless you have some weird requirements - so if you can successfully import your history and save the company money i wouldn t see why the bosses wouldn t go for it\n')
+
+scheme	lisp	4
+('scheme', 'simpler common', 'lisp', 'usability', '563472', 'it s popular it s actively developed it has many libraries offering the features of a modern programming environment and scheme is somewhat simpler not to say better just simpler than common lisp\n')
+('scheme', 'better common', 'lisp', '', '170948', 'here is a solution in scheme because i know that better than common lisp and have an interpreter for checking my work\n')
+('scheme', 'more user-friendly', 'lisp', 'usability', '2115070', 'i ve also found scheme ides much more user-friendly than lisp s plt scheme is a good one\n')
+('scheme', 'somewhat simpler', 'lisp', 'usability', '563472', 'it s popular it s actively developed it has many libraries offering the features of a modern programming environment and scheme is somewhat simpler not to say better just simpler than common lisp\n')
+
+apache	lighttpd	2
+('lighttpd', 'even faster', 'apache', 'performance', '371821', 'for instance in some benchmarks lighttpd is even faster at serving static resources than apache\n')
+('apache', 'more powerful', 'lighttpd', 'usability', '172177', 'the benefit of both apache is more powerful and extensible useless if you don t need that power but anyway... and lighttpd is faster at static content\n')
+
+vhdl	verilog	3
+('vhdl', 'more feature-rich', 'verilog', '', '178555', 'yes vhdl was once much more feature-rich than verilog but later revisions of the language verilog 2001 verilog 2005 systemverilog etc.. have cherry-picked most of the interesting features and there is far more robust toolchain support for verilog and its variant these days in addition to it being the dominant language in use in the us in my experience vhdl is only used here when dealing with extreme legacy blocks and in academic contexts partially due to the tools support mentioned previously\n')
+('verilog', 'less common', 'vhdl', '', '764074', 'pacoblaze was written in verilog which like adam said less common than vhdl\n')
+('vhdl', 'more popular', 'verilog', 'usability', '177565', 'vhdl is more popular in europe and verilog is dominating in the us\n')
+
+google-chrome	safari	1
+('google-chrome', 'also earlier', 'safari', '', '179520', 'google-chrome also uses an earlier version of webkit than the current safari so pages should be checked in both browsers\n')
+
+inherited	properties	4
+('inherited', 'easier', 'properties', 'usability', '766479', 'multiple inherited makes it easier to compose classes from small mixin base classes that implement functionality and have properties to remember state\n')
+('inherited', 'much more powerful', 'properties', 'usability', '183126', 'now in .net for desktop controls you can use inherited which is much more powerful than the old tag properties anyway\n')
+('inherited', 'much more', 'properties', '', '183126', 'now in .net for desktop controls you can use inherited which is much more powerful than the old tag properties anyway\n')
+('inherited', 'better', 'properties', '', '1287890', 'less is a css extension that enables reuse and encapsulation of values color values for instance improves inherited allows a better nesting of related properties and operations also\n')
+
+webkit	gecko	2
+('webkit', 'stricter', 'gecko', '', '1078466', 'webkit is stricter than gecko\n')
+('webkit', 'smaller', 'gecko', 'memory', '184381', 'my understanding is webkit is pretty good smaller than gecko\n')
+
+configobj	configparser	1
+('configobj', 'easier', 'configparser', 'usability', '186990', 'i ve heard that configobj is easier to work with than configparser\n')
+
+web2py	django	3
+('django', 'more heavy', 'web2py', 'memory', '1477841', 'to answer klochner both seems quite popular but ruby is not a language that i am familiar with and django seems more heavy and complex to me than web2py\n')
+('web2py', 'easier', 'django', 'usability', '196705', 'anyway the most important issue is that web2py is easier than django pylons php and rails\n')
+('web2py', 'more lightweight', 'django', 'memory', '1250937', 'and web2py is more lightweight than django rails whatever on pretty much all counts\n')
+
+nfa	dfa	3
+('nfa', 'far easier', 'dfa', 'usability', '198624', 'because representation of a given problem with a nfa is far easier than the equivalent dfa\n')
+('dfa', 'smaller', 'nfa', 'memory', '1217263', 'in fact because you are eliminating the redundancy of epsilon transitions many simple dfa s actually get smaller than the nfa they represent but there is simply no way to guarantee that\n')
+('dfa', 'larger', 'nfa', 'memory', '1408183', 'if it can be practically determinized this give you a dfa that can be exponentially larger than the nfa then by all means do that\n')
+
+dialog	pop-up	2
+('dialog', 'less intrusive', 'pop-up', '', '206134', 'from a practice standpoint - excluding accessibility - modal windows provide an alternative that are less startling as say dialog boxes and feel less intrusive than pop-up windows\n')
+('dialog', 'better', 'pop-up', '', '784719', 'use floating divs instead which looks like a modal dialog but are better than the pop-up\n')
+
+antivirus	norton	1
+('antivirus', 'better', 'norton', '', '215539', 'many other antivirus software that works just as well if not better than norton like avg avast and others do allow you to uninstall from the add remove\n')
+
+compiled-language	interpreted-language	4
+('interpreted-language', 'slower', 'compiled-language', 'performance', '1694508', 'this is a good question but should be formulated a little different in my opinion for example why are interpreted-language slower than compiled-language\n')
+('interpreted-language', 'slower', 'compiled-language', 'performance', '1737240', 'fact is that interpreted-language like php are always slower than a compiled-language\n')
+('compiled-language', 'faster', 'interpreted-language', 'performance', '223029', 'a compiled-language will generally run faster than an interpreted-language so i think ruby and php start behind the eight ball but it really comes down to how you use the language and how you structure the code\n')
+('interpreted-language', 'less common', 'compiled-language', '', '1347760', 'this is usually seen in dynamic interpreted-language but is less common in compiled-language\n')
+
+multiplication	division	27
+('multiplication', 'faster', 'division', 'performance', '226515', 'multiplication is faster division is more accurate\n')
+('multiplication', 'faster', 'division', 'performance', '1135698', 'integer multiplication is much faster than division\n')
+('division', 'slower', 'multiplication', 'performance', '1643009', 'the tostring should be slower than parse since division is generally slower than multiplication\n')
+('division', 'much more', 'multiplication', '', '1117688', 'the cpu operation for float division is much more complicated than multiplication\n')
+('multiplication', 'cheaper', 'division', '', '1840568', 'if a remains the same and b is changing say if your code is in a loop and it s clear that a does not change between two iterations for instance because it s a const variable then the original version can execute faster because multiplication is cheaper than division assuming the compiler moves the computation of 1 .\n')
+('multiplication', 'slower hardware', 'division', 'performance', '436535', 'you always need to know the magic number here 0xaaaaaaab and the correct operations after the multiplication shifts and or additions in most cases and both is different depending on the number you want to divide by and both take too much cpu time to calculate them on the fly that would be slower than hardware division\n')
+('multiplication', 'faster', 'division', 'performance', '980962', 'on many processors integer multiplication is faster than integer division\n')
+('division', 'generally slower', 'multiplication', 'performance', '1643009', 'the tostring should be slower than parse since division is generally slower than multiplication\n')
+('multiplication', 'cheaper', 'division', '', '1027808', 't is not very important as long as alpha is small otherwise you will run into some rather weird nyquist issues aliasing etc. and if you are working on a processor where multiplication is cheaper than division or fixed-point issues are important precalculate omega\n')
+('multiplication', 'faster', 'division', 'performance', '899887', 'multiplication is faster than division so the second method is faster\n')
+('division', 'busier place', 'multiplication', '', '506252', 'both operations are done down at the floating point unit fpu level and even in the world of integral alus the division circuit is a far busier place than a multiplication circuit\n')
+('multiplication', 'faster', 'division', 'performance', '836856', 'also addition is faster than multiplication and multiplication is faster than division\n')
+('multiplication', 'faster', 'division', 'performance', '899929', 'if the latter yes floating point multiplication is generally faster than division\n')
+('division', 'harder', 'multiplication', '', '1117702', 'if you think back to grade school you ll recall that multiplication was harder than addition and division was harder than multiplication\n')
+('division', 'slower', 'multiplication', 'performance', '506241', 'division is per se slower than multiplication however i don t know the details\n')
+('division', 'slower', 'multiplication', 'performance', '436535', 'can be fast or it can be awfully slow even if division is done entirely in hardware if it is done using a div instruction this instruction is about 3 to 4 times slower than a multiplication on modern cpus\n')
+('division', 'slower', 'multiplication', 'performance', '655584', 'which one is faster is indeed a cpu-specific issue or at least how much faster is cpu specific yes division is typically seen as slower than multiplication\n')
+('division', 'worse', 'multiplication', '', '1988545', 'so division is always a bit worse than multiplication\n')
+('multiplication', 'less expensive', 'division', '', '1735122', 'multiplication is less expensive than division so\n')
+('division', 'more complicated', 'multiplication', 'usability', '1117688', 'the cpu operation for float division is much more complicated than multiplication\n')
+('multiplication', 'much faster', 'division', 'performance', '1135698', 'integer multiplication is much faster than division\n')
+('multiplication', 'far easier', 'division', 'usability', '1917713', 'multiplication is far easier and faster for a cpu to do than division\n')
+('multiplication', 'faster', 'division', 'performance', '1168616', 'this can be a major clock-cycle saver since multiplication is often much faster than a division operation\n')
+('multiplication', 'generally faster', 'division', 'performance', '899929', 'if the latter yes floating point multiplication is generally faster than division\n')
+('division', 'shorter', 'multiplication', '', '1965541', 'i haven t benchmarked any of this code but just by examining the code you can see that using integers division by 2 is shorter than multiplication by 2\n')
+('division', 'slower', 'multiplication', 'performance', '655581', 'division algorithms are slower than multiplication algorithms in most cases\n')
+('division', 'much more complicated', 'multiplication', 'usability', '1117688', 'the cpu operation for float division is much more complicated than multiplication\n')
+
+teamcity	cruisecontrol	1
+('teamcity', 'far easier', 'cruisecontrol', 'usability', '226593', 'for a one man shop teamcity is far easier to setup and configure than cruisecontrol\n')
+
+innodb	myisam	30
+('myisam', 'better', 'innodb', '', '1318324', '3 mysqlhotcopy inly works on myisam tables and in most applications you are better off with innodb\n')
+('innodb', 'better', 'myisam', '', '1729806', 'am i right that innodb is better for frequent concurrent updates and inserts than myisam\n')
+('myisam', 'generally less', 'innodb', '', '754723', 'plus you have to make your tables myisam which is generally less suitable than innodb\n')
+('innodb', 'better', 'myisam', '', '1247801', 'innodb supports better locking semantics so if there will be occasional or frequent writes or if you want better data integrity i d suggest starting there and then benchmarking myisam later if you can t hit your performance targets\n')
+('innodb', 'slower', 'myisam', 'performance', '1359270', 'however innodb tends to be slower as myisam\n')
+('myisam', 'faster', 'innodb', 'performance', '1959795', 'anyone who thinks myisam is faster is either not tuning innodb correctly or has such small data that who cares\n')
+('myisam', 'faster', 'innodb', 'performance', '1647078', 'i am not sure if this is no longer true myisam is faster than innodb for reads\n')
+('innodb', 'slower', 'myisam', 'performance', '277511', 'innodb is slower than myisam for most uses but can perform faster in certain conditions due to a better locking mechanism\n')
+('innodb', 'much slower', 'myisam', 'performance', '1730317', 'if you find that innodb is much slower for inserts updates bear in mind that it offers a much better level of durability - if you tune it for approximately the same durability as myisam then you ll see good performance hopefully\n')
+('myisam', 'faster', 'innodb', 'performance', '990780', 'i heard myisam is faster but others say innodb can be fast also but it takes abit more to optimize it\n')
+('innodb', 'better', 'myisam', '', '380074', 'innodb has better performance than myisam though innodb needs more attention to tuning the configuration innodb supports atomic changes transactions foreign keys and innodb is much more resistant to corrupting data in a crash\n')
+('myisam', 'faster', 'innodb', 'performance', '1647114', 'ok there are some cases where myisam is faster than innodb but rarely enough that it s worth putting up with the lack of acid-compliance\n')
+('innodb', 'bigger', 'myisam', 'memory', '2114537', 'innodb tables are about 4x bigger than their myisam counterparts\n')
+('myisam', 'faster', 'innodb', 'performance', '405022', 'myisam is faster in data warehousing situations such as full table scan reporting etc.. but innodb can actually be faster in many cases with normal oltp queries\n')
+('myisam', 'faster', 'innodb', 'performance', '1729806', 'we know that myisam is faster than innodb when we don t have many concurrent updates inserts\n')
+('innodb', 'actually faster', 'myisam', 'performance', '389824', 'innodb is actually faster than myisam in quite a few cases so it depends on what your application s mix of selects updates concurrent queries indexes buffer configuration etc\n')
+('innodb', 'faster', 'myisam', 'performance', '389824', 'innodb is actually faster than myisam in quite a few cases so it depends on what your application s mix of selects updates concurrent queries indexes buffer configuration etc\n')
+('innodb', 'slower', 'myisam', 'performance', '228750', 'also innodb is slower than myisam unless myisam is blocking for a huge select\n')
+('innodb', 'higher throughput', 'myisam', '', '405022', 'innodb is harder to tune since it has more knobs but a properly tuned innodb system can often have higher throughput than myisam due to better locking and better i o patterns\n')
+('innodb', 'much better', 'myisam', '', '1970160', 'someone just told me that innodb is much better than myisam\n')
+('innodb', 'slower', 'myisam', 'performance', '990830', 'innodb is slower for read only databases because it has features acid compliant row level locking that myisam leaves out\n')
+('myisam', 'faster', 'innodb', 'performance', '1730317', 'it is a massive over simplification in some cases and plain wrong in others to say we know that myisam is faster than innodb\n')
+('innodb', 'higher', 'myisam', '', '579589', 'their conclusion innodb has 30 higher performance than myisam on average\n')
+('innodb', 'safer', 'myisam', 'security', '1042989', 'innodb is a safer acid compliant engine with some integrity features that myisam lacks\n')
+('innodb', 'heavier', 'myisam', '', '262798', 'i know innodb is heavier than myisam but just how much more\n')
+('myisam', 'less suitable', 'innodb', '', '754723', 'plus you have to make your tables myisam which is generally less suitable than innodb\n')
+('innodb', 'better performance', 'myisam', 'performance', '380074', 'innodb has better performance than myisam though innodb needs more attention to tuning the configuration innodb supports atomic changes transactions foreign keys and innodb is much more resistant to corrupting data in a crash\n')
+('innodb', 'better', 'myisam', '', '1970160', 'someone just told me that innodb is much better than myisam\n')
+('myisam', 'faster', 'innodb', 'performance', '1774377', 'myisam inserts are going to be faster than innodb so if you re logging data and retrieving it later that will be a win\n')
+('innodb', 'higher performance', 'myisam', 'performance', '579589', 'their conclusion innodb has 30 higher performance than myisam on average\n')
+
+for-loop	loops	8
+('loops', 'strictly more', 'for-loop', '', '2098528', 'the class of problems you can solve with while loops is strictly more powerful than those you could have solved with the strict for-loop found in pascal\n')
+('for-loop', 'neater', 'loops', '', '229915', 'putting the whole thing in a for-loop makes it neater and ensures that the iterating isread is called each loops\n')
+('loops', 'wider', 'for-loop', '', '848039', 'the scope of the variable in the test of the while loops is wider than the scope of variables declared in the header of the for-loop\n')
+('for-loop', 'much faster', 'loops', 'performance', '365630', 'i did test it a while ago with the result that a for-loop is much faster than a foreach loops\n')
+('for-loop', 'generally better', 'loops', '', '472283', 'the conclusion of the article is that using for-loop is generally better and faster than the foreach loops\n')
+('loops', 'strictly more powerful', 'for-loop', 'usability', '2098528', 'the class of problems you can solve with while loops is strictly more powerful than those you could have solved with the strict for-loop found in pascal\n')
+('loops', 'faster', 'for-loop', 'performance', '1165594', 'even if the hypothesis of the while loops being faster than the for-loop were true and it s not the loops you d had to change optimize wouldn t be the outer ones but the inner ones because those are executed more times\n')
+('for-loop', 'easier', 'loops', 'usability', '2242654', 'further as a for-loop it is easier to read as everything initialization loops condition expression to be executed after each iteration are all on one line\n')
+
+nstableview	nssplitview	1
+('nstableview', 'shorter', 'nssplitview', '', '241621', 'a pattern i also use is to make the nstableview slightly shorter than the nssplitview and have buttons at the bottom add delete etc\n')
+
+greenfoot	bluej	1
+('greenfoot', 'better', 'bluej', '', '259080', 'i think greenfoot is better than bluej for 8-years old\n')
+
+ubuntu	centos	1
+('ubuntu', 'less desirable', 'centos', '', '263966', 'in this respect ubuntu is less desirable on a server than rhel or centos which stick to more mature versions\n')
+
+swt	swing	4
+('swt', 'usually easier', 'swing', 'usability', '1037130', 'it can be hard to get the layuots exact the way you want in swt it s usually easier in swing\n')
+('swt', 'more simple', 'swing', '', '269117', 'swt is more simple to use than swing especially if this is your first ui\n')
+('swt', 'more platform-specific', 'swing', '', '2281068', 'swt has a more platform-specific look about it but java ships with swing built-in there s no messing about with external libraries as with swt although the use of eclipse may make that much easier i still develop quite a bit of my stuff from the command line unfortunately\n')
+('swt', 'faster', 'swing', 'performance', '1298464', 'is swt faster than swing\n')
+
+boost	stl	4
+('boost', 'less standard', 'stl', '', '548827', 'boost libraries are generally less mature and less standard than stl\n')
+('boost', 'more modern', 'stl', '', '1577097', 'while boost is more modern c++ it also harder to use for non trivial tasks - and without a modern c++ experience and deep stl knowledge it is difficult to use correctly\n')
+('stl', 'better', 'boost', '', '548848', 'once you re past the basics with c++ learning how to use parts of stl and then how it works will be better than tackling boost\n')
+('boost', 'better', 'stl', '', '277306', 'i ve used both for the same project boost is better integrated with the stl and especially c++ exceptions\n')
+
+rdiscount	bluecloth	1
+('rdiscount', 'more reliable', 'bluecloth', 'reliability', '277564', 'rdiscount seems to be much faster and more reliable than bluecloth\n')
+
+glassfish	jboss	1
+('glassfish', 'better', 'jboss', '', '283405', 'i think glassfish is a better j2ee app server to start with than jboss\n')
+
+parent	children	3
+('children', 'greater', 'parent', '', '2138363', 'if smallest state of all children is greater than parent s state then update parent\n')
+('parent', 'more content', 'children', '', '289468', 'i have come up with a few ideas such as traversing the html document tree to its leaves adding up the length of the text and only seeing what other text the parent has if the parent gives us more content than the children do\n')
+('parent', 'more n', 'children', '', '931234', 'in the same breath i would also like to be able to run a specific number of child processes at any given time say for example n children running concurrently whenever one exits the parent process starts another child if needed but has no more than n children at any given moment\n')
+
+redmine	trac	6
+('redmine', 'better', 'trac', '', '386835', 'redmine is an open source ruby on rails application that supports multiple projects much better than trac and seems to be much easier to administer\n')
+('redmine', 'better', 'trac', '', '1277646', 'redmine was written to be a better trac than trac\n')
+('redmine', 'more complete', 'trac', '', '380757', 'i d recommend redmine like the other posters as it is more complete than trac\n')
+('redmine', 'better', 'trac', '', '1050501', 'we found redmine to be a better than trac simply because it is easier to use\n')
+('redmine', 'nicer', 'trac', '', '294097', 'redmine handles multiple projects and sub-projects right out of the box and overall seems nicer than trac\n')
+('redmine', 'better', 'trac', '', '323542', 'the authors of redmine are trying to create a better trac than trac\n')
+
+ant	maven	9
+('maven', 'better tool', 'ant', '', '1190551', 'while i personally think maven is a better tool than ant in the long run our experience will make maven3 a better tool than maven2\n')
+('maven', 'really better', 'ant', '', '599070', 'and it turns out maven really does a better job of managing dependencies for ant build.xml files than does ivy\n')
+('maven', 'less reliable', 'ant', 'reliability', '1010593', 'troubleshooting the build maven is less reliable than ant especially the non-core plugins\n')
+('ant', 'better', 'maven', '', '1347793', 'this question is similar in nature to whether ant is better than maven or c# better than java\n')
+('maven', 'younger tool', 'ant', '', '1732320', 'first maven is a much younger tool than ant or make so you have to expect that its going to take time to get to the maturity level of those applications\n')
+('ant', 'clearer', 'maven', '', '989209', 'i find the ant one much clearer than the maven one\n')
+('maven', 'better', 'ant', '', '1190551', 'while i personally think maven is a better tool than ant in the long run our experience will make maven3 a better tool than maven2\n')
+('maven', 'usage lower', 'ant', 'usability', '1077627', 'maven usage is lower compared to ant but just how much lower is not really known\n')
+('ant', 'better', 'maven', '', '304069', 'however some things ant handles better than maven and if there s not a maven plugin for it it may be difficult to handle in maven\n')
+
+activemq	rabbitmq	2
+('activemq', 'way more', 'rabbitmq', '', '333440', 'apache activemq which is way more popular than qpid or rabbitmq - or indeed any jms provider would work just fine\n')
+('activemq', 'way more popular', 'rabbitmq', 'usability', '333440', 'apache activemq which is way more popular than qpid or rabbitmq - or indeed any jms provider would work just fine\n')
+
+chars	int	24
+('chars', 'far more', 'int', '', '857530', 'since sql server doesn t support named constants chars is far more descriptive than int when used in stored procedure and views as constants\n')
+('int', 'often faster', 'chars', 'performance', '966107', 'far better to use a surrogate key and yes a join on an int is often faster and you can join in delete staments in many databases not use the slower subquery especially since names tend to be longer than a few chars\n')
+('int', 'bigger', 'chars', 'memory', '1745229', 'because int can become arbitrarily large in clojure the resulting number becomes bigger with every chars thanks to the\n')
+('chars', 'greater', 'int', '', '955645', 'if you use chars x where x 4 your chars key will be greater than a int one\n')
+('chars', 'more usable', 'int', '', '964541', 'sometimes chars type is more usable than int - fixed size chars doesn t take much storage room and you can see enumerated values directly in database fields\n')
+('int', 'much wider', 'chars', '', '1691050', 'normally range of int is much wider than that of chars\n')
+('chars', 'more descriptive', 'int', '', '857530', 'since sql server doesn t support named constants chars is far more descriptive than int when used in stored procedure and views as constants\n')
+('int', 'bigger', 'chars', 'memory', '1362458', 'since an int is bigger than a chars casting unsigned chars to signed int still retains the chars s original value\n')
+('int', 'more sizeof', 'chars', '', '1653709', 'senderid and sequencenumber are both int and will take up more than sizeof chars bytes on most architectures\n')
+('int', 'better bet', 'chars', '', '380092', 'well then an int field may just be a better bet than a chars 50\n')
+('int', 'fields faster', 'chars', 'performance', '2023499', 'i m not an expert in the inner workings of mysql but it intuitively feels that retrieving and sorting int fields is faster than chars fields i just get a feeling that a z is more work that 0 1 and seems to feel much more familiar from a computing perspective in which 0s and 1s are the standard on off flags\n')
+('chars', 'less room', 'int', '', '337764', 'for lookup tables with a low volume of rows you can use a 3 chars code as the primary key as this takes less room than an int but the performance difference is negligible\n')
+('int', 'faster', 'chars', 'performance', '1855222', 'running the same test on linux with gcc similarly pegs int and long as similar and both faster than chars although the difference is less pronounced\n')
+('chars', 'larger', 'int', 'memory', '1461675', 'i believe it was one of the early pdp machines in which a chars was larger than an int\n')
+('int', 'bigger', 'chars', 'memory', '819327', 'int is usually bigger than chars â more suitable for calculations but not so suitable for byte-level manipulation\n')
+('int', 'larger', 'chars', 'memory', '1654239', 'as mentioned in other posts senderid and sequencenumber are both of type int which is likely to be larger than chars so these values will be truncated\n')
+('chars', 'shorter', 'int', '', '955645', 'if you use chars x where x 4 your chars key will be shorter than a int one\n')
+('chars', 'type more usable', 'int', '', '964541', 'sometimes chars type is more usable than int - fixed size chars doesn t take much storage room and you can see enumerated values directly in database fields\n')
+('int', 'id only lower', 'chars', '', '1685542', 'it takes a pathname and an arbitrary int id uses only lower 8 bits so a chars is usually used and generates a probably unique key_t\n')
+('chars', 'type more', 'int', '', '964541', 'sometimes chars type is more usable than int - fixed size chars doesn t take much storage room and you can see enumerated values directly in database fields\n')
+('int', 'wider', 'chars', '', '721224', 'an implicit cast is disallowed as an int is wider has a greater range of values than a chars\n')
+('chars', 'far more descriptive', 'int', '', '857530', 'since sql server doesn t support named constants chars is far more descriptive than int when used in stored procedure and views as constants\n')
+('int', 'greater', 'chars', '', '2013301', 'and sizeof int is greater than one and the compiler adds padding for the chars member variable - is the compiler-generated code allowed to change the values of the padding bytes\n')
+('int', 'usually bigger', 'chars', 'memory', '819327', 'int is usually bigger than chars â more suitable for calculations but not so suitable for byte-level manipulation\n')
+
+firefox	safari	3
+('firefox', 'just better', 'safari', '', '463954', 'firefox is just better for web development and i prefer safari overall\n')
+('safari', 'faster', 'firefox', 'performance', '899967', 'in safari we found that the dom level 0 took twice the time off the dom level 2 but was still four times faster than either firefox case\n')
+('firefox', 'more forgiving', 'safari', '', '365945', 'but i haven t yet figured out whether it s me writing sloppy code with firefox perhaps being more forgiving than safari or if it s safari or if it s jquery\n')
+
+declarative	imperative	1
+('declarative', 'code easier', 'imperative', 'usability', '382518', 'declarative code is easier to make bug-free than imperative code\n')
+
+tortoisegit	svn	1
+('tortoisegit', 'better', 'svn', '', '384102', 'nobody has ever accused git of being easy-to-use no tortoisegit for example although i hear it s coming so you might be better off with svn beanstalk\n')
+
+free	memmove	1
+('free', 'more efficient', 'memmove', 'performance', '388146', 'the compiler is free to choose a method that is more efficient than memmove\n')
+
+sortedlist	sorteddictionary	9
+('sortedlist', 'less memory', 'sorteddictionary', 'memory', '472158', 'sortedlist uses less memory than sorteddictionary\n')
+('sortedlist', 'faster', 'sorteddictionary', 'performance', '389813', 'if the list is populated all at once from sorted data sortedlist is faster than sorteddictionary\n')
+('sorteddictionary', 'faster', 'sortedlist', 'performance', '472158', 'sorteddictionary has faster insertion and removal operations for unsorted data o log n as opposed to o n for sortedlist\n')
+('sortedlist', 'less memory', 'sorteddictionary', 'memory', '890438', 'sortedlist uses less memory than sorteddictionary\n')
+('sorteddictionary', 'faster', 'sortedlist', 'performance', '389813', 'sorteddictionary has faster insertion and removal operations for unsorted data o log n as opposed to o n for sortedlist\n')
+('sortedlist', 'less memory', 'sorteddictionary', 'memory', '1427158', 'sortedlist tkey tvalue uses less memory than sorteddictionary tkey\n')
+('sortedlist', 'faster', 'sorteddictionary', 'performance', '890438', 'if the sortedlist is populated all at once from sorted data it s faster than sorteddictionary\n')
+('sortedlist', 'smaller', 'sorteddictionary', 'memory', '2037401', 'ignoring the cost of providing sorted input the oh of sortedlist is smaller than the oh of sorteddictionary\n')
+('sortedlist', 'less memory', 'sorteddictionary', 'memory', '389813', 'sortedlist uses less memory than sorteddictionary\n')
+
+haskell	scheme	1
+('haskell', 'earlier', 'scheme', '', '392733', 'some background i m learning haskell now having earlier worked with scheme and cl and a little foray into clojure\n')
+
+tcl	perl	2
+('tcl', 'worse', 'perl', '', '393362', 'tcl is no better nor worse than perl ruby python or any other scripting language in this regard -- they all do basic file operations with equal aplomb\n')
+('tcl', 'simpler', 'perl', 'usability', '1197324', 'it is written in tcl which is a language somewhat simpler than perl but broadly in the same family and not difficult to learn\n')
+
+prolog	lisp	1
+('prolog', 'easier', 'lisp', 'usability', '406426', 'i also checked prolog and it seems a pretty cool language easy to do relations between data and easier than lisp but i d like to hear what you think\n')
+
+awt	swing	4
+('swing', 'richer', 'awt', '', '2044311', 'well swing is richer in terms of out-of-the-box components than awt\n')
+('swing', 'less memory', 'awt', 'memory', '416947', 'i mean by light weight i thought maybe the swing components occupy less memory than the awt components\n')
+('awt', 'more useful', 'swing', 'usability', '1090158', 'as far as when awt may be more useful than swing -\n')
+('awt', 'more useful', 'swing', 'usability', '408820', 'are there any cases where awt is more useful advised to use than swing or vice-versa\n')
+
+pyglet	pyopengl	1
+('pyglet', 'actually more', 'pyopengl', '', '408981', 'i d say that pyglet is actually more evolved than pyopengl\n')
+
+fireworks	photoshop	2
+('photoshop', 'more familiar', 'fireworks', '', '1870710', 'i have fireworks 8 as well as photoshop cs3 on my windows pc but i m more familiar with fireworks\n')
+('fireworks', 'easier', 'photoshop', 'usability', '410176', 'i find fireworks has an easier time dealing with vectors because they re first class objects while in photoshop they re actually a combination of a vector mask and a colour fill\n')
+
+profiler	perf	1
+('profiler', 'more detailed', 'perf', '', '410465', 'a profiler gives you more detailed information which can help to diagnose and fix perf problems\n')
+
+keyboard	mouse	3
+('keyboard', 'faster', 'mouse', 'performance', '414289', 'the keyboard is almost always faster than the mouse\n')
+('keyboard', 'faster', 'mouse', 'performance', '1295425', 'i prefer the command line because i have a shell window open in the source anyway to run builds and tests and along with file name completion using the keyboard is faster than using the mouse for me\n')
+('keyboard', 'more important', 'mouse', '', '923190', 'also in this case keyboard input is essential and more important than mouse interaction\n')
+
+modulo	subtraction	1
+('modulo', 'slower', 'subtraction', 'performance', '414763', 'as you can see modulo is about an order of magnitude slower than subtraction\n')
+
+subtract	multiplying	1
+('subtract', 'more reliable', 'multiplying', 'reliability', '417342', 'adding and subtract logarithms of factorials then taking the exponential at the end is more reliable than multiplying and dividing factorials directly\n')
+
+intersect	contains	1
+('intersect', 'greater', 'contains', '', '422343', 'given two ranges a a b and c c d do they intersect is one greater than the other or does one contains the other\n')
+
+ntlm	kerberos	3
+('kerberos', 'slower', 'ntlm', 'performance', '592640', 'for a low traffic site the huge tokens that kerberos send across the network actually makes it slower than ntlm\n')
+('ntlm', 'better', 'kerberos', '', '453751', 'in fact in some ways ntlm is better than kerberos\n')
+('kerberos', 'faster', 'ntlm', 'performance', '592640', 'kerberos is complex to set up and even though it generally is considered faster than ntlm this is only true when you reach a certain limit of simultanious users on your site\n')
+
+x86	mips	2
+('x86', 'more complex instructions', 'mips', 'usability', '454121', 'x86 have more complex instructions than mips\n')
+('mips', 'easier', 'x86', 'usability', '1382636', 'do any of the other common architectures like arm mips sparc etc have an easier than x86 instruction set\n')
+
+velocity	freemarker	2
+('velocity', 'simpler', 'freemarker', 'usability', '463420', 'velocity is simpler than freemarker\n')
+('freemarker', 'more powerful', 'velocity', 'usability', '463420', 'freemarker is more powerful than velocity\n')
+
+trac	bugzilla	1
+('trac', 'better', 'bugzilla', '', '471259', 'trac s issue tracking is little better than bugzilla s...i know a lot of folks love trac but i find it very inflexible\n')
+
+ram	disk	14
+('ram', 'faster', 'disk', 'performance', '1204121', 'loosely speaking ram is 1000 or more times faster than disk and cpu is faster still\n')
+('disk', 'bigger', 'ram', 'memory', '1156709', 'disk is bigger than ram\n')
+('disk', 'slower', 'ram', 'performance', '1356125', 'another option is to spend a bit of cash on a 15000 rpm disk or a ssd solid state disk although that ll be slower than a ram disk\n')
+('disk', 'cheaper', 'ram', '', '516941', 'disk space is probably always going to be cheaper than ram\n')
+('disk', 'not larger', 'ram', 'memory', '1896687', 'edit true the file on disk is not larger than ram but the in-memory representation can easily become much larger than available ram\n')
+('disk', 'larger', 'ram', 'memory', '1896687', 'edit true the file on disk is not larger than ram but the in-memory representation can easily become much larger than available ram\n')
+('ram', 'alway faster', 'disk', 'performance', '565933', 'buy as much memory as you can afford ram is alway faster than io from disk\n')
+('disk', 'slower', 'ram', 'performance', '1829072', 'as disk i o is orders of magnitude slower than ram i o this can cause a very significant difference in query execution times\n')
+('ram', 'much faster', 'disk', 'performance', '472333', 'ram is much faster than disk\n')
+('ram', 'usually faster', 'disk', 'performance', '1192201', 'but becuase reading from ram is usually faster than from other kind of memory storage divice os copy the program from disk on ram and start executing program from there\n')
+('disk', 'slower', 'ram', 'performance', '1706506', 'disk io - even ssd - is many orders of magnitude slower than the ram that the hashing is going though\n')
+('disk', 'larger available', 'ram', 'memory', '969709', 'in future these lists may be read from disk and larger than available ram\n')
+('ram', 'slower', 'disk', 'performance', '848572', 'memory is a bottleneck to performance ram runs slower than the cpu and if you re paging to disk than it s really slow\n')
+('ram', 'faster', 'disk', 'performance', '472333', 'ram is much faster than disk\n')
+
+hash	salt	2
+('hash', 'longer', 'salt', '', '482268', 'you can safely store the salt in the db because working out a string from its hash is just as hard when you know some of the string as it is when you know none of it provided the password itself is longer than the salt and long enough and strong enough to take a long time to crack by brute force at least 6 chars with at least one case change and a number or non-alphanumeric i d say\n')
+('salt', 'better', 'hash', '', '1995717', 'the more randomness and more characters your salt has the better for the hash but anything that s several characters long and random works\n')
+
+ftp	smb	1
+('ftp', 'faster', 'smb', 'performance', '482412', 'push log files to a central location ftp is faster than smb the windows ftp command can be automated with -s scriptfile\n')
+
+hex	binary	4
+('hex', 'somewhat more', 'binary', '', '1712946', 'hex is somewhat more readable than binary if i happen to be loading a data dump in a text editor etc\n')
+('hex', 'more readable', 'binary', 'usability', '1712946', 'hex is somewhat more readable than binary if i happen to be loading a data dump in a text editor etc\n')
+('hex', 'representation better', 'binary', '', '484066', 'it seems the from a readability and usability standpoint the hex representation is a better way of defining binary numbers\n')
+('hex', 'just less', 'binary', '', '484849', 'hex is just less verbose and can express anything a binary number can\n')
+
+subclassing	superclass	3
+('superclass', 'always smaller', 'subclassing', 'memory', '839664', 'for my understanding the superclass is always smaller less complex then the subclassing\n')
+('subclassing', 'more specific', 'superclass', '', '488946', 'if the subclassing is more specific then it might fill in all by 2 of the arguments to its superclass __init__ method\n')
+('subclassing', 'bigger interface', 'superclass', 'memory', '933047', 'you can t cast a superclass in a subclassing because the subclassing may have a bigger interface than the superclass means the subclassing can have functions like getunixtimestamp that the superclass doesn t have\n')
+
+jscript	vbscript	5
+('jscript', 'nicer', 'vbscript', '', '1910089', 'asp with jscript is 100 times better cleaner simpler nicer than vbscript and makes my job a joy rather than a vbscript head ache\n')
+('jscript', 'infinitely more', 'vbscript', '', '495528', 'when writing code in jscript as i am wont to do as i have never been a fan of asp.net and jscript is infinitely more elegant than vbscript you can call upon the arguments collection\n')
+('jscript', 'infinitely more elegant', 'vbscript', 'usability', '495528', 'when writing code in jscript as i am wont to do as i have never been a fan of asp.net and jscript is infinitely more elegant than vbscript you can call upon the arguments collection\n')
+('jscript', 'more elegant', 'vbscript', 'usability', '495528', 'when writing code in jscript as i am wont to do as i have never been a fan of asp.net and jscript is infinitely more elegant than vbscript you can call upon the arguments collection\n')
+('jscript', 'simpler nicer', 'vbscript', 'usability', '1910089', 'asp with jscript is 100 times better cleaner simpler nicer than vbscript and makes my job a joy rather than a vbscript head ache\n')
+
+sproutcore	javascriptmvc	1
+('sproutcore', 'more heavyweight', 'javascriptmvc', 'memory', '509703', 'it s probably overkill for what you need but sproutcore is an mvc framework and it doesn t look any more heavyweight than javascriptmvc or trimpath s junction\n')
+
+qt-designer	wxpython	1
+('qt-designer', 'more powerful', 'wxpython', 'usability', '515325', 'as far as i can tell qt-designer is more powerful than any wxpython counterpart like boa constructor and pyglade\n')
+
+freebsd	linux	1
+('freebsd', 'much better', 'linux', '', '530086', 'just a tip but from personal experience i ve found that freebsd works much better on low-end hardware than a modern linux distro does\n')
+
+localization	translation	1
+('localization', 'easier', 'translation', 'usability', '539857', 'localization it s easier to translation text than images\n')
+
+emacs	vim	10
+('vim', 'faster', 'emacs', 'performance', '1430434', 'and i tend to think that after a moderate amount of customisation of either one vim will still start up faster than emacs\n')
+('vim', 'more steps', 'emacs', '', '1430939', 'cut and paste in vim takes more steps than in emacs iirc\n')
+('vim', 'quicker', 'emacs', '', '977462', 'maybe not productive in the same way - i d say vim is quicker for editing files emacs is better at doing everything else again i would personally say things like flymake-mode vcs bindings are such are quicker to use than the vim equivalent\n')
+('emacs', 'better', 'vim', '', '1020038', 'it is worth learning both because emacs is better than vim at editing certain languages and doing certain tasks and vice versa\n')
+('vim', 'weaker', 'emacs', '', '2153892', 'i ve used vim for 10+ years but never really into vim scripting always subjectively beliving that this was one area where vim was weaker than emacs\n')
+('emacs', 'more powerful', 'vim', 'usability', '977462', 'emacs is more powerful than vim it s scripting engine is far more flexible and there are far more scripts modes and the likes built around emacs\n')
+('emacs', 'better', 'vim', '', '977462', 'maybe not productive in the same way - i d say vim is quicker for editing files emacs is better at doing everything else again i would personally say things like flymake-mode vcs bindings are such are quicker to use than the vim equivalent\n')
+('vim', 'far more', 'emacs', '', '1786996', 'on today s machines that s a non-issue but if you ever find yourself dealing with older gear it s my experience that vim is far more likely to work on a wonky terminal than emacs is\n')
+('vim', 'far more likely', 'emacs', '', '1786996', 'on today s machines that s a non-issue but if you ever find yourself dealing with older gear it s my experience that vim is far more likely to work on a wonky terminal than emacs is\n')
+('emacs', 'much older', 'vim', '', '551342', 'since emacs is much older than the extensible vim as opposed to the relatively non-extensible vi it has a much larger collection of extension modes covering almost any purpose you can imagine\n')
+
+cvsnt	svn	1
+('cvsnt', 'simply much better', 'svn', '', '559225', 'just a wild guess here but if you re using cvsnt on the server this observation might be based on the fact that cvsnt simply is much better at merging than svn because it has the notion of mergepoints\n')
+
+tree	skip-lists	1
+('tree', 'better', 'skip-lists', '', '576296', 'so as you can see the random binary search tree was rather a lot better than the skip-lists\n')
+
+pdfbox	itext	1
+('pdfbox', 'better', 'itext', '', '584198', 'start with pdfbox as it s text extraction abilities are better than itext s\n')
+
+pagespeed	yslow	1
+('pagespeed', 'better', 'yslow', '', '584890', 'in my testing so far google s pagespeed addon is far and above much better than yslow\n')
+
+openrasta	asp.net-mvc	1
+('openrasta', 'much closer', 'asp.net-mvc', '', '585100', 'i d suggest having a look at openrasta which is much closer to http semantics than asp.net asp.net-mvc is\n')
+
+adventureworks	northwind	1
+('adventureworks', 'better', 'northwind', '', '597847', 'talk about sql server 2005 adventureworks is better than northwind\n')
+
+width	margin	2
+('width', 'nicer', 'margin', '', '604314', 'edit someone else suggested css and i believe that using the height and width directives from css will give you the same result as using the same attributes of the tag but doesn t limit you strictly to images and a will play nicer with any margin or padding directives you might use\n')
+('margin', 'greater', 'width', '', '1567157', 'give the sample text div a right margin greater than the width of the right-floated element\n')
+
+strncpy	memcpy	1
+('strncpy', 'slower', 'memcpy', 'performance', '610260', 'but for the example you give it doesn t matter - if it s going to fail it will be in the initial strlen so strncpy doesn t buy you anything in terms of safety and presumbly strncpy is slower as it has to both check bounds and for nul and any difference between memcpy and strcpy isn t worth changing code for speculatively\n')
+
+spaces	delimiter	2
+('spaces', 'field', 'delimiter', '', '1468030', 'it checks for one or more spaces as field delimiter and also tabs\n')
+('spaces', 'field', 'delimiter', '', '612937', 'awk uses a comma surrounded by 0 or more spaces as field delimiter\n')
+
+pypy	cpython	1
+('pypy', 'faster', 'cpython', 'performance', '619544', 'part of the compiler toolchain includes an experimental jit generator now in its fifth incarnation and starting to work really well - the goal is for a jited pypy to run much faster than cpython\n')
+
+ironpython	cpython	3
+('cpython', 'probably better', 'ironpython', '', '1168957', 'cpython probably has better ide support at present than ironpython - so this may be a factor in the choosing of one over the other\n')
+('ironpython', 'faster', 'cpython', 'performance', '620976', 'i m not sure exactly how you re drawing the conclusion that ironpython is faster than cpython\n')
+('cpython', 'more comfortable', 'ironpython', 'usability', '1441330', 'my understanding was it was written in vanilla python cpython but if you are more comfortable with ironpython it shouldn t be hard to translate\n')
+
+vmware	virtualbox	2
+('vmware', 'faster', 'virtualbox', 'performance', '630233', 'in my experience i ve found that vmware seems to be faster than virtualbox although i don t have any hard data to back it up\n')
+('vmware', 'faster', 'virtualbox', 'performance', '630233', 'even though vmware has been faster for me i still use virtualbox because it s good enough and is free and im cheap\n')
+
+uiview	catransition	1
+('uiview', 'more limited', 'catransition', '', '630770', 'the uiview class methods are convenience methods for common animations but are more limited than catransition\n')
+
+dawg	trie	1
+('dawg', 'more efficient', 'trie', 'performance', '681760', 'it is a structure similar to but twice as space-efficient as the dawg that is more efficient than the trie which only compresses prefixes\n')
+
+typo3	joomla	1
+('typo3', 'more professional', 'joomla', '', '683028', 'i didn t work with these applications yet but afaik typo3 and ezpublish both php are considered much more professional than joomla\n')
+
+subtraction	multiplication	1
+('subtraction', 'cheaper', 'multiplication', '', '698780', 'addition subtraction for the rectangular bound calculation is cheaper than multiplication\n')
+
+repeater	gridview	2
+('repeater', 'better decision', 'gridview', '', '1123182', 'a repeater might be a better decision than a gridview as they are friendlier for using custom layouts\n')
+('repeater', 'better', 'gridview', '', '721563', 'maybe a repeater is better but you will be fine with a gridview if you are familiar with it\n')
+
+gridview	datalist	2
+('gridview', 'much more bells', 'datalist', '', '756327', 'gridview has much more bells and whistles than datalist\n')
+('gridview', 'much more', 'datalist', '', '756327', 'gridview has much more bells and whistles than datalist\n')
+
+protected	public	2
+('protected', 'more sense', 'public', '', '761864', 'therefore the only types that should have access to a constructor are its derived types and hence protected makes much more sense than public\n')
+('protected', 'much more', 'public', '', '761864', 'therefore the only types that should have access to a constructor are its derived types and hence protected makes much more sense than public\n')
+
+installation	upgrade	1
+('installation', 'much better', 'upgrade', '', '765929', 'as for production side of things upgrading your database in transaction msi-style installation is much better than attempting to upgrade at each app startup since you can potentially end up with desynchronized database-application versioning\n')
+
+cin	cout	1
+('cin', 'printf faster', 'cout', 'performance', '780111', 'scanf is faster than cin printf is faster than cout etc\n')
+
+put	get	1
+('put', 'method better', 'get', '', '794801', 'right now i would have to say the put method is better since it works and i could not get the webservice to work\n')
+
+nginx	lighttpd	2
+('nginx', 'even more', 'lighttpd', '', '803700', 'it s simple and nginx is even more ridiculously fast and lightweight than lighttpd\n')
+('nginx', 'even more ridiculously', 'lighttpd', '', '803700', 'it s simple and nginx is even more ridiculously fast and lightweight than lighttpd\n')
+
+sml	haskell	1
+('sml', 'better', 'haskell', '', '811801', 'because sml is eagerly evaluated the execution model is far easier to comprehend and debugging via printf works a lot better than in haskell\n')
+
+rtf	doc	2
+('rtf', 'easier', 'doc', 'usability', '813984', 'if the latter is what you want you could use rtf which is somewhat easier than the doc format\n')
+('rtf', 'somewhat easier', 'doc', 'usability', '813984', 'if the latter is what you want you could use rtf which is somewhat easier than the doc format\n')
+
+actionscript	mxml	1
+('actionscript', 'better', 'mxml', '', '814811', 'i would say pure actionscript is better for programming whether you use flash ide or flex ide is not that relevant and mxml is better for non-programmers to combine the components programmed in as\n')
+
+haskell	ocaml	10
+('ocaml', 'more intuitive', 'haskell', '', '2269993', 'you will also likely find the performance characteristics of your ocaml code more intuitive than haskell because of haskell s lazy evaluation\n')
+('ocaml', 'lower', 'haskell', '', '2290354', 'as others have pointed out ocaml s learning curve will be lower than haskell s\n')
+('ocaml', 'more powerful', 'haskell', 'usability', '2290354', 'keith pointed out that haskell has a more powerful type system but it can also be said that ocaml has a more powerful module system than haskell\n')
+('haskell', 'higher', 'ocaml', '', '1776455', 'haskell has higher level bindings to llvm than ocaml the haskell ones provide some interesting type safety guarantees and haskell has by far more libraries to use 1700 packages on making it easier to glue together components\n')
+('haskell', 'less code', 'ocaml', '', '2269313', 'secondly the haskell ffi is more powerful that is it does more with less code than ocaml s and more libraries are avaliable via hackage so i don t think foreign interfaces will be a deciding factor\n')
+('haskell', 'ffi more', 'ocaml', '', '2269313', 'secondly the haskell ffi is more powerful that is it does more with less code than ocaml s and more libraries are avaliable via hackage so i don t think foreign interfaces will be a deciding factor\n')
+('haskell', 'more powerful', 'ocaml', 'usability', '2290354', 'keith pointed out that haskell has a more powerful type system but it can also be said that ocaml has a more powerful module system than haskell\n')
+('haskell', 'better', 'ocaml', '', '996052', 'i would just use ocaml but haskell s syntax is so much better than ocaml s and haskell is pure and has cool features such as type classes\n')
+('haskell', 'ffi more powerful', 'ocaml', 'usability', '2269313', 'secondly the haskell ffi is more powerful that is it does more with less code than ocaml s and more libraries are avaliable via hackage so i don t think foreign interfaces will be a deciding factor\n')
+('haskell', 'fewer', 'ocaml', '', '827594', 'haskell has fewer industrial users than ocaml and although it does have multicore support it is still being developed in a very unproductive direction\n')
+
+svn2git	git-svn	1
+('svn2git', 'better results', 'git-svn', '', '840730', 'using svn2git might produce better results than git-svn if you have tags or branches.\n')
+
+qcubed	qcodo	1
+('qcubed', 'community much stronger', 'qcodo', '', '843733', 'qcubed community is much stronger at the moment so you might want to check in qcodo forum for your answers on basic problems but post on the qcubed forum\n')
+
+des	rsa	1
+('des', 'larger', 'rsa', 'memory', '864659', 'des code is 8 times larger than rsa\n')
+
+colt	jama	2
+('colt', 'more powerful', 'jama', 'usability', '879201', 'colt does this already but i have found it is more complicated and more powerful than jama which may explain why simple functions are slower with colt\n')
+('jama', 'slower', 'colt', 'performance', '879201', 'colt does this already but i have found it is more complicated and more powerful than jama which may explain why simple functions are slower with colt\n')
+
+lxml	beautifulsoup	4
+('lxml', 'faster', 'beautifulsoup', 'performance', '880821', 'i ve found that even if lxml is faster than beautifulsoup for documents that size it s usually best to try to reduce the size to a few kb via regex or direct stripping and load that into bs as you are doing now\n')
+('beautifulsoup', 'no longer', 'lxml', '', '1922064', 'for starters beautifulsoup is no longer actively maintained and the author even recommends alternatives such as lxml\n')
+('beautifulsoup', 'more suitable', 'lxml', '', '1648539', 'beautifulsoup is more suitable for html parsing than lxml\n')
+('beautifulsoup', 'no longer actively', 'lxml', '', '1922064', 'for starters beautifulsoup is no longer actively maintained and the author even recommends alternatives such as lxml\n')
+
+division	addition	4
+('division', 'more tightly', 'addition', '', '884697', 'the addition and subtraction is okay because the types of a and b force them to be performed using floating point arithmetic - but because division binds more tightly than addition and subtraction it s like using the brackets above only the immediate operands are considered\n')
+('addition', 'faster', 'division', 'performance', '1348077', 'performing addition on this slightly larger type will pretty much always be faster than doing division or modulo on the type itself\n')
+('addition', 'faster', 'division', 'performance', '1348077', 'for example on most 32 bit systems 64-bit addition is faster than 32-bit division modulo\n')
+('division', 'longer', 'addition', '', '1541739', 'the term is apparently not an exact measurement as it is clear that a double-precision floating-point operation is going to take longer than a single-precision one and multiplication and division are going to take longer than addition and subtraction\n')
+
+max	rank	1
+('max', 'faster', 'rank', 'performance', '886136', 'while i think gbn s answer is probably sufficient i m wondering whether use of an over clause to establish a max date per id attribute with which to reduce the select in a where clause wouldn t be faster than a rank\n')
+
+bitvector	bitarray	1
+('bitvector', 'more efficient', 'bitarray', 'performance', '903548', 'why is the bitvector 32 structure more efficient than bitarray\n')
+
+push	pull	3
+('pull', 'more scalable', 'push', '', '1768222', 'i have found that pull is more scalable than push\n')
+('push', 'far more', 'pull', '', '912233', 'why do you think that push is far more scalable then pull for starters\n')
+('push', 'far more scalable', 'pull', '', '912233', 'why do you think that push is far more scalable then pull for starters\n')
+
+16-bit	64bit	1
+('16-bit', 'less efficient', '64bit', 'performance', '942017', 'in fact for x86 64 processors performing 32-bit or 16-bit operations are less efficient than 64bit or 8-bit operations due to the operand prefix byte that has to be decoded\n')
+
+vba	vbscript	2
+('vba', 'better', 'vbscript', '', '962399', 'vb6 vba though a little better than vbscript in general still has many similar issues where for their domain they require much more boiler plate to do simple tasks than what i would like and have seen in other scripting languages\n')
+('vba', 'more sense', 'vbscript', '', '1001855', 'i believe that the reports are using something more along the lines of vbscript edit oregonghost says vba which actually makes more sense than vbscript than vb.net and very limited at that\n')
+
+imagemagick	libjpeg	1
+('imagemagick', 'slower', 'libjpeg', 'performance', '965313', 'basically imagemagick was only slightly slower than libjpeg\n')
+
+sudo	passwd	1
+('sudo', 'better', 'passwd', '', '982185', 'sudo is better in most respects but still requires a passwd which asroot does not\n')
+
+exponent	multiplication	1
+('exponent', 'larger', 'multiplication', 'memory', '1019808', 'as int exponent gets larger taking powers might be faster than multiplication\n')
+
+extjs	gxt	1
+('extjs', 'more time', 'gxt', 'performance', '1034539', 'i have worked pretty heavily with both flavors of the gwt extjs libraries though i ve spent more time with gxt recently\n')
+
+autotools	automake	2
+('autotools', 'slightly more', 'automake', '', '1035179', 'in the case of autotools it is slightly more complicated because not everybody who compiles the software would need automake and autoconf installed only those that need to change the build system adding new files counts as changing the build system\n')
+('autotools', 'slightly more complicated', 'automake', 'usability', '1035179', 'in the case of autotools it is slightly more complicated because not everybody who compiles the software would need automake and autoconf installed only those that need to change the build system adding new files counts as changing the build system\n')
+
+coalesce	isnull	4
+('coalesce', 'more cross-compatible', 'isnull', '', '1037788', 'coalesce is more cross-compatible than isnull or nvl it works on mssql oracle mysql derby et al.\n')
+('isnull', 'more efficient', 'coalesce', 'performance', '2287673', 'to prefer isnull over coalesce when given the choice is that isnull tends to produce query plans that are more efficient than coalesce\n')
+('isnull', 'faster', 'coalesce', 'performance', '2287656', 'isnull will be faster i think because it has lesser function code implementation for itself making it faster than coalesce\n')
+('isnull', 'quicker', 'coalesce', '', '2287642', 'i understand the difference between these functions but my question is when checking for a single null value would isnull be any quicker than using coalesce\n')
+
+toupper	tolower	1
+('toupper', 'more efficient', 'tolower', 'performance', '1047997', 'as a side note using toupper is more efficient than using tolower so toupper would be the way to go\n')
+
+telnet	ftp	3
+('telnet', 'easier', 'ftp', 'usability', '1059847', 'it is optimized for downloading larger files where the setup overhead is amortized over the size and number of downloads http is very light-weight you can communicate to an http server using telnet much easier than ftp especially before passive ftp and is designed around html -- the concept that in the course of your navigation you will be visiting many different servers and grabbing only a couple of files at a time from each\n')
+('ftp', 'protocol more', 'telnet', '', '1741448', 'ftp protocol is more complex than http or telnet form example\n')
+('ftp', 'protocol more complex', 'telnet', 'usability', '1741448', 'ftp protocol is more complex than http or telnet form example\n')
+
+setter	getter	1
+('setter', 'less restricted', 'getter', '', '1063920', 'but then your setter is less restricted than your getter which is odd.\n')
+
+cassini	iis	2
+('cassini', 'slower', 'iis', 'performance', '1082128', 'for my webapp the integrated visual studio server cassini ist much slower than iis\n')
+('iis', 'better performance', 'cassini', 'performance', '1849455', 'while iis does give us better performance than cassini we would still like to be able to hit f5 to run our application from within visual studio\n')
+
+serializable	deserialization	1
+('serializable', 'quicker', 'deserialization', '', '1092020', 'the serializable seems quicker but deserialization much slower and the app is doing more deserializing than serializing\n')
+
+vb6	vb.net	1
+('vb6', 'tools more', 'vb.net', '', '1101923', 'however i ve noticed that running the vb6 tools is becoming more and more painful over time so i m looking at the possibility of migrating this code to vb.net 2008\n')
+
+xfce	gnome	2
+('xfce', 'much smaller', 'gnome', 'memory', '1105831', 'xfce runs much smaller than gnome and is full featured\n')
+('xfce', 'smaller', 'gnome', 'memory', '1105831', 'xfce runs much smaller than gnome and is full featured\n')
+
+nserror	nsexception	2
+('nserror', 'much more', 'nsexception', '', '1117426', 'aside from obejctive-c convention and best practices nserror is much more robust and flexibly than nsexception and allows the caller to effectively ignore the problem if they want to\n')
+('nserror', 'much more robust', 'nsexception', 'reliability', '1117426', 'aside from obejctive-c convention and best practices nserror is much more robust and flexibly than nsexception and allows the caller to effectively ignore the problem if they want to\n')
+
+polygons	distance	1
+('polygons', 'greater', 'distance', '', '1120009', 'calculate the actual minimum distance and continue through the sorted list until the maximum distance between the polygons is greater than the minimum distance found so far\n')
+
+vbscript	vb6	2
+('vbscript', 'much more', 'vb6', '', '1124848', 'vbscript is much more convenient than creating an activex on vb6 or c# vb.net\n')
+('vbscript', 'much more convenient', 'vb6', 'usability', '1124848', 'vbscript is much more convenient than creating an activex on vb6 or c# vb.net\n')
+
+memcmp	strcmp	1
+('memcmp', 'faster', 'strcmp', 'performance', '1128221', 'if you always keep track of the lengths of your strings you can compare lengths and use memcmp which is faster than strcmp\n')
+
+server-side	client-side	5
+('client-side', 'faster', 'server-side', 'performance', '1598764', 'while not really a console skulpt.org runs python code client-side with no plugins or anything which makes it a lot faster than a server-side prompt\n')
+('server-side', 'more powerful', 'client-side', 'usability', '1204968', 'my guess is that server-side implementation may turn out to be more flexible and more powerful than client-side as i can add functionality to the server easily as long as the client understands it\n')
+('server-side', 'more valuable', 'client-side', '', '1141264', 'not all of the reasons given are necessarily valid but one important one is that unless you re google server-side cpu cycles are a lot more valuable than client-side cycles so it s easier to have the client compile optimize what is quite often dynamically generated html javascript rather than the server\n')
+('client-side', 'javascript much more', 'server-side', '', '1322011', 'that said client-side javascript is much more common and if you were using server-side javascript you would probably know the answer to your question\n')
+('client-side', 'javascript much more common', 'server-side', '', '1322011', 'that said client-side javascript is much more common and if you were using server-side javascript you would probably know the answer to your question\n')
+
+margin	height	1
+('margin', 'greater', 'height', '', '1144224', 'in conjunction with a negative margin equal to or greater than the height of the top and bottom borders if any to further remove the element\n')
+
+sorting	filtering	1
+('sorting', 'cheaper', 'filtering', '', '1172381', 'if your author field is selective and sorting is cheaper than filtering\n')
+
+stateful	stateless	1
+('stateful', 'more appropriate', 'stateless', '', '1177422', 'do you have any situation where stateful is more appropriate than stateless\n')
+
+mantis	bugzilla	1
+('mantis', 'more complete', 'bugzilla', '', '1188910', 'since mantis is a bit more complete than bugzilla when it comes to features you could define separate issues with custom field for your tasks\n')
+
+memmove	memcpy	1
+('memmove', 'slower', 'memcpy', 'performance', '1201337', 'this means that memmove might be very slightly slower than memcpy as it cannot make the same assumptions\n')
+
+cobertura	maven	1
+('cobertura', 'better', 'maven', '', '1207519', 'i find cobertura and emma to be largely interchangeable in terms of coverage checking just that cobertura has a better maven plugin and emma has a better eclipse plugin in my opinion\n')
+
+firefox	google-chrome	6
+('firefox', 'richer', 'google-chrome', '', '2213961', 'i inspected the range object in both google-chrome and firefox and then noticed that firefox s range object is far richer than google-chrome s\n')
+('firefox', 'not slower', 'google-chrome', 'performance', '2284148', 'better use google-chrome even thought firefox is not slower than google-chrome for once probably the tracing for the image comparison pays off yay\n')
+('google-chrome', 'earlier', 'firefox', '', '1996484', 'i suspect that this may be the case because ie and google-chrome need to know about the content of the div earlier than firefox\n')
+('firefox', 'slower', 'google-chrome', 'performance', '2284148', 'better use google-chrome even thought firefox is not slower than google-chrome for once probably the tracing for the image comparison pays off yay\n')
+('firefox', 'slower', 'google-chrome', 'performance', '1233693', 'firefox is slower than google-chrome which boats one of the highest javascript engines a modified version of webkit\n')
+('google-chrome', 'faster', 'firefox', 'performance', '1238849', 'the trouble is choosing a good value for x since for this particular page google-chrome is so very much faster than firefox which is faster than ie\n')
+
+code128	code39	1
+('code128', 'better', 'code39', '', '1243627', 'data density in code128 is better than code39 - since it gets mentioned that often in other replies\n')
+
+seam	jsf	2
+('seam', 'certainly far better', 'jsf', '', '1253366', 'seam certainly is far better than using plain jsf refer the link posted by damo a couple of answers above\n')
+('seam', 'more general', 'jsf', '', '1252126', 'jsf is a web ui framework whereas seam is a more general web application framework that integrates not just jsf but conversational contexts workflow jbpm and object persistance preferably ejb3\n')
+
+strncpy	strcpy	2
+('strncpy', 'safer', 'strcpy', 'security', '1258708', 'strncpy is not safer than strcpy it just trades one type of bugs with another\n')
+('strncpy', 'not safer', 'strcpy', 'security', '1258708', 'strncpy is not safer than strcpy it just trades one type of bugs with another\n')
+
+webrick	thin	1
+('webrick', 'slower', 'thin', 'performance', '1267852', 'from my experience webrick is slower than mongrel is slower than thin\n')
+
+ienumerable	icollection	1
+('ienumerable', 'more generic', 'icollection', '', '1268518', 'secondly i did not use ienumerable because it is more generic than icollection and does not even have simple properties like count\n')
+
+opera	firefox	2
+('opera', 'slower', 'firefox', 'performance', '1278273', 'for example i ve read that opera and ie will fix framerates slower than firefox\n')
+('firefox', 'even worse', 'opera', '', '1451062', 'the problem with this code is that it doesn t quite work on firefox and works even worse on opera\n')
+
+xhprof	xdebug	1
+('xhprof', 'lighter', 'xdebug', 'memory', '1283195', 'thanks mikushi for the comment another possibility that i haven t used much is the the xhprof extension it also helps with profiling can generate callgraphs -- but is lighter than xdebug which mean you should be able to install it on a production server\n')
+
+textblock	richtextbox	1
+('textblock', 'simpler', 'richtextbox', 'usability', '1287034', 'good advice but in the end i decided a bindable textblock was more useful and simpler than a richtextbox\n')
+
+ubuntu	debian	1
+('ubuntu', 'more resources', 'debian', '', '1316580', 'ubuntu heavily relies on python scripting and generally consumes more resources than debian\n')
+
+mstest	nunit	2
+('mstest', 'better', 'nunit', '', '1340207', 'if you have a full version of visual studio 2008 rather than the express edition it integrates the inbuilt mstest much better than nunit does and cruise control also supports mstest\n')
+('nunit', 'better', 'mstest', '', '1989900', 'various people told me to go with nunit since it s better than mstest apparently i have no idea and it also has very good support in resharper which i m using\n')
+
+enumerate	xrange	3
+('enumerate', 'microscopically faster', 'xrange', 'performance', '1352521', 'if you measure properly you ll see there s essentially no difference enumerate is microscopically faster than xrange in this example but well within noise\n')
+('enumerate', 'faster', 'xrange', 'performance', '1352521', 'if you measure properly you ll see there s essentially no difference enumerate is microscopically faster than xrange in this example but well within noise\n')
+('enumerate', 'slower', 'xrange', 'performance', '1352497', 'why is enumerate slower than xrange + lst i\n')
+
+wordpress	joomla	1
+('wordpress', 'more popular', 'joomla', 'usability', '1361077', 'i seem to be getting the impression that wordpress is more popular than joomla nowadays\n')
+
+uiview	subviews	1
+('uiview', 'smaller frame', 'subviews', 'memory', '1361527', 'i want to add a uiview of smaller frame as subviews to parental view but i am not getting the needed\n')
+
+execute	prepare	1
+('execute', 'statement', 'prepare', '', '1363067', 'any execute statement becomes prepare sooner or later it need to be parsed optimized compiled and then execute\n')
+
+http.sys	httplistener	1
+('http.sys', 'more customizable', 'httplistener', '', '1374448', 'and also don t forget - http.sys much more customizable than httplistener\n')
+
+objectdatasource	sqldatasource	2
+('objectdatasource', 'also more efficient', 'sqldatasource', 'performance', '1423595', 'objectdatasource also allows for more efficient paging than a simple sqldatasource i m assuming that s what you re using\n')
+('objectdatasource', 'also more', 'sqldatasource', '', '1423595', 'objectdatasource also allows for more efficient paging than a simple sqldatasource i m assuming that s what you re using\n')
+
+wav	mp3	2
+('wav', 'file much easier', 'mp3', 'usability', '1427191', 'either way applying gain and or attenuation to time-domain sample data as in a wav file is much easier than trying to apply these effects to frequency-domain data as in an mp3 file\n')
+('wav', 'better', 'mp3', '', '1628241', 'if you ask if a uncompressed wav which contains pcm data is better than mp3 then yes but the question sometimes is how much this better really matters to the human ear and how much postprocessing you have to perform on that data\n')
+
+128bit	64bit	2
+('128bit', 'larger', '64bit', 'memory', '1433909', 'i ll just add that if the 128bit number is prime or has a prime factor larger than 64bit then there will be no solution to your problem\n')
+('128bit', 'larger', '64bit', 'memory', '1434405', 'and i ll just add to previous comment if 128bit number has prime factor larger than 64bit then it certainly has a factor less than 64bit\n')
+
+udp	mtu	2
+('udp', 'bigger', 'mtu', 'memory', '1436154', 'they are easily generated for udp simply by making the datagram bigger than the mtu\n')
+('udp', 'larger', 'mtu', 'memory', '1436197', 'if you send a udp datagram larger than the mtu it will be fragmented\n')
+
+uitableview	uipickerview	3
+('uitableview', 'much more', 'uipickerview', '', '1440450', 'uitableview is much more customizable than uipickerview\n')
+('uitableview', 'much more customizable', 'uipickerview', '', '1440450', 'uitableview is much more customizable than uipickerview\n')
+('uitableview', 'more customizable', 'uipickerview', '', '1440450', 'uitableview is much more customizable than uipickerview\n')
+
+antialiasing	transparent	1
+('antialiasing', 'much better', 'transparent', '', '1445339', 'and it seems working fine antialiasing is much better however this beats the idea of a transparent background in the process\n')
+
+textscan	fread	1
+('textscan', 'more powerful', 'fread', 'usability', '1457281', 'then for reading i find textscan to be more powerful than fread fscanf the differences between them all are summarized here\n')
+
+salt	md5	1
+('salt', 'more fancy', 'md5', '', '1459923', 'decode the passwords yourself and re-encode them with a salt i recommend something a little more fancy than md5\n')
+
+fsunit	xunit.net	1
+('fsunit', 'more natural oo', 'xunit.net', '', '1468941', 'i d rather use fsunit or fstest to write tests in f# it feels more natural than oo xunit.net style tests\n')
+
+lxml	elementtree	1
+('lxml', 'better', 'elementtree', '', '1563301', 'lxml -- 100x better than elementtree\n')
+
+put	post	2
+('put', 'more secure http', 'post', '', '1577549', 'http put isn t inherently any more secure than http post if you re allowing the uploaded files to be exceuted on your server\n')
+('put', 'moreso', 'post', '', '2023144', 'put is designed for file uploads moreso than post which requires doing a multipart upload but then it comes down to what your server can do as to which is more convenient for you to implement\n')
+
+caf	wav	1
+('caf', 'better', 'wav', '', '1618687', '2 caf seems a little better than wav but not much\n')
+
+webstorm	aptana	1
+('webstorm', 'better', 'aptana', '', '1627531', 'if you re focussing on pure client code then i find webstorm to be an excellent javascript html ide - even better than aptana\n')
+
+monodevelop	sharpdevelop	1
+('monodevelop', 'better', 'sharpdevelop', '', '1640244', 'i like the monodevelop ide even better than sharpdevelop but i m not sold on installing and using mono s compiler just yet nor do i know if it can even handle the latest vb.net c# language features\n')
+
+bazaar	svn	1
+('bazaar', 'much more', 'svn', '', '1645672', 'bazaar seems much more like svn with branches just being separate directories so maybe not\n')
+
+ironpython	ironruby	3
+('ironpython', 'much more', 'ironruby', '', '1670651', 'however as things stand right now ironpython is much more mature and has much better performance than ironruby so you may prefer to use that\n')
+('ironpython', 'better performance', 'ironruby', 'performance', '1670651', 'however as things stand right now ironpython is much more mature and has much better performance than ironruby so you may prefer to use that\n')
+('ironpython', 'much more mature', 'ironruby', '', '1670651', 'however as things stand right now ironpython is much more mature and has much better performance than ironruby so you may prefer to use that\n')
+
+min	max	6
+('min', 'value greater', 'max', '', '1702833', 'in addition i noticed that you also have a possible exceptional scenario for your full constructor when the min value is greater than the max value\n')
+('min', 'greater', 'max', '', '1702833', 'in addition i noticed that you also have a possible exceptional scenario for your full constructor when the min value is greater than the max value\n')
+('max', 'larger', 'min', 'memory', '2205247', 'it s interesting that this works since the documentation states that max must be larger than min but it looks like -1 is treated more like an empty or null value\n')
+('max', 'greater', 'min', '', '2258513', 'you might want to ensure that max is greater than min\n')
+('max', 'greater', 'min', '', '2133147', 'i d just make two properties min max assign them the value of the first item you add to the array then each time you add a new item just check if its datetime is less or greater than the min max ones\n')
+('min', 'bigger', 'max', 'memory', '2185953', '2 also i notice that the inverse of the maximum value of a double precision type is bigger than its min value and inverse of its min value is inf way bigger than its max value\n')
+
+kohana	codeigniter	1
+('kohana', 'less bloated', 'codeigniter', '', '1710652', 'but if codeigniter has a bit too much bloat for you maybe you can try kohana which is a bit less bloated than codeigniter started as a fork\n')
+
+tcp	arp	2
+('tcp', 'message shorter', 'arp', '', '1716751', 'it would appear from your question that the period of the tcp message is shorter than the arp refresh time\n')
+('tcp', 'shorter', 'arp', '', '1716751', 'it would appear from your question that the period of the tcp message is shorter than the arp refresh time\n')
+
+ceil	floor	1
+('ceil', 'greater', 'floor', '', '1719752', 'the floor times the ceil are greater than the floor xy...that s very much possible\n')
+
+tinyint	boolean	1
+('tinyint', 'more space', 'boolean', 'memory', '1731950', 'does tinyint in mysql take up more space than boolean\n')
+
+gtk	cairo	1
+('gtk', 'more common', 'cairo', '', '1734609', 'with gtk it s more common to use cairo already mentioned by jeff foster\n')
+
+hmac	hash	1
+('hmac', 'better', 'hash', '', '1757465', 'hmac is better than a plain hash because it is not vulnerable to hash length extension attacks\n')
+
+rational-numbers	zero	1
+('rational-numbers', 'greater', 'zero', '', '1780489', 'is there any way in haskell to get the constant that is the largest and smallest possible positive rational-numbers greater than zero that can be represented by doubles\n')
+
+greenplum	postgresql	1
+('greenplum', 'better', 'postgresql', '', '1792370', 'greenplum and other similar solutions should work a bit better than postgresql depending on your data sets and use cases\n')
+
+distinct	union	1
+('distinct', 'slower', 'union', 'performance', '1804853', 'keep in mind that union will return a distinct list - duplicates will be removed but it will perform slower than using union all which will not remove duplicates\n')
+
+memcached	apc	4
+('apc', 'faster', 'memcached', 'performance', '1825484', 'a quick googling says that apc is 5 times faster than memcached\n')
+('apc', 'less feature', 'memcached', 'usability', '1825484', 'apc have less feature than memcached and is easly to use and optimize but this depends on your needs\n')
+('memcached', 'slower', 'apc', 'performance', '1808814', 'memcached around 4-5 times slower than apc but run as a single process that can be touched everywhere in my environment\n')
+('apc', 'faster', 'memcached', 'performance', '1825484', 'my experience say that apc is nearly 7-8 times faster than memcached\n')
+
+scite	notepad++	1
+('scite', 'more lightweight', 'notepad++', 'memory', '1838114', 'by the way if you like minimalistic approach there is also scite editor which is my personal preference for doing small bits of code it s even more lightweight than notepad++\n')
+
+textpad	notepad	1
+('textpad', 'more advanced', 'notepad', '', '1860622', 'as it happens my choice is textpad but just about anything which is more advanced than notepad ought to be able to do this\n')
+
+boxlayout	gridbaglayout	2
+('boxlayout', 'far easier', 'gridbaglayout', 'usability', '1905090', 'boxlayout is far easier than gridbaglayout because you don t have to learn how to specify constraints\n')
+('boxlayout', 'easier', 'gridbaglayout', 'usability', '1905090', 'boxlayout is far easier than gridbaglayout because you don t have to learn how to specify constraints\n')
+
+xslt	xquery	2
+('xquery', 'more strongly', 'xslt', '', '1908876', 'unless you are using the static typing feature xquery is no more strongly typed than xslt\n')
+('xslt', 'better', 'xquery', '', '1907942', 'as for whether to use xslt or xquery the proof is in the pudding xslt is better at transforms and xquery is better at queries\n')
+
+malloc	free	1
+('malloc', 'bigger', 'free', 'memory', '1920516', 'here is a solution which encapsulates the call to malloc allocates a bigger buffer for alignment purpose and stores the original allocated address just before the aligned buffer for a later call to free\n')
+
+subreports	ireport	1
+('subreports', 'better', 'ireport', '', '1936127', 'if your report is complicated and have many subreports and subdatasets its better to go this approach since ireport will make it quicker and easier for you to design and maintain later\n')
+
+switching	screens	1
+('switching', 'bigger', 'screens', 'memory', '1959842', 'when the switching gets bigger than a couple of screens full split it into functions that handle each state using a state table to look up the function directly\n')
+
+nvidia	ati	1
+('nvidia', 'more flexible', 'ati', 'usability', '1962928', '4 is nvidia cuda technology is easier more flexible than ati brook+ language\n')
+
+strcpy	strdup	1
+('strcpy', 'nicer', 'strdup', '', '1969127', 'in general it is nicer in c to have the caller allocate memory not the callee - hence why strcpy is a nicer function in my opinion than strdup\n')
+
+range	minimum	1
+('range', 'smaller', 'minimum', 'memory', '1990334', 'a range is contiguous when there is no value one smaller than the minimum and no value one bigger than the maximum and there is no gap within the range\n')
+
+spsite	spweb	2
+('spsite', 'longer url', 'spweb', '', '2000182', 'since spsite takes a longer url you may also be able to open the right spweb as well using site.openweb\n')
+('spsite', 'longer', 'spweb', '', '2000182', 'since spsite takes a longer url you may also be able to open the right spweb as well using site.openweb\n')
+
+config	ini	1
+('config', 'faster', 'ini', 'performance', '2015715', 'since json can store arrays i can create quite complex config with it and it parses faster than ini files\n')
+
+range	max	1
+('range', 'larger', 'max', 'memory', '2022693', 'basically if you know that your events are never larger than a given duration you can search for a bounded range that s larger than the max duration then add restrictions to get rid of the extra stuff that matched\n')
+
+stripes	struts	2
+('stripes', 'better', 'struts', '', '2051851', 'stripes the actionbean approach doesn t look much better than struts\n')
+('stripes', 'more lightweight', 'struts', 'memory', '2085070', 'i ve found stripes to be really effective and surprisingly lightweight....it aims to be more lightweight than struts\n')
+
+gedit	komodo	1
+('gedit', 'quicker', 'komodo', '', '2066036', 'when i m in a hurry i use gedit purely because it is quicker than komodo edit\n')
+
+calloc	malloc	1
+('calloc', 'longer', 'malloc', '', '2076025', 'calloc does take longer than malloc because it has to zero out all the memory you asked for before giving it to you\n')
+
+nunit	mbunit	1
+('nunit', 'more widespread', 'mbunit', '', '2089364', 'nunit is more widespread mbunit has the most features but mstest has more manpower behind it\n')
+
+mod-alias	mod-rewrite	1
+('mod-alias', 'faster', 'mod-rewrite', 'performance', '2096899', 'evidently though mod-alias can be somewhat faster than mod-rewrite all other things being equal of course\n')
+
+floating-point	fractions	2
+('floating-point', 'values more', 'fractions', '', '2132643', 'and using floating-point values is more realistic - you need fractions values because when you rotate something the new coordinates will nearly always be non integral\n')
+('floating-point', 'values more realistic', 'fractions', '', '2132643', 'and using floating-point values is more realistic - you need fractions values because when you rotate something the new coordinates will nearly always be non integral\n')
+
+webclient	httpwebrequest	2
+('webclient', 'much simpler', 'httpwebrequest', 'usability', '2152421', 'you can also use webclient which is much simpler than httpwebrequest but in order to set a cookiecontainer you ll need to derive from webclient and override the protected getwebrequest method\n')
+('webclient', 'simpler', 'httpwebrequest', 'usability', '2152421', 'you can also use webclient which is much simpler than httpwebrequest but in order to set a cookiecontainer you ll need to derive from webclient and override the protected getwebrequest method\n')
+
+mouseenter	mouseover	1
+('mouseenter', 'better choice', 'mouseover', '', '2157980', 'the mouseenter event is usually a better choice than mouseover\n')
+
+fadein	fadeout	1
+('fadein', 'longer', 'fadeout', '', '2165425', 'more detail set the amount of time the animation will take for fadeout and use a delay for the fadein animation that is longer than the fadeout animation time\n')
+
+websphere	ibm	1
+('websphere', 'newer libraries', 'ibm', '', '2183918', 'other solution is to upgrade websphere with newer libraries as per ibm websphere upgrade service instructions\n')
+
+saaj	jax-ws	1
+('saaj', 'lower level', 'jax-ws', '', '2205637', 'one could use saaj soap with attachments api for java which runs at a lower level than jax-ws\n')
+
+jruby	mri	1
+('jruby', 'heavier', 'mri', '', '2224831', 'the jruby runtime alone is already pretty heavy much heavier than mri\n')
+
+zen-cart	magento	1
+('zen-cart', 'simpler', 'magento', 'usability', '2225598', 'alternatively zen-cart looks simpler than magento but without some of the flexibility\n')
+
+strtol	atoi	1
+('strtol', 'much better', 'atoi', '', '2238063', 'the c function strtol is much better make it a habit to prefer that one to atoi\n')
+
+glfw	glut	1
+('glfw', 'much closer', 'glut', '', '2254966', 'between these glfw is much closer to glut in character -- a small toolkit for abstracting away most of the os-dependent parts so you can produce opengl programs with relatively little hassle\n')
+
+uppercase	tolower	1
+('uppercase', 'comparison more', 'tolower', '', '2256479', 'further uppercase comparison is more optimized than tolower if that tiny degree of performance matters\n')
+
+daemons	systemd	1
+('daemons', 'safer', 'systemd', 'security', '2277474', 'use daemons mode and then simply touching the wsgi script file when an atomic set of changes have been completed isn t that hard and certainly safer than a systemd which restarts arbitrarily when it detects any single change\n')
+
+openpgp	x509	1
+('openpgp', 'simpler', 'x509', 'usability', '2282055', 'openpgp is simpler than x509 but more limited especially if you wish to have a strong legal meaning behind the certificates\n')
+
+tcpdf	fpdf	1
+('tcpdf', 'slower', 'fpdf', 'performance', '2285314', 'if anyone has some information on this problem i d really appreciate it - either things you did to make tcpdf faster or just confirmation that it runs slower than fpdf so i can forget about it and just stick with fpdf\n')
+
+openrasta	wcf	2
+('openrasta', 'simpler', 'wcf', 'usability', '2288413', 'building restful services with openrasta is much simpler than with wcf in my experience\n')
+('openrasta', 'much simpler', 'wcf', 'usability', '2288413', 'building restful services with openrasta is much simpler than with wcf in my experience\n')
+
+icmp	udp	1
+('icmp', 'slower', 'udp', 'performance', '2290931', 'an icmp packet has a header that is 20 bytes and is probably going to be slightly slower than udp\n')
+
+opera	google-chrome	1
+('opera', 'longer', 'google-chrome', '', '2294832', 'also nice to know is the fact that the latest version of google-chrome and also opera don t know since when but longer than google-chrome supports userscripts out of the box no need to install any add-ons\n')
+

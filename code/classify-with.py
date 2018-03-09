@@ -29,6 +29,8 @@ pos_tag_set = {"JJR", "RBR", "JJ", "NN", "NNS", "NNP", "NNPS", "RB", "RBR", "RBS
 tag_set = {"CIN", "CV", "VB", "VBZ", "VBD", "VBG", "VBN", "VBP"}
 recordings = {}
 
+
+
 def add_patterns(matcher):
     matcher.add(0,
                 None,
@@ -87,6 +89,46 @@ def add_patterns(matcher):
     #             [{'ORTH': 'TECH'}, {'ORTH': 'VBZ'}, {}, {'ORTH': 'RBS'}],
     #             [{'ORTH': 'TECH'}, {}, {'ORTH': 'VBZ'}, {}, {'ORTH': 'RBS'}])
 
+ignore_set = {"more", "less"}
+
+memory = {'memory', 'space', 'size', 'disk', 'lighter', 'lightweight',
+          'light-weight', 'heavy', 'heavyweight', 'heavy-weight', 'smaller',
+          'larger', 'bigger', 'huger'}
+usability = {'experience', 'option', 'options', 'function', 'functionality',
+             'support', 'access', 'development', 'framework', 'approach',
+             'range', 'control', 'feature', 'features', 'application',
+             'applications', 'structure', 'constraints', 'usage', 'flexibility',
+             'capabilities', 'usability', 'implementation', 'control', 'mode',
+             'complexity', 'easier', 'useful', 'functional', 'compact',
+             'complicated', 'complex', 'simplicity', 'simpler', 'powerful',
+             'flexible', 'concise', 'elegant', 'comfortable', 'readable',
+             'compatible', 'incompatible', 'user-friendly', 'extensible',
+             'capable', 'available', 'popular', 'convenient', 'portable'}
+performance = {'overhead', 'quality', 'runtime', 'speed', 'time', 'performance',
+               'efficient', ' quicker', 'slower', 'faster', 'consistent'
+               'effective', 'inefficient', 'accurate'}
+security = {'security', 'safer', 'securer', 'private'}
+reliability = {'error', 'errors', 'lifetime', 'reliable', 'robust', 'stable'}
+
+
+def extract_topic(out_list):
+    if len(out_list) == 1 and out_list[0] in ignore_set:
+        return None
+    else:
+        for w in out_list:
+            if w in memory:
+                return "memory"
+            elif w in usability:
+                return "usability"
+            elif w in performance:
+                return "performance"
+            elif w in security:
+                return "security"
+            elif w in reliability:
+                return "reliability"
+        return ""
+
+
 def classify(no):
     num = 0
     compa_sent_count = 0
@@ -131,7 +173,7 @@ def classify(no):
                     patterns = matcher(nlp(pos))
                     if patterns != []:
                         compa_sent_count += 1
-                        data_file = open(os.path.join(os.pardir, "out", "tech_v6", "sentences.txt"), "a")
+                        data_file = open(os.path.join(os.pardir, "example", "sentences.txt"), "a")
                         data_file.write("{}\n".format(current_id))
                         data_file.write("{}\n".format("\t".join(techs)))
                         tech_pair = []
@@ -152,16 +194,17 @@ def classify(no):
                                         else:
                                             techb = words[i]
                                             if (techa, techb) in tech_pair or (techb, techa) in tech_pair:
-
-                                                data_file.write(" ".join(out_list))
-                                                data_file.write("\t")
-                                                if (techa, techb) in recordings:
-                                                    recordings[(techa, techb)].add("{} {} {} {}".format(current_id, techa, " ".join(out_list), techb))
-                                                elif (techb, techa) in recordings:
-                                                    recordings[(techb, techa)].add("{} {} {} {}".format(current_id, techa, " ".join(out_list), techb))
-                                                else:
-                                                    recordings[(techa, techb)] = set()
-                                                    recordings[(techa, techb)].add("{} {} {} {}".format(current_id, techa, " ".join(out_list), techb))
+                                                topic = extract_topic(out_list)
+                                                if topic is not None:
+                                                    data_file.write(" ".join(out_list))
+                                                    data_file.write("\t")
+                                                    if (techa, techb) in recordings:
+                                                        recordings[(techa, techb)].add((techa, " ".join(out_list), techb, topic, current_id, line))
+                                                    elif (techb, techa) in recordings:
+                                                        recordings[(techb, techa)].add((techa, " ".join(out_list), techb, topic, current_id, line))
+                                                    else:
+                                                        recordings[(techa, techb)] = set()
+                                                        recordings[(techa, techb)].add((techa, " ".join(out_list), techb, topic, current_id, line))
                                             techa = ""
                                             techb = ""
                                             out_list = []
@@ -178,7 +221,7 @@ def classify(no):
 print(datetime.datetime.now())
 
 try:
-    for i in range(1, 83):
+    for i in range(1, 30):
         (c, t) = classify(i)
         total_compa += c
         total_sent += t
@@ -195,14 +238,15 @@ try:
 # for proc in procs:
 #     proc.join()
 finally:
-    with open(os.path.join(os.pardir, "examples", "relations.txt"), "a") as recordings_file:
+    with open(os.path.join(os.pardir, "example", "relations.txt"), "a") as recordings_file:
         recordings_file.write(str(len(recordings))+"\n\n")
         for key, values in recordings.items():
             recordings_file.write(key[0]+"\t"+key[1]+"\t"+str(len(values))+"\n")
             for value in values:
-                recordings_file.write(value+"\n")
+                # recordings_file.write(" ".join(value)+"\n")
+                recordings_file.write(str(value)+'\n')
             recordings_file.write("\n")
     print("{} / {}".format(total_compa, total_sent))
-    with open(os.path.join(os.pardir, "examples", "relations.pkl"), 'wb') as output_file:
+    with open(os.path.join(os.pardir, "example", "relations.pkl"), 'wb') as output_file:
         pickle.dump(recordings, output_file)
     print(datetime.datetime.now())

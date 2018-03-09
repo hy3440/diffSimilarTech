@@ -1,33 +1,16 @@
-### 1. Tech pairs & comparative relations
+### Relations
 
-**730** tech pairs: [recordings.txt](https://github.com/hy3440/diffSimilarTech/blob/master/out/tech_v6/recordings.txt)
+The extracted relations are represented by a dictionary in [relations.pkl](https://github.com/hy3440/diffSimilarTech/blob/master/example/relations.pkl). As [relations.txt](https://github.com/hy3440/diffSimilarTech/blob/master/example/relations.txt) shows, there are 250 `TECH` pairs and the format is:
 
-**6857** [comparative sentences](https://github.com/hy3440/diffSimilarTech/blob/master/out/tech_v6/sentences_.txt)/ **596765** sentences containing similar techs
+```
+{(TECHA, TECHB): (TECH1, RELATION, TECH2, TOPIC, POST ID, SENTENCE)}
+```
 
-Post ID from 0 to **12,900,000**
+Note: the `TOPIC` is `""` means it is not specified topic yet.
 
-| No   | Pattern           |
-| ---- | ----------------- |
-| 0    | JJR * CIN * TECH  |
-| 8    | RBR JJ * CIN TECH |
-| 7    | TECH * VBZ * JJR  |
-| 10   | TECH * VBZ * RBR  |
+### Appendix
 
-**Tech1** is **JJR** than **Tech2**
-
-**Tech1** is **more JJ** than **Tech2**
-
-**Tech1** VBZ (e.g. uses, has) **more NN** than **Tech2**
-
-### 2. Word frequency & topics
-
-[adjective.txt](https://github.com/hy3440/diffSimilarTech/blob/master/out/tech_v6/adjective.txt)
-
-[noun.txt](https://github.com/hy3440/diffSimilarTech/blob/master/out/tech_v6/noun.txt)
-
-[word_frequency.txt](https://github.com/hy3440/diffSimilarTech/blob/master/out/tech_v6/word_frequency_v5.txt)
-
-| Topic       | Keywords (nouns)                                             | Keywords (adjectives)                                        |
+| Topic       | Relation keywords (nouns)                                    | Relation keywords (adjectives)                               |
 | ----------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Memory      | memory, space, size, disk                                    | lighter, lightweight, light-weight, heavy, heavyweight, heavy-weight, smaller, larger, bigger, huge, |
 | Usability   | experience, option, options, function, functionality, support, access, development, framework, approach, range, control, feature, features, application, applications, structure, constraints, usage, flexibility, capabilities, usability, implementation, control, mode, complexity | easier, useful, functional, compact, complicated, complex, simplicity, simpler, powerful, flexible, concise, elegant, comfortable, readable, compatible, incompatible, user-friendly, extensible, capable, available, popular, convenient, portable |
