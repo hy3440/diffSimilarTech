@@ -152,6 +152,7 @@ def classify(no):
                                         else:
                                             techb = words[i]
                                             if (techa, techb) in tech_pair or (techb, techa) in tech_pair:
+
                                                 data_file.write(" ".join(out_list))
                                                 data_file.write("\t")
                                                 if (techa, techb) in recordings:
@@ -181,10 +182,10 @@ try:
         (c, t) = classify(i)
         total_compa += c
         total_sent += t
-    for i in range(100, 106):
-        (c, t) = classify(i)
-        total_compa += c
-        total_sent += t
+    # for i in range(100, 106):
+    #     (c, t) = classify(i)
+    #     total_compa += c
+    #     total_sent += t
 # datalist = [1, 2, 3, 4, 5, 6, 7, 8]
 # procs = []
 # for i in range(8):
@@ -194,7 +195,7 @@ try:
 # for proc in procs:
 #     proc.join()
 finally:
-    with open(os.path.join(os.pardir, "out", "tech_v6", "recordings.txt"), "a") as recordings_file:
+    with open(os.path.join(os.pardir, "examples", "relations.txt"), "a") as recordings_file:
         recordings_file.write(str(len(recordings))+"\n\n")
         for key, values in recordings.items():
             recordings_file.write(key[0]+"\t"+key[1]+"\t"+str(len(values))+"\n")
@@ -202,6 +203,6 @@ finally:
                 recordings_file.write(value+"\n")
             recordings_file.write("\n")
     print("{} / {}".format(total_compa, total_sent))
-    with open(os.path.join(os.pardir, "data", "recordings.pkl"), 'wb') as output_file:
+    with open(os.path.join(os.pardir, "examples", "relations.pkl"), 'wb') as output_file:
         pickle.dump(recordings, output_file)
     print(datetime.datetime.now())
