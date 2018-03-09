@@ -137,7 +137,7 @@ def classify(no):
         nlp = spacy.load('en')
         matcher = Matcher(nlp.vocab)
         add_patterns(matcher)
-        with open(os.path.join(os.pardir, "out", "tech_v6", "{}.txt".format(no))) as data_file:
+        with open(os.path.join(os.pardir, "out", "tech", "{}.txt".format(no))) as data_file:
             compa_sent_count = 0
             for line in data_file:
                 if num % 4 == 0:
@@ -238,7 +238,7 @@ try:
 # for proc in procs:
 #     proc.join()
 finally:
-    with open(os.path.join(os.pardir, "example", "relations.txt"), "a") as recordings_file:
+    with open(os.path.join(os.pardir, "relation", "relations.txt"), "a") as recordings_file:
         recordings_file.write(str(len(recordings))+"\n\n")
         for key, values in recordings.items():
             recordings_file.write(key[0]+"\t"+key[1]+"\t"+str(len(values))+"\n")
@@ -247,6 +247,6 @@ finally:
                 recordings_file.write(str(value)+'\n')
             recordings_file.write("\n")
     print("{} / {}".format(total_compa, total_sent))
-    with open(os.path.join(os.pardir, "example", "relations.pkl"), 'wb') as output_file:
+    with open(os.path.join(os.pardir, "relation", "relations.pkl"), 'wb') as output_file:
         pickle.dump(recordings, output_file)
     print(datetime.datetime.now())
