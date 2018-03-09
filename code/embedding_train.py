@@ -30,5 +30,5 @@ class MySentences(object):
             print("current_id: {}".format(current_id))
 
 sentences = MySentences()
-model = gensim.models.Word2Vec(sentences, min_count=20, size=200, workers=8)
+model = gensim.models.Word2Vec(sentences, min_count=20, size=200, workers=4)
 model.save(fname)
