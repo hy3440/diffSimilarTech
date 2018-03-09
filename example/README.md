@@ -6,7 +6,7 @@ The extracted relations are represented by a dictionary in [relations.pkl](https
 {(TECHA, TECHB): (TECH1, RELATION, TECH2, TOPIC, POST ID, SENTENCE)}
 ```
 
-Note: the `TOPIC` is `""` means it is not specified topic yet.
+Note: the `TOPIC` is `''` means it is not specified topic yet.
 
 ### Appendix
 
