@@ -1,3 +1,7 @@
+"""
+Process similar tech pairs.
+"""
+
 import os
 import pickle
 import mysql.connector

@@ -1,3 +1,7 @@
+"""
+Count word frequency.
+"""
+
 from nltk.corpus import stopwords
 from nltk.tag.stanford import CoreNLPPOSTagger
 import operator

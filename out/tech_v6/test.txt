@@ -1,3 +1,0 @@
-277564bluecloth	rdiscount
-pattern8		
-rdiscount seems to be much faster and more reliable than bluecloth

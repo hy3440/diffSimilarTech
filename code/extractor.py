@@ -1,3 +1,8 @@
+"""
+This script extracts comparative sentences based on different patterns and
+extracts topic.
+"""
+
 import datetime
 import io
 from multiprocessing import Process
@@ -10,6 +15,8 @@ from spacy.matcher import Matcher
 
 total_compa = 0
 total_sent = 0
+
+# Comparative verbs
 cv = {"beat", "beats", "prefer", "prefers", "recommend", "recommends",
       "defeat", "defeats", "kill", "kills", "lead", "leads", "obliterate",
       "obliterates", "outclass", "outclasses", "outdo", "outdoes",
@@ -21,6 +28,8 @@ cv = {"beat", "beats", "prefer", "prefers", "recommend", "recommends",
       "picks", "purchase", "purchases", "select", "selects", "race",
       "races", "compete", "competes", "match", "matches", "compare",
       "compares", "lose", "loses", "suck", "sucks"}
+
+# Comparative prepositions
 cin = {"than", "over", "beyond", "upon", "as", "against", "out", "behind",
        "under", "between", "after", "unlike", "with", "by", "opposite", "to"}
 
@@ -30,8 +39,11 @@ tag_set = {"CIN", "CV", "VB", "VBZ", "VBD", "VBG", "VBN", "VBP"}
 recordings = {}
 
 
-
 def add_patterns(matcher):
+    """ Add custom patterns to mathcer.
+
+        (Matcher) -> None
+    """
     matcher.add(0,
                 None,
                 [{'ORTH': 'JJR'}, {'ORTH': 'CIN'}, {'ORTH': 'TECH'}],
@@ -91,6 +103,7 @@ def add_patterns(matcher):
 
 ignore_set = {"more", "less"}
 
+# Topic keywords
 memory = {'memory', 'space', 'size', 'disk', 'lighter', 'lightweight',
           'light-weight', 'heavy', 'heavyweight', 'heavy-weight', 'smaller',
           'larger', 'bigger', 'huger'}
@@ -112,6 +125,10 @@ reliability = {'error', 'errors', 'lifetime', 'reliable', 'robust', 'stable'}
 
 
 def extract_topic(out_list):
+    """ Extract topic from the sentence.
+
+        ([str]) -> str
+    """
     if len(out_list) == 1 and out_list[0] in ignore_set:
         return None
     else:
@@ -129,7 +146,41 @@ def extract_topic(out_list):
         return ""
 
 
-def classify(no):
+def get_pos_tag(techs, words):
+    """ Get POS tag of words.
+
+        ([str], [str]) -> ([str], [str])
+    """
+    tag_list = []
+    flag = False
+    tagged_words = CoreNLPPOSTagger(url='http://localhost:9000').tag(words)
+    if len(words) != len(tagged_words):
+        tagged_words = pos_tag(words)
+    words = []
+    for (word, tag) in tagged_words:
+        if flag:
+            word = "." + word
+            flag = False
+        if tag == "IN" and word in cin:
+            tag_list.append("CIN")
+        elif word in cv:
+            tag_list.append("CV")
+        elif word in techs:
+            tag_list.append("TECH")
+        elif word == ".":
+            flag = True
+            continue
+        else:
+            tag_list.append(tag)
+        words.append(word)
+    return (words, tag_list)
+
+
+def extract(no):
+    """ Extract comparative sentences and topics.
+
+        (int) -> (int, int)
+    """
     num = 0
     compa_sent_count = 0
     current_id = 0
@@ -146,38 +197,15 @@ def classify(no):
                     techs = line.split("\t")
                     techs[-1] = techs[-1].strip()
                 elif num % 4 == 2:
-                    tag_list = []
-                    flag = False
-                    words = line.split()
-                    tagged_words = CoreNLPPOSTagger(url='http://localhost:9000').tag(words)
-                    if len(words) != len(tagged_words):
-                        tagged_words = pos_tag(words)
-                    words = []
-                    for (word, tag) in tagged_words:
-                        if flag:
-                            word = "." + word
-                            flag = False
-                        if tag == "IN" and word in cin:
-                            tag_list.append("CIN")
-                        elif word in cv:
-                            tag_list.append("CV")
-                        elif word in techs:
-                            tag_list.append("TECH")
-                        elif word == ".":
-                            flag = True
-                            continue
-                        else:
-                            tag_list.append(tag)
-                        words.append(word)
-                    pos = " ".join(tag_list)
-                    patterns = matcher(nlp(pos))
+                    (words, tag_list) = get_pos_tag(techs, line.split())
+                    patterns = matcher(nlp(" ".join(tag_list)))
                     if patterns != []:
                         compa_sent_count += 1
                         data_file = open(os.path.join(os.pardir, "example", "sentences.txt"), "a")
                         data_file.write("{}\n".format(current_id))
                         data_file.write("{}\n".format("\t".join(techs)))
                         tech_pair = []
-                        for i in range(int(len(techs) / 2)):
+                        for i in range(0, len(techs), 2):
                             tech_pair.append((techs[i], techs[i+1]))
                         for (pattern, start, end) in patterns:
                             data_file.write("pattern"+str(pattern)+"\t")
@@ -222,7 +250,7 @@ print(datetime.datetime.now())
 
 try:
     for i in range(1, 30):
-        (c, t) = classify(i)
+        (c, t) = extract(i)
         total_compa += c
         total_sent += t
     # for i in range(100, 106):

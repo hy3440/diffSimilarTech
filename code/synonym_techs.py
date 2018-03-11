@@ -1,3 +1,7 @@
+"""
+Process synonyms.
+"""
+
 import os
 import pickle
 import mysql.connector

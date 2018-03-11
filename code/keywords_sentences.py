@@ -1,3 +1,7 @@
+"""
+Extract comparative sentences containing keywords.
+"""
+
 from bs4 import BeautifulSoup
 import keywords
 import nltk

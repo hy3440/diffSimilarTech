@@ -1,3 +1,7 @@
+"""
+This stript is used to test POS Tagger and Dependency Parser of CoreNLP.
+"""
+
 from nltk import pos_tag
 from nltk.tag.stanford import CoreNLPPOSTagger
 from nltk.parse.corenlp import CoreNLPDependencyParser

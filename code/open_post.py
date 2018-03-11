@@ -1,3 +1,8 @@
+"""
+Open Post.
+python3 open_post.py $POSTID
+"""
+
 import mysql.connector
 import os
 # import pymysql.cursors

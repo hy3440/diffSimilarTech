@@ -1,3 +1,7 @@
+"""
+gensim LDA model.
+"""
+
 import gensim
 from nltk.corpus import stopwords
 import os

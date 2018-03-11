@@ -1,3 +1,7 @@
+"""
+Build pattern matcher.
+"""
+
 import nltk
 import os.path
 from prepros import add_patterns, get_words

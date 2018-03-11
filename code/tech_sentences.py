@@ -1,3 +1,7 @@
+"""
+Extract sentences containing similar tech pairs.
+"""
+
 import datetime
 from multiprocessing import Process
 import mysql.connector
@@ -17,62 +21,27 @@ synonyms_file.close()
 print(datetime.datetime.now())
 
 
-def contains_key_techs(words):
-    techs = []
-    for key in similar_techs.keys():
-        if key in words:
-            for value in similar_techs[key]:
-                if value in words:
-                    techs.append(key)
-                    techs.append(value)
-    if len(techs) == 0:
-        return None
-    else:
-        return (" ".join(words), "\t".join(techs))
+def contains_tech(synonym, words):
+    """ Test if words contains synonym.
 
-
-def contains_tech(tech, words):
-    if "_" in tech:
-        tech_list = tech.split("_")
-        n = len(tech_list)
+        (str, [str]) -> bool
+    """
+    if "_" in synonym:
+        synonym_list = synonym.split("_")
+        n = len(synonym_list)
         for i in range(len(words) - n + 1):
-            if tech_list == words[i:i+n]:
+            if synonym_list == words[i:i+n]:
                 return True
         return False
     else:
-        return tech in words
-
-
-def check_tech_pairs(words):
-    for first in similar_techs.keys():
-        for first_tech in synonyms[first]:
-            if contains_tech(first_tech, words):
-                line = " ".join(words)
-                line = line.replace(first_tech, first)
-                words = line.split(" ")
-                for second in similar_techs[first]:
-                    for second_tech in synonyms[second]:
-                        if contains_tech(second_tech, words):
-                            line = " ".join(words)
-                            line = line.replace(second_tech, second)
-                            return (line, first+"\t"+second)
-    return None
-
-
-def check_tech_pairs_v2(words):
-    techs_list = []
-    for key, values in synonyms.items():
-        for value in values:
-            if contains_tech(value, words):
-                techs_list.append((value, key, len(value)))
-    for(synonym, tech, l) in sorted(techs_list, key=operator.itemgetter(2), reverse=True):
-        if contains_tech(synonym, words):
-            line = " ".join(words).replace(synonym, tech)
-            words = line.split()
-    return contains_key_techs(words)
+        return synonym in words
 
 
 def replace_synonym(synonym, tech, words):
+    """ Replace the synonym in words with tech.
+
+        (str, str, [str]) -> [str]
+    """
     rtn = []
     if "_" in synonym:
         synonym_list = synonym.split("_")
@@ -96,7 +65,11 @@ def replace_synonym(synonym, tech, words):
     return rtn
 
 
-def check_tech_pairs_v3(words):
+def check_tech_pairs(words):
+    """ Test if words contain similar tech pairs and replace synonym with tech.
+
+        ([str]) -> (str, str)
+    """
     techs_list = []
     count = 0
     tech_pairs = []
@@ -117,6 +90,7 @@ def check_tech_pairs_v3(words):
                     techs_list += first_temp
                     techs_list += second_temp
 
+    # Replace synonyms with techs in descending order of length.
     for (synonym, tech, l) in sorted(techs_list, key=operator.itemgetter(2), reverse=True):
         if synonym != tech:
             words = replace_synonym(synonym, tech, words)
@@ -128,12 +102,12 @@ def check_tech_pairs_v3(words):
             rtn.append(second)
 
     if len(rtn) > 0:
-        return (" ".join(words), "\t".join(rtn))
+        return (" ".join(words), "\t".join(rtn)) # (sentence, tech pairs)
     else:
         return None
 
 
-def some_function(start):
+def main(start):
     compa_sent_count = 0
     total_sent_count = 0
     post_count = 0
@@ -152,7 +126,7 @@ def some_function(start):
             total_sent_count += len(word_list)
 
             for words in word_list:
-                rtn = check_tech_pairs_v3(words)
+                rtn = check_tech_pairs(words)
                 if rtn is not None:
                     compa_sent_count += 1
                     data_file = open(os.path.join(os.pardir, "out", "tech_v6", "{}.txt".format(os.getpid())), "a")
@@ -170,7 +144,7 @@ datalist = [44900000, 45300000, 45700000, 46100000, 46500000, 46900000, 47300000
 
 procs = []
 for i in range(8):
-    proc = Process(target=some_function, args=(datalist[i],))
+    proc = Process(target=main, args=(datalist[i],))
     procs.append(proc)
     proc.start()
 

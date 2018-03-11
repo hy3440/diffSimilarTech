@@ -1,3 +1,7 @@
+"""
+Extract comparative sentences based on different patterns.
+"""
+
 import nltk
 import os.path
 from prepros import get_cv_and_cin, add_patterns, get_words

@@ -1,3 +1,8 @@
+"""
+Extract comparative sentences based on similar techs and classify according to
+different patterns.
+"""
+
 import datetime
 from multiprocessing import Pool
 from multiprocessing.dummy import Pool as ThreadPool
@@ -17,10 +22,6 @@ print datetime.datetime.now()
 # post_count = 0
 
 
-
-
-
-
 # start = 0
 # start = 0
 # end = 800
@@ -36,6 +37,7 @@ def contains_tech(tech, words):
         return False
     else:
         return tech in words
+
 
 def check_tech_pairs(words):
     for first in pairs.keys():
