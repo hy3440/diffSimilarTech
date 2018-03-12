@@ -89,35 +89,38 @@ def add_patterns(matcher):
 nlp = spacy.load('en')
 matcher = Matcher(nlp.vocab)
 add_patterns(matcher)
-flag = False
-tag_list = []
+
 tech_pair = ["python", "java"]
 tags = []
-line = "python isn t much faster than java"
-words = line.split()
-tagged_words = CoreNLPPOSTagger(url='http://localhost:9000').tag(words)
-if len(words) != len(tagged_words):
-    tagged_words = pos_tag(words)
-for (word, tag) in tagged_words:
-# for (word, tag) in CoreNLPPOSTagger(url='http://localhost:9000').tag(line.split()):
-    if flag:
-        word = "." + word
-        flag = False
-    if tag == "IN" and word in cin:
-        tag_list.append("CIN")
-    elif word in cv:
-        tag_list.append("CV")
-    elif word in tech_pair:
-        tag_list.append("TECH")
-    elif word == ".":
-        flag = True
-        continue
-    else:
-        tag_list.append(tag)
-    words.append(word)
+line = input(">>>")
+while(line != "/"):
+    flag = False
+    tag_list = []
+    words = line.split()
+    tagged_words = CoreNLPPOSTagger(url='http://localhost:9000').tag(words)
+    if len(words) != len(tagged_words):
+        tagged_words = pos_tag(words)
+    for (word, tag) in tagged_words:
+    # for (word, tag) in CoreNLPPOSTagger(url='http://localhost:9000').tag(line.split()):
+        if flag:
+            word = "." + word
+            flag = False
+        if tag == "IN" and word in cin:
+            tag_list.append("CIN")
+        elif word in cv:
+            tag_list.append("CV")
+        elif word in tech_pair:
+            tag_list.append("TECH")
+        elif word == ".":
+            flag = True
+            continue
+        else:
+            tag_list.append(tag)
+        words.append(word)
 
-for i in range(len(tag_list)):
-    print(words[i]+": "+tag_list[i])
+    for i in range(len(tag_list)):
+        print(words[i]+": "+tag_list[i])
+    line = input(">>>")
 # for i in range(len(words)):
 #     print(words[i]+": "+tag_list[i]+"\t"+tags[i])
 # print(len(tag_list))

@@ -8,6 +8,7 @@ import io
 from multiprocessing import Process
 from nltk import pos_tag
 from nltk.tag.stanford import CoreNLPPOSTagger
+import operator
 import os.path
 import pickle
 import spacy
@@ -15,6 +16,7 @@ from spacy.matcher import Matcher
 
 total_compa = 0
 total_sent = 0
+total_pattern234 = 0
 
 # Comparative verbs
 cv = {"beat", "beats", "prefer", "prefers", "recommend", "recommends",
@@ -34,9 +36,16 @@ cin = {"than", "over", "beyond", "upon", "as", "against", "out", "behind",
        "under", "between", "after", "unlike", "with", "by", "opposite", "to"}
 
 pattern_set = {0, 8, 7, 10}
-pos_tag_set = {"JJR", "RBR", "JJ", "NN", "NNS", "NNP", "NNPS", "RB", "RBR", "RBS", "JJS"}
+pos_tag_set = {"JJR", "JJS", "JJ", "NN", "NNS", "NNP", "NNPS", "RB", "RBR", "RBS"}
 tag_set = {"CIN", "CV", "VB", "VBZ", "VBD", "VBG", "VBN", "VBP"}
 recordings = {}
+# ignore_set = {"more", "less"}
+
+jjr = {}
+jj = {}
+nn = {}
+rbr = {}
+other = {}
 
 
 def add_patterns(matcher):
@@ -93,7 +102,11 @@ def add_patterns(matcher):
                 [{'ORTH': 'TECH'}, {'ORTH': 'VBZ'}, {'ORTH': 'JJR'}],
                 [{'ORTH': 'TECH'}, {}, {'ORTH': 'VBZ'}, {'ORTH': 'JJR'}],
                 [{'ORTH': 'TECH'}, {'ORTH': 'VBZ'}, {}, {'ORTH': 'JJR'}],
-                [{'ORTH': 'TECH'}, {}, {'ORTH': 'VBZ'}, {}, {'ORTH': 'JJR'}])
+                [{'ORTH': 'TECH'}, {}, {'ORTH': 'VBZ'}, {}, {'ORTH': 'JJR'}]
+                [{'ORTH': 'TECH'}, {'ORTH': 'VBZ'}, {'ORTH': 'JJR'}, {}],
+                [{'ORTH': 'TECH'}, {}, {'ORTH': 'VBZ'}, {'ORTH': 'JJR'}, {}],
+                [{'ORTH': 'TECH'}, {'ORTH': 'VBZ'}, {}, {'ORTH': 'JJR'}, {}],
+                [{'ORTH': 'TECH'}, {}, {'ORTH': 'VBZ'}, {}, {'ORTH': 'JJR'}, {}])
     # matcher.add(9,
     #             None,
     #             [{'ORTH': 'TECH'}, {'ORTH': 'VBZ'}, {'ORTH': 'RBS'}],
@@ -101,7 +114,6 @@ def add_patterns(matcher):
     #             [{'ORTH': 'TECH'}, {'ORTH': 'VBZ'}, {}, {'ORTH': 'RBS'}],
     #             [{'ORTH': 'TECH'}, {}, {'ORTH': 'VBZ'}, {}, {'ORTH': 'RBS'}])
 
-ignore_set = {"more", "less"}
 
 # Topic keywords
 memory = {'memory', 'space', 'size', 'disk', 'lighter', 'lightweight',
@@ -124,15 +136,38 @@ security = {'security', 'safer', 'securer', 'private'}
 reliability = {'error', 'errors', 'lifetime', 'reliable', 'robust', 'stable'}
 
 
+def add_dict(dictionary, word):
+    """ Record word.
+
+        (dict, str) -> None
+    """
+    if word in dictionary:
+        dictionary[word] += 1
+    else:
+        dictionary[word] = 0
+
+
 def extract_topic(out_list):
     """ Extract topic from the sentence.
 
         ([str]) -> str
     """
-    if len(out_list) == 1 and out_list[0] in ignore_set:
-        return None
-    else:
-        for w in out_list:
+    # if len(out_list) == 1 and out_list[0] in ignore_set:
+    #     return None
+    # else:
+    if True:
+        for (w, t) in out_list:
+            if t[:2] == "NN":
+                add_dict(nn, w)
+            elif t == "jjr":
+                add_dict(jjr, w)
+            elif t == "jj":
+                add_dict(jj, w)
+            elif t == "rbr":
+                add_dict(rbr, w)
+            else:
+                add_dict(other, w)
+
             if w in memory:
                 return "memory"
             elif w in usability:
@@ -176,6 +211,51 @@ def get_pos_tag(techs, words):
     return (words, tag_list)
 
 
+def extract_pattern08710(current_id, techs, pattern, words, line, start, end, tag_list):
+    """ Extract topics for pattern 08710.
+
+        (int, [str], int, [str], str, int, int, [str]) -> None
+    """
+    data_file = open(os.path.join(os.pardir, "relation", "sentences.txt"), "a")
+    data_file.write("{}\n".format(current_id))
+    data_file.write("{}\n".format("\t".join(techs)))
+    tech_pair = []
+    for i in range(0, len(techs), 2):
+        tech_pair.append((techs[i], techs[i+1]))
+    data_file.write("pattern"+str(pattern)+"\t")
+    out_list = []
+    techa = ""
+    techb = ""
+    for i in range(len(words)):
+        if tag_list[i] == "TECH":
+            if techa == "":
+                techa = words[i]
+            elif out_list == []:
+                techa = words[i]
+            else:
+                techb = words[i]
+                if (techa, techb) in tech_pair or (techb, techa) in tech_pair:
+                    topic = extract_topic(out_list)
+                    if topic is not None:
+                        data_file.write(" ".join(out_list))
+                        data_file.write("\t")
+                        if (techa, techb) in recordings:
+                            recordings[(techa, techb)].add((techa, " ".join(out_list), techb, topic, current_id, line))
+                        elif (techb, techa) in recordings:
+                            recordings[(techb, techa)].add((techa, " ".join(out_list), techb, topic, current_id, line))
+                        else:
+                            recordings[(techa, techb)] = set()
+                            recordings[(techa, techb)].add((techa, " ".join(out_list), techb, topic, current_id, line))
+                techa = ""
+                techb = ""
+                out_list = []
+        if i in range(start, end):
+            if tag_list[i] in pos_tag_set and techa != "":
+                out_list.append((words[i], tag_list[i]))
+    data_file.write(str("\n{}\n".format(line)))
+    data_file.close()
+
+
 def extract(no):
     """ Extract comparative sentences and topics.
 
@@ -184,6 +264,7 @@ def extract(no):
     num = 0
     compa_sent_count = 0
     current_id = 0
+    pattern234 = 0
     try:
         nlp = spacy.load('en')
         matcher = Matcher(nlp.vocab)
@@ -201,58 +282,30 @@ def extract(no):
                     patterns = matcher(nlp(" ".join(tag_list)))
                     if patterns != []:
                         compa_sent_count += 1
-                        data_file = open(os.path.join(os.pardir, "example", "sentences.txt"), "a")
-                        data_file.write("{}\n".format(current_id))
-                        data_file.write("{}\n".format("\t".join(techs)))
-                        tech_pair = []
-                        for i in range(0, len(techs), 2):
-                            tech_pair.append((techs[i], techs[i+1]))
                         for (pattern, start, end) in patterns:
-                            data_file.write("pattern"+str(pattern)+"\t")
-                            out_list = []
                             if pattern in pattern_set:
-                                techa = ""
-                                techb = ""
-                                for i in range(len(words)):
-                                    if tag_list[i] == "TECH":
-                                        if techa == "":
-                                            techa = words[i]
-                                        elif out_list == []:
-                                            techa = words[i]
-                                        else:
-                                            techb = words[i]
-                                            if (techa, techb) in tech_pair or (techb, techa) in tech_pair:
-                                                topic = extract_topic(out_list)
-                                                if topic is not None:
-                                                    data_file.write(" ".join(out_list))
-                                                    data_file.write("\t")
-                                                    if (techa, techb) in recordings:
-                                                        recordings[(techa, techb)].add((techa, " ".join(out_list), techb, topic, current_id, line))
-                                                    elif (techb, techa) in recordings:
-                                                        recordings[(techb, techa)].add((techa, " ".join(out_list), techb, topic, current_id, line))
-                                                    else:
-                                                        recordings[(techa, techb)] = set()
-                                                        recordings[(techa, techb)].add((techa, " ".join(out_list), techb, topic, current_id, line))
-                                            techa = ""
-                                            techb = ""
-                                            out_list = []
-                                    if i in range(start, end):
-                                        if tag_list[i] in pos_tag_set and techa != "":
-                                            out_list.append(words[i])
-                        data_file.write(str("\n{}\n".format(line)))
-                        data_file.close()
+                                extract_pattern08710(current_id, techs, pattern, words, line, start, end, tag_list)
+                            else:
+                                pattern234 += 1
+                                data_file = open(os.path.join(os.pardir, "relation", "pattern234.txt"), "a")
+                                data_file.write("{}\n".format(current_id))
+                                data_file.write("{}\n".format("\t".join(techs)))
+                                data_file.write("pattern"+str(pattern)+"\t")
+                                data_file.write(str("\n{}\n".format(line)))
+                                data_file.close()
                 num += 1
     finally:
-        print("Proc {}: {}/{} from - to {}".format(os.getpid(), compa_sent_count, num/4, current_id))
-        return(compa_sent_count, num/4)
+        print("{}/{} from - to {}\n".format(compa_sent_count, num/4, current_id))
+        return(compa_sent_count, num/4, pattern234)
 
 print(datetime.datetime.now())
 
 try:
     for i in range(1, 30):
-        (c, t) = extract(i)
+        (c, t, p) = extract(i)
         total_compa += c
         total_sent += t
+        total_pattern234 += p
     # for i in range(100, 106):
     #     (c, t) = classify(i)
     #     total_compa += c
@@ -275,6 +328,35 @@ finally:
                 recordings_file.write(str(value)+'\n')
             recordings_file.write("\n")
     print("{} / {}".format(total_compa, total_sent))
+    print("{} pattern234\n")
+
     with open(os.path.join(os.pardir, "relation", "relations.pkl"), 'wb') as output_file:
         pickle.dump(recordings, output_file)
+
+    sorted_jjr = sorted(jjr.items(), key=operator.itemgetter(1), reverse=True)
+    sorted_jj = sorted(jj.items(), key=operator.itemgetter(1), reverse=True)
+    sorted_nn = sorted(nn.items(), key=operator.itemgetter(1), reverse=True)
+    sorted_rbr = sorted(rbr.items(), key=operator.itemgetter(1), reverse=True)
+    sorted_other = sorted(other.items(), key=operator.itemgetter(1), reverse=True)
+
+    with open(os.path.join(os.path.pardir, "relation", "jjr.txt"), "a") as out_file:
+        for word, frequency in sorted_jjr:
+            out_file.write("{:<20}{}\n".format(word, frequency))
+
+    with open(os.path.join(os.path.pardir, "relation", "jj.txt"), "a") as out_file1:
+        for word, frequency in sorted_jj:
+            out_file1.write("{:<20}{}\n".format(word, frequency))
+
+    with open(os.path.join(os.path.pardir, "relation", "nn.txt"), "a") as out_file2:
+        for word, frequency in sorted_nn:
+            out_file2.write("{:<20}{}\n".format(word, frequency))
+
+    with open(os.path.join(os.path.pardir, "relation", "rbr.txt"), "a") as out_file3:
+        for word, frequency in sorted_rbr:
+            out_file3.write("{:<20}{}\n".format(word, frequency))
+
+    with open(os.path.join(os.path.pardir, "relation", "other.txt"), "a") as out_file4:
+        for word, frequency in sorted_other:
+            out_file4.write("{:<20}{}\n".format(word, frequency))
+
     print(datetime.datetime.now())
