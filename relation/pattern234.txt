@@ -1,0 +1,430 @@
+583
+int	double
+pattern4	
+personally i prefer int string double etc
+
+2360
+mouse	keyboard
+pattern4	
+go to system preferences keyboard and mouse then choose keyboard shortcuts
+
+10232
+ant	maven
+pattern3	
+they do a great job for us and i would highly recommend using maven over ant
+
+20192
+cassini	iis
+pattern4	
+there are lots of good reasons to prefer iis over the cassini server articles by dominick baier
+
+20666
+hash	md5
+pattern4	
+to go along with what everyone here is saying i use hashtab when i need to generate compare md5 and sha1 hash on windows
+
+34295
+emacs	aquamacs
+pattern4	
+if it is emacs you want i would recommend aquamacs more mac-like or carbon emacs more gnu-emacs-like
+
+44638
+merb	ruby-on-rails
+pattern4	
+ok ruby-on-rails is actually pretty good but there is just a little bit too much magic going on in there from the ruby world i would much prefer merb to ruby-on-rails
+
+60137
+ubuntu	debian
+pattern4	
+i haven t decided which one yet but my understanding is that they ll give me a base os install i d prefer debian or ubuntu an ip address a root account ssh and that s about it
+
+62220
+postgresql	mysql
+pattern4	
+however the observation of database-locking stands - if you have particularly onerous updates sqlite performance won t match mysql or postgresql
+
+64644
+vim	emacs
+pattern4	
+i don t think you would want to wait 10 seconds for your text editor to become ready ...if you are going to spend some serious time coding then spend some time and learn to use vim emacs too but i recommend vim
+
+70375
+equals	gethashcode
+pattern2	
+if two objects compare as equals the gethashcode method for each object must return the same value
+
+70375
+equals	gethashcode
+pattern2	
+however if two objects do not compare as equals the gethashcode methods for the two object do not have to return different values
+
+201030
+csla	.net
+pattern4	
+i would recommend csla .net by rockford lhotka
+
+500622
+komodo	notepad++
+pattern2	
+if i had to choose between notepad++ and komodo i would choose pyscripter
+
+502658
+vim	jedit
+pattern4	
+personally i would recommend jedit rather than vim
+
+502970
+calloc	malloc
+pattern4	
+just this feature alone would be enough for me to prefer calloc to malloc
+
+503943
+bazaar	git
+pattern4	
+as an alternative to git which has already been mentioned i would highly recommend bazaar
+
+600969
+system.data.oracleclient	odp.net
+pattern4	
+personally i prefer odp.net but system.data.oracleclient will get the job done
+
+601651
+debian	centos	ubuntu	debian	ubuntu	centos
+pattern4	
+you just need very basic functions mostly the standard toolchain. you could pick centos ubuntu fedora debian whatever
+
+901588
+monodevelop	sharpdevelop
+pattern4	
+n3 for web my preference will be vwd but for other stuff i ll prefer monodevelop and sharpdevelop
+
+1100412
+union	distinct
+pattern4	
+i m sorry that i m not able to understand exactly what your issue is but i wonder if your issue stems from the fact that the union operator will eliminate duplicate rows kind of like a select distinct over the combined query
+
+1301328
+textmate	textwrangler
+pattern4	
+open a good text editor i d recommend textmate but the free textwrangler or vi or nano will do too and open
+
+1302592
+phpmyadmin	heidisql
+pattern4	
+since you re on windows i can highly recommend heidisql over phpmyadmin for working with mysql
+
+1302592
+phpmyadmin	heidisql
+pattern2	
+since you re on windows i can highly recommend heidisql over phpmyadmin for working with mysql
+
+1305848
+inherited	properties
+pattern4	
+if using tag properties isn t in principle i m recommend inherited treeitem
+
+1306207
+jboss	weblogic
+pattern4	
+regarding weblogic and jboss i d prefer jboss weblogic is more complex
+
+1309433
+jboss	weblogic	jboss	glassfish	glassfish	weblogic
+pattern4	
+if money was not part of the equation and i had an employer that insisted on spending money that wasn t mine i d still choose weblogic over websphere or jboss or glassfish or anything else on the market
+
+1310736
+git-svn	svn2git
+pattern3	
+a simple git-svn will reproduce the svn branches actually simple directory with copies in it so i would recommend using svn2git and git2svn
+
+1311516
+udp	tcp-ip
+pattern4	
+network cards and routers have a tendency to prefer tcp-ip packages above udp
+
+1500490
+maven	m2e
+pattern3	
+i recommend using maven eclipse and m2e
+
+1603119
+firefox	safari
+pattern4	
+this actually works fine on mac win firefox safari but on ie6 and ie8 only the first element grabbed by the selector displays the desired behavior
+
+1618019
+vim	emacs
+pattern3	
+i don t know about emacs but i would recommend learning vim for a beginner in a heartbeat
+
+2100226
+equals	gethashcode
+pattern3	
+we recommend implementing equals and gethashcode using business key equality
+
+2102058
+range	max	range	min	min	max
+pattern4	
+currently i m joining a range of dates that covers the full range of possible dates select min start date max end date
+
+2104724
+lift	wicket
+pattern4	
+why did would you prefer wicket over lift
+
+2104724
+lift	wicket
+pattern2	
+why did would you prefer wicket over lift
+
+2105917
+lift	wicket
+pattern4	
+even dave pollak once suggested this combination if you prefer wicket to lift or have an existing wicket application you want to retrofit scala with
+
+2111585
+springsource	grails
+pattern4	
+then in springsource tool suite right-click your project and select grails tools - refresh dependencies
+
+2302260
+vmware	virtualbox	vmware	esx	virtualbox	esx
+pattern4	
+because of compatibility with vmware infrastructure esx i would prefer vmware for headless server operations and virtualbox for anything that requires user interaction photoshop gui etc
+
+2500838
+google-chrome	firefox
+pattern2	
+i really recommend browsing with google-chrome when you re looking to debug javascript it s error console is very useful for not just determining errors like this but also for pinpointing the location in the script that is throwing the error which might be an advantage beyond firebug in firefox
+
+3100230
+firefox	safari
+pattern4	
+that s tolerable for us as we are allowed to limit our users to firefox ie7+ but annoys me on a mac as i much prefer safari to firefox
+
+3309858
+freemarker	velocity
+pattern4	
+you can certainly choose freemarker velocity and other cool viewer but if your entire team is already comfortable dealing with jsp you need to take account of your project deadline and all the learning curves when taking on a new technology
+
+3503999
+getdate	dateadd
+pattern4	
+select dateadd day 1-datepart day getdate getdate
+
+3504754
+openrowset	openquery
+pattern4	
+has anyone ever had the chance to check execution time to compare openrowset openquery opendatasource for a very large file import in sql server 2008
+
+3900860
+implements	extends
+pattern4	
+personally i d recommend implements your own adapter most likely in this case by extends simplecursoradapter and encapsulating the updates to distance text and compass heading rotation within that
+
+4300932
+cvs	svn
+pattern4	
+as drupal.org is in the process of moving from cvs to git i wouldn t recommend svn
+
+5503519
+passenger	thin	passenger	unicorn	thin	unicorn
+pattern4	
+it compares thin unicorn passenger torquebox glassfish and trinidad
+
+6301067
+children	parent
+pattern4	
+this has been boggling my mind all afternoon how do i get my jquery statement below to only select parent who have children
+
+6506653
+vim	emacs
+pattern4	
+being that i don t know the first thing about emacs and prefer vim myself how do i go about changing the default editor for svn commands to vim after it s already been set
+
+6507035
+hash	md5
+pattern4	
+if you re hashing e.g with md5 the value you can compare hash values of id e.g
+
+6508356
+zoo	xts
+pattern4	
+i recommend xts zoo
+
+6509771
+google-chrome	firefox
+pattern3	
+i recommend using google-chrome or firefox for admin work especially adding editing products
+
+6514719
+google-chrome	firefox
+pattern3	
+i would recommend using google-chrome right clicking and choosing inspect element or using firebug on firefox then the tool to select the hyperlink
+
+6514828
+min	max
+pattern4	
+for the extra price tag you get to profile more assemblies at once and a handful secondary features like print compare min max etc
+
+6702331
+equals	compareto
+pattern2	
+date object extensions - datejs.js today compare between compareto equals isafter isbefore isleapyear parse parseexact validateday validatehour validatemonth validateminute validatesecond validateyear add addseconds addminutes addhours adddays addyears addweeks addmonths clone getweek getisoweek setweek toisostring
+
+6904810
+vim	textmate	vim	emacs	macvim	textmate	macvim	emacs	emacs	textmate
+pattern4	
+textmate or macvim as the ide gvim or vim for the linux folk usually though some prefer emacs
+
+6905409
+xuggle	vlcj
+pattern2	
+so after my research and findings i d recommend going with vlcj but definitely using out of process players if you just want to play record stream video stuff and xuggle if you want to do any low level video work with the codecs themselves
+
+6910173
+ssl	https
+pattern3	
+in the case of phpmyadmin - if this is running on a webserver on your network then you ll need to forward port 80 too - although i d recommend using https ssl port 443
+
+7101106
+firepath	firebug
+pattern4	
+firefinder is good but i started with and prefer firepath for firebug
+
+7700192
+bash	zsh
+pattern4	
+note that you ll never get behavior that exactly matches zsh one with bash only
+
+7704706
+pow	sqrt
+pattern4	
+one naive way to do this would be to select sqrt pow tablename.x - x 2 + pow tablename.y - y 2 + pow tablename.z - z 2 as distance for each row in the table and then select the row that has the smallest distance
+
+7705184
+macports	homebrew	fink	homebrew	fink	macports
+pattern3	
+i recommend installing homebrew to manage installing nix tools on os x i d stay away from macports fink
+
+7707814
+postgresql	mysql
+pattern4	
+db is irrelevant but id prefer postgresql sql server mysql in that order
+
+7900728
+move	drag
+pattern4	
+the correct solution to this problem is probably to implement a kind of handle on top of the table or something that users could grab drag drop to securely move the whole table at once
+
+8103092
+gson	jackson
+pattern3	
+i highly recommend abandoning gson in favor of jackson whenever possible.
+
+8301650
+folder	directory
+pattern4	
+is there any way to tweak select file dialog to make it able to select directory on win-pc and folder on mac
+
+8503201
+google-chrome	firefox
+pattern4	
+i am curious to know from web developers point of view what do you prefer firefox or google-chrome
+
+8504693
+post	get
+pattern3	
+nb using post does not preclude the use of variables in the url - indeed i recommend using get variables to indicate the data you wish to manipulate and post variables to show how they should be manipulated
+
+8507479
+websphere	ibm
+pattern4	
+alternatively i think you should also be able to write something that uses jmx to read specific things about websphere state and there is at least one sophisticated monitoring tool you could purchase ibm tivoli composite application manager itcam for application diagnostics which can monitor websphere internals
+
+8907404
+background-color	transparency
+pattern4	
+why is the html select background-color black in chrome when set to transparency
+
+10100458
+mouse	trackpad
+pattern4	
+if you ignore timing the os may decimate mouse motion debounce buttons rearrange the order of motion and clicks ignore keypresses while the trackpad is in use etc
+
+10307662
+portrait	landscape
+pattern2	
+phone choose between portrait and landscape layouts automatically
+
+10500501
+weka	libsvm
+pattern2	
+from libsvm faq s i discovered that cv is made only to discover best parameters for kernels not during train predict so what is the exact sequence of action that i should do in matlab to obtain similar results in order to compare them with weka
+
+10501705
+imperative	declarative
+pattern4	
+or if you are like me and prefer imperative validation logic rather than declarative simply use fluentvalidation.net which makes this validation scenario pretty trivial
+
+10502864
+post	get
+pattern4	
+i m following the tutorial for upload files in rails 3 because i need that my app s user could upload csv files but when i tried to save the file i get uninitialized constant customerscontroller csv message before change my routes to get customers import to post customers import i had other error no route matches post customers import what im doing wrong
+
+10504050
+button	checkbox
+pattern4	
+in this project how can i add mark all checkbox besides select button
+
+10507735
+ant	maven
+pattern2	
+the scenario you described is perfectly fit into an aggregation or multi-module project from my own experience compare with ant maven provides a more efficient reasonable and native way for managing multi-module project with inter-module dependencies
+
+10508411
+getter	setter
+pattern4	
+it s really easy with flash builder 4.5 to do this just select your variable name and press ctrl-1 select create getter and setter select getter and setter and check bindable and create custom event.
+
+10705075
+post	get
+pattern4	
+i ve gotten everything to work in the console but i can t get the right routes and i m getting the no route matches get categories 1 post 1 like error
+
+10906859
+client-side	server-side
+pattern4	
+with node.js you ll also have one of the faster server-side interpreters at your command faster than python and ruby roughly equal to lua and sometimes up to java s level and somehow v8 has the fastest regex engine in the world and then server-side code matches client-side code which makes things like rpc layers much nicer to work with
+
+11109203
+google-chrome	safari
+pattern4	
+i need to match safari browsers but not google-chrome browsers using one regex
+
+11703510
+installation	upgrade
+pattern3	
+i m trying to update an existing installer to read a registry value if it exists and change the install settings to match existing installation settings when doing upgrade installation
+
+11901835
+jspinner	documentfilter
+pattern2	
+notice by using documentfilter output from jformattedtextfield or jspinner java internally to hold dot as ascii decimal separator there is only difference betweens view and model swing document in compare with documentfilter there is returned changed grouping space and separator too
+
+11903861
+google-chrome	firefox
+pattern4	
+i would strongly recommend you use the web developer tools that exist in most modern browsers i prefer google-chrome s but firefox has good ones too
+
+11904650
+spaces	delimiter
+pattern4	
+select spaces as delimiter and click on finish and you are done
+
+11904650
+spaces	delimiter
+pattern2	
+select spaces as delimiter and click on finish and you are done
+
