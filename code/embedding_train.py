@@ -4,7 +4,7 @@ import mysql.connector
 import os
 from prepros import get_words
 
-fname = os.path.join(os.pardir, "data", "mymodel")
+fname = os.path.join(os.pardir, "data", "mymodel40000000")
 
 start = 0
 logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
@@ -20,7 +20,7 @@ class MySentences(object):
                                           password='ccywch',
                                           db='stackoverflow')
             cursor = cnx.cursor()
-            query = "SELECT Id, Body FROM Posts WHERE Score >= 0"
+            query = "SELECT Id, Body FROM Posts WHERE Score >= 0 AND Id < 40000000"
             cursor.execute(query)
             for current_id, row in cursor.fetchall():
                 words_list = get_words(row)
@@ -30,5 +30,5 @@ class MySentences(object):
             print("current_id: {}".format(current_id))
 
 sentences = MySentences()
-model = gensim.models.Word2Vec(sentences, min_count=20, size=200, workers=4)
+model = gensim.models.Word2Vec(sentences, min_count=20, size=200, workers=8)
 model.save(fname)

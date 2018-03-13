@@ -102,7 +102,7 @@ def add_patterns(matcher):
                 [{'ORTH': 'TECH'}, {'ORTH': 'VBZ'}, {'ORTH': 'JJR'}],
                 [{'ORTH': 'TECH'}, {}, {'ORTH': 'VBZ'}, {'ORTH': 'JJR'}],
                 [{'ORTH': 'TECH'}, {'ORTH': 'VBZ'}, {}, {'ORTH': 'JJR'}],
-                [{'ORTH': 'TECH'}, {}, {'ORTH': 'VBZ'}, {}, {'ORTH': 'JJR'}]
+                [{'ORTH': 'TECH'}, {}, {'ORTH': 'VBZ'}, {}, {'ORTH': 'JJR'}],
                 [{'ORTH': 'TECH'}, {'ORTH': 'VBZ'}, {'ORTH': 'JJR'}, {}],
                 [{'ORTH': 'TECH'}, {}, {'ORTH': 'VBZ'}, {'ORTH': 'JJR'}, {}],
                 [{'ORTH': 'TECH'}, {'ORTH': 'VBZ'}, {}, {'ORTH': 'JJR'}, {}],
@@ -301,7 +301,7 @@ def extract(no):
 print(datetime.datetime.now())
 
 try:
-    for i in range(1, 30):
+    for i in range(1, 83):
         (c, t, p) = extract(i)
         total_compa += c
         total_sent += t
@@ -328,7 +328,7 @@ finally:
                 recordings_file.write(str(value)+'\n')
             recordings_file.write("\n")
     print("{} / {}".format(total_compa, total_sent))
-    print("{} pattern234\n")
+    print("{} pattern234\n".format(total_pattern234))
 
     with open(os.path.join(os.pardir, "relation", "relations.pkl"), 'wb') as output_file:
         pickle.dump(recordings, output_file)
