@@ -161,11 +161,11 @@ def extract_topic(out_list, tag_list):
             t = tag_list[i]
             if t[:2] == "NN":
                 add_dict(nn, w)
-            elif t == "jjr":
+            elif t == "JJR":
                 add_dict(jjr, w)
-            elif t == "jj":
+            elif t == "JJ":
                 add_dict(jj, w)
-            elif t == "rbr":
+            elif t == "RBR":
                 add_dict(rbr, w)
             else:
                 add_dict(other, w)
