@@ -1,13 +1,5 @@
-nothing             1
-system              0
-value               0
-sense               0
+precedence          1
+complexity          1
 users               0
-precedence          0
-www.eloquera.com    0
-file                0
-library             0
-number              0
-optimization        0
-frequency           0
-forgery             0
+features            0
+support             0

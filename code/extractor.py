@@ -147,7 +147,7 @@ def add_dict(dictionary, word):
         dictionary[word] = 0
 
 
-def extract_topic(out_list):
+def extract_topic(out_list, tag_list):
     """ Extract topic from the sentence.
 
         ([str]) -> str
@@ -156,7 +156,9 @@ def extract_topic(out_list):
     #     return None
     # else:
     if True:
-        for (w, t) in out_list:
+        for i in range(len(out_list)):
+            w = out_list[i]
+            t = tag_list[i]
             if t[:2] == "NN":
                 add_dict(nn, w)
             elif t == "jjr":
@@ -186,7 +188,7 @@ def get_pos_tag(techs, words):
 
         ([str], [str]) -> ([str], [str])
     """
-    tag_list = []
+    tags = []
     flag = False
     tagged_words = CoreNLPPOSTagger(url='http://localhost:9000').tag(words)
     if len(words) != len(tagged_words):
@@ -197,37 +199,38 @@ def get_pos_tag(techs, words):
             word = "." + word
             flag = False
         if tag == "IN" and word in cin:
-            tag_list.append("CIN")
+            tags.append("CIN")
         elif word in cv:
-            tag_list.append("CV")
+            tags.append("CV")
         elif word in techs:
-            tag_list.append("TECH")
+            tags.append("TECH")
         elif word == ".":
             flag = True
             continue
         else:
-            tag_list.append(tag)
+            tags.append(tag)
         words.append(word)
-    return (words, tag_list)
+    return (words, tags)
 
 
-def extract_pattern08710(current_id, techs, pattern, words, line, start, end, tag_list):
+def extract_pattern08710(current_id, techs, pattern, words, line, start, end, tags):
     """ Extract topics for pattern 08710.
 
         (int, [str], int, [str], str, int, int, [str]) -> None
     """
-    data_file = open(os.path.join(os.pardir, "relation", "sentences.txt"), "a")
-    data_file.write("{}\n".format(current_id))
-    data_file.write("{}\n".format("\t".join(techs)))
+    pattern08710_file = open(os.path.join(os.pardir, "relation", "sentences.txt"), "a")
+    pattern08710_file.write("{}\n".format(current_id))
+    pattern08710_file.write("{}\n".format("\t".join(techs)))
     tech_pair = []
     for i in range(0, len(techs), 2):
         tech_pair.append((techs[i], techs[i+1]))
-    data_file.write("pattern"+str(pattern)+"\t")
+    pattern08710_file.write("pattern"+str(pattern)+"\t")
     out_list = []
+    tag_list = []
     techa = ""
     techb = ""
     for i in range(len(words)):
-        if tag_list[i] == "TECH":
+        if tags[i] == "TECH":
             if techa == "":
                 techa = words[i]
             elif out_list == []:
@@ -235,10 +238,10 @@ def extract_pattern08710(current_id, techs, pattern, words, line, start, end, ta
             else:
                 techb = words[i]
                 if (techa, techb) in tech_pair or (techb, techa) in tech_pair:
-                    topic = extract_topic(out_list)
+                    topic = extract_topic(out_list, tag_list)
                     if topic is not None:
-                        data_file.write(" ".join(out_list))
-                        data_file.write("\t")
+                        pattern08710_file.write(" ".join(out_list))
+                        pattern08710_file.write("\t")
                         if (techa, techb) in recordings:
                             recordings[(techa, techb)].add((techa, " ".join(out_list), techb, topic, current_id, line))
                         elif (techb, techa) in recordings:
@@ -249,11 +252,13 @@ def extract_pattern08710(current_id, techs, pattern, words, line, start, end, ta
                 techa = ""
                 techb = ""
                 out_list = []
+                tag_list = []
         if i in range(start, end):
-            if tag_list[i] in pos_tag_set and techa != "":
-                out_list.append((words[i], tag_list[i]))
-    data_file.write(str("\n{}\n".format(line)))
-    data_file.close()
+            if tags[i] in pos_tag_set and techa != "":
+                out_list.append(words[i])
+                tag_list.append(tags[i])
+    pattern08710_file.write("\n{}\n".format(line))
+    pattern08710_file.close()
 
 
 def extract(no):
@@ -278,24 +283,24 @@ def extract(no):
                     techs = line.split("\t")
                     techs[-1] = techs[-1].strip()
                 elif num % 4 == 2:
-                    (words, tag_list) = get_pos_tag(techs, line.split())
-                    patterns = matcher(nlp(" ".join(tag_list)))
+                    (words, tags) = get_pos_tag(techs, line.split())
+                    patterns = matcher(nlp(" ".join(tags)))
                     if patterns != []:
                         compa_sent_count += 1
                         for (pattern, start, end) in patterns:
                             if pattern in pattern_set:
-                                extract_pattern08710(current_id, techs, pattern, words, line, start, end, tag_list)
+                                extract_pattern08710(current_id, techs, pattern, words, line, start, end, tags)
                             else:
                                 pattern234 += 1
-                                data_file = open(os.path.join(os.pardir, "relation", "pattern234.txt"), "a")
-                                data_file.write("{}\n".format(current_id))
-                                data_file.write("{}\n".format("\t".join(techs)))
-                                data_file.write("pattern"+str(pattern)+"\t")
-                                data_file.write(str("\n{}\n".format(line)))
-                                data_file.close()
+                                pattern234_file = open(os.path.join(os.pardir, "relation", "pattern234.txt"), "a")
+                                pattern234_file.write("{}\n".format(current_id))
+                                pattern234_file.write("{}\n".format("\t".join(techs)))
+                                pattern234_file.write("pattern"+str(pattern)+"\t")
+                                pattern234_file.write(str("\n{}\n".format(line)))
+                                pattern234_file.close()
                 num += 1
     finally:
-        print("{}/{} from - to {}\n".format(compa_sent_count, num/4, current_id))
+        print("{}/{} from - to {}".format(compa_sent_count, num/4, current_id))
         return(compa_sent_count, num/4, pattern234)
 
 print(datetime.datetime.now())
@@ -306,10 +311,11 @@ try:
         total_compa += c
         total_sent += t
         total_pattern234 += p
-    # for i in range(100, 106):
-    #     (c, t) = classify(i)
-    #     total_compa += c
-    #     total_sent += t
+    for i in range(100, 120):
+        (c, t, p) = extract(i)
+        total_compa += c
+        total_sent += t
+        total_pattern234 += p
 # datalist = [1, 2, 3, 4, 5, 6, 7, 8]
 # procs = []
 # for i in range(8):

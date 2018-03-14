@@ -1,0 +1,1325 @@
+583
+int	double
+pattern4	
+personally i prefer int string double etc
+
+2360
+mouse	keyboard
+pattern4	
+go to system preferences keyboard and mouse then choose keyboard shortcuts
+
+6659
+junit	testng	junit	unitils	junit	easymock	testng	unitils	testng	easymock	easymock	unitils
+pattern4	
+but i would recommend unitils a great wrapper for junit testng dbunit easymock regardless of which route you take
+
+9788
+subtraction	addition
+pattern2	
+additionally while reads and writes are atomic there is a race condition with addition subtraction and incrementing and decrementing primitive types since they must be read operated on and rewritten
+
+10232
+ant	maven
+pattern3	
+they do a great job for us and i would highly recommend using maven over ant
+
+12586
+rss	feed
+pattern4	
+the rss brand very much defines the entire feed category though so on the rare occasion that someone does know enough to choose they will tend to choose rss because it s got the name. they will also tend to choose rss 2.0 because it s got the bigger number
+
+12586
+rss	feed
+pattern4	
+the rss brand very much defines the entire feed category though so on the rare occasion that someone does know enough to choose they will tend to choose rss because it s got the name. they will also tend to choose rss 2.0 because it s got the bigger number
+
+13455
+cvs	svn
+pattern4	
+i would definitely choose svn over cvs if only because people who learned source control using cvs tend to use svn delete then svn add instead of svn move
+
+13455
+cvs	svn
+pattern2	
+i would definitely choose svn over cvs if only because people who learned source control using cvs tend to use svn delete then svn add instead of svn move
+
+20192
+cassini	iis
+pattern4	
+there are lots of good reasons to prefer iis over the cassini server articles by dominick baier
+
+20666
+hash	md5
+pattern4	
+to go along with what everyone here is saying i use hashtab when i need to generate compare md5 and sha1 hash on windows
+
+25701
+jdom	xom
+pattern4	
+i ve worked with jdom as well and there s absolutely nothing wrong with it although i do prefer xom
+
+27440
+postgresql	mysql
+pattern4	
+better performance can be bought with more ram and cpu and more appropriate database design and clever stored procedure tricks and so on - and all of that is cheaper and easier for random-website-x than agonizing over which to pick mysql or postgresql and specialist tuning from expensive dbas
+
+27529
+postgresql	mysql
+pattern4	
+hard to compare mysql and postgresql
+
+34295
+emacs	aquamacs
+pattern4	
+if it is emacs you want i would recommend aquamacs more mac-like or carbon emacs more gnu-emacs-like
+
+34474
+phpunit	simpletest
+pattern4	
+i prefer phpunit now but when i started out i used simpletest as i didn t always have access to the command line
+
+34566
+equals	gethashcode
+pattern2	
+if two objects compare as equals the gethashcode method for each object must return the same value
+
+34566
+equals	gethashcode
+pattern2	
+however if two objects do not compare as equals the gethashcode methods for the two object do not have to return different values
+
+37162
+portrait	landscape
+pattern4	
+web browser print dialogs default to portrait so for every print job the user has to manually select landscape
+
+44638
+merb	ruby-on-rails
+pattern4	
+ok ruby-on-rails is actually pretty good but there is just a little bit too much magic going on in there from the ruby world i would much prefer merb to ruby-on-rails
+
+54817
+invalidoperationexception	argumentexception
+pattern4	
+this seems like an object state invalid scenario to me so i d pick invalidoperationexception over argumentexception the parameters are valid but not at this point in the objects life
+
+54817
+invalidoperationexception	argumentexception
+pattern2	
+this seems like an object state invalid scenario to me so i d pick invalidoperationexception over argumentexception the parameters are valid but not at this point in the objects life
+
+58363
+memcached	apc
+pattern4	
+i would recommend memcached or apc
+
+60137
+ubuntu	debian
+pattern4	
+i haven t decided which one yet but my understanding is that they ll give me a base os install i d prefer debian or ubuntu an ip address a root account ssh and that s about it
+
+62220
+postgresql	mysql
+pattern4	
+however the observation of database-locking stands - if you have particularly onerous updates sqlite performance won t match mysql or postgresql
+
+64644
+vim	emacs
+pattern4	
+i don t think you would want to wait 10 seconds for your text editor to become ready ...if you are going to spend some serious time coding then spend some time and learn to use vim emacs too but i recommend vim
+
+70375
+equals	gethashcode
+pattern2	
+if two objects compare as equals the gethashcode method for each object must return the same value
+
+70375
+equals	gethashcode
+pattern2	
+however if two objects do not compare as equals the gethashcode methods for the two object do not have to return different values
+
+74992
+bash	zsh
+pattern4	
+i prefer zsh over bash because of its support for very powerful file globbing variable expansion modifiers and faster tab completion
+
+74992
+bash	zsh
+pattern2	
+i prefer zsh over bash because of its support for very powerful file globbing variable expansion modifiers and faster tab completion
+
+84239
+distance	polygons
+pattern4	
+for each vertex in the red polygons compute the distance to each vertex in the blue polygons and find the closest hint compare distance 2 so you don t need the sqrt
+
+84974
+union	distinct
+pattern4	
+in most cases what you really want to say is union all as it does not do duplicate elimination think select distinct between sets which can result in quite a bit of savings in terms of execution time
+
+85414
+vmware	virtualbox
+pattern2	
+i ve been using vmware for a while and am very happy with it but i would like to compare it with virtualbox
+
+87006
+cvs	svn	accurev	cvs	accurev	svn
+pattern4	
+i ve used svn cvs clearcase base ucm ccc harvest but none of them can beat accurev s strengths
+
+88100
+udp	tcp
+pattern4	
+for instance if a preference picks tcp versus udp have your conditional instantiate a tcpprovider or udpprovider which the rest of your code uses with minimal muss or fuss
+
+91149
+jboss	glassfish
+pattern4	
+i would choose jboss or glassfish for a start
+
+95821
+eruby	erb
+pattern4	
+i see that it supposedly beats erb and eruby now.
+
+113331
+wxpython	pyqt
+pattern4	
+wxpython has a very good demo and it can do pretty much anything which pyqt can do i would anyday prefer pyqt but it may bot be free for commercial purpose but wxpython is free and is decent cross platform library
+
+132841
+solaris	bsd
+pattern4	
+personally i prefer solaris or a bsd for stability
+
+139478
+sortedlist	sorteddictionary
+pattern3	
+i recommend using sorteddictionary string tvalue or sortedlist string tvalue
+
+144494
+profiling	instrumentation
+pattern4	
+select profiling from the product menu in xcode 6 to launch apple s instrumentation tool
+
+146871
+lisp	scheme
+pattern4	
+i have decided that i prefer scheme over common lisp so that narrows it down a bit
+
+150964
+range	max	range	min	min	max
+pattern4	
+so you can either pick a date range run a select max and select min against your db or execute your query and then add the missing dates
+
+150964
+range	max	range	min	min	max
+pattern4	
+so you can either pick a date range run a select max and select min against your db or execute your query and then add the missing dates
+
+159944
+cvs	svn
+pattern4	
+seriously why would you prefer cvs to svn
+
+161559
+cvs	svn
+pattern2	
+nowadays i prefer git over svn but it takes a while to get over the threshold if you come from cvs svn land
+
+162047
+int	chars
+pattern4	
+then you need a function called int scanback const chars s const chars matches int start which starts at start goes down to z as long as the chars being scanned at s id contained in matches return the last index where a match is found
+
+162785
+post	put
+pattern3	
+you could put the text into an invisible span and read that spans width but basicly this looks like someone trying to sabotage your site and therefore i would recommend banning post with words longer than a certain lenth for example 30 characters without spaces allowing links to be longer
+
+162991
+swt	swing
+pattern4	
+i will probably choose swt swing or qtjambi for the ui controls but i am wondering what to do with the graphical part of the simulation
+
+167539
+getdate	dateadd
+pattern4	
+select dateadd dd 1 getdate will return a current date + 1 day
+
+167922
+mouse	keyboard
+pattern4	
+the net effect of this was that it was very difficult to get two machines to boot up and work on the kvm switch and the switch would lose keyboard or mouse input on one or both machines every few days
+
+171958
+merb	ruby-on-rails
+pattern4	
+i personally prefer merb over ruby-on-rails as it adopts more ruby conventions
+
+171958
+merb	ruby-on-rails
+pattern2	
+i personally prefer merb over ruby-on-rails as it adopts more ruby conventions
+
+172992
+disk	ram
+pattern4	
+but it basically matches ram blocks to disk blocks
+
+173548
+accurev	svn
+pattern4	
+we evaluated it alongside with plastic scm svn and clearcase-ucm that we already owned and used and decided to dump clearcase and svn both were used in two different groups and to purchase accurev
+
+177532
+verilog	vhdl
+pattern4	
+do you prefer vhdl or verilog and why
+
+178555
+verilog	vhdl	verilog	hdl
+pattern4	
+once you re ready to choose an hdl i heartily recommend verilog having learned vhdl first
+
+179294
+post	get
+pattern4	
+further i recommend to use post wherever possible avoid using get for form submits - if some users want to simulate a form submit via get make sure your application supports the desired parameters either via post or via get but when you submit the page yourself via a button or js prefer post over get
+
+179294
+post	get
+pattern2	
+further i recommend to use post wherever possible avoid using get for form submits - if some users want to simulate a form submit via get make sure your application supports the desired parameters either via post or via get but when you submit the page yourself via a button or js prefer post over get
+
+184056
+ant	maven
+pattern4	
+i find it most disturbing to see so few people around here are actually using maven or at least ant though i prefer maven for the dependency handling.
+
+186645
+perforce	svn
+pattern4	
+i would certainly recommend perforce for a number of reasons already covered in other answers but i m not in a position to offer a comparison with svn having never really used it
+
+192156
+coalesce	isnull
+pattern4	
+other rdbms would prefer coalesce instead of isnull
+
+194197
+lxml	elementtree
+pattern4	
+i actually prefer lxml as it has api like elementtree but has also nice additional features and performs well
+
+194489
+xstream	xom
+pattern3	
+if you decide to roll your own xml configuration i d recommend using xstream with customized serialization options or if you just need to parse some xml take a look at xom
+
+195398
+postgresql	mysql
+pattern4	
+at the load levels where postgresql s better locks overtake mysql s other parts of your platform could be the bottlenecks
+
+195415
+postgresql	mysql
+pattern2	
+you could then compare these with mysql and postgresql
+
+197210
+mouse	keyboard
+pattern4	
+this will not remove the key binding from vmware but you could set the option to grab keyboard and mouse intput on key press in the vmware preferences
+
+199835
+vim	emacs
+pattern4	
+rather like editors do you prefer vim or emacs choice of shell is partly a question of familiarity and partly a question of preference
+
+201030
+csla	.net
+pattern4	
+i would recommend csla .net by rockford lhotka
+
+204778
+django	web.py
+pattern4	
+also this post by the web.py author is a very good explanation of why i much prefer web.py over django
+
+204778
+django	web.py
+pattern2	
+also this post by the web.py author is a very good explanation of why i much prefer web.py over django
+
+222513
+kate	kde
+pattern4	
+i prefer kate part of kde as it features a built-in terminal as well as many features you would expect from an editor inside an ide like code folding and regex search replace
+
+222513
+vim	emacs
+pattern4	
+many people also recommend vim or emacs both of which are probably available through your distro s repositories
+
+237472
+vim	emacs
+pattern4	
+also whichever editor you prefer vim or emacs learn it back forth
+
+242991
+rss	feed
+pattern2	
+i produce a feed reader and when scraping feed always prefer atom over rss
+
+249589
+perforce	svn
+pattern4	
+i agree with the previous yuval - having worked with perforce and svn both in gui and command-line mode i prefer svn
+
+249617
+bazaar	git	bazaar	perforce
+pattern4	
+for many of the cases where subversion trumps perforce many people seem to prefer the distributed systems like git bazaar mercurial these days
+
+254023
+aptana	radrails
+pattern4	
+i prefer aptana radrails on both mac and linux
+
+270764
+xsl-fo	xslt
+pattern4	
+you can also use apache fop if you prefer xslt and xsl-fo
+
+281802
+cvsnt	tortoisecvs
+pattern3	
+firstly i d recommend using tortoisecvs as it has better cvsnt support
+
+282643
+codeigniter	cakephp
+pattern4	
+on the other hand i ve never played around with codeigniter so i can t recommend cakephp over codeigniter
+
+282643
+codeigniter	cakephp
+pattern2	
+on the other hand i ve never played around with codeigniter so i can t recommend cakephp over codeigniter
+
+283151
+coalesce	isnull
+pattern4	
+you also could read an article which compares coalesce and isnull
+
+288440
+salt	md5
+pattern4	
+get md5 js implementation and compare salt
+
+289841
+inherited	properties
+pattern4	
+to access those properties or methods i need to make them public which defeats encapsulation or re-write them into my class which defeats inherited
+
+291267
+lisp	scheme
+pattern3	
+if you re shaky on recursion at all i highly recommend learning scheme or lisp
+
+294103
+bazaar	git	bazaar	svn
+pattern4	
+i worked on a project for one place that were forced to use a locking system and opted to use no control at all so i set up a secret svn branch even though i much prefer bazaar or git
+
+298978
+lxml	libxml2	lxml	libxslt	libxml2	libxslt
+pattern4	
+gimel and tim recommend lxml which is a nicely pythonic binding for the libxml2 and libxslt libraries
+
+303480
+kate	kde
+pattern4	
+i recommend kate part of kde as an editor
+
+323429
+trac	bugzilla
+pattern4	
+i have used both and didn t like them at all i prefer trac thou if you really need to choose between those two i d go for bugzilla
+
+323893
+mantis	bugzilla
+pattern4	
+i ve used bugzilla and mantis but i prefer mantis simplicity
+
+324355
+lxml	libxml2
+pattern4	
+but i prefer libxml2 and lxml for python because it seems to be more actively developed and tested
+
+327393
+union	distinct
+pattern4	
+as other users said union is used to select distinct values from two tables
+
+329742
+vim	emacs
+pattern4	
+as for an editor if you like cli stuff then emacs or vim is the way to go i prefer emacs
+
+330657
+post	get
+pattern3	
+security wise i prefer using post than get as it gives at least some opaqueness as to what is being passed as a parameter and not anyone can just edit the url and play around
+
+330918
+min	max
+pattern4	
+does hibernate hql queries support using select min max count and other sql functions
+
+338537
+config	ini
+pattern4	
+i am using zend_config_ini config adapter i prefer ini for base config
+
+348548
+codeigniter	kohana
+pattern4	
+i prefer kohana over codeigniter ymmv
+
+348548
+codeigniter	kohana
+pattern2	
+i prefer kohana over codeigniter ymmv
+
+354420
+listview	gridview	gridview	detailsview
+pattern4	
+personally i prefer listview over gridview and detailsview if possible it gives you more control over your html
+
+354420
+listview	gridview	gridview	detailsview
+pattern2	
+personally i prefer listview over gridview and detailsview if possible it gives you more control over your html
+
+356602
+innodb	myisam
+pattern4	
+if your application generates a lot of updates you ll prefer innodb storage engine which allows to lock only one row when updating vs all the table on myisam
+
+361372
+moq	typemock
+pattern4	
+so far i found that we can buy typemock to mock the sharepoint objects and then use any free mocking framework moq
+
+369779
+entity-relationship	diagram
+pattern3	
+well a picture tells a thousand words so i would recommend creating entity-relationship diagram where you can view the relationship between tables at a glance something that is hard to do with a text-only description
+
+380757
+redmine	trac
+pattern4	
+i d recommend redmine like the other posters as it is more complete than trac
+
+384083
+googletest	cppunit
+pattern2	
+i prefer cruisecontrol.net with cppunit but i don t have any experience or knowledge of the googletest framework
+
+389824
+innodb	myisam
+pattern2	
+innodb wins over myisam frequently enough that it s clearly not possible to say one is faster than the other
+
+396601
+ienumerable	ilist
+pattern2	
+i would choose between ilist and ienumerable and wouldn t consider array at all
+
+396838
+opera	firefox	opera	safari	firefox	safari
+pattern4	
+you may prefer firefox opera safari because it s safer technologically superior or whatever but you may lose several users that way remember firefox has only recently reached 20 of usage share
+
+404634
+freemarker	velocity
+pattern4	
+i actually slightly prefer freemarker to velocity just in case you re open to exploring other options
+
+406323
+google-chrome	safari
+pattern4	
+in this benchmark safari 3.1 2 actually beats google-chrome despite having a js engine that is clearly much much slower this is basically due to more efficient bindings between jsc webcore the dom rendering etc of webkit and v8 webcore
+
+408853
+vim	gedit
+pattern4	
+normal people prefer gedit instead of vim
+
+411994
+postgresql	mysql
+pattern4	
+with that said if you are worried about sql server licensing costs i d recommend postgresql first or mysql second as your database of choice
+
+419590
+gif	png
+pattern4	
+the web favors gif jpg and png mostly
+
+425058
+tiff	png
+pattern4	
+tiff can beat png by about 2 1 43k vs
+
+432306
+lisp	scheme
+pattern4	
+if you do choose a lisp variant i recommend scheme
+
+436503
+google-chrome	firefox
+pattern2	
+currently there s somewhat of an arms race between google-chrome firefox and webkit s javascript interpreters which has really improved the speed situation with javascript
+
+439818
+postgresql	mysql
+pattern2	
+i have never used postgresql myself but i think it s mostly a matter of taste whether you prefer it over mysql
+
+446962
+ati	nvidia
+pattern4	
+are there any third-party reports that compare ati s stream framework to nvidia s cuda framework ie not from ati or nvidia talking themselves up
+
+448892
+mp3	flv
+pattern3	
+i would recommend using mp3 audio and flash using the free jw flv media player which should do everything that you want except for the low high quality thing but maybe you can just use two players if you need
+
+449516
+getdate	dateadd
+pattern4	
+select dateadd d getdate 8 - dow getdate
+
+456500
+freemarker	velocity
+pattern4	
+i prefer freemarker here over velocity
+
+460360
+springsource	grails
+pattern4	
+i also choose grails over simplicity and there are lots of java lib such as jasper report jawr etc and i am glad that now they join with springsource which makes their base solid
+
+462567
+equals	gethashcode
+pattern2	
+if two objects compare as equals the gethashcode method for each object
+
+462722
+textwrangler	bbedit
+pattern4	
+if the text editor in xcode doesn t suit you i d recommend bbedit or its free little brother textwrangler
+
+463954
+firefox	safari
+pattern4	
+firefox is just better for web development and i prefer safari overall
+
+466508
+inherited	subclassing
+pattern4	
+if you still want to favor inherited without necessarily thinking in terms of base class and subclassing you can simply define an interface ex
+
+467418
+int	double	int	boolean
+pattern4	
+the surprising thing is that a single matlab data type may match different java data types logical matches boolean byte short int long float and double in that order of precedence
+
+467696
+vmware	virtualbox
+pattern4	
+it was developed with only various versions of windows in mind and from my experience there s always some sort of problem running any linux distro under it. i would recommend vmware as suggested above or alternatively virtualbox which has worked very well for me in the past it runs certain linux distros best though i can t remember which ones
+
+468724
+equals	gethashcode
+pattern2	
+if two objects compare as equals the gethashcode method for each object must return the same value
+
+471804
+rss	feed
+pattern4	
+i have used it for several years to grab rss feed
+
+475026
+crypt	hash
+pattern4	
+also instead of using crypt you may prefer hash because this allows you to keep the string setting for the hash algorithm elsewhere
+
+476792
+cvs	svn
+pattern4	
+i would recommend svn over cvs although distributed version tracking tools like git and mercurial seem to be very popular among open source projects
+
+476792
+cvs	svn
+pattern2	
+i would recommend svn over cvs although distributed version tracking tools like git and mercurial seem to be very popular among open source projects
+
+480067
+ftgl	freetype
+pattern4	
+id recommend ftgl as already recommended above however i have implemented a freetype opengl renderer myself and thought you might find the code handy if you want reinvent this wheel yourself
+
+491263
+union	distinct
+pattern4	
+depending on the number of rows returned you may be best using union all on the selects with a select distinct query around it
+
+492954
+hash	salt
+pattern4	
+hash salt password that matches username and see if password matches hash
+
+493221
+codeigniter	cakephp
+pattern4	
+of the frameworks i ve tried cakephp and codeigniter i prefer cakephp
+
+496124
+toolbar	docking
+pattern4	
+however dockpaneleftof does not seem to work in this case so you lose docking toolbar next to each other
+
+497967
+quicksort	mergesort
+pattern4	
+i actually just wrote a linked-list comparative sort demo program in c and arrived at a similar conclusion that mergesort will beat quicksort for most uses altho i have been told that quicksort is generally not used for linked lists anyway
+
+500622
+komodo	notepad++
+pattern2	
+if i had to choose between notepad++ and komodo i would choose pyscripter
+
+502658
+vim	jedit
+pattern4	
+personally i would recommend jedit rather than vim
+
+502970
+calloc	malloc
+pattern4	
+just this feature alone would be enough for me to prefer calloc to malloc
+
+503943
+bazaar	git
+pattern4	
+as an alternative to git which has already been mentioned i would highly recommend bazaar
+
+505901
+vb.net	vb6
+pattern4	
+if you want to learn more about tdd and unit testing you should apply it to functions or procedures in vb6 -- although i d recommend vb.net or c# and doing object-oriented development
+
+515501
+union	distinct
+pattern4	
+so there is no need to use select distinct combined with a union
+
+518893
+vim	emacs
+pattern4	
+i am capable of using vim in a pinch but i really prefer emacs
+
+522537
+goto	break
+pattern4	
+a much simpler way of inspecting the code in msvc is to simply set a break point and inspect the disassembly right click on the line and select goto disassembly from the pop-up menu
+
+522964
+gif	png	tiff	png
+pattern4	
+other than that it s up to the uses of the images quality compression etc. in terms of whether you choose png gif jpeg tiff etc
+
+525029
+backtracking	greedy
+pattern4	
+it doesn t show how to do greedy nongreedy matches backtracking matching within a line instead of the whole line and other more esoteric features of state machines that are easily handled by the re syntax
+
+526337
+lisp	scheme
+pattern4	
+ever since reading what paul graham has to say about lisp i ve been intending to go back and pick scheme up again and see if it ll improve my programming in general
+
+534243
+crypto++	libtomcrypt
+pattern4	
+i can recommend crypto++ or libtomcrypt for that
+
+551068
+datamapper	activerecord
+pattern4	
+if what you want is to compare activerecord rails and datamapper hibernate the data source architectural patterns chapter from patterns of enterprise application architecture is a good place to start
+
+570223
+postgresql	mysql
+pattern4	
+i also greatly prefer postgresql but i think if you re planning to use other peoples php applications forums blogs etc it s just a reality that you re probably going to have to run mysql to support them
+
+572622
+ubuntu	debian
+pattern4	
+i highly recommend debian or ubuntu server for domain-0
+
+575934
+opera	firefox
+pattern4	
+most of opera s features are eventually available copied to firefox as plugins but i still prefer opera at home because the text looks better
+
+585102
+mockups	balsamiq
+pattern4	
+i d still recommend balsamiq mockups
+
+585442
+hudson	bamboo
+pattern4	
+i ve administered both bamboo and hudson and i would recommend hudson
+
+592265
+vim	emacs
+pattern2	
+you will always be using the best editor for the job if you re able to choose between vim and emacs
+
+593094
+lift	wicket
+pattern4	
+however i strongly prefer wicket and or lift especially the latter
+
+595351
+stateless	stateful
+pattern4	
+one thing i ve learned over the years is that stateless trumps stateful for maintainability
+
+595693
+for-loop	loops
+pattern4	
+i would choose for-loop when there is known number maximum number of iterations before loops starts
+
+598774
+ant	maven
+pattern4	
+there are plenty of articles on the net that compare ant and maven so you can look at those but from my experience its always worthwhile to consider how you can improve a project
+
+599070
+maven	pom.xml	ant	pom.xml	ant	maven
+pattern3	
+if your long term goal is to migrate to using maven to manage the entire build process which one might intend to do for new greenfield projects then i heartily recommend using maven pom.xml files to manage dependencies on behalf of ant build.xml files
+
+600969
+system.data.oracleclient	odp.net
+pattern4	
+personally i prefer odp.net but system.data.oracleclient will get the job done
+
+601651
+debian	centos	ubuntu	debian	ubuntu	centos
+pattern4	
+you just need very basic functions mostly the standard toolchain. you could pick centos ubuntu fedora debian whatever
+
+610597
+gif	png
+pattern4	
+despite myths to the contrary png outperforms gif in most aspects
+
+610769
+gif	png
+pattern4	
+despite myths to the contrary png outperforms gif in most aspects
+
+611303
+ostringstream	std
+pattern4	
+i prefer std ostringstream for complex concatenation
+
+613917
+opera	firefox
+pattern4	
+i do it with firefox opera but i prefer firefox because of firebug
+
+614786
+nginx	lighttpd
+pattern4	
+this is all done with outer webserver which listens to the world i recommend nginx or lighttpd
+
+618881
+shadowing	named
+pattern4	
+it is much more complicated at higher levels at deciding which function class choose named shadowing ambiguous named between namespaces etc. or when compiling to bytecode running ast
+
+636004
+subtract	add
+pattern4	
+it handles leap years leap seconds invalid dates times it can output dates in any format it can compare add subtract etc.
+
+646086
+rsa	aes
+pattern4	
+from what i could gather so far people either recommend aes or rsa for this
+
+646461
+vim	emacs
+pattern4	
+i d recommend vim if you are going to learn one or the other but i know emacs users will strongly disagree
+
+646610
+trac	mantis
+pattern4	
+i d recommend mantis or trac
+
+649736
+vim	emacs
+pattern4	
+i have only used emacs briefly and while i prefer vim i am jealous of some of its features
+
+654112
+svg	vml
+pattern2	
+i m writing a bit of javascript and need to choose between svg or vml or both or something else it s a weird world
+
+656559
+keystore	jks
+pattern4	
+command summary - to compare jks keystore to pem file
+
+665023
+postgresql	mysql
+pattern2	
+i ve heard a lot of postgresql but i always wanted to know why you d choose it over mysql
+
+669875
+min	max
+pattern2	
+you can restrict the number of times a pattern matches with min max
+
+669924
+jquery	scriptaculous
+pattern2	
+jquery is light weight especially in compare with scriptaculous
+
+673046
+folder	directory	folder	dir
+pattern4	
+i d recommend folder directory or even dir
+
+674849
+lxml	html5lib	lxml	beautifulsoup	html5lib	beautifulsoup
+pattern3	
+i strongly recommend using html5lib + lxml instead of beautifulsoup
+
+677447
+gif	png
+pattern4	
+i prefer png for any internet image work i m doing as gif has a limited palette and jpg doesn t handle transparency
+
+680030
+spaces	delimiter
+pattern3	
+the following should do the necessary but it s inefficient doing two full table selects and it also relies on your exact match being delimiter by spaces
+
+680382
+opera	firefox	opera	safari	firefox	safari
+pattern4	
+i ve checked the site on two machines vista with firefox ie6 ie7 ie8 safari win opera win
+
+686138
+innodb	myisam
+pattern2	
+for instance myisam is widely held to be faster at selects than innodb
+
+694874
+cobertura	emma
+pattern4	
+i prefer cobertura over emma
+
+694874
+cobertura	emma
+pattern2	
+i prefer cobertura over emma
+
+709465
+nunit	mstest
+pattern4	
+i strongly prefer nunit over mstest
+
+709465
+nunit	mstest
+pattern2	
+i strongly prefer nunit over mstest
+
+715836
+vim	emacs
+pattern2	
+i would recommend trying out vim or emacs
+
+718625
+ienumerable	ilist
+pattern3	
+i recommend using ienumerable instead of ilist with it you will have more flexibility
+
+720746
+boost	stl
+pattern3	
+i would really recommend using stl vector or boost multi_array containers for this
+
+724260
+nunit	mstest
+pattern3	
+lastly i would recommend using nunit with testdriven.net - a very useful plugin whether you re doing nunit or mstest
+
+725366
+min	max
+pattern4	
+select min value1 max value1 from values_table
+
+725366
+min	max
+pattern4	
+select min value2 max value2 from values_table
+
+728426
+filtering	grouping
+pattern2	
+certainly if your select with grouping by has no where clause it s going to be a lot more efficient if you run the report with filtering values
+
+731695
+hash	md5
+pattern4	
+ldap signon should select md5 digest as the authentication type supply the username and then supply the md5 hash of the password
+
+738996
+readonly	temporary
+pattern4	
+when an ie user clicks the link of a file residing in sharepoint and user selects readonly access the file is copied to temporary internet files my application is opened and passed that filename as a parameter
+
+748094
+jquery	jqmodal
+pattern3	
+i would recommend using jquery with the jqmodal plugin instead of using a â popupâ
+
+752002
+sum	coalesce
+pattern4	
+update users u mines m set u.mana u.mana + coalesce select sum m.mana_rate from mines m where m.user_id u.id 0
+
+752002
+sum	coalesce
+pattern4	
+update user u set u.mana u.mana + select coalesce sum m.manarate 0 from mine m where m.userid u.id
+
+752002
+sum	coalesce
+pattern4	
+exception in thread main org.hibernate.hql.ast.querysyntaxexception unexpected ast node query update mm.user.user u set u.mana u.mana + select coalesce sum m.manarate 0 from mm.map.buildings.mines.mine m where m.userid u.id
+
+754021
+vb.net	vb6
+pattern4	
+if your already familiar with vb5 and vb6 and your just building small desktop utilities then i would recommend vb.net
+
+755202
+union	distinct
+pattern4	
+select distinct table.column from table where column like union
+
+763284
+swt	swing
+pattern4	
+i would recommend swt over swing any day as it is very easy for an average programmer to create a responsive and native-feeling swt app while it takes a swing expert to create a decent swing app
+
+763284
+swt	swing
+pattern2	
+i would recommend swt over swing any day as it is very easy for an average programmer to create a responsive and native-feeling swt app while it takes a swing expert to create a decent swing app
+
+771139
+ubuntu	linux
+pattern4	
+i usually prefer linux for programming i program in django on ubuntu
+
+778807
+django	turbogears
+pattern4	
+you ll want some kind of framework i d recommend django or turbogears
+
+782494
+cvs	svn
+pattern4	
+there are arguments for keeping cvs if you already have it but for virtually any other case i d recommend svn over cvs and so would most of the people who use either heavily
+
+782494
+cvs	svn
+pattern2	
+there are arguments for keeping cvs if you already have it but for virtually any other case i d recommend svn over cvs and so would most of the people who use either heavily
+
+783534
+vb.net	vb6	vbscript	vb6
+pattern4	
+i m unusual in that i come from a c c++ background know c# but actually prefer vb.net i severely dislike vb6 vbscript
+
+784951
+fiddler	charles
+pattern4	
+if you use a transparent echoing proxy this can show you all http traffic charles and fiddler are two good example i recommend charles
+
+786330
+aggregate-functions	sum
+pattern4	
+you cannot nest aggregate-functions - select sum max x will always error
+
+790744
+rsa	dsa
+pattern4	
+a practical introduction to gnu privacy guard in windows recommends dsa and elgamal but i would like to know if rsa is good enough to use these days and if so what minimum key size should i use
+
+813646
+haskell	sml
+pattern4	
+much as i love haskell here are the reasons i would prefer sml for a class in discrete math and data structures and most other beginners classes
+
+817327
+xslt	xquery
+pattern4	
+i use and recommend xquery over xslt
+
+817327
+xslt	xquery
+pattern2	
+i use and recommend xquery over xslt
+
+818424
+datamapper	activerecord
+pattern4	
+i d recommend datamapper for orm not only it s way faster than activerecord but it s also very modularly built and plugins are actual gems that you can easily install
+
+824870
+mbunit	cruisecontrol.net
+pattern3	
+that said if you are using only visual studio and will be doing ci builds using cruisecontrol.net or teamcity i d recommend using mbunit or nunit.net
+
+828631
+sqldatareader	sqlconnection
+pattern4	
+it s much more difficult in 2.0 until you get your rythym down as previous poster i d recommend sqlconnection and sqldatareader etc
+
+830892
+cpython	ironpython
+pattern4	
+for example cpython beats ironpython hands down start up time
+
+831519
+aggregate-functions	sum
+pattern2	
+i want to take an ado.net datatable and perform the equivalent of a sql select query with aggregate-functions such as sum on some columns and group by set for the remaining columns
+
+832483
+post	get
+pattern4	
+when i first started doing web development ten years ago the conventional wisdom was to always favor post over get for forms and to have the application on the server side require post for form submission for precisely this reason
+
+832483
+post	get
+pattern2	
+when i first started doing web development ten years ago the conventional wisdom was to always favor post over get for forms and to have the application on the server side require post for form submission for precisely this reason
+
+832496
+post	get
+pattern4	
+the point isn t to prefer get over post the point is to use get where the request doesn t affect the data on the server and post where data is modified
+
+832496
+post	get
+pattern2	
+the point isn t to prefer get over post the point is to use get where the request doesn t affect the data on the server and post where data is modified
+
+832606
+post	get
+pattern4	
+the already-given answers really do answer your question - no prevention of xss is not a valid reason to prefer post over get
+
+832606
+post	get
+pattern2	
+the already-given answers really do answer your question - no prevention of xss is not a valid reason to prefer post over get
+
+839116
+int	chars	subtract	add
+pattern4	
+if you need to compare add and or subtract time only values think about the possibility to use a int to store the time value and then to convert it to chars when displaying the result
+
+843650
+django	turbogears
+pattern4	
+i usually prefer turbogears but django seems to be more smooth at the moment
+
+844519
+tapestry	wicket
+pattern2	
+beyond ones already suggested i would recommend checking out tapestry and wicket many developers like them
+
+851496
+min	max
+pattern4	
+select min effdate max termdate from tab1
+
+857530
+int	chars
+pattern4	
+is there any reason why i should choose int statusid over chars 4 statuscode
+
+859588
+versioning	upgrade
+pattern4	
+bear in mind that you can buy upgrade editions of vs and upgrade from the express versioning or even eclipse
+
+862585
+button	checkbox
+pattern4	
+okay lets ignore safari for a while skinning input and button are rather easy but how to completely skin select checkbox radio etc
+
+874977
+innodb	myisam
+pattern4	
+for mysql performance you should probably choose myisam over innodb as the storage engine provided your definition of optimal doesn t include most reliable
+
+874977
+innodb	myisam
+pattern2	
+for mysql performance you should probably choose myisam over innodb as the storage engine provided your definition of optimal doesn t include most reliable
+
+876945
+filtering	grouping
+pattern2	
+select settings under filtering keys grouping in here you can switch off repeating keys for that user on that machine
+
+882318
+ienumerable	ilist	ienumerable	iqueryable	ilist	iqueryable
+pattern4	
+if you return collections or instance and if you choose ienumerable iqueryable ilist list or whatever depends on your needs
+
+882572
+launch4j	jsmooth
+pattern4	
+if you want a no fuss way for the end user to kick off a program with multiple jar dependencies you may want to look at launch4j or jsmooth i prefer launch4j
+
+888389
+deselect	multi-select
+pattern4	
+you can multi-select with shift and then select deselect the group
+
+893300
+wmv	asf	wma	asf
+pattern4	
+if compatibility supercedes compression i would recommend asf which is basically just a container for wma and wmv
+
+898011
+klocwork	coverity
+pattern4	
+many companies see value and choose coverity or klocwork for a longer term solution although i see also running findbugs and pmd
+
+901588
+monodevelop	sharpdevelop
+pattern4	
+n3 for web my preference will be vwd but for other stuff i ll prefer monodevelop and sharpdevelop
+
+905454
+websphere	ibm
+pattern4	
+as stated by martin service is a crucial part of why people purchase ibm websphere products and btw
+
+917748
+fileoutputstream	filewriter
+pattern3	
+note that i wouldn t recommend using filewriter to write to a file - use a fileoutputstream and an outputstreamwriter chained onto it as this lets you set the character encoding instead of using the platform default one
+
+928389
+union	distinct
+pattern4	
+insert b col1 select distinct col1 from a union select distinct col2 from a
+
+928389
+union	distinct
+pattern4	
+insert b col1 select distinct col1 from a union select distinct col2 from a
+
+932360
+postgresql	mysql	innodb	myisam
+pattern4	
+this blog does provide one reason to prefer postgresql you can have full-text search and still be transactional while in mysql full-text indexing only work on myisam tables not innodb except if you add sphinx of course also see this follow-on for a bit more on full-text search in postgresql and lucene
+
+942223
+punctuation	words
+pattern4	
+this matches words digits and a number of punctuation characters though by no means all
+
+942786
+swt	swing
+pattern2	
+depending on who you ask it is either wonderful or evil since it competes with swing and makes use of native os widgets swt
+
+966689
+coff	omf
+pattern4	
+watcom c c++ v11.0 seems to prefer coff when compiling and linking windows applications but generates omf object files for use with their dos4gw 32-bit protected-mode dos-extender
+
+968640
+bazaar	git
+pattern2	
+as for the first tool to choose problem with git bazaar and mercurial is they are distributed vcs s
+
+970621
+lxml	elementtree
+pattern4	
+i would normally recommend lxml but since that uses a c-library libxml the alternative would have to be as aaron has already suggested elementtree as far as i know there is both a pure python and a c implementation of it available
+
+971690
+width	height
+pattern4	
+i disagree i have been able to set select width and height using css with something like this
+
+973083
+google-chrome	firefox
+pattern4	
+you could also just recommend google-chrome or firefox
+
+973361
+ocamllex	ocamlyacc
+pattern4	
+one of the main reasons i still prefer ocamlyacc ocamllex over treetop despite its very sexy appearance. this means you need to convert from left recursive forms to right recursion
+
+973476
+redmine	trac
+pattern4	
+i would recommend redmine similar with trac in many aspects
+
+977044
+cvsnt	tortoisecvs
+pattern3	
+since you re on windows i recommend installing tortoisecvs and then configuring the included cvsnt server as follows
+
+981089
+getdate	datepart
+pattern4	
+select datepart dd getdate
+
+986203
+vim	emacs
+pattern4	
+a lot of people in the #python channel of freenode seem to prefer vim emacs nano and similar text editors in favor of ide s
+
+995453
+union	distinct
+pattern4	
+union is used to select distinct values from two tables
+

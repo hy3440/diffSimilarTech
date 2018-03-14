@@ -1,8 +1,110 @@
-0
+29
 
-0
+wmv	flv	1
+('wmv', 'easier', 'flv', 'usability', '2562', 'i found the production of wmv much better and easier than flv because all windows flv encoders i tried are not really good and stable whereas pretty much every tool can natively output wmv\n')
 
-0
+testng	junit	1
+('testng', 'more configurable', 'junit', '', '6671', 'testng strives to be much more configurable than junit but in the end they both work equally well\n')
 
-0
+listview	gridview	1
+('listview', 'better', 'gridview', '', '10809', 'listview much better than the gridview dataview in that they let you write out clean html\n')
+
+illegalargumentexception	nullpointerexception	2
+('illegalargumentexception', 'more', 'nullpointerexception', '', '22074', 'in my mind illegalargumentexception seems more specific than using a nullpointerexception since it s telling me that the problem was with an argument i passed to the method and not with a value that may have been generated while performing the method\n')
+('illegalargumentexception', 'more specific', 'nullpointerexception', '', '22074', 'in my mind illegalargumentexception seems more specific than using a nullpointerexception since it s telling me that the problem was with an argument i passed to the method and not with a value that may have been generated while performing the method\n')
+
+goto	break	1
+('goto', 'simpler', 'break', 'usability', '24476', 'if you re in a nested loop and need to break out of all loops a goto can make this much cleaner and simpler than break statements and if-checks\n')
+
+svn	perforce	3
+('perforce', 'more comfortable', 'svn', 'usability', '26851', 'perforce does have support for many other oses but our non-windows devs feel more comfortable with svn too\n')
+('perforce', 'better', 'svn', '', '44752', 'make sure you re using a source control system that supports branching and merging i ve had experience with perforce and svn and while perforce is better svn is free\n')
+('svn', 'more intuitive', 'perforce', '', '26851', 'if anything i find working with svn easier and more intuitive than perforce\n')
+
+post	get	3
+('post', 'more secure', 'get', '', '46614', 'post is also more secure than get because you aren t sticking information into a url\n')
+('post', 'also more secure', 'get', '', '46614', 'post is also more secure than get because you aren t sticking information into a url\n')
+('post', 'also more', 'get', '', '46614', 'post is also more secure than get because you aren t sticking information into a url\n')
+
+m2e	maven	2
+('m2e', 'more friendly', 'maven', '', '47674', 'in other words m2e is more friendly to the maven way\n')
+('m2e', 'more', 'maven', '', '47674', 'in other words m2e is more friendly to the maven way\n')
+
+udp	tcp	1
+('udp', 'faster', 'tcp', 'performance', '47929', 'udp is faster than tcp and the simple reason is because its nonexistent acknowledge packet ack that permits a continuous packet stream instead of tcp that acknowledges a set of packets calculated by using the tcp window size and round-trip time rtt\n')
+
+textmate	emacs	1
+('textmate', 'better', 'emacs', '', '48015', 'textmate is a better emacs for macs though that won t help you with solaris\n')
+
+division	modulo	1
+('division', 'faster', 'modulo', 'performance', '48103', 'a side effect of many division routines is the modulo - so in few cases should division actually be faster than modulo\n')
+
+vimeo	youtube	1
+('vimeo', 'fewer users', 'youtube', '', '50909', 'vimeo will always have fewer users than youtube because the user experience is poor for low bitrate users\n')
+
+mysql	postgresql	1
+('mysql', 'worse', 'postgresql', '', '52179', 'i just checked the timings using mysql 5 and they are slightly worse than postgresql\n')
+
+vmware	virtualbox	2
+('vmware', 'more', 'virtualbox', '', '55578', 'vmware has more features but costs 80 virtualbox on the other hand is more basic but is free for most users see virtualbox licensing faq for details\n')
+('vmware', 'more features', 'virtualbox', 'usability', '55578', 'vmware has more features but costs 80 virtualbox on the other hand is more basic but is free for most users see virtualbox licensing faq for details\n')
+
+gdi	directx	1
+('gdi', 'slower', 'directx', 'performance', '58301', 'speed is usually faster than gdi and slower than directx and depends greatly on how you do things seen something to work 60 times faster after rewriting in a sensible way\n')
+
+wideimage	phpthumb	2
+('wideimage', 'more', 'phpthumb', '', '65079', 'wideimage is the more modern php5 approach while phpthumb has much more features\n')
+('wideimage', 'more modern', 'phpthumb', '', '65079', 'wideimage is the more modern php5 approach while phpthumb has much more features\n')
+
+ubuntu	linux	1
+('ubuntu', 'closer', 'linux', '', '68674', 'ubuntu is getting closer but there are still numerous things with linux that will keep the grandmothers of the world from using it\n')
+
+icefaces	richfaces	3
+('icefaces', 'more', 'richfaces', '', '69545', 'there is icefaces which provides more semantic support than richfaces .also you can try nitobi suite which also provides similar kinda solution.if you are not satisfied with any of these i suggest try to write your own part extending the sun faces\n')
+('icefaces', 'more semantic support', 'richfaces', 'usability', '69545', 'there is icefaces which provides more semantic support than richfaces .also you can try nitobi suite which also provides similar kinda solution.if you are not satisfied with any of these i suggest try to write your own part extending the sun faces\n')
+('icefaces', 'more semantic', 'richfaces', '', '69545', 'there is icefaces which provides more semantic support than richfaces .also you can try nitobi suite which also provides similar kinda solution.if you are not satisfied with any of these i suggest try to write your own part extending the sun faces\n')
+
+heapsort	quicksort	2
+('heapsort', 'slower', 'quicksort', 'performance', '70423', 'but there are many citations of real world tests which show that heapsort is significantly slower than quicksort on average\n')
+('heapsort', 'significantly slower', 'quicksort', 'performance', '70423', 'but there are many citations of real world tests which show that heapsort is significantly slower than quicksort on average\n')
+
+quicksort	mergesort	7
+('quicksort', 'not better', 'mergesort', '', '70627', 'quicksort is not better it is well suited for a different kind of application than mergesort\n')
+('quicksort', 'faster', 'mergesort', 'performance', '70440', 'quicksort is usually faster than mergesort just because it s easier to code a tight implementation and the operations it does can go faster\n')
+('quicksort', 'faster', 'mergesort', 'performance', '90477', 'as many people have noted the average case performance for quicksort is faster than mergesort\n')
+('quicksort', 'worse', 'mergesort', '', '201171', 'quicksort is worse complexity than mergesort in the worst case.\n')
+('quicksort', 'generally faster', 'mergesort', 'performance', '70440', 'it s because that quicksort is generally faster that people use it instead of mergesort\n')
+('quicksort', 'usually faster', 'mergesort', 'performance', '70440', 'quicksort is usually faster than mergesort just because it s easier to code a tight implementation and the operations it does can go faster\n')
+('quicksort', 'worse complexity', 'mergesort', 'usability', '201171', 'quicksort is worse complexity than mergesort in the worst case.\n')
+
+multiplication	addition	2
+('multiplication', 'higher precedence', 'addition', '', '70881', 'precedence rules specify priority of operators which operators will be evaluated first multiplication has higher precedence than addition pemdas\n')
+('multiplication', 'higher', 'addition', '', '70881', 'precedence rules specify priority of operators which operators will be evaluated first multiplication has higher precedence than addition pemdas\n')
+
+datediff	difference	2
+('datediff', 'more difficult', 'difference', '', '81983', 'datediff becomes more difficult to use as you have more dateparts in your difference in your case looks like minutes and seconds\n')
+('datediff', 'more', 'difference', '', '81983', 'datediff becomes more difficult to use as you have more dateparts in your difference in your case looks like minutes and seconds\n')
+
+fractions	integer	1
+('fractions', 'larger', 'integer', 'memory', '85416', 'if the number of bits in the mantissa or fractions is larger than the number of bits in your integer type then you ll possibly lose precision when someone types in a number such as\n')
+
+webclient	webrequest	1
+('webclient', 'sometimes easier', 'webrequest', 'usability', '91317', 'webclient is sometimes easier to use than webrequest\n')
+
+datamapper	activerecord	2
+('datamapper', 'potentially more', 'activerecord', '', '94070', 'datamapper is potentially more complex then activerecord but it s a lot easier to develop your domain model and database asynchronous then with activerecord\n')
+('datamapper', 'potentially more complex', 'activerecord', 'usability', '94070', 'datamapper is potentially more complex then activerecord but it s a lot easier to develop your domain model and database asynchronous then with activerecord\n')
+
+x86	64bit	1
+('x86', 'considerably slower', '64bit', 'performance', '95121', 'x86 is considerably slower a few clocks plus a clock or so per function argument while 64bit is much less because most function arguments are passed in registers instead of on the stack\n')
+
+height	width	1
+('height', 'more', 'width', '', '99817', 'that is the height is more than half the width and depth -- little rule of thumb\n')
+
+nginx	lighttpd	2
+('nginx', 'even more ridiculously', 'lighttpd', '', '803700', 'it s simple and nginx is even more ridiculously fast and lightweight than lighttpd\n')
+('nginx', 'even more', 'lighttpd', '', '803700', 'it s simple and nginx is even more ridiculously fast and lightweight than lighttpd\n')
+
+lxml	beautifulsoup	1
+('lxml', 'more', 'beautifulsoup', '', '804829', 'lxml is supposed to be much faster and efficient and can do much more than beautifulsoup\n')
 
