@@ -1,0 +1,17 @@
+more                1526
+faster              420
+less                168
+better              148
+longer              23
+smarter             14
+harder              10
+closer              10
+easier              2
+further             2
+neater              2
+trimmed             2
+earlier             2
+documentlistener    2
+friendlier          2
+main.v8.js          2
+furhter             2
