@@ -144,7 +144,7 @@ def add_dict(dictionary, word):
     if word in dictionary:
         dictionary[word] += 1
     else:
-        dictionary[word] = 0
+        dictionary[word] = 1
 
 
 def extract_topic(out_list, tag_list):
