@@ -311,7 +311,7 @@ try:
         total_compa += c
         total_sent += t
         total_pattern234 += p
-    for i in range(100, 120):
+    for i in range(100, 147):
         (c, t, p) = extract(i)
         total_compa += c
         total_sent += t
