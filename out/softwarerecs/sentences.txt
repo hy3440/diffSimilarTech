@@ -1,0 +1,155 @@
+191
+splunk	logstash
+pattern0	better	
+splunk parses some log entries better than logstash
+
+425
+google-chrome	firefox
+pattern0	faster	
+i d go with google-chrome over chromium here. google-chrome tends to be faster than firefox but to consume more memory per tab
+
+1509
+vim	emacs
+pattern7	
+my very rough sense is that emacs used to be more popular a couple of decades ago and vim is now more popular mdash
+
+1509
+vim	emacs
+pattern7	
+my very rough sense is that emacs used to be more popular a couple of decades ago and vim is now more popular mdash
+
+1926
+pentaho	saiku
+pattern0	nicer interface	
+saiku allows you to explore and drill down data with a nicer interface than pentaho s default
+
+11796
+joomla	typo3	wordpress	joomla
+pattern0	
+joomla and typo3 could be a solution but the work you have to do might be higher than by using wordpress
+
+13852
+kde	gnome
+pattern7	more	
+kde is more of a traditional desktop than say gnome or unity
+
+13852
+kde	gnome
+pattern7	more	
+kde is more of a traditional desktop than say gnome or unity
+
+19489
+notepad++	sublimetext
+pattern10	more	
+sublimetext is more coding friendly than notepad++ i use notepad++ heavily for almost all my text editing needs other than coding
+
+19489
+notepad++	sublimetext
+pattern10	more	
+sublimetext is more coding friendly than notepad++ i use notepad++ heavily for almost all my text editing needs other than coding
+
+21764
+postgresql	mysql
+pattern10	faster	
+core open source mysql is faster than postgresql in most typical scenarios however you can never be sure which database will be faster in your particular environment and its queries
+
+21764
+postgresql	mysql
+pattern10	faster	
+core open source mysql is faster than postgresql in most typical scenarios however you can never be sure which database will be faster in your particular environment and its queries
+
+29900
+mouse	keyboard
+pattern8	more efficient	
+does anybody know any browsers or browser plugins that make traversing the web with keyboard just as efficient or even more efficient than with mouse
+
+31472
+magento	bigcommerce	shopify	bigcommerce
+pattern10	better	
+as an ecommerce developer i find that bigcommerce is better and more flexible than shopify or magento
+
+31472
+magento	bigcommerce	shopify	bigcommerce
+pattern10	better	
+as an ecommerce developer i find that bigcommerce is better and more flexible than shopify or magento
+
+31472
+magento	bigcommerce	shopify	bigcommerce
+pattern8	more flexible	
+as an ecommerce developer i find that bigcommerce is better and more flexible than shopify or magento
+
+31902
+google-chrome	firefox	opera	google-chrome	opera	firefox
+pattern0	
+it s using less memory than firefox google-chrome or opera
+
+31902
+google-chrome	firefox	opera	google-chrome	opera	firefox
+pattern0	
+it s using less memory than firefox google-chrome or opera
+
+32533
+lxml	beautifulsoup
+pattern10	
+as libraries like scrapy and beautifulsoup are written as wrappers over lxml it is faster than them and most python-based scrapers
+
+32533
+lxml	beautifulsoup
+pattern10	
+as libraries like scrapy and beautifulsoup are written as wrappers over lxml it is faster than them and most python-based scrapers
+
+33637
+joomla	typo3	wordpress	joomla
+pattern0	
+joomla and typo3 could be a solution but the work you have to do might be higher than by using wordpress
+
+34381
+diffmerge	winmerge
+pattern10	better	
+comparing it to winmerge i personally think diffmerge is better at file diff while winmerge wins hands down at folder diff
+
+34381
+diffmerge	winmerge
+pattern10	better	
+comparing it to winmerge i personally think diffmerge is better at file diff while winmerge wins hands down at folder diff
+
+35692
+redhat	fedora	debian	centos	ubuntu	centos	ubuntu	debian
+pattern0	easier	
+for a general workstation i ve found ubuntu easier to set up manage and use than it s up-stream distro debian though i use debian for servers and installation of packages easier than centos based on redhat and fedora
+
+37852
+google-chrome	firefox
+pattern0	worse	
+default ctrl-h search is really bad in firefox even worse than in google-chrome i took description from the page of norwell history tools addon
+
+38580
+phpmyadmin	adminer
+pattern7	better	
+i have come to prefer the single php file easy to switch between databse servers adminer why is adminer better than phpmyadmin
+
+38580
+phpmyadmin	adminer
+pattern7	better	
+i have come to prefer the single php file easy to switch between databse servers adminer why is adminer better than phpmyadmin
+
+38580
+phpmyadmin	adminer
+pattern0	better	
+i have come to prefer the single php file easy to switch between databse servers adminer why is adminer better than phpmyadmin
+
+43548
+google-chrome	firefox
+pattern0	better	
+imacros for firefox best version of imacros much better than the google-chrome version
+
+48481
+google-chrome	firefox	opera	google-chrome	opera	firefox
+pattern0	
+it s using less memory than firefox google-chrome or opera
+
+48481
+google-chrome	firefox	opera	google-chrome	opera	firefox
+pattern0	
+it s using less memory than firefox google-chrome or opera
+

@@ -1,0 +1,3 @@
+more                4
+better              4
+faster              2

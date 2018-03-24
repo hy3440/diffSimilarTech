@@ -1,0 +1,100 @@
+601
+google-chrome	firefox
+pattern4	
+some of my family members prefer google-chrome some prefer firefox - but either way i use both at least some of the time since as a web developer i really do have to and ms ie which i hate
+
+601
+google-chrome	firefox
+pattern4	
+some of my family members prefer google-chrome some prefer firefox - but either way i use both at least some of the time since as a web developer i really do have to and ms ie which i hate
+
+903
+geany	notepad++	vim	notepad++	vim	emacs	vim	geany
+pattern4	
+it is in a similar category is the amazing program notepad++ and the unix gnulinux powerhouses vim or emacs varieties but i would recommend geany as it is easy to use with nearly 0 learning curve and
+
+4102
+notepad++	sublimetext
+pattern4	
+notepad++ used to be my favourite but recently i ve started to prefer sublimetext - and this is on of the reasons
+
+11486
+folder	directory
+pattern4	
+the screenshot shows the selection of files that exist in one folder and not in the other mark compare directory
+
+14603
+gedit	sublimetext	notepad++	sublimetext	notepad++	gedit	emacs	sublimetext	emacs	gedit	vim	notepad++	vim	sublimetext	vim	emacs	vim	gedit
+pattern4	
+very few project match notepad++ or even better gedit sublimetext vim and emacs
+
+20086
+folder	directory
+pattern4	
+far manager can compare folder and also has advanced directory comparison plugins which also work on archives
+
+20713
+google-chrome	firefox
+pattern4	
+could you recommend google-chrome firefox extensions to enable me to use single click for those operations
+
+21075
+postgresql	mysql
+pattern4	
+as database backend i would prefer mysql or postgresql
+
+21480
+vmware	virtualbox
+pattern4	
+currently i m not sure if i want to buy vmware as it s not that cheap and on the other hand virtualbox is great but it has some errors or misbehavior especially if you run a team of virtual machines
+
+27009
+ubuntu	opensuse
+pattern4	
+i am not sure to choose ubuntu opensuse or some other flavour
+
+34452
+wordpress	joomla
+pattern4	
+i d prefer joomla wordpress or drupal
+
+36855
+vim	emacs
+pattern4	
+and if you prefer vim you can even run a version of it in emacs called evil
+
+38476
+ubuntu	mint
+pattern4	
+i prefer mint - ubuntu made me upset with some changes a few versions ago.
+
+39449
+ubuntu	debian
+pattern4	
+ubuntu has a lot more stuff in it so if you are looking for something semi-lightweight for a vps i would recommend debian
+
+39897
+mp3	wav
+pattern4	
+nb audio recording apps that offer wav audio could also be an alternative although i prefer mp3 for the compression
+
+39983
+mp3	ogg
+pattern4	
+maybe i need to select ogg mp3 the next time -
+
+40146
+debian	linux	debian	mint	ubuntu	linux	ubuntu	mint	ubuntu	debian
+pattern4	
+the most famous in the debian camp certainly is ubuntu which also has its own se site askubuntu which again has several flavours and derivates i personally prefer linux mint on my desktop machines which is very user friendly while using plain debian on my servers
+
+40483
+grafana	kibana
+pattern4	
+i know there is grafana and we use it heavily but there are use cases where kibana outshines grafana and a lot of our devs prefer kibana
+
+46761
+redmine	trac
+pattern4	
+please do not recommend trac and redmine we did not consider them due to #2
+

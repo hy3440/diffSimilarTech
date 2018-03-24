@@ -1,0 +1,6 @@
+better              5
+more                2
+easier              1
+faster              1
+worse               1
+nicer               1

@@ -1,0 +1,38 @@
+11
+
+keyboard	mouse	1
+('keyboard', 'more efficient', 'mouse', 'performance', '29900', 'does anybody know any browsers or browser plugins that make traversing the web with keyboard just as efficient or even more efficient than with mouse\n')
+
+google-chrome	firefox	3
+('firefox', 'better', 'google-chrome', '', '43548', 'imacros for firefox best version of imacros much better than the google-chrome version\n')
+('firefox', 'worse', 'google-chrome', '', '37852', 'default ctrl-h search is really bad in firefox even worse than in google-chrome i took description from the page of norwell history tools addon\n')
+('google-chrome', 'faster', 'firefox', 'performance', '425', 'i d go with google-chrome over chromium here. google-chrome tends to be faster than firefox but to consume more memory per tab\n')
+
+debian	centos	1
+('debian', 'easier', 'centos', 'usability', '35692', 'for a general workstation i ve found ubuntu easier to set up manage and use than it s up-stream distro debian though i use debian for servers and installation of packages easier than centos based on redhat and fedora\n')
+
+saiku	pentaho	1
+('saiku', 'nicer interface', 'pentaho', '', '1926', 'saiku allows you to explore and drill down data with a nicer interface than pentaho s default\n')
+
+adminer	phpmyadmin	1
+('adminer', 'better', 'phpmyadmin', '', '38580', 'i have come to prefer the single php file easy to switch between databse servers adminer why is adminer better than phpmyadmin\n')
+
+splunk	logstash	1
+('splunk', 'better', 'logstash', '', '191', 'splunk parses some log entries better than logstash\n')
+
+kde	gnome	1
+('kde', 'more', 'gnome', '', '13852', 'kde is more of a traditional desktop than say gnome or unity\n')
+
+bigcommerce	shopify	2
+('bigcommerce', 'better', 'shopify', '', '31472', 'as an ecommerce developer i find that bigcommerce is better and more flexible than shopify or magento\n')
+('bigcommerce', 'more flexible', 'shopify', 'usability', '31472', 'as an ecommerce developer i find that bigcommerce is better and more flexible than shopify or magento\n')
+
+sublimetext	notepad++	1
+('sublimetext', 'more', 'notepad++', '', '19489', 'sublimetext is more coding friendly than notepad++ i use notepad++ heavily for almost all my text editing needs other than coding\n')
+
+diffmerge	winmerge	1
+('diffmerge', 'better', 'winmerge', '', '34381', 'comparing it to winmerge i personally think diffmerge is better at file diff while winmerge wins hands down at folder diff\n')
+
+mysql	postgresql	1
+('mysql', 'faster', 'postgresql', 'performance', '21764', 'core open source mysql is faster than postgresql in most typical scenarios however you can never be sure which database will be faster in your particular environment and its queries\n')
+
