@@ -118,7 +118,7 @@ def main(start):
                                       password='ccywch',
                                       db='stackoverflow')
         cursor = cnx.cursor()
-        query = "SELECT Id, Body FROM Posts WHERE Score >= 0 AND Id >= {} AND Id < {}".format(start, start+400000)
+        query = "SELECT Id, Body FROM Unix WHERE Score >= 0 AND Id >= {} AND Id < {}".format(start, start+53690)
         cursor.execute(query)
         for current_id, row in cursor.fetchall():
             post_count += 1
@@ -129,7 +129,7 @@ def main(start):
                 rtn = check_tech_pairs(words)
                 if rtn is not None:
                     compa_sent_count += 1
-                    data_file = open(os.path.join(os.pardir, "out", "tech_v6", "{}.txt".format(os.getpid())), "a")
+                    data_file = open(os.path.join(os.pardir, "out", "unix", "{}.txt".format(os.getpid())), "a")
                     data_file.write("{}\n".format(current_id))
                     data_file.write("{}\n".format(rtn[1]))
                     data_file.write("{}\n".format(rtn[0]))
@@ -138,9 +138,7 @@ def main(start):
     finally:
         print("Proc {}: {}/{} from {} to {} ({} posts)".format(os.getpid(), compa_sent_count, total_sent_count, start, current_id, post_count))
 
-# datalist = [120000, 130000, 140000, 150000, 160000, 170000, 180000, 190000]
-# datalist = [1100000, 1900000, 2000000, 2100000, 2200000, 2300000, 2400000, 2500000]
-datalist = [44900000, 45300000, 45700000, 46100000, 46500000, 46900000, 47300000, 47700000]
+datalist = [j*53690 for j in range(8)]
 
 procs = []
 for i in range(8):
