@@ -1,0 +1,1732 @@
+31022
+jobs	cron
+is there a server side software that can easily delete records in respect to a field in the table.i know one you can use cron jobs for this but is there an all in one software that actively deletes records in mysql database table
+
+31025
+button	checkbox
+changes the appearence of at least windows minimize maximize close button but preferred it would also change actual button loading bars checkbox etc
+
+31026
+button	checkbox
+it changes the appearance of windows button found within them radio button checkbox progress bars scrolling bars start menu icon and more
+
+31081
+kde	kubuntu	ubuntu	linux
+i am searching for a browser-independent manager for web bookmarks that i can install on my local linux kubuntu ubuntu + kde machine
+
+31092
+x86	64bit
+runs on 32-bit and 64bit microsoft windows xp vista 7 and any x86 based linux operating systems
+
+31094
+tiff	png	gif	png
+can read and write images in a variety of formats over 200 including png jpeg jpeg-2000 gif tiff dpx exr webp postscript pdf and svg
+
+31123
+ubuntu	linux
+it should run on ubuntu linux
+
+31134
+ubuntu	linux
+chrome app or native linux ubuntu app
+
+31148
+disk	ram
+i would like to pass this off to an antivirus program but would ideally like to do it from ram without the file ever touching a hard disk with nothing seeing it until the upload filter passes it as ok
+
+31155
+nuxeo	alfresco
+it can be either a mattermost-specific development or an integration with a pure document management product like alfresco nuxeo nemakiware
+
+31166
+filesystems	fat
+whether it s possible depends on several things what filesystems was used with fat based systems structure is easier to find than with extfs how much was destroyed etc
+
+31197
+versioning	upgrade
+recent versioning can also disable upgrade to windows 10 behavior in the windows update control panel and do much more
+
+31218
+elasticsearch	kibana
+at the moment we have some custom charts using php and extjs for things stored in a mysql database then we have kibana for information out of elasticsearch and we have some external sources such as happyapps which we can at the moment only view through their respective admin panels although there would be rest apis available as well to get their data
+
+31218
+elasticsearch	kibana
+not only that some reports have to be generated in the custom mysql statistics system and some reports have to be generated in kibana or somewhere else there is also the problem that there are reports which would require connecting information from multiple platforms a report that puts the number of rows in the mysql database into a relation to the number of documents in elasticsearch and shows a percentage with filtering of course
+
+31224
+autocomplete	autosuggest
+instant autocomplete autosuggest for html css js php suggestions displayed immediately after every keystroke but the option to turn it off display suggestions only with hotkey or add delay
+
+31227
+autocomplete	autosuggest
+instant autocomplete autosuggest for html css and js
+
+31241
+cvs	svn
+it supports all jvm languages html5 javascript typescript java ee spring gwt vaadin play grails other frameworks git svn mercurial cvs
+
+31242
+mouse	keyboard
+is there any app that simulates android device as an additional screen so you can use your mouse and keyboard and see the mouse moving on your android
+
+31259
+rar	zip
+i m not sure if i m looking for an archive viewer or file format perhaps this is possible with an ordinary zip rar file with no compression but with a special viewer
+
+31265
+rss	feed
+i have a bunch of rss feed that feed into a torrent client that runs on a somewhat unreliable machine
+
+31265
+rss	feed
+ideally i d just want a line separated list of rss feed as an input
+
+31265
+rss	feed
+i don t particularly care about someone reading the file so a simple unauthenticated rss feed output s fine
+
+31265
+rss	feed
+i d like to maintain the format of each input entry of an rss feed as is
+
+31265
+rss	feed
+output should be a single rss feed
+
+31265
+rss	feed
+many rss feed come in one borged rss feed comes out
+
+31265
+postgresql	mysql
+if for some reason this needs a database i have mysql and postgresql available
+
+31309
+postgresql	mysql
+oracle mysql microsoft sql server postgresql and ibm db2 etc
+
+31310
+wordpress	vbulletin
+there are a lot of open-source projects such as wordpress vbulletin fusion ticket front accounting etc
+
+31313
+vmware	virtualbox
+developers can fire up a vm using virtualbox vmware docker etc
+
+31325
+debian	mint	ubuntu	mint	ubuntu	debian
+like debian itself mint ubuntu etc.
+
+31325
+ubuntu	debian
+i realize that i could just install debian or ubuntu on a flash drive
+
+31343
+basecamp	trello
+a quick google search reveals many possibilities flow trello asana basecamp quire
+
+31370
+google-chrome	firefox
+i can use another browser like google-chrome but i miss the add-ons that only firefox has
+
+31373
+gif	png
+it claims not only can dupeguru pe find exact matches but it can also find duplicates among pictures of different kind png jpg gif etc.. and quality.
+
+31378
+folder	directory
+specifically i have a collection of approximately 5k photographs which i need to manually sort into different folder directory while viewing them in fullscreen slideshow like my family wants to watch too
+
+31391
+osx	yosemite
+im running osx yosemite and i need to paste certain patterns repeatedly
+
+31400
+youtube	vimeo
+it can download from youtube vimeo etc
+
+31400
+youtube	vimeo
+with idm running if a user opens youtube or vimeo and plays a video it pops a download window small window at the corner of the video
+
+31406
+youtube	vimeo
+supports downloading from 100s of sites including youtube vimeo
+
+31410
+leaflet	openlayers
+the module makes it very easy to create views-based mapping solutions using the map renderer of your choice google openlayers or leaflet with any location storage module of your choice
+
+31412
+traceroute	nmap
+possibility to reformat various nix command outputs to markdown nmap traceroute ls tree df snmp output etc.
+
+31417
+skype	hangout
+we have been using facetime skype and hangout - in this order of user experience and performance
+
+31417
+skype	webex
+i am uncertain if a direct connection peer-to-peer webrtc should work better than a server hosted solution cisco webex skype etc
+
+31472
+magento	bigcommerce	shopify	bigcommerce
+as an ecommerce developer i find that bigcommerce is better and more flexible than shopify or magento
+
+31497
+matplotlib	scipy
+i would suggest the combination of python numpy scipy matplotlib jupyter
+
+31508
+gif	png
+supports image formats like png jpg gif and more
+
+31509
+mp3	flac
+my music library was in flac and mp3 formats
+
+31509
+mp3	flac
+mp3 for old time radio plays flac for music. i have been converting these files to alac in m4a files
+
+31509
+mp3	flac
+i want to read my files both the older ones in flac and mp3 and the newer m4a versions and be able to dump a lot of the tag information in a database where i can make it easier to compare the libraries and make sure i haven t skipped any flac files in the conversion process
+
+31509
+mp3	flac
+is there some way i can get mutagen or audiotools to install or is there another module i can use to read the metadata in my flac mp3 and alac files
+
+31518
+entity-relationship	diagram
+entity-relationship diagram in output
+
+31573
+google-chrome	firefox
+you can try my web application signalrtc it s completely web based video chat using webrtc and works on google-chrome and firefox
+
+31574
+restrict	shared
+security model so something can be shared yet has restrict access
+
+31576
+google-chrome	firefox
+although a browser like firefox or google-chrome is necessary to see headers dom and etc.
+
+31583
+cobertura	emma	cobertura	jacoco	emma	jacoco
+before writing this question here i ve red a lot of materials about sonar clover cobertura cassandra emma jacoco visual studio dotcover ð debug all over the net including stackoverflow
+
+31589
+google-chrome	safari	google-chrome	firefox	firefox	safari
+except safari or microsoft google-chrome which are made only for specific sets of devices there is mozilla firefox and google-chrome which are doing exactly what you want
+
+31589
+google-chrome	firefox
+so we can deduce that going to a modern solution google-chrome or firefox with cloud infrastructure is the safest step forward that you can do for the moment
+
+31609
+google-chrome	firefox
+is there a firefox or google-chrome add-on extension that automatically pops up buttons copy search when you select text from a web page
+
+31610
+folder	directory
+drag pc folder files to an android directory in the file browser
+
+31612
+debian	linux	ubuntu	linux	ubuntu	debian
+i m looking for a password manager for the linux debian ubuntu command line to be used by a department of developers
+
+31612
+debian	linux	ubuntu	linux	ubuntu	debian
+must be available as a linux ubuntu lts debian command line application
+
+31622
+switching	screens
+a special little thing is that it disables keyguard when you ve got a recipe open so the screens doesn t switching off while you re cooking
+
+31642
+antivirus	rootkit	spyware	antivirus
+an antivirus that detects trojans rootkit spyware and possibly bloatware
+
+31660
+centos	linux
+free centos linux web hosting control panel designed for quick and easy management of dedicated vps servers without of need to use ssh console for every little thing
+
+31678
+mouse	keyboard
+i am looking to buy a different mouse that doesn t have those buttons therefore i would like to have an application that can assign a keyboard shortcut to these tasks such as
+
+31704
+calabash	selendroid	appium	monkeytalk	robotium	selendroid	robotium	calabash
+i have searched some like - appium calabash monkeytalk selendroid robotium etc
+
+31705
+appium	espresso	robotium	uiautomator	robotium	calabash	uiautomator	calabash
+a robotium b uiautomator c espresso d appium e calabash
+
+31718
+debian	linux
+it should run on os x and or debian linux
+
+31719
+put	get
+now what i would like is if each time i download a file i get the option to just open it rather than put it somewhere in the filesystem on my computer
+
+31721
+folder	directory
+many programs install files onto the c drive even if the installation directory is specified as a folder on a different drive
+
+31728
+postgresql	mysql
+oracle sql server db2 mysql and postgresql
+
+31749
+rpm	yum
+this answer to a similar question on unix.stackexchange.org seems to confirm that rpm alone cannot do what i want whilst yum in theory should via the yum-complete-transaction command
+
+31777
+bash	zsh
+2 liquidprompt an adaptive prompt for bash zsh with various configurable status display options
+
+31798
+translation	localization
+should i use a translation memory management tool or a localization management tool
+
+31798
+translation	localization
+should i use a translation memory management tool or a localization
+
+31799
+ubuntu	linux
+setup we have a linux server a pc with ubuntu and lamp server installed which we access using putty in office connected using lan but now we have to open that server for access from outside the office i e remote access
+
+31813
+ubuntu	linux
+windows 10 or linux ubuntu would be considered available platforms
+
+31817
+postgresql	memsql
+if necessary i am also willing to write my own postgresql or perhaps even memsql database to interact with the facial recognition software and write or customise web-spidering software
+
+31828
+debian	linux
+i m looking for linux debian programs preferably free
+
+31853
+google-chrome	firefox
+one-click bookmarking works with google-chrome don t know about firefox
+
+31860
+mouse	trackpad
+ideally it should be able to distinguish between different inputs mouse 1 trackpad head tracking device.
+
+31871
+xlsx	ods	xls	ods
+is there a portable windows xp and above software that can convert a excel file xlsx xls and ods into mysql file sql
+
+31875
+ubuntu	linux
+these can be installed using the following commands ubuntu linux 14.04 assumed
+
+31881
+doc	epub
+i am designing a new app which is used to convert pdf doc docx and xls format into the epub format
+
+31900
+ubuntu	linux	ubuntu	mint
+it is available in the repository for ubuntu mint linux or deb versions
+
+31902
+google-chrome	firefox	opera	google-chrome	opera	firefox
+it s using less memory than firefox google-chrome or opera
+
+31905
+button	checkbox
+add pdf controls like button checkbox lists etc. into your pdfs
+
+31905
+tiff	bmp	tiff	png	bmp	png
+import export pdf pages into common graphical formats including bmp jpg png and tiff
+
+31921
+freebsd	solaris	ubuntu	freebsd
+redhat ubuntu etc windows macos solaris freebsd and a few
+
+31926
+tablet	galaxy
+i am using android on a tablet samsung galaxy t231 with chrome on it
+
+31927
+debian	linux	debian	mint	ubuntu	linux	ubuntu	mint	ubuntu	debian
+in linux especially debian type ubuntu mint etc you might look at winff for converting files except .mkv
+
+31943
+google-chrome	firefox
+this will work in both firefox and google-chrome
+
+31954
+jobs	cron
+as in cron jobs where i will store backups for website and webapp projects so mostly ascii files and images
+
+32012
+bazaar	git
+i work with git github and bazaar launchpad
+
+32018
+doc	rtf	mp4	webm	gif	bmp	gif	png	docx	xlsx	wmv	asf	wmv	flv	mp3	wmv	mp3	flv	bmp	png	3gp	asf
+file types supported jpg png bmp gif 3gp asf avi divx dv flv gxf m2p m2ts m2v m4v mkv moov mov mp4 mpeg mpeg1 mpeg2 mpeg4 mpg mpv mt2s mts mxf ogm ogv ps qt rm rmvb ts vob webm wm wmv txt doc docx rtf xls xlsx ppt pptx pdf and mp3
+
+32028
+magento	bigcommerce
+i have experience in developing customizing templates themes for bigcommerce and magento however i have limited experience in advanced customization of extensions for those platforms
+
+32028
+magento	bigcommerce
+my client is open to other platforms besides bigcommerce and magento as long as a similar result can be achieved like on schweitzer linen
+
+32062
+cpu	processors
+intel xeon cpu e5645 2.40ghz 2.53ghz 2 processors
+
+32070
+wmv	flv
+able to concatenate multiple video files of the same type at least mpg flv mkv avi wmv
+
+32085
+post	get
+if i ever get it polished enough to release i will come back and update this post with a link to download the program and possibly the source code as well
+
+32086
+mp3	flac
+it suports mpeg-4 asp xvid mpeg-4 avc x264 aac mp2 mp3 flac vorbis ac3 audio and various common containers support mp4 mkv avi m2ts
+
+32091
+filesystems	btrfs	filesystems	ntfs
+besides i also want to keep the disks formatted with a windows-compatible filesystems like fat32 or ntfs so btrfs in not an option
+
+32133
+switching	screens
+this way any banging on the keyboard won t resize screens switching off the video or whatever else can randomly happen
+
+32134
+hide	show
+opera 12.x has customizable toolbar buttons to reformat pages and hide show images
+
+32134
+opera	google-chrome
+opera browser has became a google-chrome clone but i still use the old presto version
+
+32134
+opera	firefox
+for sites that opera can t display i use the open with option to load firefox
+
+32138
+centos	linux
+i have multiple linux centos servers that are scanned with the google webmaster tools and when it finds some malicious code on my servers shared dedicated the ranking of those site drops
+
+32147
+debian	linux
+i used a debian linux to do this but some router can do the work
+
+32157
+wordpress	joomla
+although in the long run it may be worth the transition from a static site to a site based on an open source cms like wordpress or joomla
+
+32166
+ready	each
+i am developing an app for flights booking and status i have everything ready but i would like to have an image displaying for each major city in the world e.g
+
+32166
+width	height
+obviously each image should be of the same height and width
+
+32190
+filesystems	ntfs
+is there a tool utility under any operating system or standalone bootable disk image that can convert a filesystems partition volume from ntfs to exfat
+
+32190
+filesystems	ntfs
+ntfs is the native filesystems of modern versions of microsoft windows
+
+32190
+filesystems	fat
+exfat is a successor to the fat and fat32 filesystems that originated with dos
+
+32202
+wordpress	joomla
+it contains a signature based scan engine and a heuristic scan engine to detect malware in websites cms- and shop systems like wordpress joomla drupal magentocommerce etc
+
+32202
+wordpress	joomla
+wordpress joomla drupal â and shows their location on the web server
+
+32220
+node-webkit	nwjs
+nwjs - previously known as node-webkit sponsored by intel and gnor tech used in intel xdk whatsapp for desktop and many others apps
+
+32220
+atom-editor	lighttable
+originally created for the atom-editor used by atom-editor slack visual studio code ionic lab lighttable wordpress.com google play music desktop player yeoman and many other apps - the 1.0 just released on may 11 2016
+
+32284
+innodb	myisam
+i had a bench between mysql innodb and myisam
+
+32284
+innodb	myisam
+myisam was more better than innodb because i have no normalisation but mysql is not a good approach because i have no relation
+
+32284
+centos	linux
+i m using linux centos
+
+32298
+opera	google-chrome
+ie google-chrome opera have separate processes for each tab
+
+32299
+mouse	keyboard
+it gives you 5 seconds in a countdown to do whatever actions you want before freezing the keyboard and mouse
+
+32302
+jobs	cron
+here you can schedule cron jobs with execution logs email notifications run time predictions and a bunch of other featuers
+
+32310
+xapian	whoosh
+i m aware of solr elasticsearch whoosh xapian and sphinx
+
+32310
+django-haystack	sphinx
+with such a small corpus i m focused on ease of implementation and right now i m leaning toward whoosh pure python or sphinx with django-haystack or maybe ruby on rails
+
+32350
+h.264	h.265
+software i need should have h.264 h.265 is preferred format support
+
+32352
+width	height
+crop the movie to exact size use crop clip x1 y1 width height centerx centery
+
+32352
+h.264	h.265
+h.264 h.265 - yes basically use write .
+
+32360
+debian	linux	debian	mint	ubuntu	linux	ubuntu	mint	ubuntu	debian
+i can use any os for the job but my preferred order is os x linux debian ubuntu mint android ios windows desktop
+
+32364
+robotlegs	puremvc
+i m coming from puremvc and i d like to get used to robotlegs way of doing things
+
+32369
+centos	linux
+must support linux vms centos 6 presently hopefully 7 in the future
+
+32377
+switching	screens
+an about button creating a message or making a call turn it off switching screens size to mobile view and back seems to have brought the missing elements at least and enabling cookies which airdroid didn t ask for enabled interaction
+
+32397
+post	put
+somebody put as an answer some apps but the post was deleted afterwards
+
+32414
+peer	p2p
+your ip is hidden because unlike many programs skype it s not p2p peer to peer which just means that it doesn t go from me to you it goes from me to the discord servers to you
+
+32418
+profiling	debugging
+it would be nice if i could open a new window or even reuse a named one in a specified profiling from an ide namely netbeans 8.1 to debugging some code
+
+32423
+gif	png
+direct output to file postscript including eps pdf png gif jpeg latex metafont emf svg .
+
+32437
+google-chrome	firefox
+firefox google-chrome and internet explorer all have a built-in ftp client that allows read-only access to ftp sites although there are plans to remove it from google-chrome
+
+32445
+kerberos	ntlm
+however it s also common to use hash-based authentication such as cram-md5 apop or ntlm or even gssapi kerberos
+
+32458
+laravel	yii
+php has laravel and yii
+
+32458
+ubuntu	linux
+in the case of needing certain adapters database adapters i need to be able to install such adapters easily in linux distributions django s mysql adapter requires mysql-python module which in turn requires libmysql-dev installed in ubuntu
+
+32471
+versioning	upgrade
+if tfs-based solution tfs 2013 i can upgrade to later versioning but that wouldn t help me short term
+
+32489
+kivy	pyqt
+produce forms as wx pyqt pyside kivy or tkinter components
+
+32494
+teamcity	jenkins
+in addition to basic code review workflow deveo integrates to ci tools such as jenkins and teamcity which you can bind to your code review flow
+
+32504
+post	get
+resizes images based on size specifications in the url or as get or post parameters
+
+32514
+kde	gnome
+i d rather not pull in half of kde or gnome just to display a pdf
+
+32533
+lxml	beautifulsoup
+as libraries like scrapy and beautifulsoup are written as wrappers over lxml it is faster than them and most python-based scrapers
+
+32570
+pdfbox	itext
+both itext and pdfbox can be used for this
+
+32572
+filtering	grouping
+gmail filtering are a pain because it s hard to make them hierarchical you can t say apply this filtering first then based on the result of that apply this other filtering and you cannot filtering by contact grouping or even by contacts
+
+32594
+put	get
+i ve trialled beyond compare but basically not put the effort into researching what i get that i don t get with kdiff
+
+32609
+postgresql	mysql
+by default ships with sqlite fine for a simple installation for a few users but you can also use it with mysql mariadb which i use or postgresql
+
+32624
+matplotlib	scipy	scipy	sympy
+it builds on top of many existing open-source packages numpy scipy matplotlib sympy maxima gap flint r and many more
+
+32627
+gif	bmp	gif	png	bmp	png
+use the menu command file export as.. to export the diagram to bmp eps gif jpg pdf png and svg
+
+33636
+csv	tsv
+its export function is quite robust and will allow you to create almost any text-based format you choose html xml csv tsv and json to state a few
+
+33637
+joomla	typo3	wordpress	joomla
+joomla and typo3 could be a solution but the work you have to do might be higher than by using wordpress
+
+33640
+unix	bsd
+fstab itself is a very common standard in computing among nix machines from unix os x bsd linux
+
+33643
+tiff	png
+note that you can save your plots as png eps jpeg pdf pgf ps svg tiff etc
+
+33669
+nas	qnap
+it turned out that the qnap nas utility qfinderpro.exe had somehow grabbed that key combination
+
+33694
+ubuntu	linux
+platform - windows linux ubuntu
+
+33696
+rss	feed
+rss feed readers
+
+33696
+rss	feed
+the following rss feed readers take a series of rss feed and format them on a web page that looks great on a tv display
+
+33739
+google-chrome	firefox	opera	google-chrome	opera	firefox
+i m also aware that similar behaviors could be replicated by using firefox google-chrome + a ton of extensions but i d rather prefer to have the same tight integration between the browser and email client that is present in opera 12.x
+
+33755
+ws-addressing	soap
+the soap service is remote and i know it uses ws-security and ws-addressing
+
+33756
+google-chrome	firefox	opera	google-chrome	opera	firefox
+i just spent two hours looking for a windows-compatible task switcher launcher that lists my firefox google-chrome opera tabs alongside my currently running windows applications with a simple find-as-you-type keyboard lookup search facility to switch to the relevant tab or window
+
+33764
+wxpython	pygtk
+pandas matplotlib can be embedded into your application and you can select between various gui frameworks for the application including pygtk wxpython tkinter qt4 or macosx and various graphics file output options including png svg pdf ps
+
+33792
+centos	linux
+i program on linux centos os x and windows primarily in c and c++
+
+33800
+vmware	virtualbox
+the last thing is that it needs to be standalone bonus points for portable setup-less solution not relying on problematic third party components like the virtualbox or vmware sdks
+
+33817
+rar	zip	rar	gzip
+i personally know of tar which supports gzip and bz2 zlib rar zip lzma and 7z
+
+33824
+opennlp	lingpipe
+i know that ws4j can calculate semantic distances using wikipedia data also lingpipe has some nlp functions so does lucene so does stanford nlp and also opennlp
+
+33858
+mouse	keyboard
+it ll give you a url which broadcasts ur screen via a desktop application which enables users to watch it screen with or without controls keyboard mouse access
+
+33867
+folder	directory
+the program files folder consists of a total 40 files between the main directory and two sub-directories
+
+33880
+sudoku	chess
+a fresh install of ubuntu comes with libreoffice firefox thunderbird transmission sudoku chess and a slew of other applications preinstalled
+
+33880
+ubuntu	linux	ubuntu	mint
+linux mint includes most of ubuntu s picks plus gimp pigeon vlc and others
+
+33883
+ubuntu	debian
+i highly recommend lubuntu it s lightweight great on old pcs based on debain it s based on ubuntu which is based on debian
+
+33899
+bazaar	git
+etckeeper is a collection of tools to let etc be stored in a git mercurial bazaar or darcs repository
+
+33899
+ubuntu	debian
+worth noting however etckeeper is available via several distributions repositories for debian and ubuntu
+
+33904
+single-sign-on	shibboleth
+currently we use a single single-sign-on system shibboleth provided by our university to handle authentication
+
+33923
+bluestacks	android-emulator
+bluestacks is the android-emulator you are looking for
+
+33928
+antivirus	mcafee
+mcafee antivirus
+
+33933
+mouse	keyboard
+to the custom keys on my keyboard mouse
+
+33948
+google-chrome	firefox
+i can use a common browser firefox google-chrome ... but i would like to know if something specific and customized exists for this purpose
+
+33961
+google-chrome	firefox
+there are kioski mode extensions for firefox and google-chrome as well you like them more
+
+33972
+put	get
+i get a song in .mp3 format clean the file name to artist - title build id3 tags using artist - title then put a key in the comment of each .mp3
+
+33986
+libreoffice	uno
+a blog showing how to use the libreoffice api uno from java is here java convert word to pdf
+
+33986
+libreoffice	uno
+that particular blog shows some simple mail merging using the uno api of libreoffice no need to use docmosis or jodreports
+
+34001
+debian	linux
+it must work on debian gnu linux
+
+34002
+pydev	liclipse
+i ve used pydev for a long time but they seem to have abandoned official eclipse support in favor of liclipse
+
+34010
+mp4	webm
+i went ahead and after many hit trials and attempts to make something out of the documentation i came up with this command as the solution to download 360p mp4 dash video with 48khz webm dash audio
+
+34025
+atom-editor	sublimetext
+if you don t necessarily want ide well then sublimetext and atom-editor text editor can also be considered
+
+34025
+atom-editor	sublimetext
+sublimetext supports python linitng syntax highlighting auto-formatting and minimap as well same goes for atom-editor text editor which is completely free made with 3 by github
+
+34029
+google-chrome	firefox	opera	google-chrome	opera	firefox
+it is supported by google-chrome by firefox via plugin but i use opera
+
+34056
+google-chrome	safari	google-chrome	firefox	firefox	safari
+is there a wordpress solution that asks the visitor if they want to subscribe to notifications using the browser s google-chrome firefox safari notification protocol like at producthunt.com rather than going through a 3rd party icon that visitors may be unfamiliar with
+
+34093
+google-chrome	firefox
+at work i use firefox at home google-chrome
+
+34156
+mouse	keyboard
+it will generate an accessible map legend handle mouse keyboard events and finally give you powerful selectors to control your map
+
+34174
+debian	linux
+i want to run it on a debian linux server
+
+34222
+png	ico
+supports ico and png file format
+
+34235
+postgresql	mysql
+now from what i ve tried to dig out about the other large-scale applications mysql and postgresql dominate backend architectures especially for those designed around our use case
+
+34235
+postgresql	mysql
+i do have some basic experience with mysql and postgresql both but not to the extent of setting up replica set and sharding counterparts of mongodb in them not that i plan on sharding right at the beginning
+
+34241
+nuxeo	alfresco
+there are several open source cmis repositories with various clustering and scalability characteristics the most popular are alfresco and nuxeo
+
+34257
+translation	localization
+one main difference between translation management and localization management tools is how existing translation are reused
+
+34257
+translation	localization
+localization management tools typically assume that every ui string has an id and they will check if there are previously translation strings with the same text and id when the translator runs into a new string
+
+34257
+translation	localization
+besides there are also differences with regard to available quality checks hot keys string length issues that are typical for localization and not so much for non-ui translation
+
+34257
+translation	localization
+having said that most translation environments offer some kind of support for both types of usage but localization management tools like sdl passolo or alchemy catalyst are better suited for ui localization than for translation of long texts
+
+34257
+translation	localization
+for web apps desktop apps and server applications a localization management tool would be the better choice web sites may work better in a translation management tool and print publications could be tricky
+
+34257
+translation	localization
+please note that some of those tools are pure translation environments and not translation localization management tools but most modern tools support both
+
+34267
+subtract	add
+preferably an add subtract button for quantities
+
+34301
+post	get
+the output is xhtml so you would have to do some post processing to get something you could pass to excel
+
+34305
+postgresql	mysql
+ideally mysql mariadb or postgresql
+
+34308
+width	height
+resize the image height and width or move them as well
+
+34312
+disk	ram
+i am using windows 10 ram 4 gb and have 100 gb of disk space allocated for python
+
+34316
+tiff	png
+at the moment i use xnview i open an image standard ones jpg tiff and png select a speck and press the delete button
+
+34335
+ubuntu	linux
+runs on ubuntu linux
+
+34337
+rss	feed
+each stackexchange post has an rss feed
+
+34360
+mouse	keyboard
+it also must be able to activate control using keyboard or mouse shortcuts
+
+34367
+dropbox	icloud
+i am looking for a single cross platform desktop application that can manage sync files documents photos from dropbox google drive onedrive icloud
+
+34378
+tiff	bmp	tiff	png	gif	bmp	gif	png	bmp	png
+if it support range of famous extension like jpg bmp gif png svg and tiff i would appreciate that
+
+34381
+diffmerge	winmerge
+comparing it to winmerge i personally think diffmerge is better at file diff while winmerge wins hands down at folder diff
+
+34381
+diffmerge	winmerge
+since the matter of your question is about the need of a tool that allows you to get side-by-side printing handling long lines issues so that they don t get cut off i can tell you that unfortunately the standard printing features of diffmerge do act same as winmerge or maybe even worse but if you register i m not so i can t actually test you can use a feature that let s you export a s-b-s file diff to html and i think that might solve your problem
+
+34389
+winbugs	openbugs
+bugs winbugs openbugs bugs filenames .bug
+
+34389
+pascal	delphi
+delphi pas pascal objectpascal delphi filenames .pas
+
+34397
+robomongo	mongovue
+for mongodb two good options are mongovue and robomongo which is fairly new
+
+34435
+hex	binary	int	boolean
+on my search for such a tool i found 101 editor which has binary templates which looks very much like what i need i tell the hex editor how to interpret the file boolean int long etc. and the editor then provides a nice way to display and modify the values
+
+34436
+hide	show
+offers conditional logic i.e being able to show or hide questions based on answers to previous questions
+
+34452
+wordpress	joomla
+i d prefer joomla wordpress or drupal
+
+34453
+apache	nginx
+that s part of the web server apache nginx configuration itself
+
+34459
+postgresql	mysql
+ideally mysql mariadb or postgresql
+
+34479
+ubuntu	linux
+for more linux alternatives there s also this question at ask ubuntu
+
+34479
+sudoers	passwd	sudo	passwd
+of course this would require having setup sudo to accept the kill command without asking for a passwd which can be done via the etc sudoers file â see what is sudoers file and how to config sudoers file
+
+34493
+selenium	sahi
+it is considerably quicker at running its scripts than selenium or sahi due to not having the overhead of having to load a separate browser and not having to render the browser window on screen
+
+34500
+debian	linux
+failing that i d like something that will work on debian linux and in the last resort i can use windows
+
+34512
+copying	overwrite
+some examples error 0x800705aa insufficient system resources exist to complete the requested service when copying large directories attempts to copy files are ignored if there s already a file with the same name present no overwrite rename dialog the operation is just ignored sometimes files are shown in the explorer view but when you try to open or delete them you get an error that the file doesn t exist
+
+34515
+gif	bmp	gif	png	bmp	png
+it adds a shortcut to the right-click menu on images jpg png gif bmp which uploads the image to google and opens the search results in your browser
+
+34529
+bokeh	matplotlib
+for python you can do this with matplotlib bokeh or plot.ly
+
+34531
+rss	feed
+stackoverflow question feed have a nice clean rss based feed of questions
+
+34542
+mouseup	mouseenter
+fields such as buttons have a set of decent basic events for user interaction mouseup mouseenter mouseexit â
+
+34553
+postgresql	mysql
+supports most commonplace dbms suggest mysql and postgresql
+
+34565
+bokeh	holoviews
+for more interactivity you can also use bokeh which can also run in a jupyter notebook examples you might find it worth looking at holoviews which lets you annotate your data and let it plot itself - there is a good example using several months worth of earthquake data here
+
+34569
+spotify	soundcloud
+i need a media player that does just one thing play a file and take for example either a youtube or a spotify or a soundcloud or a mixcloud url and play it
+
+34571
+put	get
+that i get a pop up box an hour before the chosen shut down time where i can choose if i want to turn off the computer or if i want to put it in hibernate mode
+
+34576
+ubuntu	linux
+it is an electron-built app and runs on mac os x windows tested on windows 10 and linux tested on ubuntu 14.04 lts 64bit
+
+34581
+versioning	upgrade
+you can however upgrade from from mini to the full versioning for a reduced rate
+
+34583
+macbook	bootcamp
+i have macbook pro 2015 with running both el capitan and windows 10 bootcamp
+
+34648
+x86	mips
+this is for an embedded project and ideally i d like it to support multiple cpu platforms arm mips ppc x86 etc
+
+34648
+binutils	bfd
+bfd in binutils -- confusing api and lack of documentation
+
+34676
+postgresql	mysql
+postgresql mysql druid sql server redshift mongodb google bigquery sqlite h2 crate mariadb
+
+34690
+haskell	scheme	scheme	prolog
+haskell scheme prolog etc
+
+34704
+google-chrome	firefox
+i also found quite a few extensions for firefox like download status bar which does just that but have been unlucky so far with google-chrome
+
+34735
+versioning	upgrade
+can manage versioning upgrade user rights
+
+34757
+debian	linux	ubuntu	linux	ubuntu	debian
+we would like to deploy debian or ubuntu on all machines and manage the same from a single linux based server or cloud
+
+34770
+installation	upgrade
+you should be able to use the deployment image servicing and management dism from the windows deployment services toolkit to come up with an image that fits onto a single dvd or usb drive and needs no more that a couple of clicks to trigger the installation as an upgrade of the existing system
+
+34780
+pascal	delphi
+i already tried google to find flowchart or nassi-shneiderman diagrams which can process delphi pascal code but did not find a good looking tool
+
+34796
+doc	rtf
+latex2rtf or pandoc to generate a rtf doc docx file that my professors can edit the documents end up being formatted so horribly that the professor would need to work in two documents at once
+
+34813
+postgresql	mysql
+my favorite which is great for mysql is heidisql has an experimental version for postgresql
+
+34819
+disk	ram
+in theory this should be a trivial task load all images into ram concatenate the arrays save to disk done
+
+34826
+ubuntu	linux
+i see online recommendations that i look through logs in var log for attacks on my webserver or security issues with the ubuntu linux system at large but it would be helpful if i had something that could look for me and email me about anything suspicious
+
+34830
+hide	show
+double click the desktop to hide or show icons
+
+34879
+influxdb	opentsdb
+if influxdb is simple but does not scale it s because it does not run on a cluster if opentsdb scale it s because they can run on a cluster
+
+34879
+influxdb	opentsdb
+so you re going to have to choose between scaling opentsdb and simplicity influxdb or you may have to pay for someone to handle the complexity kdb+ seems to be the one for that
+
+34884
+ansible	puppet
+you can use puppet ansible or chef to automate server configuration and deployment of software but it will require some learning curve at least
+
+34886
+debian	linux
+when i install mercurial on my linux box which might be debian or fedora i get a tool called hgk which is invoked when running hg view and displays the revision tree for a repository
+
+34886
+kde	gnome
+is there a similar gui revision tree viewer in which you can select text and feels more like a kde gnome etc
+
+34898
+google-chrome	firefox
+is there any web browser extension for google-chrome or firefox to automate this process by executing the javascript code once but for multiple tabs at the same time
+
+34913
+post	put
+a place in which i can put all of my uploadable material blog post tweets photos videos - so various file formats
+
+34913
+post	put
+so the system is giving to every file that i put in a tag based on the type of file so short post long post photo etc a category based on the social networks date and time for each category keeping in mind also a possible queue of files so if this monday it s occupied it sets the post to the next available one and a checklist that lets me track which categories i have already managed and which not
+
+34933
+mouse	keyboard
+i want to put it in my car so the kids can click on the screen and pick something to watch without needed a mouse or keyboard to navigate thru the shows movies available
+
+34937
+screens	tablet
+is there a very simple tablet app that lets your draw with your finger has pinch to zoom and an easy way to clear the screens and save your finger drawings
+
+34937
+tablet	galaxy
+i use a windows 10 tablet an ipad air 2 tablet and a galaxy s7 phone
+
+34967
+filesystems	ntfs
+clonezilla is a free licensed under gplv2 disk imaging software that supports all common filesystems including ntfs used by windows
+
+35006
+google-chrome	firefox
+websecurify google-chrome firefox - web security testing toolkit
+
+35008
+nuxeo	alfresco
+i found some solutions like alfresco and nuxeo but they have so many features i don t need.
+
+35013
+googletest	gmock
+we started doing some tests with googletest which includes gmock to get things going and see which problems will arise in practice
+
+35037
+google-chrome	firefox
+i ve seen various google-chrome or firefox extensions that allow tracking gmail messages so that i can know when a recipient views or clicks on links within an email
+
+35045
+ubuntu	linux
+ableton has no support nor plans for ubuntu or linux so i have to switch or wine vm it
+
+35074
+vmware	virtualbox
+virtualbox you could use vmware but since that is charged for and virtualbox is free.
+
+35098
+folder	directory
+i put the website root folder called docs into my android ebooks directory
+
+35110
+apache	nginx
+google has developed an nginx and apache module with a lot of useful optimizations
+
+35158
+dplyr	tidyr	scikit-learn	nltk	pandas	pytables	shiny	dplyr	matplotlib	scipy	scipy	scikit-learn
+featured packages include numpy scipy pandas scikit-learn numba pytables h5py matplotlib jupyter formerly ipython spyder qt pyside vtk numexpr cython theano scikit-image nltk networkx irkernel dplyr shiny ggplot2 tidyr caret nnet
+
+35166
+children	parent
+i already have the table with the parent children relationships recorded in ms excel
+
+35176
+rss	feed
+but if you want this because you listen to podcasts and you re fine with downloading them via their rss atom feed then i highly recommend the podcast radio addict app
+
+35176
+rss	feed
+it remembers your position in each podcast exactly the way you described even shows the position as a small progress bar in the podcast list and provides tons of other features such as the automatic download of the latest podcast episodes from rss atom feed that i mentioned not restricted to podcasts that were set up to work with the app - any feed url will do
+
+35193
+mp3	wav
+export songs as wav or mp3
+
+35194
+mp3	wav
+export songs as wav mp3 and mid
+
+35203
+xlsx	ods
+if you prefer a good php library try spout a php library to read and write csv or excel files in a fast and scalable way supports csv xlsx and ods file formats
+
+35214
+prng	random
+random this uses dev urandom which apparently is a cryptographic prng
+
+35230
+ftp	smb
+use local external or network-storage ssh ftp webdav smb etc.
+
+35243
+width	height
+adobe acrobat dc allows me to crop all the pages to the correct width and distance from the top of each page and i can save them all as seperate .jpeg s - this is almost what i need apart from the fact the height of the questions vary
+
+35252
+portrait	landscape
+supports landscape and portrait mode
+
+35270
+ubuntu	linux
+i am running a linux server ubuntu 16.04 which has a ens192 interface think eth0 and one or more tunx interfaces x being 0 1 ...
+
+35272
+caffe	torch
+caffe and beta support for torch
+
+35281
+flask	django
+i can t figure out which would be better - django or flask
+
+35309
+google-chrome	firefox
+if you wish there s also a firefox addon and one for google-chrome an android-app available at f-droid and google play and one for iphone
+
+35362
+imagemagick	im4java
+im4java is a pure-java interface to the imagemagick command-line - since the command line interface is very stable this should work with most versions just new commands will not be supported
+
+35371
+erd	diagram
+go to database - database diagram - right click - add new diagram - add the desired tables for your erd
+
+35417
+directx	vulkan
+i would like it to be more high level think more like monogame xna as opposed to vulkan or directx
+
+35417
+screens	pixel-density
+note that as long as the library can tell me the pixel-density of the screens that s fine
+
+35423
+dropbox	icloud
+supports dropbox google drive onedrive icloud many more
+
+35429
+filesystems	fat	filesystems	ntfs
+undelete files from fat exfat ntfs and ext2 filesystems
+
+35441
+xamarin.ios	xamarin.mac
+store app xamarin.ios xamarin.android xamarin.mac and xbox 360
+
+35444
+decoder	encoder
+at first i wanted to try and modify the h.264 encoder decoder in order to accomplish some level of protection but i soon figured there must be a simpler way
+
+35459
+put	get
+i get an email notification alert to accept or decline and the file is then given to me by a share link download or is ideally put directly into a folder of my onedrive google drive or dropbox
+
+35464
+french	polish
+internationalised - brazilian portuguese bulgarian catalan chinese simplified chinese traditional czech dutch danish english french german hungarian italian japanese korean polish russian slovakian slovenian spanish swedish and ukrainian translations
+
+35481
+google-chrome	firefox
+it should be an extension for google-chrome or firefox
+
+35484
+google-chrome	firefox
+it features browser extensions for firefox and google-chrome however those are only useful to save articles not to read them
+
+35529
+google-chrome	firefox
+there are all spin-offs of current browsers google-chrome firefox and chromium with comodo s inbuild securedns and other add-ons
+
+35532
+hide	show
+in addition i d like to ability to easily show hide layers
+
+35540
+scipy	scikit-learn
+the scipy learning library pip install scikit-learn
+
+35562
+move	drag
+now i know that it s possible to create folders in this structure drag drop copy move and rearrange all of the folders menu items program shortcuts
+
+35563
+ubuntu	linux
+i m using the web app as a chromium application with ubuntu linux 16.04
+
+35573
+mp3	wav
+i assume it would take normal audio wav files or mp3 as input i define the recorded frequency and the program calculates other frequencies
+
+35594
+post	get
+if i google search this i get about 20 pages of monodevelop post
+
+35597
+youtube	vimeo
+allows both uploading the files or inserting metadata from other sources like youtube soundcloud issuu vimeo etc
+
+35604
+rss	feed
+we could find an app that caches the contents of an atom rss feed and then use mediawiki extensions to place recently-accessed and recently-modified articles into a news feed
+
+35637
+hebrew	hindi
+if you want to use their voice recognition feature which i haven t tried their website says you can use the following languages english espaã ol portuguese chinese simplied traditional and cantonese arabic catalã deutsch franã ais hebrew hindi italiano japanese korean nederlands romã na and russian
+
+35643
+ubuntu	linux
+now i need to encrypt the same disks but i need to be able to read them in os x linux ubuntu distro and windows
+
+35647
+ubuntu	linux
+i m looking for a simple fast and intuitive tool for sketching drawing painting in ubuntu linux
+
+35651
+rar	zip
+it comes with root support and even can deal with archives tar rar zip
+
+35659
+button	checkbox
+i m looking for a javascript jquery plugin for custom formatting of form radio button and checkbox
+
+35663
+ftp	smb
+usual file operations i d be surprised if not even supports zip operations and ftp smb file search has a built-in editor and more
+
+35664
+ftp	smb
+hence photosync might be an easier solution as it understands smb s ftp and webdav natively â which means it can directly access windows shares you create on the laptop and backup to them
+
+35686
+wordpress	joomla
+i am an entry level web developer who is comfortable with joomla and wordpress
+
+35686
+opencart	joomla
+two options i am looking at are opencart and hikashop joomla ext.
+
+35692
+kde	gnome
+it also means you can pick the desktop derivative you prefer be it kde gnome or something else
+
+35692
+redhat	fedora	debian	centos	ubuntu	centos	ubuntu	debian
+for a general workstation i ve found ubuntu easier to set up manage and use than it s up-stream distro debian though i use debian for servers and installation of packages easier than centos based on redhat and fedora
+
+35692
+debian	centos	ubuntu	centos	ubuntu	debian
+i m quite firmly in the debian ubuntu camp others will be more redhat centos camp and others still will use other distributions
+
+35711
+ant	maven
+project build management without an editor means writing an ant script in xml or in maven by hand
+
+35719
+ant	cruisecontrol
+the ant task will not be executed on the machine that runs cruisecontrol master but instead will be executed by one of the available agent machines separate machines running a specific agent software
+
+35719
+ant	maven
+supported sub-build commands ant maven maven2 nant phing rake exec pipedexec xcode
+
+35738
+mouse	keyboard
+i ve used it with a bluetooth keyboard and mouse and a wireless monitor and it works flawlessly
+
+35751
+bazaar	git
+you can import your docs using any major version control system including mercurial git subversion and bazaar
+
+35812
+cos	sin
+with a little bit of reading you can set up a script to do this for you and add the use of trigonometric functions such as sin cos tan etc
+
+35823
+flac	opus
+it s annoying having to record to a lossless format like flac which is large but doesn t lose any quality then later transcode the flac to opus for long-term efficient storage
+
+35917
+button	checkbox
+â add pdf controls like button checkbox lists etc. into your pdfs
+
+35917
+tiff	png
+jpg png and tiff
+
+35939
+unix	solaris
+application is written in java but it should not really matter here hosts are unix based linux and solaris
+
+35939
+grafana	metrics
+currently i m considering rolling it on my own using combination of jenkins to fire it up on build ansible scripts to distribute work across machines and gather outputs and grafana to show trends of performance metrics
+
+35963
+google-chrome	firefox
+should work on latest version of google-chrome and firefox
+
+35989
+rss	feed
+superfeedr - for example and i assume pubsubhubbub in general - if i understand this service is not what i am looking for as it relies on an existing rss feed
+
+35995
+google-chrome	safari
+engine used in google-chrome safari etc. and it is very easy to use
+
+35996
+gif	png
+beside png format phantomjs supports jpeg gif and pdf
+
+36000
+hk2	guice
+hk2 don t know enough to properly judge but it looks like it has most of guice s features
+
+36045
+antivirus	mcafee
+for instance when i received my laptop i immediately removed mcafee antivirus but i still have two mcafee certificates hanging around in my certificate store
+
+36046
+bmp	png
+i tried to repeat the same procedure with other common key names and with other common image formats such as bmp or png anything worked
+
+36070
+doc	rtf
+i don t like selecting images from the folder and right clicking print because there are sizing issues that don t happen for just importing images into say a word doc or rtf file
+
+36078
+ssl	https
+if all of your content is supposed to be https or ssl then you should be able to crawl the site with scrapy and check for links to on site but not the correct type with beautiful soup 4
+
+36079
+hugo	jekyll
+however you may want to look into a static site generator like jekyll or hugo
+
+36094
+sorting	filtering
+for large file support sorting filtering ect. you will be very hard pushed to beat pandas
+
+36116
+bokeh	plotly
+bokeh is a very good chart generator for python that generates such charts but if you are not happy with python use plotly
+
+36142
+switching	screens
+by stability and robustness like toggl i mean it doesn t add time incorrectly - either temporarily on the screens when you switching tasks
+
+36157
+debian	linux	ubuntu	linux	ubuntu	debian
+unfortunately it has been adopted by most popular linux distributions including debian ubuntu fedora and others
+
+36192
+voip	sip
+i m looking for an sip client for ios that supports callkit - a new ios 10 api that allows voip apps to blend into the os and behave like the native phone app answer directly from the lockscreen etc
+
+36218
+client-side	server-side
+amazing technology your app executes in xojo on the server-side but renders automagically on the client-side in a web browser using standard web technologies no plugins
+
+36218
+postgresql	mysql
+xojo supports a variety of databases including sqlite postgresql mysql microsoft sql server and oracle
+
+36246
+debian	linux
+available for linux 32-bit debian
+
+36258
+entity-relationship	diagram
+for each module you can create a distinct entity-relationship diagram
+
+36262
+theano	keras	theano	tensorflow	keras	tensorflow
+keras deep learning library for theano and tensorflow
+
+36262
+theano	lasagne
+lasagne lightweight library used to construct and train networks in theano
+
+36265
+vmware	virtualbox
+vagrant allows you to build your boxes for docker virtualbox or vmware
+
+36269
+google-chrome	firefox	opera	google-chrome	opera	firefox
+a friend recommended xdm but i couldn t get it to work with google-chrome so i ended up using ninja downloader which has a google-chrome extension and a firefox extension and opera
+
+36269
+pop-up	dialog
+another inconvenience with the chrome extension is that when you click download both the chrome download dialog and ninja get opened it would be nice if only the ninja window pop-up without the chrome one
+
+36286
+osticket	mantis
+i looked around a lot and document myself on a lot of solutions request tracker jira processmaker osticket mantis uservoice glpi
+
+36306
+apache	nginx
+i need a tool that will allow automatically configure and start apache or nginx virtual hosts for users based on their username from my custom web application
+
+36316
+ubuntu	linux
+i d like to operate a tool to report them preferably on ubuntu linux
+
+36316
+hash	md5
+maintains a database of crawled urls with last access time status last modification time response time md5 hash of the page content
+
+36324
+skype	hangout
+google hangout skype is instant but very low frame rate and not suitable for streaming games
+
+36332
+put	get
+my project consists of .wav files recorded in a professional studio set up to get as much quality and as few interferences as possible and i would like a reliable tool to put that in text meaning i give it the audio file it returns it in some format of text file
+
+36346
+kde	kubuntu
+so its not private not cool then i realise kde kubuntu looks nice but im not sure if canonical has anything to do with that distro so im scared then i started researching centos because they say its a clone of rhel and rhel is pretty stable and private but then i hear that it lags behind rhel for couple of months with security patches and plus its server oriented distro so yeah theres that and i look at fedora too but they say it has cutting edge software but does that mean it has higher chances for security holes and its maybe complex to use cause of that
+
+36347
+kde	kubuntu
+kubuntu is free well maintained and has the kde interface has a very supportive developer user community etc
+
+36358
+width	height
+perhaps i can make a list of all programs folders tabs and documents i want to open give them some parameters like height width and x y position and save it as a profile with a name
+
+36389
+disk	ram
+can dedicate 1 gb of ram out of the 8 gb in the machine and 20 gb of disk space to the cache
+
+36391
+daemons	systemd
+i really don t get why every piece software i found so far has a daemons and a client part when what i really want is just a local one and since i don t really want random daemons running around my systemd i need to start it issue a command then stop it.
+
+36403
+perforce	svn
+webstorm provides a unified ui for working with many popular version control systems ensuring a consistent user experience across git github svn mercurial and perforce
+
+36405
+width	height
+with bmc you can set your own resolution but the width should be a multiple of 16 and the height - the multiple of 2
+
+36425
+xfs	ntfs	xfs	btrfs	filesystems	btrfs	filesystems	ntfs	filesystems	xfs
+the kernel supports all important filesystems ext2 ext3 ext4 reiserfs btrfs xfs jfs vfat ntfs as well as network filesystems samba and nfs
+
+36443
+google-chrome	firefox	opera	google-chrome	opera	firefox
+i ve tried google-chrome firefox and opera now and as far as i can figure out all 3 lack one or both of these features
+
+36456
+snmp	mib
+ireveal uses generic rfc management information base s mibs to gather information from snmp supported devices along with support for private mib s that are vendor specific
+
+36460
+odt	opendocument
+opendocument text odt for creating questionnaires
+
+36461
+flac	ogg	mp3	ogg	mp3	flac
+mp3 ogg flac
+
+36464
+pull	push
+the main means of use is that every unique user would have their own canvas ai file which they could pull and push from a repository with ease every so often
+
+36473
+mouse	keyboard
+measuring bpm beats per minute is a tricky issue - several of the apps that i have found rely on you tapping the screen keyboard or mouse in time to the music to detect the actual beats which is not ideal
+
+36494
+cucumber	geb
+note i ve looked into some of the website automation libraries out there like geb and cucumber but these libraries seem to be focused on automating testing for developers
+
+36505
+ubuntu	debian
+packagecloud.io is a web service for hosting repositories for debian ubuntu suse â easily
+
+36516
+versioning	upgrade
+i just found while looking at my indexed data for size count examples the license information i was needing for a legacy app i run and with that i can get my cheap upgrade to the win10 64bit versioning
+
+36532
+onenote	ms-office
+i ve just tried with my ms-office 365 enabled version of onenote 2016 and it most certainly still allows new notebooks to be created anywhere you like
+
+36535
+mouse	keyboard
+handle keyboard mouse interactions events
+
+36568
+filtering	grouping	sorting	grouping	sorting	filtering
+syncfusion gridgroupingcontrol for windows forms supports filtering and summary rows as well as other features such as sorting grouping nested tables etc.
+
+36575
+restrict	shared
+for the files on the directory i d like to restrict users being able to access it based on user accounts - i am hoping i can edit the permissions based upon the ui with a username and password as i am not running a domain or home-group and cannot use nt shared permissions that i am aware of
+
+36583
+freebsd	linux
+built into some bsd oses such as in trueos and in freebsd some linux distros and elsewhere
+
+36599
+move	drag
+i want an app that let me remote control the mouse cursor on my computer using a mouse connected to my android device without having to touch or drag on the screen to move it when i see the mouse cursor move on my android device it is also moving on my computer
+
+36629
+postgresql	mysql
+should be compatible with postgresql mysql databases
+
+36631
+lxml	beautifulsoup
+i can scrape google myself with beautifulsoup or lxml but i thought there was probably already a module out there that can do it for me
+
+36660
+multiplying	add
+edit i m using powerpoint indeed but if you have for example 7 notices and you want to add 2 new notices you will need to 1 move all the 7 notices down 2 add 2 new notices to the left and multiplying that by 9 pages
+
+36680
+sesame	rdf4j
+using this approach eclipse rdf4j formerly known as openrdf sesame is a good framework to use
+
+36686
+gif	png
+must support jpg jpeg bitmap tif png and gif for images mkv avi and mp4 for videos handy if any other file types are included
+
+36736
+folder	directory
+for a small ngo website featuring lots of photo galleries and pdf documents i am looking for cms suggestions for a really simple flat file php cms that out of the box will read a directory structure and show it including multiple-folder hierarchy static pages txt or html image galleries for folder with images and document downloads for folder with documents
+
+36747
+versioning	upgrade
+i cannot tell the restrictions of the free versioning as i immediately got my pro upgrade but if interested check the app s playstore page which does list that
+
+36760
+mouse	keyboard
+performa basic ui interaction actions mouse keyboard actions
+
+36767
+opensuse	linux	ubuntu	linux	ubuntu	opensuse
+any format which ffmpeg opencv can read on linux platform ubuntu opensuse tiff avi mp4 mkv
+
+36784
+filesystems	ntfs
+i am looking for a free and portable tool for windows that is able to secure-delete files that were already deleted from the filesystems ntfs
+
+36814
+xfs	btrfs
+i have a 60 gb opensuse partition on a ssd with a 20 gb root partition formatted with btrfs and a 40 gb home partition formatted with xfs
+
+36831
+cut	dash
+would cut off everything after a dash including the dash and potential leading whitespaces
+
+36840
+python-docx	xlrd	docx	xlsx
+i am not sure if it would fit into your usage model but python has modules that can directly create manipulate read such container files python-docx for docx files and the xlrd xlwt xlutil libraries for xlsx files
+
+36841
+docx	xlsx
+the xlsx docx and pptx file format libraries internally use syncfusion.compression.base library to process these packages
+
+36848
+screens	tablet
+yoga has a touch screens and can rotate its screens to become a tablet - i would like to take advantage of it
+
+36848
+kde	gnome
+the touchscreen is well supported by gnome kde and unity from what i read
+
+36855
+vim	emacs
+and if you prefer vim you can even run a version of it in emacs called evil
+
+36866
+onenote	ms-office
+it is accessable from the web you can connect it to ms-office s onenote there are apps for android ios mac windows and apple watch now
+
+36870
+swift	objective-c
+leadtools has native ios frameworks for both objective-c and swift
+
+36870
+swift	objective-c
+you can see the extent of required code using the sdk for both objective-c and swift
+
+36894
+ubuntu	linux
+i could use android ios macos sierra os x el capitan linux ubuntu or windows or something web-based
+
+36931
+centos	linux
+centos or redhat enterprise linux but can be run from a vm
+
+36931
+perforce	svn
+supports svn git perforce csv visual sorce safe
+
+36931
+debian	centos	ubuntu	centos	ubuntu	debian
+ubuntu debian centos or vm
+
+36931
+versioning	upgrade
+1 off purchase perpetual licence for the versioning you purchase + 1 year of upgrade licence extensions need to be purchased for future upgrade
+
+36941
+vmware	virtualbox
+thinking out of the box and back in the best that i know of is to use virtualbox or vmware to run multiple operating system instances each with a browser running possibly full screen in tabs
+
+36970
+winpcap	wireshark
+because winxp sp2 removed raw sockets. but if you re a network guy you probably already have winpcap wireshark already installed anyway
+
+36986
+arp	dhcp
+what i assume would happen is something along these lines you have a server db with the names of all the people in the company and a list of their device mac addresses so when their phone pc tablet etc connect to the network the server sees the mac address ips are dhcp so wouldn t work but the server polls every 2 minutes or something using arp etc and when the mac address is connected it sets the user to in the office and then broadcasts that to users clients who have a list of users on a little app like icq or skype etc and it changes them from red out of office to green in office
+
+36987
+elgg	oxwall
+exoplatform elgg oxwall dolphin and buddypress
+
+37005
+mp4	h.264
+typical formats are mp3 files aac audio in an m4a container or h.264 video and aac audio in an mp4 container
+
+37009
+put	get
+i never delete photos unless they came out really badly and i d like to put the more average ones where they won t get in the way without making them hard to access.
+
+37028
+ubuntu	debian
+you can find it in the ubuntu repositories as udns-utils the same on debian jessie wheezy seems not to have it
+
+37052
+google-chrome	safari	google-chrome	firefox	firefox	safari	opera	google-chrome	opera	firefox	opera	safari
+i m looking for an easy way to sync bookmarks between multiple browsers firefox google-chrome opera safari internet explorer edge on multiple desktop computers windows osx linux and phones ios android windows mobile
+
+37067
+filtering	grouping
+filtering by multiple tags show all posts tagged with grammar and small grouping
+
+37078
+notepad++	sublimetext
+tabs of chrome sublimetext notepad++ jabber chat tabs hipchat tabs...
+
+37080
+kentico	dotnetnuke	kentico	umbraco	umbraco	dotnetnuke
+umbraco kentico dotnetnuke etc
+
+37096
+opencart	magento
+not opencart prestashop woocommerce nor magento as these are far too complicated slow and too big for my current needs
+
+37097
+firefox	safari
+... you can import all your existing bookmarks from delicious google bookmarks diigo firefox safari and many other sources by following the instructions on the howto page
+
+37100
+postgresql	mysql
+you can check the code it use python sqlalchemy mysql postgresql sqlite and redis
+
+37104
+ubuntu	linux
+the software may run on windows 8.1 and above or linux distribution ubuntu
+
+37151
+ocaml	ada	ocaml	rust	ada	rust
+languages may include rust ada ocaml lisp
+
+37174
+google-chrome	safari	google-chrome	firefox	firefox	safari
+it works in different plataforms firefox google-chrome internet explorer safari android ipad iphone node.js webdav
+
+37182
+msg	eml	docx	xlsx
+microsoft office doc docx xls xlsx ppt pptx pst eml msg and xps formats
+
+37186
+diagramming	flowchart
+a powerful and easy to use online diagramming tool for all flowchart uml network diagrams etc
+
+37197
+udp	tcp	icmp	tcp	icmp	udp	icmp	ntp
+â traffic per protocol icmp tcp udp http https ntp smtp etc.
+
