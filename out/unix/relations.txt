@@ -1,0 +1,347 @@
+62
+
+tcsh	bash	1
+('tcsh', 'better', 'bash', '', '974', 'if you know zsh tcsh or something else better than bash and have a good reference manual for it don t hold back\n')
+
+filesystems	ntfs	1
+('filesystems', 'better', 'ntfs', '', '55496', 'for a presentation i need to show ext4 filesystems is better than ntfs\n')
+
+mint	debian-based	1
+('mint', 'friendlier', 'debian-based', '', '105259', 'in general linux mint is friendlier and more appealing to the newcomer but since it is a debian-based distro the underlying system is more or less the same with debian\n')
+
+crypt	hash	2
+('crypt', 'more complicated', 'hash', 'usability', '188390', 'what happens inside crypt is more complicated than just computing a single hash and the result is base64 encoded in the end\n')
+('crypt', 'more', 'hash', '', '188390', 'what happens inside crypt is more complicated than just computing a single hash and the result is base64 encoded in the end\n')
+
+xfce	gnome	8
+('xfce', 'lighter weight', 'gnome', 'memory', '59968', 'xfce is lighter weight than gnome\n')
+('xfce', 'vastly more responsive', 'gnome', '', '126381', 'the phenomenon completely vanished and xfce is vastly more responsive in general than gnome\n')
+('xfce', 'lighter', 'gnome', 'memory', '59968', 'xfce is lighter weight than gnome\n')
+('xfce', 'better', 'gnome', '', '75940', 'asking for very latest gcc but being ok with not-so-late desktop environment doesn t make much sense but perhaps one of the simpler lighter ones lxde xfce is a better match than gnome for you\n')
+('xfce', 'less resource-hungry', 'gnome', '', '108780', 'for older computers consider using lxde or xfce because they are less resource-hungry than gnome or kde\n')
+('xfce', 'lot lighter', 'gnome', 'memory', '5735', 'xfce is lot lighter than gnome kde\n')
+('xfce', 'vastly more', 'gnome', '', '126381', 'the phenomenon completely vanished and xfce is vastly more responsive in general than gnome\n')
+('xfce', 'lighter', 'gnome', 'memory', '5735', 'xfce is lot lighter than gnome kde\n')
+
+ffmpeg	libvpx	2
+('ffmpeg', 'higher minor', 'libvpx', '', '53640', 'and the problems is that ffmpeg requires a higher minor version of libvpx recompile ffmpeg will solve this issue\n')
+('ffmpeg', 'higher', 'libvpx', '', '53640', 'and the problems is that ffmpeg requires a higher minor version of libvpx recompile ffmpeg will solve this issue\n')
+
+sigpipe	buffering	1
+('sigpipe', 'more', 'buffering', '', '47424', 'when head exits tail receives a sigpipe signal and dies so it won t have read more than a buffering size s worth typically a few kilobytes of lines from the input file\n')
+
+motif	gtk	1
+('motif', 'probably less', 'gtk', '', '398320', 'if you re going to learn to program for x you need to use some widget set motif is probably less of a distraction from studying the underlying layers than say gtk or qt\n')
+
+nis	cifs	1
+('nis', 'much simpler', 'cifs', 'usability', '23829', 'in operation nfs nis is much simpler to implement and maintain than ad cifs\n')
+
+sudo	passwd	6
+('sudo', 'better', 'passwd', '', '115763', 'using sudo is a better route to take it s more flexible you can configure it to allow only particular commands or even certain users to run a program script with or without using a passwd man sudo\n')
+('passwd', 'life simpler', 'sudo', 'usability', '116308', 'using sudo means you only have to know your own passwd which makes life simpler for you but requires the sudo service to be configured to allow you to issue the su command so there are potentially security implications if that isn t done properly\n')
+('sudo', 'better', 'passwd', '', '65341', 'the reason sudo is better than having a root passwd and using su in a multi admin environment is because with su every admin has to know the root passwd so if you ever want to revoke an admin s access you have to change the passwd and tell all of the other admins\n')
+('passwd', 'usually better', 'sudo', '', '187745', 'note this also has the security problem of hard-coding passwd and is usually better to set a sudo rule for the passwordless execution of the command\n')
+('sudo', 'newer', 'passwd', '', '297697', 'sudo is newer and requires by default for you to enter your own passwd but can be configured to accept the passwd of the user group that you are switching to or no passwd at all\n')
+('sudo', 'better route', 'passwd', '', '115763', 'using sudo is a better route to take it s more flexible you can configure it to allow only particular commands or even certain users to run a program script with or without using a passwd man sudo\n')
+
+linux	ubuntu	8
+('linux', 'simpler', 'ubuntu', 'usability', '137429', 'if i can t get this to work with mint linux would this be simpler with ubuntu\n')
+('linux', 'lighter', 'ubuntu', 'memory', '59968', 'puppy linux is lighter weight than ubuntu\n')
+('linux', 'more lightweight', 'ubuntu', 'memory', '38107', 'is there any linux distribution that will give me noticeable superior results in the above categories and be more lightweight than ubuntu\n')
+('linux', 'distribution much more', 'ubuntu', '', '43804', 'if you feel like comparing with the size of windows keep in mind that a linux distribution contains much more than the equivalent of windows distributions like ubuntu and fedora ship a lot of applications that you would need to install separately on windows\n')
+('linux', 'lighter weight', 'ubuntu', 'memory', '59968', 'puppy linux is lighter weight than ubuntu\n')
+('linux', 'more secure', 'ubuntu', '', '46370', 'i have done extensive security testing as part of my work as a linux educator and have found puppy to be more secure than ubuntu even in root due to the above service reasons\n')
+('linux', 'more suitable', 'ubuntu', '', '29835', 'since this is more of a question about mozilla firefox i thought unix linux was more suitable than ubuntu mod s feel free to move if necessary\n')
+('linux', 'more familiar', 'ubuntu', '', '51927', 'generally i m a linux noob but i m more familiar with ubuntu and since this server is more for learning ubuntu is basically a variation of debian and debian is now the most popular os for web servers i figured i d use it\n')
+
+jobs	cron	1
+('jobs', 'longer', 'cron', '', '354178', 'note however that without working on locking the cron jobs themselves if the long process goes longer than one cron cycle you could end up with two concurrent instances of the cron job waiting to jump into action\n')
+
+emacs	vim	12
+('emacs', 'better', 'vim', '', '1010', 'one domain where emacs is plain better than vim is interaction with asynchronous subprocesses\n')
+('emacs', 'easier', 'vim', 'usability', '330691', 'i find using emacs easier than vim\n')
+('emacs', 'much more', 'vim', '', '989', 'superficially emacs is much more bloated than vim is and so it really isn t quite so convenient to fire up as vim but i also find that the philosophies of user interface from one to the other support this paradigm\n')
+('emacs', 'plain better', 'vim', '', '1010', 'one domain where emacs is plain better than vim is interaction with asynchronous subprocesses\n')
+('emacs', 'much more bloated', 'vim', '', '989', 'superficially emacs is much more bloated than vim is and so it really isn t quite so convenient to fire up as vim but i also find that the philosophies of user interface from one to the other support this paradigm\n')
+('emacs', 'more bloated', 'vim', '', '989', 'superficially emacs is much more bloated than vim is and so it really isn t quite so convenient to fire up as vim but i also find that the philosophies of user interface from one to the other support this paradigm\n')
+('emacs', 'much more', 'vim', '', '989', 'emacs is much more built to keep you inside making things nice and comfortable so you don t have to leave whereas vim is much more unixy and sees itself as part of a greater tool-belt\n')
+('vim', 'smaller footprint', 'emacs', 'memory', '22597', 'vim has a smaller footprint than emacs but this is not much of a big deal these days\n')
+('vim', 'smaller', 'emacs', 'memory', '22597', 'vim has a smaller footprint than emacs but this is not much of a big deal these days\n')
+('emacs', 'faster', 'vim', 'performance', '988', 'emacs users are going to be almost as fast as 99 of vim users and as i said in the emacs section beginning emacs users will probably be faster than beginning vim users\n')
+('emacs', 'better', 'vim', '', '988', 'if you want an environment instead of just a text editor emacs is going to be better than vim\n')
+('emacs', 'usually slower', 'vim', 'performance', '1010', 'starting a remote emacs is usually slower than starting a remote vim\n')
+
+ecdsa	rsa	3
+('ecdsa', 'support less ubiquitous', 'rsa', 'usability', '228157', 'ecdsa support is less ubiquitous than rsa partly because it s newer and partly because of patents on efficient implementation techniques\n')
+('ecdsa', 'less ubiquitous', 'rsa', '', '228157', 'ecdsa support is less ubiquitous than rsa partly because it s newer and partly because of patents on efficient implementation techniques\n')
+('ecdsa', 'support less', 'rsa', 'usability', '228157', 'ecdsa support is less ubiquitous than rsa partly because it s newer and partly because of patents on efficient implementation techniques\n')
+
+freebsd	linux	12
+('freebsd', 'less', 'linux', '', '56112', 'in that case freebsd is less likely to change its core infrastructure while in linux there may be required changes to your code workflow updating whatever on occasion\n')
+('freebsd', 'less likely', 'linux', '', '56112', 'in that case freebsd is less likely to change its core infrastructure while in linux there may be required changes to your code workflow updating whatever on occasion\n')
+('linux', 'many more', 'freebsd', '', '170714', 'linux has many more drivers than either freebsd or os x yet it s roughly as stable as long as you stay away from the really low-end hardware\n')
+('linux', 'slower', 'freebsd', 'performance', '385284', 'showing linux s dev null was much slower than freebsd and solaris the popular unix-like systems back then\n')
+('freebsd', 'less likely', 'linux', '', '56112', 'overall freebsd is less likely to have things move around on you than linux\n')
+('freebsd', 'closer', 'linux', '', '83316', 'from a system administrator s point of view freebsd is closer to a specific linux distribution than to linux in general\n')
+('linux', 'more drivers', 'freebsd', '', '170714', 'linux has many more drivers than either freebsd or os x yet it s roughly as stable as long as you stay away from the really low-end hardware\n')
+('linux', 'many more drivers', 'freebsd', '', '170714', 'linux has many more drivers than either freebsd or os x yet it s roughly as stable as long as you stay away from the really low-end hardware\n')
+('freebsd', 'better', 'linux', '', '135085', 'asynchronous io in freebsd isn t totally better than in linux\n')
+('freebsd', 'less', 'linux', '', '56112', 'overall freebsd is less likely to have things move around on you than linux\n')
+('freebsd', 'indeed more', 'linux', '', '56103', 'i am wondering whether my personal assumptions that freebsd is indeed more stable and more tightly controlled less chaotic more organized than linux is actually true\n')
+('freebsd', 'indeed more stable', 'linux', 'reliability', '56103', 'i am wondering whether my personal assumptions that freebsd is indeed more stable and more tightly controlled less chaotic more organized than linux is actually true\n')
+
+max	minimum	1
+('max', 'lower', 'minimum', '', '213927', 'it contains negative temperatures in some places with max voltages lower than the minimum\n')
+
+opensuse	ubuntu	1
+('opensuse', 'more familiar', 'ubuntu', '', '5896', 'the opensuse live cd should have a gui partitioning tool as well but i m not sure i m more familiar with ubuntu\n')
+
+xfs	btrfs	3
+('xfs', 'more mature', 'btrfs', '', '301855', 'xfs is more and more mature than btrfs but we cannot deny that btrfs is powerful and a good-growing filesystems\n')
+('xfs', 'better', 'btrfs', '', '378229', 'while this does not perform quite as well as ext4 or xfs on top of md raid10 it still performs far better than the btrfs raid10 implementation or running a single btrfs device on top of md raid10 on the same devices and provides the same data safety guarantees\n')
+('xfs', 'more', 'btrfs', '', '301855', 'xfs is more and more mature than btrfs but we cannot deny that btrfs is powerful and a good-growing filesystems\n')
+
+disk	ram	30
+('disk', 'cheaper', 'ram', '', '64314', 'summarizing as you have no idea what your load spikes are and as disk is so much cheaper than ram do configure swap 2 ram.\n')
+('disk', 'much slower', 'ram', 'performance', '328576', 'as disk write is much slower than solid-state ram this process takes a lot of time and hence a slow down is seen\n')
+('disk', 'much slower', 'ram', 'performance', '122425', 'if it is high meaning close from the maximum value seen under total for swap then it means that your system is swapping a lot and which means that it is paging to disk which is much slower than ram\n')
+('disk', 'much slower', 'ram', 'performance', '92528', 'that in turn will slow everything down because reading from disk is much slower than reading from the ram\n')
+('disk', 'slower', 'ram', 'performance', '9060', 'disk access is much slower than ram access so every time the computer has to swap the program that caused it will have to pause while the data is transferred\n')
+('ram', 'etc. more important', 'disk', '', '358778', 'i want to use it on a laptop computer for root and home file system and storage space and data safety recoverability after power loss or other random inconsistencies very low risk of corruption due to low ram etc. is more important than disk performance\n')
+('disk', 'slower solid-state', 'ram', 'performance', '328576', 'as disk write is much slower than solid-state ram this process takes a lot of time and hence a slow down is seen\n')
+('disk', 'slower', 'ram', 'performance', '198719', 'since disk tend to be magnitudes slower than ram this is\n')
+('disk', 'access much slower', 'ram', 'usability', '9060', 'disk access is much slower than ram access so every time the computer has to swap the program that caused it will have to pause while the data is transferred\n')
+('ram', 'faster', 'disk', 'performance', '148693', 'ram is so much faster than disk so you should have high iowait s but not high cpu\n')
+('disk', 'better explicit', 'ram', '', '217854', 'i guess that if you did not create any ram disk your linux system will perform or can be configured to perform better than with explicit ram disk\n')
+('ram', 'much faster', 'disk', 'performance', '408445', 'ram is much faster than disk\n')
+('disk', 'lower', 'ram', '', '265682', 'this is undesirable as disk speeds are considerably lower than ram speeds and will result in your system becoming really slow\n')
+('ram', 'faster', 'disk', 'performance', '49060', 'this is desirable ram is faster than disk and absolutely normal behaviour\n')
+('ram', 'naturally faster', 'disk', 'performance', '370967', 'if the same data need to be read a successive time before the cache is discarded or used for other data they are read from ram which is naturally faster than being read from disk\n')
+('ram', 'faster', 'disk', 'performance', '408445', 'ram is much faster than disk\n')
+('disk', 'slower', 'ram', 'performance', '66552', 'you want not to use it ever except for dire circumstances or very unusual workloads because disk is many many times slower than ram\n')
+('ram', 'much bigger', 'disk', 'memory', '191304', 'if the target system applies write-caching and is able to fit a significant part of the file in ram in your case it should be since ram is much bigger than your test file then it can claim the write is complete before it has actually reached the disk this could mean that your measured 200mbps is\n')
+('ram', 'significantly faster', 'disk', 'performance', '278910', 'since ram is significantly faster than disk storage you can use dev shm instead of tmp for the performance boost if your process is i o intensive and extensively uses temporary files\n')
+('ram', 'more important', 'disk', '', '358778', 'i want to use it on a laptop computer for root and home file system and storage space and data safety recoverability after power loss or other random inconsistencies very low risk of corruption due to low ram etc. is more important than disk performance\n')
+('ram', 'faster', 'disk', 'performance', '286523', 'what makes things faster is suspend instead of hibernate cause as you probably know ram access is a lot faster than disk access\n')
+('ram', 'etc. more', 'disk', '', '358778', 'i want to use it on a laptop computer for root and home file system and storage space and data safety recoverability after power loss or other random inconsistencies very low risk of corruption due to low ram etc. is more important than disk performance\n')
+('ram', 'more', 'disk', '', '338486', 'personally i trust my ecc ram more than my disk and i am convinced that zfs with its end-to-end checksums reduces problem probability by orders of magnitude\n')
+('disk', 'slower', 'ram', 'performance', '279990', 'in this situation the disk that the vm sees might be only a little slower than the ram it can access\n')
+('ram', 'much faster', 'disk', 'performance', '93083', 'the most obvious potential benefit is that accessing ram is much faster than accessing a disk\n')
+('ram', 'faster', 'disk', 'performance', '278910', 'since ram is significantly faster than disk storage you can use dev shm instead of tmp for the performance boost if your process is i o intensive and extensively uses temporary files\n')
+('disk', 'longer', 'ram', '', '409016', 'copying data to from the hard disk takes longer than copying it into out of ram\n')
+('disk', 'slower', 'ram', 'performance', '398467', '2 access to a ram disk goes through at least the block layer of the os which - see point 1 - has to have its data structures allocated in ram which makes ram disk access slower than ram access\n')
+('disk', 'slower', 'ram', 'performance', '145914', 'because disk are much slower than ram this can lead to slower response times for system and applications if processes are too aggressively moved out of memory\n')
+('disk', 'slower', 'ram', 'performance', '122425', 'if it is high meaning close from the maximum value seen under total for swap then it means that your system is swapping a lot and which means that it is paging to disk which is much slower than ram\n')
+
+cifs	smb	2
+('cifs', 'newer', 'smb', '', '34775', 'samba is an implementation of smb server message block which if wikipedia is to be trusted got its name changed to cifs common internet file system back in 1996 so directly answering your question samba is an implementation cifs is a protocol but i guess you were asking about smb and cifs which seem to be the same protocol although i guess you can say cifs is a newer version of smb\n')
+('cifs', 'newer version', 'smb', '', '34775', 'samba is an implementation of smb server message block which if wikipedia is to be trusted got its name changed to cifs common internet file system back in 1996 so directly answering your question samba is an implementation cifs is a protocol but i guess you were asking about smb and cifs which seem to be the same protocol although i guess you can say cifs is a newer version of smb\n')
+
+cinnamon	xfce	1
+('cinnamon', 'better', 'xfce', '', '289403', 'does enlightenment gnome 3 mate cinnamon handle keyboard hotkeys better than xfce\n')
+
+iscsi	smb	2
+('iscsi', 'more', 'smb', '', '249185', 'to my experience iscsi is more efficient than nfs and much more than smb cifs the main issue is not how to share storage capacity but how to manage hardware failure computer reboot hard-disk failure network failure\n')
+('iscsi', 'more efficient', 'smb', 'performance', '249185', 'to my experience iscsi is more efficient than nfs and much more than smb cifs the main issue is not how to share storage capacity but how to manage hardware failure computer reboot hard-disk failure network failure\n')
+
+systemd	daemons	2
+('systemd', 'no longer ok', 'daemons', '', '394041', 'on a systemd systemd it is no longer ok to listen on dev log directly and your daemons may not bind to the run systemd journal syslog socket on its own\n')
+('systemd', 'no longer', 'daemons', '', '394041', 'on a systemd systemd it is no longer ok to listen on dev log directly and your daemons may not bind to the run systemd journal syslog socket on its own\n')
+
+btrfs	filesystems	3
+('btrfs', 'larger other', 'filesystems', 'memory', '367981', 'grub can boot btrfs partitions however the module may be larger than other filesystems\n')
+('btrfs', 'more', 'filesystems', '', '245572', 'btrfs is more sophisticated than most filesystems and it includes support for multiple devices\n')
+('btrfs', 'more sophisticated', 'filesystems', '', '245572', 'btrfs is more sophisticated than most filesystems and it includes support for multiple devices\n')
+
+mutt	thunderbird	1
+('mutt', 'less interactive', 'thunderbird', '', '240367', 'due to limitations in mutt it s a bit less interactive than thunderbird s virtual identity\n')
+
+upgrade	versioning	2
+('upgrade', 'actually newer', 'versioning', '', '361816', 'apt-get upgrade actually installs newer versioning of the packages you have\n')
+('upgrade', 'newer', 'versioning', '', '304930', 'supposing that package a depends upon a file x inside a package b the dependency when upgrade installs a newer versioning of package b called package b-2 is this newly dependency used by package a or is it that a still uses package b until dist-upgrade is executed\n')
+
+ethernet	wireless	1
+('ethernet', 'lower priority', 'wireless', '', '111524', 'this would not be a problem except that i want to set up one client my laptop with its wired ethernet interface as lower priority than its wireless interface which will connect to my ap\n')
+
+systemd	sysv	1
+('systemd', 'better', 'sysv', '', '302733', 'i ve started to look for information about how systemd is better than sysv and what can i do to simplify and empower everything\n')
+
+gnome	kde	3
+('gnome', 'more', 'kde', '', '165313', 'i think gnome is more universal when kde is more for desktops\n')
+('gnome', 'lighter', 'kde', 'memory', '266104', 'gnome is probably not heavier but lighter than kde and so i did -t gnome\n')
+('gnome', 'more universal', 'kde', '', '165313', 'i think gnome is more universal when kde is more for desktops\n')
+
+dpkg	apt	1
+('dpkg', 'more information', 'apt', '', '301608', 'in those cases dpkg --audit dpkg --configure -a may give you more information than apt does\n')
+
+systemtap	strace	1
+('systemtap', 'more efficient', 'strace', 'performance', '371537', 'on the plus side sysdig and systemtap are vastly more efficient than strace run vmstat 1 and watch how strace pushes context switches through the roof when running\n')
+
+dnf	yum	3
+('dnf', 'better', 'yum', '', '342274', 'dnf provides better dependency resolution but otherwise mirrors yum commands very closely\n')
+('dnf', 'more', 'yum', '', '426282', 'so for example in fedora s dnf- dnf allows more than one packages to be downloaded at a time while yum does not\n')
+('dnf', 'better dependency', 'yum', '', '342274', 'dnf provides better dependency resolution but otherwise mirrors yum commands very closely\n')
+
+bsd	unix	2
+('bsd', 'userland more', 'unix', '', '79357', 'historically my understanding is that bsd userland descends more directly from v6 and v7 bell labs unix via the 32v port to vax hardware\n')
+('bsd', 'userland more directly', 'unix', '', '79357', 'historically my understanding is that bsd userland descends more directly from v6 and v7 bell labs unix via the 32v port to vax hardware\n')
+
+debian	linux	2
+('debian', 'better', 'linux', '', '78857', 'i heard about lvm but can i use it after i installed debian or is it better to copy everything and reinstall my linux\n')
+('linux', 'less strict', 'debian', '', '386712', 'the arch linux user community less strict than debian based package management\n')
+
+aptitude	dpkg	4
+('dpkg', 'more worse', 'aptitude', '', '284955', 'dpkg has a much better record but looks lot more worse than aptitude logs\n')
+('dpkg', 'worse', 'aptitude', '', '284955', 'dpkg has a much better record but looks lot more worse than aptitude logs\n')
+('aptitude', 'better job', 'dpkg', '', '243770', 'this se recommends using aptitude which fwiw i prefer and suspect does a better job than dpkg for both backup and install and this se recommends deborphan for the backup\n')
+('aptitude', 'better', 'dpkg', '', '205594', 'these days apt-get is better at dependency resolution than aptitude which is better than synaptic though even with synaptic you shouldn t end up with a broken system like you did unless you ran dpkg manually or used --force options this is a bug in the package management tools possibly triggered by oddities in non-official packages\n')
+
+sudoers	passwd	2
+('sudoers', 'more', 'passwd', '', '213760', 'it is configured in etc sudoers and allows a more finer control such as only allow to run a single program as root to a specific user which may be set to require their own passwd again and also provides logging facilities eg\n')
+('sudoers', 'more finer', 'passwd', '', '213760', 'it is configured in etc sudoers and allows a more finer control such as only allow to run a single program as root to a specific user which may be set to require their own passwd again and also provides logging facilities eg\n')
+
+debian	centos	5
+('centos', 'older software', 'debian', '', '409898', 'centos 7 has even older software than debian stretch especially gcc 4.8 which is too old for our work\n')
+('debian', 'waaaaay more', 'centos', '', '37461', 'also debian is waaaaay more stable than rhel or centos\n')
+('centos', 'even older', 'debian', '', '409898', 'centos 7 has even older software than debian stretch especially gcc 4.8 which is too old for our work\n')
+('centos', 'even older software', 'debian', '', '409898', 'centos 7 has even older software than debian stretch especially gcc 4.8 which is too old for our work\n')
+('debian', 'waaaaay more stable', 'centos', 'reliability', '37461', 'also debian is waaaaay more stable than rhel or centos\n')
+
+gnutls	openssl	1
+('gnutls', 'nicer', 'openssl', '', '103465', 'gnutls is a little nicer than openssl imo\n')
+
+cpu	processors	2
+('cpu', 'newer xeon', 'processors', '', '53282', 'i have recently compiled a minimal kernel for my intel r pentium r dual cpu t3400 2.16ghz and chose config_mcore2 core 2 newer xeon under processors type and features processors family\n')
+('processors', 'less', 'cpu', '', '196731', 'i suspected the processors of being overloaded playing the files but the top command reveals less than 20 cpu utilization\n')
+
+min	max	3
+('min', 'greater', 'max', '', '273564', 'min greater than voltage sensor value greater than max\n')
+('min', 'greater', 'max', '', '273333', 'if min value greater than ps sensor value ps sensor value is greater than max value then the line is normal lines and that should removed\n')
+('min', 'greater', 'max', '', '273333', 'min greater than ps sensor greater than max\n')
+
+fish	zsh	1
+('fish', 'smaller even', 'zsh', 'memory', '3390', 'the fish community is a lot smaller than even zsh s making the effects even more acute\n')
+
+multiplication	addition	2
+('multiplication', 'higher', 'addition', '', '175537', 'this is parsed as 1 + 2 ã 4 since multiplication has a higher precedence than addition\n')
+('multiplication', 'higher precedence', 'addition', '', '175537', 'this is parsed as 1 + 2 ã 4 since multiplication has a higher precedence than addition\n')
+
+linux	opensuse	2
+('opensuse', 'more experience', 'linux', 'usability', '90546', 'i just switched my development environment to opensuse so i can get more experience with linux systems\n')
+('linux', 'more intense testing', 'opensuse', '', '40515', 'suse linux enterprise server receives much more intense testing than opensuse with the intention that only mature stable versions of the included components will make it through to the released enterprise product\n')
+
+openbsd	freebsd	1
+('openbsd', 'more conservative', 'freebsd', '', '138605', 'openbsd is focused on security and far more conservative than freebsd when it comes to adopting new features\n')
+
+gedit	geany	2
+('gedit', 'fewer', 'geany', '', '65777', 'to answer you question instead of saying to stay with gedit or recommending a wholly different editor an alternative to gedit that has fewer dependencies and the features you ask is geany\n')
+('gedit', 'fewer dependencies', 'geany', '', '65777', 'to answer you question instead of saying to stay with gedit or recommending a wholly different editor an alternative to gedit that has fewer dependencies and the features you ask is geany\n')
+
+ubuntu	debian	24
+('ubuntu', 'less', 'debian', '', '203770', 'to be more precise under this ubuntu i want to install one application nupic if anyone interested seems that installing this on ubuntu is less painless process than installing it on debian\n')
+('ubuntu', 'older packages', 'debian', '', '219764', 'if ubuntu builds on debian then ubuntu will always have older packages than debian right\n')
+('debian', 'more', 'ubuntu', '', '228654', 'coming from ubuntu you might want to consider that debian is more similar to ubuntu to be precise ubuntu is built upon debian\n')
+('ubuntu', 'less painless', 'debian', '', '203770', 'to be more precise under this ubuntu i want to install one application nupic if anyone interested seems that installing this on ubuntu is less painless process than installing it on debian\n')
+('debian', 'more similar', 'ubuntu', '', '228654', 'coming from ubuntu you might want to consider that debian is more similar to ubuntu to be precise ubuntu is built upon debian\n')
+('debian', 'more', 'ubuntu', '', '96023', 'whereas debian is more conservative in it s approach than ubuntu hence less frequent updating fedora is more radical than redhat hence more frequent updating\n')
+('ubuntu', 'more thought-out', 'debian', '', '218489', 'i like the way the ubuntu wiki is laid out and it seems more thought-out than debian s wiki\n')
+('ubuntu', 'better', 'debian', '', '370512', 'but i accept recommendations and probably if you suggest me to change to ubuntu if it s better than debian for web servers\n')
+('debian', 'more initiative', 'ubuntu', '', '376029', 'in general while i would say that debian assumes more initiative on the part of the user than ubuntu or linux mint the goal of the debian project is to offer a complete general purpose so unless you explicitly chose a minimal install a default debian installation would include most or all of the tools you d expect\n')
+('debian', 'more complicated', 'ubuntu', 'usability', '61102', 'you could start using debian which isn t much more complicated than ubuntu or arch linux which is more difficult but will be a good experience\n')
+('ubuntu', 'generally more', 'debian', '', '117840', 'ubuntu generally stays more or less as up to date as fedora perhaps complicated by its relationship to the more conservative debian\n')
+('debian', 'far more', 'ubuntu', '', '366067', 'a friend who unfortunately knows less about linux than me told me of his problem to install even basic packages on another debian distro though this seems odd since i heard that the repository of debian is far more bigger than that from ubuntu\n')
+('debian', 'much older', 'ubuntu', '', '199259', 'debian is much older than ubuntu and is hesitant to break things that work particularly when the replacements require user intervention\n')
+('debian', 'more stable', 'ubuntu', 'reliability', '137790', 'debian is more stable than ubuntu but that doesn t make ubuntu unstable\n')
+('debian', 'more', 'ubuntu', '', '137790', 'debian is more stable than ubuntu but that doesn t make ubuntu unstable\n')
+('debian', 'more conservative', 'ubuntu', '', '96023', 'whereas debian is more conservative in it s approach than ubuntu hence less frequent updating fedora is more radical than redhat hence more frequent updating\n')
+('debian', 'testing even more', 'ubuntu', '', '9476', 'in my point of view debian testing is even more stable than an biannual ubuntu not lts\n')
+('debian', 'more', 'ubuntu', '', '121887', 'in the past i have been able to restore iptables fron ubuntu systems onto debian systems but debian is more closely related to ubuntu than is centos\n')
+('debian', 'testing even more stable', 'ubuntu', 'reliability', '9476', 'in my point of view debian testing is even more stable than an biannual ubuntu not lts\n')
+('debian', 'older', 'ubuntu', '', '199259', 'debian is much older than ubuntu and is hesitant to break things that work particularly when the replacements require user intervention\n')
+('debian', 'more', 'ubuntu', '', '376029', 'in general while i would say that debian assumes more initiative on the part of the user than ubuntu or linux mint the goal of the debian project is to offer a complete general purpose so unless you explicitly chose a minimal install a default debian installation would include most or all of the tools you d expect\n')
+('debian', 'more closely', 'ubuntu', '', '121887', 'in the past i have been able to restore iptables fron ubuntu systems onto debian systems but debian is more closely related to ubuntu than is centos\n')
+('ubuntu', 'greater regard', 'debian', '', '9462', 'the most visible one to me is that ubuntu treats sudo with greater regard than debian\n')
+('debian', 'far more bigger', 'ubuntu', 'memory', '366067', 'a friend who unfortunately knows less about linux than me told me of his problem to install even basic packages on another debian distro though this seems odd since i heard that the repository of debian is far more bigger than that from ubuntu\n')
+
+heredoc	herestring	1
+('heredoc', 'faster', 'herestring', 'performance', '59063', 'a heredoc is faster than a herestring\n')
+
+multiboot	efi	1
+('multiboot', 'more', 'efi', '', '362291', 'every time i try to multiboot with more than 1 efi distro i m stuck with boot issues that is i can t boot\n')
+
+interpreted-language	compiled-language	2
+('interpreted-language', 'greater', 'compiled-language', '', '204842', 'both python bash script are interpreted-language and the time overheads involved in executing scripts will generally be greater than with a compiled-language otoh python scripts are compiled to python bytecode before execution which generally makes them more efficient than bash scripts which do not have any form of compilation\n')
+('interpreted-language', 'less strict', 'compiled-language', '', '330492', 'interpreted-language are typically simpler to write and to adapt being less strict than compiled-language and don t require compiling which makes them easier to distribute\n')
+
+zsh	bash	19
+('zsh', 'slower', 'bash', 'performance', '59360', 'it seems very cool and slick and the fact that the current working directory and actual command line are on different lines is nice but at the same time i m noticing that zsh can be a bit slower than bash especially when printing text to the screen\n')
+('zsh', 'easier', 'bash', 'usability', '975', 'what i have seen is that for zsh it is easier built in or turned on by default while in bash it is an addon script has to be turned on or is more difficult\n')
+('zsh', 'more', 'bash', '', '3385', 'zsh is more powerful but bash has been fine for me\n')
+('zsh', 'generally better interactive', 'bash', '', '40732', 'zsh generally has better interactive features and better programming features than bash\n')
+('zsh', 'more', 'bash', '', '205610', 'i tried this in zsh but it interacts with the terminal more than bash does so even a proof-of-concept requires more tuning\n')
+('bash', 'less', 'zsh', '', '62790', 'by mistake i posted the above zsh code - in bash syntax it would look somewhat like this with the reservation that it is much less tested than the zsh code which runs every day on my computer\n')
+('zsh', 'earlier', 'bash', '', '226207', 'zsh also made the change earlier than bash from zsh 4.3.4 in 2007\n')
+('bash', 'more', 'zsh', '', '72572', 'bash is more geared towards standards and compatibility while zsh is geared more towards power\n')
+('zsh', 'better choice', 'bash', '', '234531', 'even zsh would be a better choice than bash as it has a ksh emulation mode\n')
+('bash', 'faster', 'zsh', 'performance', '230230', 'on a 50mib file here i can see for instance bash being 6 times as slow as ksh93 but slightly faster than zsh and twice as fast as yash\n')
+('zsh', 'fewer', 'bash', '', '242514', 'i see that zsh and ksh93 use one process fewer than bash and dash\n')
+('bash', 'more places', 'zsh', '', '3385', 'bash is possibly in a few more places than zsh\n')
+('bash', 'easier', 'zsh', 'usability', '240612', 'i know this is tagged bash but i think this would be easier with zsh\n')
+('zsh', 'faster', 'bash', 'performance', '160135', 'concerning the performance the eval solution is much faster with bash 4.3.30 but the other solution is faster with ksh 93u+ and zsh 5.0.6 ksh93 and zsh being much faster than bash in both cases\n')
+('zsh', 'slower', 'bash', 'performance', '278249', 'firstly zsh is 74 slower than bash to load\n')
+('zsh', 'more powerful', 'bash', 'usability', '3385', 'zsh is more powerful but bash has been fine for me\n')
+('bash', 'more cumbersome', 'zsh', '', '166508', 'this is possible in bash 4 but more cumbersome than in zsh\n')
+('zsh', 'generally better', 'bash', '', '40732', 'zsh generally has better interactive features and better programming features than bash\n')
+('zsh', 'more powerful shell', 'bash', 'usability', '16245', 'it is possible in zsh a more powerful shell than bash available on most unices including ubuntu but often not installed by default\n')
+
+cat	tee	2
+('cat', 'more input', 'tee', '', '66875', 'cmd1 can t tell cat there s no more input because it is waiting itself for more input from tee\n')
+('cat', 'more', 'tee', '', '66875', 'cmd1 can t tell cat there s no more input because it is waiting itself for more input from tee\n')
+
+xfce	kde	1
+('xfce', 'more lightweight', 'kde', 'memory', '83360', 'over kubuntu because xfce and lxde are generally more lightweight than kde\n')
+
+grep	uniq	1
+('grep', 'more', 'uniq', '', '415810', 'here is small script which sort s both files grep s for later dates than file1 and then counts wc -l if there are more than 1 uniq line should be only 1 which comes from file1\n')
+
+width	height	6
+('width', 'smaller', 'height', 'memory', '175536', 'the following command shows the width is smaller than the height in points\n')
+('height', 'greater', 'width', '', '294342', 'if the height is greater than the width the file is moved to the portraits directory\n')
+('width', 'greater', 'height', '', '181637', 'thus viewing it in any pdf viewer the page s width is greater than the height\n')
+('width', 'smaller', 'height', 'memory', '175536', 'the following command shows the width is smaller than the height in pixels\n')
+('width', 'greater', 'height', '', '175536', 'when viewing it in any pdf viewer the page s width is greater than the height\n')
+('width', 'greater', 'height', '', '181637', 'when viewing it in any pdf viewer the page s width is greater than the height\n')
+
+delimiter	spaces	4
+('spaces', 'more', 'delimiter', '', '298672', 'these flags only come into play when the pattern spaces contains more than one line such as when using -z to read nul delimiter records or when adding lines to the pattern spaces with commands like g n or s\n')
+('spaces', 'fields', 'delimiter', '', '399353', 'this commands mean the same - use 2 or more spaces as fields delimiter\n')
+('delimiter', 'more useful', 'spaces', 'usability', '365749', 'with smaller files i can import into excel delimit delete the columns save as tab delimiter much more useful than spaces\n')
+('delimiter', 'more', 'spaces', '', '235034', 'i don t quite understand what this is a file and this command prints it with single spaces means so if fields in your infile are delimiter by more than one spaces then you could use tr first\n')
+
+rpm	yum	2
+('rpm', 'more appropriate', 'yum', '', '36214', 'is there any particular case when using rpm command would be more appropriate than yum\n')
+('yum', 'just smarter', 'rpm', '', '120298', 'note so the bottom line is yum is just smarter about package management then rpm\n')
+
+btrfs	lvm	1
+('btrfs', 'faster', 'lvm', 'performance', '327769', 'however using snapshots i recommend zfs or btrfs as those are much faster than lvm in combination with a way to compare and pull differences you perhaps can figure out what s correct and what not\n')
+
+spf	dns	1
+('spf', 'easier', 'dns', 'usability', '424098', 'the latter spf is easier make an entry in your dns entries for the server sender domain in question that looks like this\n')
+
+mouse	keyboard	1
+('mouse', 'easier', 'keyboard', 'usability', '340984', 'if your hand s already on the mouse this is easier than switching back to the keyboard to press alt+f4 for a quick window close\n')
+
+directory	folder	1
+('directory', 'also faster', 'folder', 'performance', '125148', 'rm -rf directory also works faster for billion of files in one folder\n')
+
+fedora	redhat	2
+('fedora', 'more radical', 'redhat', '', '96023', 'whereas debian is more conservative in it s approach than ubuntu hence less frequent updating fedora is more radical than redhat hence more frequent updating\n')
+('fedora', 'more', 'redhat', '', '96023', 'whereas debian is more conservative in it s approach than ubuntu hence less frequent updating fedora is more radical than redhat hence more frequent updating\n')
+
+udp	tcp	5
+('udp', 'much longer', 'tcp', '', '26457', 'second when i port scan with nmap the udp scan takes much longer then the tcp scan\n')
+('udp', 'much longer then', 'tcp', '', '26457', 'second when i port scan with nmap the udp scan takes much longer then the tcp scan\n')
+('udp', 'faster', 'tcp', 'performance', '236485', 'a dns server can and does listen to both udp 53 and tcp 53 at the same time as udp is faster and has less overhead for everyday requests while tcp may be necessary for especially large dns requests on account of udp packet size limits from way back when\n')
+('udp', 'bandwidth terribly lower', 'tcp', '', '210062', 'i am getting very different bandwidth reading for tcp and udp where the udp bandwidth is terribly lower than tcp\n')
+('udp', 'lower', 'tcp', '', '210062', 'i am getting very different bandwidth reading for tcp and udp where the udp bandwidth is terribly lower than tcp\n')
+

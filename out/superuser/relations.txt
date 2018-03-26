@@ -1,0 +1,573 @@
+102
+
+virtualbox	vmware	22
+('virtualbox', 'better performance', 'vmware', 'performance', '263021', 'parallels and virtualbox tend to have better performance than vmware across all platforms that i have used virtualbox linux windows os x parallels os x\n')
+('virtualbox', 'more familiar', 'vmware', '', '1295351', 'my host is windows 7 professional 64bit using vmware or virtualbox more familiar with vmware and the software shared by the vpn provider\n')
+('vmware', 'nicer', 'virtualbox', '', '187957', 'vmware fusion 3.0 s unity is far nicer than virtualbox s seamless mode\n')
+('vmware', 'better', 'virtualbox', '', '866490', 'from stability point of view also vmware is better but being in it i do not think that it does matter a lot as you can quickly fix issues of virtualbox too\n')
+('virtualbox', 'smoother', 'vmware', '', '187957', 'virtualbox s guest tools installation is far smoother than vmware fusion s\n')
+('virtualbox', 'faster', 'vmware', 'performance', '37015', 'virtualbox also starts up much faster than vmware in my experience.\n')
+('virtualbox', 'more open', 'vmware', '', '272315', 'i used to be a big fan of vmware but virtualbox has just got the edge because it is so much more open than vmware\n')
+('vmware', 'better', 'virtualbox', '', '538685', 'i have an ubuntu-server 12.04lt-64x installed on vmware i found vmware works better than virtualbox after few installations over vb\n')
+('virtualbox', 'even harder', 'vmware', '', '227564', 'virtualbox fails even harder as it starts mac os in verbose mode and crashes very quickly but seems to be able to access the partition so i think it would be easier to get vmware access my partition than to get virtualbox to run it\n')
+('virtualbox', 'much better', 'vmware', '', '169439', 'i find that virtualbox is much better and have rather lazily just used it on linux rather than bother trying vmware\n')
+('vmware', 'more stable', 'virtualbox', 'reliability', '69492', 'i ve also used virtualbox and setup ubuntu by mounting the image and running the install but downloading a pre-made vm is much faster and i ve found vmware to be more stable than virtualbox and faster to save state on exits\n')
+('vmware', 'better', 'virtualbox', '', '273723', 'vmware workstation is not as snappy uses more memory etc - but also does a better job of juggling multiple simultaneous vms and seems to handle the server oses overall better than virtualbox\n')
+('virtualbox', 'slower', 'vmware', 'performance', '187584', 'after reading various tips on how to increase performance with virtualbox i am attempting to switch from an ide disk to sata disk in my particular case virtualbox w an ide disk is an order of magnitude slower than vmware when compiling a small application with visual studio\n')
+('virtualbox', 'more problematic', 'vmware', '', '937491', 'even though usb 3.0 is supported without that expansion pack the usb support in virtualbox is more problematic than in either vmware products or kvm\n')
+('vmware', 'better', 'virtualbox', '', '180719', 'vmware fusion is probably the best virtualization software i have used on a mac i would use it mainly if i want to use it s unity mode to integrate the guest os with the host since it does it much better than virtualbox\n')
+('vmware', 'much better', 'virtualbox', '', '564470', 'install vmware performs much better for this purpose than virtualbox - i tried both\n')
+('vmware', 'better', 'virtualbox', '', '570402', 'i was able to get the scanner working on my windows 7 x64 using vmware vmware support for usb is better than virtualbox at the moment ie supports usb3 and allows overriding usb3 to usb2\n')
+('virtualbox', 'better fit', 'vmware', '', '77524', 'at a glance it looked like virtualpc and virtualbox were lacking several of vmware workstation s more advanced features although virtualbox does look like a better fit than vmware server for what i m currently doing.\n')
+('virtualbox', 'better', 'vmware', '', '750671', 'although virtualbox is free but it doesn t show that it certainly is better than vmware\n')
+('virtualbox', 'more responsive', 'vmware', '', '106560', 'recently i tried virtualbox and found it more responsive than vmware\n')
+('virtualbox', 'more', 'vmware', '', '937491', 'even though usb 3.0 is supported without that expansion pack the usb support in virtualbox is more problematic than in either vmware products or kvm\n')
+('vmware', 'better option', 'virtualbox', 'usability', '483933', 'if vmware or another virtual technology is a better option than virtualbox then i will use it\n')
+
+icacls	xcopy	1
+('icacls', 'more advanced', 'xcopy', '', '882735', 'also check icacls h to be sure you have rights also you might want to use iso dates 2015-02-25 so you can sort properly or for backups you can use tools more advanced than xcopy\n')
+
+rdiff-backup	unison	2
+('rdiff-backup', 'more robust', 'unison', 'reliability', '27730', 'but i think rdiff-backup is a more robust and flexible technology and not a network-centric as unison i never used unison so can t comment\n')
+('rdiff-backup', 'more', 'unison', '', '27730', 'but i think rdiff-backup is a more robust and flexible technology and not a network-centric as unison i never used unison so can t comment\n')
+
+tcp	icmp	2
+('tcp', 'better', 'icmp', '', '682075', 'in this case protocols like tcp behave better than icmp or udp because they re-transmit packets which have not been received by the target giving you the wrong impression of a properly working connection\n')
+('icmp', 'lower priority', 'tcp', '', '1179744', 'icmp packets such as ping s echo request and echo reply have a lower priority than tcp and udp\n')
+
+xfs	lvm	2
+('xfs', 'better features', 'lvm', 'usability', '546106', 'xfs has better features than ext3 like freezing for lvm snapshots but i think ext4 probably evens the playing field\n')
+('xfs', 'better', 'lvm', '', '546106', 'xfs has better features than ext3 like freezing for lvm snapshots but i think ext4 probably evens the playing field\n')
+
+ffmpeg	libav	2
+('ffmpeg', 'community larger', 'libav', 'memory', '941670', 'the ffmpeg community is larger than libav and the most dedicated developer michael niedermayer stuck with ffmpeg commit stats\n')
+('ffmpeg', 'larger', 'libav', 'memory', '941670', 'the ffmpeg community is larger than libav and the most dedicated developer michael niedermayer stuck with ffmpeg commit stats\n')
+
+nginx	apache	2
+('nginx', 'more connections', 'apache', '', '839236', 'nginx and haproxy use this model and it s a big reason they can deal with so many more connections than apache on similar hardware\n')
+('nginx', 'lighter', 'apache', 'memory', '155121', 'try nginx lighter than apache\n')
+
+upgrade	versioning	5
+('versioning', 'higher risk', 'upgrade', '', '909196', 'a very outdated mediawiki versioning puts your data at higher risk than the upgrade process if done following instructions\n')
+('upgrade', 'older', 'versioning', '', '277665', 'it s more cumbersome to install and upgrade it s an older versioning slhck is correct and you already have it if you use homebrew anyway\n')
+('versioning', 'something more effective', 'upgrade', '', '926208', 'unless you know a later versioning does something more effective you should not upgrade\n')
+('versioning', 'less favorable', 'upgrade', '', '358601', 'also if your development is heavy with the databases database versioning is disk intensive and that would again make the cpu a less than favorable upgrade\n')
+('versioning', 'something more', 'upgrade', '', '926208', 'unless you know a later versioning does something more effective you should not upgrade\n')
+
+smb	ftp	3
+('ftp', 'less windows', 'smb', '', '1206437', 'it seems ftp has less windows explorer integration features e.f edit open with etc compared to smb\n')
+('smb', 'slower', 'ftp', 'performance', '450573', 'smb windows file sharing is much slower than ftp for example\n')
+('ftp', 'less', 'smb', '', '1206437', 'it seems ftp has less windows explorer integration features e.f edit open with etc compared to smb\n')
+
+systemd	daemons	1
+('systemd', 'much easier', 'daemons', 'usability', '200845', 'it is possible that these services should not be restarted without a full systemd reboot but rebooting the systemd is much easier than killing and relaunching 8+ services and daemons\n')
+
+google-chrome	opera	3
+('opera', 'faster', 'google-chrome', 'performance', '110241', 'i ve recently used the opera browser because it s now faster than google-chrome\n')
+('google-chrome', 'better', 'opera', '', '88824', 'besides other than the text-search feature of google-chrome which i think is better than opera s i found all the usual enhancements\n')
+('google-chrome', 'slower', 'opera', 'performance', '419568', 'google-chrome is still a lot slower than opera in tab switching and creation on my machine but it no longer induces delays of several seconds\n')
+
+client-side	server-side	1
+('client-side', 'more', 'server-side', '', '1205622', 'keep in mind that outlook client-side rules can do a lot more than server-side rules\n')
+
+ethernet	wireless	7
+('ethernet', 'way more', 'wireless', '', '64393', 'this will solve your problem as the bandwidth on 100 meg ethernet is way more than you ll get wireless\n')
+('wireless', 'more complicated', 'ethernet', 'usability', '697959', 'note that all of those examples apply just as much for a wireless client moreso in fact since wireless line discipline is more complicated than ethernet s\n')
+('wireless', 'slower', 'ethernet', 'performance', '578094', 'real time streaming protocol instead should be used as well as taking into account data rates over 802.11 wireless which is slower than ethernet\n')
+('ethernet', 'less', 'wireless', '', '258363', 'to get the most performance you would probably want to buy a router with gigabit ethernet built in since most only come with 100mbit sec ports - limiting throughput to around 12 mbytes sec which is less than wireless n speeds and far slower than the full potential or a wired network\n')
+('ethernet', 'better', 'wireless', '', '1125746', 'the speeds through the ethernet on the extender are better than the wireless\n')
+('ethernet', 'slower', 'wireless', 'performance', '1244830', 'my ethernet connection is much slower than my wireless connection i have no idea why\n')
+('ethernet', 'connection much slower', 'wireless', 'performance', '1244830', 'my ethernet connection is much slower than my wireless connection i have no idea why\n')
+
+flac	mp3	2
+('flac', 'larger', 'mp3', 'memory', '62943', 'the reason the flac is larger than the mp3 of the same data is because they encode differently\n')
+('flac', 'bigger', 'mp3', 'memory', '62945', 'as to why the flac is bigger than the mp3 you re taking one of the more-compressed formats decompressing it then recompressing it in a less-efficient compression tool though with a higher-quality of playback\n')
+
+afp	smb	1
+('afp', 'faster', 'smb', 'performance', '730163', 'my experience highly subjective is that afp seems faster than smb especially since mountain lion mavericks\n')
+
+factors	mean	1
+('factors', 'less', 'mean', '', '1050822', 'when factors is less than 1 but more than 0 the data move closer to the mean but data that were originally farther away from the mean move more\n')
+
+vpn	lan	7
+('vpn', 'interface higher priority', 'lan', '', '1267724', 'since windows supports per-interface dns servers make sure the vpn interface has higher priority than the lan interface and that bar-technology.local is among the configured per-interface domain suffixes\n')
+('vpn', 'higher priority', 'lan', '', '1267724', 'since windows supports per-interface dns servers make sure the vpn interface has higher priority than the lan interface and that bar-technology.local is among the configured per-interface domain suffixes\n')
+('vpn', 'interface higher', 'lan', '', '1267724', 'since windows supports per-interface dns servers make sure the vpn interface has higher priority than the lan interface and that bar-technology.local is among the configured per-interface domain suffixes\n')
+('vpn', 'lower', 'lan', '', '966833', 'simply adjust accordingly so that your vpn has a lower metric than your lan connection\n')
+('vpn', 'lower metric', 'lan', '', '966833', 'simply adjust accordingly so that your vpn has a lower metric than your lan connection\n')
+('vpn', 'less', 'lan', '', '389324', 'set up a personal vpn takes less than 5 minutes on each machine and then you can share across lan wan internet as easily as if the remote system were a local disk with some speed penalty depending on the distance\n')
+('vpn', 'gateway lower', 'lan', '', '865803', 'specifically the metric for the vpn gateway is lower than the regular lan\n')
+
+fireworks	photoshop	3
+('fireworks', 'better', 'photoshop', '', '214919', 'for people creating mainly online content fireworks probably has most all the features they need and probably suits their workflow better than photoshop\n')
+('fireworks', 'compression far better', 'photoshop', '', '446634', 'fireworks compression is far better than photoshop s compression with no comparable loss of quality between the two\n')
+('fireworks', 'better', 'photoshop', '', '446634', 'fireworks compression is far better than photoshop s compression with no comparable loss of quality between the two\n')
+
+hash	md5	7
+('hash', 'function faster', 'md5', 'usability', '918900', 'it appears that the new blake2 hash function is faster than md5 and cryptographically much stronger to boot\n')
+('hash', 'larger', 'md5', 'memory', '202245', 'generally speaking you really are safer using a hash which has a larger key size because suppose this is md5 the odds of the first password matching out of 340 282 366 920 938 463 463 374 607 431 768 211 456 possible matches is extremely extremely unlikely\n')
+('hash', 'more secure', 'md5', '', '136769', 'it s best to check if they have a sha-2 hash they are much more secure than md5 and if something like md4 is used just don t trust it at all\n')
+('hash', 'far more', 'md5', '', '1247875', 'your ssh server is providing sha256 public key hash which is far more secure than md5 hash\n')
+('hash', 'far more secure', 'md5', '', '1247875', 'your ssh server is providing sha256 public key hash which is far more secure than md5 hash\n')
+('hash', 'larger key', 'md5', 'memory', '202245', 'generally speaking you really are safer using a hash which has a larger key size because suppose this is md5 the odds of the first password matching out of 340 282 366 920 938 463 463 374 607 431 768 211 456 possible matches is extremely extremely unlikely\n')
+('hash', 'more secure', 'md5', '', '1247875', 'your ssh server is providing sha256 public key hash which is far more secure than md5 hash\n')
+
+put	get	1
+('put', 'less', 'get', '', '428755', 'once the podcasts are on my computer i can select to put only the ten most recent unlistened to synch to my iphone but what if i want to only download the ten most recent -- the question is how do i do less than get all but more than selecting a single one or two episodes of a particular podcast\n')
+
+rsa	dsa	8
+('rsa', 'more', 'dsa', '', '1049404', 'apparently also if i m using more than 5 dsa keys which as i read it were more strong than rsa keys but it seems that putty dev team don t agree with it pageant doesn t respond to putty anymore and it s the same than if i m using more than 1 dsa key with several rsa keys\n')
+('rsa', 'larger hashes', 'dsa', 'memory', '13166', 'signing is mainly because rsa lets you use larger hashes than dsa\n')
+('dsa', 'better', 'rsa', '', '745130', 'enable cryptographic keys dsa better than rsa for client authentication\n')
+('dsa', 'shorter', 'rsa', '', '13228', 'dsa signatures are much shorter than rsa signatures\n')
+('dsa', 'weaker', 'rsa', '', '1070072', 'but dsa keys are weaker than rsa so that would be unhardening my new server\n')
+('dsa', 'more strong', 'rsa', '', '1049404', 'apparently also if i m using more than 5 dsa keys which as i read it were more strong than rsa keys but it seems that putty dev team don t agree with it pageant doesn t respond to putty anymore and it s the same than if i m using more than 1 dsa key with several rsa keys\n')
+('rsa', 'key more security', 'dsa', 'security', '881088', 'a dsa key of the same size of an rsa key provides more security but at the same time dsa is more vulnerable to bad random numbers compare with the debian random number generator flaw\n')
+('rsa', 'key more', 'dsa', '', '881088', 'a dsa key of the same size of an rsa key provides more security but at the same time dsa is more vulnerable to bad random numbers compare with the debian random number generator flaw\n')
+
+google-chrome	firefox	18
+('google-chrome', 'worse', 'firefox', '', '257102', 'so why is google-chrome worse than firefox\n')
+('google-chrome', 'better', 'firefox', '', '340980', 'i think that google-chrome s ui design of ctrl+f bar is better than firefox s so i was trying to find an addon that would amend the look position of the bar but no luck\n')
+('google-chrome', 'more', 'firefox', '', '886434', 'but the reason google-chrome has more than one item in that list is it uses separate processes instead of just separate threads like firefox\n')
+('google-chrome', 'quite more often', 'firefox', '', '59929', 'on my system google-chrome chokes quite more often than ie 8 or firefox -- it searched for the website for 20 seconds and then said website not found\n')
+('google-chrome', 'far faster', 'firefox', 'performance', '1092524', 'google-chrome is far faster than firefox on my system which is why i want this for google-chrome any help would be much appreciated\n')
+('google-chrome', 'faster', 'firefox', 'performance', '25361', 'recently i had switched to google-chrome to find that its much faster than firefox but addons like greasemonkey adblock plus tweeterfox etc\n')
+('google-chrome', 'faster', 'firefox', 'performance', '403594', 'so far i have tried firefox latest and greatest and google-chrome also latest and greatest and while google-chrome runs faster than firefox over x11 from my centos server to my windows 7 workstation it s still pretty sluggish\n')
+('google-chrome', 'better', 'firefox', '', '992146', 'i know firefox on windows works better and i know that google-chrome on linux works better than firefox on linux\n')
+('google-chrome', 'smaller', 'firefox', 'memory', '1102584', 'as google-chrome is smaller and faster then ie firefox that s why it sometimes shows error while loading gmail\n')
+('google-chrome', 'more', 'firefox', '', '430571', 'is it possible to make google-chrome works more like firefox and spell check the entire text field automatically\n')
+('firefox', 'more', 'google-chrome', '', '632632', 'this along with lack of tab switching in mru order are the main reasons i use ie opera and firefox more than google-chrome\n')
+('firefox', 'harder', 'google-chrome', '', '1164550', 'thus apparently the explanation is that firefox for whatever reason possibly hardware acceleration features was driving the card harder than google-chrome so it was failing sooner\n')
+('google-chrome', 'larger', 'firefox', 'memory', '1240952', 'i ve noticed that for some reason website elements display in google-chrome as much larger than in firefox\n')
+('google-chrome', 'quite more', 'firefox', '', '59929', 'on my system google-chrome chokes quite more often than ie 8 or firefox -- it searched for the website for 20 seconds and then said website not found\n')
+('firefox', 'less memory', 'google-chrome', 'memory', '608191', 'i have a freshly installed firefox v 21.0 on my windows7 32 bit machine with the hope that it uses less memory than google-chrome\n')
+('google-chrome', 'less memory', 'firefox', 'memory', '26309', 'i use both of them but firefox still my default browser because when want develope a site firefox extension realy help me but i like 1 thing in google-chrome that have task manager and get realy less memory than firefox\n')
+('google-chrome', 'faster', 'firefox', 'performance', '1092524', 'google-chrome is far faster than firefox on my system which is why i want this for google-chrome any help would be much appreciated\n')
+('google-chrome', 'faster', 'firefox', 'performance', '194811', 'alternatively you could try developer tools from google-chrome which is way lighter and faster than firefox and has very similar features to firebug you can open them pressing control+shift+i\n')
+
+switching	screens	3
+('switching', 'better', 'screens', '', '454931', 'ips or in plane switching is better - its what the cool kids with snappy monitors use - it has better colour quality viewing angles and many of the disadvantages it had with respect to a traditional tn screens have been worked through - it was expensive until recently there s some good relatively inexpensive panels these days\n')
+('screens', 'gradually darker', 'switching', '', '748152', 'while doing this the screens gradually keeps getting darker and the gpu makes a small noise after every switching\n')
+('screens', 'quicker', 'switching', '', '1052765', 'especially with big screens or multiple screens but this allow us to use information quicker than to switching windows\n')
+
+subtitle	srt	1
+('subtitle', 'fancier effects', 'srt', '', '895197', 'ass subtitle should allow fancier effects than srt subtitle or usage of the drawtext filter\n')
+
+umask	chmod	2
+('umask', 'more', 'chmod', '', '8110', 'in case your remote umask is more liberal than usual make the file not group-writable chmod go-w .ssh .ssh authorized_keys\n')
+('umask', 'more liberal', 'chmod', '', '8110', 'in case your remote umask is more liberal than usual make the file not group-writable chmod go-w .ssh .ssh authorized_keys\n')
+
+udp	tcp	15
+('udp', 'faster', 'tcp', 'performance', '878262', 'udp is faster it wraps tcp in udp tcp is more compatible but more overhead\n')
+('tcp', 'more', 'udp', '', '296790', 'edit as an interesting addendum i found recently that the tcp stack has more strict requirements than udp or datagrams\n')
+('udp', 'better option', 'tcp', 'usability', '110650', 'for lowest latency but less error correction udp is a better option than tcp for example with linux the jackd sound server has a backend that can stream audio over udp for this very reason - jackd is more oriented to perfect sound quality pro audio production though\n')
+('udp', 'longer', 'tcp', '', '1220808', 'i do know that in general udp port scans take longer than tcp because it s connectionless and there are much more resources used\n')
+('udp', 'lower overhead', 'tcp', 'performance', '744482', 'udp has a much lower overhead than tcp\n')
+('tcp', 'lower priority', 'udp', '', '618531', 'qos in particular is not about destination but about traffic type and susceptibility to latency so tcp http traffic may be given a lower priority than udp video streaming\n')
+('udp', 'less overhead', 'tcp', 'performance', '651404', 'also depending on how serious you want to get you could try to force a udp stream for the copying which has less overhead than tcp\n')
+('udp', 'faster', 'tcp', 'performance', '365642', 'in the end what i understood is that udp is faster than tcp but it is unreliable\n')
+('udp', 'higher efficiency', 'tcp', '', '695967', 'in all cases udp unicasts can get a few percent higher efficiency than tcp because whereas tcp is designed to go as fast as possible without compounding congestion udp-based protocols can try to go as fast as possible even if they make congestion worse\n')
+('tcp', 'more complicated', 'udp', 'usability', '1236228', 'because nat traversal for tcp is more complicated than for udp\n')
+('tcp', 'more', 'udp', '', '1236228', 'because nat traversal for tcp is more complicated than for udp\n')
+('udp', 'better', 'tcp', '', '110650', 'for lowest latency but less error correction udp is a better option than tcp for example with linux the jackd sound server has a backend that can stream audio over udp for this very reason - jackd is more oriented to perfect sound quality pro audio production though\n')
+('udp', 'connections much shorter', 'tcp', '', '1152758', 'therefore the timeout for udp connections is much shorter than that for tcp connections\n')
+('udp', 'more', 'tcp', '', '1114020', 'it seems that rtsp is a stateful protocol and it uses udp more than tcp when streaming and it s used more as a server device like an ip camera that is connected to a tcp ip network and feeds out streams via udp etc\n')
+('tcp', 'more strict', 'udp', '', '296790', 'edit as an interesting addendum i found recently that the tcp stack has more strict requirements than udp or datagrams\n')
+
+png	bmp	1
+('png', 'better', 'bmp', '', '215173', 'png is better than bmp in my work and i too often forgot to change the file type before clicking save\n')
+
+macbook	bootcamp	1
+('macbook', 'cooler', 'bootcamp', '', '46341', 'the nvidia 9600m gt on my macbook pro runs much cooler with the bootcamp 3.0 bundled driver than the latest driver available from nvidia\n')
+
+directory	folder	7
+('folder', 'much bigger', 'directory', 'memory', '1061464', 'i found that the total disk space used by this folder is much bigger than all the visible files and directory added up together\n')
+('folder', 'much bigger', 'directory', 'memory', '1061450', 'i found that the total disk space used by this folder is much bigger than all the visible files and directory added up together\n')
+('folder', 'paler blue', 'directory', '', '1020671', 'you can see the folder is a paler blue than normal viewable directory in my second screenshot in my question chrome user data where aside from library might it be\n')
+('folder', 'longer', 'directory', '', '1069344', 'now this pc - documents links to the old onedrive folder which is no longer in use and i cannot change the directory when right clicking documents - properties - location - restore default\n')
+('folder', 'paler', 'directory', '', '1020671', 'you can see the folder is a paler blue than normal viewable directory in my second screenshot in my question chrome user data where aside from library might it be\n')
+('directory', 'more', 'folder', '', '514172', 'if your directory has more than a few hundred items consider adding sub-folders to minimize the number in any given folder\n')
+('directory', 'more', 'folder', '', '1301429', 'i can individually rename and delete directory and files but i cannot rename more than one folder and i cannot rename files within sub-directories\n')
+
+sikuli	selenium	1
+('sikuli', 'easier', 'selenium', 'usability', '541776', 'alternatively a more general automation tool like sikuli might be workable as well this is actually likely to be easier than using selenium depending on exactly what you want to do\n')
+
+ubuntu	centos	1
+('ubuntu', 'slower', 'centos', 'performance', '1182571', 'that still doesn t account for the 10x slow-down you mentioned in your answer as a comment in which you mentioned 10x slower for ubuntu 16.04 and 20x slower than centos 7.3 both on a gen2 xeon server and which i guess the moderators have unfortunately removed\n')
+
+kubuntu	gnome	1
+('kubuntu', 'even worse', 'gnome', '', '772510', 'in kubuntu it is even worse because the associations in defaults.list are specified to gnome apps but not kde ones\n')
+
+ecdsa	rsa	1
+('ecdsa', 'more secure', 'rsa', '', '1207342', 'recent versioning of macos have upgrade from rsa host keys to ecdsa host keys because elliptic curve cryptography is considered more secure than rsa\n')
+
+passwd	sudo	1
+('passwd', 'more convenient', 'sudo', 'usability', '464783', 'it asked for a passwd afterwards and was more convenient than sudo apt-get install\n')
+
+umask	sudo	2
+('umask', 'more restrictive', 'sudo', '', '536206', 'this can lead to problems if the umask is more restrictive than 0022 the caller may not be able to access files created by sudo\n')
+('umask', 'more', 'sudo', '', '536206', 'this can lead to problems if the umask is more restrictive than 0022 the caller may not be able to access files created by sudo\n')
+
+gnome	xfce	2
+('gnome', 'slower', 'xfce', 'performance', '772160', 'as you can see there s not any noticeable difference between the different fonts and even with or without hinting however the only thing that jumps into sight is the difference of the startup times between the gnome-terminal and the xfce4-terminal where gnome is 554 slower than xfce but in normal circumstances this is negligible\n')
+('gnome', 'actually faster', 'xfce', 'performance', '392565', 'data shows that gnome 2.xx is actually faster or on the same level as xfce\n')
+
+division	addition	1
+('division', 'slower', 'addition', 'performance', '797486', 'division for example is considerably slower than addition\n')
+
+hevc	h.264	1
+('hevc', 'more efficient', 'h.264', 'performance', '1212038', 'vp9 and hevc are more efficient than h.264 in terms of how much space they require but they may take longer to encode\n')
+
+processors	cpu	13
+('cpu', 'more', 'processors', '', '1144298', 'it the past before multi-core cpus came up multi cpu desktop computers were used when the was reasonable need for more than one processors core - for extensive computation which could be parallelized\n')
+('processors', 'fewer total', 'cpu', '', '456489', 'a bad core is effectively marked unusable and its responsibilities are distributed to other cores less cores means your processors has fewer total cpu cycles available and therefore it will be slower to perform work\n')
+('processors', 'more', 'cpu', '', '643710', 'does it make sense to spend money on a desktop computer with 2 processors or is it more appropriate to buy 1 powerful modern cpu and an ordinary motherboard\n')
+('processors', 'more appropriate', 'cpu', '', '643710', 'does it make sense to spend money on a desktop computer with 2 processors or is it more appropriate to buy 1 powerful modern cpu and an ordinary motherboard\n')
+('processors', 'slower', 'cpu', 'performance', '308779', 'dr answer gpus have far more processors cores than cpus but because each gpu core runs significantly slower than a cpu core and do not have the features needed for modern operating systems they are not appropriate for performing most of the processing in everyday computing\n')
+('cpu', 'more', 'processors', '', '928160', 'i will watch the cpu and system idle process sits at 70 and the next highest thing might be a chrome window at 10 or svchost.exe or mcshield.exe mcafee virus scan but none of them ever show more than 20 processors usage\n')
+('processors', 'better', 'cpu', '', '1120818', 'higher logical processors means better cpu\n')
+('processors', 'more', 'cpu', '', '66507', 'for instance if you have a dual core processors and you are running an intensive application that is doing most of its processing in one thread the application s process will not tend to show more than 50 cpu usage\n')
+('processors', 'more', 'cpu', '', '933149', 'you are not possible to set number of processors more than your cpu supported via msconfig\n')
+('processors', 'slower', 'cpu', 'performance', '308779', 'while gpus can have hundreds or even thousands of stream processors they each run slower than a cpu core and have fewer features even if they are turing complete and can be programmed to run any program a cpu can run\n')
+('processors', 'fewer', 'cpu', '', '456489', 'a bad core is effectively marked unusable and its responsibilities are distributed to other cores less cores means your processors has fewer total cpu cycles available and therefore it will be slower to perform work\n')
+('cpu', 'more', 'processors', '', '548880', 'when i find a company selling quad cpu workstations they only offer windows server or linux variants as the os choices leading me to believe that perhaps windows 7 does not support more than 2 processors\n')
+('cpu', 'older', 'processors', '', '522693', 'if your cpu is older than the nehalem generation core i3 i5 i7 which debuted in 2009 then you do not have the extended page tables ept feature on your processors\n')
+
+traceroute	tunnel	4
+('traceroute', 'ipv6 faster even', 'tunnel', 'performance', '577755', 'traceroute ipv6 is faster even through a tunnel broker\n')
+('traceroute', 'ipv6 faster even', 'tunnel', 'performance', '577758', 'traceroute ipv6 is faster even through a tunnel broker\n')
+('traceroute', 'ipv6 faster', 'tunnel', 'performance', '577758', 'traceroute ipv6 is faster even through a tunnel broker\n')
+('traceroute', 'ipv6 faster', 'tunnel', 'performance', '577755', 'traceroute ipv6 is faster even through a tunnel broker\n')
+
+debian	ubuntu	10
+('debian', 'lighter', 'ubuntu', 'memory', '674969', 'in terms of system resources from experience debian is lighter weight than ubuntu but that s subjective and i m sure could be argued against - ambiguous enough\n')
+('debian', 'lighter weight', 'ubuntu', 'memory', '674969', 'in terms of system resources from experience debian is lighter weight than ubuntu but that s subjective and i m sure could be argued against - ambiguous enough\n')
+('ubuntu', 'more', 'debian', '', '816200', 'ubuntu is more bleeding-edge than debian - it was created to be more friendly and useful from a non-technical or non-unix-expert standpoint\n')
+('debian', 'faster', 'ubuntu', 'performance', '33420', 'but it s true that debian is way faster than ubuntu and will be more simple for you .\n')
+('ubuntu', 'more bleeding-edge', 'debian', '', '816200', 'ubuntu is more bleeding-edge than debian - it was created to be more friendly and useful from a non-technical or non-unix-expert standpoint\n')
+('ubuntu', 'more friendly', 'debian', '', '856262', 'i ve found that ubuntu has been more friendly over debian the default for various things as well\n')
+('debian', 'better', 'ubuntu', '', '1134213', 'recently i installed debian 8 and program works fine now much more better than on ubuntu however i ve got another problem - my second monitor doesn t work it works sometimes in 5-10 of cases when i turn comp\n')
+('ubuntu', 'better', 'debian', '', '611401', 'in my experience ubuntu is better than debian at recognizing wireless cards and linux mint is better than ubuntu\n')
+('debian', 'way faster', 'ubuntu', 'performance', '33420', 'but it s true that debian is way faster than ubuntu and will be more simple for you .\n')
+('ubuntu', 'more', 'debian', '', '856262', 'i ve found that ubuntu has been more friendly over debian the default for various things as well\n')
+
+wav	mp3	2
+('wav', 'file less', 'mp3', '', '244840', 'it really depends on the source and the codec - most voice recorders tend to use a very low bitrate and this is often smaller than a mp3 -the rule of thumb to me is - if your current wav file is less than 1 mb per minute of length of the audio track transcoding it to mp3 may not be an advantage\n')
+('wav', 'bigger', 'mp3', 'memory', '856540', 'the pcm stream which is why the wav is bigger than the mp3\n')
+
+bluetooth	usb	2
+('bluetooth', 'slower even', 'usb', 'performance', '272322', 'the bluetooth hard drive interface is much slower than even usb 1.x\n')
+('usb', 'less reliable', 'bluetooth', 'reliability', '692418', 'there are also 2.4 ghz usb hubs available but they are in my experience less reliable than bluetooth at handling that much data\n')
+
+kde	gnome	6
+('kde', 'flashier', 'gnome', '', '319', 'kde is now a little flashier than gnome but beyond that they re essentially the same\n')
+('gnome', 'better', 'kde', '', '34234', 'gnome does it a little bit better than kde but kde can also be made to work see this post for more information\n')
+('gnome', 'more stable', 'kde', 'reliability', '209905', 'then again gnome has been more stable than kde over the past year or so as a result of kde s growing pains\n')
+('kde', 'more', 'gnome', '', '72993', 'however uiwise i found that kde is more windows like than gnome\n')
+('kde', 'more windows', 'gnome', '', '72993', 'however uiwise i found that kde is more windows like than gnome\n')
+('gnome', 'more', 'kde', '', '209905', 'then again gnome has been more stable than kde over the past year or so as a result of kde s growing pains\n')
+
+putty	winscp	1
+('putty', 'less secure', 'winscp', '', '469176', 'is putty any less secure than winscp or vice versa\n')
+
+ati	nvidia	5
+('ati', 'substantially more', 'nvidia', '', '216033', 'on the one hand the ati has substantially more vram but the nvidia supports d3d 10 and sm4.0 as opposed to d3d 9.0c sm3.0 that the ati supports\n')
+('ati', 'better', 'nvidia', '', '319364', 'on the other hand because ati provided open source support for some time in the past open source support of ati cards is much much better than nvidia especially when it comes to legacy cards\n')
+('ati', 'better', 'nvidia', '', '451206', 'i heard ati has better support with the open source driver than nvidia though on my other machine with a quattro card nvidia drivers work great\n')
+('ati', 'better support', 'nvidia', 'usability', '451206', 'i heard ati has better support with the open source driver than nvidia though on my other machine with a quattro card nvidia drivers work great\n')
+('ati', 'substantially more vram', 'nvidia', '', '216033', 'on the one hand the ati has substantially more vram but the nvidia supports d3d 10 and sm4.0 as opposed to d3d 9.0c sm3.0 that the ati supports\n')
+
+geany	gedit	2
+('geany', 'much faster', 'gedit', 'performance', '157555', 'geany is much faster than gedit and is my editor of choice whenever i don t want to use vim\n')
+('geany', 'faster', 'gedit', 'performance', '157555', 'geany is much faster than gedit and is my editor of choice whenever i don t want to use vim\n')
+
+png	tiff	1
+('png', 'smaller', 'tiff', 'memory', '894714', 'png is a compressed format so is smaller than tiff is theoretically lossless so you shouldn t lose any of the image quality\n')
+
+ansible	puppet	1
+('ansible', 'harder', 'puppet', '', '927048', 'ansible will be hard to combine with docker at least harder than puppet or chef\n')
+
+tunnel	packets	1
+('tunnel', 'lower', 'packets', '', '651081', 'the mtu of the lan is 1500 but the mtu of the ipv6 tunnel is lower how do i force the clients to have a mtu of 1500 for ipv4 but a lower value for ipv6 packets to avoid fragmentation at the point of the router\n')
+
+safari	firefox	2
+('safari', 'more', 'firefox', '', '126303', 'it appears based on tests run by jan ozer that safari is more efficient than firefox for playing flash videos and upgrading to flash 10.1 is better for all browsers\n')
+('safari', 'more efficient', 'firefox', 'performance', '126303', 'it appears based on tests run by jan ozer that safari is more efficient than firefox for playing flash videos and upgrading to flash 10.1 is better for all browsers\n')
+
+wan	lan	3
+('wan', 'lower', 'lan', '', '436209', 'my real concern is why wan speed is lower than lan speeds\n')
+('wan', 'speed lower', 'lan', 'performance', '436209', 'my real concern is why wan speed is lower than lan speeds\n')
+('wan', 'higher latency', 'lan', '', '327132', 'because of the technical hurdles associated with moving lots of data long distances reliably wan links tend to be lower bandwidth and higher latency than lan links\n')
+
+uptime	reboot	1
+('uptime', 'greater', 'reboot', '', '439824', 'if the uptime is greater than 7 days reboot the system with option to abort\n')
+
+ntfs	hfs+	2
+('ntfs', 'more', 'hfs+', '', '441271', 'and linux read write support for ntfs is more omnipresent than for hfs+ â linux still can t write to hfs+ formatted volumes with journaling enabled\n')
+('ntfs', 'more omnipresent', 'hfs+', '', '441271', 'and linux read write support for ntfs is more omnipresent than for hfs+ â linux still can t write to hfs+ formatted volumes with journaling enabled\n')
+
+upgrade	installation	1
+('upgrade', 'perhaps more', 'installation', '', '1293978', 'currently it wants to do a feature upgrade which is perhaps more like an installation\n')
+
+postgresql	mysql	2
+('postgresql', 'more robust', 'mysql', 'reliability', '100691', 'if open source i would suggest postgresql since i believe it to be more robust than mysql\n')
+('postgresql', 'better', 'mysql', '', '107646', 'my experience is that postgresql is handling complex queries much better than mysql so if you will be doing some advanced sql i can recommend postgresql\n')
+
+ram	disk	46
+('disk', 'cheaper', 'ram', '', '939750', 'at a cost of 1 gb per disk therefore 2 gb in raid 0 this is significantly cheaper than ram\n')
+('ram', 'more', 'disk', '', '1178215', 'but zfs is hard to use need a lot of ram to work fast more than one disk to use it with all the powerfull as more disk and more ram the better etc\n')
+('ram', 'less', 'disk', '', '1123071', 'generally you would see generational increases with cpu change and see order of magnitude access and latency drops for sata disk to sata ssd with ram unless you started with really slow ram your performance gain on speed won t be effective but may yield still additional frame-rate differences and generally adding more ram means less swapping to disk\n')
+('disk', 'larger', 'ram', 'memory', '1283750', 'yes because the speed differential between ram and a physical spinning disk hard drive is much larger than between ram an a ssd\n')
+('ram', 'faster', 'disk', 'performance', '773059', 'accessing information in ram is faster than accessing information on disk or elsewhere so the memory manager tries its best to keep the working set information the workload accesses a lot in ram\n')
+('disk', 'drive waaaay slower', 'ram', 'performance', '440956', 'this is why your computer is getting really slow because the disk drive is waaaay slower than ram even if you re on a ssd and it s also the reason your program can go on without any main memory left\n')
+('ram', 'much quicker', 'disk', '', '887457', 'this is probably because ram has much quicker input output speeds than the hard disk so the the ram can output the stuff in it as quick as the hard disk can read in\n')
+('disk', 'slower', 'ram', 'performance', '881460', 'once your computer runs out of physical ram it must start using storage hard disk which is several orders of magnitude slower than ram\n')
+('disk', 'slower', 'ram', 'performance', '211517', 'for total ram amounts on the host machine know that after about 80 total ram utilization esx will begin using the disk caching which is always far slower than ram just like virtual memory in the os even if you are hosting that on an ssd\n')
+('ram', 'much quicker input', 'disk', '', '887457', 'this is probably because ram has much quicker input output speeds than the hard disk so the the ram can output the stuff in it as quick as the hard disk can read in\n')
+('disk', 'slower', 'ram', 'performance', '1146199', 'consider that magnetic disk drives are far slower than ram by a factor of hundreds or thousands of times so a small savings in disk access is worth considerable processing use\n')
+('disk', 'way slower', 'ram', 'performance', '652358', 'nothing you can do about that accessing the disk is way slower than accessing the ram\n')
+('disk', 'much slower', 'ram', 'performance', '605709', 'reading and writing to a physical disk is much slower than from ram\n')
+('disk', 'slower', 'ram', 'performance', '395659', 'a hard disk is much slower than ram so the virtual memory system automatically distributes information between disk space and ram for efficient performance\n')
+('disk', 'slower', 'ram', 'performance', '666882', 'an ssd is considerably faster than a hard disk but it is still slower than ram by orders of magnitude\n')
+('disk', 'slower', 'ram', 'performance', '402516', 'disk operations are far slower than ram operations causing the system to slow down significantly\n')
+('disk', 'slower', 'ram', 'performance', '885493', 'while hard disk are few orders of magnitude slower than ram sd cards are even slower\n')
+('disk', 'slower', 'ram', 'performance', '605709', 'reading and writing to a physical disk is much slower than from ram\n')
+('ram', 'faster', 'disk', 'performance', '373085', 'furthermore access to ram is faster than access to disk cache\n')
+('ram', 'faster', 'disk', 'performance', '857492', 'ram exists solely because it s cheaper than on-chip memory and much faster than disk\n')
+('disk', 'slower actual', 'ram', 'performance', '357833', 'if you over-allocate then your system will behave as if it has more ram albeit with this performance penalty that disk are slower than actual ram\n')
+('ram', 'faster', 'disk', 'performance', '45509', 'since ram is significantly faster than disk storage you can use dev shm instead of tmp for the performance boost if your process is i o intensive and extensively uses temporary files\n')
+('disk', 'more', 'ram', '', '117088', 'actually you re probably talk about a disk cache more than a ram disk based on the sentence which can temporarily store the files that needs constant transfer from the computer to an external device\n')
+('ram', 'higher', 'disk', '', '401829', 'so you ll get performance boost because ram r w speed is much higher than disk\n')
+('ram', 'faster', 'disk', 'performance', '153539', 'any ram is faster than swapping to disk\n')
+('disk', 'slower', 'ram', 'performance', '828598', 'con disk much slower than ram\n')
+('ram', 'faster access', 'disk', 'performance', '415719', 'the file system cache stores portions of the file system in ram for faster access than a disk read\n')
+('ram', 'much faster', 'disk', 'performance', '612915', 'if no program is using it it ll store as much information from your hd as possible so that when a program requests some information it ll be available in ram that is much faster then your disk\n')
+('ram', 'faster', 'disk', 'performance', '214550', 'since ram is faster than hard disk at worst case you will see a reduction in speed\n')
+('ram', 'much faster then', 'disk', 'performance', '612915', 'if no program is using it it ll store as much information from your hd as possible so that when a program requests some information it ll be available in ram that is much faster then your disk\n')
+('ram', 'more in-memory', 'disk', '', '748911', 'also more ram means more in-memory caching and therefore less disk work\n')
+('disk', 'more enough', 'ram', '', '947024', 'it could download them to disk first and then it would have more than enough ram to install the individual packages\n')
+('disk', 'slower', 'ram', 'performance', '1099000', 'ssds are faster than conventional hard disk but they are still significantly slower than ram memory\n')
+('ram', 'faster', 'disk', 'performance', '650537', 'cache memory is faster than ram which is faster than disk\n')
+('disk', 'access much slower', 'ram', 'usability', '240589', 'remember that the disk access is much slower than ram\n')
+('disk', 'slower', 'ram', 'performance', '440956', 'this is why your computer is getting really slow because the disk drive is waaaay slower than ram even if you re on a ssd and it s also the reason your program can go on without any main memory left\n')
+('disk', 'slower physical', 'ram', 'performance', '442202', 'using the pagefile at all will mean disk access which of course is slower than physical ram but the amount of pagefile use does not make it slower\n')
+('ram', 'faster', 'disk', 'performance', '376800', 'ram is faster than disk so using more than 32gb of ram should make a slight difference than just using 32gb of ram\n')
+('disk', 'slower', 'ram', 'performance', '640993', 'with 8 gb of memory it is unlikely you will run out of memory and even if you did disk are so much slower than ram that the usual effect of using swap is that your computer becomes unresponsive\n')
+('disk', 'lower', 'ram', '', '654570', 'disk have to pass through a connection with a bandwidth much lower than ram and in the case of hdd s there is the time needed to fetch and store data in consideration\n')
+('ram', 'significantly faster', 'disk', 'performance', '45509', 'since ram is significantly faster than disk storage you can use dev shm instead of tmp for the performance boost if your process is i o intensive and extensively uses temporary files\n')
+('ram', 'faster', 'disk', 'performance', '637407', 'the idea is that ram is cheap and from a performance point of view read write operations on ram are 1000x faster than disk operations\n')
+('disk', 'slower', 'ram', 'performance', '240589', 'remember that the disk access is much slower than ram\n')
+('ram', 'more', 'disk', '', '748911', 'also more ram means more in-memory caching and therefore less disk work\n')
+('disk', 'much slower', 'ram', 'performance', '395659', 'a hard disk is much slower than ram so the virtual memory system automatically distributes information between disk space and ram for efficient performance\n')
+('disk', 'slower', 'ram', 'performance', '617871', 'accessing the disk even very-fast ssd is around 100 times slower than accessing ram\n')
+
+vpn	tunnel	3
+('vpn', 'more', 'tunnel', '', '531750', 'thinking it over i can t see how a vpn running as an applet in the browser can do anything more than tunnel for itself\n')
+('vpn', 'more', 'tunnel', '', '296657', 'as for security no a vpn is no more secure provided that all of your traffic including dns queries and other potential leaks are indeed going through the ssh tunnel but neither is it any less secure unless it s a really bad product but the same could be said for ssh clients and servers as well\n')
+('vpn', 'more secure', 'tunnel', '', '296657', 'as for security no a vpn is no more secure provided that all of your traffic including dns queries and other potential leaks are indeed going through the ssh tunnel but neither is it any less secure unless it s a really bad product but the same could be said for ssh clients and servers as well\n')
+
+xfs	ntfs	1
+('xfs', 'better', 'ntfs', '', '42706', 'not sure if the transfer speed with xfs will be much better than with ntfs - 25 mb s is a typical limit for some usb controllers\n')
+
+filesystems	fat	1
+('filesystems', 'more reliable', 'fat', 'reliability', '1007991', 'or i prefer a multiboot usb even if there s only one .iso to boot since it doesn t overwrite the whole drive s partition table like plain dd does and you can use a filesystems like ext3 4 or something more reliable than fat fat usb s tend to erase all their filenames somewhat regularly for me somehow never a problem on the same usb with ext3\n')
+
+emacs	vim	1
+('emacs', 'better', 'vim', '', '21806', 'so ideally what i d like is to look at apart from basics are the gaps that emacs can fill or things that it can just do better than vim\n')
+
+ssd	sata	6
+('ssd', 'larger', 'sata', 'memory', '357393', 'that would be the same dollar amount as a ssd and granted the ssd is larger but it eats an sata port adds heat takes more power than ram\n')
+('ssd', 'much worse', 'sata', '', '223238', 'remember that a bad ssd is much worse than a traditional sata drive so don t be fooled by the cheapies out there as you re looking\n')
+('ssd', 'faster', 'sata', 'performance', '946346', 'i wanna buy an ssd and i believe the pcie connection should be faster than the sata port\n')
+('ssd', 'larger', 'sata', 'memory', '502464', 'since your new ssd is larger and both are sata i do not expect any problems for making a copy\n')
+('ssd', 'more', 'sata', '', '680176', 'a modern ssd however can use more than sata ii speeds and will be faster on a sata iii bus\n')
+('ssd', 'more', 'sata', '', '892561', 'perhaps not exactly what you had in mind but there does exist such a device - the wd dual 2.5 drive - it s a 2.5 hdd + a reasonably sized ssd inside a single 2.5 chassis - the main issue i see with alternatives is that even if you managed to get two small drives in there say two msata or similar the laptop won t have more than one sata connection there so you would also need an adapter raid device right there which would make it more complicate but guess what - those also exist- look for 2.5 to dual msata adapters they will have raid support built-in\n')
+
+parallels	virtualbox	2
+('parallels', 'better', 'virtualbox', '', '119932', 'i recommend parallels desktop which i feel is better than virtualbox\n')
+('parallels', 'faster', 'virtualbox', 'performance', '136998', 'oh and if you want to use it parallels is very good the vms run much faster than virtualbox and a fair bit faster than vmware fusion\n')
+
+sublimetext	macvim	1
+('sublimetext', 'faster', 'macvim', 'performance', '492021', 'i m a vim user trying to move to sublimetext 2 as it s faster than macvim with a bunch of stuff open\n')
+
+mint	ubuntu	1
+('mint', 'better', 'ubuntu', '', '611401', 'in my experience ubuntu is better than debian at recognizing wireless cards and linux mint is better than ubuntu\n')
+
+cpu	hyperthreading	4
+('hyperthreading', 'greater', 'cpu', '', '740616', 'in other words a cpu with hyperthreading is going to provide performance which is somewhat greater than a cpu which is otherwise the same but without hyperthreading because the hyperthreading cpu will be able to concurrently balance two sometimes more but hyperthreading is usually 2-way threads of execution on a given core\n')
+('cpu', 'faster', 'hyperthreading', 'performance', '1143143', 'the old cpu is faster because it is a quad core i7 with hyperthreading so that you get 8 logical cores while the i7 6500u is only a dual core cpu with hyperthreading so you have 4 logical cores\n')
+('cpu', 'more', 'hyperthreading', '', '1041379', 'a mulitcore cpu has more than one core not including hyperthreading while a singlecore cpu does not\n')
+('cpu', 'faster', 'hyperthreading', 'performance', '611900', 'if i buy 2 six core cpu and my licence is for 10 cpu i believe that my application will be running faster than if hyperthreading was enabled in the bios because i will then end up with 24 cpu on the box but will only use 10 therefore by disabling hyperthreading each cpu will be faster\n')
+
+sublimetext	notepad++	1
+('sublimetext', 'more', 'notepad++', '', '1182144', 'because we can t install programs and i like sublimetext more than notepad++ i downloaded the portable version and i m using that as my text editor however once i open sublimetext the firewall starts acting weird\n')
+
+nginx	lighttpd	1
+('nginx', 'better', 'lighttpd', '', '1191505', 'you d need to run a proxy internally - have the port opened to one machine acting as a gateway with something like nginx which is better for things using websockets and other fancy things or lighttpd which is simpler\n')
+
+aquamacs	emacs	2
+('aquamacs', 'more mac-like', 'emacs', '', '125880', 'aquamacs is more mac-like whereas carbon emacs is more well emacs-ish\n')
+('aquamacs', 'more', 'emacs', '', '125880', 'aquamacs is more mac-like whereas carbon emacs is more well emacs-ish\n')
+
+kde	xfce	1
+('kde', 'nicer', 'xfce', '', '33599', 'on linux it looks acceptable under kde quite nicer under xfce and quite horribly pixilated under fluxbox my preferred wm\n')
+
+freebsd	solaris	2
+('freebsd', 'probably better', 'solaris', '', '252508', 'freebsd probably has better hardware support than solaris as well\n')
+('freebsd', 'probably better hardware', 'solaris', '', '252508', 'freebsd probably has better hardware support than solaris as well\n')
+
+h.265	h.264	1
+('h.265', 'more efficient', 'h.264', 'performance', '1235180', 'h.265 is 30â 50 more efficient than h.264 etc\n')
+
+gif	png	3
+('gif', 'smaller', 'png', 'memory', '67745', 'that s virtually the only case in which gif gives smaller file size than png\n')
+('png', 'larger', 'gif', 'memory', '306698', 'some versions of photoshop coreldraw and ms paint provide poor png compression effort further fueling the idea that png is larger than gif\n')
+('gif', 'smaller file', 'png', 'memory', '67745', 'that s virtually the only case in which gif gives smaller file size than png\n')
+
+tablet	screens	1
+('tablet', 'less full', 'screens', '', '503623', 'i m sure the mail app is fantastic on a tablet but i prefer a less than full screens client that supports flags and adding attachments through file explorer rather than the touch-inspired big tiles without going whole hog to outlook\n')
+
+crypt	hash	2
+('crypt', 'now wider', 'hash', '', '995774', 'linux crypt now supports a wider variety of hash functions such as based on sha-1 or based on sha-256 but the added protections salt multiple rounds still aren t as good as the later developments of pbkdf2 or bcrypt and many short passwords hash can still be cracked in a short amount of time\n')
+('crypt', 'now wider variety', 'hash', '', '995774', 'linux crypt now supports a wider variety of hash functions such as based on sha-1 or based on sha-256 but the added protections salt multiple rounds still aren t as good as the later developments of pbkdf2 or bcrypt and many short passwords hash can still be cracked in a short amount of time\n')
+
+opera	firefox	3
+('opera', 'easier', 'firefox', 'usability', '82010', 'opera is easier on the scarce system resources than firefox and the theme is nicer the wood theme in foxy has some readability issues\n')
+('opera', 'faster', 'firefox', 'performance', '885443', 'i m trying opera for the first time it seems much faster than firefox but i m unable to change the user interface language to my language\n')
+('opera', 'worse', 'firefox', '', '774', 'opera is a solid choice though its default skin is worse than firefox\n')
+
+height	width	9
+('height', 'longer', 'width', '', '839333', 'you know the height is longer than the width\n')
+('width', 'greater', 'height', '', '1275811', 'if the width is greater than the height it will rotate the image even if you change the paper orientation\n')
+('width', 'typically more', 'height', '', '1119583', 'when non-square the width typically uses more pixels ppi than the height which is usually 72 ppi\n')
+('height', 'smaller', 'width', 'memory', '1180542', 'even if the height is smaller the maximum width is still 1176 and vice-versa\n')
+('height', 'less', 'width', '', '356509', 'when you measure the printed circle you ll find its height to be less than its width\n')
+('width', 'smaller', 'height', 'memory', '379362', 'if your width is smaller than it should be then you can change your terminals height and width with this command\n')
+('width', 'longer', 'height', '', '839333', 'which means that the width is longer than the height\n')
+('width', 'typically more pixels', 'height', '', '1119583', 'when non-square the width typically uses more pixels ppi than the height which is usually 72 ppi\n')
+('width', 'more', 'height', '', '485530', 'i ve got a screensize mismatch going on between my server client sides that results in my full screen view actually only showing about 75 the width of the server side and more than 100 height\n')
+
+vlookup	countif	1
+('vlookup', 'faster', 'countif', 'performance', '1091396', 'the vlookup operation still takes a bit of time but it is significantly faster than countif\n')
+
+rar	zip	9
+('rar', 'slightly better', 'zip', '', '37909', 'lastly the compression on rar is slightly better than zip i think as well and early on i think it had better ways of protecting the data within the archive\n')
+('rar', 'better', 'zip', '', '5916', 'as current versions of winrar can decompress 7z and 7z can decompress rar and 7z usually compresses better than zip and often better than rar i tend to send those who send me rar files 7z files back\n')
+('zip', 'better', 'rar', '', '5916', 'as current versions of winrar can decompress 7z and 7z can decompress rar and 7z usually compresses better than zip and often better than rar i tend to send those who send me rar files 7z files back\n')
+('rar', 'format consistently better results', 'zip', '', '385134', 'as many will know the rar format produces consistently better results than zip\n')
+('rar', 'better', 'zip', '', '5896', 'rar usually compresses much better than zip\n')
+('rar', 'better', 'zip', '', '37909', 'lastly the compression on rar is slightly better than zip i think as well and early on i think it had better ways of protecting the data within the archive\n')
+('rar', 'format consistently better', 'zip', '', '385134', 'as many will know the rar format produces consistently better results than zip\n')
+('rar', 'better results', 'zip', '', '385134', 'as many will know the rar format produces consistently better results than zip\n')
+('rar', 'usually much better', 'zip', '', '5896', 'rar usually compresses much better than zip\n')
+
+antivirus	mcafee	1
+('antivirus', 'worse', 'mcafee', '', '52778', 'and as a general rule of thumb there s only one antivirus software that is worse than mcafee s and that s norton s imho\n')
+
+button	checkbox	1
+('button', 'more', 'checkbox', '', '878730', 'it seems like i should be able to select more than one since under the developer ribbon heading the group button exists but i can t seem to select more than one checkbox at a time\n')
+
+gentoo	linux	1
+('gentoo', 'more practical', 'linux', '', '668492', 'while archlinux and gentoo are much easier to begin with and much more practical than linux from scratch you still have to keep in mind that they aren t necessarily intended for people that are new to gnu linux it really helps to have some basic understanding how a gnu linux system works but you ll definitely know more about that once you managed to install one of those distros\n')
+
+xcb	gtk	1
+('xcb', 'lower', 'gtk', '', '223902', 'at the very bottom is xlib and xcb but most people never go any lower than gtk or qt\n')
+
+ubuntu	linux	8
+('ubuntu', 'more', 'linux', '', '60818', 'ubuntu is more popular among students and ordinary users who use linux as their only os\n')
+('ubuntu', 'more things', 'linux', '', '73740', 'it is based on ubuntu but comes with more things to make the windows to linux transition easier\n')
+('ubuntu', 'more popular', 'linux', 'usability', '60818', 'ubuntu is more popular among students and ordinary users who use linux as their only os\n')
+('linux', 'better', 'ubuntu', '', '589666', 'basically if you want bleeding-edge linux is a better platform to go for and it s pretty stable as well even ubuntu unity s gotten really nice in 13.04 from the perspective of a guy who uses the unity spin of that distro with his hardware currently and really digs it\n')
+('ubuntu', 'more', 'linux', '', '73740', 'it is based on ubuntu but comes with more things to make the windows to linux transition easier\n')
+('linux', 'less', 'ubuntu', '', '68303', 'i was thinking maybe there s a linux distro that s less demanding than ubuntu that i can use or some way to run a decent linux within windows without virtualizing\n')
+('linux', 'better platform', 'ubuntu', '', '589666', 'basically if you want bleeding-edge linux is a better platform to go for and it s pretty stable as well even ubuntu unity s gotten really nice in 13.04 from the perspective of a guy who uses the unity spin of that distro with his hardware currently and really digs it\n')
+('linux', 'older', 'ubuntu', '', '288358', 'well fedora in an old gnu linux distribution with very long tradition and is much older than ubuntu\n')
+
+hex	binary	1
+('hex', 'easier', 'binary', 'usability', '1056078', 'to be honest i found hex easier than binary to read\n')
+
+freebsd	linux	3
+('linux', 'more', 'freebsd', '', '289033', 'since linux is more common than freebsd there really isn t a need for a lot of people to emulate freebsd on linux\n')
+('linux', 'more common', 'freebsd', '', '289033', 'since linux is more common than freebsd there really isn t a need for a lot of people to emulate freebsd on linux\n')
+('freebsd', 'more secure', 'linux', '', '76057', 'freebsd is the main bsd distro bsd is more secure than linux but more limited it s also more structured than linux between projects but some softwares won t compile on it .\n')
+
+aptitude	dpkg	2
+('aptitude', 'more', 'dpkg', '', '462168', 'according to the debian gnu linux faq about package management aptitude is more complex than apt-get and depends on the less complex package management tools apt-get and dpkg\n')
+('aptitude', 'more complex', 'dpkg', 'usability', '462168', 'according to the debian gnu linux faq about package management aptitude is more complex than apt-get and depends on the less complex package management tools apt-get and dpkg\n')
+
+btrfs	filesystems	3
+('btrfs', 'larger other', 'filesystems', 'memory', '1086575', 'grub can boot btrfs partitions however the module may be larger than other filesystems\n')
+('btrfs', 'more modern', 'filesystems', '', '1138298', 'some of the higher-end synology models alternatively allow the use of btrfs which is a more modern filesystems with its own support for raid\n')
+('btrfs', 'more', 'filesystems', '', '1138298', 'some of the higher-end synology models alternatively allow the use of btrfs which is a more modern filesystems with its own support for raid\n')
+
+debian	linux	1
+('debian', 'easier', 'linux', 'usability', '1288034', 'debian makes it easier but it s still a learning curve for people new to linux\n')
+
+xen	openvz	1
+('xen', 'fewer limits virtuozzo', 'openvz', '', '959221', 'kvm virtualization vmware virtualization xen virtualization or bare metal servers would be subject to far fewer limits than virtuozzo openvz\n')
+
+64bit	x86	3
+('64bit', 'more instructions 32-bit', 'x86', '', '662200', 'that s kind of the whole point of having different architectures by the way. the 64bit x86_64 architecture has more instructions than 32-bit x86 had and 32-bit x86 had more instructions than 16-bit\n')
+('64bit', 'mode significantly more', 'x86', 'usability', '864919', 'on x86 x86-64 code running in 64bit mode is significantly more efficient because backwards compat with ancient x86 calling conventions isn t needed\n')
+('64bit', 'mode significantly more efficient', 'x86', 'usability', '864919', 'on x86 x86-64 code running in 64bit mode is significantly more efficient because backwards compat with ancient x86 calling conventions isn t needed\n')
+
+scite	kate	1
+('scite', 'closer', 'kate', '', '256589', 'scite is closer to kate than kwrite in functionality but is gtk gnome based and has the line numbering wrapping and many other options available right in the menus just like kwrite\n')
+
+parallels	bootcamp	3
+('parallels', 'more', 'bootcamp', '', '317754', 'i find running in parallels is more productive cause i don t get sucking into a time sink trying to work around some random bootcamp bug\n')
+('parallels', 'more productive', 'bootcamp', '', '317754', 'i find running in parallels is more productive cause i don t get sucking into a time sink trying to work around some random bootcamp bug\n')
+('bootcamp', 'much better', 'parallels', '', '463933', 'one positive is that bootcamp is much better with battery life running windows 7 then parallels or fusion which i typically thought was terrible\n')
+
+opera	safari	1
+('opera', 'more secure', 'safari', '', '397804', 'she said i probably didn t need google-chrome but that opera might work better for me and she thought it might be a bit more secure than safari\n')
+
+myisam	innodb	1
+('myisam', 'safer', 'innodb', 'security', '661781', 'is myisam engine safer than innodb about loss of data due to filesystem error\n')
+
+mint	gentoo	2
+('mint', 'far more', 'gentoo', '', '1229285', 'this puts mint in the driver s seat when it comes to managing your boot partition and mint is far more reliable and easier in general than gentoo\n')
+('mint', 'far more reliable', 'gentoo', 'reliability', '1229285', 'this puts mint in the driver s seat when it comes to managing your boot partition and mint is far more reliable and easier in general than gentoo\n')
+
+google-chrome	safari	2
+('google-chrome', 'better performance', 'safari', 'performance', '652614', 'i used to use google-chrome but found better performance with safari\n')
+('safari', 'better', 'google-chrome', '', '768010', 'for me the safari javascript console seems to be a bit better than google-chrome on a mac for debugging angularjs module loading errors -\n')
+
+robocopy	xcopy	5
+('robocopy', 'more reliable', 'xcopy', 'reliability', '474275', 'as a side note if your using windows 7 have a look at using the robocopy minage maxage command instead as it is usually far more reliable than xcopy and provides a lot more options\n')
+('robocopy', 'more powerful', 'xcopy', 'usability', '829644', 'you should check out robocopy it is much more powerful than xcopy\n')
+('robocopy', 'much more powerful', 'xcopy', 'usability', '829644', 'you should check out robocopy it is much more powerful than xcopy\n')
+('robocopy', 'much more', 'xcopy', '', '829644', 'you should check out robocopy it is much more powerful than xcopy\n')
+('robocopy', 'better', 'xcopy', '', '1234067', 'if you have windows vista or later a href rel nofollow noreferrer robocopy a is better than xcopy\n')
+
+bash	zsh	9
+('bash', 'much more', 'zsh', '', '141898', 'bash is much more widely used so there are fewer people familiar with the intricacies of zsh\n')
+('zsh', 'more', 'bash', '', '767491', 'zsh has a more powerful built-in time command than bash has and the zsh version can report memory statistics\n')
+('bash', 'more', 'zsh', '', '141898', 'also since bash is more widely used than zsh its scripts are relatively more portable\n')
+('bash', 'much more widely', 'zsh', '', '141898', 'bash is much more widely used so there are fewer people familiar with the intricacies of zsh\n')
+('zsh', 'better', 'bash', '', '1066743', 'i switched to zsh and find it better than bash but i have a problem with oh-my-zsh s hereafter omz autocomplete feature\n')
+('zsh', 'more powerful', 'bash', 'usability', '767491', 'zsh has a more powerful built-in time command than bash has and the zsh version can report memory statistics\n')
+('zsh', 'better', 'bash', '', '267627', 'you can also try zsh which has better completion than bash\n')
+('zsh', 'better completion', 'bash', '', '267627', 'you can also try zsh which has better completion than bash\n')
+('bash', 'more widely', 'zsh', '', '141898', 'also since bash is more widely used than zsh its scripts are relatively more portable\n')
+
+uppercase	capitalization	1
+('uppercase', 'harder', 'capitalization', '', '1114303', 'also a lot of people find a uppercase hostname less legible than a lowercase one for the same reason as text typed in uppercase is harder to read than with proper capitalization\n')
+
+kate	gedit	1
+('kate', 'more', 'gedit', '', '175708', 'ps i like kate more than gedit\n')
+
+ntfs	filesystems	12
+('ntfs', 'more', 'filesystems', '', '353461', 'ntfs is more robust as filesystems go but isn t supported as well on non-windows operating systems\n')
+('filesystems', 'higher', 'ntfs', '', '517381', 'most likely your ubuntu and fedora partitions will use the ext4 filesystems that has a higher degree of resiliency against disk fragmentation than the windows-used ntfs\n')
+('filesystems', 'more tolerant', 'ntfs', '', '628395', 'one way to help with data recovery is to use a filesystems that is more tolerant of corruption and contains better backup and recovery functions such as ntfs over fat32\n')
+('ntfs', 'slower', 'filesystems', 'performance', '890965', 'i was wondering if copying files between different filesystems for example from ext4 to ntfs is slower than copying to the same filesystems from ext4 to ext 4\n')
+('filesystems', 'more', 'ntfs', '', '628395', 'one way to help with data recovery is to use a filesystems that is more tolerant of corruption and contains better backup and recovery functions such as ntfs over fat32\n')
+('filesystems', 'more developed', 'ntfs', '', '1075852', 'as that is described as a notable feature of this filesystems such features are likely more developed than with ntfs and certainly more than fat which was comparatively simple in nature and so had virtually no such features\n')
+('ntfs', 'more powerful', 'filesystems', 'usability', '451912', 'ntfs has always been a more powerful filesystems than fat and fat32\n')
+('ntfs', 'superblock much more', 'filesystems', '', '100889', 'the device driver usually applies this restriction to the higher level and also reading whole sector with ntfs superblock is much more faster than reading the same sector several times implicitly because of a driver that translates byte range requests to sector requests so filesystems drivers are also performing read and write operations by sectors or any multiplies of sectors there exists a technology called dma -- direct memory access -- that allows reading and writing large bursts of sectors without using cpu time thus making disk access very fast\n')
+('ntfs', 'better older', 'filesystems', '', '611890', 'since no one mentioned any specific filesystems more modern filesystems ext3 ext4 ntfs are able to handle crashes much better than older filesystems ext2 ext fat32 due to journaling\n')
+('ntfs', 'superblock much more faster', 'filesystems', 'performance', '100889', 'the device driver usually applies this restriction to the higher level and also reading whole sector with ntfs superblock is much more faster than reading the same sector several times implicitly because of a driver that translates byte range requests to sector requests so filesystems drivers are also performing read and write operations by sectors or any multiplies of sectors there exists a technology called dma -- direct memory access -- that allows reading and writing large bursts of sectors without using cpu time thus making disk access very fast\n')
+('ntfs', 'more robust', 'filesystems', 'reliability', '353461', 'ntfs is more robust as filesystems go but isn t supported as well on non-windows operating systems\n')
+('filesystems', 'higher degree', 'ntfs', '', '517381', 'most likely your ubuntu and fedora partitions will use the ext4 filesystems that has a higher degree of resiliency against disk fragmentation than the windows-used ntfs\n')
+

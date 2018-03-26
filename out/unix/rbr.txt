@@ -1,0 +1,5 @@
+more                62
+less                10
+faster              8
+closer              2
+smarter             2

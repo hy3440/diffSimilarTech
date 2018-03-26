@@ -1,0 +1,595 @@
+709
+rpm	zypper
+pattern4	
+the opensuse build service obs and zypper are a couple of the reasons i prefer rpm over deb from a packager and user point of view
+
+1289
+bash	zsh
+pattern4	
+personally i prefer zsh over bash so i recommend trying it
+
+1289
+bash	zsh
+pattern2	
+personally i prefer zsh over bash so i recommend trying it
+
+2485
+filesystems	xfs
+pattern4	
+i would prefer xfs since i have very good experiences with this filesystems
+
+3385
+bash	zsh
+pattern4	
+if i were to pick a shell i d pick bash or zsh
+
+8012
+freebsd	linux
+pattern4	
+why would someone choose freebsd over linux
+
+8012
+freebsd	linux
+pattern2	
+why would someone choose freebsd over linux
+
+12487
+ubuntu	debian
+pattern4	
+i prefer to go with debian stable on my machines but recommend ubuntu to others and tend to use ubuntu on newer hardware especially laptops
+
+12631
+debian	linux
+pattern4	
+for a gnu linux system i usually recommend debian because it s stable and the installer is straightforward to use
+
+14489
+freebsd	linux
+pattern4	
+why would someone choose freebsd over linux
+
+14489
+freebsd	linux
+pattern2	
+why would someone choose freebsd over linux
+
+15468
+vim	emacs
+pattern4	
+i prefer emacs but there are instructions for emacs lyx vim and pine
+
+18764
+unix	bsd
+pattern2	
+commands like ps come with a lot of parameters especially because they give the use an option to choose between unix and bsd style flags
+
+18871
+spaces	delimiter
+pattern4	
+here -d chooses spaces as delimiter and -f1 asks for the first field before a delimiter
+
+18871
+spaces	delimiter
+pattern2	
+here -d chooses spaces as delimiter and -f1 asks for the first field before a delimiter
+
+19398
+unix	aix
+pattern4	
+actually i d recommend aix on pseries any day due to the mature logical volume management best in the unix world in my view and the exceptionaly versatile virtualisation again in my view best of breed in the enterprise unix arena
+
+21732
+bash	zsh
+pattern4	
+i m guessing that because you had bash automatically started in some circumstances but you prefer zsh you ve set up bash to automatically switch over to zsh â maybe with exec zsh in your .bashrc
+
+23755
+xfce	gnome	xfce	kde	kde	gnome
+pattern4	
+imho and personally i prefer kde for non-techies i d favour a gnome 3 based desktop although an icewm xfce will fit better into the available memory
+
+24915
+ubuntu	debian
+pattern4	
+if you re after stability i recommend ubuntu lts upgrades every 2 years with a 1yr grace time or debian stable upgrades every 2â 3 years with a few months grace time
+
+26684
+centos	linux
+pattern2	
+you can choose between centos scientific linux or fedora
+
+27195
+gentoo	linux
+pattern4	
+but i don t recommend gentoo linux if you have absolutely no experience on other distribution.
+
+27911
+freebsd	debian
+pattern4	
+why would you prefer debian gnu kfreebsd to freebsd
+
+29088
+filesystems	xfs
+pattern4	
+in such case i would opt to choose xfs as my filesystems for the reason that it is a 64-bit filesystems and capable of handling filesystems as large as a million terabytes
+
+29499
+debian	centos	debian	linux	solaris	aix	centos	solaris	centos	linux
+pattern3	
+so knowing about hp-unix aix solaris linux debian rh and suse i would recommend using linux centos 5.7 or newer - keep it updated via yum-cron to you
+
+37253
+ubuntu	linux	ubuntu	mint
+pattern4	
+i actually prefer linux mint on the desktop these days but since it s based on ubuntu you can run ubuntu on the server and still get the benefit of it being almost identical
+
+40443
+kde	gnome
+pattern4	
+other people also mention problems see kde install destroys gnome desktop
+
+44606
+for-loop	loops
+pattern2	
+the for-loop iterates over this set of matches using as loops variable
+
+53351
+lvm	btrfs
+pattern3	
+i would highly recommend using lvm because of its maturity over btrfs
+
+55465
+kerberos	ldap
+pattern3	
+i would however definitely recommend using ldap and kerberos
+
+56670
+hash	md5
+pattern4	
+because a floppy device is effectively seen as a file you can also compare hash like sha1 or md5 of the floppy device dev fd0 and of the disk image
+
+59347
+xfce	kde
+pattern4	
+i can still choose xfce interface when logging a user but at the login screen i m stuck with kde how do i change that without having to unistall kde
+
+59710
+ubuntu	linux
+pattern4	
+for starting with linux in a vm i recommend ubuntu
+
+59710
+ubuntu	debian
+pattern4	
+i m not saying not to use ubuntu at all but for servers i d favor debian even if you re new
+
+65777
+vim	emacs
+pattern4	
+however if you are prepared to spend some time learning a new editor and are curious of how an editor can help you even more than most editors i recommend vim or emacs as it is possible to be very productive in them they are very capable and configurable has helpful communities and they can be used with few dependencies they may even be pre-installed on many nix systems
+
+68358
+comm	grep
+pattern2	
+or loop and grep each line to a new file then compare files with comm
+
+68574
+stdout	stderr
+pattern4	
+i d prefer stdout stderr to still go to my terminal
+
+72815
+cinnamon	gnome
+pattern4	
+setting session to gnome classic works fine but i much prefer cinnamon
+
+74399
+punctuation	words
+pattern4	
+hint replace the w by w in qbdiw apq to select words with punctuation like hp-ux
+
+74399
+punctuation	words
+pattern2	
+hint replace the w by w in qbdiw apq to select words with punctuation like hp-ux
+
+75940
+xfce	gnome
+pattern2	
+asking for very latest gcc but being ok with not-so-late desktop environment doesn t make much sense but perhaps one of the simpler lighter ones lxde xfce is a better match than gnome for you
+
+80167
+debian	centos	debian	linux	centos	linux
+pattern4	
+as far as linux is concerned start by picking one from the debian camp i recommend debian sid and one from the redhat camp i recommend centos
+
+80167
+debian	centos	debian	linux	centos	linux
+pattern4	
+as far as linux is concerned start by picking one from the debian camp i recommend debian sid and one from the redhat camp i recommend centos
+
+83156
+freebsd	linux
+pattern4	
+recently i ve stumbled upon an interesting question about the difference between linux and freebsd why would someone choose freebsd over linux
+
+83156
+freebsd	linux
+pattern2	
+recently i ve stumbled upon an interesting question about the difference between linux and freebsd why would someone choose freebsd over linux
+
+84247
+mouse	keyboard
+pattern2	
+select with mouse and copy it with the keyboard shortcut
+
+84833
+udp	rtp
+pattern4	
+in vlc click file open network stream and then choose udp rtp multicast
+
+91298
+ubuntu	debian
+pattern4	
+but when i select ubuntu 13.04 it boots into debian
+
+93934
+ecdsa	rsa
+pattern2	
+and since openssh prefers it over rsa i m guessing the developers think ecdsa is better
+
+101769
+waitpid	fork
+pattern4	
+note also that pid 0 and -1 and other negative values for that matter have different meanings depending on what function use them like kill fork and waitpid
+
+105256
+debian	mint	debian	linux
+pattern4	
+i am new to linux and i can t decide whether to choose debian or linux mint for my first distribution
+
+112024
+spaces	delimiter
+pattern4	
+the following assumes a spaces delimiter separates a list of match spaces replace pairs occurring one-per-line in the file patterns.txt
+
+117448
+afp	smb
+pattern4	
+these days you want smb in preference to afp because since mavericks apple prefer smb 2 to afp
+
+140157
+udp	tcp
+pattern3	
+recommend combining tcp and udp scans when performance is critical
+
+145207
+ubuntu	linux
+pattern4	
+if i enter grub loader i can pick ubuntu with linux 3.11.0.12-generic and i am able to enter passphrase latin characters but when i get to login screen it only types in russian
+
+145207
+ubuntu	linux
+pattern2	
+if i enter grub loader i can pick ubuntu with linux 3.11.0.12-generic and i am able to enter passphrase latin characters but when i get to login screen it only types in russian
+
+155406
+ubuntu	mint
+pattern4	
+reboot and you should now have mint s grub installed and will be able to choose mint ubuntu or windows
+
+156738
+dpkg	apt
+pattern4	
+you can kill apt dpkg and their subprocesses at any time
+
+158001
+switching	screens
+pattern4	
+in any case i recommend switching from screens to tmux and you can use this question to learn how to run a command and leave it after it exit
+
+173864
+children	parent
+pattern4	
+in order to kill parent and its children processes you can use
+
+174081
+hash	salt
+pattern3	
+if i want to verif you know passwd foo i need to compare resulting hash using passwd option with salt
+
+179668
+emacs	sublimetext
+pattern4	
+if you want a solution similar to the emacs one but prefer sublimetext over emacs there is the sublimetableeditor
+
+179668
+emacs	sublimetext
+pattern2	
+if you want a solution similar to the emacs one but prefer sublimetext over emacs there is the sublimetableeditor
+
+183111
+stdout	stderr
+pattern4	
+i want to have logger log to var log syslog since via ssh i m likely to lose stdout stderr
+
+188938
+redhat	fedora
+pattern2	
+this involves looking at distrowatch for redhat or the identical centos and compare with fedora s libraries which in this case would probably
+
+192782
+fish	zsh
+pattern4	
+from all wildcard matches zsh pdksh posh mksh unlike at t ksh fish â 2.0
+
+206916
+sudo	passwd
+pattern3	
+if your goal is to su without passwd i recommend using sudo su
+
+208004
+ubuntu	linux
+pattern2	
+i believe that the windows 8 bootloader can be made to boot linux so you d get it to show a menu to select between ubuntu and windows but i don t know how this works
+
+208379
+ubuntu	debian
+pattern4	
+so just pick debian or ubuntu or whatever you fancy as an administrator
+
+209214
+ubuntu	debian
+pattern4	
+if you want to work with the mate desktop environment and you are used to ubuntu also based on debian i highly recommend ubuntu mate for the raspberry pi 2
+
+209885
+vmware	virtualbox
+pattern4	
+and put it virtualbox or vmware i prefer virtualbox more fast
+
+212556
+debian	mint
+pattern4	
+i prefer debian or mint
+
+220646
+disk	ram
+pattern2	
+basically i want to see which one is more powerful and also compare them with disk capacity ram like which machines has more disk capacity and ram as well
+
+226825
+ubuntu	mint
+pattern4	
+in order to boot into mint i have to hold f12 while booting select my hdd and then select ubuntu or ubuntu from a list of items which brings me to grub
+
+228157
+ecdsa	rsa
+pattern4	
+so the default rsa is fine but if you use less powerful computers low-end smartphone router â prefer ecdsa or ed25519 if supported
+
+232782
+ubuntu	debian
+pattern4	
+compare debian left and ubuntu right
+
+233453
+ubuntu	linux	ubuntu	mint
+pattern4	
+to boot into linux mint i have to each time press f9 to show boot options and choose ubuntu after which i am shown the linux mint boot screen option gives me option to boot into linux-mint compatibility and stuff - and then choose linux mint 17.2 to boot in it
+
+233453
+ubuntu	linux	ubuntu	mint
+pattern4	
+to boot into linux mint i have to each time press f9 to show boot options and choose ubuntu after which i am shown the linux mint boot screen option gives me option to boot into linux-mint compatibility and stuff - and then choose linux mint 17.2 to boot in it
+
+235578
+mp3	aiff	opus	aiff
+pattern4	
+i choose aiff format because it supports id3v2 tags but when for test i convert a mp3 file contains metadata to aiff format with sox program and convert it to opus with opusenc result was the output opus file lacks metadata don t known what is the problem exactly also there was need to specify bit-rate value of mp3 file so use of mediainfo is necessary
+
+239094
+ubuntu	linux	ubuntu	debian	ubuntu	mint	debian	mint	debian	linux	debian-based	ubuntu	debian-based	linux	debian-based	mint
+pattern4	
+if you are more used to debian-based distros like linux mint i would recommend debian or ubuntu server
+
+239390
+lvm	btrfs	filesystems	btrfs
+pattern4	
+you can t really compare lvm with btrfs since btrfs is a filesystems and operates on files while lvm operates at the block layer and operates on disk blocks
+
+239390
+lvm	btrfs	filesystems	btrfs
+pattern2	
+you can t really compare lvm with btrfs since btrfs is a filesystems and operates on files while lvm operates at the block layer and operates on disk blocks
+
+241127
+ubuntu	linux
+pattern4	
+choose linux x86_64 ubuntu and then whatever latest version they have at the time of writing ubuntu 15.04
+
+243770
+dpkg	aptitude
+pattern3	
+this se recommends using aptitude which fwiw i prefer and suspect does a better job than dpkg for both backup and install and this se recommends deborphan for the backup
+
+251266
+ubuntu	debian
+pattern4	
+whatever reason you have to prefer debian if the latest ubuntu has drivers for your hardware and debian lags behind not an uncommon situation if you stick to debian stable switching to ubuntu might be best
+
+260603
+bash	zsh
+pattern2	
+i installed zsh because i thought i might prefer it over bash
+
+260737
+switching	screens
+pattern4	
+if i choose switching off display the screens doesn t get locked when closing the lid
+
+263679
+ubuntu	debian
+pattern4	
+i am concerned about this because i d like the program xbacklight to work on debian too because i actually prefer debian over ubuntu but had to switch to lubuntu because my eyes got really strained
+
+263679
+ubuntu	debian
+pattern2	
+i am concerned about this because i d like the program xbacklight to work on debian too because i actually prefer debian over ubuntu but had to switch to lubuntu because my eyes got really strained
+
+272305
+sudo	passwd
+pattern4	
+in general seems that secure separate sudo passwd can be achieved only with aid of custom pam module perhaps such module will compare passwd and sha-512 hash read from file or selinux functionality
+
+273144
+freebsd	debian
+pattern4	
+update 2 i compare freebsd and debian etc group file only 2 matches
+
+283145
+ubuntu	linux	ubuntu	debian	debian	linux
+pattern4	
+the google website will auto-detect you re operating system here gnu linux if not click on other platform and select linux if will give you two options an rpm and a deb package as you run ubuntu you will choose the 64 bit .deb for debian ubuntu package
+
+285441
+ubuntu	linux
+pattern4	
+select ubuntu with linux 4.2.0-36-generic recovery mode
+
+285441
+ubuntu	linux
+pattern2	
+select ubuntu with linux 4.2.0-36-generic recovery mode
+
+294216
+lvm	btrfs
+pattern3	
+if you re not using lvm because you need to create partitions for vms partitions and most other block-devices are faster than .qcow2 or raw files for vms i recommend using btrfs instead of lvm
+
+294408
+width	height
+pattern4	
+you could use imagemagick s identify with the fx special operator to compare height and width
+
+299204
+ubuntu	linux	ubuntu	debian	ubuntu	mint	debian	mint	debian	linux
+pattern4	
+pick ubuntu elementary os or linux mint in preference to debian or arch linux
+
+300007
+ubuntu	linux	ubuntu	mint
+pattern3	
+in any case i don t recommend using ubuntu s software center on linux mint
+
+301189
+postgresql	mysql
+pattern3	
+i d recommend using mysql or postgresql instead
+
+308245
+kde	gnome
+pattern4	
+the instructions for this will depend on which desktop you prefer gnome kde etc
+
+310199
+arp	tcp
+pattern4	
+the symptoms match tcp connections get broken after a while when the other contender grabs the ip address and keeping a ping running helps because then the same contender tends to remain in the arp caches
+
+313441
+gentoo	ubuntu
+pattern4	
+however if we compare gentoo - the distro known for compiling almost everything from source code and doing things from scratch with ubuntu - the distro which s noob-friendly we will see that if you want to get your standard laptop configuration webcam microphone speakers and optimus dual graphics card setup you need to do much more on gentoo side - you need to find proper drivers to compile compile them and set up configuration so that x recognizes both cards
+
+316256
+centos	linux
+pattern4	
+select linux virtual machine centos 7 1511
+
+318155
+ubuntu	debian	redhat	fedora
+pattern4	
+i prefer debian based ones like ubuntu but again somebody from the redhat world would probably prefer fedora
+
+318155
+ubuntu	debian	redhat	fedora
+pattern4	
+i prefer debian based ones like ubuntu but again somebody from the redhat world would probably prefer fedora
+
+320835
+ubuntu	linux	ubuntu	mint
+pattern4	
+from grub i used to be able to choose ubuntu or linux mint 18 on sda2
+
+334112
+hide	show
+pattern4	
+you can show them and hide them very quickly just by clicking on their little icon in the panel and choose hide all show all
+
+335384
+debian	mint
+pattern4	
+for instance if you choose debian then promise to yourself to never run update-grub from mint
+
+335384
+debian	mint
+pattern4	
+for instance if you choose debian to manage grub2 then you ll need to manually add the menu entries for mint
+
+335532
+ubuntu	centos	gentoo	ubuntu	gentoo	centos
+pattern4	
+i personally prefer managing my configuration manually so i opt for systems such as centos and gentoo but i know some advanced users who still prefer ubuntu so it s a personal choice
+
+346030
+vlan	packets
+pattern4	
+use tc to match packets without 802.1q on ingres and push a vlan header with id 0
+
+346030
+vlan	packets
+pattern4	
+use tc to match packets in vlan 0 on egress and pop the vlan header
+
+346658
+ubuntu	mint
+pattern4	
+tried it with ubuntu and mint i prefer mint but the errors are the same
+
+371169
+centos	linux
+pattern4	
+anyhow in vmware when selecting the os do not select centos instead select other linux 3.x kernel 64-bit
+
+397141
+ubuntu	mint
+pattern4	
+instead i would recommend mint ubuntu or fedora but this is not an exhaustive list
+
+404847
+xfs	ntfs	filesystems	xfs	filesystems	ntfs
+pattern4	
+linux prefer xfs or some ext filesystems whereas windows prefer ntfs
+
+404847
+xfs	ntfs	filesystems	xfs	filesystems	ntfs
+pattern4	
+linux prefer xfs or some ext filesystems whereas windows prefer ntfs
+
+409626
+disk	ram
+pattern4	
+given the fact virtual memory might be present in ram on disk files or swap or nowhere you cannot reliably compare ram and virtual memory usage
+
+413014
+sudo	passwd
+pattern4	
+that is set the filesize limit to 0 for the update of the timestamp file to fail but as long as we don t let that limit kill sudo we re still able to tell if a passwd was required or not
+
+418400
+ubuntu	linux
+pattern4	
+my question is what can i do to further investigate this and improve performance of the arch linux system to match ubuntu
+

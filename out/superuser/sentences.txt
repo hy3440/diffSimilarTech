@@ -1,0 +1,4320 @@
+319
+kde	gnome
+pattern0	flashier	
+kde is now a little flashier than gnome but beyond that they re essentially the same
+
+774
+opera	firefox
+pattern0	worse	
+opera is a solid choice though its default skin is worse than firefox
+
+5014
+unix	bsd
+pattern7	
+if the goal is to learn unix then something like linux or bsd makes far more sense than os x
+
+5014
+unix	bsd
+pattern7	
+if the goal is to learn unix then something like linux or bsd makes far more sense than os x
+
+5896
+rar	zip
+pattern7	usually much better	
+rar usually compresses much better than zip
+
+5896
+rar	zip
+pattern7	usually much better	
+rar usually compresses much better than zip
+
+5896
+rar	zip
+pattern0	better	
+rar usually compresses much better than zip
+
+5896
+rar	zip
+pattern7	
+of course it depends heavily on the data but most of the time fast rar is similar to zip normal and rar best is much better
+
+5916
+rar	zip
+pattern0	better	
+as current versions of winrar can decompress 7z and 7z can decompress rar and 7z usually compresses better than zip and often better than rar i tend to send those who send me rar files 7z files back
+
+5916
+rar	zip
+pattern0	better	
+as current versions of winrar can decompress 7z and 7z can decompress rar and 7z usually compresses better than zip and often better than rar i tend to send those who send me rar files 7z files back
+
+8110
+umask	chmod
+pattern10	more	
+in case your remote umask is more liberal than usual make the file not group-writable chmod go-w .ssh .ssh authorized_keys
+
+8110
+umask	chmod
+pattern10	more liberal	
+in case your remote umask is more liberal than usual make the file not group-writable chmod go-w .ssh .ssh authorized_keys
+
+13164
+rsa	dsa
+pattern10	
+which one - rsa or dsa - is better for gpg
+
+13164
+rsa	dsa
+pattern10	
+which one - rsa or dsa - is better for gpg
+
+13166
+rsa	dsa
+pattern0	larger hashes	
+signing is mainly because rsa lets you use larger hashes than dsa
+
+13228
+rsa	dsa
+pattern0	shorter	
+dsa signatures are much shorter than rsa signatures
+
+13459
+mouse	keyboard
+pattern0	
+this means having more than one keyboard and mouse
+
+14952
+opera	firefox
+pattern7	
+make sure with shortcuts etc. that opera firefox is easier to
+
+14952
+opera	firefox
+pattern7	
+make sure with shortcuts etc. that opera firefox is easier to
+
+14952
+opera	firefox
+pattern7	
+make sure with shortcuts etc. that opera firefox is easier to
+
+14952
+opera	firefox
+pattern7	
+make sure with shortcuts etc. that opera firefox is easier to
+
+21806
+vim	emacs
+pattern0	better	
+so ideally what i d like is to look at apart from basics are the gaps that emacs can fill or things that it can just do better than vim
+
+24797
+norton	mcafee
+pattern0	
+avira antivir is better than norton and mcafee and avira is free
+
+25361
+google-chrome	firefox
+pattern0	faster	
+recently i had switched to google-chrome to find that its much faster than firefox but addons like greasemonkey adblock plus tweeterfox etc
+
+26268
+google-chrome	firefox
+pattern7	
+if i had a working firefox i would not leave it at least not until google-chrome gets better add-in support
+
+26268
+google-chrome	firefox
+pattern7	
+if i had a working firefox i would not leave it at least not until google-chrome gets better add-in support
+
+26309
+google-chrome	firefox
+pattern0	less memory	
+i use both of them but firefox still my default browser because when want develope a site firefox extension realy help me but i like 1 thing in google-chrome that have task manager and get realy less memory than firefox
+
+26390
+fat	umount
+pattern7	
+while it is not 100 safe to remove a fat volume without umount it is safer than ntfs
+
+26390
+fat	umount
+pattern7	
+while it is not 100 safe to remove a fat volume without umount it is safer than ntfs
+
+27730
+rdiff-backup	unison
+pattern10	more	
+but i think rdiff-backup is a more robust and flexible technology and not a network-centric as unison i never used unison so can t comment
+
+27730
+rdiff-backup	unison
+pattern10	more robust	
+but i think rdiff-backup is a more robust and flexible technology and not a network-centric as unison i never used unison so can t comment
+
+31150
+ubuntu	linux
+pattern7	
+linux particularly user friendly builds like ubuntu is getting better day by day
+
+31150
+ubuntu	linux
+pattern7	
+linux particularly user friendly builds like ubuntu is getting better day by day
+
+31849
+robocopy	xcopy
+pattern8	
+also for a more robust copier than xcopy you might want to consider changing to robocopy part of the windows server 2003 resource kit tools
+
+33420
+ubuntu	debian
+pattern7	way faster	
+but it s true that debian is way faster than ubuntu and will be more simple for you .
+
+33420
+ubuntu	debian
+pattern7	way faster	
+but it s true that debian is way faster than ubuntu and will be more simple for you .
+
+33420
+ubuntu	debian
+pattern0	faster	
+but it s true that debian is way faster than ubuntu and will be more simple for you .
+
+33599
+xfce	kde
+pattern0	nicer	
+on linux it looks acceptable under kde quite nicer under xfce and quite horribly pixilated under fluxbox my preferred wm
+
+34234
+kde	gnome
+pattern0	better	
+gnome does it a little bit better than kde but kde can also be made to work see this post for more information
+
+34448
+disk	ram
+pattern10	
+because ram is dirt cheap and a ram disk is faster than a conventional platter hard disk drive by a countrymile or over 300 times
+
+34448
+disk	ram
+pattern10	
+because ram is dirt cheap and a ram disk is faster than a conventional platter hard disk drive by a countrymile or over 300 times
+
+34448
+disk	ram
+pattern10	
+because ram is dirt cheap and a ram disk is faster than a conventional platter hard disk drive by a countrymile or over 300 times
+
+34448
+disk	ram
+pattern10	
+because ram is dirt cheap and a ram disk is faster than a conventional platter hard disk drive by a countrymile or over 300 times
+
+37015
+vmware	virtualbox
+pattern0	faster	
+virtualbox also starts up much faster than vmware in my experience.
+
+37031
+vmware	virtualbox
+pattern0	
+i had better performance and a smoother experience with virtualbox but vmware s handling of multiple vms blows it out of the water - so it depends what you re using it for
+
+37909
+rar	zip
+pattern7	slightly better	
+lastly the compression on rar is slightly better than zip i think as well and early on i think it had better ways of protecting the data within the archive
+
+37909
+rar	zip
+pattern7	slightly better	
+lastly the compression on rar is slightly better than zip i think as well and early on i think it had better ways of protecting the data within the archive
+
+37909
+rar	zip
+pattern0	better	
+lastly the compression on rar is slightly better than zip i think as well and early on i think it had better ways of protecting the data within the archive
+
+38141
+vmware	virtualbox
+pattern0	
+smaller than vmware 300mb for vmware vs 70mb for virtualbox download sizes
+
+42706
+xfs	ntfs
+pattern0	better	
+not sure if the transfer speed with xfs will be much better than with ntfs - 25 mb s is a typical limit for some usb controllers
+
+42706
+xfs	ntfs
+pattern0	better	
+not sure if the transfer speed with xfs will be much better than with ntfs - 25 mb s is a typical limit for some usb controllers
+
+44144
+fink	macports
+pattern0	
+on the other hand it offers fewer packages than either macports or fink
+
+44144
+fink	macports
+pattern0	
+since it s new it also has fewer packages than macports or fink
+
+45509
+disk	ram
+pattern7	significantly faster	
+since ram is significantly faster than disk storage you can use dev shm instead of tmp for the performance boost if your process is i o intensive and extensively uses temporary files
+
+45509
+disk	ram
+pattern7	significantly faster	
+since ram is significantly faster than disk storage you can use dev shm instead of tmp for the performance boost if your process is i o intensive and extensively uses temporary files
+
+45509
+disk	ram
+pattern0	faster	
+since ram is significantly faster than disk storage you can use dev shm instead of tmp for the performance boost if your process is i o intensive and extensively uses temporary files
+
+46341
+macbook	bootcamp
+pattern0	cooler	
+the nvidia 9600m gt on my macbook pro runs much cooler with the bootcamp 3.0 bundled driver than the latest driver available from nvidia
+
+52778
+norton	mcafee	antivirus	mcafee	antivirus	norton
+pattern0	worse	
+and as a general rule of thumb there s only one antivirus software that is worse than mcafee s and that s norton s imho
+
+54729
+kde	gnome
+pattern7	
+as you actually do have physical access you might be able to set up the machine to your needs but i assume setting up some vcn to some existing gnome or kde session is easier
+
+54758
+ubuntu	debian
+pattern7	
+most of them should allow you to install java through their package management system such as apt for debian and ubuntu which is easier and allows for easy updates as well
+
+54758
+ubuntu	debian
+pattern7	
+most of them should allow you to install java through their package management system such as apt for debian and ubuntu which is easier and allows for easy updates as well
+
+56806
+fink	macports	kde	gnome
+pattern7	
+mostly out of pure stubborn curiosity i got gnome working via macports - fink also has gnome and kde and apparently kde is even easier
+
+59929
+google-chrome	firefox
+pattern10	quite more	
+on my system google-chrome chokes quite more often than ie 8 or firefox -- it searched for the website for 20 seconds and then said website not found
+
+59929
+google-chrome	firefox
+pattern10	quite more often	
+on my system google-chrome chokes quite more often than ie 8 or firefox -- it searched for the website for 20 seconds and then said website not found
+
+60416
+cifs	smb
+pattern0	
+almost anything will be better than smb cifs over the open internet
+
+60416
+cifs	smb
+pattern0	
+almost anything will be better than smb cifs over the open internet
+
+60718
+cpu	processors
+pattern7	
+my computer shuts down during intense use of the processors but the sensors show that temperature of cpu is less than 78 o c
+
+60718
+cpu	processors
+pattern7	
+my computer shuts down during intense use of the processors but the sensors show that temperature of cpu is less than 78 o c
+
+60818
+ubuntu	linux
+pattern10	more	
+ubuntu is more popular among students and ordinary users who use linux as their only os
+
+60818
+ubuntu	linux
+pattern10	more popular	
+ubuntu is more popular among students and ordinary users who use linux as their only os
+
+62943
+mp3	flac
+pattern7	larger	
+the reason the flac is larger than the mp3 of the same data is because they encode differently
+
+62943
+mp3	flac
+pattern7	larger	
+the reason the flac is larger than the mp3 of the same data is because they encode differently
+
+62943
+mp3	flac
+pattern0	larger	
+the reason the flac is larger than the mp3 of the same data is because they encode differently
+
+62945
+mp3	flac
+pattern7	bigger	
+as to why the flac is bigger than the mp3 you re taking one of the more-compressed formats decompressing it then recompressing it in a less-efficient compression tool though with a higher-quality of playback
+
+62945
+mp3	flac
+pattern7	bigger	
+as to why the flac is bigger than the mp3 you re taking one of the more-compressed formats decompressing it then recompressing it in a less-efficient compression tool though with a higher-quality of playback
+
+62945
+mp3	flac
+pattern0	bigger	
+as to why the flac is bigger than the mp3 you re taking one of the more-compressed formats decompressing it then recompressing it in a less-efficient compression tool though with a higher-quality of playback
+
+64393
+ethernet	wireless
+pattern7	way more	
+this will solve your problem as the bandwidth on 100 meg ethernet is way more than you ll get wireless
+
+64393
+ethernet	wireless
+pattern7	way more	
+this will solve your problem as the bandwidth on 100 meg ethernet is way more than you ll get wireless
+
+66507
+cpu	processors
+pattern0	more	
+for instance if you have a dual core processors and you are running an intensive application that is doing most of its processing in one thread the application s process will not tend to show more than 50 cpu usage
+
+67745
+gif	png
+pattern7	smaller	
+that s virtually the only case in which gif gives smaller file size than png
+
+67745
+gif	png
+pattern7	smaller file	
+that s virtually the only case in which gif gives smaller file size than png
+
+68303
+ubuntu	linux
+pattern0	less	
+i was thinking maybe there s a linux distro that s less demanding than ubuntu that i can use or some way to run a decent linux within windows without virtualizing
+
+69492
+vmware	virtualbox
+pattern8	more stable	
+i ve also used virtualbox and setup ubuntu by mounting the image and running the install but downloading a pre-made vm is much faster and i ve found vmware to be more stable than virtualbox and faster to save state on exits
+
+72993
+kde	gnome
+pattern10	more	
+however uiwise i found that kde is more windows like than gnome
+
+72993
+kde	gnome
+pattern10	more windows	
+however uiwise i found that kde is more windows like than gnome
+
+73740
+ubuntu	linux
+pattern7	more	
+it is based on ubuntu but comes with more things to make the windows to linux transition easier
+
+73740
+ubuntu	linux
+pattern7	more things	
+it is based on ubuntu but comes with more things to make the windows to linux transition easier
+
+76057
+freebsd	linux
+pattern8	more secure	
+freebsd is the main bsd distro bsd is more secure than linux but more limited it s also more structured than linux between projects but some softwares won t compile on it .
+
+76057
+freebsd	linux
+pattern8	
+freebsd is the main bsd distro bsd is more secure than linux but more limited it s also more structured than linux between projects but some softwares won t compile on it .
+
+77524
+vmware	virtualbox
+pattern0	better fit	
+at a glance it looked like virtualpc and virtualbox were lacking several of vmware workstation s more advanced features although virtualbox does look like a better fit than vmware server for what i m currently doing.
+
+78234
+vim	emacs
+pattern10	
+unlike vim emacs generally has a longer startup time and anyway tends to be running all the time with multiple open buffers
+
+78234
+vim	emacs
+pattern10	
+unlike vim emacs generally has a longer startup time and anyway tends to be running all the time with multiple open buffers
+
+80161
+kde	kubuntu
+pattern7	
+i have one computer running kubuntu 8.04 and one running mepis and i m thinking mepis using kde 3.5 is nicer
+
+82010
+opera	firefox
+pattern7	easier	
+opera is easier on the scarce system resources than firefox and the theme is nicer the wood theme in foxy has some readability issues
+
+82010
+opera	firefox
+pattern7	easier	
+opera is easier on the scarce system resources than firefox and the theme is nicer the wood theme in foxy has some readability issues
+
+84924
+disk	ram
+pattern7	
+but if ram feels like dsl then a hard disk that s worse than dial-up
+
+84924
+disk	ram
+pattern7	
+but if ram feels like dsl then a hard disk that s worse than dial-up
+
+88278
+pull	push
+pattern0	
+i can connect to my pc as media server but that seems more pull than push unless i am missing something
+
+88824
+opera	google-chrome
+pattern0	better	
+besides other than the text-search feature of google-chrome which i think is better than opera s i found all the usual enhancements
+
+92884
+fink	macports
+pattern7	
+another is fink but macports is generally more up to date
+
+92884
+fink	macports
+pattern7	
+another is fink but macports is generally more up to date
+
+92885
+fink	macports
+pattern10	
+both will get gimp and all its dependencies installed for you - fink will be faster as it doesn t have to compile but macports gives you more control over what gets built
+
+92885
+fink	macports
+pattern10	
+both will get gimp and all its dependencies installed for you - fink will be faster as it doesn t have to compile but macports gives you more control over what gets built
+
+100691
+postgresql	mysql
+pattern8	more robust	
+if open source i would suggest postgresql since i believe it to be more robust than mysql
+
+100889
+filesystems	ntfs
+pattern10	superblock much more	
+the device driver usually applies this restriction to the higher level and also reading whole sector with ntfs superblock is much more faster than reading the same sector several times implicitly because of a driver that translates byte range requests to sector requests so filesystems drivers are also performing read and write operations by sectors or any multiplies of sectors there exists a technology called dma -- direct memory access -- that allows reading and writing large bursts of sectors without using cpu time thus making disk access very fast
+
+100889
+filesystems	ntfs
+pattern10	superblock much more faster	
+the device driver usually applies this restriction to the higher level and also reading whole sector with ntfs superblock is much more faster than reading the same sector several times implicitly because of a driver that translates byte range requests to sector requests so filesystems drivers are also performing read and write operations by sectors or any multiplies of sectors there exists a technology called dma -- direct memory access -- that allows reading and writing large bursts of sectors without using cpu time thus making disk access very fast
+
+101389
+google-chrome	firefox
+pattern7	
+i generally use firefox have never had problems with google-chrome it does seem faster my kids love it and use it primarily
+
+101389
+google-chrome	firefox
+pattern7	
+i generally use firefox have never had problems with google-chrome it does seem faster my kids love it and use it primarily
+
+101649
+disk	ram
+pattern0	
+modern pcs have more than enough ram and cpu - but disk read write is still slow and an always-on av has to scan every single read and write which can cause huge slowdowns
+
+106560
+vmware	virtualbox
+pattern8	more responsive	
+recently i tried virtualbox and found it more responsive than vmware
+
+107646
+postgresql	mysql
+pattern0	better	
+my experience is that postgresql is handling complex queries much better than mysql so if you will be doing some advanced sql i can recommend postgresql
+
+110116
+ssd	sata
+pattern0	
+just because usb2.0 is slower than sata does not necessarily mean that using an ssd through usb2.0 is a waste of money
+
+110241
+opera	google-chrome
+pattern0	faster	
+i ve recently used the opera browser because it s now faster than google-chrome
+
+110650
+udp	tcp
+pattern7	better	
+for lowest latency but less error correction udp is a better option than tcp for example with linux the jackd sound server has a backend that can stream audio over udp for this very reason - jackd is more oriented to perfect sound quality pro audio production though
+
+110650
+udp	tcp
+pattern7	better option	
+for lowest latency but less error correction udp is a better option than tcp for example with linux the jackd sound server has a backend that can stream audio over udp for this very reason - jackd is more oriented to perfect sound quality pro audio production though
+
+110650
+udp	tcp
+pattern0	better option	
+for lowest latency but less error correction udp is a better option than tcp for example with linux the jackd sound server has a backend that can stream audio over udp for this very reason - jackd is more oriented to perfect sound quality pro audio production though
+
+117088
+disk	ram
+pattern0	more	
+actually you re probably talk about a disk cache more than a ram disk based on the sentence which can temporarily store the files that needs constant transfer from the computer to an external device
+
+119932
+virtualbox	parallels
+pattern0	better	
+i recommend parallels desktop which i feel is better than virtualbox
+
+121140
+disk	ram
+pattern0	
+i know that ram disk are fast faster than any disk but they lose their contents on a shutdown of the operating system
+
+125880
+emacs	aquamacs
+pattern10	more	
+aquamacs is more mac-like whereas carbon emacs is more well emacs-ish
+
+125880
+emacs	aquamacs
+pattern10	more mac-like	
+aquamacs is more mac-like whereas carbon emacs is more well emacs-ish
+
+125880
+emacs	aquamacs
+pattern10	
+aquamacs is more mac-like whereas carbon emacs is more well emacs-ish
+
+125880
+emacs	aquamacs
+pattern10	
+aquamacs is more mac-like whereas carbon emacs is more well emacs-ish
+
+126008
+mouse	trackpad
+pattern0	
+you may want to try usboverdrive as it can offer finer controls over your mouse s and trackpad
+
+126303
+firefox	safari
+pattern10	more	
+it appears based on tests run by jan ozer that safari is more efficient than firefox for playing flash videos and upgrading to flash 10.1 is better for all browsers
+
+126303
+firefox	safari
+pattern10	more efficient	
+it appears based on tests run by jan ozer that safari is more efficient than firefox for playing flash videos and upgrading to flash 10.1 is better for all browsers
+
+126303
+firefox	safari
+pattern8	more efficient	
+it appears based on tests run by jan ozer that safari is more efficient than firefox for playing flash videos and upgrading to flash 10.1 is better for all browsers
+
+128056
+kde	kubuntu
+pattern10	
+kde kubuntu is more like vista 7
+
+128056
+kde	kubuntu
+pattern10	
+kde kubuntu is more like vista 7
+
+128056
+kde	kubuntu
+pattern10	
+kde kubuntu is more like vista 7
+
+128056
+kde	kubuntu
+pattern10	
+kde kubuntu is more like vista 7
+
+132142
+width	height
+pattern7	
+i m guessing this happens whenever height or width is larger than 1024 but i seem to recall perhaps erroneously exceptions to this rule
+
+132142
+width	height
+pattern7	
+i m guessing this happens whenever height or width is larger than 1024 but i seem to recall perhaps erroneously exceptions to this rule
+
+132815
+firefox	safari
+pattern0	
+as i mentioned before they are native to safari thus no need for 3rd party programs like scrapbook for firefox and webarchives are better than firefox s or ie s save as html complete because the webarchive is a single file with all the goodies all packed inside of it
+
+136769
+hash	md5
+pattern8	more secure	
+it s best to check if they have a sha-2 hash they are much more secure than md5 and if something like md4 is used just don t trust it at all
+
+136998
+vmware	virtualbox	virtualbox	parallels
+pattern0	faster	
+oh and if you want to use it parallels is very good the vms run much faster than virtualbox and a fair bit faster than vmware fusion
+
+141898
+bash	zsh
+pattern10	much more	
+bash is much more widely used so there are fewer people familiar with the intricacies of zsh
+
+141898
+bash	zsh
+pattern10	much more widely	
+bash is much more widely used so there are fewer people familiar with the intricacies of zsh
+
+141898
+bash	zsh
+pattern10	more	
+also since bash is more widely used than zsh its scripts are relatively more portable
+
+141898
+bash	zsh
+pattern10	more widely	
+also since bash is more widely used than zsh its scripts are relatively more portable
+
+145066
+filesystems	ntfs
+pattern0	
+nt 4.0 or newer with an ntfs partition compact uses filesystems compression to compress the file and the file appears unchanged in windows explorer
+
+148846
+ati	nvidia
+pattern0	
+if it s any consolation i had better success with nvidia cards rather than ati
+
+153539
+disk	ram
+pattern10	faster	
+any ram is faster than swapping to disk
+
+153539
+disk	ram
+pattern10	faster	
+any ram is faster than swapping to disk
+
+155121
+apache	nginx
+pattern0	lighter	
+try nginx lighter than apache
+
+155844
+tar	gunzip
+pattern0	
+but you can make things a little easier by using tar s -z option which tells it to do the gunzip itself
+
+157555
+geany	gedit	vim	geany	vim	gedit
+pattern7	much faster	
+geany is much faster than gedit and is my editor of choice whenever i don t want to use vim
+
+157555
+geany	gedit	vim	geany	vim	gedit
+pattern7	much faster	
+geany is much faster than gedit and is my editor of choice whenever i don t want to use vim
+
+157555
+geany	gedit	vim	geany	vim	gedit
+pattern0	faster	
+geany is much faster than gedit and is my editor of choice whenever i don t want to use vim
+
+161922
+bash	zsh
+pattern7	
+yes bash has some of it but zsh has knows more commands is often more precise and has many more configuration possibilities
+
+161922
+bash	zsh
+pattern7	
+yes bash has some of it but zsh has knows more commands is often more precise and has many more configuration possibilities
+
+161922
+bash	zsh
+pattern7	
+yes bash has some of it but zsh has knows more commands is often more precise and has many more configuration possibilities
+
+161922
+bash	zsh
+pattern7	
+yes bash has some of it but zsh has knows more commands is often more precise and has many more configuration possibilities
+
+168493
+vmware	virtualbox
+pattern7	
+i tested vmware in the beginning and it looks more powerful but i think virtualbox is easier and faster
+
+168493
+vmware	virtualbox
+pattern7	
+i tested vmware in the beginning and it looks more powerful but i think virtualbox is easier and faster
+
+169439
+vmware	virtualbox
+pattern7	much better	
+i find that virtualbox is much better and have rather lazily just used it on linux rather than bother trying vmware
+
+169439
+vmware	virtualbox
+pattern7	much better	
+i find that virtualbox is much better and have rather lazily just used it on linux rather than bother trying vmware
+
+173527
+ubuntu	linux
+pattern7	
+many people claim that linux ubuntu has a lower memory footprint than windows
+
+173527
+ubuntu	linux
+pattern7	
+many people claim that linux ubuntu has a lower memory footprint than windows
+
+173527
+ubuntu	linux
+pattern7	
+many people claim that linux ubuntu has a lower memory footprint than windows
+
+173527
+ubuntu	linux
+pattern7	
+many people claim that linux ubuntu has a lower memory footprint than windows
+
+173580
+ubuntu	linux
+pattern7	
+many people claim that linux ubuntu has a lower memory footprint than windows
+
+173580
+ubuntu	linux
+pattern7	
+many people claim that linux ubuntu has a lower memory footprint than windows
+
+173580
+ubuntu	linux
+pattern7	
+many people claim that linux ubuntu has a lower memory footprint than windows
+
+173580
+ubuntu	linux
+pattern7	
+many people claim that linux ubuntu has a lower memory footprint than windows
+
+175708
+kate	gedit
+pattern0	more	
+ps i like kate more than gedit
+
+180719
+vmware	virtualbox
+pattern0	better	
+vmware fusion is probably the best virtualization software i have used on a mac i would use it mainly if i want to use it s unity mode to integrate the guest os with the host since it does it much better than virtualbox
+
+181605
+subnet	packets
+pattern7	
+when it comes to same subnet communications where router tables aren t a concern each packets requires less raw computation
+
+181605
+subnet	packets
+pattern7	
+when it comes to same subnet communications where router tables aren t a concern each packets requires less raw computation
+
+187584
+vmware	virtualbox
+pattern0	slower	
+after reading various tips on how to increase performance with virtualbox i am attempting to switch from an ide disk to sata disk in my particular case virtualbox w an ide disk is an order of magnitude slower than vmware when compiling a small application with visual studio
+
+187957
+vmware	virtualbox
+pattern0	nicer	
+vmware fusion 3.0 s unity is far nicer than virtualbox s seamless mode
+
+187957
+vmware	virtualbox
+pattern0	smoother	
+virtualbox s guest tools installation is far smoother than vmware fusion s
+
+188719
+xfce	gnome
+pattern10	
+if you re really worried use xfce instead of gnome it is better for systems with minimal resources and will let ubuntu run much better
+
+188719
+xfce	gnome
+pattern10	
+if you re really worried use xfce instead of gnome it is better for systems with minimal resources and will let ubuntu run much better
+
+192200
+mouse	keyboard
+pattern7	
+screw it thought i she can have my keyboard since i use wasd and the mouse she likes the old style keyboard only controls much better and guess what same problem
+
+192200
+mouse	keyboard
+pattern7	
+screw it thought i she can have my keyboard since i use wasd and the mouse she likes the old style keyboard only controls much better and guess what same problem
+
+192480
+google-chrome	firefox
+pattern10	
+for browser automation on the mac i highly recommend the imacros for firefox and imacros for google-chrome addons the firefox one is more powerful
+
+192480
+google-chrome	firefox
+pattern10	
+for browser automation on the mac i highly recommend the imacros for firefox and imacros for google-chrome addons the firefox one is more powerful
+
+192627
+disk	ram
+pattern10	
+but reducing the number of disk access by adding ram is far more likely to pay off
+
+192627
+disk	ram
+pattern10	
+but reducing the number of disk access by adding ram is far more likely to pay off
+
+194811
+google-chrome	firefox
+pattern0	faster	
+alternatively you could try developer tools from google-chrome which is way lighter and faster than firefox and has very similar features to firebug you can open them pressing control+shift+i
+
+200845
+daemons	systemd
+pattern7	much easier	
+it is possible that these services should not be restarted without a full systemd reboot but rebooting the systemd is much easier than killing and relaunching 8+ services and daemons
+
+200845
+daemons	systemd
+pattern7	much easier	
+it is possible that these services should not be restarted without a full systemd reboot but rebooting the systemd is much easier than killing and relaunching 8+ services and daemons
+
+202245
+hash	md5
+pattern7	larger	
+generally speaking you really are safer using a hash which has a larger key size because suppose this is md5 the odds of the first password matching out of 340 282 366 920 938 463 463 374 607 431 768 211 456 possible matches is extremely extremely unlikely
+
+202245
+hash	md5
+pattern7	larger key	
+generally speaking you really are safer using a hash which has a larger key size because suppose this is md5 the odds of the first password matching out of 340 282 366 920 938 463 463 374 607 431 768 211 456 possible matches is extremely extremely unlikely
+
+209905
+kde	gnome
+pattern7	more	
+then again gnome has been more stable than kde over the past year or so as a result of kde s growing pains
+
+209905
+kde	gnome
+pattern7	more stable	
+then again gnome has been more stable than kde over the past year or so as a result of kde s growing pains
+
+209905
+kde	gnome
+pattern0	more stable	
+then again gnome has been more stable than kde over the past year or so as a result of kde s growing pains
+
+211517
+disk	ram
+pattern0	slower	
+for total ram amounts on the host machine know that after about 80 total ram utilization esx will begin using the disk caching which is always far slower than ram just like virtual memory in the os even if you are hosting that on an ssd
+
+213425
+fink	homebrew	fink	macports	macports	homebrew
+pattern0	
+another option that gets less attention than homebrew macports or fink is rudix
+
+213425
+fink	homebrew	fink	macports	macports	homebrew
+pattern0	
+another option that gets less attention than homebrew macports or fink is rudix
+
+214550
+disk	ram
+pattern10	faster	
+since ram is faster than hard disk at worst case you will see a reduction in speed
+
+214550
+disk	ram
+pattern10	faster	
+since ram is faster than hard disk at worst case you will see a reduction in speed
+
+214919
+photoshop	fireworks
+pattern0	better	
+for people creating mainly online content fireworks probably has most all the features they need and probably suits their workflow better than photoshop
+
+215173
+bmp	png
+pattern7	better	
+png is better than bmp in my work and i too often forgot to change the file type before clicking save
+
+215173
+bmp	png
+pattern7	better	
+png is better than bmp in my work and i too often forgot to change the file type before clicking save
+
+215173
+bmp	png
+pattern0	better	
+png is better than bmp in my work and i too often forgot to change the file type before clicking save
+
+216033
+ati	nvidia
+pattern7	substantially more	
+on the one hand the ati has substantially more vram but the nvidia supports d3d 10 and sm4.0 as opposed to d3d 9.0c sm3.0 that the ati supports
+
+216033
+ati	nvidia
+pattern7	substantially more vram	
+on the one hand the ati has substantially more vram but the nvidia supports d3d 10 and sm4.0 as opposed to d3d 9.0c sm3.0 that the ati supports
+
+216033
+ati	nvidia
+pattern10	
+looking at the ati table and the nvidia table seems to indicate that the nvidia is better but then again the nvidia table also says that the geforce 8600gt is a pci-e card with at least 256mb even though the card in question is an agp with 128mb
+
+216033
+ati	nvidia
+pattern10	
+looking at the ati table and the nvidia table seems to indicate that the nvidia is better but then again the nvidia table also says that the geforce 8600gt is a pci-e card with at least 256mb even though the card in question is an agp with 128mb
+
+216263
+putty	winscp
+pattern0	
+the ssh code of winscp is based on putty so file transfers with the ssh-based protocols cannot be expeceted to be faster than putty
+
+219888
+apache	nginx
+pattern0	
+you might get more into less by using nginx lighttp cheroke instead of apache and tweaking mysql to the nth degree but i d still say 512mb is a sensible minimum for what you describe
+
+222947
+google-chrome	firefox
+pattern7	
+i use google-chrome though but at least firefox is better than ie
+
+222947
+google-chrome	firefox
+pattern7	
+i use google-chrome though but at least firefox is better than ie
+
+223238
+ssd	sata
+pattern7	much worse	
+remember that a bad ssd is much worse than a traditional sata drive so don t be fooled by the cheapies out there as you re looking
+
+223238
+ssd	sata
+pattern7	much worse	
+remember that a bad ssd is much worse than a traditional sata drive so don t be fooled by the cheapies out there as you re looking
+
+223902
+gtk	xlib	gtk	xcb	xlib	xcb
+pattern0	lower	
+at the very bottom is xlib and xcb but most people never go any lower than gtk or qt
+
+224710
+switching	screens	put	get
+pattern7	
+when i turn the computer on this error always happens wher jus after it starts up this screens pops up wher it says f1 to enter bios setup or f2 to start windows normally and if i press f2 it goes into windows but freezez then i hav 2 turn the pc off problem is the bios + date and time keeps resetting itself somehow and it s not the battery because i put a new one in so when i manage 2 load default settings and get it working after some struggle and i shut down the pc the next day i switching the pc on and does the whole process again.
+
+224710
+switching	screens	put	get
+pattern7	
+when i turn the computer on this error always happens wher jus after it starts up this screens pops up wher it says f1 to enter bios setup or f2 to start windows normally and if i press f2 it goes into windows but freezez then i hav 2 turn the pc off problem is the bios + date and time keeps resetting itself somehow and it s not the battery because i put a new one in so when i manage 2 load default settings and get it working after some struggle and i shut down the pc the next day i switching the pc on and does the whole process again.
+
+225059
+button	checkbox
+pattern7	
+large movements are ok but when it comes to fine movements such as click a close button or check a checkbox it takes longer time
+
+225059
+button	checkbox
+pattern7	
+large movements are ok but when it comes to fine movements such as click a close button or check a checkbox it takes longer time
+
+226027
+docx	.doc
+pattern10	
+i want to view .docx file and .doc file in my mac os x10.6.5.when i open this type of file it shows only text in text editor.the docx file has some more images i didnt able to see
+
+226027
+docx	.doc
+pattern10	
+i want to view .docx file and .doc file in my mac os x10.6.5.when i open this type of file it shows only text in text editor.the docx file has some more images i didnt able to see
+
+226941
+disk	ram
+pattern0	
+a you generally want more than your ram so that your system can hibernate to disk
+
+227564
+vmware	virtualbox
+pattern10	even harder	
+virtualbox fails even harder as it starts mac os in verbose mode and crashes very quickly but seems to be able to access the partition so i think it would be easier to get vmware access my partition than to get virtualbox to run it
+
+227564
+vmware	virtualbox
+pattern10	even harder	
+virtualbox fails even harder as it starts mac os in verbose mode and crashes very quickly but seems to be able to access the partition so i think it would be easier to get vmware access my partition than to get virtualbox to run it
+
+228046
+kde	gnome
+pattern0	
+one other note if you pick a vm environment if you need a desktop environment consider something lighter than gnome kde
+
+228046
+kde	gnome
+pattern0	
+one other note if you pick a vm environment if you need a desktop environment consider something lighter than gnome kde
+
+231438
+cpu	processors
+pattern10	
+for example we might refer to the z80 processors in a sega mega drive genesis as a cpu even though it actually serves as an auxiliary to the main processors which is a more powerful motorola 68k
+
+231438
+cpu	processors
+pattern10	
+for example we might refer to the z80 processors in a sega mega drive genesis as a cpu even though it actually serves as an auxiliary to the main processors which is a more powerful motorola 68k
+
+236365
+gitolite	gitosis
+pattern7	
+better even than gitosis is gitolite which is newer and more flexible
+
+236365
+gitolite	gitosis
+pattern7	
+better even than gitosis is gitolite which is newer and more flexible
+
+240589
+disk	ram
+pattern7	access much slower	
+remember that the disk access is much slower than ram
+
+240589
+disk	ram
+pattern7	access much slower	
+remember that the disk access is much slower than ram
+
+240589
+disk	ram
+pattern0	slower	
+remember that the disk access is much slower than ram
+
+241212
+width	height
+pattern0	
+the only problem is that if the original image is smaller than 500px width or height sips will upscale it
+
+244360
+switching	screens
+pattern7	
+well your screens redraws every other line 60 times a second task switching happens much faster than that
+
+244360
+switching	screens
+pattern7	
+well your screens redraws every other line 60 times a second task switching happens much faster than that
+
+244840
+mp3	wav
+pattern0	
+it really depends on the source and the codec - most voice recorders tend to use a very low bitrate and this is often smaller than a mp3 -the rule of thumb to me is - if your current wav file is less than 1 mb per minute of length of the audio track transcoding it to mp3 may not be an advantage
+
+244840
+mp3	wav
+pattern7	file less	
+it really depends on the source and the codec - most voice recorders tend to use a very low bitrate and this is often smaller than a mp3 -the rule of thumb to me is - if your current wav file is less than 1 mb per minute of length of the audio track transcoding it to mp3 may not be an advantage
+
+244840
+mp3	wav
+pattern7	file less	
+it really depends on the source and the codec - most voice recorders tend to use a very low bitrate and this is often smaller than a mp3 -the rule of thumb to me is - if your current wav file is less than 1 mb per minute of length of the audio track transcoding it to mp3 may not be an advantage
+
+250028
+icmp	snmp
+pattern0	
+your second test should be something that monitors more than just icmp try snmp monitoring
+
+252508
+freebsd	solaris
+pattern7	probably better	
+freebsd probably has better hardware support than solaris as well
+
+252508
+freebsd	solaris
+pattern7	probably better hardware	
+freebsd probably has better hardware support than solaris as well
+
+254165
+tunnel	vpn
+pattern0	
+if you need really high security because you re dealing with private information that has certain legal requirements for protection you d probably be much better off with a vpn such as that encrypts all communications that pass through its tunnel but this isn t the same as a proxy server anymore
+
+254693
+versioning	upgrade
+pattern0	
+it s better than an upgrade because all the old baggage left-over from the previous versioning of the operating system doesn t get carried through to the new versioning
+
+256589
+kate	scite	kate	gnome
+pattern7	closer	
+scite is closer to kate than kwrite in functionality but is gtk gnome based and has the line numbering wrapping and many other options available right in the menus just like kwrite
+
+256589
+kate	scite	kate	gnome
+pattern7	closer	
+scite is closer to kate than kwrite in functionality but is gtk gnome based and has the line numbering wrapping and many other options available right in the menus just like kwrite
+
+257102
+google-chrome	firefox
+pattern0	worse	
+so why is google-chrome worse than firefox
+
+258260
+vim	emacs	vim	textmate	emacs	textmate
+pattern8	
+if you are still looking for a powerful text editor on the mac may i suggest you try komodo edit cross-platform more ide-like than textmate has both features easy to learn or vim emacs cross-platform super powerful blow np++ and tm in every department except ease of use and user-friendlyness
+
+258363
+ethernet	wireless
+pattern0	less	
+to get the most performance you would probably want to buy a router with gigabit ethernet built in since most only come with 100mbit sec ports - limiting throughput to around 12 mbytes sec which is less than wireless n speeds and far slower than the full potential or a wired network
+
+260664
+mouse	keyboard
+pattern0	
+external drives and such consume more power than a mouse or keyboard
+
+263021
+vmware	virtualbox	virtualbox	parallels
+pattern0	better performance	
+parallels and virtualbox tend to have better performance than vmware across all platforms that i have used virtualbox linux windows os x parallels os x
+
+267627
+bash	zsh
+pattern7	better	
+you can also try zsh which has better completion than bash
+
+267627
+bash	zsh
+pattern7	better completion	
+you can also try zsh which has better completion than bash
+
+267627
+bash	zsh
+pattern0	better completion	
+you can also try zsh which has better completion than bash
+
+269140
+gentoo	ubuntu
+pattern10	
+the ubuntu guide is more focused on the installation of ubuntu itself while the gentoo guide contains lots of information on how to do things by hand
+
+269140
+gentoo	ubuntu
+pattern10	
+the ubuntu guide is more focused on the installation of ubuntu itself while the gentoo guide contains lots of information on how to do things by hand
+
+272315
+vmware	virtualbox
+pattern8	more open	
+i used to be a big fan of vmware but virtualbox has just got the edge because it is so much more open than vmware
+
+272322
+bluetooth	usb
+pattern0	slower even	
+the bluetooth hard drive interface is much slower than even usb 1.x
+
+273723
+vmware	virtualbox
+pattern0	better	
+vmware workstation is not as snappy uses more memory etc - but also does a better job of juggling multiple simultaneous vms and seems to handle the server oses overall better than virtualbox
+
+277430
+mouse	trackpad
+pattern7	
+say my priority is to get things done fast i don t care whether using the trackpad or the mouse is cooler or whatsoever
+
+277430
+mouse	trackpad
+pattern7	
+say my priority is to get things done fast i don t care whether using the trackpad or the mouse is cooler or whatsoever
+
+277665
+versioning	upgrade
+pattern7	older	
+it s more cumbersome to install and upgrade it s an older versioning slhck is correct and you already have it if you use homebrew anyway
+
+277665
+versioning	upgrade
+pattern7	older	
+it s more cumbersome to install and upgrade it s an older versioning slhck is correct and you already have it if you use homebrew anyway
+
+281295
+pppoe	dhcp
+pattern10	
+the terms to look out for in the device configs are pppoe modem logs in on its own router is usually either standard dhcp or static depending on your isp settings - though dhcp is more common as the modem usually nats with dhcp when it is doing pppoe or bridged pass-through mode where the router will then be set to pppoe and will usually be set for dhcp
+
+281295
+pppoe	dhcp
+pattern10	
+the terms to look out for in the device configs are pppoe modem logs in on its own router is usually either standard dhcp or static depending on your isp settings - though dhcp is more common as the modem usually nats with dhcp when it is doing pppoe or bridged pass-through mode where the router will then be set to pppoe and will usually be set for dhcp
+
+287186
+filesystems	ntfs
+pattern7	
+as a journaled filesystems ntfs offers greater reliability than its predecessors
+
+287186
+filesystems	ntfs
+pattern7	
+as a journaled filesystems ntfs offers greater reliability than its predecessors
+
+287186
+filesystems	ntfs
+pattern7	
+as a journaled filesystems ntfs offers greater reliability than its predecessors
+
+287186
+filesystems	ntfs
+pattern7	
+as a journaled filesystems ntfs offers greater reliability than its predecessors
+
+288358
+ubuntu	linux
+pattern0	older	
+well fedora in an old gnu linux distribution with very long tradition and is much older than ubuntu
+
+288701
+versioning	upgrade
+pattern7	
+plus even without the benefit of not having to worry about the upgrade versioning it s cheaper - 842 per year vs
+
+288701
+versioning	upgrade
+pattern7	
+plus even without the benefit of not having to worry about the upgrade versioning it s cheaper - 842 per year vs
+
+289033
+freebsd	linux
+pattern10	more	
+since linux is more common than freebsd there really isn t a need for a lot of people to emulate freebsd on linux
+
+289033
+freebsd	linux
+pattern10	more common	
+since linux is more common than freebsd there really isn t a need for a lot of people to emulate freebsd on linux
+
+289033
+freebsd	linux
+pattern8	more common	
+since linux is more common than freebsd there really isn t a need for a lot of people to emulate freebsd on linux
+
+289879
+apache	nginx
+pattern10	
+can anyone explain why putting up nginx and reverse proxying apache is faster than just plain apache
+
+289879
+apache	nginx
+pattern10	
+can anyone explain why putting up nginx and reverse proxying apache is faster than just plain apache
+
+290010
+disk	ram
+pattern7	
+but a 450mb ram disk means 450mb less memory - and without a hdd you don t have swap
+
+290010
+disk	ram
+pattern7	
+but a 450mb ram disk means 450mb less memory - and without a hdd you don t have swap
+
+290010
+disk	ram
+pattern7	
+but a 450mb ram disk means 450mb less memory - and without a hdd you don t have swap
+
+290010
+disk	ram
+pattern7	
+but a 450mb ram disk means 450mb less memory - and without a hdd you don t have swap
+
+292731
+ati	nvidia
+pattern0	
+i ve recently tried to upgrade an older machine with an nvidia chipset asus m2n mainboard with an ati radeon hd 5770 card
+
+292808
+disk	ram
+pattern0	
+this model can t take more than 2gb ram unfortunately late 2006 models can take more and i have plenty of hard disk space 87gb left on a 250gb drive but it s nothing but the spinning beach ball no matter what i do
+
+293978
+ssd	sata
+pattern7	
+these days more manufacturers are selling hybrid drives after rebranding them as sshd which sounds deceptively close to ssd but they are still only 5400rpm laptop sata drives no more than 4tb in size and they still only have 8gb of flash
+
+293978
+ssd	sata
+pattern7	
+these days more manufacturers are selling hybrid drives after rebranding them as sshd which sounds deceptively close to ssd but they are still only 5400rpm laptop sata drives no more than 4tb in size and they still only have 8gb of flash
+
+294205
+apache	nginx
+pattern10	
+so the main reasons nginx + apache is faster than straight apache is a static files handled much more efficiently b reduced load on heavy apache resources
+
+294205
+apache	nginx
+pattern10	
+so the main reasons nginx + apache is faster than straight apache is a static files handled much more efficiently b reduced load on heavy apache resources
+
+296657
+tunnel	vpn
+pattern10	more	
+as for security no a vpn is no more secure provided that all of your traffic including dns queries and other potential leaks are indeed going through the ssh tunnel but neither is it any less secure unless it s a really bad product but the same could be said for ssh clients and servers as well
+
+296657
+tunnel	vpn
+pattern10	more secure	
+as for security no a vpn is no more secure provided that all of your traffic including dns queries and other potential leaks are indeed going through the ssh tunnel but neither is it any less secure unless it s a really bad product but the same could be said for ssh clients and servers as well
+
+296790
+udp	tcp
+pattern7	more	
+edit as an interesting addendum i found recently that the tcp stack has more strict requirements than udp or datagrams
+
+296790
+udp	tcp
+pattern7	more strict	
+edit as an interesting addendum i found recently that the tcp stack has more strict requirements than udp or datagrams
+
+306698
+gif	png	photoshop	coreldraw
+pattern7	larger	
+some versions of photoshop coreldraw and ms paint provide poor png compression effort further fueling the idea that png is larger than gif
+
+306698
+gif	png	photoshop	coreldraw
+pattern7	larger	
+some versions of photoshop coreldraw and ms paint provide poor png compression effort further fueling the idea that png is larger than gif
+
+306698
+gif	png	photoshop	coreldraw
+pattern0	larger	
+some versions of photoshop coreldraw and ms paint provide poor png compression effort further fueling the idea that png is larger than gif
+
+308779
+cpu	processors
+pattern0	slower	
+dr answer gpus have far more processors cores than cpus but because each gpu core runs significantly slower than a cpu core and do not have the features needed for modern operating systems they are not appropriate for performing most of the processing in everyday computing
+
+308779
+cpu	processors
+pattern0	slower	
+while gpus can have hundreds or even thousands of stream processors they each run slower than a cpu core and have fewer features even if they are turing complete and can be programmed to run any program a cpu can run
+
+315999
+google-chrome	firefox
+pattern7	
+firefox google-chrome 64bits is the better example for this question in a desktop computer
+
+315999
+google-chrome	firefox
+pattern7	
+firefox google-chrome 64bits is the better example for this question in a desktop computer
+
+317754
+parallels	bootcamp
+pattern10	more	
+i find running in parallels is more productive cause i don t get sucking into a time sink trying to work around some random bootcamp bug
+
+317754
+parallels	bootcamp
+pattern10	more productive	
+i find running in parallels is more productive cause i don t get sucking into a time sink trying to work around some random bootcamp bug
+
+319323
+ati	nvidia
+pattern7	
+my primary os is linux so i want to know whether ati or nvidia has better linux driver support
+
+319323
+ati	nvidia
+pattern7	
+my primary os is linux so i want to know whether ati or nvidia has better linux driver support
+
+319364
+ati	nvidia
+pattern0	better	
+on the other hand because ati provided open source support for some time in the past open source support of ati cards is much much better than nvidia especially when it comes to legacy cards
+
+319399
+16-bit	64bit
+pattern7	
+the core driver for 64bit computing is a larger address space though most processors don t yet implement the full 64bit wide address bus externally usually the external bus width is 48-bit though internally it s 64bit the top 16-bit are masked to 0
+
+319399
+16-bit	64bit
+pattern7	
+the core driver for 64bit computing is a larger address space though most processors don t yet implement the full 64bit wide address bus externally usually the external bus width is 48-bit though internally it s 64bit the top 16-bit are masked to 0
+
+327045
+norton	mcafee
+pattern0	
+these all have a lot going for them and are very much equivilent to mcafee in terms of robustness and they are also free and tend to take up a substantially smaller footprint than mcafee or norton would
+
+327132
+wan	lan
+pattern0	higher latency	
+because of the technical hurdles associated with moving lots of data long distances reliably wan links tend to be lower bandwidth and higher latency than lan links
+
+335514
+folder	directory
+pattern7	
+while it would seem that a good program would not rely on path variables but should directly reference the location of any and every file it is dependent on the path statement allows multiple similar oses to coexist on the same drive windows xp in the c winxp folder windows 7 in c win7 etc which would result in different and incompatible . system32 directory and allows for more easy and flexible upgrading of framework files look for the newest version of the .net libraries in a versioned directory where they are installed rather than a central directory where they may overwrite each other in an undersireable way
+
+335514
+folder	directory
+pattern7	
+while it would seem that a good program would not rely on path variables but should directly reference the location of any and every file it is dependent on the path statement allows multiple similar oses to coexist on the same drive windows xp in the c winxp folder windows 7 in c win7 etc which would result in different and incompatible . system32 directory and allows for more easy and flexible upgrading of framework files look for the newest version of the .net libraries in a versioned directory where they are installed rather than a central directory where they may overwrite each other in an undersireable way
+
+339061
+wan	lan
+pattern10	
+however note that the difference between wan and lan is more or less conceptual
+
+339061
+wan	lan
+pattern10	
+however note that the difference between wan and lan is more or less conceptual
+
+340980
+google-chrome	firefox
+pattern0	better	
+i think that google-chrome s ui design of ctrl+f bar is better than firefox s so i was trying to find an addon that would amend the look position of the bar but no luck
+
+343473
+macports	homebrew
+pattern10	
+i highly recommend moving from macports to homebrew which is better maintained and less problematic regarding dependencies
+
+343473
+macports	homebrew
+pattern10	
+i highly recommend moving from macports to homebrew which is better maintained and less problematic regarding dependencies
+
+343582
+google-chrome	firefox
+pattern0	
+include more than just google-chrome and firefox in the mixture of www browsers and one is in for a world of difficulty
+
+349967
+fink	macports
+pattern0	
+want every package then youâ re better off with macports or fink
+
+353461
+filesystems	ntfs
+pattern10	more	
+ntfs is more robust as filesystems go but isn t supported as well on non-windows operating systems
+
+353461
+filesystems	ntfs
+pattern10	more robust	
+ntfs is more robust as filesystems go but isn t supported as well on non-windows operating systems
+
+353461
+filesystems	ntfs
+pattern8	more robust	
+ntfs is more robust as filesystems go but isn t supported as well on non-windows operating systems
+
+356509
+width	height
+pattern0	less	
+when you measure the printed circle you ll find its height to be less than its width
+
+357393
+ssd	sata
+pattern7	larger	
+that would be the same dollar amount as a ssd and granted the ssd is larger but it eats an sata port adds heat takes more power than ram
+
+357393
+ssd	sata
+pattern7	larger	
+that would be the same dollar amount as a ssd and granted the ssd is larger but it eats an sata port adds heat takes more power than ram
+
+357833
+disk	ram
+pattern0	slower actual	
+if you over-allocate then your system will behave as if it has more ram albeit with this performance penalty that disk are slower than actual ram
+
+358601
+versioning	upgrade
+pattern0	less favorable	
+also if your development is heavy with the databases database versioning is disk intensive and that would again make the cpu a less than favorable upgrade
+
+364978
+ethernet	wireless
+pattern0	
+it seems my wireless card in my new laptop becomes active before the ethernet and leaves me with that connection which is much slower than the ethernet
+
+365642
+udp	tcp
+pattern10	faster	
+in the end what i understood is that udp is faster than tcp but it is unreliable
+
+365642
+udp	tcp
+pattern10	faster	
+in the end what i understood is that udp is faster than tcp but it is unreliable
+
+370999
+vim	textmate
+pattern0	
+i am getting better and better with vim everyday and am really liking it but i opened textmate the other day to do a project wide search and well i was swayed briefly by the beauty just before i caught myself typing wq
+
+371603
+mouse	keyboard
+pattern0	
+i just got a box slightly bigger than my keyboard mouse and plopped it on top
+
+373085
+disk	ram
+pattern10	faster	
+furthermore access to ram is faster than access to disk cache
+
+373085
+disk	ram
+pattern10	faster	
+furthermore access to ram is faster than access to disk cache
+
+376800
+disk	ram
+pattern10	faster	
+ram is faster than disk so using more than 32gb of ram should make a slight difference than just using 32gb of ram
+
+376800
+disk	ram
+pattern10	faster	
+ram is faster than disk so using more than 32gb of ram should make a slight difference than just using 32gb of ram
+
+378821
+textarea	pre
+pattern0	
+as a sidenote it might be more than just pre the textarea for asking and answering questions on stackechange have it also
+
+378882
+disk	ram
+pattern7	
+if i want to check a system s hardware like hard disk capacity ram etc...is it better to check in cmos settings or in system information
+
+378882
+disk	ram
+pattern7	
+if i want to check a system s hardware like hard disk capacity ram etc...is it better to check in cmos settings or in system information
+
+379362
+width	height
+pattern7	smaller	
+if your width is smaller than it should be then you can change your terminals height and width with this command
+
+379362
+width	height
+pattern7	smaller	
+if your width is smaller than it should be then you can change your terminals height and width with this command
+
+379832
+width	height
+pattern0	
+is larger than the width and height of my largest display 1920 for me
+
+385134
+rar	zip
+pattern7	format consistently better	
+as many will know the rar format produces consistently better results than zip
+
+385134
+rar	zip
+pattern7	format consistently better results	
+as many will know the rar format produces consistently better results than zip
+
+385134
+rar	zip
+pattern0	better results	
+as many will know the rar format produces consistently better results than zip
+
+389324
+wan	lan	vpn	lan
+pattern7	less	
+set up a personal vpn takes less than 5 minutes on each machine and then you can share across lan wan internet as easily as if the remote system were a local disk with some speed penalty depending on the distance
+
+389324
+wan	lan	vpn	lan
+pattern7	less	
+set up a personal vpn takes less than 5 minutes on each machine and then you can share across lan wan internet as easily as if the remote system were a local disk with some speed penalty depending on the distance
+
+392565
+xfce	gnome
+pattern10	actually faster	
+data shows that gnome 2.xx is actually faster or on the same level as xfce
+
+392565
+xfce	gnome
+pattern10	actually faster	
+data shows that gnome 2.xx is actually faster or on the same level as xfce
+
+395659
+disk	ram
+pattern7	much slower	
+a hard disk is much slower than ram so the virtual memory system automatically distributes information between disk space and ram for efficient performance
+
+395659
+disk	ram
+pattern7	much slower	
+a hard disk is much slower than ram so the virtual memory system automatically distributes information between disk space and ram for efficient performance
+
+395659
+disk	ram
+pattern0	slower	
+a hard disk is much slower than ram so the virtual memory system automatically distributes information between disk space and ram for efficient performance
+
+397804
+google-chrome	safari	opera	safari	opera	google-chrome
+pattern8	more secure	
+she said i probably didn t need google-chrome but that opera might work better for me and she thought it might be a bit more secure than safari
+
+401829
+disk	ram
+pattern0	higher	
+so you ll get performance boost because ram r w speed is much higher than disk
+
+402516
+disk	ram
+pattern0	slower	
+disk operations are far slower than ram operations causing the system to slow down significantly
+
+403594
+google-chrome	firefox
+pattern7	faster	
+so far i have tried firefox latest and greatest and google-chrome also latest and greatest and while google-chrome runs faster than firefox over x11 from my centos server to my windows 7 workstation it s still pretty sluggish
+
+403594
+google-chrome	firefox
+pattern7	faster	
+so far i have tried firefox latest and greatest and google-chrome also latest and greatest and while google-chrome runs faster than firefox over x11 from my centos server to my windows 7 workstation it s still pretty sluggish
+
+403594
+google-chrome	firefox
+pattern0	faster	
+so far i have tried firefox latest and greatest and google-chrome also latest and greatest and while google-chrome runs faster than firefox over x11 from my centos server to my windows 7 workstation it s still pretty sluggish
+
+409453
+trojan	virus
+pattern10	
+if my colleague has windows essentials which detected and removed the trojan is there anything else that he needs to do to make sure the virus is no longer active
+
+409453
+trojan	virus
+pattern10	
+if my colleague has windows essentials which detected and removed the trojan is there anything else that he needs to do to make sure the virus is no longer active
+
+415719
+disk	ram
+pattern0	faster access	
+the file system cache stores portions of the file system in ram for faster access than a disk read
+
+419568
+opera	google-chrome
+pattern0	slower	
+google-chrome is still a lot slower than opera in tab switching and creation on my machine but it no longer induces delays of several seconds
+
+428755
+put	get
+pattern0	less	
+once the podcasts are on my computer i can select to put only the ten most recent unlistened to synch to my iphone but what if i want to only download the ten most recent -- the question is how do i do less than get all but more than selecting a single one or two episodes of a particular podcast
+
+430571
+google-chrome	firefox
+pattern10	more	
+is it possible to make google-chrome works more like firefox and spell check the entire text field automatically
+
+430571
+google-chrome	firefox
+pattern10	more	
+is it possible to make google-chrome works more like firefox and spell check the entire text field automatically
+
+432075
+ethernet	wireless
+pattern0	
+both remain suboptimal however their ideal speeds are lower than ethernet speeds and their actual speeds are still much lower than ideal especially for wireless when you re in a city with dozens of other networks around
+
+436209
+wan	lan
+pattern7	speed lower	
+my real concern is why wan speed is lower than lan speeds
+
+436209
+wan	lan
+pattern7	speed lower	
+my real concern is why wan speed is lower than lan speeds
+
+436209
+wan	lan
+pattern0	lower	
+my real concern is why wan speed is lower than lan speeds
+
+437639
+ubuntu	linux
+pattern10	
+is there another ad blocker add-on for firefox another browser- add-on combination for linux ubuntu jaunty or even better a browser independent solution for linux which uses significant less ram
+
+437639
+ubuntu	linux
+pattern10	
+is there another ad blocker add-on for firefox another browser- add-on combination for linux ubuntu jaunty or even better a browser independent solution for linux which uses significant less ram
+
+439824
+uptime	reboot
+pattern7	greater	
+if the uptime is greater than 7 days reboot the system with option to abort
+
+439824
+uptime	reboot
+pattern7	greater	
+if the uptime is greater than 7 days reboot the system with option to abort
+
+440956
+disk	ram
+pattern7	drive waaaay slower	
+this is why your computer is getting really slow because the disk drive is waaaay slower than ram even if you re on a ssd and it s also the reason your program can go on without any main memory left
+
+440956
+disk	ram
+pattern7	drive waaaay slower	
+this is why your computer is getting really slow because the disk drive is waaaay slower than ram even if you re on a ssd and it s also the reason your program can go on without any main memory left
+
+440956
+disk	ram
+pattern0	slower	
+this is why your computer is getting really slow because the disk drive is waaaay slower than ram even if you re on a ssd and it s also the reason your program can go on without any main memory left
+
+441271
+hfs+	ntfs
+pattern10	more	
+and linux read write support for ntfs is more omnipresent than for hfs+ â linux still can t write to hfs+ formatted volumes with journaling enabled
+
+441271
+hfs+	ntfs
+pattern10	more omnipresent	
+and linux read write support for ntfs is more omnipresent than for hfs+ â linux still can t write to hfs+ formatted volumes with journaling enabled
+
+441511
+disk	ram
+pattern0	
+using big buffers means that your system spends more time between the ram and cpu and only dumps to disk the slow bit at 50mb intervals
+
+442202
+disk	ram
+pattern0	slower physical	
+using the pagefile at all will mean disk access which of course is slower than physical ram but the amount of pagefile use does not make it slower
+
+446634
+photoshop	fireworks
+pattern7	compression far better	
+fireworks compression is far better than photoshop s compression with no comparable loss of quality between the two
+
+446634
+photoshop	fireworks
+pattern7	compression far better	
+fireworks compression is far better than photoshop s compression with no comparable loss of quality between the two
+
+446634
+photoshop	fireworks
+pattern0	better	
+fireworks compression is far better than photoshop s compression with no comparable loss of quality between the two
+
+450263
+udp	tcp
+pattern10	
+and iproxy running tcp services over udp which is more fun
+
+450263
+udp	tcp
+pattern10	
+and iproxy running tcp services over udp which is more fun
+
+450573
+ftp	smb
+pattern0	slower	
+smb windows file sharing is much slower than ftp for example
+
+451206
+ati	nvidia
+pattern7	better	
+i heard ati has better support with the open source driver than nvidia though on my other machine with a quattro card nvidia drivers work great
+
+451206
+ati	nvidia
+pattern7	better support	
+i heard ati has better support with the open source driver than nvidia though on my other machine with a quattro card nvidia drivers work great
+
+451912
+filesystems	ntfs	filesystems	fat
+pattern8	more powerful	
+ntfs has always been a more powerful filesystems than fat and fat32
+
+453243
+ssd	sata
+pattern0	
+furthermore consumer-level sdds could be much faster than even sata iii for example the pcie ssd ocz revodrive 3 has a maximum reading speed of 975 mb s
+
+454931
+switching	screens
+pattern10	better	
+ips or in plane switching is better - its what the cool kids with snappy monitors use - it has better colour quality viewing angles and many of the disadvantages it had with respect to a traditional tn screens have been worked through - it was expensive until recently there s some good relatively inexpensive panels these days
+
+454931
+switching	screens
+pattern10	better	
+ips or in plane switching is better - its what the cool kids with snappy monitors use - it has better colour quality viewing angles and many of the disadvantages it had with respect to a traditional tn screens have been worked through - it was expensive until recently there s some good relatively inexpensive panels these days
+
+456489
+cpu	processors
+pattern7	fewer	
+a bad core is effectively marked unusable and its responsibilities are distributed to other cores less cores means your processors has fewer total cpu cycles available and therefore it will be slower to perform work
+
+456489
+cpu	processors
+pattern7	fewer total	
+a bad core is effectively marked unusable and its responsibilities are distributed to other cores less cores means your processors has fewer total cpu cycles available and therefore it will be slower to perform work
+
+459311
+google-chrome	firefox
+pattern7	
+since the ones used by google-chrome have a trapezoid shape and the ones from firefox are rectangular firefox saves more space with the same amount of tabs
+
+459311
+google-chrome	firefox
+pattern7	
+since the ones used by google-chrome have a trapezoid shape and the ones from firefox are rectangular firefox saves more space with the same amount of tabs
+
+462168
+debian	linux	dpkg	aptitude
+pattern10	more	
+according to the debian gnu linux faq about package management aptitude is more complex than apt-get and depends on the less complex package management tools apt-get and dpkg
+
+462168
+debian	linux	dpkg	aptitude
+pattern10	more complex	
+according to the debian gnu linux faq about package management aptitude is more complex than apt-get and depends on the less complex package management tools apt-get and dpkg
+
+463933
+parallels	bootcamp
+pattern7	much better	
+one positive is that bootcamp is much better with battery life running windows 7 then parallels or fusion which i typically thought was terrible
+
+463933
+parallels	bootcamp
+pattern7	much better	
+one positive is that bootcamp is much better with battery life running windows 7 then parallels or fusion which i typically thought was terrible
+
+463952
+filesystems	ntfs
+pattern0	
+using gpt is my fall-back option but it creates a partition that is slightly smaller than the ntfs partition so i wouldn t be able to just dd the filesystems on the partition
+
+464783
+sudo	passwd
+pattern8	more convenient	
+it asked for a passwd afterwards and was more convenient than sudo apt-get install
+
+469176
+putty	winscp
+pattern0	less secure	
+is putty any less secure than winscp or vice versa
+
+472762
+google-chrome	firefox
+pattern10	
+sometimes i find that when google-chrome repeatedly times out firefox works better
+
+474275
+robocopy	xcopy
+pattern8	more reliable	
+as a side note if your using windows 7 have a look at using the robocopy minage maxage command instead as it is usually far more reliable than xcopy and provides a lot more options
+
+483933
+vmware	virtualbox
+pattern0	better option	
+if vmware or another virtual technology is a better option than virtualbox then i will use it
+
+485329
+vb6	vba
+pattern0	
+in that case you might also consider using vb6 and write stand-alone application - the code is almost exactly the same but debugging is much better under vb6 than in vba i mean debugging classes
+
+485530
+width	height
+pattern0	more	
+i ve got a screensize mismatch going on between my server client sides that results in my full screen view actually only showing about 75 the width of the server side and more than 100 height
+
+486657
+macbook	bootcamp
+pattern0	
+they have to do a better than running bootcamp on the macbook macbookpro8 1 i7 2.7 ghz but intel graphics 3000
+
+492021
+vim	sublimetext	macvim	sublimetext
+pattern0	faster	
+i m a vim user trying to move to sublimetext 2 as it s faster than macvim with a bunch of stuff open
+
+495862
+udp	tcp
+pattern10	
+if it s either latency ping or packet loss you could configure the vpn network to cope better with this by allowing higher ping before timeouts are returned or making sure if packets are recieved by sending confirmation tcp does this udp not therefore udp is faster but less reliable in this aspect.
+
+495862
+udp	tcp
+pattern10	
+if it s either latency ping or packet loss you could configure the vpn network to cope better with this by allowing higher ping before timeouts are returned or making sure if packets are recieved by sending confirmation tcp does this udp not therefore udp is faster but less reliable in this aspect.
+
+502464
+ssd	sata
+pattern7	larger	
+since your new ssd is larger and both are sata i do not expect any problems for making a copy
+
+502464
+ssd	sata
+pattern7	larger	
+since your new ssd is larger and both are sata i do not expect any problems for making a copy
+
+503623
+screens	tablet
+pattern0	less full	
+i m sure the mail app is fantastic on a tablet but i prefer a less than full screens client that supports flags and adding attachments through file explorer rather than the touch-inspired big tiles without going whole hog to outlook
+
+514172
+folder	directory
+pattern7	more	
+if your directory has more than a few hundred items consider adding sub-folders to minimize the number in any given folder
+
+514172
+folder	directory
+pattern7	more	
+if your directory has more than a few hundred items consider adding sub-folders to minimize the number in any given folder
+
+517381
+filesystems	ntfs
+pattern7	higher	
+most likely your ubuntu and fedora partitions will use the ext4 filesystems that has a higher degree of resiliency against disk fragmentation than the windows-used ntfs
+
+517381
+filesystems	ntfs
+pattern7	higher degree	
+most likely your ubuntu and fedora partitions will use the ext4 filesystems that has a higher degree of resiliency against disk fragmentation than the windows-used ntfs
+
+520229
+innodb	myisam
+pattern0	
+uncontrolled shutdown is worse with myisam tables they need to be flushed to disk before shutdown or major data corruption occurs they re not transactional like innodb which attempts to do integrity checks if bad shutdown without flushing data to disk occurred
+
+522693
+cpu	processors
+pattern7	older	
+if your cpu is older than the nehalem generation core i3 i5 i7 which debuted in 2009 then you do not have the extended page tables ept feature on your processors
+
+522693
+cpu	processors
+pattern7	older	
+if your cpu is older than the nehalem generation core i3 i5 i7 which debuted in 2009 then you do not have the extended page tables ept feature on your processors
+
+523143
+cpu	processors
+pattern7	
+since your current cpu has a lower tpu than the cpu that the cooler came with it s more than adequate for cooling the newer processors
+
+523143
+cpu	processors
+pattern7	
+since your current cpu has a lower tpu than the cpu that the cooler came with it s more than adequate for cooling the newer processors
+
+523143
+cpu	processors
+pattern0	
+since your current cpu has a lower tpu than the cpu that the cooler came with it s more than adequate for cooling the newer processors
+
+528738
+bash	zsh
+pattern8	
+i m more familiar with bash than zsh but this should work in either
+
+529713
+logmein	hamachi
+pattern10	
+or perhaps software like logmein hamachi is more like what you re looking for
+
+529713
+logmein	hamachi
+pattern10	
+or perhaps software like logmein hamachi is more like what you re looking for
+
+529713
+logmein	hamachi
+pattern10	
+or perhaps software like logmein hamachi is more like what you re looking for
+
+529713
+logmein	hamachi
+pattern10	
+or perhaps software like logmein hamachi is more like what you re looking for
+
+529941
+filesystems	ntfs
+pattern7	
+filesystems design sometimes one filesystems is just better than another and since linux is a hotbed of filesystems research while ntfs has been relatively stagnant this would not surprise me
+
+529941
+filesystems	ntfs
+pattern7	
+filesystems design sometimes one filesystems is just better than another and since linux is a hotbed of filesystems research while ntfs has been relatively stagnant this would not surprise me
+
+531750
+tunnel	vpn
+pattern0	more	
+thinking it over i can t see how a vpn running as an applet in the browser can do anything more than tunnel for itself
+
+533505
+mouse	keyboard
+pattern0	
+for keyboard mouse perhaps even easier though why one would want that for more than one mouse is not obvious what do you expect to happen if one moves up and the other down
+
+536206
+umask	sudo
+pattern10	more	
+this can lead to problems if the umask is more restrictive than 0022 the caller may not be able to access files created by sudo
+
+536206
+umask	sudo
+pattern10	more restrictive	
+this can lead to problems if the umask is more restrictive than 0022 the caller may not be able to access files created by sudo
+
+538685
+vmware	virtualbox
+pattern7	better	
+i have an ubuntu-server 12.04lt-64x installed on vmware i found vmware works better than virtualbox after few installations over vb
+
+538685
+vmware	virtualbox
+pattern7	better	
+i have an ubuntu-server 12.04lt-64x installed on vmware i found vmware works better than virtualbox after few installations over vb
+
+538685
+vmware	virtualbox
+pattern0	better	
+i have an ubuntu-server 12.04lt-64x installed on vmware i found vmware works better than virtualbox after few installations over vb
+
+540102
+screens	tablet
+pattern7	
+i thought at first it would be that the screens on a tablet is smaller than a laptop so the graphics chip doesn t have to be as powerful and so doesn t generate as much heat
+
+540102
+screens	tablet
+pattern7	
+i thought at first it would be that the screens on a tablet is smaller than a laptop so the graphics chip doesn t have to be as powerful and so doesn t generate as much heat
+
+541776
+sikuli	selenium
+pattern0	easier	
+alternatively a more general automation tool like sikuli might be workable as well this is actually likely to be easier than using selenium depending on exactly what you want to do
+
+543190
+width	height
+pattern7	
+shrink every .jpg in a directory such that neither the height nor width is bigger than 1080 pixels
+
+543190
+width	height
+pattern7	
+shrink every .jpg in a directory such that neither the height nor width is bigger than 1080 pixels
+
+546106
+lvm	xfs
+pattern7	better	
+xfs has better features than ext3 like freezing for lvm snapshots but i think ext4 probably evens the playing field
+
+546106
+lvm	xfs
+pattern7	better features	
+xfs has better features than ext3 like freezing for lvm snapshots but i think ext4 probably evens the playing field
+
+548880
+cpu	processors
+pattern0	more	
+when i find a company selling quad cpu workstations they only offer windows server or linux variants as the os choices leading me to believe that perhaps windows 7 does not support more than 2 processors
+
+549256
+wan	lan
+pattern0	
+does the wlan router have more than one lan port so that its wan interface is connected to the switch
+
+553509
+bmp	png
+pattern7	
+2 â the analogy for images would be that bmp files contain the raw image data in an uncompressed form whereas a lossless png is much smaller but showing the exact same contents
+
+553509
+bmp	png
+pattern7	
+2 â the analogy for images would be that bmp files contain the raw image data in an uncompressed form whereas a lossless png is much smaller but showing the exact same contents
+
+554297
+macports	homebrew
+pattern7	
+i haven t used macports but my impression from all the forum posts about the two is that homebrew is easier to use
+
+554297
+macports	homebrew
+pattern7	
+i haven t used macports but my impression from all the forum posts about the two is that homebrew is easier to use
+
+564470
+vmware	virtualbox
+pattern7	much better	
+install vmware performs much better for this purpose than virtualbox - i tried both
+
+564470
+vmware	virtualbox
+pattern7	much better	
+install vmware performs much better for this purpose than virtualbox - i tried both
+
+565895
+rar	zip	rar	gzip
+pattern0	
+new projects targeting audiences running modern distributions may very well distribute in a more modern format such as .tar.xz using the xz lzma compression format which compresses better than gzip or bzip2 or .7z which is similar to the zip or rar file formats in that it both compresses and specifies a layout for encapsulating multiple files into a single file
+
+565974
+rar	zip	rar	gzip
+pattern0	
+new projects targeting audiences running modern distributions may very well distribute in a more modern format such as .tar.xz using the xz lzma compression format which compresses better than gzip or bzip2 or .7z which is similar to the zip or rar file formats in that it both compresses and specifies a layout for encapsulating multiple files into a single file
+
+568036
+ssd	sata
+pattern7	
+ssd is going to be faster sata is still faster than usb 3 especially when you look at real world performance
+
+568036
+ssd	sata
+pattern7	
+ssd is going to be faster sata is still faster than usb 3 especially when you look at real world performance
+
+570402
+vmware	virtualbox
+pattern0	better	
+i was able to get the scanner working on my windows 7 x64 using vmware vmware support for usb is better than virtualbox at the moment ie supports usb3 and allows overriding usb3 to usb2
+
+576811
+google-chrome	firefox
+pattern10	
+its on google-chrome and firefox and happens more frequently when in fullscreen
+
+576811
+google-chrome	firefox
+pattern10	
+its on google-chrome and firefox and happens more frequently when in fullscreen
+
+577282
+mouse	keyboard
+pattern8	
+it makes it much more accessible especially with keyboard mouse and monitor attached
+
+577558
+ubuntu	freebsd
+pattern0	
+i would like to migrate from freebsd to ubuntu server because i am more familiar with ubuntu deb
+
+577755
+tunnel	traceroute
+pattern10	ipv6 faster	
+traceroute ipv6 is faster even through a tunnel broker
+
+577755
+tunnel	traceroute
+pattern10	ipv6 faster even	
+traceroute ipv6 is faster even through a tunnel broker
+
+577758
+tunnel	traceroute
+pattern10	ipv6 faster	
+traceroute ipv6 is faster even through a tunnel broker
+
+577758
+tunnel	traceroute
+pattern10	ipv6 faster even	
+traceroute ipv6 is faster even through a tunnel broker
+
+578094
+ethernet	wireless
+pattern7	slower	
+real time streaming protocol instead should be used as well as taking into account data rates over 802.11 wireless which is slower than ethernet
+
+578094
+ethernet	wireless
+pattern7	slower	
+real time streaming protocol instead should be used as well as taking into account data rates over 802.11 wireless which is slower than ethernet
+
+578094
+ethernet	wireless
+pattern0	slower	
+real time streaming protocol instead should be used as well as taking into account data rates over 802.11 wireless which is slower than ethernet
+
+581650
+vim	emacs
+pattern10	
+both emacs and vim have them though the vim version is faster and had more features
+
+581650
+vim	emacs
+pattern10	
+both emacs and vim have them though the vim version is faster and had more features
+
+588387
+versioning	upgrade
+pattern7	
+anyway from a more general point of view i found that when making major versioning upgrade it is better to use a livecd rather than using the built-in upgrade options it causes far less problems
+
+588387
+versioning	upgrade
+pattern7	
+anyway from a more general point of view i found that when making major versioning upgrade it is better to use a livecd rather than using the built-in upgrade options it causes far less problems
+
+589045
+disk	ram
+pattern0	
+modern computers have more than enough ram and fast disk that there is little benefit from using a readyboost dedicated disk
+
+589666
+ubuntu	linux
+pattern7	better	
+basically if you want bleeding-edge linux is a better platform to go for and it s pretty stable as well even ubuntu unity s gotten really nice in 13.04 from the perspective of a guy who uses the unity spin of that distro with his hardware currently and really digs it
+
+589666
+ubuntu	linux
+pattern7	better platform	
+basically if you want bleeding-edge linux is a better platform to go for and it s pretty stable as well even ubuntu unity s gotten really nice in 13.04 from the perspective of a guy who uses the unity spin of that distro with his hardware currently and really digs it
+
+591079
+tunnel	vpn
+pattern7	
+a vpn tunnel acts more like ipsec in that it grants you access to the network to allow for non-web apps to be ran to include printers and files
+
+591079
+tunnel	vpn
+pattern7	
+a vpn tunnel acts more like ipsec in that it grants you access to the network to allow for non-web apps to be ran to include printers and files
+
+591079
+tunnel	vpn
+pattern7	
+a vpn tunnel acts more like ipsec in that it grants you access to the network to allow for non-web apps to be ran to include printers and files
+
+591079
+tunnel	vpn
+pattern7	
+a vpn tunnel acts more like ipsec in that it grants you access to the network to allow for non-web apps to be ran to include printers and files
+
+594243
+dvd	3gp
+pattern7	
+â apparentlyâ there is also freemake which unlike 3gp to dvd converter is free so at least fits the bill - of zero - better than kienâ s answer imo but may be difficult to use with â œpersonal experienceâ that 3gp to dvd is much easier â except that the â œpersonal experienceâ turns out to be just an audit trap that i failed for trying to improve the â œanswerâ via an edit
+
+594243
+dvd	3gp
+pattern7	
+â apparentlyâ there is also freemake which unlike 3gp to dvd converter is free so at least fits the bill - of zero - better than kienâ s answer imo but may be difficult to use with â œpersonal experienceâ that 3gp to dvd is much easier â except that the â œpersonal experienceâ turns out to be just an audit trap that i failed for trying to improve the â œanswerâ via an edit
+
+598784
+versioning	upgrade
+pattern7	
+win8 upgrade replaces your older os license vista in your case so you can no longer use that vista key again as long as you re using the win8 upgrade versioning
+
+598784
+versioning	upgrade
+pattern7	
+win8 upgrade replaces your older os license vista in your case so you can no longer use that vista key again as long as you re using the win8 upgrade versioning
+
+604065
+short	base
+pattern7	
+so long story short it s very likely that the usage on your local base station is higher than the amount of bandwidth they ve dedicated to it
+
+604065
+short	base
+pattern7	
+so long story short it s very likely that the usage on your local base station is higher than the amount of bandwidth they ve dedicated to it
+
+605709
+disk	ram
+pattern7	much slower	
+reading and writing to a physical disk is much slower than from ram
+
+605709
+disk	ram
+pattern7	much slower	
+reading and writing to a physical disk is much slower than from ram
+
+605709
+disk	ram
+pattern0	slower	
+reading and writing to a physical disk is much slower than from ram
+
+606809
+ubuntu	mint	ubuntu	linux
+pattern10	
+in my experience linux mint which is based on ubuntu is better at recognizing and configuring laptop hardware
+
+606809
+ubuntu	mint	ubuntu	linux
+pattern10	
+in my experience linux mint which is based on ubuntu is better at recognizing and configuring laptop hardware
+
+608191
+google-chrome	firefox
+pattern0	less memory	
+i have a freshly installed firefox v 21.0 on my windows7 32 bit machine with the hope that it uses less memory than google-chrome
+
+611401
+debian	linux	debian	mint	ubuntu	mint	ubuntu	debian	ubuntu	linux
+pattern7	better	
+in my experience ubuntu is better than debian at recognizing wireless cards and linux mint is better than ubuntu
+
+611401
+debian	linux	debian	mint	ubuntu	mint	ubuntu	debian	ubuntu	linux
+pattern7	better	
+in my experience ubuntu is better than debian at recognizing wireless cards and linux mint is better than ubuntu
+
+611401
+debian	linux	debian	mint	ubuntu	mint	ubuntu	debian	ubuntu	linux
+pattern0	better	
+in my experience ubuntu is better than debian at recognizing wireless cards and linux mint is better than ubuntu
+
+611401
+debian	linux	debian	mint	ubuntu	mint	ubuntu	debian	ubuntu	linux
+pattern7	better	
+in my experience ubuntu is better than debian at recognizing wireless cards and linux mint is better than ubuntu
+
+611401
+debian	linux	debian	mint	ubuntu	mint	ubuntu	debian	ubuntu	linux
+pattern7	better	
+in my experience ubuntu is better than debian at recognizing wireless cards and linux mint is better than ubuntu
+
+611401
+debian	linux	debian	mint	ubuntu	mint	ubuntu	debian	ubuntu	linux
+pattern7	better	
+in my experience ubuntu is better than debian at recognizing wireless cards and linux mint is better than ubuntu
+
+611401
+debian	linux	debian	mint	ubuntu	mint	ubuntu	debian	ubuntu	linux
+pattern7	better	
+in my experience ubuntu is better than debian at recognizing wireless cards and linux mint is better than ubuntu
+
+611401
+debian	linux	debian	mint	ubuntu	mint	ubuntu	debian	ubuntu	linux
+pattern0	better	
+in my experience ubuntu is better than debian at recognizing wireless cards and linux mint is better than ubuntu
+
+611555
+tunnel	vpn
+pattern7	
+an ipsec vpn tunnel is usually faster than an ssl tunnel
+
+611555
+tunnel	vpn
+pattern7	
+an ipsec vpn tunnel is usually faster than an ssl tunnel
+
+611555
+tunnel	vpn
+pattern7	
+an ipsec vpn tunnel is usually faster than an ssl tunnel
+
+611555
+tunnel	vpn
+pattern7	
+an ipsec vpn tunnel is usually faster than an ssl tunnel
+
+611890
+filesystems	ntfs
+pattern0	better older	
+since no one mentioned any specific filesystems more modern filesystems ext3 ext4 ntfs are able to handle crashes much better than older filesystems ext2 ext fat32 due to journaling
+
+611900
+cpu	hyperthreading
+pattern0	faster	
+if i buy 2 six core cpu and my licence is for 10 cpu i believe that my application will be running faster than if hyperthreading was enabled in the bios because i will then end up with 24 cpu on the box but will only use 10 therefore by disabling hyperthreading each cpu will be faster
+
+612915
+disk	ram
+pattern10	much faster	
+if no program is using it it ll store as much information from your hd as possible so that when a program requests some information it ll be available in ram that is much faster then your disk
+
+612915
+disk	ram
+pattern10	much faster then	
+if no program is using it it ll store as much information from your hd as possible so that when a program requests some information it ll be available in ram that is much faster then your disk
+
+616081
+temp	tmp
+pattern0	
+on traditional hdds moving pagefile to a different drive on a busy system might help more than moving temp tmp directories
+
+617871
+disk	ram
+pattern0	slower	
+accessing the disk even very-fast ssd is around 100 times slower than accessing ram
+
+618531
+udp	tcp
+pattern0	lower priority	
+qos in particular is not about destination but about traffic type and susceptibility to latency so tcp http traffic may be given a lower priority than udp video streaming
+
+621066
+mp3	ogg
+pattern0	
+there are comparative tables to convert to a similar quality format mp3 have many kind of libraries and configurations as ogg and acc so it s depends i was musician before and usually the highest sounds above 16 khz are the key to recognize the quality cymbals trumpets high voices or instruments generally with many harmonics i did many test before and with a normal lame mp3 of 192 kbps is enough actually i can t difference between 192 and 224 kbps as many people 192 kbps to 160 kbps is quite difficult is only for give you some ideas or perceptions acc usually is better quality than mp3 acc 192 probably is more like mp3 256 kbps
+
+628395
+filesystems	ntfs
+pattern10	more	
+one way to help with data recovery is to use a filesystems that is more tolerant of corruption and contains better backup and recovery functions such as ntfs over fat32
+
+628395
+filesystems	ntfs
+pattern10	more tolerant	
+one way to help with data recovery is to use a filesystems that is more tolerant of corruption and contains better backup and recovery functions such as ntfs over fat32
+
+632632
+google-chrome	firefox	opera	firefox	opera	google-chrome
+pattern0	more	
+this along with lack of tab switching in mru order are the main reasons i use ie opera and firefox more than google-chrome
+
+632842
+virtualbox	parallels
+pattern0	
+however performance and reliability are way worse than with virtualbox parallels or fusion
+
+632842
+virtualbox	parallels
+pattern0	
+however performance and reliability are way worse than with virtualbox parallels or fusion
+
+632842
+virtualbox	parallels
+pattern0	
+however performance and reliability are way worse than with virtualbox parallels or fusion
+
+637407
+disk	ram
+pattern0	faster	
+the idea is that ram is cheap and from a performance point of view read write operations on ram are 1000x faster than disk operations
+
+640993
+disk	ram
+pattern0	slower	
+with 8 gb of memory it is unlikely you will run out of memory and even if you did disk are so much slower than ram that the usual effect of using swap is that your computer becomes unresponsive
+
+641316
+gif	png
+pattern7	
+there is a format of png out apng that does what gif does but better
+
+643710
+cpu	processors
+pattern10	more	
+does it make sense to spend money on a desktop computer with 2 processors or is it more appropriate to buy 1 powerful modern cpu and an ordinary motherboard
+
+643710
+cpu	processors
+pattern10	more appropriate	
+does it make sense to spend money on a desktop computer with 2 processors or is it more appropriate to buy 1 powerful modern cpu and an ordinary motherboard
+
+650537
+disk	ram
+pattern10	faster	
+cache memory is faster than ram which is faster than disk
+
+650537
+disk	ram
+pattern10	faster	
+cache memory is faster than ram which is faster than disk
+
+651081
+tunnel	lan	tunnel	packets
+pattern7	lower	
+the mtu of the lan is 1500 but the mtu of the ipv6 tunnel is lower how do i force the clients to have a mtu of 1500 for ipv4 but a lower value for ipv6 packets to avoid fragmentation at the point of the router
+
+651081
+tunnel	lan	tunnel	packets
+pattern7	lower	
+the mtu of the lan is 1500 but the mtu of the ipv6 tunnel is lower how do i force the clients to have a mtu of 1500 for ipv4 but a lower value for ipv6 packets to avoid fragmentation at the point of the router
+
+651404
+udp	tcp
+pattern0	less overhead	
+also depending on how serious you want to get you could try to force a udp stream for the copying which has less overhead than tcp
+
+652358
+disk	ram
+pattern7	way slower	
+nothing you can do about that accessing the disk is way slower than accessing the ram
+
+652358
+disk	ram
+pattern7	way slower	
+nothing you can do about that accessing the disk is way slower than accessing the ram
+
+652614
+google-chrome	safari
+pattern0	better performance	
+i used to use google-chrome but found better performance with safari
+
+654570
+disk	ram
+pattern0	lower	
+disk have to pass through a connection with a bandwidth much lower than ram and in the case of hdd s there is the time needed to fetch and store data in consideration
+
+661781
+innodb	myisam
+pattern0	safer	
+is myisam engine safer than innodb about loss of data due to filesystem error
+
+662200
+x86	64bit	16-bit	64bit
+pattern0	more instructions 32-bit	
+that s kind of the whole point of having different architectures by the way. the 64bit x86_64 architecture has more instructions than 32-bit x86 had and 32-bit x86 had more instructions than 16-bit
+
+662200
+x86	64bit	16-bit	64bit
+pattern0	
+that s kind of the whole point of having different architectures by the way. the 64bit x86_64 architecture has more instructions than 32-bit x86 had and 32-bit x86 had more instructions than 16-bit
+
+664918
+filesystems	fat
+pattern0	
+fat filesystems for example is much worse than modern filesystems
+
+665460
+filesystems	ntfs	filesystems	fat
+pattern7	
+ntfs can store files larger than 4gb so if your flash drive is 4gb or less then choose ntfs anyways because the fat filesystems suffers from worse performance issues due to fragmentation
+
+665460
+filesystems	ntfs	filesystems	fat
+pattern7	
+ntfs can store files larger than 4gb so if your flash drive is 4gb or less then choose ntfs anyways because the fat filesystems suffers from worse performance issues due to fragmentation
+
+665460
+filesystems	ntfs	filesystems	fat
+pattern7	
+ntfs can store files larger than 4gb so if your flash drive is 4gb or less then choose ntfs anyways because the fat filesystems suffers from worse performance issues due to fragmentation
+
+665460
+filesystems	ntfs	filesystems	fat
+pattern7	
+ntfs can store files larger than 4gb so if your flash drive is 4gb or less then choose ntfs anyways because the fat filesystems suffers from worse performance issues due to fragmentation
+
+666882
+disk	ram
+pattern0	slower	
+an ssd is considerably faster than a hard disk but it is still slower than ram by orders of magnitude
+
+668492
+gentoo	linux
+pattern8	more practical	
+while archlinux and gentoo are much easier to begin with and much more practical than linux from scratch you still have to keep in mind that they aren t necessarily intended for people that are new to gnu linux it really helps to have some basic understanding how a gnu linux system works but you ll definitely know more about that once you managed to install one of those distros
+
+674969
+debian	mint	ubuntu	mint	ubuntu	debian
+pattern10	
+debian is the mother if you like of both ubuntu and mint and is focused more on stability and security than cutting edge features
+
+674969
+debian	mint	ubuntu	mint	ubuntu	debian
+pattern10	
+debian is the mother if you like of both ubuntu and mint and is focused more on stability and security than cutting edge features
+
+674969
+ubuntu	debian
+pattern7	lighter	
+in terms of system resources from experience debian is lighter weight than ubuntu but that s subjective and i m sure could be argued against - ambiguous enough
+
+674969
+ubuntu	debian
+pattern7	lighter weight	
+in terms of system resources from experience debian is lighter weight than ubuntu but that s subjective and i m sure could be argued against - ambiguous enough
+
+674969
+ubuntu	debian
+pattern0	lighter weight	
+in terms of system resources from experience debian is lighter weight than ubuntu but that s subjective and i m sure could be argued against - ambiguous enough
+
+676281
+robocopy	xcopy
+pattern10	
+both can be used to move replace xcopy with move and for robocopy it s more customised
+
+676281
+robocopy	xcopy
+pattern10	
+both can be used to move replace xcopy with move and for robocopy it s more customised
+
+680176
+ssd	sata
+pattern0	more	
+a modern ssd however can use more than sata ii speeds and will be faster on a sata iii bus
+
+681335
+sudoers	visudo
+pattern7	
+if you re not used to vi you can also edit the file etc sudoers directly but using visudo is safer
+
+682075
+udp	tcp	icmp	udp	icmp	tcp
+pattern0	better	
+in this case protocols like tcp behave better than icmp or udp because they re-transmit packets which have not been received by the target giving you the wrong impression of a properly working connection
+
+690284
+cpu	processors
+pattern7	
+also windows 95 has problems with processors faster than 2.1ghz windows protection error in ndis with a cpu that is faster than 2.1 ghz
+
+690284
+cpu	processors
+pattern7	
+also windows 95 has problems with processors faster than 2.1ghz windows protection error in ndis with a cpu that is faster than 2.1 ghz
+
+692418
+bluetooth	usb
+pattern8	less reliable	
+there are also 2.4 ghz usb hubs available but they are in my experience less reliable than bluetooth at handling that much data
+
+695469
+filesystems	ntfs
+pattern8	
+fat32 is a less safe filesystems than ntfs because it doesn t do journaling which means that if you have a sudden power loss bsod or other momentary unexpected interruption while the filesystems is writing data the filesystems can wind up in an inconsistent state and you can lose data
+
+695967
+udp	tcp
+pattern0	higher efficiency	
+in all cases udp unicasts can get a few percent higher efficiency than tcp because whereas tcp is designed to go as fast as possible without compounding congestion udp-based protocols can try to go as fast as possible even if they make congestion worse
+
+697959
+ethernet	wireless
+pattern8	more complicated	
+note that all of those examples apply just as much for a wireless client moreso in fact since wireless line discipline is more complicated than ethernet s
+
+698588
+debian	centos
+pattern0	
+i am more familiar with debian but have been advised that centos rhel has better 64bit java 7 support
+
+698588
+debian	centos
+pattern7	
+i am more familiar with debian but have been advised that centos rhel has better 64bit java 7 support
+
+698588
+debian	centos
+pattern7	
+i am more familiar with debian but have been advised that centos rhel has better 64bit java 7 support
+
+706712
+cpu	processors
+pattern10	
+when thinking of upgrading your computer to something modern you ll want the most modern cpu available even if you don t end up buying a high-end one because an up-to-date processors is always more future-proof than an older one
+
+706712
+cpu	processors
+pattern10	
+when thinking of upgrading your computer to something modern you ll want the most modern cpu available even if you don t end up buying a high-end one because an up-to-date processors is always more future-proof than an older one
+
+707052
+mouse	keyboard
+pattern0	
+i wanted to project my games to my tv via hdmi so that others can watch but gaming on a smaller screen feels more natural with a mouse and keyboard - especially on rts games
+
+708371
+filesystems	ntfs
+pattern10	
+the underlying filesystems of windows ntfs is much more flexible than the legacy win32 subsystem win32k.sys gives it credit for
+
+708371
+filesystems	ntfs
+pattern10	
+the underlying filesystems of windows ntfs is much more flexible than the legacy win32 subsystem win32k.sys gives it credit for
+
+714647
+http	spdy
+pattern0	
+when something better than http comes along as appears to be the case with spdy then http too will fade into history as protocols before it have
+
+720938
+cpu	processors
+pattern0	
+is there a way to force a specific program to use less than 100 processors time even when the cpu would be idle otherwise
+
+730163
+afp	smb
+pattern7	faster	
+my experience highly subjective is that afp seems faster than smb especially since mountain lion mavericks
+
+730163
+afp	smb
+pattern7	faster	
+my experience highly subjective is that afp seems faster than smb especially since mountain lion mavericks
+
+730163
+afp	smb
+pattern0	faster	
+my experience highly subjective is that afp seems faster than smb especially since mountain lion mavericks
+
+734918
+affinity	processors
+pattern0	
+application run but crashed if it had more than one processors affinity
+
+740616
+cpu	hyperthreading
+pattern0	greater	
+in other words a cpu with hyperthreading is going to provide performance which is somewhat greater than a cpu which is otherwise the same but without hyperthreading because the hyperthreading cpu will be able to concurrently balance two sometimes more but hyperthreading is usually 2-way threads of execution on a given core
+
+744482
+udp	tcp
+pattern0	lower overhead	
+udp has a much lower overhead than tcp
+
+745130
+rsa	dsa
+pattern0	better	
+enable cryptographic keys dsa better than rsa for client authentication
+
+748152
+switching	screens
+pattern7	gradually darker	
+while doing this the screens gradually keeps getting darker and the gpu makes a small noise after every switching
+
+748152
+switching	screens
+pattern7	gradually darker	
+while doing this the screens gradually keeps getting darker and the gpu makes a small noise after every switching
+
+748911
+disk	ram
+pattern10	more	
+also more ram means more in-memory caching and therefore less disk work
+
+748911
+disk	ram
+pattern10	more in-memory	
+also more ram means more in-memory caching and therefore less disk work
+
+750671
+vmware	virtualbox
+pattern0	better	
+although virtualbox is free but it doesn t show that it certainly is better than vmware
+
+756654
+bash	zsh
+pattern10	
+in fact the bash completion code was borrowed early from zsh and zsh expanded past that so zsh completion is arguably more powerful
+
+756654
+bash	zsh
+pattern10	
+in fact the bash completion code was borrowed early from zsh and zsh expanded past that so zsh completion is arguably more powerful
+
+759380
+button	checkbox
+pattern0	
+but the problem is that when you click a checkbox the exit macro is not necessarily called so you get a situation where more than one checkbox in a group can be checked they are not radio button
+
+767491
+bash	zsh
+pattern10	more	
+zsh has a more powerful built-in time command than bash has and the zsh version can report memory statistics
+
+767491
+bash	zsh
+pattern10	more powerful	
+zsh has a more powerful built-in time command than bash has and the zsh version can report memory statistics
+
+768010
+google-chrome	safari
+pattern0	better	
+for me the safari javascript console seems to be a bit better than google-chrome on a mac for debugging angularjs module loading errors -
+
+772160
+xfce	gnome
+pattern7	slower	
+as you can see there s not any noticeable difference between the different fonts and even with or without hinting however the only thing that jumps into sight is the difference of the startup times between the gnome-terminal and the xfce4-terminal where gnome is 554 slower than xfce but in normal circumstances this is negligible
+
+772160
+xfce	gnome
+pattern7	slower	
+as you can see there s not any noticeable difference between the different fonts and even with or without hinting however the only thing that jumps into sight is the difference of the startup times between the gnome-terminal and the xfce4-terminal where gnome is 554 slower than xfce but in normal circumstances this is negligible
+
+772160
+xfce	gnome
+pattern0	slower	
+as you can see there s not any noticeable difference between the different fonts and even with or without hinting however the only thing that jumps into sight is the difference of the startup times between the gnome-terminal and the xfce4-terminal where gnome is 554 slower than xfce but in normal circumstances this is negligible
+
+772510
+kubuntu	gnome	kde	gnome	kde	kubuntu
+pattern7	even worse	
+in kubuntu it is even worse because the associations in defaults.list are specified to gnome apps but not kde ones
+
+772510
+kubuntu	gnome	kde	gnome	kde	kubuntu
+pattern7	even worse	
+in kubuntu it is even worse because the associations in defaults.list are specified to gnome apps but not kde ones
+
+773059
+disk	ram
+pattern10	faster	
+accessing information in ram is faster than accessing information on disk or elsewhere so the memory manager tries its best to keep the working set information the workload accesses a lot in ram
+
+773059
+disk	ram
+pattern10	faster	
+accessing information in ram is faster than accessing information on disk or elsewhere so the memory manager tries its best to keep the working set information the workload accesses a lot in ram
+
+781608
+mouse	keyboard
+pattern10	
+wireless mouse support would be nice but a wireless keyboard is more important for this setup
+
+781608
+mouse	keyboard
+pattern10	
+wireless mouse support would be nice but a wireless keyboard is more important for this setup
+
+785110
+vpn	lan
+pattern7	
+if you want to route all traffic from your lan through vpn it is easier than routing selected network traffic
+
+785110
+vpn	lan
+pattern7	
+if you want to route all traffic from your lan through vpn it is easier than routing selected network traffic
+
+794181
+filesystems	ntfs
+pattern10	
+i know windows uses the ntfs filesystems which is more secure
+
+794181
+filesystems	ntfs
+pattern10	
+i know windows uses the ntfs filesystems which is more secure
+
+797486
+division	addition
+pattern0	slower	
+division for example is considerably slower than addition
+
+816200
+ubuntu	debian
+pattern10	more	
+ubuntu is more bleeding-edge than debian - it was created to be more friendly and useful from a non-technical or non-unix-expert standpoint
+
+816200
+ubuntu	debian
+pattern10	more bleeding-edge	
+ubuntu is more bleeding-edge than debian - it was created to be more friendly and useful from a non-technical or non-unix-expert standpoint
+
+816200
+ubuntu	debian
+pattern8	more bleeding-edge	
+ubuntu is more bleeding-edge than debian - it was created to be more friendly and useful from a non-technical or non-unix-expert standpoint
+
+816300
+vmware	virtualbox
+pattern10	
+however it seems that running os x in virtualbox or vmware is more popular so you ll get much more help and how-to guides for those platforms so why not run it in one of these virtual machines instead
+
+816300
+vmware	virtualbox
+pattern10	
+however it seems that running os x in virtualbox or vmware is more popular so you ll get much more help and how-to guides for those platforms so why not run it in one of these virtual machines instead
+
+828598
+disk	ram
+pattern0	slower	
+con disk much slower than ram
+
+829644
+robocopy	xcopy
+pattern10	much more	
+you should check out robocopy it is much more powerful than xcopy
+
+829644
+robocopy	xcopy
+pattern10	much more powerful	
+you should check out robocopy it is much more powerful than xcopy
+
+829644
+robocopy	xcopy
+pattern8	more powerful	
+you should check out robocopy it is much more powerful than xcopy
+
+839236
+apache	nginx
+pattern0	more connections	
+nginx and haproxy use this model and it s a big reason they can deal with so many more connections than apache on similar hardware
+
+839333
+width	height
+pattern7	longer	
+which means that the width is longer than the height
+
+839333
+width	height
+pattern7	longer	
+which means that the width is longer than the height
+
+839333
+width	height
+pattern0	longer	
+which means that the width is longer than the height
+
+839333
+width	height
+pattern7	longer	
+you know the height is longer than the width
+
+839333
+width	height
+pattern7	longer	
+you know the height is longer than the width
+
+839333
+width	height
+pattern0	longer	
+you know the height is longer than the width
+
+849364
+cpu	processors
+pattern7	
+this post on tomshardware.com states the extra power is needed when running dual processors or a single cpu that draws more than 125 watts
+
+849364
+cpu	processors
+pattern7	
+this post on tomshardware.com states the extra power is needed when running dual processors or a single cpu that draws more than 125 watts
+
+856262
+ubuntu	debian
+pattern7	more	
+i ve found that ubuntu has been more friendly over debian the default for various things as well
+
+856262
+ubuntu	debian
+pattern7	more friendly	
+i ve found that ubuntu has been more friendly over debian the default for various things as well
+
+856262
+ubuntu	debian
+pattern0	more friendly	
+i ve found that ubuntu has been more friendly over debian the default for various things as well
+
+856540
+mp3	wav
+pattern7	bigger	
+the pcm stream which is why the wav is bigger than the mp3
+
+856540
+mp3	wav
+pattern7	bigger	
+the pcm stream which is why the wav is bigger than the mp3
+
+856540
+mp3	wav
+pattern0	bigger	
+the pcm stream which is why the wav is bigger than the mp3
+
+857492
+disk	ram
+pattern0	faster	
+ram exists solely because it s cheaper than on-chip memory and much faster than disk
+
+857640
+next	except	disk	ram
+pattern10	
+lastly the best way to do it is ramdisk and then load windows xp ram disk takes ram and makes it into a hard drive of sorts except ram is faster than ssd since its right next to cpu its like direct communication line
+
+857640
+next	except	disk	ram
+pattern10	
+lastly the best way to do it is ramdisk and then load windows xp ram disk takes ram and makes it into a hard drive of sorts except ram is faster than ssd since its right next to cpu its like direct communication line
+
+857640
+next	except	disk	ram
+pattern10	
+lastly the best way to do it is ramdisk and then load windows xp ram disk takes ram and makes it into a hard drive of sorts except ram is faster than ssd since its right next to cpu its like direct communication line
+
+857640
+next	except	disk	ram
+pattern10	
+lastly the best way to do it is ramdisk and then load windows xp ram disk takes ram and makes it into a hard drive of sorts except ram is faster than ssd since its right next to cpu its like direct communication line
+
+863366
+google-chrome	safari	opera	safari	opera	google-chrome
+pattern0	
+or is this better with googel google-chrome safari opera ..
+
+864919
+x86	64bit
+pattern10	mode significantly more	
+on x86 x86-64 code running in 64bit mode is significantly more efficient because backwards compat with ancient x86 calling conventions isn t needed
+
+864919
+x86	64bit
+pattern10	mode significantly more efficient	
+on x86 x86-64 code running in 64bit mode is significantly more efficient because backwards compat with ancient x86 calling conventions isn t needed
+
+865803
+vpn	lan
+pattern7	gateway lower	
+specifically the metric for the vpn gateway is lower than the regular lan
+
+865803
+vpn	lan
+pattern7	gateway lower	
+specifically the metric for the vpn gateway is lower than the regular lan
+
+866490
+vmware	virtualbox
+pattern7	better	
+from stability point of view also vmware is better but being in it i do not think that it does matter a lot as you can quickly fix issues of virtualbox too
+
+866490
+vmware	virtualbox
+pattern7	better	
+from stability point of view also vmware is better but being in it i do not think that it does matter a lot as you can quickly fix issues of virtualbox too
+
+873585
+robocopy	xcopy
+pattern7	
+although xcopy still works windows vista and later include robocopy which has more features
+
+873585
+robocopy	xcopy
+pattern7	
+although xcopy still works windows vista and later include robocopy which has more features
+
+878262
+udp	tcp
+pattern10	faster	
+udp is faster it wraps tcp in udp tcp is more compatible but more overhead
+
+878262
+udp	tcp
+pattern10	faster	
+udp is faster it wraps tcp in udp tcp is more compatible but more overhead
+
+878262
+udp	tcp
+pattern10	
+udp is faster it wraps tcp in udp tcp is more compatible but more overhead
+
+878262
+udp	tcp
+pattern10	
+udp is faster it wraps tcp in udp tcp is more compatible but more overhead
+
+878262
+udp	tcp
+pattern10	
+udp is faster it wraps tcp in udp tcp is more compatible but more overhead
+
+878262
+udp	tcp
+pattern10	
+udp is faster it wraps tcp in udp tcp is more compatible but more overhead
+
+878730
+button	checkbox
+pattern0	more	
+it seems like i should be able to select more than one since under the developer ribbon heading the group button exists but i can t seem to select more than one checkbox at a time
+
+879585
+mouse	keyboard
+pattern10	
+although this can be done solely with the keyboard it is more easily done by using the keyboard and the mouse
+
+879585
+mouse	keyboard
+pattern10	
+although this can be done solely with the keyboard it is more easily done by using the keyboard and the mouse
+
+881088
+rsa	dsa
+pattern7	key more	
+a dsa key of the same size of an rsa key provides more security but at the same time dsa is more vulnerable to bad random numbers compare with the debian random number generator flaw
+
+881088
+rsa	dsa
+pattern7	key more security	
+a dsa key of the same size of an rsa key provides more security but at the same time dsa is more vulnerable to bad random numbers compare with the debian random number generator flaw
+
+881088
+rsa	dsa
+pattern10	
+a dsa key of the same size of an rsa key provides more security but at the same time dsa is more vulnerable to bad random numbers compare with the debian random number generator flaw
+
+881088
+rsa	dsa
+pattern10	
+a dsa key of the same size of an rsa key provides more security but at the same time dsa is more vulnerable to bad random numbers compare with the debian random number generator flaw
+
+881460
+disk	ram
+pattern0	slower	
+once your computer runs out of physical ram it must start using storage hard disk which is several orders of magnitude slower than ram
+
+882735
+xcopy	icacls
+pattern8	more advanced	
+also check icacls h to be sure you have rights also you might want to use iso dates 2015-02-25 so you can sort properly or for backups you can use tools more advanced than xcopy
+
+885443
+opera	firefox
+pattern0	faster	
+i m trying opera for the first time it seems much faster than firefox but i m unable to change the user interface language to my language
+
+885493
+disk	ram
+pattern0	slower	
+while hard disk are few orders of magnitude slower than ram sd cards are even slower
+
+886434
+google-chrome	firefox
+pattern7	more	
+but the reason google-chrome has more than one item in that list is it uses separate processes instead of just separate threads like firefox
+
+886434
+google-chrome	firefox
+pattern7	more	
+but the reason google-chrome has more than one item in that list is it uses separate processes instead of just separate threads like firefox
+
+887132
+google-chrome	firefox
+pattern10	
+i switched from firefox to google-chrome in linux because google-chrome is faster
+
+887457
+disk	ram
+pattern7	much quicker	
+this is probably because ram has much quicker input output speeds than the hard disk so the the ram can output the stuff in it as quick as the hard disk can read in
+
+887457
+disk	ram
+pattern7	much quicker input	
+this is probably because ram has much quicker input output speeds than the hard disk so the the ram can output the stuff in it as quick as the hard disk can read in
+
+890965
+filesystems	ntfs
+pattern7	slower	
+i was wondering if copying files between different filesystems for example from ext4 to ntfs is slower than copying to the same filesystems from ext4 to ext 4
+
+890965
+filesystems	ntfs
+pattern7	slower	
+i was wondering if copying files between different filesystems for example from ext4 to ntfs is slower than copying to the same filesystems from ext4 to ext 4
+
+891478
+width	height
+pattern7	
+in your case since your input video is 4x3 we know that the math will work out to scale to a height of 720 but a width that is less than 1280
+
+891478
+width	height
+pattern7	
+in your case since your input video is 4x3 we know that the math will work out to scale to a height of 720 but a width that is less than 1280
+
+892561
+ssd	sata
+pattern0	more	
+perhaps not exactly what you had in mind but there does exist such a device - the wd dual 2.5 drive - it s a 2.5 hdd + a reasonably sized ssd inside a single 2.5 chassis - the main issue i see with alternatives is that even if you managed to get two small drives in there say two msata or similar the laptop won t have more than one sata connection there so you would also need an adapter raid device right there which would make it more complicate but guess what - those also exist- look for 2.5 to dual msata adapters they will have raid support built-in
+
+894714
+tiff	png
+pattern0	smaller	
+png is a compressed format so is smaller than tiff is theoretically lossless so you shouldn t lose any of the image quality
+
+895197
+srt	subtitle
+pattern0	fancier effects	
+ass subtitle should allow fancier effects than srt subtitle or usage of the drawtext filter
+
+895197
+srt	subtitle
+pattern0	fancier effects	
+ass subtitle should allow fancier effects than srt subtitle or usage of the drawtext filter
+
+900224
+ssd	sata
+pattern0	
+obviously it will slower than sata - maybe someone can point me to a link which shows the difference in boot up times between internal and external ssd performance
+
+902922
+ubuntu	centos
+pattern10	
+it could be that your centos environment was being lax like this but your ubuntu box is being more careful about which interface is which
+
+902922
+ubuntu	centos
+pattern10	
+it could be that your centos environment was being lax like this but your ubuntu box is being more careful about which interface is which
+
+909196
+versioning	upgrade
+pattern0	higher risk	
+a very outdated mediawiki versioning puts your data at higher risk than the upgrade process if done following instructions
+
+913155
+tunnel	vpn
+pattern10	
+you could use a virtual machine service such as amazon to host a server you can use to tunnel traffic through but a vpn service is generally more straightforward
+
+913155
+tunnel	vpn
+pattern10	
+you could use a virtual machine service such as amazon to host a server you can use to tunnel traffic through but a vpn service is generally more straightforward
+
+918900
+hash	md5
+pattern10	function faster	
+it appears that the new blake2 hash function is faster than md5 and cryptographically much stronger to boot
+
+918900
+hash	md5
+pattern10	function faster	
+it appears that the new blake2 hash function is faster than md5 and cryptographically much stronger to boot
+
+919884
+ubuntu	linux
+pattern10	
+linux ubuntu is rather more command-line friendly than windows until you get the hang of things
+
+919884
+ubuntu	linux
+pattern10	
+linux ubuntu is rather more command-line friendly than windows until you get the hang of things
+
+919884
+ubuntu	linux
+pattern10	
+linux ubuntu is rather more command-line friendly than windows until you get the hang of things
+
+919884
+ubuntu	linux
+pattern10	
+linux ubuntu is rather more command-line friendly than windows until you get the hang of things
+
+922075
+subscript	superscript
+pattern0	
+they have a narrower spacing than solidus and look better with the superscript subscript numbers
+
+926208
+versioning	upgrade
+pattern10	something more	
+unless you know a later versioning does something more effective you should not upgrade
+
+926208
+versioning	upgrade
+pattern10	something more effective	
+unless you know a later versioning does something more effective you should not upgrade
+
+927048
+ansible	puppet
+pattern0	harder	
+ansible will be hard to combine with docker at least harder than puppet or chef
+
+928110
+min	max
+pattern8	
+which is the max time less current time over max time less min time
+
+928160
+cpu	processors
+pattern0	more	
+i will watch the cpu and system idle process sits at 70 and the next highest thing might be a chrome window at 10 or svchost.exe or mcshield.exe mcafee virus scan but none of them ever show more than 20 processors usage
+
+933149
+cpu	processors
+pattern0	more	
+you are not possible to set number of processors more than your cpu supported via msconfig
+
+935562
+spaces	delimiter
+pattern7	
+since you are using to escape the following spaces using spaces as the delimiter and arguments are separated by a spaces there is a missing spaces between the -d and -f for cut it looks like you are trying to use -f1 as a delimiter which is more than one character
+
+935562
+spaces	delimiter
+pattern7	
+since you are using to escape the following spaces using spaces as the delimiter and arguments are separated by a spaces there is a missing spaces between the -d and -f for cut it looks like you are trying to use -f1 as a delimiter which is more than one character
+
+937491
+vmware	virtualbox
+pattern10	more	
+even though usb 3.0 is supported without that expansion pack the usb support in virtualbox is more problematic than in either vmware products or kvm
+
+937491
+vmware	virtualbox
+pattern10	more problematic	
+even though usb 3.0 is supported without that expansion pack the usb support in virtualbox is more problematic than in either vmware products or kvm
+
+939750
+disk	ram
+pattern0	cheaper	
+at a cost of 1 gb per disk therefore 2 gb in raid 0 this is significantly cheaper than ram
+
+941670
+ffmpeg	libav
+pattern7	community larger	
+the ffmpeg community is larger than libav and the most dedicated developer michael niedermayer stuck with ffmpeg commit stats
+
+941670
+ffmpeg	libav
+pattern7	community larger	
+the ffmpeg community is larger than libav and the most dedicated developer michael niedermayer stuck with ffmpeg commit stats
+
+941670
+ffmpeg	libav
+pattern0	larger	
+the ffmpeg community is larger than libav and the most dedicated developer michael niedermayer stuck with ffmpeg commit stats
+
+942338
+versioning	upgrade
+pattern7	
+using pip to upgrade pip itself like it suggests because the shipped versioning is older overwrites the scripts and should not be done
+
+942338
+versioning	upgrade
+pattern7	
+using pip to upgrade pip itself like it suggests because the shipped versioning is older overwrites the scripts and should not be done
+
+946346
+ssd	sata
+pattern0	faster	
+i wanna buy an ssd and i believe the pcie connection should be faster than the sata port
+
+946357
+ssd	sata
+pattern7	
+buying a regular sata or sas ssd is much cheaper
+
+947024
+disk	ram
+pattern0	more enough	
+it could download them to disk first and then it would have more than enough ram to install the individual packages
+
+947238
+sudo	passwd
+pattern10	
+is it considered to be safe enough to enable ufw and deny all incoming connections when using an unknown network on a ubuntu pc with a strong sudo passwd or is there more that one should take care of
+
+947238
+sudo	passwd
+pattern10	
+is it considered to be safe enough to enable ufw and deny all incoming connections when using an unknown network on a ubuntu pc with a strong sudo passwd or is there more that one should take care of
+
+956471
+udp	tcp	udp	mtu
+pattern8	
+path mtu auto discovery is the mechanism used to automatically detect the mtu between you and the vpn server however it is more robust with tcp than with udp on badly-behaved networks because tcp mandates explicit feedback that can tell you which packets don t arrive
+
+959221
+xen	openvz
+pattern0	fewer limits virtuozzo	
+kvm virtualization vmware virtualization xen virtualization or bare metal servers would be subject to far fewer limits than virtuozzo openvz
+
+963141
+filesystems	ntfs
+pattern7	
+copying files from a filsystem ntfs which retains long filenames to a filesystems that has more restricted length on filenames fat12 and others of similar age
+
+963141
+filesystems	ntfs
+pattern7	
+copying files from a filsystem ntfs which retains long filenames to a filesystems that has more restricted length on filenames fat12 and others of similar age
+
+966833
+vpn	lan
+pattern7	lower	
+simply adjust accordingly so that your vpn has a lower metric than your lan connection
+
+966833
+vpn	lan
+pattern7	lower metric	
+simply adjust accordingly so that your vpn has a lower metric than your lan connection
+
+966833
+vpn	lan
+pattern0	lower metric	
+simply adjust accordingly so that your vpn has a lower metric than your lan connection
+
+986703
+udp	tcp
+pattern10	
+you might also want to try selecting udp tcp instead of just one type of port although tcp is much more common
+
+986703
+udp	tcp
+pattern10	
+you might also want to try selecting udp tcp instead of just one type of port although tcp is much more common
+
+988760
+debian	centos
+pattern8	
+i more familiar with centos so i m guess debian calls the daemon ssh but redhat calls it sshd
+
+992146
+google-chrome	firefox
+pattern0	better	
+i know firefox on windows works better and i know that google-chrome on linux works better than firefox on linux
+
+995774
+crypt	hash	crypt	salt	hash	salt	pbkdf2	hash	pbkdf2	salt	pbkdf2	crypt
+pattern7	now wider	
+linux crypt now supports a wider variety of hash functions such as based on sha-1 or based on sha-256 but the added protections salt multiple rounds still aren t as good as the later developments of pbkdf2 or bcrypt and many short passwords hash can still be cracked in a short amount of time
+
+995774
+crypt	hash	crypt	salt	hash	salt	pbkdf2	hash	pbkdf2	salt	pbkdf2	crypt
+pattern7	now wider variety	
+linux crypt now supports a wider variety of hash functions such as based on sha-1 or based on sha-256 but the added protections salt multiple rounds still aren t as good as the later developments of pbkdf2 or bcrypt and many short passwords hash can still be cracked in a short amount of time
+
+1000408
+width	height
+pattern7	
+that means when you are looking at a jpeg jpg file its a compressed file with a lot of image data discarded when they are rendered in photoshop it gets reconstructed into a simple bitmap an array holding 8 bits per color ã 3 colors ã width ã height which is larger in size than original file
+
+1000408
+width	height
+pattern7	
+that means when you are looking at a jpeg jpg file its a compressed file with a lot of image data discarded when they are rendered in photoshop it gets reconstructed into a simple bitmap an array holding 8 bits per color ã 3 colors ã width ã height which is larger in size than original file
+
+1007033
+pull	push
+pattern0	
+but if you need to do more than git pull and git push over ssh you may wish to check out emacs tramp mode
+
+1007991
+filesystems	fat
+pattern8	more reliable	
+or i prefer a multiboot usb even if there s only one .iso to boot since it doesn t overwrite the whole drive s partition table like plain dd does and you can use a filesystems like ext3 4 or something more reliable than fat fat usb s tend to erase all their filenames somewhat regularly for me somehow never a problem on the same usb with ext3
+
+1018250
+cifs	smb
+pattern7	
+overall it appears that using network shared folders nfs smb cifs is better when source control sync is not an option
+
+1018250
+cifs	smb
+pattern7	
+overall it appears that using network shared folders nfs smb cifs is better when source control sync is not an option
+
+1018250
+cifs	smb
+pattern7	
+overall it appears that using network shared folders nfs smb cifs is better when source control sync is not an option
+
+1018250
+cifs	smb
+pattern7	
+overall it appears that using network shared folders nfs smb cifs is better when source control sync is not an option
+
+1019133
+switching	screens
+pattern7	
+when i switching tabs in chrome the whole screens gets darker and brighter depending on what s being displayed
+
+1019133
+switching	screens
+pattern7	
+when i switching tabs in chrome the whole screens gets darker and brighter depending on what s being displayed
+
+1020671
+folder	directory
+pattern7	paler	
+you can see the folder is a paler blue than normal viewable directory in my second screenshot in my question chrome user data where aside from library might it be
+
+1020671
+folder	directory
+pattern7	paler blue	
+you can see the folder is a paler blue than normal viewable directory in my second screenshot in my question chrome user data where aside from library might it be
+
+1036888
+cpu	processors
+pattern0	
+they use significantly less power than -e processors and have fewer cpu cores
+
+1038567
+sudo	passwd
+pattern7	
+as a side note see that i ve included a -t argument to ssh so that sudo has a tty through which to ask for my passwd which is much better than putting the passwd on the command line imo
+
+1038567
+sudo	passwd
+pattern7	
+as a side note see that i ve included a -t argument to ssh so that sudo has a tty through which to ask for my passwd which is much better than putting the passwd on the command line imo
+
+1041379
+cpu	hyperthreading
+pattern7	more	
+a mulitcore cpu has more than one core not including hyperthreading while a singlecore cpu does not
+
+1041379
+cpu	hyperthreading
+pattern7	more	
+a mulitcore cpu has more than one core not including hyperthreading while a singlecore cpu does not
+
+1049404
+rsa	dsa
+pattern0	
+apparently also if i m using more than 5 dsa keys which as i read it were more strong than rsa keys but it seems that putty dev team don t agree with it pageant doesn t respond to putty anymore and it s the same than if i m using more than 1 dsa key with several rsa keys
+
+1049404
+rsa	dsa
+pattern8	more strong	
+apparently also if i m using more than 5 dsa keys which as i read it were more strong than rsa keys but it seems that putty dev team don t agree with it pageant doesn t respond to putty anymore and it s the same than if i m using more than 1 dsa key with several rsa keys
+
+1049404
+rsa	dsa
+pattern0	more	
+apparently also if i m using more than 5 dsa keys which as i read it were more strong than rsa keys but it seems that putty dev team don t agree with it pageant doesn t respond to putty anymore and it s the same than if i m using more than 1 dsa key with several rsa keys
+
+1050822
+factors	mean
+pattern7	less	
+when factors is less than 1 but more than 0 the data move closer to the mean but data that were originally farther away from the mean move more
+
+1050822
+factors	mean
+pattern7	less	
+when factors is less than 1 but more than 0 the data move closer to the mean but data that were originally farther away from the mean move more
+
+1052765
+switching	screens
+pattern0	quicker	
+especially with big screens or multiple screens but this allow us to use information quicker than to switching windows
+
+1053219
+phpstorm	atom-editor	vim	atom-editor
+pattern0	
+i am using phpstorm and have to deal with csv files a lot and it supports editing them in a table view and it performs much better than the vim plugin csv.vim or the atom-editor plugin tablr
+
+1056078
+hex	binary
+pattern0	easier	
+to be honest i found hex easier than binary to read
+
+1061450
+folder	directory
+pattern7	much bigger	
+i found that the total disk space used by this folder is much bigger than all the visible files and directory added up together
+
+1061450
+folder	directory
+pattern7	much bigger	
+i found that the total disk space used by this folder is much bigger than all the visible files and directory added up together
+
+1061464
+folder	directory
+pattern7	much bigger	
+i found that the total disk space used by this folder is much bigger than all the visible files and directory added up together
+
+1061464
+folder	directory
+pattern7	much bigger	
+i found that the total disk space used by this folder is much bigger than all the visible files and directory added up together
+
+1066743
+bash	zsh
+pattern0	better	
+i switched to zsh and find it better than bash but i have a problem with oh-my-zsh s hereafter omz autocomplete feature
+
+1069344
+folder	directory
+pattern10	longer	
+now this pc - documents links to the old onedrive folder which is no longer in use and i cannot change the directory when right clicking documents - properties - location - restore default
+
+1069344
+folder	directory
+pattern10	longer	
+now this pc - documents links to the old onedrive folder which is no longer in use and i cannot change the directory when right clicking documents - properties - location - restore default
+
+1070072
+rsa	dsa
+pattern0	weaker	
+but dsa keys are weaker than rsa so that would be unhardening my new server
+
+1075852
+filesystems	ntfs	filesystems	fat
+pattern8	more developed	
+as that is described as a notable feature of this filesystems such features are likely more developed than with ntfs and certainly more than fat which was comparatively simple in nature and so had virtually no such features
+
+1075852
+filesystems	ntfs	filesystems	fat
+pattern0	
+as that is described as a notable feature of this filesystems such features are likely more developed than with ntfs and certainly more than fat which was comparatively simple in nature and so had virtually no such features
+
+1086575
+filesystems	btrfs
+pattern0	larger other	
+grub can boot btrfs partitions however the module may be larger than other filesystems
+
+1091396
+vlookup	countif
+pattern0	faster	
+the vlookup operation still takes a bit of time but it is significantly faster than countif
+
+1092524
+google-chrome	firefox
+pattern7	far faster	
+google-chrome is far faster than firefox on my system which is why i want this for google-chrome any help would be much appreciated
+
+1092524
+google-chrome	firefox
+pattern7	far faster	
+google-chrome is far faster than firefox on my system which is why i want this for google-chrome any help would be much appreciated
+
+1092524
+google-chrome	firefox
+pattern0	faster	
+google-chrome is far faster than firefox on my system which is why i want this for google-chrome any help would be much appreciated
+
+1099000
+disk	ram
+pattern0	slower	
+ssds are faster than conventional hard disk but they are still significantly slower than ram memory
+
+1102584
+google-chrome	firefox
+pattern7	smaller	
+as google-chrome is smaller and faster then ie firefox that s why it sometimes shows error while loading gmail
+
+1102584
+google-chrome	firefox
+pattern7	smaller	
+as google-chrome is smaller and faster then ie firefox that s why it sometimes shows error while loading gmail
+
+1114020
+udp	tcp
+pattern0	more	
+it seems that rtsp is a stateful protocol and it uses udp more than tcp when streaming and it s used more as a server device like an ip camera that is connected to a tcp ip network and feeds out streams via udp etc
+
+1114303
+capitalization	uppercase
+pattern7	harder	
+also a lot of people find a uppercase hostname less legible than a lowercase one for the same reason as text typed in uppercase is harder to read than with proper capitalization
+
+1114303
+capitalization	uppercase
+pattern7	harder	
+also a lot of people find a uppercase hostname less legible than a lowercase one for the same reason as text typed in uppercase is harder to read than with proper capitalization
+
+1119583
+width	height
+pattern7	typically more	
+when non-square the width typically uses more pixels ppi than the height which is usually 72 ppi
+
+1119583
+width	height
+pattern7	typically more pixels	
+when non-square the width typically uses more pixels ppi than the height which is usually 72 ppi
+
+1120818
+cpu	processors
+pattern7	better	
+higher logical processors means better cpu
+
+1120818
+cpu	processors
+pattern7	better	
+higher logical processors means better cpu
+
+1123071
+disk	ram	ssd	sata
+pattern7	less	
+generally you would see generational increases with cpu change and see order of magnitude access and latency drops for sata disk to sata ssd with ram unless you started with really slow ram your performance gain on speed won t be effective but may yield still additional frame-rate differences and generally adding more ram means less swapping to disk
+
+1123071
+disk	ram	ssd	sata
+pattern7	less	
+generally you would see generational increases with cpu change and see order of magnitude access and latency drops for sata disk to sata ssd with ram unless you started with really slow ram your performance gain on speed won t be effective but may yield still additional frame-rate differences and generally adding more ram means less swapping to disk
+
+1125746
+ethernet	wireless
+pattern0	better	
+the speeds through the ethernet on the extender are better than the wireless
+
+1128914
+ssd	sata
+pattern0	
+the one thing i notice is i believe my hdd was a little bit taller than the ssd but they are both sata 3 so i dont know if that makes a difference or not
+
+1129678
+cpu	processors
+pattern7	
+and even more complicated some gpus don t arrange their memory in the same way it is displayed on the monitor lines of pixels from top left to bottom right but rather arrange their memory into cells rectangles of image data - this has to be converted but can result in higher performance of vram access because concurrent access from gpu cpu and signal processors is better distributed against each other
+
+1129678
+cpu	processors
+pattern7	
+and even more complicated some gpus don t arrange their memory in the same way it is displayed on the monitor lines of pixels from top left to bottom right but rather arrange their memory into cells rectangles of image data - this has to be converted but can result in higher performance of vram access because concurrent access from gpu cpu and signal processors is better distributed against each other
+
+1134213
+ubuntu	debian
+pattern0	better	
+recently i installed debian 8 and program works fine now much more better than on ubuntu however i ve got another problem - my second monitor doesn t work it works sometimes in 5-10 of cases when i turn comp
+
+1138298
+filesystems	btrfs
+pattern10	more	
+some of the higher-end synology models alternatively allow the use of btrfs which is a more modern filesystems with its own support for raid
+
+1138298
+filesystems	btrfs
+pattern10	more modern	
+some of the higher-end synology models alternatively allow the use of btrfs which is a more modern filesystems with its own support for raid
+
+1140525
+disk	ram
+pattern0	
+tmp can reside on faster media than root ram disk ssd disk
+
+1141532
+trojan	virus
+pattern0	
+much more than virus trojan malware etc.
+
+1141532
+trojan	virus
+pattern0	
+much more than virus trojan malware etc.
+
+1143143
+cpu	hyperthreading
+pattern10	faster	
+the old cpu is faster because it is a quad core i7 with hyperthreading so that you get 8 logical cores while the i7 6500u is only a dual core cpu with hyperthreading so you have 4 logical cores
+
+1143143
+cpu	hyperthreading
+pattern10	faster	
+the old cpu is faster because it is a quad core i7 with hyperthreading so that you get 8 logical cores while the i7 6500u is only a dual core cpu with hyperthreading so you have 4 logical cores
+
+1144298
+cpu	processors
+pattern0	more	
+it the past before multi-core cpus came up multi cpu desktop computers were used when the was reasonable need for more than one processors core - for extensive computation which could be parallelized
+
+1146161
+rbenv	pik
+pattern10	
+i understand rvm and rbenv don t work on windows and pik is no longer supported..
+
+1146161
+rbenv	pik
+pattern10	
+i understand rvm and rbenv don t work on windows and pik is no longer supported..
+
+1146199
+disk	ram
+pattern0	slower	
+consider that magnetic disk drives are far slower than ram by a factor of hundreds or thousands of times so a small savings in disk access is worth considerable processing use
+
+1152758
+udp	tcp
+pattern7	connections much shorter	
+therefore the timeout for udp connections is much shorter than that for tcp connections
+
+1152758
+udp	tcp
+pattern7	connections much shorter	
+therefore the timeout for udp connections is much shorter than that for tcp connections
+
+1153907
+iscsi	cifs
+pattern10	
+cifs has no multipathing option therefore i see here it would be beneficial to use iscsi which is faster allowing you utilize your two connections with mpio
+
+1153907
+iscsi	cifs
+pattern10	
+cifs has no multipathing option therefore i see here it would be beneficial to use iscsi which is faster allowing you utilize your two connections with mpio
+
+1161958
+nginx	lighttpd	apache	lighttpd	apache	nginx
+pattern10	
+apache and nginx arn t that hard but lighttpd seems more what you re looking for
+
+1161958
+nginx	lighttpd	apache	lighttpd	apache	nginx
+pattern10	
+apache and nginx arn t that hard but lighttpd seems more what you re looking for
+
+1164550
+google-chrome	firefox
+pattern0	harder	
+thus apparently the explanation is that firefox for whatever reason possibly hardware acceleration features was driving the card harder than google-chrome so it was failing sooner
+
+1171322
+ssl	https
+pattern7	
+a significant part of ssl tls the thing that adds security to https is a more-robust mechanism for authenticating the server
+
+1171322
+ssl	https
+pattern7	
+a significant part of ssl tls the thing that adds security to https is a more-robust mechanism for authenticating the server
+
+1178215
+disk	ram
+pattern0	more	
+but zfs is hard to use need a lot of ram to work fast more than one disk to use it with all the powerfull as more disk and more ram the better etc
+
+1179406
+countif	sumifs
+pattern0	
+in my experience a pivot table once created and cached is much faster than sumifs countif formulas but it depends on the size of your data set
+
+1179406
+countif	sumifs
+pattern0	
+in my experience a pivot table once created and cached is much faster than sumifs countif formulas but it depends on the size of your data set
+
+1179744
+udp	tcp	icmp	udp	icmp	tcp
+pattern0	lower priority	
+icmp packets such as ping s echo request and echo reply have a lower priority than tcp and udp
+
+1180542
+width	height
+pattern7	smaller	
+even if the height is smaller the maximum width is still 1176 and vice-versa
+
+1180542
+width	height
+pattern7	smaller	
+even if the height is smaller the maximum width is still 1176 and vice-versa
+
+1182144
+notepad++	sublimetext
+pattern0	more	
+because we can t install programs and i like sublimetext more than notepad++ i downloaded the portable version and i m using that as my text editor however once i open sublimetext the firewall starts acting weird
+
+1182571
+ubuntu	centos
+pattern0	slower	
+that still doesn t account for the 10x slow-down you mentioned in your answer as a comment in which you mentioned 10x slower for ubuntu 16.04 and 20x slower than centos 7.3 both on a gen2 xeon server and which i guess the moderators have unfortunately removed
+
+1184276
+mouse	keyboard
+pattern7	
+microsoft mouse and keyboard center mmkc 2.8 version supported on windows 10 no longer recognizes the natural 7000 keyboard though it does recognize the natural 4000 wired keyboard which is an earlier model
+
+1184276
+mouse	keyboard
+pattern7	
+microsoft mouse and keyboard center mmkc 2.8 version supported on windows 10 no longer recognizes the natural 7000 keyboard though it does recognize the natural 4000 wired keyboard which is an earlier model
+
+1190812
+disk	ram
+pattern0	
+there is more than enough ram and disk space available so the error message is not particularly helpful
+
+1191505
+nginx	lighttpd
+pattern10	better	
+you d need to run a proxy internally - have the port opened to one machine acting as a gateway with something like nginx which is better for things using websockets and other fancy things or lighttpd which is simpler
+
+1191505
+nginx	lighttpd
+pattern10	better	
+you d need to run a proxy internally - have the port opened to one machine acting as a gateway with something like nginx which is better for things using websockets and other fancy things or lighttpd which is simpler
+
+1191505
+nginx	lighttpd
+pattern7	
+you d need to run a proxy internally - have the port opened to one machine acting as a gateway with something like nginx which is better for things using websockets and other fancy things or lighttpd which is simpler
+
+1196333
+ftp	smb
+pattern10	
+or were you going to try to transmit data with a common file transfer protocol such as http or ftp or smb which is more frequently referred to as windows file sharing
+
+1196333
+ftp	smb
+pattern10	
+or were you going to try to transmit data with a common file transfer protocol such as http or ftp or smb which is more frequently referred to as windows file sharing
+
+1204503
+h.264	h.265
+pattern0	
+a standard 1080p movie is 4 gb or less with h.264 or h.265
+
+1205622
+client-side	server-side
+pattern0	more	
+keep in mind that outlook client-side rules can do a lot more than server-side rules
+
+1206437
+ftp	smb
+pattern7	less	
+it seems ftp has less windows explorer integration features e.f edit open with etc compared to smb
+
+1206437
+ftp	smb
+pattern7	less windows	
+it seems ftp has less windows explorer integration features e.f edit open with etc compared to smb
+
+1207342
+versioning	upgrade	ecdsa	rsa
+pattern0	more secure	
+recent versioning of macos have upgrade from rsa host keys to ecdsa host keys because elliptic curve cryptography is considered more secure than rsa
+
+1212038
+h.264	hevc
+pattern8	more efficient	
+vp9 and hevc are more efficient than h.264 in terms of how much space they require but they may take longer to encode
+
+1215417
+width	height
+pattern7	
+resize so that the width height is no more than 300 pixels
+
+1215417
+width	height
+pattern7	
+resize so that the width height is no more than 300 pixels
+
+1215417
+width	height
+pattern7	
+resize so that the width height is no more than 300 pixels
+
+1215417
+width	height
+pattern7	
+resize so that the width height is no more than 300 pixels
+
+1219210
+ethernet	wireless
+pattern10	
+semi-direct using a power line adaptor to send ethernet wire thru ur outlet on the main floor and plug the other near ur laptop in the basement to get the signal maybe the best simplest option almost as fast as direct and much better then wireless tp-link is better too bad it wasnt out when i got all my units
+
+1219210
+ethernet	wireless
+pattern10	
+semi-direct using a power line adaptor to send ethernet wire thru ur outlet on the main floor and plug the other near ur laptop in the basement to get the signal maybe the best simplest option almost as fast as direct and much better then wireless tp-link is better too bad it wasnt out when i got all my units
+
+1220808
+udp	tcp
+pattern0	longer	
+i do know that in general udp port scans take longer than tcp because it s connectionless and there are much more resources used
+
+1223432
+daemon	cron
+pattern0	
+check if you have more than one cron daemon running
+
+1229285
+gentoo	mint
+pattern10	far more	
+this puts mint in the driver s seat when it comes to managing your boot partition and mint is far more reliable and easier in general than gentoo
+
+1229285
+gentoo	mint
+pattern10	far more reliable	
+this puts mint in the driver s seat when it comes to managing your boot partition and mint is far more reliable and easier in general than gentoo
+
+1234067
+robocopy	xcopy
+pattern7	better	
+if you have windows vista or later a href rel nofollow noreferrer robocopy a is better than xcopy
+
+1234067
+robocopy	xcopy
+pattern7	better	
+if you have windows vista or later a href rel nofollow noreferrer robocopy a is better than xcopy
+
+1234067
+robocopy	xcopy
+pattern0	better	
+if you have windows vista or later a href rel nofollow noreferrer robocopy a is better than xcopy
+
+1235180
+h.264	h.265
+pattern8	more efficient	
+h.265 is 30â 50 more efficient than h.264 etc
+
+1236228
+udp	tcp
+pattern10	more	
+because nat traversal for tcp is more complicated than for udp
+
+1236228
+udp	tcp
+pattern10	more complicated	
+because nat traversal for tcp is more complicated than for udp
+
+1236468
+bluetooth	usb	mouse	keyboard
+pattern7	
+in my experience bluetooth is considerably trickier to set up than a dedicated wireless transceiver which in most cases just worksâ so i would advise to buy a wireless keyboard mouse and only consider bluetooth if you have an actual use case for it like using the keyboard with your phone or tablet which doesn t have usb or not having enough usb sockets on the laptop
+
+1236468
+bluetooth	usb	mouse	keyboard
+pattern7	
+in my experience bluetooth is considerably trickier to set up than a dedicated wireless transceiver which in most cases just worksâ so i would advise to buy a wireless keyboard mouse and only consider bluetooth if you have an actual use case for it like using the keyboard with your phone or tablet which doesn t have usb or not having enough usb sockets on the laptop
+
+1240952
+google-chrome	firefox
+pattern0	larger	
+i ve noticed that for some reason website elements display in google-chrome as much larger than in firefox
+
+1242503
+ssd	sata
+pattern0	
+an sshd in the single sata slot would work but i don t trust the smartness how the sshd firmware decides which blocks to keep on ssd thus the sshd can be slower than an ssd and i also don t trust the failure mode if the ssd or the hdd within the sshd breaks will i lose access to the blocks on the other device as well
+
+1244830
+ethernet	wireless
+pattern7	connection much slower	
+my ethernet connection is much slower than my wireless connection i have no idea why
+
+1244830
+ethernet	wireless
+pattern7	connection much slower	
+my ethernet connection is much slower than my wireless connection i have no idea why
+
+1244830
+ethernet	wireless
+pattern0	slower	
+my ethernet connection is much slower than my wireless connection i have no idea why
+
+1245104
+ubuntu	debian
+pattern0	
+and also arch and parabola are much closer than debian and ubuntu today
+
+1247875
+hash	md5
+pattern10	far more	
+your ssh server is providing sha256 public key hash which is far more secure than md5 hash
+
+1247875
+hash	md5
+pattern10	far more secure	
+your ssh server is providing sha256 public key hash which is far more secure than md5 hash
+
+1247875
+hash	md5
+pattern8	more secure	
+your ssh server is providing sha256 public key hash which is far more secure than md5 hash
+
+1248721
+google-chrome	firefox
+pattern0	
+i am running zorin os 12 and i am using gnome web epiphany. web integrates perfectly with zorin s themes and starts up much faster than google-chrome and firefox
+
+1249827
+debian	linux	debian	mint	ubuntu	mint	ubuntu	debian	ubuntu	linux
+pattern8	
+but i m much more familiar with linux so i d try booting a live linux mint ubuntu debian etc and once it s booted and running
+
+1256459
+queue	fifo
+pattern0	
+here is a better version with fifo filter to avoid buffer queue overflow when using paletteuse filter
+
+1260770
+addition	multiplication
+pattern0	
+the optimization is a fairly trivial constrained minimax nothing more complex than matrix addition and multiplication
+
+1262226
+ubuntu	mint	ubuntu	linux
+pattern0	
+would i have better luck with vanilla ubuntu as opposed to linux mint or even a completely different distro
+
+1263643
+ubuntu	linux
+pattern7	
+ubuntu is similar to steam os in that there both linux based and ubuntu tends to be the most supported linux os but ubuntu is much easier to install than steam os if you have a working computer and will help you with if steam os does what you need or if you want to put windows back on the machine
+
+1263643
+ubuntu	linux
+pattern7	
+ubuntu is similar to steam os in that there both linux based and ubuntu tends to be the most supported linux os but ubuntu is much easier to install than steam os if you have a working computer and will help you with if steam os does what you need or if you want to put windows back on the machine
+
+1267724
+vpn	lan
+pattern7	interface higher	
+since windows supports per-interface dns servers make sure the vpn interface has higher priority than the lan interface and that bar-technology.local is among the configured per-interface domain suffixes
+
+1267724
+vpn	lan
+pattern7	interface higher priority	
+since windows supports per-interface dns servers make sure the vpn interface has higher priority than the lan interface and that bar-technology.local is among the configured per-interface domain suffixes
+
+1267724
+vpn	lan
+pattern0	higher priority	
+since windows supports per-interface dns servers make sure the vpn interface has higher priority than the lan interface and that bar-technology.local is among the configured per-interface domain suffixes
+
+1271836
+filesystems	ntfs	filesystems	fat
+pattern10	
+microsoft has set a 32 gb partition size limit for the fat fat32 filesystems to promote ntfs which is generally more efficient when working with large partitions
+
+1271836
+filesystems	ntfs	filesystems	fat
+pattern10	
+microsoft has set a 32 gb partition size limit for the fat fat32 filesystems to promote ntfs which is generally more efficient when working with large partitions
+
+1275113
+cpu	processors
+pattern0	
+note oracle virtualbox is happy to let me assign more than one cpu in its system processors settings
+
+1275811
+width	height
+pattern7	greater	
+if the width is greater than the height it will rotate the image even if you change the paper orientation
+
+1275811
+width	height
+pattern7	greater	
+if the width is greater than the height it will rotate the image even if you change the paper orientation
+
+1275811
+width	height
+pattern0	greater	
+if the width is greater than the height it will rotate the image even if you change the paper orientation
+
+1280603
+daemons	launchd
+pattern0	
+however when more than one daemons is running only one of them works the first one launchd
+
+1283750
+disk	ram
+pattern0	larger	
+yes because the speed differential between ram and a physical spinning disk hard drive is much larger than between ram an a ssd
+
+1283750
+disk	ram
+pattern0	larger	
+yes because the speed differential between ram and a physical spinning disk hard drive is much larger than between ram an a ssd
+
+1286029
+portrait	landscape
+pattern7	
+that absolute width is applied in the subsequent sections so if the first section in the chain is portrait the landscape section uses less than the page width
+
+1286029
+portrait	landscape
+pattern7	
+that absolute width is applied in the subsequent sections so if the first section in the chain is portrait the landscape section uses less than the page width
+
+1287471
+filesystems	ntfs
+pattern7	
+ntfs is a much better filesystems that supports more features faster speed and higher security
+
+1287471
+filesystems	ntfs
+pattern7	
+ntfs is a much better filesystems that supports more features faster speed and higher security
+
+1288034
+debian	linux
+pattern7	easier	
+debian makes it easier but it s still a learning curve for people new to linux
+
+1288034
+debian	linux
+pattern7	easier	
+debian makes it easier but it s still a learning curve for people new to linux
+
+1291983
+disk	ram
+pattern0	
+old pc s had firmware that duplicated the functionality of ibm s bios firmware initially designed in the 1980 s for use with pseudo 16-bit cpus with less than 1mb ram and eventually with hard disk which were initially about 5 mb in capacity
+
+1293978
+installation	upgrade
+pattern10	perhaps more	
+currently it wants to do a feature upgrade which is perhaps more like an installation
+
+1293978
+installation	upgrade
+pattern10	perhaps more	
+currently it wants to do a feature upgrade which is perhaps more like an installation
+
+1294348
+width	height
+pattern7	
+beware though since it is not a simple crop based on preset height width it has higher resource requirements
+
+1294348
+width	height
+pattern7	
+beware though since it is not a simple crop based on preset height width it has higher resource requirements
+
+1295351
+vmware	virtualbox
+pattern8	more familiar	
+my host is windows 7 professional 64bit using vmware or virtualbox more familiar with vmware and the software shared by the vpn provider
+
+1301429
+folder	directory
+pattern0	more	
+i can individually rename and delete directory and files but i cannot rename more than one folder and i cannot rename files within sub-directories
+

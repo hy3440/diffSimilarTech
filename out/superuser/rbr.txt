@@ -1,0 +1,6 @@
+more                87
+faster              26
+better              4
+longer              2
+harder              2
+less                1

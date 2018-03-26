@@ -1,0 +1,1840 @@
+195
+kde	gnome
+pattern2	
+most major distro s choose between kde and gnome with gnome seeming to be the popular one at the moment
+
+195
+centos	mint	centos	linux	debian	linux	debian	centos	debian	mint	ubuntu	mint	ubuntu	debian	ubuntu	centos	ubuntu	linux
+pattern4	
+i highly recommend linux mint for home systems and vanilla debian ubuntu server edition or centos for servers
+
+824
+ubuntu	opensuse
+pattern4	
+i d recommend ubuntu kubuntu fedora core or opensuse in that order
+
+2549
+ubuntu	linux
+pattern4	
+lots of people recommend ubuntu but i find it a little too kiddy linux
+
+5602
+ubuntu	linux
+pattern4	
+i ve used many many linux distributions and i would highly recommend ubuntu as a great distribution to learn with
+
+7187
+folder	directory
+pattern4	
+click the select directory button and nagivate to the folder in which you placed your .csv file in the first step
+
+10011
+postgresql	mysql
+pattern2	
+i have been using openx s adserver with mysql as a backend and since openx allows one to choose between mysql and postgresql i was wondering if anyone ever used postgresql and wished to talk about their experience with it here
+
+13164
+rsa	dsa
+pattern4	
+ssh-keygen defaults to creating rsa keys but gpg --gen-key prefers dsa elgamal
+
+15319
+mouse	keyboard
+pattern2	
+switches on side choose between keyboard garbage typing caps lock-toggle annoying mouse movements or all three
+
+20236
+google-chrome	safari
+pattern4	
+one reason why i prefer safari over google-chrome in windows is because it syncs my bookmarks over mobileme
+
+20236
+google-chrome	safari
+pattern2	
+one reason why i prefer safari over google-chrome in windows is because it syncs my bookmarks over mobileme
+
+24516
+opera	firefox
+pattern4	
+by the way i would recommend firefox or opera in place of ie
+
+28776
+mouse	keyboard
+pattern4	
+it s a good replacement of cmd for any command-line operations if you know or knew nc you know what i mean and from the other side the replacement of explorer if you prefer keyboard to mouse
+
+30122
+kde	gnome
+pattern4	
+click it and select gnome instead of kde
+
+32670
+fink	macports
+pattern3	
+i generally prefer using macports to fink as in my experience things tend to work better and more packages are available in macports
+
+35523
+opera	firefox
+pattern4	
+i have two images to compare opera version and firefox version
+
+37553
+punctuation	words
+pattern4	
+for some reason excel violates this standard and often selects punctuation along with the words
+
+44421
+xfce	gnome	xfce	kde	kde	gnome
+pattern4	
+btw i know you can run kde applications under gnome and would be very surprised if you couldn t under xfce so if you really prefer xfce overall but want to use some of the kde apps then it should not be a problem
+
+47458
+ubuntu	debian
+pattern4	
+i tend to prefer ubuntu lts or debian though i m running jaunty at the moment for various reasons
+
+52811
+virtualbox	parallels
+pattern2	
+i can t compare performance with parallels or fusion since i haven t tried them but virtualbox is good enough for me to completely forget that i m in a virtual machine when i run it
+
+60500
+gif	png
+pattern4	
+is there still any reason to prefer gif over png when creating images for web pages
+
+60500
+gif	png
+pattern2	
+is there still any reason to prefer gif over png when creating images for web pages
+
+60824
+redhat	fedora	centos	linux
+pattern4	
+personally i use redhat enterprise linux at work so from that bias i would recommend fedora or centos
+
+61467
+pull	push
+pattern4	
+the case also has a shield that partially encloses the top of the cpu fan this makes an easy path to pull cool outside air directly onto the cpu my setup or if you prefer push the hot air from the cpu outside of the case i found this less effective
+
+64359
+ubuntu	linux
+pattern4	
+once you have installed virtualbox go download yourself a distro of linux personally i would recommend ubuntu as it is very user friendly but theres a whole load of distros located here
+
+71681
+mouse	keyboard
+pattern4	
+choose keyboard mouse on general tab
+
+72293
+ubuntu	linux
+pattern4	
+boot into linux using any of the live cds i would recommend ubuntu and delete that damn folder
+
+73338
+ubuntu	linuxmint
+pattern2	
+i am using an older toshiba laptop and am very happy that i have replaced win xp with linuxmint based on ubuntu
+
+73710
+vmware	virtualbox
+pattern4	
+you might prefer virtualbox open source or vmware commercial but free versions also available which are essentially the same thing as virtual pc but do explicitly support linux
+
+77409
+vmware	virtualbox
+pattern4	
+3 purchase vmware fusion instead of virtualbox
+
+80281
+notepad++	scite	notepad++	sublimetext	sublimetext	scite
+pattern4	
+on windows between scite notepad++ and notepad2 i prefer notepad++ but sublimetext is finding its way into my arsenal
+
+80305
+filesystems	ntfs
+pattern4	
+choose ntfs in the filesystems dropdown box
+
+96790
+ubuntu	linux
+pattern4	
+i recommend ubuntu as the linux of choice
+
+97146
+portrait	landscape
+pattern4	
+in win7 if you right-click on the background and pick screen resolution you should get a dialog which has orientation among the options letting you pick landscape or portrait
+
+97516
+ubuntu	linux
+pattern4	
+i have a mostly xp for work but sometimes ubuntu dual boot laptop that i use for security outside the house and because i generally prefer linux
+
+99847
+bluetooth	usb
+pattern4	
+i m using a usb cable to eliminate any bluetooth problems and prefer usb over wi-fi sharing solutions
+
+104696
+single-quotes	double-quotes
+pattern4	
+unix shells would prefer single-quotes foo instead of double-quotes foo for complete protection from shell interpretation
+
+104821
+cvs	svn
+pattern4	
+for version control i recommend svn over cvs
+
+104821
+cvs	svn
+pattern2	
+for version control i recommend svn over cvs
+
+107646
+postgresql	mysql
+pattern4	
+my experience is that postgresql is handling complex queries much better than mysql so if you will be doing some advanced sql i can recommend postgresql
+
+108173
+filesystems	ntfs
+pattern4	
+this happens no matter which filesystems i choose ntfs fat32 exfat and also which computer i try this on
+
+114759
+google-chrome	firefox
+pattern4	
+recommend firefox or google-chrome to have this feature plus colour choices available then microsot ie may like to follow suit
+
+115056
+vim	emacs
+pattern4	
+just to avoid editor wars you could also look into emacs or another editor however i personally prefer vim
+
+116023
+google-chrome	firefox
+pattern4	
+as for download managers i use the downthemall firefox extension which may be no use to you as you presumably prefer google-chrome i know someone who uses multiget which is in either the universe or multiverse repository of ubuntu though i ve not used it myself
+
+116540
+ubuntu	mint	ubuntu	linux
+pattern4	
+general agreement with the concept as far as specifics for general out of the box browsing i recommend linux mint which is a distro that is based on ubuntu but has a lot of the browser extensions and codecs already loaded
+
+119753
+firefox	safari
+pattern4	
+i use safari on mac os myself but i d recommend firefox for your needs
+
+119932
+virtualbox	parallels
+pattern4	
+i recommend parallels desktop which i feel is better than virtualbox
+
+125211
+opensuse	linux	ubuntu	opensuse	ubuntu	linux
+pattern2	
+the mono project is produced by novell novell has a linux distro called opensuse which competes with ubuntu
+
+128386
+hide	show
+pattern4	
+if i right click the envelope and choose hide envelope i have to go into the settings and set the show envelope option to true again to see the envelope
+
+142592
+kate	kde	kate	gedit	vim	emacs	vim	gedit	vim	kate	emacs	gedit	emacs	kate
+pattern4	
+i recommend kate if you are not into editors like vim or emacs but gedit will suffice if you don t want to install the kde libraries
+
+159561
+hide	show
+pattern4	
+right click on the cell and choose show hide comments. that will force it to stay even when the mouse is not over it
+
+164272
+adium	ichat
+pattern4	
+i personally prefer adium over ichat for all my im accounts
+
+164272
+adium	ichat
+pattern2	
+i personally prefer adium over ichat for all my im accounts
+
+167001
+move	drag
+pattern4	
+you can always right-click drag and upon releasing right click select move
+
+167083
+ubuntu	debian
+pattern4	
+for development machines i also would recommend ubuntu because i like debian and you get early updates through the shorter release cycle
+
+167765
+ubuntu	linux
+pattern4	
+i prefer linux so i have a local installation of ubuntu 10.4 on my pc
+
+171952
+rar	zip	rar	gzip
+pattern2	
+the unarchiver can t be beat with zip gzip bzip2 and other archive formats but rar is something it doesn t do as splendidly
+
+173506
+kde	gnome
+pattern4	
+i m in gnome but if i logout i can get to a menu where i can choose kde as well as other window managers
+
+176674
+toolbar	tabs
+pattern4	
+i ve got all my navigation buttons and address and search fields on the file menu bar toolbar when you select tabs on top the tabs move above the bookmark toolbar which is pointless
+
+179173
+ubuntu	linux
+pattern4	
+i d recommend ubuntu for a beginner in the linux world
+
+180668
+google-chrome	firefox
+pattern4	
+i prefer google-chrome and firefox but a solution in any browser would do good
+
+185834
+spaces	delimiter
+pattern4	
+in the menubar and choose spaces as a delimiter
+
+201560
+gentoo	linux
+pattern4	
+if you want to learn linux for real i recommend gentoo
+
+205520
+hide	show
+pattern4	
+i goto the start menu and type volume and choose show or hide volume speaker icon on the taskbar and it s disabled in there and set to off
+
+206043
+robocopy	xcopy
+pattern4	
+i recommend robocopy over xcopy as it has a lot more options including keeping timestamps intact which i find essential
+
+206043
+robocopy	xcopy
+pattern2	
+i recommend robocopy over xcopy as it has a lot more options including keeping timestamps intact which i find essential
+
+206254
+norton	mcafee
+pattern4	
+i don t work for any of them but i would recommend norton over mcafee as mcafee mysteriously periodically severely slowed down my machine for a minute or so on occasions
+
+206254
+norton	mcafee
+pattern2	
+i don t work for any of them but i would recommend norton over mcafee as mcafee mysteriously periodically severely slowed down my machine for a minute or so on occasions
+
+208269
+ubuntu	linux
+pattern4	
+i would recommend ubuntu for anyone wanting to get into using linux only because things just seem to work without having to do too much mucking around
+
+208526
+button	checkbox
+pattern4	
+x bbb select checkbox radio button with description bbb
+
+208812
+ubuntu	linux
+pattern4	
+select linux and when it comes to the grub boot menu instead of pressing enter press f6 and it ll load up ubuntu
+
+210366
+mouse	keyboard
+pattern2	
+system- keyboard shortcuts - disable shortcuts for move between windows using a popup and move between windows immediately select with mouse and press backspace
+
+211881
+ati	nvidia
+pattern4	
+which family should i choose ati amd or nvidia
+
+213222
+google-chrome	safari	google-chrome	firefox	firefox	safari
+pattern4	
+as a work around i might recommend firefox in one space google-chrome in another and safari in a third.
+
+217181
+dropbox	skydrive
+pattern4	
+it s about +200gb so don t recommend dropbox skydrive or something similar
+
+217298
+spaces	delimiter
+pattern4	
+then select delimiter next and then check only the spaces option and click finish
+
+218544
+hash	md5
+pattern4	
+i m no stranger to linux bash perl etc. so i could write something to copy and compare md5 hash but i was wondering if something already exists reinvention wheels and what-not
+
+219253
+min	max
+pattern4	
+since you ve only got three levels to compare min max and middle i think this can be accomplished with a nested if statements
+
+224234
+rss	feed
+pattern4	
+select rss under accounts and uncheck box include rss feed in this send receive group and click ok
+
+224234
+rss	feed
+pattern4	
+select rss under accounts and check box include rss feed in this send receive group and click ok
+
+226741
+ethernet	wireless
+pattern3	
+a word of advice though you might find it hard to find a good wireless card for linux so i d recommend using ethernet directly hooked up to your router switch
+
+227838
+mp4	h.264	ffmpeg	handbrake
+pattern4	
+edit i would choose h.264 lossless codec and convert it using handbrake mp4 ffmpeg format
+
+229318
+filesystems	ntfs
+pattern4	
+i personally choose ntfs as filesystems for some reliability.
+
+229318
+filesystems	ntfs
+pattern2	
+i personally choose ntfs as filesystems for some reliability.
+
+230642
+udp	rtp
+pattern4	
+choose udp rtp multicast and enter the
+
+233238
+hide	show
+pattern4	
+select show hidden folders and uncheck hide system protected operating system files
+
+233667
+onenote	ms-office
+pattern4	
+of course if you re interested in only indexing and tagging these specific files i would recommend ms-office onenote it is web accesible and offers a lot of useful note-taking features
+
+245106
+daemons	systemd
+pattern4	
+be very careful not to kill daemons processes for the systemd
+
+254011
+mouse	keyboard
+pattern4	
+does it mean i have to buy keyboard and mouse from apple to make it work
+
+258230
+folder	dir
+pattern3	
+the difference is that answers to the other question and all the other help on the net recommends using dir x from the command line in order to get the 8.3 filename and then using rd - but my folder does not have an 8.3 filename
+
+260136
+ubuntu	linux
+pattern4	
+i would definitely recommend ubuntu server if you are beginning or even have administered and set up linux nix based systems before
+
+263832
+filesystems	btrfs
+pattern4	
+until a filesystems check utility is ready i would not recommend btrfs and it would probably be best to select option 3
+
+272320
+folder	directory
+pattern4	
+is it possible to show hidden system files in all directory but exclude a few select folder where hidden files or at least system files should be kept hidden
+
+280375
+mouse	keyboard
+pattern4	
+when running xephyr its window title says ctrl-shift grabs mouse and keyboard
+
+280375
+mouse	keyboard
+pattern4	
+i am using ctrl-shift left ctrl - left shift as keyboard layout switching hotkeys and it interferes with xephyr when i press them just the keyboard layout is switched xephyr doesn t grab mouse and keyboard
+
+280375
+mouse	keyboard
+pattern4	
+ideally i would like a virtualbox-like behavior xephyr window would grab mouse and keyboard when i mouse click on it and would release mouse and keyboard when i press the right ctrl
+
+281859
+disk	ram	ubuntu	linux
+pattern4	
+i prefer ubuntu as host as this way linux is managing the machine and it is a lot better at this task than windows as it requires less ram and cpu and is better to manage partitions and disk sanity or recovering
+
+293256
+move	drag
+pattern4	
+in xp when i had a window on the projector display say firefox and the projector was powered off all i did was right click firefox on the task bar select move and blindly drag it over to my main display
+
+294609
+google-chrome	firefox
+pattern2	
+also i don t want to use firefox unless i have to i have three other machines all using google-chrome and synced and i just prefer it over firefox
+
+300474
+diffmerge	winmerge
+pattern4	
+i prefer winmerge to diffmerge
+
+300737
+vmware	virtualbox
+pattern4	
+as well with vmware as said before i highly recommend virtualbox
+
+307034
+hide	show
+pattern4	
+in windows 7 you can select show hidden files folders and drives but keep checked hide protected operating system files recommended to keep the desktop.ini and a few other items hidden from view
+
+307857
+logmein	hamachi
+pattern4	
+personally i would recommend logmein hamachi and realvnc logmein free
+
+312800
+kde	gnome
+pattern4	
+kde works fine though i ve decided i prefer gnome aesthetically
+
+314261
+google-chrome	firefox
+pattern3	
+i recommend using firefox or google-chrome instead of ie but any are ok as long as they are kept up to date
+
+316852
+lan	localhost
+pattern4	
+under the connections tab choose lan setting - select use proxy server and enter localhost and port 8118
+
+319446
+folder	directory
+pattern4	
+i usually press tab to select directory on windows how do i ask it not consider internal svn folder .svn
+
+324829
+google-chrome	firefox
+pattern4	
+i go into tools options personal stuff and click on import data from another browser then select firefox from the dropdown menu and uncheck everything except saved passwords then click import and voila the saved username and password i had for the website in firefox is now in google-chrome
+
+327836
+vmware	virtualbox
+pattern4	
+at this point of time i d recommend virtualbox over vmware server since vmware seems to have eoled vmware server
+
+327836
+vmware	virtualbox
+pattern2	
+at this point of time i d recommend virtualbox over vmware server since vmware seems to have eoled vmware server
+
+329598
+vmware	virtualbox
+pattern3	
+if you can convert a raw to a vmdk using vboxmanage i would the recommend using vmware or workstation for sure or virtualbox not so sure
+
+337248
+portrait	landscape
+pattern4	
+while you probably could build a workaround see dave peterson s links to pearson s post in why not use the direct values in the spreadsheet or let the use pick portrait landscape etc with data validation but then use a formula to return the correct constant values 1 2
+
+345098
+hide	show
+pattern4	
+to show file extensions choose hide extensions for known file types from the big list under advanced settings on the view tab
+
+347141
+mp3	flac
+pattern4	
+i found how to compare mp3 flac audio data in a file ignoring header data id3 tag etc
+
+347590
+ethernet	wireless
+pattern4	
+i put my script that i use in this question wired and wireless connections make windows prefer ethernet when connecting to a specific other computer in the network
+
+355768
+textmate	sublimetext
+pattern4	
+this article on nettuts has some great reasons why sublimetext beats textmate
+
+356332
+google-chrome	firefox
+pattern2	
+use tools like tcpview or netstat to figure out what exactly happens with the connections try to compare them between firefox and google-chrome to see what happens for both
+
+359191
+photoshop	fireworks
+pattern4	
+so just like chrome or firefoxâ or any program when there are multiple instances of it runningâ i would like to scroll over an adobe icon and have the popup to pick photoshop illustrator fireworks flash premiere et cetera
+
+366753
+google-chrome	firefox
+pattern4	
+that said i have updated cmd + option + f to be cmd + k to match firefox and i think google-chrome
+
+371909
+google-chrome	firefox
+pattern4	
+if i compare firefox to other browsers like google-chrome or epiphany firefox takes ages to load and behaves very slow
+
+374109
+ubuntu	debian
+pattern4	
+but personally i prefer debian over ubuntu
+
+374109
+ubuntu	debian
+pattern2	
+but personally i prefer debian over ubuntu
+
+375839
+folder	directory
+pattern4	
+will match everything in your current folder except files that start with . it will theoretically also match directory even though it usually doesn t matter much
+
+379447
+thin	webrick
+pattern4	
+if you prefer thin you need to start server with thin start or webrick will be started
+
+382879
+smtps	smtp-auth
+pattern4	
+for smtps pick smtp-auth
+
+384679
+ubuntu	linux
+pattern4	
+it s a decent os but i prefer ubuntu and do all my work in linux
+
+386066
+bmp	png
+pattern3	
+i d recommend using png over bmp unless you can t for compatibility reasons
+
+389693
+kde	gnome
+pattern4	
+when the login screen comes you select the user from the list there in the bottom of the login screen you should see one drop down menu with the options kde gnome.. you just select gnome and enter the password then you will login into gnome session
+
+393016
+tunnel	vpn
+pattern4	
+if you mention ssl tunnel i would prefer vpn solution than that
+
+404127
+mouse	keyboard
+pattern4	
+i fixed this by going into workstation preferences and unselecting grab keyboard and mouse input on mouse click
+
+415192
+bluetooth	usb
+pattern2	
+usb is not an option since it ll give away up to 2.5w to your phone and softap eats far more in terms of power consumption if you compare it with bluetooth
+
+421747
+mouse	keyboard
+pattern2	
+copy select with mouse no keyboard interaction
+
+424236
+rar	zip
+pattern4	
+select rar or zip
+
+426638
+ubuntu	linux
+pattern4	
+after a fresh installation of ubuntu linux 11.04 under lenovo g570 when i choose ubuntu linux 11.04 in grub menu ubuntu freezes in a black screen and even hiting ctrl+alt+f1-f10 didn t make any difference
+
+428848
+hide	show
+pattern4	
+in word 2010 if i create a new style paragraph or linked and then in the home tab | styles pane | style manager on the recommend tab choose hide saving as wordxml ooxml and inspecting the style show it as semihidden
+
+431530
+portrait	landscape
+pattern2	
+if it s possible to choose between portrait and landscape orientation of monitors that would be a bonus
+
+435875
+ubuntu	debian
+pattern4	
+i prefer debian flavors so i would maybe take a look at either the debian ppc or ubuntu ppc releases to begin with
+
+437778
+hide	show
+pattern4	
+then choose show hidden files and folders and clear the checkbox that says hide protected operating system files
+
+438167
+installation	upgrade
+pattern4	
+you could also find an installation cd and select upgrade which then gives you the option to automatically install new updates in one of the pre-installation setup screens
+
+438942
+asterisk	pbx	asterisk	freeswitch	freeswitch	pbx
+pattern4	
+you can rent a vps install a pbx software i personally prefer freeswitch but asterisk would also do the job and connect it to your sip provider s
+
+441268
+hfs+	ntfs
+pattern3	
+what i am asking is whether you d recommend using hfs+ for this data partition and macdrive to access it on windows or format it as ntfs and use tuxera ntfs for mac to write to the ntfs disc
+
+452759
+debian	linux
+pattern4	
+so i prefer linux debian software but any windows software that can run under wine or mono would be okay too
+
+483254
+hide	show
+pattern4	
+under hidden files and folders click to select show hidden files and folders and then click to clear the hide protected operating system files recommended check box
+
+486936
+octal	decimal
+pattern4	
+you can use flat or dotted-quad or dotted-triple dotted-double or even dotted-single format and for each one you can use or even mix and match decimal octal and hexadecimal
+
+490206
+versioning	upgrade
+pattern4	
+will i be able to purchase upgrade key for pro versioning upon release date 26 oct
+
+490526
+filesystems	ntfs
+pattern4	
+make sure to select ntfs as the filesystems and a quick format is ok to run
+
+491063
+folder	directory
+pattern4	
+click on the folder image to switch from breadcrumb to directory mode and change the folder to c programdata microsoft windows start menu programs and hit select folder it will be something else by default.
+
+499709
+ubuntu	linux
+pattern4	
+copy all of your boot files from the new install to the broken one using a linux livecd i would recommend ubuntu as it comes with gparted software which will allow you to do the aforementioned partitioning changes
+
+499709
+ubuntu	linux
+pattern4	
+if it doesn t doesn t consider using a linux livecd i prefer ubuntu a very user-friendly distro to copy your data over to a new install of windows either disk-to-external-media-and-back-to-disk or just into a new windows partition
+
+499873
+ubuntu	linux
+pattern4	
+to boot into ubuntu select ubuntu with linux
+
+499873
+ubuntu	linux
+pattern2	
+to boot into ubuntu select ubuntu with linux
+
+502425
+filesystems	ntfs
+pattern4	
+choose filesystems before formated i took the ntfs
+
+505172
+ubuntu	centos
+pattern2	
+use grub to choose between centos and ubuntu
+
+507386
+ffmpeg	libav
+pattern2	
+what exactly is libav doing better and why would i want to choose it over ffmpeg
+
+509176
+switching	screens
+pattern4	
+while this does not directly answer your question i strongly recommend switching from screens to tmux if possible
+
+509353
+vim	emacs
+pattern4	
+you can write your basic applications in whatever text editor or ide you d like i recommend emacs others may recommend vim eclipse or something else
+
+509353
+vim	emacs
+pattern4	
+you can write your basic applications in whatever text editor or ide you d like i recommend emacs others may recommend vim eclipse or something else
+
+511260
+postgresql	mysql
+pattern4	
+don t compare postgresql with mysql two very different databases
+
+511260
+postgresql	mysql
+pattern2	
+don t compare postgresql with mysql two very different databases
+
+512000
+vpn	lan
+pattern4	
+i switched on ics on vpn connection and choose lan as a target
+
+513057
+bash	tcsh
+pattern4	
+btw i prefer bash to tcsh primarily due to its convenience of histignore and histcontrol although tcsh also has histdup setting
+
+519082
+kde	gnome
+pattern2	
+when i was installing the system i was asked to choose between kde and gnome and i chose kde
+
+521861
+stdout	stderr
+pattern4	
+the 2 1 makes sure we grab stderr and stdout while tee forks a log to disk
+
+523192
+move	drag
+pattern4	
+can i just right-click drag the folders into the trunk folder and then under tortoisesvn select move
+
+525085
+hide	show
+pattern4	
+i am pretty sure that in windows xp if you go into the folder options and then select show hidden files folders and drives and also uncheck hide protected operating system files then windows explorer will show you all files
+
+532524
+versioning	upgrade
+pattern4	
+is there any way to buy upgrade licenses over the limit say some boxed retail versioning
+
+535873
+opera	firefox
+pattern4	
+i ve read firefox will soon have such an option but i prefer opera at the moment.
+
+544542
+ssd	sata
+pattern4	
+i want to buy ssd and connect it to my super old system motherboard with sata1 yes satai sata 1.5gbit s chipset is nforce3 250.i want to buy ssd sata3 with looking into future so my question is ssd sata3 can work with sata1
+
+544542
+ssd	sata
+pattern4	
+i want to buy ssd and connect it to my super old system motherboard with sata1 yes satai sata 1.5gbit s chipset is nforce3 250.i want to buy ssd sata3 with looking into future so my question is ssd sata3 can work with sata1
+
+548147
+filesystems	ntfs
+pattern4	
+for filesystems choose ntfs
+
+549885
+vmware	virtualbox
+pattern4	
+if you ask around you will find people who recommend vmware instead of virtualbox
+
+556980
+mouse	trackpad
+pattern4	
+i solved it in fact using the solution of going to the control panel choose mouse settings and the last tab can let me fine tune the synaptics trackpad s settings
+
+582556
+ubuntu	linux
+pattern4	
+click on new or machine new give it a name select linux and ubuntu
+
+589666
+ubuntu	linux
+pattern4	
+ultimately though it s just a matter of preference i for example prefer linux for the focus on having the newest stuff and cause i m accustomed to it the most specifically ubuntu or debian-type distros while others may prefer bsd for the stability of the packages
+
+604650
+wan	lan
+pattern4	
+be careful to choose wan to lan since the lan to lan option should be the one that you use to access the configuration
+
+607905
+ubuntu	debian
+pattern4	
+to my mind i would prefer debian ubuntu is based on debian well known as stable long term support only and free of any proprietary software or drivers
+
+614016
+versioning	upgrade
+pattern4	
+but i don t buy upgrade versioning of windows so i haven t checked that eula
+
+617721
+notepad++	sublimetext
+pattern3	
+i like the look of sublimetext 2 but i prefer using notepad++ as my default text editor
+
+624806
+vmware	virtualbox	virtualbox	parallels
+pattern4	
+compare virtualbox with vmware fusion and parallels for mac
+
+624806
+vmware	virtualbox	virtualbox	parallels
+pattern2	
+compare virtualbox with vmware fusion and parallels for mac
+
+632513
+x86	64bit
+pattern4	
+so just choose x86 amd64 provided you are running a 64bit os
+
+635469
+hide	show
+pattern4	
+in order to copy them you must first open folder options view tab then 1 choose show hidden files folders and drives and 2 uncheck hide protected operating system files
+
+641890
+vlookup	countif
+pattern4	
+i ve tried countif match vlookup and index functions
+
+647737
+macports	homebrew
+pattern3	
+i would recommend using homebrew instead of macports
+
+648483
+ubuntu	linux
+pattern4	
+you can always use a bootable linux usb drive i recommend ubuntu
+
+649788
+versioning	upgrade
+pattern4	
+if the pcs have oem licenses but you wish to use a different versioning of windows for instance they are licensed for windows vista or 7 home premium and you want 7 professional you can buy upgrade licenses to replace them
+
+650468
+ubuntu	linux
+pattern4	
+windows dosen t really have the fun disk imaging tools - i d boot into a linux livecd i prefer ubuntu install the gnu ddrescue not to be confused with the other sort and use that to image the drive
+
+652077
+afp	smb
+pattern2	
+if you click the options button in the file sharing settings screen it will give you the option to pick between smb and afp
+
+655537
+filesystems	ntfs
+pattern4	
+some operating systems prefer a particular filesystems in order to work for instance newer versions of windows prefer ntfs
+
+661639
+ubuntu	debian
+pattern4	
+so all of these distributions are ok but i wouldn t recommend ubuntu lts or debian stable for a software programmer unless they re more happy with a stable desktop and solid security updates that is kept that way for a long time
+
+662848
+udp	tcp
+pattern4	
+in the protocol drop-down list select tcp udp or both default
+
+665460
+filesystems	ntfs	filesystems	fat
+pattern4	
+ntfs can store files larger than 4gb so if your flash drive is 4gb or less then choose ntfs anyways because the fat filesystems suffers from worse performance issues due to fragmentation
+
+675658
+udp	tcp
+pattern4	
+select tcp or udp as protocol or select both
+
+676231
+debian	linux	ubuntu	debian	ubuntu	linux
+pattern4	
+i choose linux and it gave me the sub category to choose from a whole bunch of versions such as debian ubuntu other and the 64 bit versions of them
+
+681529
+kde	gnome
+pattern4	
+kde k desktop environment is an alternative gui for gnome some people prefer kde over gnome for some reason since they are basically similar
+
+681529
+kde	gnome
+pattern2	
+kde k desktop environment is an alternative gui for gnome some people prefer kde over gnome for some reason since they are basically similar
+
+687183
+vmware	virtualbox
+pattern2	
+you can install it on a separate box but having a pc with a decent cpu with hardware virtualization and plenty of ram will also allow you to install and run it in in a vm for example vmware which i prefer over virtualbox which when i tried it quite some time ago had lots of trouble with usb pass-through - but this might have been fixed since then though
+
+689756
+disk	ram
+pattern4	
+checking if ram files match disk files is as slow as simply reading from the disk so it would defeat the purpose
+
+693718
+wan	lan
+pattern4	
+there you will see two direction select lan and wan
+
+696052
+spaces	delimiter
+pattern4	
+or you can import the data directly from text data -- import from text and choose spaces character as delimiter
+
+699594
+udp	tcp	tunnel	vpn	tunnel	packets
+pattern4	
+similarly while some vpn s openvpn for example can create tcp tunnel i think you will find most prefer udp tunnel as they are more tolerant of packets loss
+
+707313
+ubuntu	mint	ubuntu	linux
+pattern4	
+download any linux live cd i prefer ubuntu or linux mint and boot your system using it
+
+709599
+vmware	virtualbox
+pattern4	
+i know vmware beats virtualbox in this area for windows but i haven t tested it for linux so i can t judge which one is better if you want to do things like watch videos or play some low-end graphic games
+
+709599
+vmware	virtualbox
+pattern4	
+short answer i feel that virtualbox outperforms vmware with linux guests in almost all areas but i didn t provide any proof making this a rather mediocre answer but better than no answer
+
+710338
+apache	nginx
+pattern4	
+and in the amount of requests served per second nginx beats apache by a wide margin
+
+720812
+disk	ram
+pattern4	
+so with that in mind given that mavericks and ssd based mac s usually come with a lot of ram i used to look for disk thrashing conditions because you cannot see them or hear them if they are ssd s a la the activity monitor because such conditions are like race disk swapping conditions and i m sure such an event could feasibly destroy an ssd in no time at all if an os were to let that occur but given that the load leveling is smart load leveling performed by the ssd itself i stopped being concerned as much with examining maverick s notion of thrashing which actually has become harder to deduce given the current dummied down activity monitor in mavericks
+
+723712
+folder	directory
+pattern4	
+if you just want to incrementally create directory that are listed in the correct order may i instead recommend folder that are named based on the current date
+
+723862
+udp	tcp
+pattern4	
+select tcp or udp if that is what you require and specific local ports and then write your
+
+726398
+hide	show
+pattern4	
+then choose show hidden files and folders and clear the checkbox that says hide protected operating system files
+
+730665
+filesystems	ntfs
+pattern4	
+for filesystems i recommend ntfs unless you re planning on using the hdd on both mac and windows then choose exfat
+
+732790
+filesystems	ntfs
+pattern4	
+i d prefer ntfs since fat32 isn t really a filesystems
+
+733461
+mouse	keyboard
+pattern4	
+i.e. i didn t find the grab keyboard and mouse input on mouse click preferences in vmware player
+
+734650
+mouse	keyboard
+pattern4	
+i need that because i prefer keyboard to mouse and it s faster for instance to just press win+r - type cmd and press enter
+
+734820
+ubuntu	mint	ubuntu	linux
+pattern4	
+for â beginnersâ regarding linux i d recommend linux mint which is basically an ubuntu with a more familiar user interface
+
+736522
+onenote	ms-office
+pattern4	
+take a look at the features when you purchase onenote with ms-office 365 and compare to free version hope this was helpful
+
+736522
+onenote	ms-office
+pattern2	
+take a look at the features when you purchase onenote with ms-office 365 and compare to free version hope this was helpful
+
+740538
+button	checkbox
+pattern4	
+each mixer stripe can have volume and balance sliders a mute select checkbox and an advanced parameters button
+
+749194
+filesystems	ntfs
+pattern4	
+select ntfs in the filesystems field
+
+755694
+filesystems	ntfs
+pattern4	
+select ntfs as your filesystems
+
+755759
+xfce	kde
+pattern4	
+before anything else try xfce by switching your default desktop log out and select xfce before logging in or change it by whatever interface kde uses for a login manager
+
+766990
+hide	show
+pattern4	
+when it hide i click customize in the system tray and select show icon and notifications for both instances of hangouts that show up in the list
+
+767314
+octal	binary
+pattern4	
+prefer binary octal or hexadecimal
+
+769030
+ubuntu	linux
+pattern4	
+i prefer linux ubuntu for this
+
+770991
+cvs	svn
+pattern4	
+personally i recommend cvs svn mercurial and git
+
+771659
+ati	nvidia
+pattern4	
+i m not stuck with kepler but i d rather prefer nvidia over ati
+
+771659
+ati	nvidia
+pattern2	
+i m not stuck with kepler but i d rather prefer nvidia over ati
+
+774483
+ubuntu	linux
+pattern4	
+get a linux live cd i would recommend ubuntu or any gparted containing live cd
+
+778996
+textwrangler	bbedit
+pattern4	
+if you want a gui editor i tend to recommend textwrangler or its big brother bbedit for editing files like this since they re good about not adding spurious helpful things to the files you edit and also can use admin rights to edit system files like etc hosts
+
+783243
+ubuntu	linux
+pattern4	
+when i start may computer soon after i choose linux in grub my screen turns black and ubuntu does not start
+
+797517
+debian	linux	ubuntu	debian	ubuntu	linux
+pattern4	
+use whichever linux flavour you are most familiar with ubuntu is probably a good choice but i prefer debian
+
+801630
+filesystems	ntfs
+pattern4	
+note in both windows i select filesystems ntfs and allocation unit size 4096
+
+816136
+udp	tcp
+pattern4	
+select protocol to be tcp or choose udp
+
+822662
+button	checkbox
+pattern4	
+user selects checkbox couple of documents and clicks on print button printer a
+
+823668
+notepad++	sublimetext
+pattern2	
+this is how it works in sublimetext anyway which i personally prefer over notepad++
+
+826656
+opensuse	linux
+pattern4	
+the operating system will be linux i would prefer opensuse but it s not a strict requirement
+
+836427
+vcard	vcf
+pattern4	
+select vcard vcf file
+
+840162
+portrait	landscape
+pattern4	
+if you set the margins or use default margins for a portrait layout and then select landscape the margins don t automatically reverse orientation
+
+849399
+wan	lan
+pattern4	
+and here is a breakdown of all of the debugging ideas that come to mind when dealing win lan wan networking issues like this
+
+849791
+folder	directory
+pattern4	
+is it possible to select folder located in different levels of the directory structure in windows explorer
+
+850722
+onenote	ms-office
+pattern4	
+using your screenshot as an example if you decide that you need onenote after all you can simply re-run ms-office setup and select onenote
+
+861561
+multiplying	add	multiplying	subtract	subtract	add
+pattern4	
+...in which you select a number in one cell then paste special to a new range of cells and within paste special you can select add subtract multiplying or divide
+
+864728
+mouse	trackpad
+pattern4	
+select mouse and trackpad
+
+864728
+mouse	trackpad
+pattern4	
+select mouse and trackpad
+
+864728
+mouse	trackpad
+pattern4	
+select mouse and trackpad
+
+866433
+spaces	delimiter
+pattern4	
+extracting the initial can easily be done with the text-to-columns function if you select delimiter with spaces as the delimiter
+
+866433
+spaces	delimiter
+pattern2	
+extracting the initial can easily be done with the text-to-columns function if you select delimiter with spaces as the delimiter
+
+870295
+spaces	delimiter
+pattern4	
+original data type if items in the text file are separated by tabs colons semicolons spaces or other characters select delimiter
+
+871162
+logmein	hamachi
+pattern4	
+but red alert 3 will not work over hamachi logmein even when i choose hamachi s ip from the game s options
+
+874385
+pppoe	dhcp
+pattern4	
+note i ve used all default settings for the networks and the router except that i had to select pppoe and dynamic ip and disable dhcp to make internet work on the wifi networks
+
+877779
+hide	show
+pattern2	
+so if you use the copy as picture message select as show when printed to hide grid lines
+
+894535
+apache	nginx
+pattern4	
+i ve decided to use nginx which beats apache hard in the number of simultaneous connections
+
+896456
+mouse	keyboard
+pattern4	
+all i had to do was right click on the bluetooth icon and select add a device from the context menu and select keyboard mouse
+
+896971
+ubuntu	mint	ubuntu	linux
+pattern4	
+my question is is it safe to update linux mint s repositories to match ubuntu s replacing trusty with utopic in the files in etc apt sources.list and etc apt sources.list.d
+
+898261
+google-chrome	firefox
+pattern4	
+this lack of ctrl + tab for last used tab support is why i still favor firefox over google-chrome
+
+898261
+google-chrome	firefox
+pattern2	
+this lack of ctrl + tab for last used tab support is why i still favor firefox over google-chrome
+
+899260
+hash	md5
+pattern4	
+also nice is that quickhash works on all platforms and computes compares hash from md5 thru sha512 used on live updated isos
+
+900362
+xfs	btrfs
+pattern4	
+if the main use case is storing vm images or databases and you are not interested in accepting the potential performance issues in order to get the data integrity advantages of btrfs then i can t think of any reason why you would want to choose btrfs over xfs or ext4
+
+900362
+xfs	btrfs
+pattern2	
+if the main use case is storing vm images or databases and you are not interested in accepting the potential performance issues in order to get the data integrity advantages of btrfs then i can t think of any reason why you would want to choose btrfs over xfs or ext4
+
+901416
+cifs	smb
+pattern4	
+under mounting type select smb cifs
+
+914033
+mouse	keyboard
+pattern4	
+launch setpoint by clicking the setpoint icon setpoint icon in the notification area and select mouse and keyboard settings
+
+938324
+ssd	sata
+pattern4	
+under hardware select sata sata express and select the ssd
+
+938845
+hide	show
+pattern4	
+choose show hidden files and folders and also uncheck the hide protected operating system files
+
+944787
+kde	gnome
+pattern4	
+i didn t install anything from that live usb i installed kde on my current installation of fedora because i didn t want to lose gnome maybe i would like to use it some day
+
+945321
+robocopy	xcopy
+pattern4	
+as a last resort a robocopy answer may be acceptable but i would really prefer xcopy without duplicating the parameter
+
+945812
+button	checkbox
+pattern4	
+there is a button for the ease of access tools on the log-on screen where you can select checkbox
+
+947394
+installation	upgrade
+pattern4	
+if you don t want to create installation media for future use on the same or different system just select upgrade this pc now -
+
+949478
+vmware	virtualbox
+pattern4	
+i would personally recommend virtualbox as it is cross platform free unlike vmware and can save disk images in lots of different formats
+
+959493
+hide	show
+pattern4	
+try going into control panel folder options and on the view tab under hidden files and folders select show hidden files folders and drives and further down uncheck hide protected operating system files recommended
+
+963498
+debian	linux
+pattern2	
+i had grub as bootloader in my pc which allows me to select between debian linux and windows vista home premium
+
+963545
+installation	upgrade
+pattern4	
+when you choose upgrade as the installation method you should lose no user data on hdd
+
+965195
+16-bit	64bit
+pattern2	
+given that i would recommend going with 64bit unless you use 16-bit software or are absolutely sure you will never upgrade the machine
+
+970090
+installation	upgrade
+pattern4	
+2.after temporary installation files are unpacked select upgrade this pc now and click next
+
+970628
+firefox	safari
+pattern4	
+all other browsers ie edge firefox old win safari render correctly
+
+973512
+sudo	passwd
+pattern4	
+i m logged in automatically as expected but when i try to run some command with sudo i enter the passwd and when i press the enter key nothing happens i have to kill sudo with ctrl+c the same happens when running sudo -s
+
+976250
+uninstall	upgrade
+pattern2	
+if you re in win 10 after upgrade and didn t uninstall cisco first you likely have no networking ability
+
+980879
+ubuntu	mint	ubuntu	linux
+pattern4	
+if i select fedora the grub prompt appears and if i select ubuntu i get the grub menu to choose ubuntu linux mint or windows
+
+980879
+ubuntu	mint	ubuntu	linux
+pattern4	
+if i select fedora the grub prompt appears and if i select ubuntu i get the grub menu to choose ubuntu linux mint or windows
+
+983294
+installation	upgrade
+pattern2	
+in general i recommend against upgrade installation
+
+991356
+fink	homebrew	fink	macports	macports	homebrew
+pattern4	
+to get it i would start by installing macports some prefer homebrew or fink and install the git package using the port command
+
+992723
+vmware	virtualbox	virtualbox	parallels
+pattern3	
+i recommend using virtualbox vmware fusion or parallels to virtualize windows for you
+
+992972
+google-chrome	firefox
+pattern3	
+if that does not work i would recommend downloading google-chrome or firefox and setting it as the default
+
+994134
+xmodem	zmodem
+pattern4	
+i have also tried hyperterminal on windows 8 but i keep having time-outs when using the file transfer for whatever protocol i select xmodem zmodem etc.
+
+994903
+union	distinct
+pattern4	
+db union select distinct
+
+994903
+union	distinct
+pattern4	
+tables_priv union select distinct
+
+994903
+union	distinct
+pattern4	
+columns_priv union select distinct
+
+995263
+google-chrome	firefox
+pattern3	
+but if you re planning to port google-chrome extensions over to firefox with an eye towards the future then i recommend installing firefox nightly and getting your hands dirty with the webextensions api today
+
+997523
+pop-up	dialog
+pattern4	
+when i use process.start in my .net app to open two text files in beyond compare the quick compare dialog box pop-up
+
+1007491
+versioning	upgrade
+pattern4	
+get the 1511 iso mount it in win7 run setup.exe and select upgrade to go to the november 2015 versioning of windows 10
+
+1008115
+move	drag
+pattern4	
+yes you can just pop-out each monitor onto a different tab and then you can right click on the tab and select move to new window. then you just drag it to the other monitor and you have both open at the same time
+
+1009077
+ubuntu	linux
+pattern4	
+if you do insist on going the hard way and assuming the laptop has soem lan connection the most promising way is to set aside a small partition on the harddisk install one of the easier linux distributions on it i recommend ubuntu and then use tools such as lio or ietd to create an iscsi target on the rest of the harddisk
+
+1011481
+range	max
+pattern4	
+in this cell i have the following function offset startcell match max range +1 range 1 -1 0
+
+1016375
+switching	screens
+pattern4	
+if you don t try switching off from the user select screens after windows boots by holding down the physical power button on your computer rather than the virtual one with your mouse
+
+1019931
+vim	emacs
+pattern4	
+i prefer emacs but this argument is also valid for vim
+
+1025173
+ubuntu	linux
+pattern2	
+in other words the computer boots linux grub i have to choose between ubuntu and w7 if i choose windows 7 then the windows 10 boot suggests me to choose between windows 10 or windows 7
+
+1026552
+wan	lan
+pattern4	
+when you create the seed and the exe using the deepfreeze admin console there is an option to select lan or lan wan access on the advanced-options tab
+
+1026552
+wan	lan
+pattern4	
+you select lan wan and put in the ip address of the deepfeeeze console pc and thatâ s it really
+
+1031070
+folder	directory
+pattern4	
+if the folder structures match and the files haven t been renamed you can use diff -r meld or whatever tool which compares folder and it stops to work if you rename files or even directory
+
+1038127
+gif	png
+pattern4	
+if i m about to paste say a graph copied from excel just the default copy command i can select paste special in word to get a dropdown menu to select png jpg gif and a few others
+
+1039317
+spaces	delimiter
+pattern4	
+you just have to select spaces and merge delimiter
+
+1055351
+google-chrome	firefox
+pattern4	
+i personally prefer firefox over chromium google-chrome on all my devices but at work a certain software manufacturer is unable to publish the vital browser extension as a signed firefox extension and ms edge for the particular product
+
+1056457
+min	max
+pattern4	
+i imagine i ll be trying something using index match max and min with some ifs thrown in
+
+1063113
+spaces	linefeed
+pattern4	
+this only matches spaces tab and linefeed
+
+1067543
+spaces	delimiter
+pattern4	
+either select delimiter then press next and select spaces as delimiter
+
+1067543
+spaces	delimiter
+pattern4	
+either select delimiter then press next and select spaces as delimiter
+
+1067543
+spaces	delimiter
+pattern2	
+either select delimiter then press next and select spaces as delimiter
+
+1073872
+installation	upgrade
+pattern4	
+run it and select upgrade this computer or you can select create installable media dvd usb if you want to make clean installation but it wasn t my case - download will start immediately
+
+1074281
+ubuntu	linux
+pattern3	
+all the other solutions i ve seen recommend booting linux somehow and then fixing it from there but i don t even have ubuntu installed only windows 8.1
+
+1075446
+ubuntu	linux
+pattern2	
+linux would be a viable option but if you re going to go that route i d recommend starting with ubuntu or one of their more user friendly shells
+
+1085924
+imagemagick	graphicsmagick
+pattern4	
+in general i prefer graphicsmagick over imagemagick since i find the former
+
+1085924
+imagemagick	graphicsmagick
+pattern2	
+in general i prefer graphicsmagick over imagemagick since i find the former
+
+1088146
+hide	show
+pattern4	
+select show hidden files folders and drives and uncheck hide protected operating system files
+
+1099513
+spaces	delimiter
+pattern4	
+select the column with the names go to data - text to columns - select delimiter - next - select just spaces as your delimiter - next - finish
+
+1112338
+installation	upgrade
+pattern4	
+1 run the windows home installation disc and choose upgrade and let the magic happen
+
+1112706
+ubuntu	linux
+pattern4	
+i recommend ubuntu server or desktop either or will work and is more user friendly then most other linux distros
+
+1117803
+ubuntu	linux
+pattern4	
+now the thing is i m sure both windows 10 and linux lubuntu are installed on uefi mode however there s no entry in the boot order to let me select ubuntu or grub as the prefered boot option
+
+1119009
+debian	linux
+pattern4	
+choose linux then debian 7.x 64-bit then next
+
+1130252
+range	max
+pattern4	
+match max q2 s2 q2 s2 0 locates that value in the range giving you a position number
+
+1139145
+icmp	udp
+pattern4	
+traceroute varies increments the udp destination port number for each probe sent out in order to reliably match icmp ttl exceeded messages to individual probes
+
+1141238
+installation	upgrade	installation	downgrade	versioning	upgrade
+pattern4	
+next insert your windows installation disk select upgrade and your windows 7 enterprise will be downgrade to the versioning you have specified
+
+1146328
+daemons	systemd
+pattern4	
+alternatively it might be possible to opt out of indirection in the init.d script but then you would also lose systemd s service tracking entirely â your daemons will look like a regular user process
+
+1148114
+logmein	hamachi
+pattern2	
+in the place i previously worked we actively blocked all urls and ips associated with https vpn proiders suck as logmein hamachi etc
+
+1149628
+filesystems	ntfs
+pattern4	
+2 - format your flash drive and choose ntfs as filesystems
+
+1149628
+filesystems	ntfs
+pattern2	
+2 - format your flash drive and choose ntfs as filesystems
+
+1160440
+mouse	keyboard
+pattern2	
+also if to remove all shortcuts from the settings then holding win cmd on apple keyboard followed by space press multiple times to iterate the list or 1 2 3.. or select with mouse works well too
+
+1169392
+portrait	landscape
+pattern4	
+5 look at the screen details there is one titles orientation using the drop down menu choose landscape or portrait
+
+1170487
+filesystems	fat
+pattern4	
+step 4.1.2 choose fat as the filesystems
+
+1170780
+portrait	landscape
+pattern2	
+you will be asked to select between landscape and portrait
+
+1180687
+inherited	properties
+pattern4	
+right-click the foldera2 select properties kbd security kbd tab kbd advanced kbd kbd disable inherited kbd select the convert inherited permissions into explicit permissions on this object option and then click kbd apply kbd kbd ok kbd
+
+1182556
+hash	md5
+pattern4	
+eeaa s answer is good but i would recommend md5 hash because it would be faster and in this case you don t care about security
+
+1189164
+switching	screens
+pattern4	
+at the final screens select switching to complete the process
+
+1203383
+filtering	grouping
+pattern4	
+you can also use filtering to select grouping of programs by username window title memory usage etc - see taskkill
+
+1205411
+switching	screens
+pattern4	
+i would recommend switching back to bios and using --bioslogodisplaytime to adjust the bios splash screens afterward
+
+1209400
+bluetooth	usb
+pattern4	
+i have a raspberry pi model 3b+ running the latest rasbian the phone is running android 6.0 marshmallow i think. tethering via usb cord works perfectly but i would rather go wireless and ad-hoc wi-fi is not an option so i would prefer bluetooth all help appreciated
+
+1211781
+debian	linux
+pattern4	
+if you are prepared to learn some linux configuration magic then any of the linux distributions would do you - i d recommend debian as it is stable simple and well supported
+
+1216052
+ubuntu	mint	ubuntu	linux
+pattern4	
+if you had been using an external raid storage system chances are that they are in ext3 or ext4 linux the most easy way to diagnose them is to download a linux image and put it on a usb stick i can recommend linux mint or ubuntu but any will do it fine
+
+1222652
+switching	screens
+pattern4	
+at the top of your screens click view then select switching to scaled view
+
+1223801
+ethernet	wireless
+pattern4	
+also i have to change network adapter often i prefer ethernet but sometimes i have to work wireless
+
+1226869
+tunnel	vpn
+pattern4	
+you could also buy secure shell server ssh service just as you could purchase vpn or proxy server service establish an ssh connection to the ssh server and tunnel network traffic web browser traffic through the ssh connection
+
+1228617
+portrait	landscape
+pattern4	
+first use the page setup dialog to specify a4 paper and choose portrait or landscape mode
+
+1240463
+ubuntu	debian
+pattern4	
+let s compare debian ubuntu layout with arch layout
+
+1242681
+mathml	tex
+pattern4	
+copy whole of it as latex in mathtype preferences - cut and copy preferences - choose mathml or tex - select latex 2.09 or later from the drop down and uncheck include mathtype data in translation
+
+1248685
+filesystems	xfs
+pattern4	
+i highly recommend xfs as a very robust journaled filesystems for video and file storage
+
+1256126
+spaces	delimiter
+pattern4	
+it will open a wizard to guide you step by step in delimiter choose spaces
+
+1257288
+opensuse	linux	ubuntu	opensuse	ubuntu	linux
+pattern4	
+but if you really want linux software you can install windows 10 then the windows linux subsystem which does allow you to use apt-get if you choose ubuntu over opensuse
+
+1257288
+opensuse	linux	ubuntu	opensuse	ubuntu	linux
+pattern2	
+but if you really want linux software you can install windows 10 then the windows linux subsystem which does allow you to use apt-get if you choose ubuntu over opensuse
+
+1268838
+vmware	virtualbox
+pattern4	
+i prefer virtualbox myself since it s free and open-source and simple to use for beginners but you can choose vmware as well - both will work pretty much the same
+
+1268838
+vmware	virtualbox
+pattern4	
+i prefer virtualbox myself since it s free and open-source and simple to use for beginners but you can choose vmware as well - both will work pretty much the same
+
+1273433
+ssd	sata
+pattern4	
+i prefer ssd disk or msata with msata to sata converter adapter from aliexpress
+
+1273458
+spaces	delimiter
+pattern4	
+on the next screen select spaces as delimiter
+
+1273458
+spaces	delimiter
+pattern2	
+on the next screen select spaces as delimiter
+
+1273459
+gedit	nano	vim	gedit
+pattern4	
+feel free to use vi vim nano if you do not prefer gedit
+
+1274227
+afp	smb
+pattern4	
+while a server offers both afp and smb the finder chooses smb as default since 10.11 i believe.
+
+1280039
+portrait	landscape
+pattern4	
+a4 or 8.5x11 choose portrait or landscape in page setup
+
+1284013
+hide	show
+pattern4	
+in windows 7 when you go to windows updates and click on the link to show detailed list of updates you can right-click on the specific update you do not want and select hide update
+
+1284331
+debian	linux
+pattern4	
+when the image below appears select debian gnu linux - continue with install process
+
+1285382
+udp	tcp
+pattern2	
+it accepts 4 ranges of ports that you can select between udp tcp and both
+
+1286115
+scatter	graphing
+pattern4	
+next create a blank scatter or line graphing with no data selected choose scatter or line from the graphing menu
+
+1287462
+filesystems	ntfs
+pattern4	
+afterwards you can exit diskpart and the command prompt and go to the diskmgmt tool in windows it can be found in the search bar and right click your flash drive select new simple volume choose ntfs as the filesystems and set it up
+
+1289251
+filesystems	ntfs
+pattern4	
+plus rufus does have logic to detect the presence of a 4gb file in an iso and select ntfs by default as the filesystems when that is the case
+
+1289949
+subscript	superscript
+pattern4	
+select position and then you can either choose subscript or superscript
+
+1291101
+debian	linux
+pattern4	
+let s compare debian stable as a candidate for point releases and arch linux as a candidate for rolling releases
+
+1291405
+google-chrome	firefox
+pattern4	
+if it is browser specific i would prefer firefox or else google-chrome or edge
+
+1295152
+ssd	sata
+pattern4	
+yes it is support buy ssd with sata connection interface with sata 3 gb s and with size 2.5â
+
+1295152
+ssd	sata
+pattern2	
+yes it is support buy ssd with sata connection interface with sata 3 gb s and with size 2.5â
+
+1298784
+filesystems	ntfs
+pattern4	
+file explorer this pc right click usb drive format choose ntfs under filesystems dropdown check quick format start
+
+1298784
+filesystems	ntfs
+pattern2	
+file explorer this pc right click usb drive format choose ntfs under filesystems dropdown check quick format start
+
+1301082
+mouse	keyboard
+pattern3	
+i prefer using keyboard shortcuts as that is way faster than using mouse clicks
+
+1302109
+portrait	landscape
+pattern2	
+there is layout where you can choose between portrait and landscape
+

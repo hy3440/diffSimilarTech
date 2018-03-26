@@ -1,0 +1,2205 @@
+974
+zsh	tcsh	bash	zsh	bash	tcsh
+pattern0	better	
+if you know zsh tcsh or something else better than bash and have a good reference manual for it don t hold back
+
+975
+bash	zsh
+pattern7	easier	
+what i have seen is that for zsh it is easier built in or turned on by default while in bash it is an addon script has to be turned on or is more difficult
+
+975
+bash	zsh
+pattern7	easier	
+what i have seen is that for zsh it is easier built in or turned on by default while in bash it is an addon script has to be turned on or is more difficult
+
+988
+vim	emacs
+pattern0	better	
+if you want an environment instead of just a text editor emacs is going to be better than vim
+
+988
+vim	emacs
+pattern0	faster	
+emacs users are going to be almost as fast as 99 of vim users and as i said in the emacs section beginning emacs users will probably be faster than beginning vim users
+
+989
+vim	emacs
+pattern10	much more	
+superficially emacs is much more bloated than vim is and so it really isn t quite so convenient to fire up as vim but i also find that the philosophies of user interface from one to the other support this paradigm
+
+989
+vim	emacs
+pattern10	much more bloated	
+superficially emacs is much more bloated than vim is and so it really isn t quite so convenient to fire up as vim but i also find that the philosophies of user interface from one to the other support this paradigm
+
+989
+vim	emacs
+pattern8	more bloated	
+superficially emacs is much more bloated than vim is and so it really isn t quite so convenient to fire up as vim but i also find that the philosophies of user interface from one to the other support this paradigm
+
+989
+vim	emacs
+pattern10	much more	
+emacs is much more built to keep you inside making things nice and comfortable so you don t have to leave whereas vim is much more unixy and sees itself as part of a greater tool-belt
+
+989
+vim	emacs
+pattern10	much more	
+emacs is much more built to keep you inside making things nice and comfortable so you don t have to leave whereas vim is much more unixy and sees itself as part of a greater tool-belt
+
+989
+vim	emacs
+pattern10	
+emacs is much more built to keep you inside making things nice and comfortable so you don t have to leave whereas vim is much more unixy and sees itself as part of a greater tool-belt
+
+989
+vim	emacs
+pattern10	
+emacs is much more built to keep you inside making things nice and comfortable so you don t have to leave whereas vim is much more unixy and sees itself as part of a greater tool-belt
+
+1010
+vim	emacs
+pattern7	usually slower	
+starting a remote emacs is usually slower than starting a remote vim
+
+1010
+vim	emacs
+pattern7	usually slower	
+starting a remote emacs is usually slower than starting a remote vim
+
+1010
+vim	emacs
+pattern7	plain better	
+one domain where emacs is plain better than vim is interaction with asynchronous subprocesses
+
+1010
+vim	emacs
+pattern7	plain better	
+one domain where emacs is plain better than vim is interaction with asynchronous subprocesses
+
+1010
+vim	emacs
+pattern0	better	
+one domain where emacs is plain better than vim is interaction with asynchronous subprocesses
+
+3385
+bash	zsh
+pattern0	more places	
+bash is possibly in a few more places than zsh
+
+3385
+bash	zsh
+pattern10	more	
+zsh is more powerful but bash has been fine for me
+
+3385
+bash	zsh
+pattern10	more powerful	
+zsh is more powerful but bash has been fine for me
+
+3390
+fish	zsh
+pattern0	smaller even	
+the fish community is a lot smaller than even zsh s making the effects even more acute
+
+4580
+gentoo	opensuse
+pattern7	
+however aside from the fact that gentoo and arch are rather more hardcore than opensuse i believe that both of them use a vanilla version of kde whereas opensuse adds more of their own stuff including a really nice kpart for viewing system information which probably should be added to kde proper and increased integration for some non-kde programs such as firefox
+
+4580
+gentoo	opensuse
+pattern7	
+however aside from the fact that gentoo and arch are rather more hardcore than opensuse i believe that both of them use a vanilla version of kde whereas opensuse adds more of their own stuff including a really nice kpart for viewing system information which probably should be added to kde proper and increased integration for some non-kde programs such as firefox
+
+5572
+bash	zsh
+pattern7	
+on the remotehost bash is the default shell and the version of zsh is older 4.2 vs 4.3 on that
+
+5572
+bash	zsh
+pattern7	
+on the remotehost bash is the default shell and the version of zsh is older 4.2 vs 4.3 on that
+
+5735
+xfce	gnome	xfce	kde	kde	gnome
+pattern7	lot lighter	
+xfce is lot lighter than gnome kde
+
+5735
+xfce	gnome	xfce	kde	kde	gnome
+pattern7	lot lighter	
+xfce is lot lighter than gnome kde
+
+5735
+xfce	gnome	xfce	kde	kde	gnome
+pattern0	lighter	
+xfce is lot lighter than gnome kde
+
+5735
+xfce	gnome	xfce	kde	kde	gnome
+pattern0	lighter	
+xfce is lot lighter than gnome kde
+
+5896
+ubuntu	opensuse
+pattern8	more familiar	
+the opensuse live cd should have a gui partitioning tool as well but i m not sure i m more familiar with ubuntu
+
+9060
+disk	ram
+pattern7	access much slower	
+disk access is much slower than ram access so every time the computer has to swap the program that caused it will have to pause while the data is transferred
+
+9060
+disk	ram
+pattern7	access much slower	
+disk access is much slower than ram access so every time the computer has to swap the program that caused it will have to pause while the data is transferred
+
+9060
+disk	ram
+pattern0	slower	
+disk access is much slower than ram access so every time the computer has to swap the program that caused it will have to pause while the data is transferred
+
+9462
+ubuntu	debian
+pattern0	greater regard	
+the most visible one to me is that ubuntu treats sudo with greater regard than debian
+
+9476
+ubuntu	debian
+pattern10	testing even more	
+in my point of view debian testing is even more stable than an biannual ubuntu not lts
+
+9476
+ubuntu	debian
+pattern10	testing even more stable	
+in my point of view debian testing is even more stable than an biannual ubuntu not lts
+
+10529
+bash	zsh
+pattern10	
+if it s a shell built-in as it is in zsh but apparently not bash it is more likely to use the shell s environment and do the right thing.
+
+10529
+bash	zsh
+pattern10	
+if it s a shell built-in as it is in zsh but apparently not bash it is more likely to use the shell s environment and do the right thing.
+
+14141
+vmware	virtualbox
+pattern8	
+by this logic it might be that microsoft virtual pc is more lightweight than virtualbox vmware etc
+
+16245
+bash	zsh
+pattern8	more powerful shell	
+it is possible in zsh a more powerful shell than bash available on most unices including ubuntu but often not installed by default
+
+18082
+opensuse	mint
+pattern0	
+i like it better than opensuse because mint is much faster to install and update between the two
+
+18082
+opensuse	mint
+pattern7	
+i like it better than opensuse because mint is much faster to install and update between the two
+
+18082
+opensuse	mint
+pattern7	
+i like it better than opensuse because mint is much faster to install and update between the two
+
+20113
+sudo	passwd
+pattern10	
+sudo without a passwd is less secure than with a passwd
+
+20113
+sudo	passwd
+pattern10	
+sudo without a passwd is less secure than with a passwd
+
+22597
+vim	emacs
+pattern7	smaller	
+vim has a smaller footprint than emacs but this is not much of a big deal these days
+
+22597
+vim	emacs
+pattern7	smaller footprint	
+vim has a smaller footprint than emacs but this is not much of a big deal these days
+
+22597
+vim	emacs
+pattern0	smaller footprint	
+vim has a smaller footprint than emacs but this is not much of a big deal these days
+
+23496
+unix	bsd
+pattern8	
+the development model is much more decentralised than bsd or sysv derived unix so it evolves more rapidly at the expense of stability
+
+23791
+bash	zsh
+pattern7	
+bash has some completion for svn zsh s is significantly better
+
+23829
+cifs	nis
+pattern7	much simpler	
+in operation nfs nis is much simpler to implement and maintain than ad cifs
+
+23829
+cifs	nis
+pattern7	much simpler	
+in operation nfs nis is much simpler to implement and maintain than ad cifs
+
+24927
+x11	conky
+pattern0	
+if you re looking for a graphical x11 option you could use conky torsmo older than conky or gkrellm
+
+25778
+xfce	gnome
+pattern7	
+xfce looks better and is less spartan than lxde i ve kept the beloved ubuntu xfce s panel is great compiz-fusion works drag-and-drop is no problem between thunar xfce s file manager and nautilus gnome s one and the desktop
+
+25778
+xfce	gnome
+pattern7	
+xfce looks better and is less spartan than lxde i ve kept the beloved ubuntu xfce s panel is great compiz-fusion works drag-and-drop is no problem between thunar xfce s file manager and nautilus gnome s one and the desktop
+
+26457
+udp	tcp
+pattern7	much longer	
+second when i port scan with nmap the udp scan takes much longer then the tcp scan
+
+26457
+udp	tcp
+pattern7	much longer then	
+second when i port scan with nmap the udp scan takes much longer then the tcp scan
+
+29835
+ubuntu	linux
+pattern8	more suitable	
+since this is more of a question about mozilla firefox i thought unix linux was more suitable than ubuntu mod s feel free to move if necessary
+
+29956
+bash	tcsh
+pattern8	
+while they are similar more similar than bash and tcsh for example they are different enough to force you to read documentation before doing nontrivial configuration
+
+34644
+bash	zsh
+pattern10	
+ksh is probably about as powerful as bash and zsh is even more powerful and has a lot of features i ve never taken the time to learn
+
+34644
+bash	zsh
+pattern10	
+ksh is probably about as powerful as bash and zsh is even more powerful and has a lot of features i ve never taken the time to learn
+
+34775
+cifs	smb
+pattern7	newer	
+samba is an implementation of smb server message block which if wikipedia is to be trusted got its name changed to cifs common internet file system back in 1996 so directly answering your question samba is an implementation cifs is a protocol but i guess you were asking about smb and cifs which seem to be the same protocol although i guess you can say cifs is a newer version of smb
+
+34775
+cifs	smb
+pattern7	newer version	
+samba is an implementation of smb server message block which if wikipedia is to be trusted got its name changed to cifs common internet file system back in 1996 so directly answering your question samba is an implementation cifs is a protocol but i guess you were asking about smb and cifs which seem to be the same protocol although i guess you can say cifs is a newer version of smb
+
+35057
+mouse	keyboard	mouse	trackpad
+pattern7	
+even then i suspect that moving your hand off the keyboard moving a mouse using a trackpad then moving back to the keyboard is slower than meta - b or ctrl - a
+
+35057
+mouse	keyboard	mouse	trackpad
+pattern7	
+even then i suspect that moving your hand off the keyboard moving a mouse using a trackpad then moving back to the keyboard is slower than meta - b or ctrl - a
+
+36214
+rpm	yum
+pattern8	more appropriate	
+is there any particular case when using rpm command would be more appropriate than yum
+
+37391
+ubuntu	centos
+pattern0	
+the system time does seem to be higher with ubuntu 8.04 than with ubuntu 7.10 but this difference is far less distinct than what was seen with centos 5.6 vs 6.2
+
+37391
+ubuntu	centos
+pattern0	
+the one exception is that the system time appears to be a bit higher with ubuntu 11.10 than with centos 6.2 but once again the resolution on this measurement is very course so i think that any conclusion other than it appears to be a bit higher would be stepping onto thin ice
+
+37461
+debian	centos
+pattern10	waaaaay more	
+also debian is waaaaay more stable than rhel or centos
+
+37461
+debian	centos
+pattern10	waaaaay more stable	
+also debian is waaaaay more stable than rhel or centos
+
+37510
+filesystems	btrfs
+pattern0	
+you can see more details with btrfs filesystems df
+
+37510
+filesystems	btrfs
+pattern0	
+you can see more details with btrfs filesystems df
+
+38107
+ubuntu	linux
+pattern8	more lightweight	
+is there any linux distribution that will give me noticeable superior results in the above categories and be more lightweight than ubuntu
+
+40062
+google-chrome	firefox
+pattern0	
+it has pretty much all you want except maybe for tagged bookmarks is lighter than firefox google-chrome and is based upon webkit
+
+40062
+google-chrome	firefox
+pattern0	
+it has pretty much all you want except maybe for tagged bookmarks is lighter than firefox google-chrome and is based upon webkit
+
+40399
+bash	tcsh
+pattern10	
+say i modify a lot of code that uses tcsh but since a lot of people say that bash is more modern i d also like to learn bash along the way
+
+40399
+bash	tcsh
+pattern10	
+say i modify a lot of code that uses tcsh but since a lot of people say that bash is more modern i d also like to learn bash along the way
+
+40455
+versioning	upgrade
+pattern0	
+if the version-number is higher than the versioning installed it should be upgrade
+
+40515
+opensuse	linux
+pattern8	more intense testing	
+suse linux enterprise server receives much more intense testing than opensuse with the intention that only mature stable versions of the included components will make it through to the released enterprise product
+
+40732
+bash	zsh
+pattern7	generally better	
+zsh generally has better interactive features and better programming features than bash
+
+40732
+bash	zsh
+pattern7	generally better interactive	
+zsh generally has better interactive features and better programming features than bash
+
+40740
+bazaar	git	bazaar	cvs
+pattern8	
+darcs is a revision control system less well-known than cvs subversion git mercurial or bazaar
+
+42175
+disk	ram
+pattern10	
+it looks like the source filesystem is damaged typically either due to a kernel bug or to bad ram a damaged disk is more likely to result in unreadable files than corrupted data
+
+42175
+disk	ram
+pattern10	
+it looks like the source filesystem is damaged typically either due to a kernel bug or to bad ram a damaged disk is more likely to result in unreadable files than corrupted data
+
+43804
+ubuntu	linux
+pattern7	distribution much more	
+if you feel like comparing with the size of windows keep in mind that a linux distribution contains much more than the equivalent of windows distributions like ubuntu and fedora ship a lot of applications that you would need to install separately on windows
+
+43804
+ubuntu	linux
+pattern7	distribution much more	
+if you feel like comparing with the size of windows keep in mind that a linux distribution contains much more than the equivalent of windows distributions like ubuntu and fedora ship a lot of applications that you would need to install separately on windows
+
+46229
+ubuntu	mint
+pattern0	
+a few years ago the schism grew wider as ubuntu tried to push the unity graphical environment mint community made a big deal about rejecting it
+
+46370
+ubuntu	linux
+pattern8	more secure	
+i have done extensive security testing as part of my work as a linux educator and have found puppy to be more secure than ubuntu even in root due to the above service reasons
+
+47424
+buffering	sigpipe
+pattern0	more	
+when head exits tail receives a sigpipe signal and dies so it won t have read more than a buffering size s worth typically a few kilobytes of lines from the input file
+
+49060
+disk	ram
+pattern10	faster	
+this is desirable ram is faster than disk and absolutely normal behaviour
+
+49060
+disk	ram
+pattern10	faster	
+this is desirable ram is faster than disk and absolutely normal behaviour
+
+49434
+bash	zsh
+pattern7	
+but in ksh bash zsh there s a better way use an array
+
+49434
+bash	zsh
+pattern7	
+but in ksh bash zsh there s a better way use an array
+
+49909
+clang	llvm
+pattern7	
+i m no expert but my understanding is clang llvm uses fewer resources than gcc and is quicker
+
+49909
+clang	llvm
+pattern7	
+i m no expert but my understanding is clang llvm uses fewer resources than gcc and is quicker
+
+49909
+clang	llvm
+pattern7	
+i m no expert but my understanding is clang llvm uses fewer resources than gcc and is quicker
+
+49909
+clang	llvm
+pattern7	
+i m no expert but my understanding is clang llvm uses fewer resources than gcc and is quicker
+
+51927
+ubuntu	linux	ubuntu	debian	debian	linux
+pattern8	more familiar	
+generally i m a linux noob but i m more familiar with ubuntu and since this server is more for learning ubuntu is basically a variation of debian and debian is now the most popular os for web servers i figured i d use it
+
+51928
+ubuntu	debian
+pattern10	
+debian is all about stability and ubuntu is more about all the new things less stability
+
+51928
+ubuntu	debian
+pattern10	
+debian is all about stability and ubuntu is more about all the new things less stability
+
+53282
+cpu	processors
+pattern0	newer xeon	
+i have recently compiled a minimal kernel for my intel r pentium r dual cpu t3400 2.16ghz and chose config_mcore2 core 2 newer xeon under processors type and features processors family
+
+53640
+ffmpeg	libvpx
+pattern7	higher	
+and the problems is that ffmpeg requires a higher minor version of libvpx recompile ffmpeg will solve this issue
+
+53640
+ffmpeg	libvpx
+pattern7	higher minor	
+and the problems is that ffmpeg requires a higher minor version of libvpx recompile ffmpeg will solve this issue
+
+55496
+filesystems	ntfs
+pattern7	better	
+for a presentation i need to show ext4 filesystems is better than ntfs
+
+55496
+filesystems	ntfs
+pattern7	better	
+for a presentation i need to show ext4 filesystems is better than ntfs
+
+55496
+filesystems	ntfs
+pattern0	better	
+for a presentation i need to show ext4 filesystems is better than ntfs
+
+56103
+freebsd	linux
+pattern10	indeed more	
+i am wondering whether my personal assumptions that freebsd is indeed more stable and more tightly controlled less chaotic more organized than linux is actually true
+
+56103
+freebsd	linux
+pattern10	indeed more stable	
+i am wondering whether my personal assumptions that freebsd is indeed more stable and more tightly controlled less chaotic more organized than linux is actually true
+
+56112
+freebsd	linux
+pattern10	less	
+in that case freebsd is less likely to change its core infrastructure while in linux there may be required changes to your code workflow updating whatever on occasion
+
+56112
+freebsd	linux
+pattern10	less likely	
+in that case freebsd is less likely to change its core infrastructure while in linux there may be required changes to your code workflow updating whatever on occasion
+
+56112
+freebsd	linux
+pattern10	less	
+overall freebsd is less likely to have things move around on you than linux
+
+56112
+freebsd	linux
+pattern10	less likely	
+overall freebsd is less likely to have things move around on you than linux
+
+59063
+heredoc	herestring
+pattern10	faster	
+a heredoc is faster than a herestring
+
+59063
+heredoc	herestring
+pattern10	faster	
+a heredoc is faster than a herestring
+
+59360
+bash	zsh
+pattern0	slower	
+it seems very cool and slick and the fact that the current working directory and actual command line are on different lines is nice but at the same time i m noticing that zsh can be a bit slower than bash especially when printing text to the screen
+
+59968
+xfce	gnome
+pattern7	lighter	
+xfce is lighter weight than gnome
+
+59968
+xfce	gnome
+pattern7	lighter weight	
+xfce is lighter weight than gnome
+
+59968
+xfce	gnome
+pattern0	lighter weight	
+xfce is lighter weight than gnome
+
+59968
+ubuntu	linux
+pattern7	lighter	
+puppy linux is lighter weight than ubuntu
+
+59968
+ubuntu	linux
+pattern7	lighter weight	
+puppy linux is lighter weight than ubuntu
+
+59968
+ubuntu	linux
+pattern0	lighter weight	
+puppy linux is lighter weight than ubuntu
+
+60266
+ftp	telnet
+pattern10	
+also for experimenting with ftp it s more comfortable to have the login process handled by the ftp client and use literal commands afterwards compared to using telnet netcat only
+
+60266
+ftp	telnet
+pattern10	
+also for experimenting with ftp it s more comfortable to have the login process handled by the ftp client and use literal commands afterwards compared to using telnet netcat only
+
+60801
+uniq	grep
+pattern0	
+this should at least be better than individual grep as you only process b thrice remove other columns sort and uniq and then i suppose the join will only read each file once as it requires the inputs to be sorted
+
+61102
+ubuntu	linux	ubuntu	debian	debian	linux
+pattern8	more complicated	
+you could start using debian which isn t much more complicated than ubuntu or arch linux which is more difficult but will be a good experience
+
+61102
+ubuntu	linux	ubuntu	debian	debian	linux
+pattern10	
+you could start using debian which isn t much more complicated than ubuntu or arch linux which is more difficult but will be a good experience
+
+61102
+ubuntu	linux	ubuntu	debian	debian	linux
+pattern10	
+you could start using debian which isn t much more complicated than ubuntu or arch linux which is more difficult but will be a good experience
+
+62790
+bash	zsh
+pattern0	less	
+by mistake i posted the above zsh code - in bash syntax it would look somewhat like this with the reservation that it is much less tested than the zsh code which runs every day on my computer
+
+64314
+disk	ram
+pattern0	cheaper	
+summarizing as you have no idea what your load spikes are and as disk is so much cheaper than ram do configure swap 2 ram.
+
+65219
+dnf	yum
+pattern10	
+if you are on fedora fedora 18 has dnf as an experimental alternative to yum it is much faster in resolving dependencies and more accurate too
+
+65219
+dnf	yum
+pattern10	
+if you are on fedora fedora 18 has dnf as an experimental alternative to yum it is much faster in resolving dependencies and more accurate too
+
+65341
+sudo	passwd
+pattern7	better	
+the reason sudo is better than having a root passwd and using su in a multi admin environment is because with su every admin has to know the root passwd so if you ever want to revoke an admin s access you have to change the passwd and tell all of the other admins
+
+65341
+sudo	passwd
+pattern7	better	
+the reason sudo is better than having a root passwd and using su in a multi admin environment is because with su every admin has to know the root passwd so if you ever want to revoke an admin s access you have to change the passwd and tell all of the other admins
+
+65777
+geany	gedit
+pattern7	fewer	
+to answer you question instead of saying to stay with gedit or recommending a wholly different editor an alternative to gedit that has fewer dependencies and the features you ask is geany
+
+65777
+geany	gedit
+pattern7	fewer dependencies	
+to answer you question instead of saying to stay with gedit or recommending a wholly different editor an alternative to gedit that has fewer dependencies and the features you ask is geany
+
+66552
+disk	ram
+pattern0	slower	
+you want not to use it ever except for dire circumstances or very unusual workloads because disk is many many times slower than ram
+
+66853
+cat	tee
+pattern0	
+there may be better options than cat and tee but those are the ones i know so far
+
+66875
+cat	tee
+pattern7	more	
+cmd1 can t tell cat there s no more input because it is waiting itself for more input from tee
+
+66875
+cat	tee
+pattern7	more input	
+cmd1 can t tell cat there s no more input because it is waiting itself for more input from tee
+
+72572
+bash	zsh
+pattern10	more	
+bash is more geared towards standards and compatibility while zsh is geared more towards power
+
+72572
+bash	zsh
+pattern10	more	
+bash is more geared towards standards and compatibility while zsh is geared more towards power
+
+72572
+bash	zsh
+pattern7	
+bash is more geared towards standards and compatibility while zsh is geared more towards power
+
+72572
+bash	zsh
+pattern7	
+bash is more geared towards standards and compatibility while zsh is geared more towards power
+
+73309
+disk	ram
+pattern7	
+average run time on the fuse ram disk is even slower
+
+73309
+disk	ram
+pattern7	
+average run time on the fuse ram disk is even slower
+
+75940
+xfce	gnome
+pattern7	better	
+asking for very latest gcc but being ok with not-so-late desktop environment doesn t make much sense but perhaps one of the simpler lighter ones lxde xfce is a better match than gnome for you
+
+75940
+xfce	gnome
+pattern7	better	
+asking for very latest gcc but being ok with not-so-late desktop environment doesn t make much sense but perhaps one of the simpler lighter ones lxde xfce is a better match than gnome for you
+
+75940
+xfce	gnome
+pattern0	better	
+asking for very latest gcc but being ok with not-so-late desktop environment doesn t make much sense but perhaps one of the simpler lighter ones lxde xfce is a better match than gnome for you
+
+78637
+spaces	delimiter
+pattern7	
+for storage in bash arrays using a delimiter other than spaces is often simpler
+
+78857
+debian	linux
+pattern7	better	
+i heard about lvm but can i use it after i installed debian or is it better to copy everything and reinstall my linux
+
+78857
+debian	linux
+pattern7	better	
+i heard about lvm but can i use it after i installed debian or is it better to copy everything and reinstall my linux
+
+79357
+unix	bsd
+pattern10	userland more	
+historically my understanding is that bsd userland descends more directly from v6 and v7 bell labs unix via the 32v port to vax hardware
+
+79357
+unix	bsd
+pattern10	userland more directly	
+historically my understanding is that bsd userland descends more directly from v6 and v7 bell labs unix via the 32v port to vax hardware
+
+83316
+freebsd	linux
+pattern10	closer	
+from a system administrator s point of view freebsd is closer to a specific linux distribution than to linux in general
+
+83316
+freebsd	linux
+pattern10	closer	
+from a system administrator s point of view freebsd is closer to a specific linux distribution than to linux in general
+
+83360
+xfce	kubuntu	xfce	kde	kde	kubuntu
+pattern8	more lightweight	
+over kubuntu because xfce and lxde are generally more lightweight than kde
+
+88538
+jobs	cron
+pattern0	
+that s a little nicer as cron might be scheduling other jobs as well
+
+90546
+opensuse	linux
+pattern0	more experience	
+i just switched my development environment to opensuse so i can get more experience with linux systems
+
+92528
+disk	ram
+pattern7	much slower	
+that in turn will slow everything down because reading from disk is much slower than reading from the ram
+
+92528
+disk	ram
+pattern7	much slower	
+that in turn will slow everything down because reading from disk is much slower than reading from the ram
+
+93083
+disk	ram
+pattern7	much faster	
+the most obvious potential benefit is that accessing ram is much faster than accessing a disk
+
+93083
+disk	ram
+pattern7	much faster	
+the most obvious potential benefit is that accessing ram is much faster than accessing a disk
+
+93934
+ecdsa	rsa
+pattern10	
+and since openssh prefers it over rsa i m guessing the developers think ecdsa is better
+
+95857
+sudo	passwd
+pattern10	
+yes without passwd using sudo becomes more difficult
+
+95857
+sudo	passwd
+pattern10	
+yes without passwd using sudo becomes more difficult
+
+96023
+ubuntu	debian	redhat	fedora
+pattern10	more	
+whereas debian is more conservative in it s approach than ubuntu hence less frequent updating fedora is more radical than redhat hence more frequent updating
+
+96023
+ubuntu	debian	redhat	fedora
+pattern10	more conservative	
+whereas debian is more conservative in it s approach than ubuntu hence less frequent updating fedora is more radical than redhat hence more frequent updating
+
+96023
+ubuntu	debian	redhat	fedora
+pattern10	more	
+whereas debian is more conservative in it s approach than ubuntu hence less frequent updating fedora is more radical than redhat hence more frequent updating
+
+96023
+ubuntu	debian	redhat	fedora
+pattern10	more radical	
+whereas debian is more conservative in it s approach than ubuntu hence less frequent updating fedora is more radical than redhat hence more frequent updating
+
+96023
+ubuntu	debian	redhat	fedora
+pattern8	more radical	
+whereas debian is more conservative in it s approach than ubuntu hence less frequent updating fedora is more radical than redhat hence more frequent updating
+
+96812
+bash	zsh
+pattern0	
+switching to ksh has the additional benefit that it tends to be faster than either bash or zsh
+
+101392
+vim	emacs
+pattern10	
+it will sit running but not doing anything until people stop arguing over whether emacs or vim is better
+
+103465
+openssl	gnutls
+pattern0	nicer	
+gnutls is a little nicer than openssl imo
+
+105259
+debian	mint	debian	linux	debian-based	linux	debian-based	mint
+pattern7	friendlier	
+in general linux mint is friendlier and more appealing to the newcomer but since it is a debian-based distro the underlying system is more or less the same with debian
+
+105259
+debian	mint	debian	linux	debian-based	linux	debian-based	mint
+pattern7	friendlier	
+in general linux mint is friendlier and more appealing to the newcomer but since it is a debian-based distro the underlying system is more or less the same with debian
+
+105259
+debian	mint	debian	linux	debian-based	linux	debian-based	mint
+pattern7	friendlier	
+in general linux mint is friendlier and more appealing to the newcomer but since it is a debian-based distro the underlying system is more or less the same with debian
+
+105259
+debian	mint	debian	linux	debian-based	linux	debian-based	mint
+pattern7	friendlier	
+in general linux mint is friendlier and more appealing to the newcomer but since it is a debian-based distro the underlying system is more or less the same with debian
+
+108780
+xfce	gnome	xfce	kde	kde	gnome
+pattern8	less resource-hungry	
+for older computers consider using lxde or xfce because they are less resource-hungry than gnome or kde
+
+110183
+ubuntu	centos	ubuntu	debian	debian	centos
+pattern0	
+presuming that the ubuntu package is compatible with debian that would be the safer bet as debian and ubuntu both use .deb package management while centos uses red hat s .rpm packages
+
+111524
+ethernet	wireless
+pattern0	lower priority	
+this would not be a problem except that i want to set up one client my laptop with its wired ethernet interface as lower priority than its wireless interface which will connect to my ap
+
+115763
+sudo	passwd
+pattern7	better	
+using sudo is a better route to take it s more flexible you can configure it to allow only particular commands or even certain users to run a program script with or without using a passwd man sudo
+
+115763
+sudo	passwd
+pattern7	better route	
+using sudo is a better route to take it s more flexible you can configure it to allow only particular commands or even certain users to run a program script with or without using a passwd man sudo
+
+116308
+sudo	passwd
+pattern7	life simpler	
+using sudo means you only have to know your own passwd which makes life simpler for you but requires the sudo service to be configured to allow you to issue the su command so there are potentially security implications if that isn t done properly
+
+116308
+sudo	passwd
+pattern7	life simpler	
+using sudo means you only have to know your own passwd which makes life simpler for you but requires the sudo service to be configured to allow you to issue the su command so there are potentially security implications if that isn t done properly
+
+117840
+ubuntu	debian
+pattern7	generally more	
+ubuntu generally stays more or less as up to date as fedora perhaps complicated by its relationship to the more conservative debian
+
+117840
+ubuntu	debian
+pattern7	generally more	
+ubuntu generally stays more or less as up to date as fedora perhaps complicated by its relationship to the more conservative debian
+
+118154
+unix	bsd
+pattern8	
+and yes maildirs are a better idea as long as you have enough inodes to store a bunch of small files because they are more reliable than bsd mbox files and because we don t have to do that ugly workaround much maligned in the unix haters handbook of needing to add a before a line that begins from
+
+120298
+rpm	yum
+pattern10	
+it s true that you can make use of rpm s erase switch -e to remove a package but i often encourage new comers to use yum because yum has a more high level perspective of the system and can determine if the removal of a given package will impact other packages and yum can also remove other unnecessary packages when you direct it to remove a given package if they re no longer required
+
+120298
+rpm	yum
+pattern10	
+it s true that you can make use of rpm s erase switch -e to remove a package but i often encourage new comers to use yum because yum has a more high level perspective of the system and can determine if the removal of a given package will impact other packages and yum can also remove other unnecessary packages when you direct it to remove a given package if they re no longer required
+
+120298
+rpm	yum
+pattern10	just smarter	
+note so the bottom line is yum is just smarter about package management then rpm
+
+120298
+rpm	yum
+pattern10	just smarter	
+note so the bottom line is yum is just smarter about package management then rpm
+
+121887
+ubuntu	centos	ubuntu	debian	debian	centos
+pattern10	more	
+in the past i have been able to restore iptables fron ubuntu systems onto debian systems but debian is more closely related to ubuntu than is centos
+
+121887
+ubuntu	centos	ubuntu	debian	debian	centos
+pattern10	more closely	
+in the past i have been able to restore iptables fron ubuntu systems onto debian systems but debian is more closely related to ubuntu than is centos
+
+122425
+disk	ram
+pattern7	much slower	
+if it is high meaning close from the maximum value seen under total for swap then it means that your system is swapping a lot and which means that it is paging to disk which is much slower than ram
+
+122425
+disk	ram
+pattern7	much slower	
+if it is high meaning close from the maximum value seen under total for swap then it means that your system is swapping a lot and which means that it is paging to disk which is much slower than ram
+
+122425
+disk	ram
+pattern0	slower	
+if it is high meaning close from the maximum value seen under total for swap then it means that your system is swapping a lot and which means that it is paging to disk which is much slower than ram
+
+122733
+sysv	systemd
+pattern0	
+however objectively they are not any more complex than sysv imo systemd is simpler to use in fact but most dogs prefer their old tricks so to speak
+
+122733
+sysv	systemd
+pattern7	
+however objectively they are not any more complex than sysv imo systemd is simpler to use in fact but most dogs prefer their old tricks so to speak
+
+122733
+sysv	systemd
+pattern7	
+however objectively they are not any more complex than sysv imo systemd is simpler to use in fact but most dogs prefer their old tricks so to speak
+
+125148
+folder	directory
+pattern10	also faster	
+rm -rf directory also works faster for billion of files in one folder
+
+125148
+folder	directory
+pattern10	also faster	
+rm -rf directory also works faster for billion of files in one folder
+
+126381
+xfce	gnome
+pattern10	vastly more	
+the phenomenon completely vanished and xfce is vastly more responsive in general than gnome
+
+126381
+xfce	gnome
+pattern10	vastly more responsive	
+the phenomenon completely vanished and xfce is vastly more responsive in general than gnome
+
+128181
+apache	nginx
+pattern7	
+apache can play that role but i advise you to better use nginx which is lighter
+
+130797
+daemons	systemd
+pattern0	
+the intent would be to have more than 65k daemons listening on a given systemd
+
+130848
+daemons	systemd
+pattern0	
+the intent would be to have more than 65k daemons listening on a given systemd
+
+135085
+freebsd	linux
+pattern0	better	
+asynchronous io in freebsd isn t totally better than in linux
+
+137429
+ubuntu	linux	ubuntu	mint
+pattern0	simpler	
+if i can t get this to work with mint linux would this be simpler with ubuntu
+
+137790
+ubuntu	debian
+pattern10	more	
+debian is more stable than ubuntu but that doesn t make ubuntu unstable
+
+137790
+ubuntu	debian
+pattern10	more stable	
+debian is more stable than ubuntu but that doesn t make ubuntu unstable
+
+137790
+ubuntu	debian
+pattern8	more stable	
+debian is more stable than ubuntu but that doesn t make ubuntu unstable
+
+138605
+openbsd	freebsd
+pattern8	more conservative	
+openbsd is focused on security and far more conservative than freebsd when it comes to adopting new features
+
+145914
+disk	ram
+pattern0	slower	
+because disk are much slower than ram this can lead to slower response times for system and applications if processes are too aggressively moved out of memory
+
+148693
+disk	ram
+pattern0	faster	
+ram is so much faster than disk so you should have high iowait s but not high cpu
+
+159160
+bash	zsh
+pattern10	
+zsh supports more stuff but only in its native zsh mode which is not compatible with posix shells such as gnu bash at t ksh93 mksh
+
+159160
+bash	zsh
+pattern10	
+zsh supports more stuff but only in its native zsh mode which is not compatible with posix shells such as gnu bash at t ksh93 mksh
+
+159670
+sudo	passwd
+pattern10	
+the biggest difference between su and sudo is that you enter your own passwd instead of the target user s passwd and that sudo is more flexible
+
+159670
+sudo	passwd
+pattern10	
+the biggest difference between su and sudo is that you enter your own passwd instead of the target user s passwd and that sudo is more flexible
+
+160135
+bash	zsh
+pattern0	faster	
+concerning the performance the eval solution is much faster with bash 4.3.30 but the other solution is faster with ksh 93u+ and zsh 5.0.6 ksh93 and zsh being much faster than bash in both cases
+
+165313
+kde	gnome
+pattern10	more	
+i think gnome is more universal when kde is more for desktops
+
+165313
+kde	gnome
+pattern10	more universal	
+i think gnome is more universal when kde is more for desktops
+
+165313
+kde	gnome
+pattern10	
+i think gnome is more universal when kde is more for desktops
+
+165313
+kde	gnome
+pattern10	
+i think gnome is more universal when kde is more for desktops
+
+166508
+bash	zsh
+pattern0	more cumbersome	
+this is possible in bash 4 but more cumbersome than in zsh
+
+170714
+freebsd	linux
+pattern7	many more	
+linux has many more drivers than either freebsd or os x yet it s roughly as stable as long as you stay away from the really low-end hardware
+
+170714
+freebsd	linux
+pattern7	many more drivers	
+linux has many more drivers than either freebsd or os x yet it s roughly as stable as long as you stay away from the really low-end hardware
+
+170714
+freebsd	linux
+pattern0	more drivers	
+linux has many more drivers than either freebsd or os x yet it s roughly as stable as long as you stay away from the really low-end hardware
+
+171205
+versioning	upgrade
+pattern7	
+on netbsd you usually upgrade pkgsrc to the latest versioning which is nothing more than tar -xvzf pkgsrc-version.tar.gz and updates the installed software individually
+
+171205
+versioning	upgrade
+pattern7	
+on netbsd you usually upgrade pkgsrc to the latest versioning which is nothing more than tar -xvzf pkgsrc-version.tar.gz and updates the installed software individually
+
+173694
+disk	ram
+pattern0	
+websites that talk about ram disk say that ram disk are 50-200 times faster than hard disk
+
+175536
+width	height
+pattern7	greater	
+when viewing it in any pdf viewer the page s width is greater than the height
+
+175536
+width	height
+pattern7	greater	
+when viewing it in any pdf viewer the page s width is greater than the height
+
+175536
+width	height
+pattern0	greater	
+when viewing it in any pdf viewer the page s width is greater than the height
+
+175536
+width	height
+pattern7	smaller	
+the following command shows the width is smaller than the height in points
+
+175536
+width	height
+pattern7	smaller	
+the following command shows the width is smaller than the height in points
+
+175536
+width	height
+pattern0	smaller	
+the following command shows the width is smaller than the height in points
+
+175536
+width	height
+pattern7	smaller	
+the following command shows the width is smaller than the height in pixels
+
+175536
+width	height
+pattern7	smaller	
+the following command shows the width is smaller than the height in pixels
+
+175536
+width	height
+pattern0	smaller	
+the following command shows the width is smaller than the height in pixels
+
+175537
+addition	multiplication
+pattern7	higher	
+this is parsed as 1 + 2 ã 4 since multiplication has a higher precedence than addition
+
+175537
+addition	multiplication
+pattern7	higher precedence	
+this is parsed as 1 + 2 ã 4 since multiplication has a higher precedence than addition
+
+175537
+addition	multiplication
+pattern0	higher precedence	
+this is parsed as 1 + 2 ã 4 since multiplication has a higher precedence than addition
+
+179584
+fish	bash
+pattern0	
+imho this is the best option anyway since there are more shells than bash csh such as fish and you have no guarantee on how any of them behave.
+
+181637
+width	height
+pattern7	greater	
+when viewing it in any pdf viewer the page s width is greater than the height
+
+181637
+width	height
+pattern7	greater	
+when viewing it in any pdf viewer the page s width is greater than the height
+
+181637
+width	height
+pattern0	greater	
+when viewing it in any pdf viewer the page s width is greater than the height
+
+181637
+width	height
+pattern7	greater	
+thus viewing it in any pdf viewer the page s width is greater than the height
+
+181637
+width	height
+pattern7	greater	
+thus viewing it in any pdf viewer the page s width is greater than the height
+
+181637
+width	height
+pattern0	greater	
+thus viewing it in any pdf viewer the page s width is greater than the height
+
+186359
+filesystems	xfs
+pattern7	
+notice in my opinion xfs filesystems is much better unfortunately this fs doesn t support shrinking without temporary copying to alternate place but shrink is used rarely
+
+186359
+filesystems	xfs
+pattern7	
+notice in my opinion xfs filesystems is much better unfortunately this fs doesn t support shrinking without temporary copying to alternate place but shrink is used rarely
+
+186359
+filesystems	xfs
+pattern7	
+notice in my opinion xfs filesystems is much better unfortunately this fs doesn t support shrinking without temporary copying to alternate place but shrink is used rarely
+
+186359
+filesystems	xfs
+pattern7	
+notice in my opinion xfs filesystems is much better unfortunately this fs doesn t support shrinking without temporary copying to alternate place but shrink is used rarely
+
+186585
+ubuntu	debian
+pattern7	
+systemd 2 once it percolates through from debian to ubuntu supports afaik more of inetd functionality than upstart but i don t know if it will prohibit its use
+
+186585
+ubuntu	debian
+pattern7	
+systemd 2 once it percolates through from debian to ubuntu supports afaik more of inetd functionality than upstart but i don t know if it will prohibit its use
+
+187745
+sudo	passwd
+pattern7	usually better	
+note this also has the security problem of hard-coding passwd and is usually better to set a sudo rule for the passwordless execution of the command
+
+187745
+sudo	passwd
+pattern7	usually better	
+note this also has the security problem of hard-coding passwd and is usually better to set a sudo rule for the passwordless execution of the command
+
+188390
+crypt	hash
+pattern10	more	
+what happens inside crypt is more complicated than just computing a single hash and the result is base64 encoded in the end
+
+188390
+crypt	hash
+pattern10	more complicated	
+what happens inside crypt is more complicated than just computing a single hash and the result is base64 encoded in the end
+
+191304
+disk	ram
+pattern7	much bigger	
+if the target system applies write-caching and is able to fit a significant part of the file in ram in your case it should be since ram is much bigger than your test file then it can claim the write is complete before it has actually reached the disk this could mean that your measured 200mbps is
+
+191304
+disk	ram
+pattern7	much bigger	
+if the target system applies write-caching and is able to fit a significant part of the file in ram in your case it should be since ram is much bigger than your test file then it can claim the write is complete before it has actually reached the disk this could mean that your measured 200mbps is
+
+194289
+width	height
+pattern7	
+fb userspace requested width height bpp is greater than current 1024x768-32 virtual 1024x1536 1024x768-32
+
+194289
+width	height
+pattern7	
+fb userspace requested width height bpp is greater than current 1024x768-32 virtual 1024x1536 1024x768-32
+
+195215
+bash	zsh
+pattern0	
+note i gave up with mksh which was too slow executing the loop more than one hundred times slower than zsh ksh93 and bash .
+
+196731
+cpu	processors
+pattern0	less	
+i suspected the processors of being overloaded playing the files but the top command reveals less than 20 cpu utilization
+
+198719
+disk	ram
+pattern0	slower	
+since disk tend to be magnitudes slower than ram this is
+
+199259
+ubuntu	debian
+pattern7	much older	
+debian is much older than ubuntu and is hesitant to break things that work particularly when the replacements require user intervention
+
+199259
+ubuntu	debian
+pattern7	much older	
+debian is much older than ubuntu and is hesitant to break things that work particularly when the replacements require user intervention
+
+199259
+ubuntu	debian
+pattern0	older	
+debian is much older than ubuntu and is hesitant to break things that work particularly when the replacements require user intervention
+
+203770
+ubuntu	debian
+pattern10	less	
+to be more precise under this ubuntu i want to install one application nupic if anyone interested seems that installing this on ubuntu is less painless process than installing it on debian
+
+203770
+ubuntu	debian
+pattern10	less painless	
+to be more precise under this ubuntu i want to install one application nupic if anyone interested seems that installing this on ubuntu is less painless process than installing it on debian
+
+204842
+interpreted-language	compiled-language
+pattern0	greater	
+both python bash script are interpreted-language and the time overheads involved in executing scripts will generally be greater than with a compiled-language otoh python scripts are compiled to python bytecode before execution which generally makes them more efficient than bash scripts which do not have any form of compilation
+
+205594
+dpkg	aptitude
+pattern7	better	
+these days apt-get is better at dependency resolution than aptitude which is better than synaptic though even with synaptic you shouldn t end up with a broken system like you did unless you ran dpkg manually or used --force options this is a bug in the package management tools possibly triggered by oddities in non-official packages
+
+205594
+dpkg	aptitude
+pattern7	better	
+these days apt-get is better at dependency resolution than aptitude which is better than synaptic though even with synaptic you shouldn t end up with a broken system like you did unless you ran dpkg manually or used --force options this is a bug in the package management tools possibly triggered by oddities in non-official packages
+
+205610
+bash	zsh
+pattern0	more	
+i tried this in zsh but it interacts with the terminal more than bash does so even a proof-of-concept requires more tuning
+
+207553
+arp	udp	arp	tcp	udp	tcp
+pattern7	
+well it looks like it was the arp table going stale even though we re streaming udp like crazy that doesn t kick the arp timeouts and tcp traffic is much more sparse under normal operation upping the timeouts stopped the issue from appearing for breaks of less than 2mins at which point the rtsp client session times out anyway
+
+207553
+arp	udp	arp	tcp	udp	tcp
+pattern7	
+well it looks like it was the arp table going stale even though we re streaming udp like crazy that doesn t kick the arp timeouts and tcp traffic is much more sparse under normal operation upping the timeouts stopped the issue from appearing for breaks of less than 2mins at which point the rtsp client session times out anyway
+
+210062
+udp	tcp
+pattern7	bandwidth terribly lower	
+i am getting very different bandwidth reading for tcp and udp where the udp bandwidth is terribly lower than tcp
+
+210062
+udp	tcp
+pattern7	bandwidth terribly lower	
+i am getting very different bandwidth reading for tcp and udp where the udp bandwidth is terribly lower than tcp
+
+210062
+udp	tcp
+pattern0	lower	
+i am getting very different bandwidth reading for tcp and udp where the udp bandwidth is terribly lower than tcp
+
+213760
+sudoers	passwd
+pattern10	more	
+it is configured in etc sudoers and allows a more finer control such as only allow to run a single program as root to a specific user which may be set to require their own passwd again and also provides logging facilities eg
+
+213760
+sudoers	passwd
+pattern10	more finer	
+it is configured in etc sudoers and allows a more finer control such as only allow to run a single program as root to a specific user which may be set to require their own passwd again and also provides logging facilities eg
+
+213927
+minimum	max
+pattern0	lower	
+it contains negative temperatures in some places with max voltages lower than the minimum
+
+217854
+disk	ram
+pattern0	better explicit	
+i guess that if you did not create any ram disk your linux system will perform or can be configured to perform better than with explicit ram disk
+
+218489
+ubuntu	debian
+pattern8	more thought-out	
+i like the way the ubuntu wiki is laid out and it seems more thought-out than debian s wiki
+
+219657
+ubuntu	debian
+pattern7	
+for dpkg based distributions such as debian ubuntu it appears slightly less trivial .
+
+219657
+ubuntu	debian
+pattern7	
+for dpkg based distributions such as debian ubuntu it appears slightly less trivial .
+
+219764
+ubuntu	debian
+pattern0	older packages	
+if ubuntu builds on debian then ubuntu will always have older packages than debian right
+
+224800
+fat	umount	filesystems	fat
+pattern10	
+mounting the floppy and using the kernel fat filesystems is much more responsive except for umount which is synchronous and very important for it to be that way to prevent data loss especially for removable devices like floppies
+
+224800
+fat	umount	filesystems	fat
+pattern10	
+mounting the floppy and using the kernel fat filesystems is much more responsive except for umount which is synchronous and very important for it to be that way to prevent data loss especially for removable devices like floppies
+
+224800
+fat	umount	filesystems	fat
+pattern10	
+mounting the floppy and using the kernel fat filesystems is much more responsive except for umount which is synchronous and very important for it to be that way to prevent data loss especially for removable devices like floppies
+
+224800
+fat	umount	filesystems	fat
+pattern10	
+mounting the floppy and using the kernel fat filesystems is much more responsive except for umount which is synchronous and very important for it to be that way to prevent data loss especially for removable devices like floppies
+
+226207
+bash	zsh
+pattern0	earlier	
+zsh also made the change earlier than bash from zsh 4.3.4 in 2007
+
+228157
+rsa	dsa
+pattern0	
+it s significantly faster than rsa or dsa for the same security level and has smaller keys
+
+228157
+ecdsa	rsa
+pattern10	support less	
+ecdsa support is less ubiquitous than rsa partly because it s newer and partly because of patents on efficient implementation techniques
+
+228157
+ecdsa	rsa
+pattern10	support less ubiquitous	
+ecdsa support is less ubiquitous than rsa partly because it s newer and partly because of patents on efficient implementation techniques
+
+228157
+ecdsa	rsa
+pattern8	less ubiquitous	
+ecdsa support is less ubiquitous than rsa partly because it s newer and partly because of patents on efficient implementation techniques
+
+228476
+umask	chmod
+pattern0	
+if for security reasons you never want to create an object with temporarily higher rights than intended chmod without umask isn t enough either
+
+228654
+ubuntu	debian
+pattern10	more	
+coming from ubuntu you might want to consider that debian is more similar to ubuntu to be precise ubuntu is built upon debian
+
+228654
+ubuntu	debian
+pattern10	more similar	
+coming from ubuntu you might want to consider that debian is more similar to ubuntu to be precise ubuntu is built upon debian
+
+230230
+bash	zsh
+pattern0	faster	
+on a 50mib file here i can see for instance bash being 6 times as slow as ksh93 but slightly faster than zsh and twice as fast as yash
+
+234531
+bash	zsh
+pattern0	better choice	
+even zsh would be a better choice than bash as it has a ksh emulation mode
+
+234911
+ubuntu	centos
+pattern10	
+converting a package for ubuntu into a package for centos is much more difficult
+
+234911
+ubuntu	centos
+pattern10	
+converting a package for ubuntu into a package for centos is much more difficult
+
+235034
+spaces	delimiter
+pattern0	more	
+i don t quite understand what this is a file and this command prints it with single spaces means so if fields in your infile are delimiter by more than one spaces then you could use tr first
+
+236485
+udp	tcp
+pattern10	faster	
+a dns server can and does listen to both udp 53 and tcp 53 at the same time as udp is faster and has less overhead for everyday requests while tcp may be necessary for especially large dns requests on account of udp packet size limits from way back when
+
+236485
+udp	tcp
+pattern10	faster	
+a dns server can and does listen to both udp 53 and tcp 53 at the same time as udp is faster and has less overhead for everyday requests while tcp may be necessary for especially large dns requests on account of udp packet size limits from way back when
+
+240367
+mutt	thunderbird
+pattern8	less interactive	
+due to limitations in mutt it s a bit less interactive than thunderbird s virtual identity
+
+240612
+bash	zsh
+pattern0	easier	
+i know this is tagged bash but i think this would be easier with zsh
+
+240926
+filesystems	ntfs
+pattern7	
+if you want to share your linux home directory with a windows operating system rather than trying to use ntfs as your home directory s filesystems it s better to install something like ext2fsd on your windows machine which supports reading the ext2 ext3 and ext4 filesystems from windows
+
+240926
+filesystems	ntfs
+pattern7	
+if you want to share your linux home directory with a windows operating system rather than trying to use ntfs as your home directory s filesystems it s better to install something like ext2fsd on your windows machine which supports reading the ext2 ext3 and ext4 filesystems from windows
+
+242514
+bash	zsh
+pattern0	fewer	
+i see that zsh and ksh93 use one process fewer than bash and dash
+
+243770
+dpkg	aptitude
+pattern0	better job	
+this se recommends using aptitude which fwiw i prefer and suspect does a better job than dpkg for both backup and install and this se recommends deborphan for the backup
+
+245572
+filesystems	btrfs
+pattern10	more	
+btrfs is more sophisticated than most filesystems and it includes support for multiple devices
+
+245572
+filesystems	btrfs
+pattern10	more sophisticated	
+btrfs is more sophisticated than most filesystems and it includes support for multiple devices
+
+246687
+ubuntu	centos
+pattern10	
+normally versions of packages available in cenos and ubunti repositories differ ubuntu tends to have the latest-greatest versions while centos is more conservative
+
+246687
+ubuntu	centos
+pattern10	
+normally versions of packages available in cenos and ubunti repositories differ ubuntu tends to have the latest-greatest versions while centos is more conservative
+
+248422
+stdout	stderr
+pattern0	
+other than that lots of programs and scripts in unix create flocks of processes that need to share communication channels such as log files sometimes you need more levels than stdout and stderr or fifos for ipc
+
+249185
+cifs	smb	iscsi	cifs	iscsi	smb
+pattern10	more	
+to my experience iscsi is more efficient than nfs and much more than smb cifs the main issue is not how to share storage capacity but how to manage hardware failure computer reboot hard-disk failure network failure
+
+249185
+cifs	smb	iscsi	cifs	iscsi	smb
+pattern10	more efficient	
+to my experience iscsi is more efficient than nfs and much more than smb cifs the main issue is not how to share storage capacity but how to manage hardware failure computer reboot hard-disk failure network failure
+
+249185
+cifs	smb	iscsi	cifs	iscsi	smb
+pattern0	more	
+to my experience iscsi is more efficient than nfs and much more than smb cifs the main issue is not how to share storage capacity but how to manage hardware failure computer reboot hard-disk failure network failure
+
+249185
+cifs	smb	iscsi	cifs	iscsi	smb
+pattern0	more	
+to my experience iscsi is more efficient than nfs and much more than smb cifs the main issue is not how to share storage capacity but how to manage hardware failure computer reboot hard-disk failure network failure
+
+254286
+lvm	btrfs	filesystems	btrfs
+pattern7	
+to me lvm is indeed better for managing space with whatever filesystems on top of it but btrfs should be used for features specific to it - mainly snapshots
+
+254286
+lvm	btrfs	filesystems	btrfs
+pattern7	
+to me lvm is indeed better for managing space with whatever filesystems on top of it but btrfs should be used for features specific to it - mainly snapshots
+
+265682
+disk	ram
+pattern0	lower	
+this is undesirable as disk speeds are considerably lower than ram speeds and will result in your system becoming really slow
+
+266104
+kde	gnome
+pattern0	lighter	
+gnome is probably not heavier but lighter than kde and so i did -t gnome
+
+273333
+min	max
+pattern0	greater	
+min greater than ps sensor greater than max
+
+273333
+min	max
+pattern0	greater	
+if min value greater than ps sensor value ps sensor value is greater than max value then the line is normal lines and that should removed
+
+273564
+min	max
+pattern0	greater	
+min greater than voltage sensor value greater than max
+
+275574
+cpu	hyperthreading
+pattern10	
+there s even more to it the scheduler knows about multiple levels of cache coherency and tries not to migrate threads too far moving a thread inside the same hyperthreading core is very cheap moving to another core on the same cpu chip is less cheap moving to another cpu chip is more expensive etc
+
+275574
+cpu	hyperthreading
+pattern10	
+there s even more to it the scheduler knows about multiple levels of cache coherency and tries not to migrate threads too far moving a thread inside the same hyperthreading core is very cheap moving to another core on the same cpu chip is less cheap moving to another cpu chip is more expensive etc
+
+275574
+cpu	hyperthreading
+pattern10	
+there s even more to it the scheduler knows about multiple levels of cache coherency and tries not to migrate threads too far moving a thread inside the same hyperthreading core is very cheap moving to another core on the same cpu chip is less cheap moving to another cpu chip is more expensive etc
+
+275574
+cpu	hyperthreading
+pattern10	
+there s even more to it the scheduler knows about multiple levels of cache coherency and tries not to migrate threads too far moving a thread inside the same hyperthreading core is very cheap moving to another core on the same cpu chip is less cheap moving to another cpu chip is more expensive etc
+
+277183
+versioning	upgrade
+pattern0	
+our windows 7 2008 clients can t access our samba server any more after the upgrade to versioning 3.6
+
+277846
+ubuntu	debian
+pattern7	
+i would say installing stuff from debian testing on the development release of ubuntu is probablly safer than the other way round
+
+277846
+ubuntu	debian
+pattern7	
+i would say installing stuff from debian testing on the development release of ubuntu is probablly safer than the other way round
+
+278249
+bash	zsh
+pattern7	slower	
+firstly zsh is 74 slower than bash to load
+
+278249
+bash	zsh
+pattern7	slower	
+firstly zsh is 74 slower than bash to load
+
+278249
+bash	zsh
+pattern0	slower	
+firstly zsh is 74 slower than bash to load
+
+278910
+disk	ram
+pattern7	significantly faster	
+since ram is significantly faster than disk storage you can use dev shm instead of tmp for the performance boost if your process is i o intensive and extensively uses temporary files
+
+278910
+disk	ram
+pattern7	significantly faster	
+since ram is significantly faster than disk storage you can use dev shm instead of tmp for the performance boost if your process is i o intensive and extensively uses temporary files
+
+278910
+disk	ram
+pattern0	faster	
+since ram is significantly faster than disk storage you can use dev shm instead of tmp for the performance boost if your process is i o intensive and extensively uses temporary files
+
+279990
+disk	ram
+pattern0	slower	
+in this situation the disk that the vm sees might be only a little slower than the ram it can access
+
+284955
+dpkg	aptitude
+pattern0	more worse	
+dpkg has a much better record but looks lot more worse than aptitude logs
+
+284955
+dpkg	aptitude
+pattern0	worse	
+dpkg has a much better record but looks lot more worse than aptitude logs
+
+285413
+cpu	processors
+pattern0	
+since apt-get is not multi threaded it will never use more than one processors which is 25 of all the cpu resources
+
+286523
+disk	ram
+pattern0	faster	
+what makes things faster is suspend instead of hibernate cause as you probably know ram access is a lot faster than disk access
+
+289403
+cinnamon	gnome	xfce	gnome	xfce	cinnamon
+pattern0	better	
+does enlightenment gnome 3 mate cinnamon handle keyboard hotkeys better than xfce
+
+294342
+width	height
+pattern7	greater	
+if the height is greater than the width the file is moved to the portraits directory
+
+294342
+width	height
+pattern7	greater	
+if the height is greater than the width the file is moved to the portraits directory
+
+294342
+width	height
+pattern0	greater	
+if the height is greater than the width the file is moved to the portraits directory
+
+297697
+sudo	passwd
+pattern7	newer	
+sudo is newer and requires by default for you to enter your own passwd but can be configured to accept the passwd of the user group that you are switching to or no passwd at all
+
+297697
+sudo	passwd
+pattern7	newer	
+sudo is newer and requires by default for you to enter your own passwd but can be configured to accept the passwd of the user group that you are switching to or no passwd at all
+
+298672
+spaces	delimiter
+pattern7	more	
+these flags only come into play when the pattern spaces contains more than one line such as when using -z to read nul delimiter records or when adding lines to the pattern spaces with commands like g n or s
+
+298672
+spaces	delimiter
+pattern7	more	
+these flags only come into play when the pattern spaces contains more than one line such as when using -z to read nul delimiter records or when adding lines to the pattern spaces with commands like g n or s
+
+301189
+postgresql	mysql
+pattern10	
+for this kind of task mysql s raw speed probably makes it a better choice - it s faster for simple things like this but postgresql is much faster for more complex tasks - in my experience postgresql is smart fast it can achieve massive speed improvements in complex tasks by working smart rather than working hard mysql is dumb fast it works hard without much capability to work smart
+
+301189
+postgresql	mysql
+pattern10	
+for this kind of task mysql s raw speed probably makes it a better choice - it s faster for simple things like this but postgresql is much faster for more complex tasks - in my experience postgresql is smart fast it can achieve massive speed improvements in complex tasks by working smart rather than working hard mysql is dumb fast it works hard without much capability to work smart
+
+301608
+dpkg	apt
+pattern0	more information	
+in those cases dpkg --audit dpkg --configure -a may give you more information than apt does
+
+301855
+xfs	btrfs	filesystems	xfs	filesystems	btrfs
+pattern7	more	
+xfs is more and more mature than btrfs but we cannot deny that btrfs is powerful and a good-growing filesystems
+
+301855
+xfs	btrfs	filesystems	xfs	filesystems	btrfs
+pattern7	more	
+xfs is more and more mature than btrfs but we cannot deny that btrfs is powerful and a good-growing filesystems
+
+301855
+xfs	btrfs	filesystems	xfs	filesystems	btrfs
+pattern0	more mature	
+xfs is more and more mature than btrfs but we cannot deny that btrfs is powerful and a good-growing filesystems
+
+302733
+sysv	systemd
+pattern7	better	
+i ve started to look for information about how systemd is better than sysv and what can i do to simplify and empower everything
+
+302733
+sysv	systemd
+pattern7	better	
+i ve started to look for information about how systemd is better than sysv and what can i do to simplify and empower everything
+
+302733
+sysv	systemd
+pattern0	better	
+i ve started to look for information about how systemd is better than sysv and what can i do to simplify and empower everything
+
+304930
+versioning	upgrade
+pattern7	newer	
+supposing that package a depends upon a file x inside a package b the dependency when upgrade installs a newer versioning of package b called package b-2 is this newly dependency used by package a or is it that a still uses package b until dist-upgrade is executed
+
+304930
+versioning	upgrade
+pattern7	newer	
+supposing that package a depends upon a file x inside a package b the dependency when upgrade installs a newer versioning of package b called package b-2 is this newly dependency used by package a or is it that a still uses package b until dist-upgrade is executed
+
+318669
+int	chars
+pattern7	
+if you don t want to use the sort command you can convert each chars to int and have an if statement to verify the last chars is less than the next.
+
+318669
+int	chars
+pattern7	
+if you don t want to use the sort command you can convert each chars to int and have an if statement to verify the last chars is less than the next.
+
+327220
+disk	ram
+pattern10	
+so if the source disk is faster than the destination disk and you re copying more data than you have free ram the copy operation will eat up all available ram or at least whatever the dirty page limit is which could be more than the available ram and cause starvation as the dirty pages cannot be swapped out and clean pages get used and marked dirty as they are freed
+
+327220
+disk	ram
+pattern10	
+so if the source disk is faster than the destination disk and you re copying more data than you have free ram the copy operation will eat up all available ram or at least whatever the dirty page limit is which could be more than the available ram and cause starvation as the dirty pages cannot be swapped out and clean pages get used and marked dirty as they are freed
+
+327769
+lvm	btrfs
+pattern0	faster	
+however using snapshots i recommend zfs or btrfs as those are much faster than lvm in combination with a way to compare and pull differences you perhaps can figure out what s correct and what not
+
+328576
+disk	ram
+pattern7	much slower	
+as disk write is much slower than solid-state ram this process takes a lot of time and hence a slow down is seen
+
+328576
+disk	ram
+pattern7	much slower	
+as disk write is much slower than solid-state ram this process takes a lot of time and hence a slow down is seen
+
+328576
+disk	ram
+pattern0	slower solid-state	
+as disk write is much slower than solid-state ram this process takes a lot of time and hence a slow down is seen
+
+330492
+interpreted-language	compiled-language
+pattern0	less strict	
+interpreted-language are typically simpler to write and to adapt being less strict than compiled-language and don t require compiling which makes them easier to distribute
+
+330691
+vim	emacs
+pattern0	easier	
+i find using emacs easier than vim
+
+335452
+sudoers	passwd	sudo	passwd
+pattern10	
+if your sudoers configuration is more sane allowing nopasswd access to only a specific list of commands that are expected to be run as batch jobs or otherwise frequently enough to make nopasswd arguably prudent then attempting to sudo other commands will still balk without a passwd
+
+335452
+sudoers	passwd	sudo	passwd
+pattern10	
+if your sudoers configuration is more sane allowing nopasswd access to only a specific list of commands that are expected to be run as batch jobs or otherwise frequently enough to make nopasswd arguably prudent then attempting to sudo other commands will still balk without a passwd
+
+338486
+disk	ram
+pattern0	more	
+personally i trust my ecc ram more than my disk and i am convinced that zfs with its end-to-end checksums reduces problem probability by orders of magnitude
+
+340984
+mouse	keyboard
+pattern7	easier	
+if your hand s already on the mouse this is easier than switching back to the keyboard to press alt+f4 for a quick window close
+
+340984
+mouse	keyboard
+pattern7	easier	
+if your hand s already on the mouse this is easier than switching back to the keyboard to press alt+f4 for a quick window close
+
+342274
+dnf	yum
+pattern7	better	
+dnf provides better dependency resolution but otherwise mirrors yum commands very closely
+
+342274
+dnf	yum
+pattern7	better dependency	
+dnf provides better dependency resolution but otherwise mirrors yum commands very closely
+
+345947
+mouse	keyboard
+pattern8	
+i have a handicap so i can work more accurate by keyboard than by mouse
+
+354178
+jobs	cron
+pattern0	longer	
+note however that without working on locking the cron jobs themselves if the long process goes longer than one cron cycle you could end up with two concurrent instances of the cron job waiting to jump into action
+
+358778
+disk	ram
+pattern10	etc. more	
+i want to use it on a laptop computer for root and home file system and storage space and data safety recoverability after power loss or other random inconsistencies very low risk of corruption due to low ram etc. is more important than disk performance
+
+358778
+disk	ram
+pattern10	etc. more important	
+i want to use it on a laptop computer for root and home file system and storage space and data safety recoverability after power loss or other random inconsistencies very low risk of corruption due to low ram etc. is more important than disk performance
+
+358778
+disk	ram
+pattern8	more important	
+i want to use it on a laptop computer for root and home file system and storage space and data safety recoverability after power loss or other random inconsistencies very low risk of corruption due to low ram etc. is more important than disk performance
+
+361816
+versioning	upgrade
+pattern7	actually newer	
+apt-get upgrade actually installs newer versioning of the packages you have
+
+361816
+versioning	upgrade
+pattern7	actually newer	
+apt-get upgrade actually installs newer versioning of the packages you have
+
+362291
+efi	multiboot
+pattern0	more	
+every time i try to multiboot with more than 1 efi distro i m stuck with boot issues that is i can t boot
+
+365749
+spaces	delimiter
+pattern8	more useful	
+with smaller files i can import into excel delimit delete the columns save as tab delimiter much more useful than spaces
+
+366067
+ubuntu	linux	ubuntu	debian	debian	linux
+pattern10	far more	
+a friend who unfortunately knows less about linux than me told me of his problem to install even basic packages on another debian distro though this seems odd since i heard that the repository of debian is far more bigger than that from ubuntu
+
+366067
+ubuntu	linux	ubuntu	debian	debian	linux
+pattern10	far more bigger	
+a friend who unfortunately knows less about linux than me told me of his problem to install even basic packages on another debian distro though this seems odd since i heard that the repository of debian is far more bigger than that from ubuntu
+
+367981
+filesystems	btrfs
+pattern0	larger other	
+grub can boot btrfs partitions however the module may be larger than other filesystems
+
+368663
+bash	zsh
+pattern10	
+in bash also works in zsh is a more effective way to read the content of a text file into a variable
+
+368663
+bash	zsh
+pattern10	
+in bash also works in zsh is a more effective way to read the content of a text file into a variable
+
+370512
+ubuntu	debian
+pattern0	better	
+but i accept recommendations and probably if you suggest me to change to ubuntu if it s better than debian for web servers
+
+370967
+disk	ram
+pattern7	naturally faster	
+if the same data need to be read a successive time before the cache is discarded or used for other data they are read from ram which is naturally faster than being read from disk
+
+370967
+disk	ram
+pattern7	naturally faster	
+if the same data need to be read a successive time before the cache is discarded or used for other data they are read from ram which is naturally faster than being read from disk
+
+371537
+strace	systemtap
+pattern8	more efficient	
+on the plus side sysdig and systemtap are vastly more efficient than strace run vmstat 1 and watch how strace pushes context switches through the roof when running
+
+376029
+ubuntu	linux	ubuntu	debian	ubuntu	mint	debian	mint	debian	linux
+pattern10	more	
+in general while i would say that debian assumes more initiative on the part of the user than ubuntu or linux mint the goal of the debian project is to offer a complete general purpose so unless you explicitly chose a minimal install a default debian installation would include most or all of the tools you d expect
+
+376029
+ubuntu	linux	ubuntu	debian	ubuntu	mint	debian	mint	debian	linux
+pattern10	more initiative	
+in general while i would say that debian assumes more initiative on the part of the user than ubuntu or linux mint the goal of the debian project is to offer a complete general purpose so unless you explicitly chose a minimal install a default debian installation would include most or all of the tools you d expect
+
+377945
+cpu	processors
+pattern0	
+if you have more than one cpu processors in this sense on your mainboard this does not properly work
+
+378229
+xfs	btrfs
+pattern0	better	
+while this does not perform quite as well as ext4 or xfs on top of md raid10 it still performs far better than the btrfs raid10 implementation or running a single btrfs device on top of md raid10 on the same devices and provides the same data safety guarantees
+
+383487
+uniq	grep
+pattern10	
+i ve found some ways using grep and a perl script which both work to remove rows based on the regex but none of them provide the count which is why uniq is much more ideal
+
+383487
+uniq	grep
+pattern10	
+i ve found some ways using grep and a perl script which both work to remove rows based on the regex but none of them provide the count which is why uniq is much more ideal
+
+385284
+freebsd	solaris	freebsd	linux
+pattern0	slower	
+showing linux s dev null was much slower than freebsd and solaris the popular unix-like systems back then
+
+386712
+debian	linux
+pattern8	less strict	
+the arch linux user community less strict than debian based package management
+
+390734
+pull	push
+pattern0	
+case 1 while the most common is the most complicated because it involves more than just push and pull commands
+
+394041
+daemons	systemd
+pattern7	no longer	
+on a systemd systemd it is no longer ok to listen on dev log directly and your daemons may not bind to the run systemd journal syslog socket on its own
+
+394041
+daemons	systemd
+pattern7	no longer ok	
+on a systemd systemd it is no longer ok to listen on dev log directly and your daemons may not bind to the run systemd journal syslog socket on its own
+
+394194
+min	max
+pattern8	
+this approach allows you to do more sophisticated queries than max or min if you need to
+
+398320
+gtk	motif
+pattern7	probably less	
+if you re going to learn to program for x you need to use some widget set motif is probably less of a distraction from studying the underlying layers than say gtk or qt
+
+398320
+gtk	motif
+pattern7	probably less	
+if you re going to learn to program for x you need to use some widget set motif is probably less of a distraction from studying the underlying layers than say gtk or qt
+
+398467
+disk	ram
+pattern0	slower	
+2 access to a ram disk goes through at least the block layer of the os which - see point 1 - has to have its data structures allocated in ram which makes ram disk access slower than ram access
+
+399353
+spaces	delimiter
+pattern0	fields	
+this commands mean the same - use 2 or more spaces as fields delimiter
+
+399656
+ubuntu	debian
+pattern7	
+kali s a debian fork and a modern version of ubuntu or debian has better hardware support
+
+399656
+ubuntu	debian
+pattern7	
+kali s a debian fork and a modern version of ubuntu or debian has better hardware support
+
+400385
+ubuntu	linux	ubuntu	mint
+pattern0	
+would i have better luck with vanilla ubuntu as opposed to linux mint or even a completely different distro
+
+404869
+subnet	packets
+pattern7	
+for example the rule replace the sender s address for all packets from the local subnet is much easier than if a client has sent something to a server then replace the receipient in the server s response by something
+
+404869
+subnet	packets
+pattern7	
+for example the rule replace the sender s address for all packets from the local subnet is much easier than if a client has sent something to a server then replace the receipient in the server s response by something
+
+408445
+disk	ram
+pattern7	much faster	
+ram is much faster than disk
+
+408445
+disk	ram
+pattern7	much faster	
+ram is much faster than disk
+
+408445
+disk	ram
+pattern0	faster	
+ram is much faster than disk
+
+409016
+disk	ram
+pattern7	longer	
+copying data to from the hard disk takes longer than copying it into out of ram
+
+409016
+disk	ram
+pattern7	longer	
+copying data to from the hard disk takes longer than copying it into out of ram
+
+409859
+cifs	smb
+pattern0	
+while that s far slower than the smb cifs solution it works perfectly
+
+409898
+debian	centos
+pattern7	even older	
+centos 7 has even older software than debian stretch especially gcc 4.8 which is too old for our work
+
+409898
+debian	centos
+pattern7	even older software	
+centos 7 has even older software than debian stretch especially gcc 4.8 which is too old for our work
+
+409898
+debian	centos
+pattern0	older software	
+centos 7 has even older software than debian stretch especially gcc 4.8 which is too old for our work
+
+409898
+ubuntu	debian
+pattern0	
+it is not much worse than with debian or ubuntu lts but then i don t have â œenterpriseâ experience either
+
+409898
+ubuntu	debian
+pattern0	
+it is not much worse than with debian or ubuntu lts but then i don t have â œenterpriseâ experience either
+
+415810
+uniq	grep
+pattern0	more	
+here is small script which sort s both files grep s for later dates than file1 and then counts wc -l if there are more than 1 uniq line should be only 1 which comes from file1
+
+418810
+subnet	packets
+pattern0	
+for example a packets addressed to 30.30.30.1 will use the sa created for the second_4a010001 connection as long as the source address lies in 20.20.20.0 28 because 28 subnet will result in a higher priority than 24 subnet
+
+424098
+dns	spf
+pattern7	easier	
+the latter spf is easier make an entry in your dns entries for the server sender domain in question that looks like this
+
+424098
+dns	spf
+pattern7	easier	
+the latter spf is easier make an entry in your dns entries for the server sender domain in question that looks like this
+
+426282
+dnf	yum
+pattern7	more	
+so for example in fedora s dnf- dnf allows more than one packages to be downloaded at a time while yum does not
+
+426282
+dnf	yum
+pattern7	more	
+so for example in fedora s dnf- dnf allows more than one packages to be downloaded at a time while yum does not
+
+428057
+ubuntu	centos	ubuntu	debian	debian	centos
+pattern7	
+note that even the apache2 config files differ in location and structure between debian ubuntu based systems and redhat centos etc tbh the debian way is easier to grok
+
+428057
+ubuntu	centos	ubuntu	debian	debian	centos
+pattern7	
+note that even the apache2 config files differ in location and structure between debian ubuntu based systems and redhat centos etc tbh the debian way is easier to grok
+
