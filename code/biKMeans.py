@@ -144,18 +144,18 @@ def testBiKMeans():
     sentences_file.close()
 
     for i in range(len(sentences)):
-        with open(os.path.join(out_path, "{}.txt".format(myNewAssments[i, 0]))) as out_file:
-            out_file.write(sentence[i])
+        with open(os.path.join(out_path, "{}.txt".format(myNewAssments[i, 0])), "a") as out_file:
+            out_file.write(sentences[i])
 
     # print 'centList=', centList
 
 if __name__ == "__main__":
 
     # 测试基础的函数
-    testBasicFunc()
+    # testBasicFunc()
 
     # 测试 kMeans 函数
     # testKMeans()
 
     # 测试二分 biKMeans 函数
-    # testBiKMeans()
+    testBiKMeans()
