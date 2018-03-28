@@ -1,0 +1,576 @@
+if the height is less than the width then it leaves the height at 4 units and scales the width to maintain the correct aspect ratio
+which means if viewport width is more than 970 and viewport height is more than 0 serve banner with size 300x250
+now the width is here greater than equals to 42.0 and the height is greater than equals to 21.0
+if the image height or width is greater than imageview scale down should be performed
+if you have a portrait device the width is smaller than the height
+if the intersection height is greater that the intersection width then it is a horizontal collision
+it because your border size is bigger than your width and height
+this also explains why this adjustment can be more than 0.5 if the height of the form is less than its width the adjustment can be more than 0.5 the max value is width divided by height but in the other case the max value is 0.5
+unfortunately 100vw includes scrollbar width so if page content is higher than window height the annoying horizontal scrollbar appears
+i ve also experimented with the line-height also when decreasing both height and line-height to 1 px the added height gets worse and font-size i ve put the height and width as attributes instead of inline css a div inside the td etc
+if width is more than 150 i will reduce the width to 150 and i will calculate the height
+the svg should never be smaller than his width or height
+this is for the case when the height of the image is larger than the width
+if auto then grid stretches its width and height to fit its content hence why your grid.width is greater than windows width
+you need to check if xpos is less than height ypos is less than width and both are greater than or equal to zero
+if the width of the bitmap is greater than the height the returned image is in landscape so i rotate it 90 degrees
+in my cellforrowatindexpath i detect the width of the device and if the width is less than 480 i set the image to the screens width and then set the height to the images height images width screen width to keep the image scaled
+i believe the aspect ratio is defined as width height so does that mean that the vision framework cannot detect rectangles that have a width bigger than height
+the height property is working fine in it but width is larger than i specified
+i resize the image if its width is more then 225 and height automatically fix with that width
+i added animation but this view can t be higher than scrollview height so i need to make this width and height after gesture like viewcontroller s view height and width
+i want this image to be cropped horizontally if the device width is smaller than image width and to have 100 of height
+if height is bigger than the width it s height won t be 100 only it s width in all cases will be 100
+topbar portrait height is bigger than topbar landscape height everywhere except iphone 6 plus
+it works well when height is bigger than width but it does not work when width is bigger than height
+if the width is greater than 320 or the height is greater than 480 it should scale in a way so that it becomes as close to 320x480 as possible but by keeping the proper proportion of width to height
+when working with a portrait photo the height is greater than the width
+after doing this i got error that width and height parameters should be less than width and height of bitmap
+for the dragging to be jerky like this the width and height of the stage must be 256 and less than width 1050 and height 293
+if the image has a greater width than height than it should be as wide as possible to 340px
+add a new row until height is greater than width
+set its imageview right margin to negative value so the width of the image is greater than width of the screen
+the result is the bitmap is the full height of the imageview and the width is much larger
+as you ve said width of zero and height of 1000 will give you vertical scrolling on a screen smaller than 1000 height
+the third url works fine when the image width is larger than the height landscape but when the height is the largest dimension portrait it resizes the height correctly but the width dimension does not get padded to fill the 600px width but instead becomes whatever size is calculated to maintain the aspect ratio
+but if it is bigger than 25px width or 25px height it needs to be resized to fit into those dimensions keeping its proportions
+i want to know if the device screen width is larger than height
+negative values for mouse.box x y and values greater than box width and height have mouse outside
+it only seems to display when the height is greater than the width
+as you can already see from these dimensions the captured image s width is smaller than its height whereas the uiimageview s width is larger than its height - the proportions are different
+note when width more than 320 or height more than height of the view it ll scroll
+the first-child column has 10 pixels or whatever the margin size is greater content area width than it s siblings
+my goal is when inner divs height or width becomes smaller than 100px then automatically re-size container
+landscape orientation is that one where the width is bigger than the height
+in the image the square represents a fixed size imageview the rectangle is a textview which can 1 line smaller height than imageview or multiline height is larger than imageview
+it isn t rendered when either the height or width is less than 200px
+for images with height larger than width it s the following line that causes error
+if width is bigger than the height it s width won t be 100 only it s height in all cases will be 100
+the width is greater than the height so our calculations are
+i have the size to 10 less than the width and 10 less than the height
+check if the image s width is bigger than its height
+if width is bigger than height print image-horizontal else print image-vertical
+the right image doesn t look like a square the width is larger than the height
+as long as the height of the window is smaller than that height plus 30 pixels you set the width of all elements with to 10 less than the width of the first one of them
+would calculating text width and then making sure it s less than textbox width height how
+now pen style thumb width is much bigger than height show correctly
+this is because the height of the second image is greater than the width
+this is used in a situation that view s width height is bigger that its parent s width height
+i need to resize the image when the height or width is bigger than 700px
+height works fine but the parent div has image s real width wich is larger then computed width
+check if object 1 s y + height is greater than object 2 s y + height and that object 1 s x + width is greater that object 2 s x
+let say i download image that height or width is larger than 2048px
+make sure you define to return a size that s bigger than cgsize width 0 height 0
+i guess it s because the height to width ratio is more than 4 3 so it s cropping the height to give a width of 300
+i think you had situation like map widget get added to a panel having width and height greater than width and height of map widget
+if its height is greater than the one given it should scale down to the desired height and scale the width as well
+second if a notification image is displayed from facebookâ s database and the height is larger than the width and also the height exceeds the maximum image height for the notification the entire image will be resized to fit the maximum allowable height for the notification image leaving white vertical bars on either side
+if the width is smaller scale the image so it has the minimum width and crop it so it has the proper height
+but 3x assets should have a width and height that is 1.5x larger than their 2x counterparts not 2x larger
+the drawn circle which as the same radius as the bitmap s width and height is slightly larger than the bitmap
+you ll need to change the width and height settings so that the width is larger than the height
+i would like somehow to fit the image to scale it normally without setting up fixed values for width and height so if the width is bigger - scale the height and if height is bigger - scale the width
+if the height is less than the width then rotate through 90 degrees
+i am trying to resize the image based on if the height is larger than the width or width height
+i am more concerned with width and height
+sigmoid approximates clamp never smaller than min never larger than max
+width must be more big than height and want it responsive
+i have a fullscreen image standard 16 9 that scales proportionally unless the users height is larger then the width
+but when the height img is more than 500px or when the img width is more than the width of the carousel the img overflows the carousel
+proportionally the hdpi screens is slightly taller than the mdpi screens
+other approaches like making the element s width larger than height or using scale would result in an elliptical arc and it would also require tweaking to positioning attributes when height or width changes
+vw for landscape orientation since in landscape the viewport width is higher than its height
+it s has the same height but has more width
+if the height of the image is greater than the width i just want to crop the height
+however the height was greater than the width indicating it was still in portrait mode .
+the image you are using should be less than total width and height of main window
+i want to change my layout depending on if the width is greater than the height
+then you might need to check if height is greater than width then use height 100 else width 100 in javascript
+is there a way to threshold only if the blob size is more than height width
+but the problem is on resizing an image with 1920 x 1200 pixels as the height is much smaller than the width
+if the width is bigger than the height i want the height to be set to auto
+the above scaling assumes that the height of the grid location is always smaller than the width of the grid location
+if the width is greater than the fixed width bump the font-size down and then check the width again
+if width goes bigger height will goes bigger
+so never height is more than 150px and width is auto to this height to keep it s ascpet ratio and also fit in this div
+similarly if width is greater than height the top position of the rotated image is incorrect
+each cell is equal width height but is much more simple to use than jtable
+and vice versa for the width if it greater than height
+i m currently using a before element with padding-top 56.25 which works only with respect to the width of the outer div and overflows the outer div if the width is much larger than the height
+the content will be scrollable as soon as its width or height goes greater than 300px
+it happens normally when child divs width or height is greater than the parent div
+if requested width or height of a window is larger than width or height of a screen desktop the function shrinks the values to the screen sizes
+the size of the picture seems much smaller than the width 380 height 419 of the uiimage
+the number will decrease if the matrix element count is greater than previous height width iteration
+is set to portrait if the page width is less than the page height
+for example an image of 126x39 pixels will not be displayed as the ratio of width divided by height is greater than 3.0 126 39 3.23
+scale does not work for images where the height is larger than the width
+if the width size is more than height size then the device is a tablet otherwise is a phone
+when the width of the page is greater than the height the device is
+now if a user uploads a picture with less height than width
+if the intersection width is greater than the intersection height the ball has hit in the bottom or vertical sides of the brick
+if it s greater than the width the height of the textinput will increase
+so the ring shape will be cropped if the width of the imageview becomes bigger than the height
+if the height is greater than the width get the ratio by dividing the new height with the old one and finally multiply the width with the ratio to get the new width if the width is greater than the height you do the opposite like in the example code below
+in your case in the 3rd circle the height and width of .bublina not same height is smaller than width thats why border-radius 100 is not making it circle
+please note that in html the radius cannot be larger than width 2 and height 2
+ensure that the bounds of the drawable produce a width and height which is greater than 0
+instead of the reaching 100 width the margin is causing less width for them due to the 20px x 12
+if the button contents width is higher than it s height then the binding will force it s width lower
+the container should hide all what is longer as it width or height
+so this will make width proportional with the height that is set but the problem is when the width is bigger than height
+jqgrid button height and width is smaller than normal buttons created using jquery ui button function
+if height has a higher value than width the browser will be in orientation portrait
+i m sure that the width of #div-width-border is always greater than the height of the element
+in second scenario i will display image in fix width and height div which will be smaller than image width and height
+the webview is in landscape setting width longer than the height
+if the image s width i bigger than its height i want the height of the croppingarea to automatically scale to the height
+you can check wether the width larger is than the height which is landscape
+i m trying to achieve a script that reads image width and height and if the image height is larger than 600 sets html div s height to 600
+i get a rectangle and then divide it until width and height is greater than 1
+the width of g is smaller than w and its height is smaller than h so
+if the width and height is more than the size of uiscrollview then it is not showing horizontal scroll bar
+if the screen width is smaller than the height i need the white circle s radius to be width 2 and if the height is smaller than the width i need the circle s radius to be height 2
+as of today no browser implements a vertical slider based solely on height being greater than width
+however if the image width is far smaller than the height the image is centered which crops the top
+it is regarded as landscape if the width is greater than the height
+the height width ratio since the height of the text box is relatively smaller than the width and the area of the text box
+therefore assuming the container s width is greater than the image s height margin -50 0 should be enough
+for the portrait mode and when image height is less than image width
+and i change widow width to for example less than 767px when body have overflow-y visible body height is bigger and bigger for every setinterval - it summed earlier height + current height
+if the background image s height is bigger than it s width it s height must be 100
+however the image is full width but not full height its more than full height so i get scrollbars
+still my pdf output s height is greater than the width
+a picture can be put in a frame if the frame width and height is greater than the picture width and height the pictures and frames cannot be rotated
+but the model is not fitting properly when the canvas width is less than height aspect ration less than 1
+then when the width or height of the control is less than width or height of given size the suitable scrollbar will be shown
+portrait is taller landscape is wider
+being a rectangular image with greater width than height means it will fill 100 width but cut off part of the height
+so the height cw + px sets the height to the size of the width and sets the top attribute to minus cr circle ratio times cw circle weight which results in positioning it either -10 of width when screen width is less than 400px or -30 of width when above 400px
+if width is less than height just discarding it and if above allowing it
+otherwise if the height of the image id greater than its width
+check box width and change image width if needed then check if image height is greater than box height if not then done
+but if the width is less than the height then the body width is 100
+when a rectangle is drawn with some line width we have 3 sizes the outer size is equal to the clientrectangle size and the inner size is less wider than clientrectangle width and less higher than the clientrectangle height
+gl_invalid_value is generated if width or height is less than 0 or
+3-1 if height is more over than width then
+so how can i set the image to load as a square and be 100 width if the width is smaller than the height and 100 height if the height is smaller than the width
+i have an image where the width is bigger than height
+in landscape mode the container s width somehow gets larger than its height as shown below
+as per your expectation create a new emulator with height 800 more than the width 480
+meaning if the height divided by width gives more than 1
+however if the image has a larger width than height it will crop the width to the height and center the image and vice versa
+if the width to height ratio of the image is more than the width to height ratio of the screen then you know you ll be using the screen width and calculating the height
+turns out â œportraitâ really just means the height is greater than the width and â œlandscapeâ means the width is greater than the height
+i have a function def randomrects x y width height x y is the top left corner and width must be less than 90 height less than 70
+if width is greater than height you know that the orientation changed to landscape
+i feel that the image background s width looks more than 400 pixels say x and the height is also more than 400 pixels say y
+the issue is that the first image is wider than body width thus creating a horizontal scroll-bar making window height smaller
+if jqgrid width or height is bigger than viewport jqgrid rows and columns outside it are not accessible in android
+the first label is taking extra width and height is less
+portrait mode sets the smaller side as the width and larger side as height for example 9 16 landscape the sets the larger side as the width and smaller side as height 16 9
+at a certain enlargement point the image height fits the full wrapper height but the image width is then larger than the wrapper width
+i m using bootstrap and i ve managed to change the height for the navigation bar when width is more than 768px from 50px to 80px
+as you can see if image width is greater than height the script first makes image 128 px height
+if the bin width is smaller than zero the bar height might become very large
+this works but i want to re-adjust the minimum height to 30px when the screen width is lower than 768px
+in case the image s width height is larger than the device s screen width height i want to crop the image so it matches the device dimensions see picture below
+if the height of window ls less than width 2 scrollbar of window is enabled
+width should be smaller than height at about 100px - the all works fine
+i just want to set the custom page width and height page width is higher than page height
+1 if image s height is greater than width then its height will be 300
+generate initial square cells that fully cover the polygon with cell size equal to either width or height whichever is lower
+or if you know that its max width is smaller then the width of the sprite then make it a rectangle with the max width and height of your element
+it is regarded as portrait if the height is greater than the width
+only elements and which determine the scaling in the x and y dimensions are calculated differently if width is greater than height
+this version gives me a fixed 500px height and an image that looses aspect ratio when viewport is smaller than image width
+the height of 5000 pixels will work as long as the width is not greater than 3353
+when the height is higher than this threshold both right panels gain additional width and the righttoppanel loses its height much faster than the rightbottompanel when decreasing height of jframe
+this will resize the original png only if its width was larger than 64 pixels or if its height is larger than 10 000 pixels
+it will look at the image height check whether the height is smaller than the width or if the width is smaller than the height and set either one to the smaller height
+this implies a width closer to 7.3 points and a row height that is more than 12 points approximately 13.7 points
+delta is there because i have a bigger width than height
+if the image height width ratio is not greater than or equal to imageview height width ratio then there will be black space shown as there will be less ratio to match to the imageview
+the above code fills black color if the source image width and height is less than 50
+if the aspect ratio is 1 then width is larger than height so you then need to assume a square the same size as height as it s the smaller value
+if the height is bigger smaller than width don t draw or set visibility false
+the width of the timetable is more than the height of the timetable
+i m using a resize function to wrap a div with a container when the browser width is less than 801px or the height is greater than the width
+in details height is getting larger than expected and event more than width
+likewise if the height is greater than the width and
+that can happen if height or width is less than 1
+â if the height is bigger than the width i switch the style to max-width 100 and height auto
+therefor all the images used should be at least 2x width 2x display height which means 4x larger
+as the width gets longer the height increases by the same but i don t want the height to exceed 35px nor start with below 5px
+by default the width and height of a box or container cannot be greater than the width and height of its parent container because the box won t fit
+if width is bigger than height this code won t work
+the problem i hit is when the width is bigger than the height
+visibility means that the element is not only displayed but also has a height and width that is greater than 0
+but when i select an area where width and height varies in which height is more than width as the cropped image then i am not getting cropped image as height and width as 160px like as shown below
+returns a nil context if width or height is greater than 320x480
+the problem is that your li has a bigger height than your width
+so in code where you perform scaling add condition which checks if the content width or height is less or equal container width or height
+setting height greater than width is needed to get the layout right between browsers
+automatically show scroll bars when content is greater than height and width like this
+the diameter of the dot shall not exceed half the height of the aggregation diamond and shall be larger than the width of the line
+if an image s height is greater than the width i want to switch to the height crop else keep the width crop
+if the image were smaller by both width and height of the container
+i m trying to set the height of a image to 150px if the image width is larger than the height and if the image height is larger than the width the width of the image changes to 150px
+2- if total rows height is bigger than current datagridview height it means there will be a scrollbar..also the same for the other scrollbar columns width is bigger than dgv width
+after that in my case if the width is greater than the height i set the the height to 100 in css and if the height is greater than the width i set the width to 100
+choose whether to divide it horizontally or vertically if its aspect ratio width height is greater than a divide it vertically
+so you can change this by editing the frame size of the slider to have a larger height than width
+but the measurement is reverse row height shows bigger number than column width
+you can check the width of the image and if the width is bigger than height you reduce the image for the width instead reduce from the height to fill the container something like that
+gl_invalid_value is generated if width or height is less than 0
+if the width is greater than the height then and
+edit this code solves your problem given height is greater than or equal to width
+the img tags will have rotateimg class if its width is greater than its height
+if width is greater than height then you ll most probably in landscape mode
+then you can safely pass in negative values or values greater than width or height
+in case the image s width is greater than the phone screen set the width of the imageview to the screen width and scale the height accordingly
+q how do i resize the output file to a smaller size with fixed width of 100 px and free height .
+if width is bigger than max-width i set the width to max-width and calculate height and then do this again for height by using this simple math formulla
+what is the reason that text s width is smaller than its height
+the height is 3 times larger than width which is unexpected
+images scratch width more than height and does t looks nice.
+if the window height is greater than the divs height the the size should be based on 100 width
+this image will not throw an error since both width and height are less than 8 191 and it s pixel count or width multiplied by height is less than 16 777 215
+i have a div with fixed position and height width is more than the window height width then full page is not appearing
+so if the parent s height is greater than the width then the child is limited by the parent s width and if the parent s width is greater than the height then the child is limited by the height
+the reason why i m struggling is that sometimes the width is bigger than the height and sometimes the height is bigger than the width
+updated to handle cases where image width is greater than height
+assuming the height or width whichever is smaller of your element is less than this total the radii will be scaled down proportionally
+you should consider if the height is bigger than the width portrait
+not only is height of keyboard so large how can height be larger than width
+in the case the matrix s width is greater than height it will be padded with 1 s to make the matrix square
+this will effectively only show scrollbar when needed if horizontal content is wider than width or vertical content is taller than height
+width - optional but might come in handy because storing height width is quicker than calculating it upon retrieval
+bottle thumb height is much bigger than width are only partly visible
+the mapview s frame is set as the screen s width and height and i found the map view s height is less than the screen height
+may be you are using the image with the size greater than the width and height mentioned in the texture
+gl_invalid_value is generated if width or height is less than 0 or greater than gl_max_texture_size
+suppose if the ckeditor height is 200px and width is 300px then end user should not be able to add more content with height and width
+i used the page view webpart and the width is set to 700 px and the height is greater than the height on the flash html
+this is a conflict on tablet ipad portrait width 768 and mobile phone landscape width 768 but height is smaller around 400 only in which cutting the height of images co z i need to keep the images width 100
+on landscape as the width is bigger than the height you should set top and bottom 0 and ratio 1 1 and center it horizontally in container
+i want to maintain the aspect ratio so in doing the width resize the height of the image becomes greater than the height of the screen
+else if the width is longer than the height you set the width to 500px and the height to auto
+because the width of the screen is bigger than height on monitor the landscape will scale better
+tr reducing the second argument to your initwithframe cgrectmake x y must be less than cell height width height
+edit this would only be true for diamonds where height is greater than or equal to the width
+the device width is bigger than its height so it seems to be inverted
+you have given width of 50 with additional margin of 5 to each of the element which is greater than 100 width
+the only problem here sometimes the sum of widths height of board cells are less than the width height of the board
+but because most monitors have a smaller height than width i used the height
+the margin will be greater than the height of the iframe
+so when the width is less than 540px i ll overwrite the height and width
+you have to calculate a ratio like this when width is bigger than height
+the widths of the children is often larger than the width of the parent
+it is smaller than the width and height of the screen
+text needs to be wordwrap if width height is less than text length can be variable depend on font size
+this results in all your elements to be larger than the height and width specified
+that is repeatedly reduce the font-size by 5 until the total width is less than or equal to 800px
+if the fixed min-width height pixel count is higher than the width height set on the element then the element will be the size of the fixed min-width height and the element size wont look the same across all monitors
+this should work as long as the height is never greater than the width
+you can give it a width height that is larger than the screen size
+if the height could be bigger than width you can add
+the padding on the #variablesize would have to be equal to or greater than the width height of the images
+so if the maximum length should be 1000px i have to check if the height or the width is bigger
+try this function.it will reduce the size of the bitmap to 512 if its width or height is greater than 512
+the width is shorter and the height and position is wrong too
+most fonts have a character width less than the height so assuming width height will definitely work
+if the width is wider than the height make your target size 500 x 375 otherwise make it 375 x 500
+i would be happy applying a class with width 100 to the image and a height auto but the height should not be more than the width
+i am in need of this if any images has more than 300 width or more than 100 height i want to convert it to width 300 width and 100 height with changing above dpi 75dpi
+when height is less than all the above mentioned height and width is more than all the above mentioned widths
+so the image can t go larger than the height or width
+to scroll or auto when the element s explicit height or width is less
+in case your form contentpane s width height is smaller than the images width height than a better option would be use
+if the image height is less that the window height start resizing the height and remove the width property to keep the aspect ratio
+therefore scaling the captured image to fit the uiimageview s width scale by 0.5 means the captured image will be of size 320x568 - its height is larger than the uiimageview s height
+the images enlarged up to the height or width which is smaller of the screen
+the values width and height shows much less than i expected
+if the height in resolution is greater than its width how do i achieve it
+â inversement if the width is bigger than the height
+visible elements have a width or height that is greater than zero
+if height x length x width 5000 is higher than actual weight then i want this to be used to calculate shipping
+set a min width 1 pixel higher than the max width of the next query
+here s what the video with height greater than width looks like
+i d say width height is overwhelmingly more common
+in java we have a restriction that width should not greater than height
+make it very narrow and while its height is bigger than the desired one keep increasing width
+which will limit the image height to 600px and will horizontally center or resize down if the parent width is smaller to the parent container maintaining proportions
+what would be perfect is keeping the percent height and width while child width is smaller than parent a width
+width and height gets more and more different
+if the image s width and height is less than 400px then don t resize and save the original in resized
+i have problem with column height in rows where at least one cell has content width is larger than header width
+how can i detect if the printed width is greater than the printed height
+each item has a border of 1px width so each item has 2px more than the height property
+just so you know you want the total width object width + padding + margin + border of both columns to be less than the width of the container
+if the height is larger than the width the window is in portrait mode
+safari will expand up to a width of 800px unless the width is already greater than 800 in which case it maintains that width and only modifies the window height
+3-2 if width is more over than height then
+even if the text size is far larger than the width or height of the textview
+if requestedsize bigger than max size of the range
+i have trouble with the other sizes - more height than width
+specifically when window width is no more than 680px iframe height should be
+if your content height and width is less the screen height and width in that case scroll will not appear if content got out of container height and width scroll will come
+if you want it to scroll the width and height must be larger than the width and height of the scrollview itself
+my assumption is that the library would take a vertical image see that the height is greater than the width and translate the height width config appropriately so the image remains vertical
+if the picture is vertical the height should be greater than the width
+so it needs to downsize the image so that both the width and height are larger than the width and height of the target maintaining aspect ratio
+portrait orientation is that one where the width smaller than the height
+determine if the span s width is greater than the useable width of the input element and update the font-size accordingly
+in that font the zero width space is taller than verdana characters are causing added height requirements
+adding margin adds more width making the total width of the two elements and their margin greater than 100 pushing the elements onto separate lines
+if left is larger than body width or top is larger than body height
+how to set the size of img so that it s max-width is set to 200px if the width is smaller than height the image height is auto in this case to preserve aspect ratio and set max-width to 200px if the width is bigger than height
+it is to make it smaller by height and width
+in case your image s width height is smaller than form contentpane s width height you might as well do not scale it since the image will fit the screen
+unless the screen height is less than 580px or width less than 930px
+you are checking whether the width which starts out at 350px is greater than height 325 and whether height 325 is greater than width 350
+i can manage the height by giving specific size but the width is displayed less than screen size
+then we can calculate the width and height of the area for that 4 points and pick the smaller one well sometime width can be greater than height i guess.
+until all your provinces are larger than min size and smaller than max size
+the whole problem is because of the div 2 height and width is larger than div 1
+above images are portrait but if you calculate height and width you will find that width is more than height
+details i wish to resize it to a specified width keep the proportions and if the height is bigger than a specified value to crop it to the specified height
+the width padding and margin together make it so that the total width of the element is larger than the width of the screen
+which means if viewport width is more than 970 and viewport height is more than 0 serve nothing
+the image is exaggerated in that it s width is normally bigger than its height
+as some height width info is farther out in the header
+if the width of the image is greater than its height landscape
+as bigger the width and the height is as better is the image definition
+when i try to change the height and width using and the height changes perfectly while the width only changes if it is less than the width of the viewport so it wont go wider than 323 pixels
+i needed to compare the width and the height of the uiimage when width is larger than height i will add border
+calculate the size of the blue view get the height width whatever is bigger calculate the missing dimension
+modify the height and width of the plots so that all four have uniform width one is substantially taller than the others which have uniform height among them
+by default the image width will fill 100 of the view port width 100vw but if the page has a height that is greater than the width or has a landscape orientation the background-size is overridden so that the image height fills 100 of the view port height 100vh
+is there a way to change the height so that its smaller than the width to make horizontal rectangles
+if the aspect ratio is 1 then the height is larger than the width
+with this gives you a figure of which the height is 300x smaller than the width
+height width are taken to show that if you 2 such children it will scroll horizontally since height of child is greater than height of parent scroll vertically
+elements smaller than height or width is less than 2000px will become circles elements larger than height or width is more than 2000px will not become circles but rather stay their original shapes but have largely rounded corners
+portait in a mobile device is that orientation where the width is smaller than the height
+unfortunately most system trays limit the height of icons to a very small size and gtk.statusicon automatically scales down the pixbuf so that both the width and height are smaller than the height limit
+the slider code automatically fills in the width of the space 100 width and the height is more or less around 500px when the browser is maximized
+and program will check if width divided by height is less one
+for some of them the width is much more bigger than the height for some of them the height is much more bigger than the width and for some of them height and width are almost the same
+i have ensured that the width value is not less than height always
+i have a header image that i would like to be 100 of the screen in width when the width of the screen is shorter than the height and 100 of the screen in height when the height the screen is shorter than the width
+although the uiimageview is square the uiimage s height is much larger than the width
+more specifically if the image height is greater than the width the generated height will be the same as the resulting .png s height but the generated width will be slightly smaller
+if the height of the image is smaller than the width i set the height to be equal to the width and crop the width accordingly with aspect unchanged
+so if the width was greater than the height doing
+if its width or height is larger than your max values then it will be resized by keeping the aspect ratio
+then if the height is longer than the width you set the height to 500px and set the width to auto
+on pageshow or pagebeforeshow add that class if screen height is greater than width portrait
+managed to accomplish it by checking whether the pan tilt amount added to the zoom width height is greater than the overall image width height then stop it from panning tilting
+however if the height is larger than the width aspect fit will increase the height of the uiimageview
+and to resize the image proportionally when the screen width is smaller than 1000px i set the max-width as 100 and height as auto using css
+if the width is larger than the height itâ s in landscape mode
+height must be between 10 and 20 if your width is greater than 5
+pages are landscape if their width is bigger than their height
+in that case if the total images width height is greater then the screen s width height it will just cut off. br
+but if a user uploads a picture with less width than height
+use min-width and or max-width to give the element a defined width which is more flexible than a single width value and then give the element a margin 1em auto style to centre it horizontally within the unused width available in its parent element
+the image is placed in a correct height but the width could be bigger or smaller than the height constraints
+with this code image will be stretched if image container width is bigger then image actual height
+that will also works if the height of the window is larger than the width
+check if image width is greater than its height and if so rotate image clockwise
+so problem is images are display more than width size and some lower than width then i won t set dynamically set height and width
+as the simplest solution swap width and height if width is lesser than height so you always get the resolution of landscape mode
+i have about 10 or more objects with same width but different height
+nb the run time screen shot is me changing the height and width of the rectangle to an arbitrary size greater than the width and height of the textbox
+rather than using fixed width height it is better to create a layout which allows the textblock to adjust its width
+this should fit the image to the height of the gridview maintaining the aspect ratio and crop the remaining width unless the image s width is smaller than that of the gridview when the height is matched
+visible elements have a width or height that is greater than zero. -
+issue has fixed size but works so long as larger than site width image height
+if the width will be greater than height so will the border thickness on sides
+then using img you always going to have a vertical scrollbar if the img height is higher than viewport height if img hasn t a parent with a width
+if the image height and width is smaller than imageview original image should be displayed
+one specifying the height of the inner view is less than the height of outer view and one specifying the width of the inner view is less than the width of outer view
+i have a bingmap its width and height is more than parent div
+and if the image s height is greater than maxheight or the width is greater than maxwidth i d like to proportionally resize the image so that it fits in maxwidth x maxheight
+chrome however stops displaying the canvas when the height becomes larger than 8130 pixels the width is constant - 834 px
+since the flex container box original width height is very less
+inversely if the width is greater the generated height will be slightly smaller
+whichever value height or width has the greater aspect ratio gets its value computed from the other value
+then i have a photo with vertical orientation please notice that height is higher have 6000 pixels and width have 4000 pixels so it is definitely vertical photo
+i then do a settimeout to check if the div s height and width is greater than 1
+so when playback i first check the orientation of the video by measuring width and height and if width is longer than height rotate textureview by 90 degrees by below code
+and if the height is actually heigher than the height set by the width you additionally need
+scaling the captured image to fit the uiimageview s height scale by 0.25 means the captured image will be of size 160x284 - its width is smaller the the uiimageview s width
+if the width is less than the height then it will scale the height by the ratio of height to width and leave the width at 4 units -2 to +2
+you will get a vertical scroll bar when the height increases more than 500px and a horizontal scroll bar if the width increases more than 250px
+when the screen in wider than its height set the image in css to width 100
+height is greater than 200 we need to calculate the new width and
+the circle will stay perfect as long as the width is less than the height
+although layout_width and layout_height are set to wrap_content the imagebutton is shown as a rectangle with the height greater than the width
+the solution is to choose the minimum metric between width and height since in multi-window mode the height can be smaller than the width
+this means that font-size is more comparable to height than it is to width
+how come photoshop sees its height bigger than its width
+and if the bitmap s height is greater than maxheight or the width is greater than maxwidth i d like to proportionally resize the image so that it fits in maxwidth x maxheight
+i want to remove the height property when screen width is less than 700px
+also if the image width or height is smaller than displaywidth scale you might want to cap it to be image width instead
+when i select images which height is bigger than width
+it breaks in case of views with width comparatively larger than height
+for cases screen height is more than 0.5625 of width outer layout parts start to eat center
+2 view - top bottom leading trailing fixed height horizontally center in container if want vertical scrolling or fixed width vertically center if want horizontal scrolling - scrollview will scroll if height of view is greater then screen size or self.view in vertical scrolling case like wise if width is greater then scroll will done in horizontal
+the first example is an image whose width is greater than its height
+specifically the height must be at least 120px and if the width is less than 100px then the aspect ratio must be no greater than 3.0
+since the size could change be greater than 650 height or width it is considered ambiguous
+when the image is resized while maintaining its aspect ratio chances are that either the image s height or width becomes smaller than imageview s dimensions
+such that a landscape image would have an ideal height of 300 or slightly larger with a width 400 and a portrait image would have an ideal width of 400 or slightly larger with a height 300
+you may want to check if the width is greater than the height
+the height is set correctly but the width is smaller than 14.5em
+on every image load a call this function with image and resize if its width or height is bigger than my max width and max height
+when browser width is less than 960p toolbar change it s height to 48p
+find out if the height is less or the width is less
+some function which can rotate images which have bigger width than height
+its a bool value so if the maximum of width or height is greater than real width then you get true
+image s width is less than div s width i can use margin auto here
+adjusting the height and width essentially adds more space around your text within the select
+your image is stretching because you ve set both the width and height to 100 so the browser is making the image width fit the div width which is thinner than the aspect ratio of your image
+so height auto seems more consistent with the grid based on width and a vertical scrollbar
+css height 100 gives an element height that is actually greater than 100 by the size of the margin
+and i don t why appears in this format width larger than height
+you can change the width and height attributes on the referenced svg if they are bigger than the width and height on the iframe element you should get scrollbars
+as-is it maximizes the width and assumes that the height is not greater than the height of the screen
+when resizing the image if the width side is larger than the height resize the image so that the image height is the div s height and hide the width overflow after centering
+so basically the small and medium sizes are a vertical layout as the height is bigger than the width
+t he height must be at least 120px and if the width is less than 100px then the aspect ratio must be no greater than 3.0
+width divided by height is larger than 1.33 but i probably wrote it wrong
+an image with more height than width will result in the above code
+then how to know when width is greater and when height is greater
+however in this case when i have 150px height image the 150 width seems start lower
+the height of the html element is showing as a height greater than screen height which goes against the common belief that html height and width are equal to screen size
+if the height is larger than the width the ratio will be y x instad of x y and minimum will be multiplied by ratio for x instead of y
+for word to recognize it as landscaped the width must be greater than the height
+the point is inside the circle iff that value is smaller than the height or width of the box
+since the height width is calculated on the visible viewport the soft keyboard apparently causes the orientation to flip now that the viewport width is less than the height
+the height must be at least 120px and if the width is less than 100px then the aspect ratio must be no greater than 3.0
+note what i observed is the margins appears only when image width is larger than height
+i have images that have height much greater than width
+if the height of the image is greater than the width then i rotate the image by 270 degrees
+the asymmetry might ve been caused by the dimensions of the spinner container .round where its width was 2px larger than its height
+now this thumbnail only gets resized if the picture is bigger than width 168 px and height 112px
+your wrapper has a height of 100 of the body which also has a height of 100 but it also has a top margin making the total outer height greater than the height of the window
+the problem is that if i am setting as per the ratio my super view height and width then the iphone height is greater than width
+i tried making them smaller with the width height
+so the scroll get the scroll width and height of the div 2 and as the div 2 height and width is greater than div 1 padding to right and bottom is not visible
+if the orginal file s width is greater than 480 or lessthan 450 then i want to set the width of output image as 450px.and the height has to be proportional of the width
+if the background image s width is bigger than it s height it s width must be 100
+if the circle s width height is larger than 1 2 of the textview height circle width height 200dp textview height 100dp then the circle gets correctly scaled but somehow there are some weird empty margins on the left right side of the circle
+the window has fixed width 300 and variable height so the scroll appears when window height is less than content height of course
+when working with a landscape photo the photo width is greater than the photo height
+with this implementation your layout will be square assuming the lower size between width and height
+height and width are both ints so if width is more than height so you are setting your view height to 0
+it itself should have a limited width and height that is smaller than it s container
+displayed but also has a height and width that is greater than 0
+if the height is bigger than the width it is portrait
+vh for portrait orientation since in portrait the viewport height is higher than its width
+following that if the width is greater than 1000 simply scale both height and width which may already have been scaled due to the height by 1000 width
+as long as the square height width are bigger than the text and the container height is bigger than the square height you should be good
+specifically if an image s width is greater than 250px resize it so the height is 250px and the width auto
+if the window width is above 1280 i would like the value for the height to be 515 and if it is below 1280 i would like the height to be 615 and if the width is less than 480 make the height 715
+the value of margin top will be equal or greater than height of the fixed header height
+suppose my collection view size is 320 width x 300 height then if content size height of collection view less than the height than the pull to refresh view is not working
+if top position relative to parent + height is higher than the parents height or left position + width is higher than the parents width assume the element is not visible
+so the height must be 1.24 times larger than the width
+change the size of the brush so the viewport has more height than width and change the geometry accordingly so the lines still appear 1px thick
+this assumes that height is greater than the width and vice versa
+this maintains the aspect ratio of the image but sets its size so it covers the div either fitting to the width or height whichever is proportionally less
+normally the html tag squeezes the image if the width or height attribute is smaller than the image itself
+in fact the gap doesn t appear at all when width is greater than height only when height is greater than width
+just check if the height is bigger then the width thus portait
+also per the api docs size is more efficient than height and width
+now program will check if width divided by height is larger than one
+how do i scale it down when height width is getting lower or higher
+it is however still possible that either the width or height is greater than the maximum set
+basically it should check weather container length or height is smaller compared to image width and height normalized and adapt it to that
+i want this to show images whose height is greater than the width
+if the video height was larger than its width the math is the same
+also if the width is smaller it will start flashing a higher height
+when the medium width becomes larger than its height then it would be the default landscape size
+in your xml the tag specifies height bigger than width hence the oval
+i have a uiimage with its width much greater than its height
+if the height or the width is larger than the contentsize it will scroll
+another option might be to scale to maximum width and then check if the scaled height is greater then the maximum allowed height and if so scale by height or vice versa
+we can assume that max 30 or more upto 100 can be the zooming effect if aspect image height or width is less than the desired height or width
+landscape and even though the width is given as longer than the height
+when i set my html5 video width and height to 100 the video height is bigger than the browser visible area and a vertical scrollbar appears
+480px seemed to be a good as no few devices had more than 480px width or less than 480px height
+apparently the draggable li element is bigger than the droppable div because the li is block size and the div has a 150px width
+meaning that if #fluid-container has a large height than width the diameter of the circle will be the width of #fluid-container but if it is the other way around width greater than height than #max-circle will have a diameter equivalent to #fluid-container s height
+whenever i resize an image to a desired size there whe width is greater than the height the proportions get screwed
+however the imageview has a smaller width than the textview
+images lower than 160 height or width will not be allowed however i m stuck on my tracks to get the width and height
+in this example the absolute difference in width is larger but the percentage difference in height is higher
+that is the height is more than half the width and depth -- little rule of thumb
+when height is more than all the above mentioned height and width
+the error says u are selecting an image that has width x height that is less than 50x50
+when i resize a borderless form to a small width and height it won t get smaller than width 132 height 38
+the idea is to create a square thumbnail defined by whether the height or width is greater
+if you re using a sprite and specifying the height and width unless the width is larger than the sprite
+in case height is more than width then you have to resize with height
+if the devices width is smaller than its height the card should also rotate 90deg
+i would like to have horizontal and vertical scrollbars if my content bigger than cell width and height
+regardless setting height greater than width is needed to get the layout right between browsers
+width - set it a width make sure it has a priority more than others but less than height
+in this case when height is bigger i want to resize my image by proper height ratio to match width 50
+this will have a diameter that is equal to either the rectangle s height or the rectangle s width whichever is smaller
+for any frame with width values larger than the height a 1 ratio the leg will begin to stretch unproportionally
+if the width is larger than the height itâ s in landscape mode.
+it is happening when width is greater than height
+this works fine when the img dimensions are smaller than the width and height
+then if the preferred width height is less than the actual width height you could manually invoke pack on the frame
+on a 5 screen roughly the width is 400px more or less and the height is 600px or more
+then the circle gets vertically centred because the height is greater than the width
+or continuously check the stage width height in onenterframe update and if height is bigger than width portrait else landscape
+if the height is more than the width then it is portrait
+how can i show a webpage in center of webview match parent width and height if webpage s height is less than screen s height
+how can i make the outer div height and width never be any smaller than the height and width of its contents
+but then my cell s height is 100 and width is less than 100
+that is if particular height or width is smaller then it should be resized
+its working fine for square images the problem is when width is greater than height
+how do i determine the picture size if it is a horizontal picture width is more than height width 300px and height 200 then insert into the database
+2 for each file check if the image width is greater than the image height
+you can infer the device orientation if the device width is greater than device height in viewwillappear
+if the largest width is greater than the largest height then a
+no distance can be greater than width 2 and height 2
+if your height is bigger and width is smaller than container width will be stretch to 100 and height will be trimmed from both side
+my image has the width bigger than the height so i want that the minumum zoom is the width
+what i was looking to do was to assign a width property of 100 if the height of the images is greater than the width and the height if the width is greater than the height
+if either is larger than 1 it means the checkbox height or width is larger
+i expect that in portrait orientation screen width is less then height
+the goal is to make the max-width wider as the original image width height gets smaller
+if the image is portrait height is greater than width the image will have a width of 100 within the div and be vertically centered
+it should look wheter the image width is higher than its height and the opposite and according to that set a height or width and the other value height width should be set proportionally so it won t get stretched
+i set the settings on the template to scale any image that is larger than 500 width and height to be resize to around 500 width and height
+since the svg s width is much larger than its height every 1px change in the height of the svg is causing the width to change by about 10px
+this method checks the outermost sides of each rectangle and detects if the distance is less than the width or height of the combined two
+shapes width are a couple of pixels larger than their height and using that value in computations works
+therefore if console window height or width is larger than buffer height or width argumentoutofrangeexception is thrown in .net there is no argumentoutofbounds exception type
+and everything goes well until the width and height is less than 1 original size
+then in the javascript you just check to see if the height or width of title is greater than the height or width of main
+if the height is greater than the width turn the display to none
+if browser width is more than 768px then set a 110px margin
+my current algorithm simply reduces width and height of each letter s rectangle until the total width sum of all letters width is less than the width of the main rectangle
+and if their width or height is greater than their containers width or height then make them automatically shrink while keeping their proportions
+this will give the center square taking up the full width or height whichever is smaller
+the button height is higher than it s width go to step 2
+when the width is greater than the height the orientation is landscape
+first you determine if existing image has width or height which is greater dimension
+sizes of elements in wpf are determined by more than just width and height
+keep on lowering the font-size until the span s width is less than the fixed width
+that is because some images have a larger width than the height ex 480 x 670
+for images having width much smaller than height no margins observed
+that means fit width when the height is less than the ratio and fit height when the width is less than the ratio
+you just should separate the x and y axis during distance comparison if the y distance is smaller than the width and the x distance is smaller than the height than there is a collision
+if i shrink the width then the image s width gets wider and if i shrink the height the image gets shorter
+the second example is an image whose height is greater than its width
+i want set page orientation to portrait with width size is higher than height size
+when the window width is smaller than its height then the orientation would be considered portrait
+choose an image which is smaller than the width and height of the div
