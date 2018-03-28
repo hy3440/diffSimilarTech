@@ -132,19 +132,22 @@ def testKMeans():
 
 def testBiKMeans():
     # 加载测试数据集
-    datMat = mat(loadDataSet('input/10.KMeans/testSet2.txt'))
+    # datMat = mat(loadDataSet('input/10.KMeans/testSet2.txt'))
+    data_file = open(embeddings_path, 'rb')
+    datMat = mat(pickle.load(data_file))
+    data_file.close()
+    centList, myNewAssments = biKMeans(datMat, 10)
 
-    centList, myNewAssments = biKMeans(datMat, 3)
-
-    print 'centList=', centList
+    # print 'centList=', centList
+    print 'Assments=', myNewAssments
 
 if __name__ == "__main__":
 
     # 测试基础的函数
-    testBasicFunc()
+    # testBasicFunc()
 
     # 测试 kMeans 函数
     # testKMeans()
 
     # 测试二分 biKMeans 函数
-    # testBiKMeans()
+    testBiKMeans()
