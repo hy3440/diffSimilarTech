@@ -136,7 +136,7 @@ def testKMeans():
     sentences_file.close()
 
     for i in range(len(sentences)):
-        with open(os.path.join(out_path, "{}.txt".format(myNewAssments[i, 0])), "a") as out_file:
+        with open(os.path.join(out_path, "{}.txt".format(clustAssing[i, 0])), "a") as out_file:
             out_file.write(sentences[i])
             out_file.write("\n")
 
