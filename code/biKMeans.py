@@ -122,14 +122,25 @@ def testBasicFunc():
 
 def testKMeans():
     # 加载测试数据集
-    datMat = mat(loadDataSet('input/10.KMeans/testSet.txt'))
+    # datMat = mat(loadDataSet('input/10.KMeans/testSet.txt'))
+    data_file = open(embeddings_path, 'rb')
+    datMat = mat(pickle.load(data_file))
+    data_file.close()
 
     # 该算法会创建k个质心，然后将每个点分配到最近的质心，再重新计算质心。
     # 这个过程重复数次，知道数据点的簇分配结果不再改变位置。
     # 运行结果（多次运行结果可能会不一样，可以试试，原因为随机质心的影响，但总的结果是对的， 因为数据足够相似）
-    myCentroids, clustAssing = kMeans(datMat, 4)
+    myCentroids, clustAssing = kMeans(datMat, 8)
+    sentences_file = open(sentences_path, 'rb')
+    sentences = pickle.load(sentences_file)
+    sentences_file.close()
 
-    print 'centroids=', myCentroids
+    for i in range(len(sentences)):
+        with open(os.path.join(out_path, "{}.txt".format(myNewAssments[i, 0])), "a") as out_file:
+            out_file.write(sentences[i])
+            out_file.write("\n")
+
+    # print 'centroids=', myCentroids
 
 def testBiKMeans():
     # 加载测试数据集
@@ -156,7 +167,7 @@ if __name__ == "__main__":
     # testBasicFunc()
 
     # 测试 kMeans 函数
-    # testKMeans()
+    testKMeans()
 
     # 测试二分 biKMeans 函数
-    testBiKMeans()
+    # testBiKMeans()
