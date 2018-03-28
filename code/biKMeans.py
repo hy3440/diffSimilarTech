@@ -13,7 +13,7 @@ import os, pickle
 
 embeddings_path = os.path.join(os.pardir, "data", "embeddings.pkl")
 sentences_path = os.path.join(os.pardir, "data", "sentences.pkl")
-out_path = os.path.join(os.pardir, "out", "biKMeans5")
+out_path = os.path.join(os.pardir, "out", "KMeans5")
 
 # 从文本中构建矩阵，加载文本文件，然后处理
 def loadDataSet(fileName):    # 通用函数，用来解析以 tab 键分隔的 floats（浮点数）
@@ -130,7 +130,7 @@ def testKMeans():
     # 该算法会创建k个质心，然后将每个点分配到最近的质心，再重新计算质心。
     # 这个过程重复数次，知道数据点的簇分配结果不再改变位置。
     # 运行结果（多次运行结果可能会不一样，可以试试，原因为随机质心的影响，但总的结果是对的， 因为数据足够相似）
-    myCentroids, clustAssing = kMeans(datMat, 8)
+    myCentroids, clustAssing = kMeans(datMat, 5)
     sentences_file = open(sentences_path, 'rb')
     sentences = pickle.load(sentences_file)
     sentences_file.close()
@@ -167,7 +167,7 @@ if __name__ == "__main__":
     # testBasicFunc()
 
     # 测试 kMeans 函数
-    # testKMeans()
+    testKMeans()
 
     # 测试二分 biKMeans 函数
-    testBiKMeans()
+    # testBiKMeans()
