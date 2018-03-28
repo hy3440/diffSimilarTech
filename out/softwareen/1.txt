@@ -1,0 +1,1836 @@
+59
+google-chrome	firefox
+i develop in firefox but browse etc in google-chrome
+
+406
+put	get
+if you have to admit a couple of times that you didn t achieve what you set out to do today then you ll be able to put a little more pressure on yourself to get things done
+
+514
+dictionary	map
+a map or dictionary type that is mutable and holds immutable keys and mutable and or immutable values
+
+572
+goto	break
+of course java s labelled break statement does the same thing but without allowing you to jump to an arbitrary point in the code which solves the problem neatly without allowing the things that make goto evil
+
+573
+goto	break
+if you re in a nested loop and need to break out of all loops a goto can make this much cleaner and simpler than break statements and if-checks
+
+606
+getter	setter
+too much code - have a field that s documented a getter method that s documented and a setter method that s documented
+
+874
+agile	sprint
+because of being agile if a change is big enough something will get dropped from the current sprint but it usually just get added next time around
+
+1161
+goto	break
+in c# goto is as safe as break continue try catch finally and return
+
+1182
+ada	pascal
+i came to .net from c and c++ with a bit of java ada and pascal thrown in so c# was the natural progression for me
+
+1196
+haskell	ocaml
+eg - haskell ocaml lisp f#
+
+1200
+lisp	scheme
+i would be intersted in learning scheme or lisp in a functional way from the ground up to kind of reset my programmer s mind
+
+1205
+lisp	scheme
+the book i always see recommended when talking about scheme or lisp is the structure and interpretation of computer programs
+
+1242
+vb.net	vb6
+most of my coworker s programming background is cobol and vb6 so vb.net was the more comfortable .net language choice for us as a team
+
+1532
+getter	setter
+it generates the constructor and the getter and setter for you
+
+1589
+getter	setter
+it infuriates me when i have to use a dollar sign prefix for variable names or underscores for private variables even with no getter setter
+
+1672
+translation	localization
+it is a more elegant solution to write everything in english and use a localization solution to translation to danish but it is a lot of work for an application that will only ever be used by danish users
+
+1714
+rss	feed
+the idea is to focus on integrating different implementations of the same paradigm scheduled http get of an rss feed vs
+
+2349
+erlang	ocaml	haskell	ocaml
+haskell f# clojure ocaml lua go d erlang objective c
+
+2607
+ws-trust	ws-federation
+there are also several language kits for embedding saml ws-trust and ws-federation single sign-on into .net java and php
+
+2711
+mouse	keyboard
+apparently while waiting for the next image to load the users all naturally moved their hand and thus the mouse towards the keyboard
+
+2800
+mouse	keyboard
+every programmer shall have their choice of mouse and keyboard
+
+2800
+mouse	keyboard
+specifically in the area of hardware dual monitor fast pc mouse keyboard comfortable chair fast connection
+
+2858
+ready	each
+the right time is when the product is ready for each stage
+
+2929
+udp	tcp
+tcp or udp
+
+3038
+post	get
+you can easily create a class that turns get and post data into good routing and parameters
+
+3038
+post	get
+you could even easily turn the get and post data into a model
+
+3071
+haskell	scheme
+that s why i learned haskell and scheme - they introduced me to function programming and mostly-functional programming respectively
+
+3071
+haskell	scheme
+i wouldn t have cared less whether scheme and haskell were widely used aside from how that would affect the available documentation and resources
+
+3080
+pull	push
+so when you push the build to your trunk the continuous integration will trigger and the build will fail and you will know and hopefully before anyone pull your not quite so complete code you ll be able to take steps
+
+3092
+post	get
+the depth you can get from a book is unmatched by for example reading various forum post
+
+3139
+printf	getchar
+sure i learned a little c in a class i can conquer some simple printf and getchar projects but i don t really think that counts as being able to list it on my resume
+
+3191
+singleton	facade
+you ll easily counter with your deep understanding of why singleton isn t as simple as it sounds how the factory is so often misunderstood or on the real relationship between decorator facade and adapter
+
+3230
+mouse	keyboard
+with a desktop computer all these issues are taken away and left with how you sit your mouse and keyboard layout etc
+
+3246
+mouse	trackpad
+i don t use the mouse often but i d sure as hell use one over the trackpad or that trackpoint garbage
+
+3374
+min	max
+this is wholey different than specifying a prefix suffix convention for things like min max avg size count index et cetera which is fine
+
+3474
+lisp	scheme
+like many alliterations it has become an epithet and pitted against real features. but lisp and scheme for example would be unreadable if not for the let shorthand and others
+
+3521
+fortran	ada
+years ago we decided to use ada for our next product but as we all used fortran in the previous product we ended up creating fortran constructs in ada
+
+3884
+pascal	delphi
+not even for highly structured languages like pascal delphi
+
+4276
+erlang	scheme	scheme	prolog	haskell	scheme
+maybe a functional language scheme haskell a object-oriented one smalltalk ruby a concurrency-oriented one erlang a logic programming one prolog and and and
+
+4281
+ironruby	ironpython
+learn f# to take on functional programming ironruby or ironpython for some dynamic programming
+
+4528
+profiling	debugging
+i have a vm strictly for profiling and debugging my code which has kcachegrind already setup along with selenium xdebug and a few other tools configured to easily profiling and debugging my code
+
+4533
+firefox	safari	google-chrome	firefox	google-chrome	safari
+you can run everything in a windows install portable ies google-chrome firefox safari ...
+
+4740
+cos	sin
+i ve worked on accounting and billing systems - and i never had to figure out log x sin cos etc for handling a general ledger or allowing data entry
+
+4825
+lisp	scheme
+thus if you only know c-like imperative languages then learning scheme lisp is extremely useful
+
+4907
+put	get
+once you put together a comprehensive list of purposes they would change before you could get it built
+
+4912
+lisp	prolog	lisp	smalltalk
+and sometimes niche languages have been around far far longer than any of the mainstream languages - smalltalk prolog and the lisp languages leap to mind
+
+5064
+pop-up	dialog
+java is not suitable for developing a tiny app that stay in system tray consumes a little memory pop-up a dialog reminding you to take a break
+
+5087
+getter	setter
+code generation i avoid them except to generate getter setter and implement an interface
+
+5091
+pascal	delphi
+i was once object pascal or delphi as many people call it
+
+5091
+internationalization	localization
+now i stick to localization internationalization programming niche
+
+5225
+post	get
+don t get me wrong here i m not trying to be evil and get ownership of other s work - i just want to keep ownership of mine and if someone post an important bugfix i could be rendered unable to use the original code unless i use his work as well
+
+5411
+put	get
+if you get a laptop why not just put it right next to you
+
+5411
+folder	directory
+for settings just backup the appdata folder on windows or your entire home directory in linux
+
+5511
+perl	tcl
+you compare python to perl bash and tcl
+
+5672
+post	get
+parsing get and post parameters required writing your own library
+
+5753
+put	get
+do some research with google to find out what it would take to land your company first and then put a proposal together to get it to happen
+
+5972
+pascal	delphi
+object pascal - delphi lazarus
+
+5975
+vim	emacs
+c++ fortran - visual studio vim emacs
+
+5993
+vim	textmate
+if i m on osx i ll use textmate at time but mostly i do everything javascript java python php in vim
+
+6004
+pascal	delphi
+object pascal - delphi lazarus
+
+6005
+lisp	prolog	lisp	smalltalk
+know the references history and higher-level implications of programming languages like lisp c prolog and smalltalk
+
+6006
+codeigniter	cakephp
+note - by actual php programing i mean for example oop using frameworks like cakephp symfony or codeigniter
+
+6008
+justmock	moles	justmock	typemock	typemock	moles
+the second one mock anything - implemented by typemock justmock and moles relies on .net s profiling api
+
+6018
+emacs	gedit
+c++ - emacs eclipse gedit
+
+6042
+imperative	declarative
+try and think of examples that are a pain to write in an imperative fashion but translates to elegant code when written in a declarative fashion
+
+6146
+submit	submission
+and today a silly regex blocks form submission because i wanted to submit php sample code
+
+6174
+post	get
+and most of the time i ll file a bug report or post in the forum if the software company actually tries to get feedback from its customers
+
+6484
+config	ini
+xml ini parsing for config of your app
+
+6500
+vim	emacs
+however what i believe distincts vim from other editors yes even emacs on this one is that it is really a great editor
+
+6510
+wordpress	phpbb
+what is a recommended setup in terms of source control builds testing bug tracking and deployment for a downloadable php application a la wordpress phpbb magento etc.
+
+6905
+junit	testng
+i ve used testng and junit
+
+7118
+disk	ram
+ram runs in nanoseconds disk in milliseconds so you can see the problem
+
+7137
+inherited	properties
+to me these are the fundamental principles of object-oriented programming complexity management code centralization and improved problem-domain modeling through the creation of object classes inherited and polymorphism and increased safety without sacrificing power or control through the use of encapsulation and properties
+
+7209
+accessor	properties
+data fields brain-dead properties accessor and similar boilerplate overhead
+
+7246
+client-side	server-side
+most of the early web servers supported server-side includes so a client-side textual include was likely thought to be unnecessary given that the same functionality was available also with frames
+
+7370
+udp	tcp
+tcp ip you should know how a socket works how to open one the difference between tcp and udp
+
+7384
+division	modulo
+division and modulo usually rounds toward zero but it s implementation defined
+
+7384
+int	double
+not only is this use of pow and the int - double conversions needed to use it rather expensive but it creates an opportunity for precision loss incidentally the code above doesn t have precision issues
+
+7389
+lisp	scheme
+lisp scheme - the strange but incredibly powerful ur-language that great hackers think defines cool
+
+7505
+entity-relationship	diagram
+i ve been handed the entity-relationship diagram for a quite complex database
+
+7533
+entity-relationship	diagram
+an entity-relationship diagram is out there to visualize a design which was made to accomplish a certain job
+
+7559
+pull	push
+1 in practice this would mean clone the original repository elsewhere fix the bug commit push the changes pull the commit to the repository you re working on merge the changes and continue your work
+
+7564
+collabnet	svn
+for svn there is collabnet and others
+
+7578
+firefox	safari	google-chrome	firefox	google-chrome	safari
+i recommend testing in the latest stable build of firefox google-chrome safari and of course ie 7 8
+
+7588
+ant	maven
+we currently use once cc.net server for our build process which builds both .net using msbuild nant and java using maven and ant
+
+7872
+puts	gets
+the code that runs before the test puts the system into a state where if the main processor gets run an alarm gets sent
+
+7917
+mouse	keyboard
+i hate the idea of anyone touching my mouse and keyboard
+
+7917
+mouse	keyboard
+i hate the idea of touching someone else s mouse and keyboard
+
+8055
+versioning	upgrade
+if i would start to focus on the .net platform and be self-employed then i probably would like to have some windows 7 windows server 2008 visual studio 2010 licenses just for the development environment and for testing and then a few licenses for the production environment a windows server 2008 web and added to that upgrade when new versioning is available
+
+8149
+min	max
+in the last 10 years i don t think i ve needed to use anything from the math library other than ceil min and max which shows that even though computers were devised to solved math-based problems the common use today is decision-making around the flow of data
+
+8152
+put	get
+pair programming - when something really complex and does require broad analysis even we would put two excellent people together and get the task done in quick time
+
+8157
+teamcity	nant
+we currently have a teamcity server that builds and deploys .net projects with msbuild msdeploy nant
+
+8217
+post	put
+for web articles blog post interesting emails put them in evernote
+
+8364
+opera	firefox
+but after looking at opera it seems to me that opera has all of the same web development functionality that firefox has built into it
+
+8409
+opera	firefox
+the main reason i stick with firefox rather than opera is that this is what the firefox bug tracking system looks like and this is what the opera one looks like - when something s not working and i m sure it s not my fault i like to be able to read and contribute to a discussion about it
+
+8409
+google-chrome	firefox
+incidentally one reason why i prefer firefox to google-chrome is that i spend a significant amount of time trying to do web development on trains with no network connection and google-chrome has this issue
+
+8491
+hide	show
+sites like filehippo even allow users to show hide betas and their updates.
+
+8589
+sorting	filtering
+nowadays most apps are always downloading data from the web and you ll need to be converting that to objects keeping them in lists sorting and filtering them and pushing them to databases
+
+8704
+firefox	safari
+so using firefox for development generally means develop in firefox then test in ie and safari
+
+8704
+firefox	safari	opera	firefox	opera	safari
+using opera would mean develop in opera then test in ie safari and firefox . just means more work for you to do
+
+8803
+boost	stl
+one thing i did was grab a large scary library i did this with boost and stl for c++ and see if every line and every keyword make sense
+
+8929
+vim	emacs
+everyone i know working with python uses emacs or vim
+
+9007
+dropbox	skydrive
+but recently i ve enjoyed having some more precious no source code data off-site without having to constantly worry about backups in case of hardware failure using services like dropbox skydrive google apps etc
+
+9016
+bazaar	git
+the advantage of a distributed system git mercurial bazaar is that even if your remote host does disappear completely you ll still have the full repository history locally from which you can start again elsewhere
+
+9105
+post	get	post	put	put	get
+one advantage to using my real name a high school friend was able to get back in touch because i made enough apparently interesting post on a language forum to put me in several of the top 10 google results for my name
+
+9283
+getter	setter
+support for code generation while obeying language rules think create all getter and setter for java classes unless a method with the same name already exists or dependent on annotations
+
+9293
+haskell	scheme
+you can study languages that have a traditional emphasis on clarity and conciseness haskell scheme python or even terser paradigms like factor and other concatenative languages but ultimately everything you could choose to study should ultimately contribute to helping you write shorter less redundant code
+
+9309
+getter	setter
+in eclipse generate setter and getter automatically similarly create methods in implements class from an interface
+
+9318
+primes	palindrome
+edit the decimal conversion is also a primes so it s a primes that has a palindrome binary representation
+
+9319
+primes	palindrome
+where they say it s a palindrome primes
+
+9344
+lisp	scheme
+i have had a knee-jerk reaction to scheme in the past but now i am ready to give lisp clojure actually a shot
+
+9344
+lisp	scheme
+edit ita software was founded by mit grads and scheme lisp was the only language that many of the mit grads learned
+
+9439
+cvs	svn
+i usually put all of these documents together in a repository that i put into a revision control system like svn or cvs
+
+9474
+primes	palindrome
+it would be neat if in ascii it represented the date when some department or faculty at university of waterloo opened. but palindrome primes is pretty sufficient to make it interesting and johnston has an easy walk over to a place where he can find a group of mathematicians capable of pulling that out of their hats
+
+9483
+firefox	safari
+the facts are simple windows ie firefox mac safari firefox
+
+9495
+opera	google-chrome
+opera google-chrome and ie 8+ all have good development tools built in to them
+
+9495
+google-chrome	firefox
+i do most of my development in google-chrome nowadays but there are still a few tasks like managing amazon servers via elasticfox that i find myself doing in firefox
+
+9496
+pop-up	dialog
+as far as tracking your time the most accurate method is to write a program that pop-up a dialog box every minute and asks you what are you doing
+
+9552
+put	get
+# if paying unlocks some capability don t put that capability in the free version as it will get cracked - regardless of how much market penetration you get
+
+9733
+lambda	first-class-functions
+some examples include referential transparency lambda functions first-class-functions lazy and eager evaluation and immutability
+
+9746
+versioning	upgrade
+many corporate users are not on the latest versioning of windows still on xp but i think more home users have upgrade because of new hardware
+
+10046
+delphi	oxygene
+oxygene included in delphi prism has the added benefit of being partially compatible with delphi native for native windows development but if you want to use ironruby or f# we won t stop you
+
+10149
+hide	show
+they are a way to group projects included in your solution workspace in eclipse in a way that allows you to hide or show different sets of projects according to the part of the code on which you want to work
+
+10230
+hash	salt
+i feel like these are serious issues and that if i were him i d want them pointed out to me but i m not a qualified programmer i m a social worker and i don t know if it would be rude of me to just buttonhole him and start blabbering about salt hash and normal forms especially when this is no longer a paid task of his
+
+10434
+versioning	upgrade
+free downloadable content for paid users and free upgrade and patches training videos cheap upgrade or free upgrade to the latest versioning
+
+10441
+freebsd	linux
+play with other operating systems like linux freebsd
+
+10449
+vb.net	vb6
+a major disadvantage in vb.net is that they brought in a lot of vb6-era crap way back in .net 1.x to ease the conversion of vb6 code
+
+10449
+vb.net	vb6
+when .net was introduced in our organization they more-or-less-officially went with vb.net because of all the vb6 coding that was already going on
+
+10539
+mouse	keyboard
+you need to consider different input strategies - mouse keyboard touch etc
+
+10539
+hide	show
+many modern gui frameworks provide themed widgets and have move size show hide animation effects often for free
+
+10656
+emacs	gedit	vim	emacs	vim	gedit	debian	linux	ubuntu	debian	ubuntu	linux	gentoo	ubuntu	gentoo	debian	gentoo	linux	slackware	suse
+i have installed and played around with ubuntu gentoo debian arch linux suse vectorlinux puppy linux slackware and fedora i have spend a good amount of time in vim and emacs and have played around with visual studio eclipse netbeans gedit and several more obscure ones
+
+10656
+erlang	lisp	erlang	scheme	erlang	ocaml	ocaml	scheme	lisp	scheme	haskell	scheme	haskell	ocaml
+then i heard that functional languages are where it s at so i played around with scheme lisp haskell erlang and ocaml
+
+10656
+kohana	yii	codeigniter	kohana	codeigniter	yii	codeigniter	cakephp	cakephp	kohana	cakephp	yii
+should i use plain php ruby on rails django cakephp codeigniter yii kohana or make my own
+
+10684
+lisp	smalltalk
+chances are the ideas incubated in either lisp or smalltalk
+
+10776
+put	get
+if you have to make 10 different source text changes and you only get 9 of them right you ve put in a bug
+
+10857
+getter	setter
+it seems a bit of a controversial subject to document everything including the javabean syntax of getter and setter for fields people say its needlessly long and repetitive breaking dry don t repeat yourself that the naming convention should explain everything and it clutters code documentation
+
+10936
+getter	setter
+for example if the getter is documented as never-returning null i generally don t document that you can t pass null to the setter unless there is a default
+
+11050
+pascal	qbasic
+i used to be able to program in qbasic turbo pascal c c++ visual basic and assembly
+
+11327
+mouse	keyboard
+a computer a mouse a keyboard and a monitor a really nice chair
+
+11372
+mouse	keyboard
+a set of exotic keyboard and mouse possibly wireless
+
+11385
+mouse	keyboard
+comfortable keyboard and mouse placed at proper height and distance
+
+11439
+post	put
+as much screen space as possible and big desks with space to put post it notes somewhere
+
+11483
+ada	pascal
+many imperative programming languages ada c c++ turbo pascal foxpro have the ability to define pointer to functions or procedure name literals that can be evaluated and the procedures named after the literal invoked at run time
+
+11669
+yacc	bison
+what is the advantage of having bison yacc etc
+
+11700
+yacc	bison
+the most important thing about bison and yacc is that they generate a state machine which would parse exactly your grammar
+
+11700
+yacc	bison
+bison and yacc make you concentrate on the grammar instead of its implementation
+
+11719
+hide	show
+show and hide what i need
+
+11725
+put	get
+personally i would put more emphasis on se than there typically is but i believe cs as a program is less appropriate for people looking to get into industry
+
+11754
+ocaml	scheme
+f# being more ml-like than scala has more of a minimal lambda calculus-y feel to it the way ocaml standard ml and scheme have
+
+11798
+dbf	dbase
+i once inherited a system where the prior developer re-implemented in java a large set of the ashton tate dbase iii+ api layered on top of custom dbf access library
+
+11808
+vim	emacs
+integrates neatly to emacs and vim
+
+11861
+children	parent
+consider an xml dom -- it makes sense for every node to have a reference to their parent and for every parent to have a list of its children
+
+11863
+put	get
+it s trying to get you to put the data and those methods together
+
+11995
+mouse	keyboard
+while i think your motives are good i would recommend not deciding on an ergonomic keyboard and mouse dual monitors etc
+
+12095
+rss	feed
+blogs and rss feed can be used to announce updates news items etc
+
+12108
+pascal	delphi	ada	pascal
+back then i took basic pascal i and ii c i and ii c++ x86 assembly expert systems delphi and ada before setting foot on a data structures class
+
+12291
+haskell	ocaml
+f# syntax is inspired by those of ocaml c# and haskell
+
+12306
+put	get
+important to you to be able to put your thoughts into writing and maybe get some feedback from other developers
+
+12318
+versioning	upgrade
+how can you tell your end users that they will need to upgrade their browser to use the latest versioning of your website without a huge outcry
+
+12318
+versioning	upgrade
+why does the expectation exist that it s ok for software to require people to upgrade windows mac versioning but a website cannot require a new browser versioning
+
+12333
+versioning	upgrade
+first of all i don t really think people have any greater motivation to upgrade windows mac versioning here are the usage share of web client operating systems august 2010 windows xp 48.32 windows 7 19.81 windows vista 18.43 mac os x 6.42 ios iphone 1.40 linux 1.34
+
+12333
+firefox	safari	opera	firefox	opera	safari	opera	google-chrome	google-chrome	firefox	google-chrome	safari
+by contrast here are the usage share statistics for browsers overall- ie 31.1 firefox 45.1 google-chrome 17.3 safari 3.7 opera 2.2
+
+12333
+versioning	upgrade
+as for your other question-- how can you tell your end users that they will need to upgrade their browser to use the latest versioning of your website without a huge outcry
+
+12390
+cvs	svn
+bro use a versioning control system svn git mercurial even old cvs is better than nothing
+
+12442
+internationalization	localization
+updated with a couple of examples although not directly to do with programming as such i think the best example for this sort of thing is with localization internationalization
+
+12442
+inherited	properties
+i ve seen one particularly nasty example of this in our code base where what was actually a parent - child relationship where the parent and child had properties with similar names was modelled with inherited
+
+12446
+children	parent
+inheritance itself is not a problem as long as you see a real relation between the classes like the classic examples such as dog extends animal and you re not putting methods on the parent class that doesn t make sense on some of it s children for example adding a bark method in the animal class wouldn t make any sense in a fish class that extends animal
+
+12447
+inherited	properties
+in general it should be preferred to create classes via composition and then converting to inherited those classes with the bulk of their properties in common leaving the differences as compositions
+
+12494
+yacc	bison
+yacc and bison use regular expressions and a bnf style syntax for lexical and syntax analysis respectively
+
+12494
+yacc	bison
+there are also yacc and bison like tools in for other languages
+
+12552
+inherited	subclassing
+if you are subclassing a to class b but nobody cares if b inherited from a or not so that s the sign that you might be doing it wrong
+
+12819
+int	boolean
+someone reading this section of the code might not realize immediately that actionsallowed is a boolean variable - it could also be an int representing the number of allowed actions
+
+12819
+int	boolean
+so by adding true it becomes clear that x is a boolean and not an int being coerced to a boolean
+
+13054
+short	base
+frequently when you see a code base for the first time just a short lists of therefores to answer the whys the code cannot can help immensely understanding what goes on
+
+13163
+put	get
+it s very demotivating to think of the huge packages options and big fat bonuses the higher-ups get often in a year when a feature i implemented sells a large number of extra licenses - while i get the same salary no matter how much or how little effort i put in
+
+13163
+put	get
+it tends to put me in the burned out unmotivated working just hard enough not to get fired mentality of peter gibbons from office space
+
+13396
+put	get
+i m drowning in user emails and i d like to implement a better way to manage all these requests i get and put them in a queue where those people on a team as well as users have access to them and can make common notes
+
+13468
+cvs	svn	bazaar	git	bazaar	cvs	bazaar	svn
+scm integration svn cvs git mercurial bazaar and darcs
+
+13601
+skype	ichat
+skype ichat ventrilo make voice conferences easy tools like git mercurial and the associated project pages online make it easy to code as a group even if you re on opposite sides of the atlantic
+
+13667
+disk	ram
+do not skip on ram - you want as much in memory as you can - some build processes are very heavy on disk usage
+
+13691
+implements	extends
+simple examples of getting a helloworld which extends a custom java class and implements a custom java interface would be very useful to me
+
+13768
+activemq	rabbitmq
+wcf nservicebus rabbitmq activemq etc. vanilla msmq restful api think mvc are all options
+
+13772
+implements	extends
+implements interfaces works similarly just import the interface extends it using a class definition such as class myclass myinterface and implements what s needed
+
+13802
+int	boolean
+for example to save space you may store multiple variables in a single 8-bit int variable by using each bit to represent a boolean
+
+13846
+disk	ram
+the same question after you double the available ram disk cpu etc
+
+13893
+range	minimum
+it allows you to define minimum supported hardware more easily so you can limit the number of customer complains - we all know most software runs on most computers it s just a matter of performance - if we set our specs so that people in the minimum requirements range has reasonably acceptable performance you limit customer complaints - and then when a customer calls in you can use the benchmarks to determine if there really is an issue or if the customer is just not happy with how the product is supposed to work
+
+13929
+phpunit	simpletest
+most php frameworks these days are unit tests for a good example of the difference in tools zend framework uses phpunit and cakephp uses simpletest
+
+14040
+post	get
+post it on hacker news - you ll get a lot of feedback
+
+14060
+super	self
+and ask him with whom he she compare him self to make the assumption that he she is super
+
+14109
+cpu	processors
+also two processors are a must so if an app locks eats cpu up the developer doesnt have to painfully way to ctrl-alt-del something
+
+14176
+vsto	add-in
+reason is i m developing a vsto add-in where there is my add-in small mb the vsto run-time .net runtime and primary interops
+
+14216
+16-bit	64bit
+likewise the simd may only support parallel 8-bit addition without implementing addition for wider elements such as 16-bit 32-bit or 64bit
+
+14256
+post	get
+next time you want to write i have been having such trouble for weeks now trying to figure out how to get the first 4 characters of a string with .net i was so confused but in the end i sorted it out and along the way i learned a lot about the string functions ... and then writing a useful post about string functions but possibly tainting yourself as someone who didn t know that basic thing start it instead some people are confused about all the different string functions
+
+14305
+for-loop	loops
+if a language has a for-loop or iterator construct then using a while loops also demonstrates implementers level of understanding of the language
+
+14308
+getter	setter
+it doesn t matter if the fields are public or private and use getter setter it s still not likely part of a well thought-out design
+
+14313
+lambda	first-class-functions
+for example think lambda functions or delegates first-class-functions versus single-method classes that implement a single-method interface
+
+14459
+post	get
+junior developer can easily grab the ideas about code review process also they are able to get what is the coding standard for instance to create api in a proper way they will learn the standardization of the coding which may help them in future specially when they are become in higher level post
+
+14486
+collabnet	svn
+give them a copy of tortoisesvn for a client and collabnet s svn server for a server and have them put their my documents folder under subversion control
+
+14594
+postgresql	mysql
+it is written in the php scripting language and works with mysql ms sql and postgresql databases and a webserver
+
+14784
+awt	swing
+it makes no difference if you learn awt and swing by writing applets or by writing desktop applications
+
+14835
+error-handling	exception-handling
+when you write a routine that calls a routine that might throw an exception-handling if you know how to handle that error correctly put the call in a try block and put the error-handling code in the catch block
+
+15050
+rss	feed
+this could be useful for book-marking sharing rss feed selection web crawlers
+
+15229
+client-side	server-side
+deployment and server-side code a silverlight app is a client-side app plain and simple
+
+15242
+put	get
+i ve seen this become a reality on occasion when the management or client put up too many barriers to simple changes quality reviews by people who know nothing about the system needing to get signoff from too many business areas that it s sometimes quicker and easier to just rip off the bandage don t tell too many people just make the change and if it works everyone s happy you might get a slap on the wrist for not following the process etc
+
+15299
+clipper	basic
+5 some obsolete languages i used to know when i was young basic pascal clipper etc
+
+15350
+hash	md5
+php s md5 hash of it becomes fe5d54132b51b7d65ab89b739b600b4b which i don t think will harm anything
+
+15386
+lisp	smalltalk
+eventually java will go the way of lisp and smalltalk and c# will follow suit
+
+15489
+versioning	upgrade
+by all rights most of these technologies could easily be just released as versioning upgrade of the older versioning but there seems to be a big need to put on this image of continually reinventing even something as basic as a data access layer
+
+15493
+public	protected
+plus python s oop model lacks any sort of data protection there aren t private protected and public members
+
+15495
+ubuntu	debian
+in this famous example the debian team broke the encryption for openssl for debian and derivatives like ubuntu when they followed the results of an analysis tool
+
+15518
+public	protected
+a simple rule that i tend to follow is verifying private functions arguments with asserts and using exceptions for public protected functions arguments
+
+15526
+put	get
+sure there may be compromises you might take a harder module because you enjoy it more and maybe you may get a lower grade than if you took an easier option but if you care about what you are doing and put the effort in you ll get good grades
+
+15526
+put	get
+put it this way if you don t get good grades and feel you could have you ll regret it sooner or later
+
+15574
+mouse	keyboard
+you can also connect a keyboard mouse to it so it s indistinguishable from a desktop when being used
+
+15576
+mouse	keyboard
+i like to use a laptop that is docked to a large monitor with a real keyboard and mouse
+
+15596
+mouse	keyboard
+i recently underwent a refresh and opted to use a laptop but only because i could have a docking station with an external mouse keyboard and 2 monitors
+
+15699
+erlang	lisp
+looking at python ruby modern perl erlang scala clojure lisp you name it in every one of those languages no patterns from gof are needed since frankly the patterns are a good way to solve some problems inherent to languages without higher-order constructs
+
+15774
+put	get
+all of these taken together have resulted in me writing code that generally has fewer bugs than before because i m now writing code that s far easier to understand and get wrong than what i previously put out
+
+15845
+matlab	simulink
+matlab simulink
+
+15923
+vim	emacs
+some of us use vim some use eclipse the crazies use emacs - but we have to do some tweaking to get the plugins the colors and the shortcuts as we like them
+
+15931
+pascal	delphi
+besides many different assembler languages i have used c c++ c# pascal delphi perl php and some lisp
+
+15965
+macvim	textmate
+if i need to do a lot of typing but don t need code-completion or debugger textmate or macvim fit the bill
+
+15969
+opera	firefox
+thats why i prefer firefox over opera
+
+15970
+google-chrome	firefox
+i use google-chrome because it feels lighter although i have no real evidence it is a better browser to firefox
+
+16017
+versioning	upgrade
+generally though updates stay within a product versioning for example hotfixes while if you want to move to a later versioning you would upgrade
+
+16057
+short	base
+for a short time a few databases followed the network model -- essentially identical to multiple inheritance and viewed from this angle multiple interfaces aren t enough different from multiple base classes to notice or care about
+
+16086
+haskell	ocaml
+in functional programming the idea of a program as a mathematical statement is very strong and often the type system in a strong statically typed language like haskell f# or ocaml can be used for testing theoremhood through proofs
+
+16086
+int	boolean
+for example let us say that we have addition and equality checking as primitive operations and int and boolean as primitive data types
+
+16149
+put	get
+i would only caution - people think abstraction is somehow this wonderful thing that needs to be put on a pedestal and that you can t get enough of
+
+16177
+pascal	gw-basic
+i d done gw-basic and turbo pascal programming a fair bit before being introduced to oo so initially it did do my head in
+
+16207
+free	malloc
+doing things in java means that you don t have to deal with stray pointers and free malloc
+
+16244
+vim	emacs
+as an example think of vim or emacs - would you like to use it without any customized settings plugins etc
+
+16306
+put	get
+financial constraints start-ups are tied for funding so they look for folks who are willing to work long hours and put in extra effort to get the product service out the door for lesser money no matter if the code base internally truly sucks and is a real maintenance nightmare
+
+16354
+agile	sprint
+agile methods provide one framework for organizing group planning--making planning visible to everyone user stories breaking it into smaller chunks sprint and providing retrospective analysis so you get better at planning
+
+16450
+mockito	easymock
+there is nothing wrong with this except that when someone else comes along and needs to use an actual mocking framework such as easymock or mockito
+
+16466
+lisp	prolog
+c c++ java c# python ruby any other language assembly lisp prolog etc
+
+16466
+lisp	prolog
+from assembly to lisp prolog or haskell
+
+16541
+vim	emacs
+for both perl and python emacs and vim
+
+16550
+spaces	delimiter
+this limited vertical spaces is a problem itâ s widely acknowledged that individual methods should be as short as possible and that corresponding braces or other block delimiter should be no more than a screen height in difference so that you may see the entire block without scrolling
+
+16610
+post	put
+on the other hand where code may be edited in other editors which does not support auto formatting it is dangerous not to put braces as mentioned in other post
+
+16659
+getter	setter
+as guidelines go i would be more concerned with avoiding side effects on getter and limiting side effects on setter
+
+16671
+put	get
+there are many times that i let comments slip and then when i get more time put them in
+
+16735
+inherited	properties
+in order for this to work i made a localizeddisplaynameattribute which inherited the â displaynameattributeâ and adds the following properties displaynameresourcename and displaynameresourcetype
+
+16777
+post	get
+what is the difference between http get and http post
+
+16844
+subtract	add
+in cobol add x to y subtract y from x compute y x + a
+
+16895
+jms	jta	jndi	jta
+ejb 1.x 2.0 jndi jms jta jts rmi jdbc servlets jsp sax dom web services soap wsdl uddi jaxb javax.mail wap wml html
+
+16898
+mockups	balsamiq
+edit toby s answer lead me to balsamiq and that is now my primary tool of choice for ui mockups to present to other people
+
+16937
+agile	sprint
+in some agile places the team can have a fair degree of autonomy in deciding what gets put into a sprint which can be a piece of what a pm handles
+
+16951
+rss	feed
+rss feed were early examples but these days you can write a client app that connects directly to twitter through their api so that the web site itself is never actually involved
+
+16962
+mockups	balsamiq
+balsamiq mockups are usually the first port of call almost as quick as using a pen and paper and reusable
+
+17147
+post	put
+i don t think i can put it any better than he did but my short summary of his post is this
+
+17166
+hex	binary
+short answer it means the information is entered as text rather than binary or hex etc
+
+17170
+srp	principles
+the srp is one of the simplest of the principles and one of the hardest to get right
+
+17204
+try-catch	exception-handling
+i do java and the single most important thing to get is the exception-handling stack trace from the point of failure and the second most important to get the arguments passed on the way down in the stack trace but that requires careful programming with try-catch around all methods
+
+17215
+put	get
+if you cut corners and put out a buggy product to suit them you re going to get the blame
+
+17387
+getter	setter
+also this does lead to anaemic entities customer would be just a bunch of getter setter but sometimes that can be a simpler overall design
+
+17394
+implements	extends
+it should be non-invasive - that is it should not force you to extends special classes or implements special interfaces
+
+17439
+google-chrome	firefox
+a guess would be google-chrome or firefox or perhaps open office or an instant messenger client
+
+17456
+i2c	spi
+besides the limited memory resources one of the aspects of embedded programming that is unlike other areas of software development is that the programmer is often dealing directly with the hardware at the register level -- either on the micro itself or in a peripheral attached to the micro via serial busses like uart spi or i2c
+
+17605
+cvs	svn	bazaar	git	bazaar	cvs	bazaar	svn
+scm integration svn cvs git mercurial bazaar and darcs
+
+17613
+agile	greenhopper
+i use jira and its associated agile greenhopper tool
+
+17650
+boost	stl
+there are some great c++ libraries stl boost that will make your life easier but c++ is like php come on
+
+17660
+lisp	prolog
+go find out why lisp prolog haskell are still in use and how things like f# are taking the concepts forward
+
+17688
+gauge	progress
+however this timesheet is really only used to determine whether or not we ve reached milestone x by a given hour usage y so its more a general gauge of progress than anything else
+
+17776
+agile	sprint
+in agile you can do sprint zero to generate a backlog of user stories and make some estimations
+
+17823
+queue	fifo
+a much simpler version of a task pool can be realized by taking priority out of priority queue where you more or less have a fifo scheduler that keeps track of time and resources
+
+17862
+bison	lemon	bison	sablecc	sablecc	lemon
+just because there s a reason not to use antlr bison coco r grammatica javacc lemon parboiled sablecc quex etc - that doesn t mean you should instantly roll your own parser+lexer
+
+17915
+int	chars
+like normal variables pointers also are of same number of types like int chars or float
+
+17916
+clang	llvm
+llvm clang is currently the default compilator on macosx xcode but it s not exactly the same releases than the llvm ones so beware of the minor differences mostly difference of version numbers
+
+17994
+imperative	declarative
+fundamentally languages can be broken down into two types imperative languages in which you instruct the computer how to do a task and declarative languages in which you tell the computer what to do
+
+18061
+client-side	server-side
+if you want it to be all java all the time you can use gwt and write both your client-side code and server-side code in java
+
+18061
+client-side	server-side
+or if you d rather have it be all javascript you can pick something like ext js for the client-side and node.js for the server-side
+
+18068
+folder	directory
+in this regard linux works better for me because the location of everything is much better standardized than on windows where for example you can find your settings almost anywhere in windows folder in your home folder in app s install directory in the registry etc
+
+18131
+getter	setter
+however the same sort of thing would apply to large class files with several methods that do related things like getter setter database updates etc
+
+18160
+i2c	spi
+you ll be using lots of serial busses like uart spi i2c and usb
+
+18188
+submit	submission
+well if you only need to submit to the graders once then why do you need to use svn at all until the final submission
+
+18345
+folder	directory
+unless you ll need more than 65534 folder per directory you should be okay apparently this is the maximum for ntfs
+
+18459
+put	get
+get invalid cases out of the way first either simply exiting or raising exceptions as appropriate put a blank line in there then add the real body of the method
+
+18513
+lisp	scheme	lisp	prolog	scheme	prolog
+they had unix machines with lisp scheme prolog smalltalk80 and a ton of other tools
+
+18597
+nhibernate	queryover
+using l2s you basically have to revert to calling stored procedures in these cases whereas for example nhibernate has several api s linq provider queryover hql etc that can be used when you want more control over the generated sql
+
+18648
+postgresql	mysql
+coming from a startup background this made no sense to me - why not use mysql or postgresql
+
+18677
+filesystems	ntfs
+although it s been modified and update since if you were being fair about things ntfs would probably be called hpfs 2.0 or maybe 3.0 -- there s no question that microsoft s best current filesystems is still closely derived from what he designed
+
+18718
+lisp	scheme
+currently it s lisp scheme to be specific to the point that i find myself writing out programming notes in it
+
+18743
+lisp	smalltalk
+solutions can be submitted in a variety of programming languages from c c++ to javascript lisp smalltalk assembler + some 40 more
+
+18776
+altera	xilinx
+ease of use is better in altera than xilinx however
+
+18853
+nfa	dfa
+this is then converted into a nfa nondeterministic finite automaton which is in turn converted into a dfa deterministic finite automaton
+
+18871
+haskell	ocaml
+initially i looked at haskell and couldn t make head or tail of it then tried ocaml but didn t get much further with that
+
+18947
+g++	gcc
+read about gcc g++ flags for compiling linking shared static debug optimized 32 64-bit modes
+
+18960
+cvs	rcs
+this is an artifact from the old days where files were versioned on an individual basis think rcs sccs and cvs where modern version control systems think in atomic commits and not individual files
+
+19043
+put	get
+amazon is chock full of books about it and personally that s the way i d go as i think it s useful to have something you can dip back into every now and then rather than a course which can fade in the memory if you don t get to put it to use immediately
+
+19070
+int	double
+numbers were either int or double even when you could have used other type
+
+19070
+int	boolean
+boolean fields bit were int no reason
+
+19163
+post	get
+there is a tipping point however in which if you could get people to post perhaps thru a required business process at some point the wiki would just take off as it would be this great repository of information
+
+19174
+gmail	hotmail
+will it in anyway be a game changer from the existing layer of highly successful web based email clients such as hotmail gmail yahoo mail etc
+
+19248
+getter	setter
+they are like transforming procedural code to use many getter and setter functions supposedly making it oo
+
+19273
+pascal	delphi
+i never did anything in oberon but reading the page oberon for pascal developers i really did not like many of the changes as a delphi pascal developer for example
+
+19343
+mouse	keyboard
+you can write a mouse or keyboard macro by hand or use the macro recorder
+
+19343
+mouse	joystick	mouse	keyboard	joystick	keyboard
+create hotkeys for keyboard joystick and mouse
+
+19343
+mouse	joystick	mouse	keyboard	joystick	keyboard
+remap keys and buttons on your keyboard joystick and mouse
+
+19395
+textarea	textbox
+the other day there was a question on stackoverflow.com in which a person was attempting to convert a input textbox into a textarea once it reached a certain number of characters i think it was 10
+
+19395
+textarea	textbox
+i suggested he retain textarea and forget the textbox altogether modifying only the attribute rows
+
+19449
+ironruby	ironpython
+i don t want to go with ironpython and ironruby however sometime later i may dip hands to explore them
+
+19641
+vbscript	jscript
+in one of my previous jobs before i left one of my tasks was to help with this document that contained various tidbits about the code base which was a mix of vbscript jscript and c c++ for the com parts in addition to various mark-up languages as this was for a dot-com after all
+
+19730
+vim	notepad++
+if you re including vim then notepad++
+
+19764
+vim	emacs
+i think only gnu smalltalk doesn t where i suspect they use emacs or vim
+
+19783
+vim	emacs
+here are the main reasons i think eclipse is brilliant and i assume other ide s and do not switch to emacs and or vim
+
+19783
+vim	emacs
+one of the arguments i hear is that with emacs vim you can create your own plugins - well ok but you can do that in eclipse too
+
+19783
+vim	emacs
+why are people using emacs vim
+
+19783
+vim	emacs
+what are the reasons to switch to vim emacs
+
+19793
+vim	emacs
+knowing vim or emacs is a good thing if you ever have to login into a remote server and edit a config file or something similar
+
+19800
+erlang	lisp	erlang	scheme	lisp	scheme	haskell	scheme
+right now i have ruby python haskell common lisp scheme and erlang all hooked into emacs
+
+19841
+vim	emacs
+both emacs and vim are very configurable and powerful editors and both provide big productivity wins once the basic concepts are grasped
+
+19908
+vim	emacs
+why should i switch to vim or emacs
+
+19908
+vim	emacs
+so if you want a more powerful text editor to use alongside eclipse then i would definitely recommend you learn either vim or emacs
+
+19935
+puts	gets
+this gets all of the latest source puts up a maintenance page migrates the database sets up the new code gets all the dependencies stops starts everything etc
+
+19974
+getter	setter
+for example it might generate a getter setter pair for you
+
+19979
+getter	setter
+with getter and setter you don t always want both but how is the compiler interpreter to know that
+
+19986
+interpreted-language	compiled-language
+they could sit somewhere in between compiled-language and interpreted-language
+
+19992
+pascal	delphi	ada	pascal	fortran	ada
+example though i am a bit of an oddball in 25 years i ve actively used apl basic more varieties than i can remember fortran several variants c c++ pascal delphi ada and a bunch more i can t even remember
+
+19993
+getter	setter
+i need to easily generate the getter setter the big try catch block i m happy if the ide can help me with the for each loop
+
+19993
+getter	setter
+ruby getter + setter + variable for my_var
+
+19993
+getter	setter
+java getter + setter + variable for myvar
+
+19996
+getter	setter
+the ide can generate some code template for a getter setter and then i am free to add additional functionality to that getter setter as my requirements dictate
+
+19996
+getter	setter
+if the getter setter was an integrated part of the language then if i ever wanted to customize the behaviour i d have to write the getter setter myself anyway.
+
+19998
+getter	setter
+for getter setter that is true for java which i guess is what you are talking about since that language lacks properties as a language construct
+
+20009
+getter	setter
+the groovy language does exactly this getter and setter are generated on the fly
+
+20009
+getter	setter
+explicit getter and setter as generated by the ide make it a bit easier to follow the flow of the program
+
+20031
+getter	setter
+your specific example - generating getter and setter certainly shows a language problem
+
+20031
+getter	setter
+you should only be writing a getter setter if it does something - but if it s generic that doesn t mean you let the ide generate it it means you don t need it in the code at all
+
+20031
+getter	setter
+ignoring temporarily that getter and setter are more than likely a sign of bad oo design
+
+20163
+post	get
+every get or post variable used is accessed via a function that will provide it a default if it doesnt exist
+
+20198
+min	max
+write code showing how you can get the max min from that list
+
+20222
+disk	ram
+estimate relative access times to l1 cache l2 cache ram rotational disk not ssd
+
+20246
+vb6	vba
+also to lend further support to rewriting i have since found out that when the porting to .net began the vba vb6 code that existed was basically translated to the .net equivalent
+
+20257
+profiler	visualvm
+the sun 6 jdk has visualvm which is a nice entry level profiler which can analyze already running programs which is a killer feature
+
+20280
+ironruby	ironpython
+also microsoft have recently made all dlr code and libraries open source under the apache 2.0 license which has enabled mono to make use of languages like ironpython ironruby and f# has been made open source only last week
+
+20406
+post	get
+also can you suggest some such sites where i can post such codes and get suggestions for improvements discuss the code with others
+
+20436
+solaris	bsd
+running linux bsd or solaris - you run full mono or silverlight
+
+20436
+unix	bsd
+you run full mono for full linux bsd or unix operating systems
+
+20436
+solaris	bsd
+mono core profile - follows the .net profile and is available on linux macos x solaris windows and bsd
+
+20436
+solaris	bsd
+cpu simd support linux bsd solaris macos x
+
+20436
+solaris	bsd
+continuations - mono.tasklets linux bsd solaris macos ps3 wii
+
+20436
+solaris	bsd
+vm injection linux bsd macos x solaris
+
+20436
+solaris	bsd
+c# compiler as a service linux macos solaris bsd android
+
+20436
+solaris	bsd
+asp.net windows linux macos bsd solaris
+
+20454
+for-loop	arrays
+show a for-loop that sums the values of an arrays
+
+20534
+ironruby	ironpython
+there are exceptions of course the dlr ironpython ironruby and f# actually are open source
+
+20573
+perl	tcl
+any time a perl python c++ or tcl program halts with an unhandled exception those language runtimes take care to register a non-zero exit code for the process
+
+20605
+post	get
+anyhow my boss is watching my screen a bit so i had better stop this post before i have to use my stack overflow reputation to get me a new job.
+
+20652
+client-side	server-side
+where app is the default client-side silverlight and app.web is the server-side code where your ria services go
+
+20742
+disk	ram
+hardware a starting point is going to be a single server with capable hardware - lots of ram multi-cpu system high performance disk multiple disk separate os swap and data disk multiple network cards lots of incoming connections
+
+20751
+apache	nginx
+setup a reverse proxy it s much more efficient to have nginx serving pages to slow mobile connections than have a heavy apache process waiting idle for the response to finish
+
+20816
+observer-pattern	command-pattern
+now ask them to redesign the system without using an observer-pattern if they mentioned it - they may choose to go for a chain of responsibility approach or perhaps a command-pattern
+
+20876
+versioning	upgrade
+if you have enough power make later versioning of your software not quite compatible with their predecessors and don t offer upgrade discounts
+
+20876
+versioning	upgrade
+you can fix a lot of them in the next versioning see above about slight incompatibilities no upgrade pricing and removing functionality
+
+20900
+implements	extends
+subclasses or classes that extends thisinterface or classes that implements internalexecute
+
+20950
+vim	gedit	gedit	nano
+i find myself using my text editor of choice vim nano gedit pick your poison much more often than any ide as of late
+
+20963
+button	checkbox
+to create your own button class inherit from the button checkbox or radiobutton class..
+
+21036
+16-bit	64bit
+when reading a binary file you have to pack unpack 16-bit 32-bit 64bit etc
+
+21042
+jython	pypy
+there is pypy which is written in rpython a statically typed subset of python jython in java ironpython in c# pynie in nqp and pir and so on
+
+21092
+getter	setter
+code generation - generate getter and setter implement methods from an interface with a couple clicks
+
+21092
+getter	setter
+in actionscript a variable that is actually a setter getter will be colored like a function
+
+21092
+getter	setter
+intellij is very good at renaming even setter and getter or string usages
+
+21115
+profiling	debugging
+you might want to implement a garbage collector use a static pool in lieu of asking the kernel for each block or do your own profiling debugging
+
+21116
+entity-relationship	diagram
+draw an entity-relationship diagram representing the sentences
+
+21172
+post	get
+if you re releasing source code or other materials for others to re-use your original post is absolutely correct - you must include a warranty waiver otherwise someone might turn around and say you released this code claiming it did x y and z - but it doesn t and i m going to sue you even if you didn t get paid for it
+
+21602
+scheme	racket
+i ended up chucking it getting started with plt scheme now racket which comes with a comparatively simple cross-platform ide a centralized package repository and fabulous docs including an intermediate tutorial specifically aimed at web development
+
+21602
+lisp	scheme
+this means that you can either pick up scheme or learn common lisp through some other editor first lispworks personal probably
+
+21624
+haskell	ocaml
+in addition to java i d suggest doing a few small projects in a lower level language c is a good one for this a scripting language i prefer perl but python is also a good choice a functional language lisp is the general recommendation here but ocaml and haskell are also good choices and at least get comfortable with reading an assembly language
+
+21628
+perl	tcl
+bash tcl and perl or javascript allow the use of undefined variables
+
+21645
+pull	push
+#31 push me pull me negotiation.
+
+21656
+lisp	scheme
+one is learning lisp i mean scheme is a dialect of lisp and other is great insight into how to program.period
+
+21715
+put	get
+the people putting together bids don t want to waste their time if they have no chance of winning so their normal estimations get put on hold
+
+21735
+wtl	atl
+my colleague is very open towards external frameworks and offers to restructure the code by finding an existing library something along the lines of wtl boost tinyxml atl
+
+21788
+super	extends
+effective java by joshua bloch recommends the following approach when designing an interface that will rely on generics producers extends consumers super
+
+21802
+getter	setter
+getter and setter are often criticized as being not proper oo
+
+21802
+getter	setter
+on the other hand most oo code i ve seen has extensive getter and setter
+
+21802
+getter	setter
+when are getter and setter justified
+
+21802
+getter	setter
+if your favorite language has properties mine does then such things are also considered getter and setter for this question
+
+21802
+getter	setter
+sources for getter setter criticism some taken from comments to give them better visibility
+
+21802
+getter	setter
+to state the criticism simply getter and setter allow you to manipulate the internal state of objects from outside of the object
+
+21802
+getter	setter
+the getter and setter made the code much more complicated without affording proper encapsulation
+
+21802
+getter	setter
+because the internal state is accessible to other objects we don t gain a whole lot by adding these getter and setter
+
+21803
+getter	setter
+the basic reason for getter and setter in java is very simple
+
+21808
+getter	setter
+when i expect to diddle with the data later on a getter setter is justified
+
+21808
+getter	setter
+also if change is happening i often push the data into a getter setter
+
+21809
+getter	setter
+having getter and setter does not in itself break encapsulation
+
+21809
+getter	setter
+what does break encapsulation is having a getter and a setter for every data member every field in java lingo
+
+21821
+ubuntu	linux
+i also wanted to become more exposed to linux so i installed ubuntu and started working with java since then
+
+21840
+getter	setter
+your question is when is a getter setter justified
+
+21843
+client-side	server-side
+did sun decide to concentrate on the server-side and let client-side stagnate
+
+21857
+getter	setter
+if getter and setter violate encapsulation and true oo then i m seriously in trouble
+
+21857
+getter	setter
+what do i do without getter and setter
+
+21982
+profiling	benchmarking
+if an app seems to be dragging unexpectedly then i ll use a profiling and see what i can find and then if something can be improved i ll start benchmarking various ways i can think of to do something faster and then see how it scales up
+
+21994
+google-chrome	firefox
+here i think eclipse has an advantage similar to firefox s advantage over google-chrome there are many more plug-ins available and developers are much more likely to write an eclipse plug-in than otherwise
+
+21994
+google-chrome	firefox
+i use both google-chrome and firefox but some things google-chrome just can t handle
+
+22054
+ada	pascal
+a good school will expose you to c or some other procedural language like pascal or ada then c++ and a assembly leaving you to learn java on your own as you pursue project capstone courses on your junior senior year
+
+22054
+ada	pascal
+in summary if they don t teach you a procedural programming language be it an industrial one like c or ada or one good enough for teaching like pascal and they give you if c++ if you are lucky or java c# if you are unlucky i would look for another school
+
+22106
+vim	emacs
+other than using emacs vim with ctags or cscope or both are there alternatives to c++ code navigation of an existing code base
+
+22139
+outputstream	inputstream
+inputstream and outputstream
+
+22284
+put	get
+then you all put your shoulder to the wheel and get the job done
+
+22305
+firefox	safari
+but there s an update for firefox every other day apple updates safari more or less annually
+
+22305
+versioning	upgrade
+with ie we ve had the situation arise where we have to support an old versioning because the it department of the company in question does not allow the employees to upgrade
+
+22306
+google-chrome	safari
+despite google-chrome s rapid update schedule the rendering and interpretation stays pretty consistent thanks to the webkit engine which powers by both google-chrome and safari
+
+22307
+versioning	upgrade
+chrome s new versioning adoption rate is really fast because of their automatic upgrade
+
+22308
+google-chrome	safari
+google-chrome safari and others use webkit as the core see
+
+22333
+firefox	safari
+this is pretty much true for safari which also uses webkit and firefox
+
+22395
+bazaar	trac	bazaar	git	bazaar	svn
+basically is there a way to do this with git bazaar mercurialand still use svn trac as intended
+
+22430
+i2c	spi
+that is generally when you are writing code to interface with the various peripherals serial busses like uart spi i2c or usb 8 and 16-bit timers clock generators and adcs and dacs
+
+22564
+srp	principles
+you re likely breaking srp single responsibility principles
+
+22656
+width	height
+clearly it s width height are 3 3 but what is it s second point
+
+22676
+width	height
+i always liked defining a rectangle as a point + width and height where the point is the upper-left corner of the rectangle
+
+22682
+width	height
+one corner point height and width
+
+22682
+width	height
+centre point half height and width uncommon but sometimes useful
+
+22682
+width	height
+bottomleft topright width height centre diagonal length etc
+
+22683
+width	height
+in two dimensions storing a rectangle as two points is clearer than defining a particular corner and a width and height - consider negative width or height or the calculations required to determine each option from the other
+
+22683
+width	height
+performing rotations on a rectangle defined by points is also much simpler than one defined with a point plus width and height
+
+22694
+width	height
+also some apis such as wcf s rect structure define a rectangle as x y width height which could then cause confusion over what 1 2 3 4 means
+
+22728
+width	height
+simple syntax for properties xmin xmax ymin ymax width height so that the user does not need to know the exact choice of parameters
+
+22728
+floating-point	integer
+note in order to minimize loss of precision during scaling transform it is sometimes appropriate to implement a second rect class that uses floating-point coordinates so that intermediate results can be stored accurately in a sequence of transforms and only rounded to integer in the last step
+
+22745
+put	get
+it is just stupidly easy for me to put something together using code igniter i get it done quickly and get it out the door
+
+22754
+pull	push
+additionally in an environment where you have several branches feeding a main repository if everyone follows the always pull before you commit or push the ci server might be a little over kill
+
+22775
+wordpress	joomla
+definitely go with a well-known cms like drupal wordpress or joomla
+
+22785
+int	chars
+it is strongly typed you can not accidentally mix bool chars int and float values
+
+22944
+ubuntu	debian
+this means a maintained yum installation site or - for debian ubuntu an apt-get repository - so that updates are automatic
+
+22999
+free	malloc
+so you re going to have to become familiar with malloc and free
+
+23074
+jsf	seam
+for the last five years or so i ve mainly developed web applications in java jsf seam etc.
+
+23146
+hash	salt
+and yes the passwords are going to be salt and hash
+
+23166
+hash	salt
+you can t do this because you don t know what the passwords are so you can t compare them because all that you store is the hash of the password and a salt which you can store next to the hash password
+
+23196
+post	get
+it doesn t take a long time to post a tweet probably less than it would take to get up walk to the water cooler and strike up a brief chat with a coworker
+
+23241
+client-side	server-side
+the main difference between less and other css precompilers being that less allows real-time compilation via less.js by the browser. less can run on the client-side and server-side or can be compiled into plain css.
+
+23270
+ubuntu	linux
+my main development os is windows 7 but i ve used linux and i currently dual-boot with ubuntu
+
+23299
+versioning	upgrade
+but i ve upgrade big sites from 2.0 to 3.5 admittedly not a huge change between those two versioning without issue
+
+23299
+versioning	upgrade
+i upgrade any project or solution that was last saved in an older versioning
+
+23321
+put	get
+at the very least you will have something else to put in your resume but that really is not the best thing you will get out of it
+
+23396
+post	get
+complexity rest demands much less in terms of setup it s just get post after all
+
+23411
+int	double
+try out every primitive type int double string etc
+
+23449
+put	get
+not only get but also put and delete should be exactly the same result if applied once or several times you re free of returning a 404 if already deleted or no change if the client is putting the same
+
+23468
+opera	firefox	opera	google-chrome	google-chrome	firefox
+naturally their ie gpu enhanced lovely demos didn t quite work so nice on other html 5 browsers such as the latest google-chrome of firefox beta or opera
+
+23502
+versioning	upgrade
+in the later versioning of visual studio you can upgrade the solution to vs10 and still target a previous framework
+
+23513
+rss	feed
+read books tutorials articles blogs rss feed etc
+
+23729
+google-chrome	safari
+normal browsing - on safari or google-chrome mac os x
+
+23748
+sse	avx
+also array alignment w.r.t cache lines and sse avx boundaries is important to the generation and execution of efficient loops
+
+23748
+sse	avx
+sse avx loads and stores can be utilized
+
+24053
+put	get
+generics is the mechanism allowing a list to contain strings instead of naked objects where the compiler enforces that an item to be put into the the list is a string and it knows that when you get an item out of a list it is a string
+
+24095
+for-loop	arrays	for-loop	loops
+enhanced for each loops the for-loop syntax is extended with special syntax for iterating over each member of either an arrays or any iterable such as the standard collection classes using a construct of the form
+
+24095
+versioning	upgrade
+upgrade of jaxb to versioning 2.0 including integration of a stax parser
+
+24095
+sorting	filtering
+many gui improvements such as integration of swingworker in the api table sorting and filtering and true swing double-buffering eliminating the gray-area effect
+
+24316
+submit	submission
+a might then be a way of drawing their eye to an important field that will be posted on form submission even though no action is technically required for the form to submit
+
+24393
+post	get
+another use is converting get post data into appropriate types for a database
+
+24469
+put	get
+that personal chef can put in so many touches that while yes it is expensive some people tend to believe you pay for what you get and want lots of little things that they do pay but they may be happy in the end
+
+24482
+mongodb	bson
+classified as a nosql database mongodb eschews the traditional table-based relational database structure in favor of json -like documents with dynamic schemas mongodb calls the format bson making the integration of data in certain types of applications easier and faster.
+
+24543
+lisp	scheme
+it looks like you ve done your homework so you probably already know this but scheme is a dialect of lisp just like common lisp is
+
+24543
+lisp	scheme
+if you like a lot of things about scheme but don t like its academic nature try common lisp
+
+24544
+scheme	racket
+if you want to explore a really kick-ass dialect of scheme have a look at racket
+
+24550
+haskell	scheme
+if you were interviewing at a blub shop and the developers just thought you were weird because of your proficiency at scheme or haskell or f# you probably wouldn t want to work there
+
+24550
+lisp	scheme	haskell	scheme
+i ve written some in scheme f# emacs lisp and common lisp and read at least a bit of haskell at least occasionally over the last few years
+
+24556
+put	get
+but put it through convert and you get a nan
+
+24560
+cpython	pypy
+this byte code can be interpreted official cpython or jit compiled pypy
+

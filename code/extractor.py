@@ -218,7 +218,7 @@ def extract_pattern08710(current_id, techs, pattern, words, line, start, end, ta
 
         (int, [str], int, [str], str, int, int, [str]) -> None
     """
-    pattern08710_file = open(os.path.join(os.pardir, "out", "softwarerecs", "sentences.txt"), "a")
+    pattern08710_file = open(os.path.join(os.pardir, "out", "softwareen", "sentences.txt"), "a")
     pattern08710_file.write("{}\n".format(current_id))
     pattern08710_file.write("{}\n".format("\t".join(techs)))
     tech_pair = []
@@ -274,7 +274,7 @@ def extract(no):
         nlp = spacy.load('en')
         matcher = Matcher(nlp.vocab)
         add_patterns(matcher)
-        with open(os.path.join(os.pardir, "out", "softwarerecs", "{}.txt".format(no))) as data_file:
+        with open(os.path.join(os.pardir, "out", "softwareen", "{}.txt".format(no))) as data_file:
             compa_sent_count = 0
             for line in data_file:
                 if num % 4 == 0:
@@ -292,7 +292,7 @@ def extract(no):
                                 extract_pattern08710(current_id, techs, pattern, words, line, start, end, tags)
                             else:
                                 pattern234 += 1
-                                pattern234_file = open(os.path.join(os.pardir, "out", "softwarerecs", "pattern234.txt"), "a")
+                                pattern234_file = open(os.path.join(os.pardir, "out", "softwareen", "pattern234.txt"), "a")
                                 pattern234_file.write("{}\n".format(current_id))
                                 pattern234_file.write("{}\n".format("\t".join(techs)))
                                 pattern234_file.write("pattern"+str(pattern)+"\t")
@@ -306,7 +306,7 @@ def extract(no):
 print(datetime.datetime.now())
 
 try:
-    for i in range(27182, 27190):
+    for i in range(1, 9):
         (c, t, p) = extract(i)
         total_compa += c
         total_sent += t
@@ -320,7 +320,7 @@ try:
 # for proc in procs:
 #     proc.join()
 finally:
-    with open(os.path.join(os.pardir, "out", "softwarerecs", "relations.txt"), "a") as recordings_file:
+    with open(os.path.join(os.pardir, "out", "softwareen", "relations.txt"), "a") as recordings_file:
         recordings_file.write(str(len(recordings))+"\n\n")
         for key, values in recordings.items():
             recordings_file.write(key[0]+"\t"+key[1]+"\t"+str(len(values))+"\n")
@@ -331,7 +331,7 @@ finally:
     print("{} / {}".format(total_compa, total_sent))
     print("{} pattern234\n".format(total_pattern234))
 
-    with open(os.path.join(os.pardir, "out", "softwarerecs", "relations.pkl"), 'wb') as output_file:
+    with open(os.path.join(os.pardir, "out", "softwareen", "relations.pkl"), 'wb') as output_file:
         pickle.dump(recordings, output_file)
 
     sorted_jjr = sorted(jjr.items(), key=operator.itemgetter(1), reverse=True)
@@ -340,19 +340,19 @@ finally:
     sorted_rbr = sorted(rbr.items(), key=operator.itemgetter(1), reverse=True)
     sorted_other = sorted(other.items(), key=operator.itemgetter(1), reverse=True)
 
-    with open(os.path.join(os.path.pardir, "out", "softwarerecs", "jjr.txt"), "a") as out_file:
+    with open(os.path.join(os.path.pardir, "out", "softwareen", "jjr.txt"), "a") as out_file:
         for word, frequency in sorted_jjr:
             out_file.write("{:<20}{}\n".format(word, frequency))
 
-    with open(os.path.join(os.path.pardir, "out", "softwarerecs", "jj.txt"), "a") as out_file1:
+    with open(os.path.join(os.path.pardir, "out", "softwareen", "jj.txt"), "a") as out_file1:
         for word, frequency in sorted_jj:
             out_file1.write("{:<20}{}\n".format(word, frequency))
 
-    with open(os.path.join(os.path.pardir, "out", "softwarerecs", "nn.txt"), "a") as out_file2:
+    with open(os.path.join(os.path.pardir, "out", "softwareen", "nn.txt"), "a") as out_file2:
         for word, frequency in sorted_nn:
             out_file2.write("{:<20}{}\n".format(word, frequency))
 
-    with open(os.path.join(os.path.pardir, "out", "softwarerecs", "rbr.txt"), "a") as out_file3:
+    with open(os.path.join(os.path.pardir, "out", "softwareen", "rbr.txt"), "a") as out_file3:
         for word, frequency in sorted_rbr:
             out_file3.write("{:<20}{}\n".format(word, frequency))
 

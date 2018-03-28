@@ -1,0 +1,3 @@
+more                19
+less                5
+faster              2

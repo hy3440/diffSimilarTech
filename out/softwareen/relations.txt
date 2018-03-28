@@ -1,0 +1,170 @@
+44
+
+scheme	lisp	2
+('scheme', 'more', 'lisp', '', '93045', 'scheme is the more functionally oriented of the two main lisp dialects smaller and purer than common lisp but less widely used in industry\n')
+('scheme', 'more functionally', 'lisp', '', '93045', 'scheme is the more functionally oriented of the two main lisp dialects smaller and purer than common lisp but less widely used in industry\n')
+
+declarative	imperative	1
+('declarative', 'more intuitive', 'imperative', '', '25039', 'i can t find the right post anymore but eric lippert and possibly several other softies have opined on several occasions about how linq is declarative which for several classes of problems is far more intuitive than imperative syntax\n')
+
+quicksort	heapsort	2
+('quicksort', 'lower', 'heapsort', '', '194264', 'quicksort has a lower constant factor than heapsort but it s worst case complexity is o n 2 so some variant switch back to heapsort in order to avoid that behavior for instance introsort but i m pretty sure i ve seen the idea applied in the early 90 s\n')
+('quicksort', 'lower constant', 'heapsort', '', '194264', 'quicksort has a lower constant factor than heapsort but it s worst case complexity is o n 2 so some variant switch back to heapsort in order to avoid that behavior for instance introsort but i m pretty sure i ve seen the idea applied in the early 90 s\n')
+
+haskell	ocaml	2
+('haskell', 'better', 'ocaml', '', '62693', 'but marketing is very important and haskell does it better than lisp or ocaml and competes for the same userbase\n')
+('haskell', 'poorer', 'ocaml', '', '69704', 'just learning haskell is poorer in that aspect though of course you could learn ocaml after haskell\n')
+
+javascriptmvc	backbone.js	2
+('javascriptmvc', 'much more', 'backbone.js', '', '122647', 'but javascriptmvc is much more powerful in terms of features vs backbone.js or spine\n')
+('javascriptmvc', 'much more powerful', 'backbone.js', 'usability', '122647', 'but javascriptmvc is much more powerful in terms of features vs backbone.js or spine\n')
+
+bazaar	svn	1
+('bazaar', 'better', 'svn', '', '74630', 'as counter-intuitive as it sounds a distributed version control system mercurial git bazaar is better to start with than a centralized system svn cvs\n')
+
+filesystems	ntfs	1
+('filesystems', 'more sense', 'ntfs', '', '81935', 'fourth linux filesystems make a lot more sense than ntfs\n')
+
+awt	swing	3
+('awt', 'older', 'swing', '', '112488', 'awt is older than swing and supports only a limited set of components\n')
+('swing', 'more', 'awt', '', '112488', 'swing is more modern as sun engineers learned from their awt mistakes and made something better albeit more complex\n')
+('swing', 'more modern', 'awt', '', '112488', 'swing is more modern as sun engineers learned from their awt mistakes and made something better albeit more complex\n')
+
+width	height	2
+('width', 'much bigger', 'height', 'memory', '56384', 'almost all monitors have an aspect ratio where width is much bigger than the height and yet almost all websites are designed exactly for the other way round\n')
+('width', 'bigger', 'height', 'memory', '56384', 'almost all monitors have an aspect ratio where width is much bigger than the height and yet almost all websites are designed exactly for the other way round\n')
+
+argumentnullexception	argumentexception	1
+('argumentnullexception', 'narrower', 'argumentexception', '', '119683', 'argumentnullexception is narrower than argumentexception\n')
+
+parent	children	2
+('parent', 'object greater', 'children', '', '165268', 'as i read in the documentation of heap data structure the algorithm compares the objects with existing nodes and places them in such a way that parent object is greater than the children\n')
+('parent', 'greater', 'children', '', '165268', 'as i read in the documentation of heap data structure the algorithm compares the objects with existing nodes and places them in such a way that parent object is greater than the children\n')
+
+modulo	division	1
+('modulo', 'faster general', 'division', 'performance', '170448', 'multiplication division and modulo powers of 2 are much faster than general division\n')
+
+boolean	int	1
+('boolean', 'better', 'int', '', '74188', 'if there are 20 bit columns non-null boolean is it better to explicitly hold them in an int type int32\n')
+
+sctp	mtu	1
+('sctp', 'bigger', 'mtu', 'memory', '146852', 'i wouldn t be surprised to see sendmsg work without issue but if you are using sctp in stream mode and sending buffers bigger than the mtu this may not remain true\n')
+
+fixed-point	floating-point	1
+('fixed-point', 'slower', 'floating-point', 'performance', '167166', 'while fixed-point numbers are somewhat easier to handle in terms of exactness if only because they are easier to reason about they are inferior to floats in pretty much every other regard - they have less precision a smaller range and because extra operations are needed to correct calculations for the implicit shift fixed-point math today is often slower than floating-point math\n')
+
+min	max	1
+('min', 'greater', 'max', '', '145841', 'this is done by setting a max and min variable to the first element of the array and for each element after that if that element is less than the min or greater than the max set the min or max to the new value\n')
+
+bazaar	git	4
+('git', 'much easier', 'bazaar', 'usability', '97116', 'git seems much easier to extend than bazaar and you don t have to use any one particular api to do it\n')
+('bazaar', 'more structured', 'git', '', '63364', 'i think the learning curve is much lighter for bazaar than git and bazaar has more structured support for different vcs layouts than git\n')
+('bazaar', 'more', 'git', '', '63364', 'i think the learning curve is much lighter for bazaar than git and bazaar has more structured support for different vcs layouts than git\n')
+('bazaar', 'better', 'git', '', '96943', 'i don t know how many such rants i ve seen the last few weeks but they all seem to consider it as fact that mercurial and or bazaar are objectively better than git\n')
+
+perforce	svn	1
+('perforce', 'better', 'svn', '', '85869', 'because svn is well svn and perforce from the one time 4 years back when comparing tools does some things better than svn\n')
+
+compiled-language	interpreted-language	2
+('compiled-language', 'faster', 'interpreted-language', 'performance', '147350', 'compiled-language are going to be faster than interpreted-language\n')
+('compiled-language', 'faster', 'interpreted-language', 'performance', '75763', 'even if you can clearly measure that an application using a compiled-language is faster than an interpreted-language or vice versa the question still remains does it matter\n')
+
+mvp	presenter	2
+('mvp', 'mvvm slightly better', 'presenter', '', '171054', 'that is mvp mvvm provides slightly better structure to solve this - presenter or view model are parts which know of the screen size\n')
+('mvp', 'mvvm slightly better structure', 'presenter', 'usability', '171054', 'that is mvp mvvm provides slightly better structure to solve this - presenter or view model are parts which know of the screen size\n')
+
+maven	ant	7
+('maven', 'more declarative', 'ant', '', '29073', 'the maven approach is more declarative than ant\n')
+('maven', 'more', 'ant', '', '124131', 'learning maven is more about learning concepts whereas learning ant is more about learning individual commands\n')
+('ant', 'more', 'maven', '', '124139', 'ant is more ancient than maven and does not handle as much\n')
+('ant', 'more ancient', 'maven', '', '124139', 'ant is more ancient than maven and does not handle as much\n')
+('maven', 'approach more declarative', 'ant', 'usability', '29073', 'the maven approach is more declarative than ant\n')
+('maven', 'easier', 'ant', 'usability', '120334', 'maven s aim of convention over configuration means that two different projects will have very similar structure making transition between them much easier than with ant\n')
+('maven', 'approach more', 'ant', 'usability', '29073', 'the maven approach is more declarative than ant\n')
+
+nginx	apache	2
+('nginx', 'alot better', 'apache', '', '128674', 'which are two methods to simulate sockets over http they are way more efficient than polling and technically could scale to the 10k if you use a light weight server such as nginx which is alot better at handling concurent connections than apache\n')
+('nginx', 'better', 'apache', '', '128674', 'as for the server with more than 100 connections you could get a amazon ec2 micro server instance for something like 19 month that lets you run nginx and could scale a lot better than apache\n')
+
+notepad++	textmate	2
+('notepad++', 'less', 'textmate', '', '75776', 'notepad++ is less powerful than textmate for app programming but has interesting features for web development\n')
+('notepad++', 'less powerful', 'textmate', 'usability', '75776', 'notepad++ is less powerful than textmate for app programming but has interesting features for web development\n')
+
+feedback	review	2
+('feedback', 'much slower', 'review', 'performance', '179403', 'instead of writing one test and then functionality you ll end up writing many tests and feedback is much slower since between review approvals it could take hours if not days\n')
+('feedback', 'slower', 'review', 'performance', '179403', 'instead of writing one test and then functionality you ll end up writing many tests and feedback is much slower since between review approvals it could take hours if not days\n')
+
+icollection	ienumerable	2
+('icollection', 'more concrete', 'ienumerable', '', '118473', 'an icollection is more concrete than an ienumerable\n')
+('icollection', 'more', 'ienumerable', '', '118473', 'an icollection is more concrete than an ienumerable\n')
+
+postgresql	mysql	2
+('postgresql', 'better', 'mysql', '', '54350', 'postgresql implements character varying and text in the same manner toast tables - this approach most would argue is better than mysql\n')
+('mysql', 'probably easier', 'postgresql', 'usability', '187396', 'mysql is probably easier to port an application to but postgresql is probably easier to port a data environment to..\n')
+
+jsf	wicket	2
+('jsf', 'actually better', 'wicket', '', '135706', 'some of the wicket guys have been saying things about jsf performance but according to this elaborate benchmark jsf actually performs better than wicket\n')
+('jsf', 'better', 'wicket', '', '135706', 'some of the wicket guys have been saying things about jsf performance but according to this elaborate benchmark jsf actually performs better than wicket\n')
+
+setter	getter	2
+('setter', 'better', 'getter', '', '93183', 'is it better to manage this state in setter or is it better to do it in getter\n')
+('getter', 'more common', 'setter', '', '187888', 'getter will almost always be more common than setter\n')
+
+vb.net	vb6	2
+('vb.net', 'more similar', 'vb6', '', '114078', 'vb.net is more similar to vb6 and it should make it easier for\n')
+('vb.net', 'more', 'vb6', '', '114078', 'vb.net is more similar to vb6 and it should make it easier for\n')
+
+heapsort	mergesort	2
+('heapsort', 'less', 'mergesort', '', '194617', 'often times there will be a trade-off between time and space for example quicksort requires o log n extra memory while heapsort can use o 1 extra memory however the hidden constants in heapsort makes it less attractive there s also the stability issue which make mergesort more attractive if you don t mind payign the extra memory costs\n')
+('heapsort', 'less attractive', 'mergesort', '', '194617', 'often times there will be a trade-off between time and space for example quicksort requires o log n extra memory while heapsort can use o 1 extra memory however the hidden constants in heapsort makes it less attractive there s also the stability issue which make mergesort more attractive if you don t mind payign the extra memory costs\n')
+
+multiplying	addition	2
+('multiplying', 'still slower', 'addition', 'performance', '172839', 'multiplying is still slower than addition on most cpus even if the difference has shrunk tremendously over the years so let s just count multiplication\n')
+('multiplying', 'slower', 'addition', 'performance', '172839', 'multiplying is still slower than addition on most cpus even if the difference has shrunk tremendously over the years so let s just count multiplication\n')
+
+mouse	keyboard	2
+('mouse', 'fewer keystrokes', 'keyboard', '', '65634', 'this generally amounts to a more generous area with mouse selection or fewer keystrokes with keyboard selection\n')
+('keyboard', 'less', 'mouse', '', '189074', 'i understand that computers are basically a complex system of electrical signatures that can calculate based on logic boards and some sort of gate mechanism but how do computers process something like if the number produced by the keyboard is less than 10 or if a mouse is clicked two times in a certain amount of time it equals a double click\n')
+
+redmine	trac	1
+('redmine', 'more flexible', 'trac', 'usability', '78887', 'redmine on your own server - ruby nice more flexible than trac but have some minor youngness lacks\n')
+
+floating-point	integer	2
+('floating-point', 'slower', 'integer', 'performance', '167166', 'fixed-point numbers used to be popular when hardware floating-point units were uncommon or at least much slower than their integer counterparts\n')
+('floating-point', 'slower', 'integer', 'performance', '166284', 'floating-point is generally undesirable in hard-real-time applications both due to accumulation of error and the fact that fp computation is typically slower than integer arithmetic\n')
+
+get	put	1
+('get', 'more', 'put', '', '163337', 'if you hate school you won t get more out than you put in\n')
+
+int	chars	2
+('int', 'smaller', 'chars', 'memory', '161429', 'then size of a short int is at least 16 bits and not smaller than chars\n')
+('int', 'more', 'chars', '', '149756', 'int is 4 bytes in vb.net right and can store way more than 65k chars\n')
+
+firefox	google-chrome	3
+('firefox', 'somehow less', 'google-chrome', '', '127588', 'it s basically just a numbers game so users don t think firefox is somehow less good than google-chrome simply because google-chrome is version 16 and firefox is version 3.6\n')
+('firefox', 'somehow less good', 'google-chrome', '', '127588', 'it s basically just a numbers game so users don t think firefox is somehow less good than google-chrome simply because google-chrome is version 16 and firefox is version 3.6\n')
+('firefox', 'less good', 'google-chrome', '', '127588', 'it s basically just a numbers game so users don t think firefox is somehow less good than google-chrome simply because google-chrome is version 16 and firefox is version 3.6\n')
+
+vim	emacs	2
+('vim', 'faster', 'emacs', 'performance', '61742', 'and while vi was getting kind of hoary vim has rejuvenated it and if anything it s growing feature-wise at least faster than emacs\n')
+('vim', 'less', 'emacs', '', '28497', 'i know emacs most than others vim a little less than emacs and knows where to click in visual studio\n')
+
+prolog	lisp	1
+('prolog', 'better', 'lisp', '', '84407', 'i am kind of fond of prolog but i m not an ai programmer so i don t think i m qualified to judge for myself why prolog is better than lisp scheme\n')
+
+goto	break	1
+('goto', 'simpler', 'break', 'usability', '573', 'if you re in a nested loop and need to break out of all loops a goto can make this much cleaner and simpler than break statements and if-checks\n')
+
+jasmine	sinon	1
+('jasmine', 'more', 'sinon', '', '178184', 'jasmine is more of a bdd framework and sinon the unit testing\n')
+
+multiplying	add	1
+('multiplying', 'longer', 'add', '', '137783', 'knowing that a multiplying takes a lot longer than an add\n')
+
+octal	binary	1
+('octal', 'easier', 'binary', 'usability', '170662', 'octal fit real nicely on these displays and was easier than binary or decimal\n')
+
+try-catch	error-handling	2
+('try-catch', 'more', 'error-handling', '', '141616', 'try-catch allows for more object-oriented error-handling as was mentioned by avoiding the use of magic numbers\n')
+('try-catch', 'more object-oriented', 'error-handling', '', '141616', 'try-catch allows for more object-oriented error-handling as was mentioned by avoiding the use of magic numbers\n')
+

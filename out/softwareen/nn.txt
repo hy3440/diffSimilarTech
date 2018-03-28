@@ -1,0 +1,6 @@
+approach            2
+mvvm                2
+object              2
+sense               1
+structure           1
+keystrokes          1

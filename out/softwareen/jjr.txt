@@ -1,0 +1,16 @@
+better              25
+more                9
+slower              9
+easier              7
+less                6
+bigger              4
+greater             4
+narrower            3
+older               3
+faster              3
+poorer              2
+lower               2
+fewer               1
+simpler             1
+longer              1
+smaller             1
