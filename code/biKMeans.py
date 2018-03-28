@@ -12,7 +12,8 @@ import os, pickle
 
 
 embeddings_path = os.path.join(os.pardir, "data", "embeddings.pkl")
-out_path = os.path.join(os.pardir, "data", "sentences.pkl")
+sentences_path = os.path.join(os.pardir, "data", "sentences.pkl")
+out_path = os.path.join(os.pardir, "out", "clusters")
 
 # 从文本中构建矩阵，加载文本文件，然后处理
 def loadDataSet(fileName):    # 通用函数，用来解析以 tab 键分隔的 floats（浮点数）
@@ -136,18 +137,25 @@ def testBiKMeans():
     data_file = open(embeddings_path, 'rb')
     datMat = mat(pickle.load(data_file))
     data_file.close()
-    centList, myNewAssments = biKMeans(datMat, 10)
+    centList, myNewAssments = biKMeans(datMat, 8)
+
+    sentences_file = open(sentences_path, 'rb')
+    sentences = pickle.load(sentences_file)
+    sentences_file.close()
+
+    for i in range(len(sentences)):
+        with open(os.path.join(out_path, "{}.txt".format(myNewAssments[i, 0]))) as out_file:
+            out_file.write(sentence[i])
 
     # print 'centList=', centList
-    print 'Assments=', myNewAssments
 
 if __name__ == "__main__":
 
     # 测试基础的函数
-    # testBasicFunc()
+    testBasicFunc()
 
     # 测试 kMeans 函数
     # testKMeans()
 
     # 测试二分 biKMeans 函数
-    testBiKMeans()
+    # testBiKMeans()
