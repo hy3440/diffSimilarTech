@@ -11,7 +11,7 @@ import pickle
 from prepros import get_words
 
 batch = 10000
-table_name = "posts"
+table_name = "Posts"
 pw = "ccywch"
 # pw = "yfwrshgrm"
 
@@ -133,11 +133,10 @@ def main(start):
             for words in word_list:
                 if words == []:
                     continue
-                print(words)
                 rtn = check_tech_pairs(words)
                 if rtn is not None:
                     compa_sent_count += 1
-                    data_file = open(os.path.join(os.pardir, "out", "{}", "{}.txt".format(table_name, os.getpid())), "a")
+                    data_file = open(os.path.join(os.pardir, "out", table_name, "{}.txt".format(os.getpid())), "a")
                     data_file.write("{}\n".format(current_id))
                     data_file.write("{}\n".format(rtn[1]))
                     data_file.write("{}\n".format(rtn[0]))
