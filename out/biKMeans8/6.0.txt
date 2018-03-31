@@ -1,8 +1,0 @@
-the width exceeds but height is less
-device height greater than device width
-its height is greater than width
-mobile devices have greater height than width in contrary computers have greater width than height
-device width greater than device height
-height is greater than width
-sometimes width greater than height and sometimes width lesser than height
-first set height greater than width

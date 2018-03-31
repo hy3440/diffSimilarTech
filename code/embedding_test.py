@@ -3,6 +3,6 @@ import logging
 import os
 
 
-fname = os.path.join(os.pardir, "data", "mymodel30000000")
+fname = os.path.join(os.pardir, "data", "mymodel")
 model = gensim.models.Word2Vec.load(fname)
-print(model.wv.most_similar(positive=['performance']))
+print(model.wv.vocab['a'])

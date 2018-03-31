@@ -106,15 +106,18 @@ def separate_sentence_and_word(processed_data):
              For example, [[i, like, football][this, python, module, is, very, confusing]]
     """
     word_list = []
-    sentence_list = re.split(r"&#xa;|&#xd;|!|\?|;|\. ", processed_data)
+    # sentence_list = re.split(r"&#xa;|&#xd;|!|\?|;|\. ", processed_data)
+    sentence_list = re.split(r"&#xa;|&#xd;|!|;|\. ", processed_data)
 
     for sentence in sentence_list:
         if (not sentence.isspace()) and sentence:
             sentence = re.sub(r"\.$", "", sentence)
+            if "?" in sentence:
+                sentence = sentence.split("?")[1]
             word_list.append(
                 re.sub(r"[^\w|\+|\.|#|-]", " ", sentence).split())
-    if len(word_list) != 0 and word_list[-1] == []:
-        word_list = word_list[:-1]
+    # if len(word_list) != 0 and word_list[-1] == []:
+    #     word_list = word_list[:-1]
     return word_list
 
 
