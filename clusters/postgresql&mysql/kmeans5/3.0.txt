@@ -1,0 +1,52 @@
+fyi postgresql scales better than mysql on multi-processor overlapping requests from a review i was reading a few months back sorry no link
+
+mysql is probably more often offered by shared hosting providers postgresql is probably a little more powerful
+
+i hear postgresql is more robust and doesn t crash like mysql does in these situations
+
+while postgresql is less popular than mysql most of the serious web hosting supports it
+
+traditionally postgresql has had fewer security issues than mysql but they are both doing very well on that
+
+i would recommend postgresql for a beginner as it has far fewer surprises than mysql
+
+i just recently switched databases to postgresql which has given me a slew of problems although i must admit i like it a lot better than mysql
+
+postgresql supports some more security features than mysql for example integration with gssapi or kerberos for logins last i checked mysql didn t have these
+
+postgresql has more established support for this but mysql has played catch up in the last year or so and has a working method of this in the latest versions
+
+postgresql is far more powerful and scalable and doesn t have mysql s silly limitations and gotchas
+
+while mysql is more famous for serious enterprise-quality database where preserving your data is critical i recommend postgresql
+
+postgresql specifically has gotten easier to manage while mysql has lost some of the simplicity that gave it an advantage without picking up enough features that really matter
+
+mysql i am told can be optimized to do faster reads than postgresql but both are pretty ridiculously fast in terms of # transactions sec they support and it doesn t sound like that s your problem
+
+this is ancedotal but the postgresql servers i ve managed have always been much less troublesome than mysql which likes to randomly crash once in a while occasionally corrupting a table on the way down
+
+some people were saying that postgresql is better for security purposes whereas mysql is becoming more feature rich.
+
+and postgresql has fewer experienced administrators than the big databases and mysql which i believe contributes to the reputation
+
+the only reason i was considering postgresql was that some research suggested postgresql has much better support for changing schemas along the way than mysql
+
+some recent tests we did showed that postgresql does perform faster than mysql and we believe the table partitioning feature in postgresql will be very important with a table in our database we foresee to grow into 100 million rows and more in production
+
+postgresql gets much better performance and this is coming from a former mysql partisan
+
+in most regards postgresql is slower than mysql especially when it comes to fine tuning in the end
+
+i did some benchmarking 3 years ago may be stale... which showed that on large datasets basically postgresql fulltext is 10-100x faster than mysql and xapian 10-100x faster than postgresql but not integrated
+
+while mysql has a larger user base postgresql is gaining more an more popularity ever since implementing several crucial features that were missing in earlier versions
+
+some say mysql is much better for bigger projects while others think just go with postgresql
+
+according to my own experience postgresql run much faster than mysql especially handling big tables 1.4 gb lineitem table in my case
+
+postgresql is worth learning and much more advanced than mysql
+
+mysql is more widely supported and a little easier to use but postgresql has some very cool features and functionality that s worth taking a gander at
+

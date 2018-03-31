@@ -1,0 +1,52 @@
+anyways mysql is bad and on longterm especially if you are enough good for java i suggest you to use some better db with postgresql you were really satisfied i think
+
+for these ultra simple queries postgresql can be slower than mysql - postgresql has richer planner that works better on more complex queries but on trivial queries is slower
+
+if you want to use sql i strongly reccommend postgresql it seems to deal with large databases and frequent writes a lot better than mysql
+
+i would need a scalable database so probably postgresql would be better than mysql
+
+postgresql seem to better than mysql in terms of speed
+
+also you might take the time to compare postgresql and see if there is something about it that meets your needs as well or better than mysql
+
+postgresql is way better than mysql in nearly every respect
+
+postgresql is better than mysql in many ways
+
+i also personally believe that postgresql has better handling of complex queries that include sub-selects and the like which most mysql users used to avoid
+
+explain in postgresql is way more useful than in mysql
+
+postgresql is much more complete and solid and will much better support complex queries and their optimization while mysql may shine in terms of retrieval speed for extremely simple queries
+
+given postgresql s reputation for doing things better than mysql or at least as good as i daresay that postgresql would demonstrate similar performance if properly used
+
+postgresql requires more tuning than mysql to achieve optimal performance
+
+in general postgresql knows more tricks for how to optimize complicated queries than the mysql optimizer does but it also relies heavily on your having given the optimizer enough data to work with
+
+then postgresql is much better than mysql
+
+i really like postgresql s indexes which are far better than mysql s
+
+postgresql is much better suited for data warehousing compared to mysql
+
+you might look at postgresql as i find it a bit easier to manage and maintain as i feel some aspects are more logical than mysql
+
+mysql is easier than postgresql but it doesn t really matter either way
+
+honestly though postgresql scales much better than mysql
+
+postgresql supports recursive queries in the form of recursive common table expressions which make querying heirarchical data easier than in mysql and also give better performance
+
+there are workloads where postgresql is better and there are workloads where mysql is better
+
+however people often argue that postgresql is cleaner and easier to use that mysql
+
+as i said postgresql is far superior and i hate mucking with mysql s bizarre bugs and i think that overall postgresql performance is probably better than mysql for any even slightly complicated query
+
+as for reliability i think that postgresql is more reliable especially when compared to mysql using myisam - innodb is a lot better here
+
+the query optimizer in postgresql is more advanced than in mysql and copes with complicated statements much better especially when it comes to sub-selects
+

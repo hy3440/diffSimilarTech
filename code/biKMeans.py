@@ -1,5 +1,5 @@
 #!/usr/bin/python
-# coding:utf8
+# encoding=utf8
 '''
 Created on Feb 16, 2011
 Update on 2017-05-18
@@ -137,7 +137,7 @@ def testKMeans(k):
 
     for i in range(len(sentences)):
         with open(os.path.join(out_path, "{}.txt".format(clustAssing[i, 0])), "a") as out_file:
-            out_file.write(sentences[i])
+            out_file.write(sentences[i].encode("utf-8"))
             out_file.write("\n")
 
     # print 'centroids=', myCentroids
@@ -156,7 +156,7 @@ def testBiKMeans(k):
 
     for i in range(len(sentences)):
         with open(os.path.join(out_path, "{}.txt".format(myNewAssments[i, 0])), "a") as out_file:
-            out_file.write(sentences[i])
+            out_file.write(sentences[i].encode("utf-8"))
             out_file.write("\n")
 
     # print 'centList=', centList
@@ -168,7 +168,7 @@ if __name__ == "__main__":
     # testBasicFunc()
 
     # 测试 kMeans 函数
-    testKMeans(k)
+    # testKMeans(k)
 
     # 测试二分 biKMeans 函数
-    # testBiKMeans(k)
+    testBiKMeans(k)

@@ -1,0 +1,16 @@
+mysql is probably more often offered by shared hosting providers postgresql is probably a little more powerful
+
+while postgresql is less popular than mysql most of the serious web hosting supports it
+
+i suggest postgresql it s more capable has more features and better support for complex queries and datatypes than mysql and has a lot of tuning options
+
+postgresql is much more complete and solid and will much better support complex queries and their optimization while mysql may shine in terms of retrieval speed for extremely simple queries
+
+postgresql is far more powerful and scalable and doesn t have mysql s silly limitations and gotchas
+
+postgresql requires more tuning than mysql to achieve optimal performance
+
+there are workloads where postgresql is better and there are workloads where mysql is better
+
+mysql is more widely supported and a little easier to use but postgresql has some very cool features and functionality that s worth taking a gander at
+

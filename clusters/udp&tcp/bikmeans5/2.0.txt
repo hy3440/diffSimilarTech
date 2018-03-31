@@ -1,0 +1,20 @@
+i am confused why tcp throughput is bigger than udp
+
+udp is faster and requires less bandwidth than tcp
+
+in doing so the tradefoff is that tcp becomes slower compared to udp
+
+4 tcp is a slower than udp
+
+what s currently baffling me is in my results tcp finishes almost 2x faster than udp
+
+theoretically udp should be be 30-50 faster than tcp because it s missing the extra trip for the ack and has a smaller header overhead however in reality there are many cases where tcp would outperform udp just because of congestion control
+
+udp has less overhead than tcp and is therefore faster
+
+i was expecting that udp would be faster but tcp is on average two times faster than udp
+
+the package is bigger than udp s package but smaller than tcp s package
+
+with tcp its slightly slower than udp and has more features
+

@@ -1,0 +1,42 @@
+do you find rails with postgresql is slower than mysql knowing that it produce more query on the background
+
+if you want to use sql i strongly reccommend postgresql it seems to deal with large databases and frequent writes a lot better than mysql
+
+all that said postgresql is much more acid compliant than mysql it handles fks just as you re needing and i would generally recommend it based on what you ve expressed in your post
+
+i would recommend postgresql for a beginner as it has far fewer surprises than mysql
+
+postgresql is also a lot better imo than mysql and is the recommended database to use with django according to a lot of the people close to django
+
+explain in postgresql is way more useful than in mysql
+
+i totally understand the error and assume that the mysql implementation is less sql conform than the postgresql implementation
+
+does that mean perhaps rails team favor postgresql slightly more than mysql
+
+now i m not sure if i d say postgresql is generally better than mysql -- there are certainly things that mysql does much better and so it certainly has its uses -- but these are a few things i absolutely love about it
+
+in general postgresql knows more tricks for how to optimize complicated queries than the mysql optimizer does but it also relies heavily on your having given the optimizer enough data to work with
+
+postgresql is much better suited for data warehousing compared to mysql
+
+since postgresql is a lot more sane than mysql there are not that many tricks to report on
+
+there is also postgresql its a bit more robust than mysql and is free just the same
+
+you might look at postgresql as i find it a bit easier to manage and maintain as i feel some aspects are more logical than mysql
+
+postgresql will always be a little bit more mature than mysql
+
+honestly though postgresql scales much better than mysql
+
+however people often argue that postgresql is cleaner and easier to use that mysql
+
+as i said postgresql is far superior and i hate mucking with mysql s bizarre bugs and i think that overall postgresql performance is probably better than mysql for any even slightly complicated query
+
+postgresql is worth learning and much more advanced than mysql
+
+i feel postgresql is much more mature and robust than mysql
+
+the query optimizer in postgresql is more advanced than in mysql and copes with complicated statements much better especially when it comes to sub-selects
+
