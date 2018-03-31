@@ -1,6 +1,7 @@
 # import nltk
 import os
 import pickle
+from prepros import *
 # from prepros import add_patterns, get_cv_and_cin, get_words
 # import pymysql.cursors
 # import spacy
@@ -30,11 +31,5 @@ import pickle
 #         connection.commit()
 #         count += 1
 # connection.close()
-
-synonyms_file = open(os.path.join(os.pardir, "data", "synonyms_for_all_similar_techs.pkl"), 'rb')
-synonyms = pickle.load(synonyms_file)
-synonyms_file.close()
-
-for key in synonyms.keys():
-    if key[0] == ".":
-        print(key)
+row = """\code test python? java-js but you don't know"""
+print(get_words(row))

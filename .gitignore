@@ -1,2 +1,4 @@
+data/sentences.pkl
+data/embeddings.pkl
 *.xml
 

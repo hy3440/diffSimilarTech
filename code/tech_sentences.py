@@ -10,6 +10,11 @@ import os.path
 import pickle
 from prepros import get_words
 
+batch = 10000
+table_name = "posts"
+pw = "ccywch"
+# pw = "yfwrshgrm"
+
 similar_techs_file = open(os.path.join(os.pardir, "data", "similar_techs.pkl"), 'rb')
 similar_techs = pickle.load(similar_techs_file)
 similar_techs_file.close()
@@ -115,10 +120,10 @@ def main(start):
     try:
         cnx = mysql.connector.connect(host='localhost',
                                       user='root',
-                                      password='ccywch',
+                                      password=pw,
                                       db='stackoverflow')
         cursor = cnx.cursor()
-        query = "SELECT Id, Body FROM Softwareen WHERE Score >= 0 AND Id >= {} AND Id < {}".format(start, start+24624)
+        query = "SELECT Id, Body FROM {} WHERE Score >= 0 AND Id >= {} AND Id < {}".format(table_name, start, start+batch)
         cursor.execute(query)
         for current_id, row in cursor.fetchall():
             post_count += 1
@@ -126,10 +131,13 @@ def main(start):
             total_sent_count += len(word_list)
 
             for words in word_list:
+                if words == []:
+                    continue
+                print(words)
                 rtn = check_tech_pairs(words)
                 if rtn is not None:
                     compa_sent_count += 1
-                    data_file = open(os.path.join(os.pardir, "out", "softwareen", "{}.txt".format(os.getpid())), "a")
+                    data_file = open(os.path.join(os.pardir, "out", "{}", "{}.txt".format(table_name, os.getpid())), "a")
                     data_file.write("{}\n".format(current_id))
                     data_file.write("{}\n".format(rtn[1]))
                     data_file.write("{}\n".format(rtn[0]))
@@ -138,7 +146,7 @@ def main(start):
     finally:
         print("Proc {}: {}/{} from {} to {} ({} posts)".format(os.getpid(), compa_sent_count, total_sent_count, start, current_id, post_count))
 
-datalist = [j*24624 for j in range(8)]
+datalist = [j*batch for j in range(8)]
 
 procs = []
 for i in range(8):
