@@ -1,0 +1,94 @@
+0---------------------------------------------------
+
+udp is not always faster than tcp
+
+does udp always perform better than tcp
+
+this was surprising for me as i expected udp to perform better than tcp
+
+-- does udp always perform better than tcp
+
+4 tcp is a slower than udp
+
+1---------------------------------------------------
+
+the fact that udp s header size is less than tcp s is because is a simpler protocol that needs less header space that s all there is to it
+
+why the header size of udp is less than tcp
+
+2---------------------------------------------------
+
+udp is way lighter and faster but somewhat less reliable than tcp
+
+and there are no handshakings required udp are pretty much faster but less reliable than tcp
+
+3---------------------------------------------------
+
+tcp is way better then udp for that
+
+or is there any specific scenario where udp is better than tcp
+
+scenario where udp is better than tcp
+
+for some requirements tcp is better for some udp
+
+4---------------------------------------------------
+
+tcp is reliable but slower than udp while udp is not safe and i have to implement my own fault-handling codes
+
+but with the udp protocol in particular this is easier than for tcp
+
+tcp is a slower more reliable protocol than udp is
+
+5---------------------------------------------------
+
+with tcp its slightly slower than udp and has more features
+
+because there is no confirmation on udp packets it s slightly faster than tcp
+
+only when packets can be discarded unordered can udp be faster than tcp
+
+tcp is a bit slower than udp but more failsafe
+
+6---------------------------------------------------
+
+don t think of it as udp is faster and tcp is slower because that s just wrong
+
+i don t think you should make the assumption that udp is faster than tcp
+
+i though that udp was faster than tcp but do you think that tcp will be faster due to the congestion
+
+7---------------------------------------------------
+
+i read in a case where a stream of 300 byte packets was being sent over ethernet 1500 byte mtu and tcp was 50 faster than udp
+
+for example i read an experiment in which a stream of 300 byte packets was being sent over ethernet 1500 byte mtu and tcp was 50 faster than udp
+
+8---------------------------------------------------
+
+i used iperf on two linux machines to send data using both udp and tcp i found that tcp performs better than udp average 65 better
+
+but when i used iperf on two linux machines to send data using both udp and tcp i found that tcp performs better than udp for 10mb of data
+
+9---------------------------------------------------
+
+udp has less overhead than tcp and is therefore faster
+
+udp is faster and requires less bandwidth than tcp
+
+10---------------------------------------------------
+
+i know udp is faster than tcp for various reason
+
+udp has a much lower overhead than tcp
+
+this is the reason why udp is much faster than tcp
+
+certainly tcp has more overhead than udp
+
+11---------------------------------------------------
+
+udp is faster than tcp and the simple reason is because its nonexistent acknowledge packet ack that permits a continuous packet stream instead of tcp that acknowledges a set of packets calculated by using the tcp window size and round-trip time rtt
+
+udp is really faster than tcp and the simple reason is because it s non-existent acknowledge packet ack that permits a continuous packet stream instead of tcp that acknowledges a set of packets calculatd by using the tcp window size and round-trip time rtt .
+

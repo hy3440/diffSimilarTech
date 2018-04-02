@@ -218,7 +218,7 @@ def extract_pattern08710(current_id, techs, pattern, words, line, start, end, ta
 
         (int, [str], int, [str], str, int, int, [str]) -> None
     """
-    pattern08710_file = open(os.path.join(os.pardir, "out", "softwareen", "sentences.txt"), "a")
+    pattern08710_file = open(os.path.join(os.pardir, "out", "sentences.txt"), "a")
     pattern08710_file.write("{}\n".format(current_id))
     pattern08710_file.write("{}\n".format("\t".join(techs)))
     tech_pair = []
@@ -303,61 +303,74 @@ def extract(no):
         print("{}/{} from - to {}".format(compa_sent_count, num/4, current_id))
         return(compa_sent_count, num/4, pattern234)
 
-print(datetime.datetime.now())
 
-try:
-    for i in range(1, 9):
-        (c, t, p) = extract(i)
-        total_compa += c
-        total_sent += t
-        total_pattern234 += p
-# datalist = [1, 2, 3, 4, 5, 6, 7, 8]
-# procs = []
-# for i in range(8):
-#     proc = Process(target=classify, args=(datalist[i],))
-#     procs.append(proc)
-#     proc.start()
-# for proc in procs:
-#     proc.join()
-finally:
-    with open(os.path.join(os.pardir, "out", "softwareen", "relations.txt"), "a") as recordings_file:
-        recordings_file.write(str(len(recordings))+"\n\n")
-        for key, values in recordings.items():
-            recordings_file.write(key[0]+"\t"+key[1]+"\t"+str(len(values))+"\n")
-            for value in values:
-                # recordings_file.write(" ".join(value)+"\n")
-                recordings_file.write(str(value)+'\n')
-            recordings_file.write("\n")
-    print("{} / {}".format(total_compa, total_sent))
-    print("{} pattern234\n".format(total_pattern234))
+nlp = spacy.load('en')
+matcher = Matcher(nlp.vocab)
+add_patterns(matcher)
+techs = ["udp", "tcp"]
+line = "udp is really faster than tcp and the simple reason is because it s non-existent acknowledge packet ack that permits a continuous packet stream instead of tcp that acknowledges a set of packets calculatd by using the tcp window size and round-trip time rtt ."
+(words, tags) = get_pos_tag(techs, line.split())
+patterns = matcher(nlp(" ".join(tags)))
+if patterns != []:
+    for (pattern, start, end) in patterns:
+        if pattern in pattern_set:
+            extract_pattern08710(0, techs, pattern, words, line, start, end, tags)
 
-    with open(os.path.join(os.pardir, "out", "softwareen", "relations.pkl"), 'wb') as output_file:
-        pickle.dump(recordings, output_file)
-
-    sorted_jjr = sorted(jjr.items(), key=operator.itemgetter(1), reverse=True)
-    sorted_jj = sorted(jj.items(), key=operator.itemgetter(1), reverse=True)
-    sorted_nn = sorted(nn.items(), key=operator.itemgetter(1), reverse=True)
-    sorted_rbr = sorted(rbr.items(), key=operator.itemgetter(1), reverse=True)
-    sorted_other = sorted(other.items(), key=operator.itemgetter(1), reverse=True)
-
-    with open(os.path.join(os.path.pardir, "out", "softwareen", "jjr.txt"), "a") as out_file:
-        for word, frequency in sorted_jjr:
-            out_file.write("{:<20}{}\n".format(word, frequency))
-
-    with open(os.path.join(os.path.pardir, "out", "softwareen", "jj.txt"), "a") as out_file1:
-        for word, frequency in sorted_jj:
-            out_file1.write("{:<20}{}\n".format(word, frequency))
-
-    with open(os.path.join(os.path.pardir, "out", "softwareen", "nn.txt"), "a") as out_file2:
-        for word, frequency in sorted_nn:
-            out_file2.write("{:<20}{}\n".format(word, frequency))
-
-    with open(os.path.join(os.path.pardir, "out", "softwareen", "rbr.txt"), "a") as out_file3:
-        for word, frequency in sorted_rbr:
-            out_file3.write("{:<20}{}\n".format(word, frequency))
-
-    with open(os.path.join(os.path.pardir, "out", "softwarerecs", "other.txt"), "a") as out_file4:
-        for word, frequency in sorted_other:
-            out_file4.write("{:<20}{}\n".format(word, frequency))
-
-    print(datetime.datetime.now())
+# print(datetime.datetime.now())
+#
+# try:
+#     for i in range(1, 9):
+#         (c, t, p) = extract(i)
+#         total_compa += c
+#         total_sent += t
+#         total_pattern234 += p
+# # datalist = [1, 2, 3, 4, 5, 6, 7, 8]
+# # procs = []
+# # for i in range(8):
+# #     proc = Process(target=classify, args=(datalist[i],))
+# #     procs.append(proc)
+# #     proc.start()
+# # for proc in procs:
+# #     proc.join()
+# finally:
+#     with open(os.path.join(os.pardir, "out", "softwareen", "relations.txt"), "a") as recordings_file:
+#         recordings_file.write(str(len(recordings))+"\n\n")
+#         for key, values in recordings.items():
+#             recordings_file.write(key[0]+"\t"+key[1]+"\t"+str(len(values))+"\n")
+#             for value in values:
+#                 # recordings_file.write(" ".join(value)+"\n")
+#                 recordings_file.write(str(value)+'\n')
+#             recordings_file.write("\n")
+#     print("{} / {}".format(total_compa, total_sent))
+#     print("{} pattern234\n".format(total_pattern234))
+#
+#     with open(os.path.join(os.pardir, "out", "softwareen", "relations.pkl"), 'wb') as output_file:
+#         pickle.dump(recordings, output_file)
+#
+#     sorted_jjr = sorted(jjr.items(), key=operator.itemgetter(1), reverse=True)
+#     sorted_jj = sorted(jj.items(), key=operator.itemgetter(1), reverse=True)
+#     sorted_nn = sorted(nn.items(), key=operator.itemgetter(1), reverse=True)
+#     sorted_rbr = sorted(rbr.items(), key=operator.itemgetter(1), reverse=True)
+#     sorted_other = sorted(other.items(), key=operator.itemgetter(1), reverse=True)
+#
+#     with open(os.path.join(os.path.pardir, "out", "softwareen", "jjr.txt"), "a") as out_file:
+#         for word, frequency in sorted_jjr:
+#             out_file.write("{:<20}{}\n".format(word, frequency))
+#
+#     with open(os.path.join(os.path.pardir, "out", "softwareen", "jj.txt"), "a") as out_file1:
+#         for word, frequency in sorted_jj:
+#             out_file1.write("{:<20}{}\n".format(word, frequency))
+#
+#     with open(os.path.join(os.path.pardir, "out", "softwareen", "nn.txt"), "a") as out_file2:
+#         for word, frequency in sorted_nn:
+#             out_file2.write("{:<20}{}\n".format(word, frequency))
+#
+#     with open(os.path.join(os.path.pardir, "out", "softwareen", "rbr.txt"), "a") as out_file3:
+#         for word, frequency in sorted_rbr:
+#             out_file3.write("{:<20}{}\n".format(word, frequency))
+#
+#     with open(os.path.join(os.path.pardir, "out", "softwarerecs", "other.txt"), "a") as out_file4:
+#         for word, frequency in sorted_other:
+#             out_file4.write("{:<20}{}\n".format(word, frequency))
+#
+#     print(datetime.datetime.now())

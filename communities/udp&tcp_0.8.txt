@@ -1,0 +1,308 @@
+0---------------------------------------------------
+
+while udp has less network overhead than tcp it generally relies on you the developer to come up with your own mechanisms for flow control fragmentation handling lost packets etc.
+
+alternatively it can be used over udp which is less hungry than tcp
+
+but there are some cases especially in iot domain udp is more popular than tcp for its bigger transport overheads
+
+btw i concur that udp is far more appropriate than tcp in this case
+
+udp is significantly faster than tcp and is why it is or was used for video and various things back in the day
+
+udp is actually expected to work better than tcp in lossy networks or congested networks
+
+the reason i asking this is because i read tcp is slower than udp because tcp ensures order of packets
+
+you will notice that the tcp header has more fields than the udp header and many of those fields will be populated by information from the handshake
+
+it may be that the kernel heuristics for servering tcp connections is more aggressive than for udp sockets since tcp connections require more state and more continuous processing than do udp sockets
+
+in general the tcp protocol manages the available network bandwidth better than the udp protocol
+
+udp communication is connection less as compared to tcp which need a connection
+
+udp sockets have much lower overhead than tcp because packets are not acknowledged by the recipient
+
+the fact that udp s header size is less than tcp s is because is a simpler protocol that needs less header space that s all there is to it
+
+what is that key feature in tcp that makes it have much much higher throughput than udp
+
+i though that udp was faster than tcp but do you think that tcp will be faster due to the congestion
+
+udp will almost always provide better performance than tcp at the cost of reliability
+
+as such traversing a nat through udp is much easier than tcp
+
+with tcp its slightly slower than udp and has more features
+
+if you can t afford lost packets then tcp is probably a better option than udp since it provides that guarantee out of the box
+
+first of udp s datagram is simpler than tcp s one
+
+this was surprising for me as it is well known fact that udp performs better than tcp
+
+in some applications tcp is faster better throughput than udp
+
+because there is no confirmation on udp packets it s slightly faster than tcp
+
+in that sense reliable udp cannot be faster than tcp
+
+udp port scanning is possible but it is harder than tcp scanning
+
+but with the udp protocol in particular this is easier than for tcp
+
+udp should be much faster than tcp because there are no acknowledge and congestion detection
+
+the reason udp is faster than tcp is because there is no form of flow control or error correction
+
+-- does udp always perform better than tcp
+
+tcp is certainly going to be more reliable than udp since udp doesn t guarantee packet delivery which is probably why you application is hanging on the receive
+
+also sending receiving data over udp is much simpler than over tcp and it does not require any connections
+
+getting much more information is needed in the packet header for connection less like udp but why the header size of udp is less than tcp
+
+tcp is a bit slower than udp but more failsafe
+
+it was introduced since the nat traversal for tcp is much more complicated than udp
+
+that among other things is why tcp is considered more reliable but slower than udp
+
+udp is faster and requires less bandwidth than tcp
+
+if the data is critical you should go for tcp which is slower as compared to udp which in fact doesn t guarantee the packets will arrive in order or even if they d arrive or not
+
+http is an application layer protocol which could be encapsulated with a protocol that uses udp providing arguably faster reliable communication than tcp
+
+udp protocol is unreliable but much much faster than tcp which is most commonly used for communication
+
+don t think of it as udp is faster and tcp is slower because that s just wrong
+
+i did some research and found that udp may be more suitable in this case because udp hole punching works much better than tcp hole punching
+
+udp is not always faster than tcp
+
+you ve struck lucky with the requirements - because you re going from udp - tcp it s actually a lot simpler than doing udp - udp
+
+tcp is a slower more reliable protocol than udp is
+
+the package is bigger than udp s package but smaller than tcp s package
+
+udp just has a smaller overhead than tcp but that comes at the cost of reliability
+
+in a congested network yes udp will send its packets faster than tcp this is because tcp takes then congestion into account using a mechanism called congestion control
+
+scenario where udp is better than tcp
+
+but when i used iperf on two linux machines to send data using both udp and tcp i found that tcp performs better than udp for 10mb of data
+
+a udp stack is considerably simpler than a tcp stack
+
+udp is more popular in nat punching because provides much better results than tcp
+
+most importantly you can easily supplement udp with some reliable delivery hand-shaking that s less overhead than tcp
+
+it seems like udp will more efficient than tcp
+
+we propose to use udp over tcp since udp is faster than tcp
+
+udp is generally faster than tcp as it does not have to do the overhead checking of consistency that tcp must deal with
+
+generally speaking udp has less overhead than tcp allowing you to receive more data but this is not a strict rule and is almost negligible in this context
+
+tcp is much better than udp in terms of reliability
+
+since loosing some packets doesn t matter but speed latency is crucial udp is much better than tcp
+
+tcp mounts are more reliable and you know you have a network problem much faster than with udp
+
+does udp always perform better than tcp
+
+udp is simpler protocol than tcp and you can still simulate features of tcp using udp
+
+tcp is reliable but slower than udp while udp is not safe and i have to implement my own fault-handling codes
+
+udp is way lighter and faster but somewhat less reliable than tcp
+
+i was expecting that udp would be faster but tcp is on average two times faster than udp
+
+instead you can use udp and implement your own scheme for verification of data that is less stringent than tcp
+
+why the header size of udp is less than tcp
+
+udp is extremely faster than tcp which is suitable to stream a user s voice input
+
+i assumend that the transmission using udp have to be much faster than using tcp but in fact my tests proved that the udp transmission is about 7 to 8 times slower than using tcp
+
+i think udp will perform better than tcp gcdasyncsocket in your case video transfer
+
+we know tcp is better suited for this but the hardware development decided it s got to be udp
+
+tcp ip is supposed to be more reliable than udp ip see this comparison
+
+tcp sockets- guaranteed delivery bigger payload than udp cumbersome to setup for web based solutions
+
+use socket for tcp and datagram for udp its a lot faster than tcp but less connection oriented
+
+tcp has bigger overhead than udp because it needs to add more data to your payload but you are guaranteed that your data will be received in it s destination in the order you sent it and not corrupted
+
+udp lends itself to real-time less latency than tcp
+
+for instance zeromq can leverage udp multicast to run faster than any tcp protocol but the application programmer doesn t need to learn a new api
+
+tcp streaming for audio can be less helpful than udp rtp as you d have to turn off nagling
+
+or is there any specific scenario where udp is better than tcp
+
+the key question was related to what kind of situations would udp be the better choice over tcp
+
+keep in mind that implementing udp traversal is easier than tcp
+
+as a general rule udp is faster than tcp due to less protocol overhead
+
+if you can do everything with udp it is lighter than tcp
+
+udp is faster than tcp because packets are sent without guarantee of delivery nor order
+
+certainly tcp has more overhead than udp
+
+because of tcp requires connection and provides security it is slower than udp and therefore it should not be preffered during a video streaming
+
+the problem with using tcp is obviously that it is a lot slower than udp
+
+short answer if you can tolerance with any packet loss udp is better otherwise tcp
+
+udp is more of a fire and forget whereas tcp maintains a connection state
+
+i suppose this is one of the reasons for the misconception that udp is slower than tcp
+
+4 tcp is a slower than udp
+
+udp is connection less but at the same level as tcp
+
+udp is much faster then tcp but tcp has flow control and guaranteed delivery
+
+for some requirements tcp is better for some udp
+
+the decision on yours the tcp protocol used for connection oriented network that is more secure than udp
+
+udp packets are easier structured than tcp packets but sacrifice security for their size
+
+in gaming especially fpss udp tends to be the chosen protocol because it s much less chatty than tcp
+
+tcp as you know udp is faster than tcp even if udp may miss some
+
+udp has less overhead than tcp and is therefore faster
+
+if they are connected over the internet you could try to use the examples for tcp but tcp has more overhead than udp
+
+from experience i can tell you udp is about 10-15 faster than tcp on dedicated and udp-tuned networks
+
+try to increase timeout value tcp is slower than udp
+
+so assess the situation the development cost of a udp transport is higher to significantly higher than tcp and to some degree you are re-inventing tcp
+
+if you were attempting to beat the performance of tcp by shifting to udp keep in mind that part of the reason you get lower performance with tcp is because tcp tracks and redelivers the lost packets for you
+
+in doing so the tradefoff is that tcp becomes slower compared to udp
+
+instead of implementing all these over udp it is much better just to switch to tcp
+
+i used iperf on two linux machines to send data using both udp and tcp i found that tcp performs better than udp average 65 better
+
+if i d directly say that udp is faster comparatively than tcp that it is used for such applications
+
+only when packets can be discarded unordered can udp be faster than tcp
+
+but it sounds like you want to do nat traversal over tcp which is a harder problem than udp
+
+note that udp is more difficult to work with than tcp because packets are not always guaranteed to be delivered
+
+tcp is slower assures data arrival udp is faster data corruption may be possible
+
+tcp is way better then udp for that
+
+i am confused why tcp throughput is bigger than udp
+
+tcp has to do a lot of error checking to ensure that your packets don t get dropped and so tcp is much slower than udp
+
+tcp socket is even more likely than udp socket but both work
+
+tcp is slower than udp and you ll have to mitigate that in realtime multiplayer
+
+yes udp is much much lighter than tcp
+
+i m trying to avoid tcpclient because udp is faster but would this work in tcp since it s streamed
+
++ consider that the implementation of tcp stack is much more complicated than udp more instructions are executed there
+
+udp is quicker than tcp but if you re using quickfix you ll be using tcp
+
+tcp is much slower than udp but when the two machines are not on the same lan udp is not reliable
+
+one can say udp has a lower overhead than tcp because its packets have a smaller header and therefore take less bandwidth to send the payload the data
+
+like matzi suggested udp gives you lower latency and lower packet overhead as the header is smaller than tcp but on the downside the delivery of the packet to the destination is never guaranteed ie
+
+one often finds the argument that udp is faster then tcp
+
+-- in which scenario configuration would i get udp to perform better than tcp
+
+i know udp is faster than tcp for various reason
+
+you can use udp as well but if you are dealing with firewalls it is probably going to be simpler with tcp
+
+some protocols are more complex because what s needed are some but not all of the features of tcp but more than what udp provides
+
+moreover tcp has more processing overhead than udp
+
+udp is also more work than tcp if you need reliability which is built in to tcp
+
+this is the reason why udp is much faster than tcp
+
+udp is significantly easier do you really need tcp btw
+
+also see this other so answer about the misconception that udp is always faster than tcp
+
+what i have thought of so far is that tcp is going to be more reliable than udp and in rmi corba we want network reliability
+
+udp communication requires much less overhead than tcp due to the number of messages exchanged
+
+if the network between the two point have a very high quality udp is absolutely faster than tcp but in some other case such as the gprs network tcp may been faster and more reliability than udp
+
+and there are no handshakings required udp are pretty much faster but less reliable than tcp
+
+i don t think you should make the assumption that udp is faster than tcp
+
+udp has a much lower overhead than tcp
+
+this was surprising for me as i expected udp to perform better than tcp
+
+1---------------------------------------------------
+
+i know tcp is better to send file but i have a homework about sending file via udp protocol
+
+hello to all i am developing an application that needs to send a image via the udp socket.i know that tcp is a better protocol but playing with kryonet in java i have learnt that udp is better for this type of application.i have this small class that i have made
+
+2---------------------------------------------------
+
+for example i read an experiment in which a stream of 300 byte packets was being sent over ethernet 1500 byte mtu and tcp was 50 faster than udp
+
+i read in a case where a stream of 300 byte packets was being sent over ethernet 1500 byte mtu and tcp was 50 faster than udp
+
+3---------------------------------------------------
+
+apart from that tcp packets by themselves are not slower than udp packets and data transfer with a simple tcp connection can be faster than with a simple udp connection because flow control and reliable transfer is already integrated and you don t have to reinvent everything again and often worse
+
+is sending packets via an established tcp connection after all hand shaking has been done a method to be faster than udp
+
+i know tcp is a safer choice but let s assume i can only use udp and i need to ensure i can send packets over at a high rate with no missing packets what should i do
+
+udp is faster than tcp and the simple reason is because its nonexistent acknowledge packet ack that permits a continuous packet stream instead of tcp that acknowledges a set of packets calculated by using the tcp window size and round-trip time rtt
+
+udp is really faster than tcp and the simple reason is because it s non-existent acknowledge packet ack that permits a continuous packet stream instead of tcp that acknowledges a set of packets calculatd by using the tcp window size and round-trip time rtt .
+
+i am using udp because it is much faster than tcp but sometimes i need the know for sure if the packet reached to the other side in my program i can not use tcp at all so i am sending ack packets
+
