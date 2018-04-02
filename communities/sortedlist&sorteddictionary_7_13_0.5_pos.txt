@@ -1,0 +1,20 @@
+0---------------------------------------------------
+
+sortedlist tkey tvalue uses less memory than sorteddictionary tkey
+
+sortedlist uses less memory than sorteddictionary
+
+â sortedlist uses less memory than sorteddictionary
+
+1---------------------------------------------------
+
+if the list is populated all at once from sorted data sortedlist is faster than sorteddictionary
+
+2---------------------------------------------------
+
+sorteddictionary has faster insertion and removal operations for unsorted data o log n as opposed to o n for sortedlist
+
+if the sortedlist is populated all at once from sorted data it s faster than sorteddictionary
+
+sorteddictionary has faster insertion and removal operations for unsorted data o logn as opposed to o n for sortedlist
+

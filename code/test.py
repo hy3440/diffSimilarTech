@@ -42,8 +42,8 @@ model = Word2Vec(common_texts, size=20, min_count=1)  # train word-vectors
 dictionary = Dictionary(common_texts)
 bow_corpus = [dictionary.doc2bow(document) for document in common_texts]
 
-print(dictionary)
-index = WmdSimilarity(bow_corpus, model)
-# Make query.
-query = 'trees'
-sims = index[query]
+print((common_texts))
+# index = WmdSimilarity(bow_corpus, model)
+# # Make query.
+# query = 'trees'
+# sims = index[query]
