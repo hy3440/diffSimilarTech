@@ -90,7 +90,7 @@ nlp = spacy.load('en')
 matcher = Matcher(nlp.vocab)
 add_patterns(matcher)
 
-tech_pair = ["python", "java"]
+tech_pair = ["sortedlist", "sorteddictionary"]
 tags = []
 line = input(">>>")
 while(line != "/"):

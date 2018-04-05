@@ -1,8 +1,0 @@
-0---------------------------------------------------
-
-the other question is that what i am hearing from our group leader is that postgresql is better than mysql when working with coordinates
-
-1---------------------------------------------------
-
-what i am hearing from our group leader is that postgresql is better than mysql when working with coordinates
-

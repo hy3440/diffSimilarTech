@@ -32,18 +32,30 @@ from prepros import *
 #         count += 1
 # connection.close()
 
-from gensim.test.utils import common_texts
-from gensim.corpora import Dictionary
-from gensim.models import Word2Vec
-from gensim.similarities import WmdSimilarity
-
-
-model = Word2Vec(common_texts, size=20, min_count=1)  # train word-vectors
-dictionary = Dictionary(common_texts)
-bow_corpus = [dictionary.doc2bow(document) for document in common_texts]
-
-print((common_texts))
+# from gensim.test.utils import common_texts
+# from gensim.corpora import Dictionary
+# from gensim.models import Word2Vec
+# from gensim.similarities import WmdSimilarity
+#
+#
+# model = Word2Vec(common_texts, size=20, min_count=1)  # train word-vectors
+# dictionary = Dictionary(common_texts)
+# bow_corpus = [dictionary.doc2bow(document) for document in common_texts]
+#
+# print((common_texts))
 # index = WmdSimilarity(bow_corpus, model)
 # # Make query.
 # query = 'trees'
 # sims = index[query]
+in_path = os.path.join(os.pardir, "data", "relations.pkl")
+relations_file = open(in_path, 'rb')
+relations = pickle.load(relations_file)
+out_path = os.path.join(os.pardir, "keywords.txt")
+with open(out_path, "a") as out_file:
+    for key, values in relations.items():
+        for value in values:
+            #if value[3] != "":
+            if True:
+                out_file.write(value[1]+"\n")
+                out_file.write(value[5])
+                out_file.write("\n")

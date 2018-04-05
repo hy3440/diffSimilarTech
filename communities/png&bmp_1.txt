@@ -1,0 +1,18 @@
+slower
+jpg png is slower to draw than a bmp
+
+files,natural,support,transparency,smaller,files
+not only do png files have natural support for transparency they are also smaller than bmp files
+
+new,format,in-memory,smaller,current,data,new,format,data
+rebuild a new png format in-memory data which is much more smaller than current bmp data and send the new png format data by socket to remote server
+
+copies,lower,resolution
+is not simple scale or crop but to be able to rotate scale and crop every single sprite and draw it in the exactly order to compose the final hight resolution image in a backbuffer then save it in bmp and make some copies in lower resolution as png
+
+format,more,complex,compression
+note that the png format is much more complex than bmp since it allows compression etc
+
+faster
+i have a sample wpf app here and wondering why bmp is loading faster than png
+
