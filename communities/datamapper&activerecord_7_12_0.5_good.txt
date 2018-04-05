@@ -1,0 +1,44 @@
+0---------------------------------------------------
+
+simpler,more,limited
+activerecord is much simpler then a datamapper but also much more limited
+
+more,complex,easier,domain,database,asynchronous
+datamapper is potentially more complex then activerecord but it s a lot easier to develop your domain model and database asynchronous then with activerecord
+
+1---------------------------------------------------
+
+cql3,support,more,simple,look
+i don t know whether this port of cql3 to ruby support activerecord it acts more like a simple datamapper but it worths having a look
+
+more,work,db,tasks
+with datamapper this is somewhat more work than with activerecord which provides it s own db tasks
+
+2---------------------------------------------------
+
+idea,better
+datamapper idea is definitely better than activerecord
+
+question,better,newer
+so a question for those who know better is datamapper newer than activerecord
+
+newer
+datamapper is newer than activerecord
+
+other---------------------------------------------------
+
+orm,way,faster,modularly,plugins
+i d recommend datamapper for orm not only it s way faster than activerecord but it s also very modularly built and plugins are actual gems that you can easily install
+
+more,ruby,chainable,conditions,rails,beginning
+also datamapper is much more ruby syntax friendy and features like lazy loading when doing chainable conditions like activerecord in rails 3 are there from the beginning
+
+smarter
+datamapper is much smarter then activerecord
+
+level,abstraction,higher
+the level of abstraction of datamapper is way higher than the activerecord s
+
+point,view,model,easier,defacto,standard
+from my point of view the datamapper model is much easier to grasp but since activerecord is the defacto standard it feels weird to change the orm just for this little problem
+

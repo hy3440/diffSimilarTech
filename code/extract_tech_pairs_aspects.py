@@ -14,8 +14,8 @@ import ssl
 
 #Setting
 flag = False # all sentences
-f = "1"
-default_distance = 0.6
+f = "2"
+default_distance = 0.5
 pos_flag = True
 if pos_flag:
     pos = ""
@@ -26,6 +26,7 @@ pair = ("udp", "tcp")
 # pair = ("datamapper", "activerecord")
 # pair = ("sortedlist", "sorteddictionary")
 # pair = ("png", "bmp")
+
 # Prepare POS tagger
 pos_tag_set = {"JJR", "JJ", "NN", "NNS", "NNP", "NNPS", "RBR", "RBS"}
 keywords_path = os.path.join(os.pardir, "communities", "{}_{}.txt".format("&".join(pair), f))
@@ -47,6 +48,8 @@ stop_words.append("reasons")
 stop_words.append("case")
 stop_words.append("cases")
 stop_words.append("etc")
+stop_words.append("question")
+stop_words.append("questions")
 # with open(stopwords_path, "a") as stopwords_file:
 #     for w in stop_words:
 #         stopwords_file.write(w+"\n")
@@ -98,15 +101,15 @@ for sentence in sentences:
             ws = [w for w in keywords if w not in pair]
         else:
             ws = []
-            if len(indices) == 2:
-                for j in range(len(keywords)):
-
-                    if j > indices[0] and j <= indices[0] + 4 and keywords[j] not in pair and j < indices[1]:
-                        ws.append(keywords[j])
-                    elif j >= indices[1] - 2 and j <= indices[1] + 2 and keywords[j] not in pair:
-                        ws.append(keywords[j])
-            else:
-            # if True:
+            # if len(indices) == 2:
+            #     for j in range(len(keywords)):
+            #
+            #         if j > indices[0] and j <= indices[0] + 4 and keywords[j] not in pair and j < indices[1]:
+            #             ws.append(keywords[j])
+            #         elif j >= indices[1] - 2 and j <= indices[1] + 2 and keywords[j] not in pair:
+            #             ws.append(keywords[j])
+            # else:
+            if True:
                 for j in range(len(keywords)):
                     for i in indices:
                         if j >= i - 2 and j <= i + 2 and keywords[j] not in pair:
@@ -121,66 +124,66 @@ for sentence in sentences:
     else:
         corpus.append([w for w in sentence.split() if w not in stop_words])
 
-# # Prepare word2vector model
-# fname = os.path.join(os.pardir, "data", "mymodel")
-# model = gensim.models.Word2Vec.load(fname)
-# model.init_sims(replace=True)
-#
-# # Build weighted graph
+# Prepare word2vector model
+fname = os.path.join(os.pardir, "data", "mymodel")
+model = gensim.models.Word2Vec.load(fname)
+model.init_sims(replace=True)
+
+# Build weighted graph
+G = nx.Graph()
+# dictionary = Dictionary(corpus)
+# bow_corpus = [dictionary.doc2bow(document) for document in corpus]
+index = WmdSimilarity(corpus, model)
+for i in range(l - 1):
+    sims = index[corpus[i]]
+    for j in range(i + 1, l):
+        if sims[j] >= default_distance:
+            if i not in G: G.add_node(i)
+            if j not in G: G.add_node(j)
+            G.add_edge(i, j, weight=sims[j])
+
+out_path = os.path.join(os.pardir, "communities", "{}_{}_{}_{}{}{}.txt".format("&".join(pair), G.number_of_nodes(), l, default_distance, pos, f))
+image_path = os.path.join(os.pardir, "communities", "{}_{}_{}_{}{}{}.png".format("&".join(pair), G.number_of_nodes(), l, default_distance, pos, f))
 # G = nx.Graph()
-# # dictionary = Dictionary(corpus)
-# # bow_corpus = [dictionary.doc2bow(document) for document in corpus]
-# index = WmdSimilarity(corpus, model)
+# l = len(sentences)
 # for i in range(l - 1):
-#     sims = index[corpus[i]]
 #     for j in range(i + 1, l):
-#         if sims[j] >= default_distance:
+#         distance = - model.wmdistance(corpus[i], corpus[j])
+#         if distance > - default_distance:
+#             # if sentences[i] not in G: G.add_node(sentences[i])
+#             # if sentences[j] not in G: G.add_node(sentences[j])
+#             # G.add_edge(sentences[i], sentences[j], weight=distance)
 #             if i not in G: G.add_node(i)
 #             if j not in G: G.add_node(j)
-#             G.add_edge(i, j, weight=sims[j])
-#
-# out_path = os.path.join(os.pardir, "communities", "{}_{}_{}_{}{}{}.txt".format("&".join(pair), G.number_of_nodes(), l, default_distance, pos, f))
-# image_path = os.path.join(os.pardir, "communities", "{}_{}_{}_{}{}{}.png".format("&".join(pair), G.number_of_nodes(), l, default_distance, pos, f))
-# # G = nx.Graph()
-# # l = len(sentences)
-# # for i in range(l - 1):
-# #     for j in range(i + 1, l):
-# #         distance = - model.wmdistance(corpus[i], corpus[j])
-# #         if distance > - default_distance:
-# #             # if sentences[i] not in G: G.add_node(sentences[i])
-# #             # if sentences[j] not in G: G.add_node(sentences[j])
-# #             # G.add_edge(sentences[i], sentences[j], weight=distance)
-# #             if i not in G: G.add_node(i)
-# #             if j not in G: G.add_node(j)
-# #             G.add_edge(i, j, weight=distance)
-#
-# # Draw graph
-# pos = nx.spring_layout(G)
-# plt.figure(figsize=(19,12))
-# plt.axis('off')
-# nx.draw_networkx_nodes(G, pos, node_size=50)
-# nx.draw_networkx_edges(G, pos, width=0.75)
-# plt.savefig(image_path)
-# # plt.show()
-#
-# # Detect communities
-# communities_generator = community.girvan_newman(G)
-# top_level_communities = next(communities_generator)
-# # next_level_communities = next(communities_generator)
-# communities = sorted(map(sorted, top_level_communities))
-# # next_communities = sorted(map(sorted, next_level_communities))
-# num = 0
-# graph_indices = set()
-# with open(out_path, "a") as out_file:
-#     for com in communities:
-#         out_file.write("{}---------------------------------------------------\n\n".format(num))
-#         for i in com:
-#             out_file.write(",".join(corpus[i])+"\n")
-#             out_file.write(sentences[i]+"\n")
-#             graph_indices.add(i)
-#         num += 1
-#     out_file.write("other---------------------------------------------------\n\n")
-#     for i in range(len(sentences)):
-#         if i not in graph_indices:
-#             out_file.write(",".join(corpus[i])+"\n")
-#             out_file.write(sentences[i]+"\n")
+#             G.add_edge(i, j, weight=distance)
+
+# Draw graph
+pos = nx.spring_layout(G)
+plt.figure(figsize=(19,12))
+plt.axis('off')
+nx.draw_networkx_nodes(G, pos, node_size=50)
+nx.draw_networkx_edges(G, pos, width=0.75)
+plt.savefig(image_path)
+# plt.show()
+
+# Detect communities
+communities_generator = community.girvan_newman(G)
+top_level_communities = next(communities_generator)
+# next_level_communities = next(communities_generator)
+communities = sorted(map(sorted, top_level_communities))
+# next_communities = sorted(map(sorted, next_level_communities))
+num = 0
+graph_indices = set()
+with open(out_path, "a") as out_file:
+    for com in communities:
+        out_file.write("{}---------------------------------------------------\n\n".format(num))
+        for i in com:
+            out_file.write(",".join(corpus[i])+"\n")
+            out_file.write(sentences[i]+"\n")
+            graph_indices.add(i)
+        num += 1
+    out_file.write("other---------------------------------------------------\n\n")
+    for i in range(len(sentences)):
+        if i not in graph_indices:
+            out_file.write(",".join(corpus[i])+"\n")
+            out_file.write(sentences[i]+"\n")
