@@ -1,0 +1,11 @@
+other---------------------------------------------------
+
+better
+i would recommend artifactory much better than the nexus
+
+better,fair,flame
+i will not argue why and if nexus is better than artifactory as it would not be fair and would only cause flame wars
+
+better,filesystem,database
+nexus looks better choice than artifactory because of using filesystem instead of database to keep repository
+

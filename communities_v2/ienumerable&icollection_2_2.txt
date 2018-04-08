@@ -1,0 +1,8 @@
+other---------------------------------------------------
+
+better,generic,null,else
+a better way to do that instead is taking in an ienumerable which is more generic than icollection since icollection implements ienumerable and simply checking it for null and else returning any from linq s operators
+
+generic,simple,properties
+secondly i did not use ienumerable because it is more generic than icollection and does not even have simple properties like count
+

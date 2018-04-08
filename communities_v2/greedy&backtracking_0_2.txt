@@ -1,0 +1,8 @@
+other---------------------------------------------------
+
+first,pattern
+the capturing group 1 in the first pattern is greedy it first matches everything and takes as less as it backtracking
+
+next,number,steps,fewer,matching
+since the next is not far the number of backtracking steps is much fewer than with greedy matching
+

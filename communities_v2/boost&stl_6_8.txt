@@ -1,0 +1,32 @@
+0---------------------------------------------------
+
+io,stream,better,solution
+boost s io stream might be a better solution than stl s own stream
+
+c++,better,huge
+c++ s stl is getting better and better yet it s not nearly as huge as boost and is not intended to
+
+1---------------------------------------------------
+
+standard,template,richer,www.boost.org,libraries
+as for not reinventing the wheel like many have said already make sure to first explore the possibilities in the standard template library stl which is much richer than you might think and then look at boost www.boost.org which has libraries for a lot of diverse purposes and they are extremely high quality and some are just works of art like spirit proto lambda and mpl
+
+libraries,mature,standard
+boost libraries are generally less mature and less standard than stl
+
+2---------------------------------------------------
+
+project,better,c++,exceptions
+i ve used both for the same project boost is better integrated with the stl and especially c++ exceptions
+
+learning,parts,better
+once you re past the basics with c++ learning how to use parts of stl and then how it works will be better than tackling boost
+
+other---------------------------------------------------
+
+modern,c++,experience,deep,knowledge,difficult
+while boost is more modern c++ it also harder to use for non trivial tasks - and without a modern c++ experience and deep stl knowledge it is difficult to use correctly
+
+exercise,greater,mastery
+i don t want to use boost because that s a library i haven t used extensively yet and i m doing this partly as an exercise to gain greater mastery over the stl
+

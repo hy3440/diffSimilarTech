@@ -1,0 +1,338 @@
+0---------------------------------------------------
+
+alot,hard,slow,ssd,slower,subsequent,loads
+the first load involves reading alot from the hard disk which is slow even ssd is slower than ram subsequent loads should be faster though 3 seconds on the ssd seem to be odd
+
+share,memory,faster,io,operation
+just wanted to weigh in my two cents what serialworm and thephpdeveloper said share the fact that memory ram is much faster than any disk io bound operation you come up with
+
+io,slower
+disk io will be slower than ram
+
+seek,nanoseconds,faster,best,thousands,slower
+a disk seek takes about 10 000 000 nanoseconds of course some disk are faster but the best of them are still thousands of times slower than ram
+
+slower
+disk is 100x slower than ram
+
+read,slower
+only one disk read - since the disk is much slower then ram -
+
+cache,efficient,faster
+obviously reading a block from cache is much more efficient than reading it off the disk since ram is much faster than disk
+
+access,memory,faster,hard
+we all know that the access to ram memory is faster than access to hard disk
+
+faster,cpu
+loosely speaking ram is 1000 or more times faster than disk and cpu is faster still
+
+battery-backed,packages,modules,ultra-fast,scsi,typical,interface,slower,system
+there exist battery-backed packages of ram modules which can act as an ultra-fast hdd substitute but if they attach via sata scsi or other typical disk interface the still are slower than system ram
+
+amount,time
+if the amount of ram is less you ll have a lot of swapping to disk which is a lot more time consuming
+
+io,slower
+but you should consider that disk io is way slower than ram
+
+faster,io
+ram is much faster then disk io
+
+faster,hard
+the ram is much faster than the hard disk
+
+data,slower,sorting
+run the following to sort the data on disk this is slower than pulling it into ram sorting and then writing to disk
+
+objects,faster,read,slower,lesser,dependencies
+pros of objects faster disk read is slower than ram lesser dependencies of the system s state
+
+memory,slower
+if too much memory is consumed it might swap to disk which is slower than ram
+
+faster
+ram is a lot faster than disk
+
+becuase,reading,faster,kind,os,program
+but becuase reading from ram is usually faster than from other kind of memory storage divice os copy the program from disk on ram and start executing program from there
+
+operations,memory,faster,file
+for the stand of file operations writing to memory ram is always faster than writing to the file on the disk directly
+
+slower
+remember disk is 1000s of times slower than ram
+
+bottleneck,performance,slower,cpu,paging,slow
+memory is a bottleneck to performance ram runs slower than the cpu and if you re paging to disk than it s really slow
+
+information,variable,faster,direct
+saving information to a variable and therefore to ram is always faster than direct to disk
+
+data,crash,expensive,scarce,flash
+you lose two benefits of data base consistency data persists after a crash and you need more ram which is more expensive and scarce than disk flash
+
+table,bigger
+the table on disk is bigger than your ram
+
+problem,likely,access,orders,magnitude,slower
+as sven marnach wrote in the comments your problem is most likely i o bound since disk access is orders of magnitude slower than ram access
+
+slower,memory,usage
+as disk is 1000s of times slower than ram as the memory usage increases your machine grinds more and more closer to a halt
+
+system,access,thousands,slower,potential,benefits
+once you re out of ram and the system starts swapping - disk access is thousands times slower than ram so any potential benefits of 64-bit code are flying out of window
+
+memory,leisure,faster
+for this reason it seemed natural to me to initially load the file into memory and interpret it later at my leisure since reading from ram is supposed to be much faster than from disk
+
+query,speed,least,slower,cpu
+query speed is mainly limited by disk i o speed which is at least 1000 times slower than cpu ram speed
+
+main,memory,faster,values,hard
+accessing the main memory ram is much faster than reading values from the hard disk
+
+rate,speeds,orders,magnitude,lower,speed,concerned
+at any rate disk speeds are orders of magnitude lower than the ram speed and i wouldn t be too much concerned about the mode here unless of course it turns out that caching is different in the two modes
+
+hours,hard,access,slower,caches
+that s basically possible but it would take hours as hard disk access is so much slower than accessing ram caches
+
+space,usage,cheaper
+this approach will radically reduce heap space usage - disk space is cheaper then ram too
+
+things,calulations,slower
+if the worker processes do other things than just calulations read from or write to disk they will have to wait a lot since a disk is a lot slower than ram
+
+program,code,slower,long,machine,low
+reloading pages data or program code from disk which is much slower does not usually happen very often as long as the program is actually running and as long as the machine is not desperately low on ram
+
+multiprocessing,data,access,slower,calculations
+using multiprocessing is probably not going to speed up reading data from disk since disk access is much slower than ram access or calculations
+
+bigger
+disk is bigger than ram
+
+slow,hard,slower
+this is relatively slow since reading from the hard disk is slower than reading from ram
+
+benefit,reading,faster
+1 yes there is a obvious benefit reading from ram is faster than reading from disk
+
+slower
+that means that without caching a hit against disk will be 200 times slower than accessing ram
+
+faster,database,access
+ram is 100 thousand times faster than disk for database access from
+
+cash,rpm,ssd,solid,state,slower
+another option is to spend a bit of cash on a 15000 rpm disk or a ssd solid state disk although that ll be slower than a ram disk
+
+initial,read,slower
+the initial read has to access the disk which is a lot slower than accessing ram
+
+swap,file,slower
+changing it will require a reboot. that will slow things down a bit as the swap file on disk is much slower than ram
+
+slow,hard,slower,data,page,file,operating,system
+this is slow because your hard disk is significantly slower than ram and at 7gb there will be a lot of data being read from your hard disk put into ram then moved back to your page file the file on disk your operating system uses to store data that has been copied out of ram
+
+smaller,data,time
+so even if your ram is much smaller than your disk you could assume you can read data that s already in ram 90 of the time or more
+
+expensive,storage
+basically ram is more expensive than the disk storage
+
+lob-storage,time,query,execution,slower
+if lob-storage isn t in ram at the time of a query execution then we need to read it from a disk which is of course much slower than from ram
+
+tuples,slower,access,things
+remember the tuples are saved into the disk which is vastly slower to access than things in ram
+
+queries,data,slower
+as you run queries it has to fetch data from disk which is much slower than ram
+
+memory,faster,io,slower,multiple
+when the data is in memory - you can do anything much faster on it since disk io is extremely slower then ram so sorting it and reading it multiple times is expected to be much slower then manipulating the data on memory
+
+faster,data,code,able
+ram is a lot faster than disk so reads and writes are temporarily stored until the data is requested by the code or the disk is able to receive it
+
+hard,slower,memory,virtual,private
+because hard disk have a much slower memory than ram virtual private server performance may slow down considerably
+
+access,slower
+disk access is much slower than ram
+
+ssd,several,magnitude,slower,systems,unresponsive
+since your disk even if it s an ssd is several orders of magnitude slower than ram the systems gets unresponsive
+
+io,orders,magnitude,slower
+it won t do anything to change the fact that disk io is orders of magnitude slower than ram
+
+files,order,magnitude,slower,virtual,memory
+disk files are of course an order of magnitude slower than ram and thrashing your virtual memory system could actually be worse than that depending on your access patterns
+
+faster
+ram is always faster than disk
+
+practical,considerations,slower
+so even ignoring practical considerations like disk is slower than ram it will be slower
+
+job,slow,shuffle,slower
+or if there is too much intermediate output to be shuffled your job will become slow as you will need disk based shuffle in such a case which will be slower than ram based shuffle
+
+orders,magnitude,slower
+disk io - even ssd - is many orders of magnitude slower than the ram that the hashing is going though
+
+slower
+disk i o is about 100 000 times slower than ram
+
+faster,zram,linux,use,paging,older,computers
+since using ram is faster than using disk zram allows linux to make more use of ram when swapping paging is required especially on older computers with less ram installed
+
+system,paging,access,expensive
+i m sure there are other holes like that too - but the code above will work on any system which supports paging and where disk access is much more expensive than ram access
+
+slower,problem,machine
+as disk is 1000s of times slower than ram this problem can grind the machine down to a practical halt
+
+persistence,storage,cheaper
+always favor disk persistence disk storage is cheaper than ram
+
+performance,loss,slower
+anyway you will have a huge performance loss due to the fact that your disk is way slower than your ram
+
+orders,magnitude,slower
+disk even ssd are orders of magnitude slower than ram
+
+space,cheaper
+disk space is probably always going to be cheaper than ram
+
+buffering,important,slower,cpu
+caching and buffering are quite important since disk are just so much slower than ram and ram is much slower than the cpu
+
+thousands,faster,speed,code
+i understand that ram is typically thousands of times faster than disk but i o speed is not the only code running
+
+cache,pixels,several,orders,magnitude,slower
+however be aware of this to cache pixels to disk is several orders of magnitude slower than using ram
+
+storage,varnish,io,bottlenecks,larger,available
+alternatively you can use an ssd with file storage in varnish to reduce disk io bottlenecks when using an object cache larger than available ram
+
+yes,faster,virtual,memory,access,slow...,applications
+i would say that probably yes as long as we have enough of ram which is faster that virtual memory in case we need to access something from the disk which is extremely slow... but also i know that some applications just require having paging
+
+audio,files,faster,reading,hard
+reading audio files from ram is much faster than reading audio files from hard disk
+
+quantities,data,expensive
+however they may be cheaper to operate depending on how much data you are expecting to store with each session key holding large quantities of data in ram is typically more expensive than storing on disk
+
+support,cache,faster
+no trivial support for cache accessing ram is faster than accessing disk
+
+slower
+i think it is because the disk is slower than ram
+
+space,larger
+this is well within disk space but far larger than ram
+
+bandwidth,higher,ssd,network,latency,lower
+also ram bandwidth is much higher than disk or ssd or network bandwidth and the ram latency is much lower too
+
+access
+and ram access is much more fast than disk access
+
+memory,alway,faster,io
+buy as much memory as you can afford ram is alway faster than io from disk
+
+name,recall,accesses,orders,magnitude,slower
+there are libraries that allow on-disk data structures comes to mind and another one whose name i can t recall at the moment but disk accesses are orders of magnitude slower than ram
+
+orders,magnitude,slower,significant,difference
+as disk i o is orders of magnitude slower than ram i o this can cause a very significant difference in query execution times
+
+access
+more ram means less disk access
+
+system,hard,space,mb,speed,slower
+in other words the operating system is using some of your hard disk space to satisfy your 13 mb allocation request at great expense of speed since the hard disk is much much slower than ram
+
+access,orders,magnitude,slower
+because disk access is orders of magnitude slower than ram access
+
+idea,application,faster
+the idea is to get the library and application loaded from ram into ram which is much faster than loading from disk
+
+data,space
+data in ram can take a lot more space than on disk
+
+slower,info
+which will lead to performance issue all programs will be work slower because read info from disk is slower than from ram
+
+data,map-reduce,though,sort,number,accesses,access,slower
+however if this is indeed the case - and the data does not fit ram and you cannot use map-reduce i suspect sorting and iterating - though will be o nlogn will be more efficient using external sort - because the number of disk accesses will be minimized and disk access is much slower then ram access
+
+ssd,good,slower
+ssd disk are good but they are still much slower than ram
+
+faster
+ram is much faster than disk
+
+1---------------------------------------------------
+
+true,file,larger,in-memory,representation,available
+edit true the file on disk is not larger than ram but the in-memory representation can easily become much larger than available ram
+
+swap,space,processes,larger
+it uses swap space on disk to allow for processes much larger than ram
+
+future,lists,larger,available
+in future these lists may be read from disk and larger than available ram
+
+fragmentation,issues,swap,space,memory,available
+the os heap uses the cpu s virtual memory hardware and is free from fragmentation issues and can even effectively use the disk s swap space allowing you to allocate more memory than available ram
+
+sequential,datasets,larger,random,bottle
+so while the writes my be sequential on disk for datasets larger than ram these random reads will quickly become the bottle neck
+
+lookup,repetitions,files,larger,available
+it is needed for a lookup of repetitions in disk files much larger than available ram
+
+2---------------------------------------------------
+
+vm,4gb,cpu,enough,space,5gb
+this particular jboss runs in a vm with 4gb of ram and 2 cpu s and more than enough disk space it has never has less than 5gb free at any time
+
+cores,4gb,enough,example,enterprise
+for this reason i deployed a 2 cores 4gb ram and more than enough disk to run through the getting started example of the enterprise integrator
+
+other---------------------------------------------------
+
+worst,impossible,size
+and at worst impossible at all ram size is usually much less than disk size
+
+sure,enough,data,set,atleast,index,coz,time,slower
+make sure you have enough ram so that your data set fits with ram atleast your index should fit inside the ram coz each time a data fetched from disk is 10 times slower than ram
+
+volatile,data,computer,power,expensive,unit,storage
+but ram is volatile the data in ram is erased when the computer loses power and ram is far more expensive than disk per unit of storage
+
+database,sqlite3_open,idea,bullshit,faster,mapping
+so my question is how to move this database into ram where i can access it via sqlite3_open or if my idea is bullshit and leaving the database on disk is faster than moving it into ram via mapping
+
+data,fit,machine,performance,important,random,read
+if the hot data won t fit in ram on either machine then disk i o performance becomes more important than ram mostly random read i o and the fsync flush rate
+
+program,virtual,memory,activity,concerned,best,bet,greater,available
+also keep in mind that once ram is exhausted your program will start running in virtual memory on disk which will probably cause far more disk i o activity than the program itself so if you re concerned about disk i o your best bet is probably to make sure that the batch of data you re working on in memory doesn t get much greater than available ram
+
+tech,fine
+any db tech is fine with me as long it does not need lots of ram and uses less disk
+
+insertion,pattern,smaller,index,high,destination
+in this case the latter is likely to cause trouble because the insertion of a name hits a random node in the tree i.e the name insertion doesn t follow a pattern and your ram is smaller than the index chances are high that the destination must be fetched from disk
+

@@ -1,0 +1,11 @@
+other---------------------------------------------------
+
+transaction,msi-style,better,startup,database-application
+as for production side of things upgrading your database in transaction msi-style installation is much better than attempting to upgrade at each app startup since you can potentially end up with desynchronized database-application versioning
+
+eclipse,slower
+does an eclipse installation perform slower after the upgrade
+
+user,patch,smaller,package,entire
+this can enable the user to download an upgrade patch that is much smaller than the installation package for the entire product
+

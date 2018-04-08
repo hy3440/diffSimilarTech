@@ -1,0 +1,8 @@
+other---------------------------------------------------
+
+newer,alogrithms
+hash is newer and seems to support more hashing alogrithms than crypt
+
+second,function,algorithms,variants
+the second hashing function is hash which supports many more algorithms and variants than crypt but does not support some algorithms that crypt does
+

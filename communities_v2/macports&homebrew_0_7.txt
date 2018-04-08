@@ -1,0 +1,23 @@
+other---------------------------------------------------
+
+nicer,sudo,action
+homebrew is generally a bit nicer than macports as it doesn t require lots of sudo action
+
+help,luckier,cgal
+it may be that macports doesn t help i have been luckier with homebrew than macports when installing cgal
+
+packages,stuff,local
+overriding choice for me is macports as it has many more packages than homebrew and it puts its stuff in opt local to stay out of the way of other programs
+
+versions,dependencies
+con you can encounter issues related to library versions and dependencies macports has more software than homebrew
+
+stranglehold,machine,reading
+homebrew has less of a stranglehold on your machine doesn t require as much reading as macports
+
+newer
+i m using homebrew as it s newer than macports and i don t know enough to choose between them
+
+packages,k,formulae,maturity
+currently macports has many more packages 18.6 k than there are homebrew formulae 3.1k owing to its maturity
+

@@ -1,0 +1,31 @@
+0---------------------------------------------------
+
+datebox,z-index,box,panel
+because of datebox pop-up z-index is less then your box mean dialog box s z-index it shows behind pop-up panel
+
+box,autocomplete,bigger,space,modal
+when typing in the text box the autocomplete pop-up but is bigger than the remaining space in the modal dialog
+
+other---------------------------------------------------
+
+z-index,bubble,higher,window
+i realize this is an older post but we just ran into the same issue and resolved it by setting the z-index of the bubble pop-up to something higher than the dialog window
+
+jquery,ui,page,id,anchor
+i am using jquery ui dialog to show more than one pop-up on one page each pop-up will have its own id and it will be triggered by an anchor with a attribute
+
+divs,modal,better
+use floating divs instead which looks like a modal dialog but are better than the pop-up
+
+alternative,startling,boxes,intrusive,windows
+from a practice standpoint - excluding accessibility - modal windows provide an alternative that are less startling as say dialog boxes and feel less intrusive than pop-up windows
+
+better,option,login,main,page
+generally a pop-up is a better option for a login dialog and a pop-up would allow you to easily navigate to the main page
+
+feed,intrusive,sense,facebook,window
+feed dialog is more intrusive in the sense that it has a facebook pop-up window
+
+easier,window,contents
+dialog makes it easier for you to create a pop-up window with customized contents
+

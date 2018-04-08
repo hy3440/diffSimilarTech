@@ -1,0 +1,11 @@
+other---------------------------------------------------
+
+better,connection
+generaly qgraphicsscene better using with connection qgraphicsview
+
+default,larger,necessary,scroll
+by default when you scale a qgraphicsscene larger than the qgraphicsview in which it is displayed it will show the necessary scroll bars
+
+pixmap,larger,window,scrollbars,possible
+if i set a pixmap to a qgraphicsscene that is larger that the window it will add scrollbars so is it possible to get what is displayed in the qgraphicsview
+

@@ -1,0 +1,8 @@
+other---------------------------------------------------
+
+problem,harder
+as i understand it an np-hard problem is not harder than an np-complete problem
+
+problem,np,harder,problems
+if there exists a np-hard problem that is not in np to the best of my knowledge no such problem has been proved to fall in this category at this moment of time such problem is harder than np-complete problems
+

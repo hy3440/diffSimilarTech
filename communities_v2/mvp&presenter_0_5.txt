@@ -1,0 +1,17 @@
+other---------------------------------------------------
+
+greater,seperation,knowledge,web
+mvp offers greater seperation as your presenter have no knowledge of web centric concepts
+
+api,boundaries,cleaner,boundary,view,possible,mvc
+since the flow of logic is still basically a loop but the api boundaries of the presenter is a cleaner boundary than view in mvp which helps decouple v and m in mvp than is possible in mvc
+
+use,closer,dependency,injection
+the use of a presenter is closer to mvp and gets away from the dependency injection model advocated by apple mvc
+
+pattern,testable,fake,object,unit,tests
+also this way mvp pattern becomes more testable as you can mock the view with fake object and test your presenter in unit tests
+
+web,pages,interfaces,view,layer,data
+i have been searching on the net and i made a couple of examples of both of them but i m even more confused because in some sample web pages mvp uses more than 2 interfaces to communicate the presenter with the view layer some ones even have completely blank interfaces only declarated but in other ones it only takes two interfaces to transport data from presenter to view
+

@@ -1,0 +1,11 @@
+other---------------------------------------------------
+
+little,bit,easier,programmers,better
+i ve came to kohana from codeigniter which was a little bit bigger documentation and easier to understood but as far as i found out many programmers say that kohana are alot better than codeigniter
+
+overall,flexible,great,base
+overall kohana is more flexible than codeigniter and a great base to build a web application and api on
+
+bloat,bloated,fork
+but if codeigniter has a bit too much bloat for you maybe you can try kohana which is a bit less bloated than codeigniter started as a fork
+

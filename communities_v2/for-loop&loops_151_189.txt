@@ -1,0 +1,581 @@
+0---------------------------------------------------
+
+small,experiment,faster,perl
+i ve done a small experiment as will be shown below and it looks like that a while loops is faster than a for-loop in perl
+
+faster,equivalent,functions,compiler,better,function
+in some cases hand-writing a for-loop is much faster than the equivalent accelerate functions because the compiler can optimize your loops better than the function
+
+larger,second,run
+a becomes 10 while it is still inside of the for-loop and gets larger than 10 when the while loops goes for a second run
+
+hand,counter
+on the other hand for-loop is more like counter based where you want to specify for how many times should loops happened
+
+browser,slower,opera
+the only browser where the while loops was slower than the for-loop was in opera
+
+situation,variable
+i came across a situation where i need to implement a for-loop with more than one loops control variable
+
+note,functions,better,actual,purpose
+note using apply functions instead of a for-loop is better but it depends on the actual purpose of your loops
+
+answer,faster
+i just wanted to point out my answer since i know for-loop is faster then loops
+
+faster,operations,space
+so we can see that an optimised while loops is faster than a for-loop by 2 operations however it uses more stack space
+
+performance,single,faster,right,linqs
+i think in terms of performance using a single for-loop is faster am i right 3 linqs will be eventually converted to 3 loops
+
+clearer,simpler
+this is one of the few cases where a while loops can be clearer and simpler than a for-loop
+
+faster,foreach
+a for-loop is faster than a foreach loops
+
+imho,better,iterating,right
+imho loops looks better with a for-loop iterating in the right direction
+
+last,number,easier,better
+and last if you know the number of loops it is much easier and better to read when you use a for-loop instead of a while loops
+
+js,slower,normal,look
+if you are using any js loops then for each loops is slower than normal for-loop you might wanna take a look at this
+
+easier,foreach
+i think using for-loop is much more easier than using foreach loops to do this
+
+approaches,larger,constant,overhead
+although both approaches are o n the for-loop has a larger constant because of loops overhead
+
+faster,length,upper
+the decremented while loops is still faster than the for-loop or the incremented while loops with length upper limit comparison by a fair margin
+
+better,value,counter
+in this case i found while loops is better than for-loop because if i want to achieve the same in for-loop i have to assign the value of counter to another variable
+
+better
+also this loops is better created as a for-loop
+
+counter,better
+then you should achive them with a counter and maybe a for-loop is better then while loops
+
+callback,function,foreach,slower
+a loops using a callback function like the standard foreach was approximately 10 times slower than the for-loop
+
+option,foreach,slower,practical,purposes
+the other option is to use a foreach loops which is slightly slower than a for-loop but works almost equivalently for all practical purposes
+
+hypothesis,faster,true,outer,ones
+even if the hypothesis of the while loops being faster than the for-loop were true and it s not the loops you d had to change optimize wouldn t be the outer ones but the inner ones because those are executed more times
+
+sense,situation,initialization
+a while loops makes more sense in this situation or a for-loop without initialization
+
+style,better,fit,earlier
+that is because that style of loops is a better fit for what you are doing than the for-loop you used earlier
+
+inner,complex,simple,slower,memory
+now assuming that your inner loops is more complex and the simple for-loop is slower let s look at how much memory we save by avoiding broadcasted data in a parfor with 4 workers and a dataset with 50 million rows for about 760 mb in ram
+
+readable,variable,manipulation
+also the for-loop is more readable than the while loops because it puts all loops variable manipulation in one place
+
+set,number,concise
+if you need to do something a set number of times a for-loop is generally more concise than a while loops
+
+better,terms,readability,slower,plain
+it might be better than a for-loop in the terms of readability maintainability but keep in mind that linq usually slower than plain loops tl
+
+faster,difficult,endless
+a for-loop is usually faster than a while loops and it is more difficult to build an endless loops than it is by using a while loops
+
+faster
+the while loops runs 3000 times faster than the for-loop
+
+max_size,big,slower,little,possible
+max_size must be big enough because a for-loop is slower than lapply you want to do as little loops through the for as possible but not too big or the list extension overhead will make the program slower
+
+lowly,easier,elements,list
+even if you use a lowly for-loop it s much easier to loops over the elements of a list than it is to construct variable names with paste and access the objects with get
+
+arraylist,faster,speed,foreach
+arraylist - for-loop is about more than 2 times faster speed than foreach loops
+
+simple,condition,better
+i found a simple condition where using while loops is better than for-loop
+
+foreach,time
+but the the foreach loops takes more time than a the for-loop
+
+tighter,previous,answer
+the while loops seems tighter than a for-loop from previous answer but look up for vs while logic
+
+better,value,numeric
+in your case for-loop is better as changed in loops value is numeric
+
+clearer,reflection
+really a while loops would probably have been clearer than a for-loop on reflection
+
+objective-c,foreach,convenient,counter
+also as an aside objective-c has a foreach loops that is more convenient than manually setting up a for-loop with a counter
+
+foreach,slower,code
+the foreach loops is slower than the for-loop yet most people don t rewrite all of their code to use the for
+
+little,bit,control
+i think you can best use the for-loop this gives you a little bit more control over loops
+
+faster,foreach
+because i heard that for-loop is much faster than foreach loops
+
+lapply,easier,list,counter
+i find lapply loops easier than a for-loop in your case as initializing the list and using the counter can be avoided
+
+result,faster,foreach
+i did test it a while ago with the result that a for-loop is much faster than a foreach loops
+
+tests,slower
+in my tests i found that one of the loops i tested titled for-loop is astronomically slower than the other loops
+
+mean,foreach,slower,common,copies,element
+if the above is true doesn t this mean that the foreach loops is much slower then the common for-loop since it involves making copies of each element of the arrays
+
+intellij,ide,approach,faster
+having said i am really not sure why you are getting unexpected behavior i ran your code both in eclipse and intellij ide and i always got for-loop approach as faster than while loops
+
+problem,program,value,false
+the problem is that when the program first gets to the for-loop 9 is not less than 0 so the value is false and it skips loops
+
+windows,faster,original,google-chrome
+on windows the while loops above is 20 faster than the original for-loop in google-chrome in ie and firefox both loops perform the same
+
+whole,thing,neater,isread
+putting the whole thing in a for-loop makes it neater and ensures that the iterating isread is called each loops
+
+cleaner
+your loops would be cleaner as a for-loop
+
+simple,faster,foreach
+as the simple for-loop is faster than a foreach loops
+
+faster,equivalent
+but according to this answer a for-loop is executed faster than the equivalent while loops
+
+multiprocessed,slower
+the multiprocessed loops is slower than doing the for-loop
+
+decrements,slower
+the while loops with decrements was approximately 1.5 times slower than the for-loop
+
+specific,situation,better
+but is there any specific situation when while loops is better than for-loop
+
+flow,better
+using a while loops we can control the flow of i better than a for-loop
+
+advice,for-each,faster
+the other advice i have is that a for-each loops is faster than a for-loop
+
+foreach,faster,element,problem
+i prefer using for-loop instead of foreach loops for-loop is preferably faster than foreach loops when you do not have to do something to each element and can solve your problem by just using the index as follows
+
+appropriate,self-explanatory,situation
+also a while loops seems more appropriate and self-explanatory in this situation than a for-loop
+
+little,slower
+however the while loops remains a little slower than the for-loop
+
+incrementor,endless
+the incrementor in the for-loop is more of a while 1 endless loops
+
+slower,condition,iteration
+i would expect a while loops to be slower than a for-loop since it needs to test a condition before each iteration
+
+kotlin,closer,foreach,indexes
+the way you are using the kotlin for-loop is much closer to java s foreach loops for i indexes
+
+native,faster,jquery,method
+also the native for-loop is faster than any other jquery loops method
+
+complicated
+a while loops is imo more complicated to read than a for-loop
+
+easier,logic,need,track
+secondly you will find a for-loop is easier than a do loops for implementing the logic as you don t need to keep track of loops counter manually
+
+faster
+is for-loop is faster than while loops
+
+faster
+i did this with for-loop too and while loops was clearly faster than for-loop again
+
+string,better,faster,value
+if you won t be changing the string in loops it is better faster to store the value in and then include it in the for-loop
+
+foreach,faster,operations,manual
+even if a foreach loops were faster than a for-loop there are still operations being carried out that wouldn t be in your manual example
+
+better,fit
+which loops is a better fit do while or a for-loop
+
+type,slower,standard,application
+you could also use a for each loops to handle this though that type of loops is slower than a standard for-loop depending on application
+
+simd,faster,foreach
+why simd for-loop only 14 faster than foreach loops
+
+results,foreach,faster
+and the results is that foreach loops is 5-6 times faster than the for-loop
+
+do...while,appropriate,user
+a while loops or do...while loops is more appropriate here than a for-loop because you do not know how many times the user wants to execute loops
+
+c++,basic,simpler,expression,initializer,test
+loops in c++ are most basic than python the for-loop is more simpler it is based on the three expression initializer expression loops test expression and the counting expression
+
+faster,bunch,lists
+so why while loops is faster than for-loop and why need bunch of lists
+
+appropriate,code
+a for-loop is more appropriate than a while loops in your code
+
+counter,program,better
+if i have to use the value of counter in my program then i think while loops is better than for-loop
+
+place,faster,traditional
+one place where the enhanced for-loop is faster than a naively implemented traditional loops is something like this
+
+faster,data,structures
+to explain why a for-loop is faster than a for in loops is basically understand the underlying data structures used to store the data in memory
+
+clearer,next,clause
+as an aside i would suggest a while loops would be a bit clearer than a for-loop without a next clause
+
+easier
+instead of using a while loops it is easier to use a for-loop
+
+foreach,slower,equivalent,tail,recursion
+foreach or for-loop is somewhat slower than an equivalent while loops or tail recursion the benchmark i linked to above shows a 15x performance difference with 1000+ iterations though it will likely depend on the version of scala and the version of the jre...
+
+parfor,slower
+can you explain me why in this case the parfor loops is slower than the for-loop
+
+parfor,slower,data,workers
+therefore the parfor loops simply must be slower than the for-loop because it has to transmit data to the workers for them to operate on
+
+3x,faster,regular,great,easier
+says that enhanced for loops is 3x faster than the regular for-loop well that great and its easier to write anyways but what if i need the index
+
+pre-decrements,count,--count,better,variables
+0 a do while loops that pre-decrements count --count and compares to zero is better than a for-loop that compares two variables
+
+better,thought,statement,akin
+a while loops is better thought of as a looping version of an if statement than akin to a for-loop
+
+faster,foreach
+for-loop is faster then foreach and foreach is faster then for in loops
+
+easier,initialization,condition,expression
+further as a for-loop it is easier to read as everything initialization loops condition expression to be executed after each iteration are all on one line
+
+better,practice,trough,regular
+in ... for-loop it s consider better practice to loops trough it with a regular for
+
+readable,counter,variable
+lastly whenever you want to iterate x amount of times a for-loop is always more readable than a while loops that uses a counter variable
+
+easier
+for-loop is easier to read than a while loops
+
+normal,faster,for-in
+and normal for-loop is faster than for-in loops
+
+simpler,condition,limit
+using for-loop is much simpler if you use condition as limit for breaking loops
+
+use,foreach,neater,kind,thing
+note my use of a foreach loops here which is much neater than your for-loop for this kind of thing
+
+worth,foreach,expensive,memory-wise,details
+it s worth pointing out that in general the foreach loops is more expensive memory-wise compared to the for-loop see here for details
+
+faster,efficient,speed,equivalent,code
+loops recur is faster - it s one of the most efficient constructs in clojure done correctly it should match the speed of an equivalent for-loop in java code
+
+better,requirements
+a for-loop fits better to your requirements than a while loops
+
+basic,slower,test,condition
+a basic for-loop is slower than a for - loops with simplified test condition
+
+speed,faster,time,.as,iterates
+this is happening because of speed of for-loop which is faster than your time .as loops iterates in time of less than miliseconds and generates values.you can only call it when you want to insert single value to database and don t iterate for values
+
+iterator,single,better,approach,scenes
+usually if you re going to consume all the elements of the iterator in a single loops it is better to use the for-loop approach and it will be better using the enhanced for-loop that already uses iterator behind the scenes
+
+faster
+the for-loop is faster than the while loops when n 1000000 each takes roughly 0.105544 and 0.2389421
+
+slower
+based on this not created by me the while loops is 22 slower than a for-loop in general
+
+second,easier
+2 second loops is and easier for-loop to read
+
+better
+your while loops would be better written as a for-loop
+
+better
+you need here while loops better than for-loop
+
+foreach,slower
+is the foreach loops slower than the for-loop
+
+single,faster,nested,image,counters
+a single for-loop is generally faster than using 2 nested for loops to traverse the image with x y counters
+
+mind,simpler,list
+to my mind a for-loop is simpler to understand than traversing the list backwards with a while loops
+
+nested,version,slower,interpreter,overhead
+the nested loops version is the slower of the two due to the extra the interpreter overhead of the for-loop
+
+wrong,syntax,better
+but certainly wrong syntax in the for-loop is there better way to code it so that after loops i can get
+
+better,piece,certain,number,condition
+as for your question a for-loop is usually better when you want a piece of code to run a certain number of times and a while loops is better when the condition for the code to keep running is more general such as having a boolean flag that is only set to true when a certain condition is met in the code block
+
+global,variable,value,greater
+the for-loop is using i as a global variable so if your instance.set_marker function is also using i as a global variable and sets its value to something greater than 6 loops will exit
+
+code,jsperf,faster
+hey guys can anyone tell me why my code in this jsperf seems to indicate that a for-loop is actually faster than a while loops
+
+arrayfun,slower
+however arrayfun is just a for-loop in disguise and is often slower than writing loops explicitly
+
+foreach,code,heavy,object,slower,for.
+foreach can simplify the code in a for-loop but it is a heavy object and is slower than a loops written using for.
+
+sendp,method,slower,packets
+in example sendp method included in for-loop which is slower than making other loops to send packets
+
+conclusion,article,better,faster,foreach
+the conclusion of the article is that using for-loop is generally better and faster than the foreach loops
+
+logic,unrolled,faster
+this conclusion would follow from a logic if an unrolled loops is faster than a for-loop executing a lot of unrolled loops should be faster than executing a lot of for loops
+
+parralel.for,better,regular,purposes
+recently i ve stumbled upon a parralel.for loops that performs way better than a regular for-loop for my purposes
+
+better,item
+i think that instead of a for-loop is better a while because when you find your item can break loops
+
+better
+thus your for-loop is probably better expressed as following while loops
+
+function,argument,variable
+each line can do one of three things it can call a function which modifies it s argument start a while loops which is really more of a for-loop or assign a variable
+
+regular,better,scenario,foreach
+this is why a regular for-loop is better to use for this scenario rather than a foreach loops
+
+reverse,faster
+the reverse while loops is generally faster than a for-loop as well
+
+page,variable,operations
+i suspect your curly braces aren t in the correct place as per scheff s comment the scope of the page variable is contained within the for-loop and you are attempting to do more operations after loops is over
+
+fixed,number,view,better
+your while loops always runs a fixed number of times so from a stylistic point of view you would be better off with a for-loop
+
+slower,foreach
+the for-loop is slightly slower than the foreach loops
+
+workers,parfor,slower,local,cluster
+-in the same laptop but using the hpc cluster of my department with 30 workers the parfor loops is much much slower than the for-loop and than the parfor loops using the local cluster with 12 workers
+
+1---------------------------------------------------
+
+natural
+a for-loop is more natural than a while loops but you requested no for
+
+natural
+a for-loop is more natural for this than a while loops
+
+2---------------------------------------------------
+
+time,sense,c99
+additionally you should reset i each time you go through loops and a for-loop makes more sense than a while loops especially if you re using c99 as i can be declared within loops
+
+use,cleaner
+this is a use case where a for-loop is cleaner to use than a while loops
+
+use,memory,cleaner
+xrange will give you an iterable object that won t use memory as you iterate a for-loop is cleaner than a while loops + counter if you ask me
+
+time,execution,entire,program
+since i am using two for loops it is consuming more time and is affecting the execution time of my entire program which already had a for-loop
+
+header,time,body,results
+here the for-loop header takes actually more time than loops body thus profiling results could be distorted.
+
+sense,use
+a while loops makes more sense to me than your use of a for-loop
+
+anyone,time,looping
+can anyone explain why the while loops is taking more time than the for-loop even though the looping of i and j is almost same
+
+print,statement,time,first
+finally we concluded after we put print statement inside for-loop that it will take much more time than loops in the first case without print statement
+
+3---------------------------------------------------
+
+language,c,syntactic,sugar
+in a language like c a for-loop is more or less syntactic sugar for a while loops
+
+important,c,closer,theoretical,pascal
+in practical programming languages the distinction between the two is a bit blurred but is important to know that the c java for-loop is closer to a theoretical while loops while the pascal for behaves more like the theoretical for-loop
+
+c-style,flexibility,equivalent,python,c
+a c-style for-loop has more flexibility but ultimately you can write an equivalent loops with python s while or c s while for that matter which touches not only on the â œone obvious wayâ principle but also â œsimple is better than complexâ amongst others
+
+4---------------------------------------------------
+
+others,python,traditional,foreach,sense,collection
+as others have stated the python for-loop is more like a a traditional foreach loops in the sense that it iterates over a collection of items without checking a condition
+
+arrays,for-each,efficient,traditional,option
+my view is that option 1 is clumsy code and involves unnecessary creation of an arrays even though the for-each loops is more efficient than the traditional for-loop in option 2
+
+5---------------------------------------------------
+
+result,bigger,range,upper,increases,c#
+the result amazed me in the way that as loops goes over bigger range the performance of c# decreases as compared to c..for smaller range c# shown well performance over c....but as upper range of for-loop increases the c# performance degrades as compare to c..
+
+impression,implementantion,kind,adaptive,delay,bigger,increases
+i have the impression that the implementantion has something to do with a for-loop and some kind of adaptive delay that gets bigger as loops count increases
+
+other---------------------------------------------------
+
+nicer,likely,infinite
+rewriting the while loops as a for-loop is nicer and makes it less likely to get an infinite loops
+
+expensive,time,dynamic,casting,overhead
+i have an expensive for-loop that is taking more time than it should due to dynamic casting overhead inside loops
+
+range-based,syntax,cleaner,universal,code,range,different
+the range-based for-loop syntax is cleaner and more universal but you can t execute the code in loops for a specified range different than from begin to end
+
+salu,nest,pressure,bottleneck,nested,intelligent,algorithm,counter,trick,body,valu
+salu is used for-loop counter so when you nest them more salu pressure is done and becomes a bottleneck when there are more than 9-10 loops nested maybe some intelligent algorithm using same counter for all loops should do the trick so not doing only salu in loops body but adding some valu instructions is a plus
+
+code,others,slower,trivial,tight,cost,miniscule,logic
+update i made some changes to my code but was already suspecting what others here have already pointed out sure the enhanced for-loop is slower but outside of very trivial tight loops the cost should be a miniscule fraction of the cost of the logic of loops
+
+card,asynctask,test,galaxy,nexus
+i m working on an app to load an amount of images from sd card using asynctask + for-loop i ve test the app on my galaxy nexus the app working perfectly but it will crash if i use more than 33 loops
+
+code,appropriate,desire,break,b,operator
+also if you can do the above you can probably just as easily turn your code into a for-loop which seems more appropriate given your desire to a break out of loops b use the operator to cause side effects
+
+variable,test,wider,scope,variables,header
+the scope of the variable in the test of the while loops is wider than the scope of variables declared in the header of the for-loop
+
+difference,statement,second,double,longer,game,things,platforms
+the only difference in the two loops is the one if statement in the second double for-loop and loops is slightly longer but in the game the second for-loop is only rendering 3 things as there are only 3 platforms being rendered at this point int time
+
+note,string,assignment,time,inline
+note that the for-loop based on the string assignment a_string runs one time more than loops based on the inline assignment a_inline -- notice the last number -3.46945e-18
+
+advantages,ther,perferable
+for-loop is widly used and has more advantages over while loops but ther are some cases when while loops is perferable
+
+script,values,classpath
+now i went into this script there are for loops which are adding some values to the classpath for there are more than one for-loop
+
+lines,files,readable
+for looping over lines in files you can use a for-loop which is more readable than while loops
+
+benchmark,sefan,answers,ammount,time,fruity,shorter,second,multiple,longer
+according to benchmark both sefan and the while loops answers take the same ammount of time fruity the while loops answers take a bit shorter with the for-loop answers in second but the multiple loops do answers take far longer
+
+theory,quicker,length,attribute,foo,time,real-world,use
+in theory the while loops is quicker because the for-loop looks up the length attribute of foo every time though loops but in real-world use it s going to make an immeasurably small difference
+
+larger
+alternatively you could initialize i outside of the for-loop but then it s scoped larger than loops itself
+
+convenient,arrays
+you should use a for-loop which is more convenient to loops in an arrays
+
+nothing,glorified
+a for-loop is nothing more than a glorified while loops
+
+
+a for-loop should be used don t you think what loops makes is more clearly stated in the for-loop
+
+grid,view,data,last,run,i.e,previous,binds,overwritten.i,dont,rows,..plz,help
+i m binding a grid view inside a for-loop which executes more than once.now when loops ends the data in grid view is the data binded at the last run of for-loop i.e all previous binds in the for-loop over overwritten.i dont want this .i want new rows to be inserted at each run of the for-loop ..plz help somebody
+
+identical,error,prone,functionality
+they are functionally identical however it can be argued that the for-loop is less error prone because all of loops functionality is right there together
+
+main,problem,logic,correct,didah,bigger,counter
+the main problem i know is the while loops the logic behind it is not correct because last didah is always bigger than n for-loop counter
+
+error
+again same error but while loops clearly survived more than for-loop
+
+aim,performance,better,c#,opposite,understanding,upper,range,c
+here i started above testing with the aim that c for-loop performance will be better than c# loops but it goes exactly opposite with my understanding and gone with this question and agreed...but when i increase the upper range of for-loop the c performance goes well as compared to c#.
+
+suitable,countable
+for-loop is more suitable for any countable loops
+
+strange,work,fundamental
+its really strange that the same doesn t work with a while loops as is said that a while loops is more fundamental that a for-loop
+
+linear,layout
+i am adding views dynamically to linear layout in a for-loop of more than 100 loops
+
+sppropriate
+a for-loop is more sppropriate than a while loops
+
+
+in a for-loop of more than 100 loops
+
+readable
+a while loops is more readable than a for-loop
+
+someone,exit,criterion,actual
+the for-loop question is more of someone building a loops with exit criterion inside the actual loops
+
+time,several,machine,instructions
+i noticed some time ago that a for-loop typically generates several more machine instructions than a while loops
+
+clean,nested
+i personally think the while loops looks less clean than the nested for-loop
+
+able,plain,flexibility
+to achieve the actual goal you maybe able to use plain for-loop which provides more flexibility in controlling loops instead of using while
+
+class,problems,powerful,strict,pascal
+the class of problems you can solve with while loops is strictly more powerful than those you could have solved with the strict for-loop found in pascal
+
+stats,format,if-else,statements,grid,element,value,greater
+so i decide instead of writing out chucks of code for each of the 10 possible health point not to mention there are other player stats that will be done in the same format i decided upon scraping together a for-loop with two if-else statements to attempt a loops to fill each grid element as long as the health value is greater than the for-loop s i
+
+array.prototype.slice,fan,faster,browsers,nothing,slice,hack
+some people use array.prototype.slice to do that but i m not a fan and i think a for-loop is faster in most browsers - but either way i have nothing against for loops and the slice often feels like a hack to me
+
+iterations,task
+that means you don t know how many iterations you re going to need so a while loops is more suited to this task than a for-loop
+

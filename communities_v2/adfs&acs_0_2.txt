@@ -1,0 +1,8 @@
+other---------------------------------------------------
+
+possible,ip-sts,assertion,url,index,authnrequest
+it seems possible to have adfs as the ip-sts send an assertion to more than 1 acs url based upon the acs url or acs index in the authnrequest as long as they are listed in the relaying party trust endpoints list
+
+powerful,claims,transformation,capabilities
+adfs has more powerful claims transformation capabilities than acs
+

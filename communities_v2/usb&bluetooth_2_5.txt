@@ -1,0 +1,17 @@
+other---------------------------------------------------
+
+watch,support,moto,induction,debugging,slower
+if your watch doesn t have usb support moto 360 and other induction only charging you need to enable bluetooth debugging slower than through usb though
+
+difficult,harder,interface,millivolts,pic,processor,digital,sampling,client,host,otg,phone,complicated,peripheral
+interfacing with usb is more difficult than it sounds it would be harder to build something which would interface with that and measure millivolts than with bluetooth because the pic processor you use for analog to digital sampling and usb client would in fact have to either act as usb host or usb otg on a phone which is far more complicated than being a usb peripheral
+
+hand,connection,reliable,speed,pitfalls,connectivity
+on the other hand a usb connection is far more reliable better supported and of course has the inherent advantage of speed and since it is well supported does not suffer from all the pitfalls bluetooth connectivity does
+
+requirements,connection,easier
+it depends on your requirements but setting up a usb connection is sometimes easier than managing a bluetooth connection
+
+commands,connection,useful,slower
+i had previously sent those commands via bluetooth but the connection fails too often to be useful and is slower than usb
+

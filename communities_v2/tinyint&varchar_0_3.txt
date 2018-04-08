@@ -1,0 +1,11 @@
+other---------------------------------------------------
+
+spaces,main,table
+as varchar n takes spaces much more than tinyint and your main table is table2 so the second scenario is more optimize
+
+better
+i think tinyint is better than varchar in this case
+
+efficient,aju,john
+using varchar is less efficient than using tinyint like aju john suggested in his comment but unless i m dealing with a really performance-critical or a huge table - i find it easier to deal with
+

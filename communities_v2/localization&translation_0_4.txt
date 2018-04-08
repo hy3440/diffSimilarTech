@@ -1,0 +1,14 @@
+other---------------------------------------------------
+
+easier,text,images
+localization it s easier to translation text than images
+
+engmaterial,english,possible,better,.net
+is the best solution to add a new column called engmaterial and add the english translation there or is it possible to solve this in a better way with localization in .net
+
+
+this is where i learned that localization is a lot more than translation
+
+team,responsible,different,countries
+i d have one project team responsible for localization which may well involve more than just translation - different countries have different legal requirements currencies payment providers etc. and one team for improving the code base
+

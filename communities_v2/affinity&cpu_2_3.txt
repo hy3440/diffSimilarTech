@@ -1,0 +1,11 @@
+other---------------------------------------------------
+
+suggestion,kernel
+the cpu affinity is more like a suggestion to the kernel regarding which cpu to use
+
+core,time,performance,better,vs
+but i found if i do not set their cpu affinity that is they run on same core 0 the time performance get better than setting cpu affinity 8.76s vs 14.66s
+
+better,load,average,single,core
+cpu affinity it s better for the cpu to have a load average of 1.0 and processes to have affinity to a single core
+

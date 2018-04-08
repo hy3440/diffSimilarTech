@@ -1,0 +1,8 @@
+other---------------------------------------------------
+
+effective,multiples,for-loop
+printwriter is more effective than filewriter and filewriter is needed anyhow but this will work also if you want to do multiples people then just for-loop it and dont forget to close
+
+sure,better
+i m not sure if printwriter or filewriter is better but printwriter worked for me
+

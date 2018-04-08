@@ -1,0 +1,8 @@
+other---------------------------------------------------
+
+improvements,features,vanilla,suggestion,c++,http
+due to many improvements to couchdb and that cloudant has more features than vanilla couchdb my suggestion would be to use a c++ http library to communicate with cloudant
+
+libraries,wiki
+regarding cloudant it s more or less just couchdb so to connect you can use these libraries from the couchdb wiki
+

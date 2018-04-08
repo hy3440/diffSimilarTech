@@ -1,0 +1,8 @@
+other---------------------------------------------------
+
+set,facilities
+moles is more often compared contrasted to typemock in that it offers a set of facilities outside of moq and or rhinomocks sweet spot
+
+tests,slower,faster,ms
+i have no concrete figures on that but from my own experience i d estimate that instrumented tests are around 100-400 slower typemock seeming to be faster than ms moles
+

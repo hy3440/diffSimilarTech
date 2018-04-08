@@ -1,0 +1,11 @@
+other---------------------------------------------------
+
+libc,allocation,efficient,wont,extra,memory
+if you don t mind the libc allocation functions realloc is even more efficient it wont copy the data on a shrink just mark the extra memory as free and if you grow the memory and there is memory free after it will mark the needed memory as used and not copy either
+
+malloc,pair,better,need,original
+a malloc free pair can be better than a realloc if you don t need to keep around the original memory
+
+system,tricky,complicated,malloc
+dynamic memory management on an small embedded system is tricky to begin with but realloc is no more complicated than a free and malloc of course that s not what it does
+

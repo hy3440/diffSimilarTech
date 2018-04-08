@@ -1,0 +1,11 @@
+other---------------------------------------------------
+
+note,efficient,new,time,letter
+note also that using nsmutablestring is more efficient than creating a new nsstring each time a letter is added
+
+general,oppertunity,subclass,functionality,implementation
+nsstring is more general as it leaves you the oppertunity to create another subclass of it that could add the altering functionality without using the nsmutablestring s implementation why ever you would want that to do
+
+all-in,able,things,direction,inheritance
+all-in all the reason is that nsmutablestring is able to do more things than nsstring and can do anything nsstring can hence the direction of inheritance
+

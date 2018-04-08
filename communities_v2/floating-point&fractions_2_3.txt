@@ -1,0 +1,11 @@
+other---------------------------------------------------
+
+digits,dot,decimal,representation,numbers,binary
+all other fractions floats have more digits after the dot when expressed in decimal because the representation of floating-point numbers is binary not decimal
+
+values,realistic,new
+and using floating-point values is more realistic - you need fractions values because when you rotate something the new coordinates will nearly always be non integral
+
+numbers,digits
+the floating-point numbers are rounded to have not more than eight fractions digits
+

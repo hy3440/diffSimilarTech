@@ -1,0 +1,14 @@
+other---------------------------------------------------
+
+efficient,protocol
+spdy is a more efficient protocol than http
+
+optimizations,tls-secured,connection,better,plain
+in fact with optimizations like spdy you might find that a tls-secured connection actually performs better than plain http
+
+better,article,use
+http 2 is even better than spdy and check this article for a use case regarding spdy
+
+equivalent,implementation,detail
+anything that you do with http is more or less equivalent with spdy and neither is really anything but an implementation detail of your soa work
+

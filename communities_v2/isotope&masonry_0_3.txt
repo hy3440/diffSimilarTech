@@ -1,0 +1,11 @@
+other---------------------------------------------------
+
+jquery,plugin,complete,version
+they do this using a jquery plugin called isotope which is a more complete version of masonry you pay for
+
+stead,easier
+in its stead you can use isotope - which does filtering a lot easier than masonry
+
+plugin,better,media-queried,resizes
+according to this answer the isotope plugin might work better than masonry for media-queried resizes
+

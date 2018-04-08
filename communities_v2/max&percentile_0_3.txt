@@ -1,0 +1,11 @@
+other---------------------------------------------------
+
+sliding,window,temperature,higher,test1
+the code included in the sapply call will test each day starting from day n. 7+1 8 against the 15-day sliding window as defined before and check if the max temperature is higher than the 90th percentile of that window test1
+
+values,greater,95th,minutes
+i can get the max values like this but i need values greater than 95th percentile for every 5 minutes
+
+partition
+if you notice the 99th percentile is less than 40mb but the max sized partition is still reported to be 3.44gb
+

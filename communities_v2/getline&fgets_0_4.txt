@@ -1,0 +1,14 @@
+other---------------------------------------------------
+
+flexible,allocation,space
+getline is far more flexible handling the allocation of space for you with fgets it is up to you
+
+edit,comments,safer,buffer,size
+one more edit if you want to use getline instead which you asked about in the comments - and it s even safer than fgets since it will increase the buffer size as needed you would change to change the code a little bit
+
+use,harder,doubt
+if you cannot tolerate that use getline it s harder to use so use fgets if in doubt
+
+example,read,loop,better
+since i provided a getline example above your read loop can be much better written with fgets as follows
+

@@ -1,0 +1,11 @@
+other---------------------------------------------------
+
+jsf,application,least,documentation,better
+i haven t tried any of these in a jsf 2 application but i would recommend using the primefaces one at least the documentation is better than richfaces
+
+developed,rf
+richfaces is more developed and tested generally since primefaces came out later than rf
+
+components,combobox,available
+primefaces has more components but lack combobox available in richfaces
+

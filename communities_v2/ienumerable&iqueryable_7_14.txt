@@ -1,0 +1,50 @@
+0---------------------------------------------------
+
+suitable,interaction,database
+i d say iqueryable is more suitable for interaction with a database than ienumerable is
+
+calls,database,quicker,place
+with really basic calls to the database iqueryable is way quicker but when do i need to think about using an ienumerable in its place
+
+1---------------------------------------------------
+
+side,linq,heap,better,native
+the ienumerable side of linq which works on in-memory objects that are already in the heap will almost certainly perform better than the iqueryable side which exists to be translated into a native query language like sql
+
+better,linq,exact,query,rows,database
+i have read about ienumerable and iqueryable i have read that iqueryable is better with linq because when you use where clauses it creates the exact query it needs but with ienumerable it retrieves all rows from database and then filters on memory
+
+2---------------------------------------------------
+
+generic
+ienumerable is more generic than iqueryable though all
+
+generic,instances
+ienumerable is more generic than iqueryable though all instances of iqueryable implement ienumerable and only defines
+
+other---------------------------------------------------
+
+better,query
+what i know is using iqueryable is better than ienumerable if another query is going to be performed
+
+words,operations,causes,simple,elements,lazy,slower
+in simple words all operations on ienumerable causes simple iteratation over all elements well it s lazy ienumerable really slower than iqueryable
+
+useful,example
+can you provide any useful example that shows ienumerable could be more useful than iqueryable
+
+entity,framework,implementation,picky,linq,objects
+entity framework s iqueryable implementation is more picky about creating new objects in objects than regular linq to objects ienumerable
+
+familiar,infeasability,blog,post,preferable,access,underlying
+i m not familiar with the infeasability of iqueryable but this blog post seems to indicate that iqueryable is much more preferable to ienumerable because iqueryable allows access to the underlying expression
+
+faster,able,entities,issues
+i assume applying iqueryable will be much faster than the ienumerable not to forget i was able to use iqueryable on the other entities without any issues
+
+view,declaration,use,first,result,payload,smaller
+for your view to expect an ienumerable you need to change your view declaration to be also if you really need to perform a find use iqueryable first them return the result as ienumerable since the payload on ienumerable is smaller than iqueryable
+
+result,type,performance,better,place,memory
+final result will be of type ienumerable and in terms of performance this would be better than iqueryable since here join is taking place between in memory collections
+

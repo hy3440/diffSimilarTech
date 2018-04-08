@@ -1,0 +1,11 @@
+other---------------------------------------------------
+
+better,nashorn
+in this case jackson performs better than nashorn which performs much better than org.json
+
+takeaway,benchmark,better,gson
+quick takeaway of the benchmark jackson performs 5 to 6 times better than org.json and more than twice better than gson
+
+class,spring,powerful,json,framework
+p.s. my recommendation would be to remove jsonobject conversion and instead return an object of actual class as internally spring uses jackson which is more powerful json framework then org.json
+

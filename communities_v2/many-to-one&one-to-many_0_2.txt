@@ -1,0 +1,8 @@
+other---------------------------------------------------
+
+side,cascade,efficient,association
+inverse is for bidirectional associations and most often it s on the same side with cascade but that s because the many-to-one side is much more efficient to control the association than the one-to-many one
+
+fifth,easier,nhibernate,collection,mapping
+fifth many-to-one is much easier to use correctly in nhibernate and i assume hibernate than one-to-many collection mapping
+

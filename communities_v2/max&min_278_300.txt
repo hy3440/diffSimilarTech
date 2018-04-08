@@ -1,0 +1,908 @@
+0---------------------------------------------------
+
+adjacent,numbers
+and then filter to limit only rows where adjacent numbers min is less between 4 and 7 and max is between 6 an 12
+
+item,smaller
+and i need to check for every item if min is always smaller than max
+
+value,greater,attribute
+if not we test whether the entered value is less than the min value if it is then we set the value to the min value and if not implying that the value must be greater than the max we set the value to the max attribute
+
+urbg,largest,operator,greater
+urbg max returns the largest urbg result_type that operator could return strictly greater than min
+
+note,greater,equal
+note this works as long as the min is less than the max and the max is greater than equal to nomin+ 2 noincrement
+
+value,greater
+otherwise once max has replaced min once a value can never be both greater than max and less than min
+
+sliders,greater
+do note that sliders won t render if max is not greater than min
+
+dimension,box,coordinate,lesser
+that is that for some dimension box s max coordinate is lesser than min coordinate
+
+larger
+since max is larger than min one of the two will always happen
+
+greater,purpose,condition
+you need min less than max or max greater than min both serves the same purpose in condition then it ll work fine
+
+engine,rows,search,result,greater
+the engine will find all rows where min is less than x then search within those result to find the rows where max is greater then y
+
+parameter,least,c,haracters
+im trying to write a method that returns the number of words from the words parameter that have at least the min but no more than the max c haracters
+
+zone,greater
+i want to assign it a zone if it is greater than the min but less than the max
+
+salary,user
+and how to make that the salary max is never less than the salary min that a user entered
+
+l,omitting,lower,ditto,r
+when l max 1 omitting l min means the lower bound is 0 or 1 ditto for r max r min
+
+possible,xml-schema,attribute,greater
+is it possible to use xml-schema to require the max attribute to be greater than the min attribute
+
+lesser,current,greater
+all we are doing here is comparing if min is lesser than the current and max is greater than the current
+
+check,lower,higher
+for each new number after the first check if it is lower than min or higher than max and in that case save that instead
+
+u,field,error,moment
+so if u change the field min as 0.8 the error shows up as min should be less than max till that moment the field will be shown as red border since it is wrong
+
+bigger,gc,workers
+max is much bigger than min maybe i can minus the gc workers
+
+code,value
+my code below however sometimes gives out a value more that my max and less than my min
+
+equal,larger,smaller
+let s check if the first which is equal or larger than min is smaller or equal than max so
+
+number,value,greater
+represents a number less than min value or greater than max value
+
+user,value,negative,greater
+ask the user for a max value also may be negative must be greater than min though
+
+cloud,points,greater,x,direction
+in a given point cloud i want to remove all the points which are less than min and greater than max for all x y and z direction
+
+true,luckynumber
+replacing this with an will only return true if the luckynumber is more than min and less than max
+
+value,larger,pop-up
+if the value of min is larger than max a pop-up will occur
+
+greater,zero
+if a and b are opposite sign they cannot overflow - the one greater than zero would need to be greater than max or the one less than zero would need to be less than min
+
+bin,values,last,greater,multiple
+the first bin is for values less than min and the last for greater than max and it is implemented efficiently due to multiple dispatch
+
+bounds,inclusive,example
+the bounds are inclusive ie 2 5 and min must be less than max in the above example
+
+lower,increment,positive
+min should be lower than max increment should be positive and max-min should be divisible by increment
+
+syntax,positive,integer,number,matches,equal,greater,maximum
+the syntax is where min is zero or a positive integer number indicating the minimum number of matches and max is an integer equal to or greater than min indicating the maximum number of matches
+
+window,smaller,width,content,page,horizontal
+if the window is smaller than max width the content fills 100 of the page unless it s smaller than min width which would make the horizontal scrollbar appear
+
+value,greater,lower,limits
+make sure any of the chart s value is not beyond greater than the max or lower than the min the limits you are setting
+
+optimal,variable2,parameter,variable1,greater
+if there s a chance that it will be optimal to set variable2 to something strictly less than min parameter variable1 strictly greater than max parameter variable1 then you will also in addition to the constraints above need to introduce a new binary variable that equals 1 if
+
+value,cyclic,values,hue,bigger
+because the hue value is cyclic i need to process min max values where the min hue might be bigger than the max hue value
+
+dis,part,range,values,distribution,value,bigger,smaller
+the dis min max part sets a range of min and max values this distribution can come up with which means it will never generate a value bigger than max or smaller than min
+
+number,lower,higher,equal,variable
+no variable will give a number that is lower than min or higher than max and there is always an equal number of variable such that for all n between min and max inclusively
+
+number,occurences
+since you are equally distributing the max number of occurences can t be more than the min + 1
+
+lower
+but i can t get this to work when the max is actually lower than the min
+
+greater
+your are printing min should be greater than max and you are checking the same
+
+greater,lower,input,valid
+if min is greater then max or max is lower than min then the input shouldn t be valid
+
+element,larger,lower
+than for each element if it s larger than max update max if it s lower than min update min
+
+attributeerror,larger,range,parameter
+but continuing i always got attributeerror max must be larger than min in range parameter
+
+textbox,greater,control,invalid
+if i change the min textbox to be greater than max the control would be correctly marked as invalid
+
+sure,equal
+also make sure that min is always less than or equal to max
+
+string,higher,lower
+note that i do not need the number of characters in the string only if it higher than min and lower than max
+
+inclusive,false
+inclusive or false if max is less than min
+
+higher,lower
+it s higher than the min and lower than the max
+
+greater
+you might want to ensure that max is greater than min
+
+value,int,larger
+negating the min value of int would mathematically give us 2147483648 but since that is one larger than the max value
+
+range,slider
+it looks like the default calulation of the range slider is min + max - min 2 or min if max is less than min
+
+value,first,second,last
+so if min is zero it will have one more than max value first possition will be 0 second will be 1 etc last one will be max
+
+empty,array
+you may apply it to an empty array and it works as well if max is less than min
+
+value,greater
+e. not an input meaning end of execution check whether the value is greater than max or less than min
+
+elements,greater
+so min will work incorrectly if all elements greater than zero max - when all elements less than zero
+
+value,greater
+there are algorithms that will never predict a value greater than the max or less than the min
+
+larger,category
+if min is larger than zero then it belongs to complete category max is naturally larger than zero then
+
+inputvalue,larger,smaller
+is_valid will be true if inputvalue is larger than min or of it is smaller than max
+
+value,smaller,predictions,larger,data
+however i do not get a 2 2 matrix if i select any value that is smaller than min predictions or larger than max predictions since the data won t have either a false or true occurrence
+
+number,smaller,text,box
+if the max number is smaller than the min number the number in the max text box will be automatically changed to the same number as the min number in the min text box
+
+time,stamp,status,timestamp,greater
+i get the max time stamp for status 1 then i get the min timestamp for status 0 and if the min timestamp for status 0 is greater than max timestamp for status 1 then i include it in the result set
+
+element,value,greater
+then for each element update the min or max value if that element is less than or greater than the min or max value respectively
+
+range,values,greather,equal
+age can be in the range of 0..100 but i want also to validate crossing values i mean that max is greather than or equal to min
+
+value,greater,test,true
+you re comparing every value from min with every value from max until you hit a value of min that is greater than a value in max and 55 from min is greater than 22 from max so test will be set to true
+
+user,value
+i am simply preventing a user to select max value which is less than min value
+
+check,position
+while the user is dragging a node check if its position exceeds either max or is less than either min
+
+parameter,equal
+parameter such that min is less than or equal to max
+
+nothing,smaller,larger
+you are doing the opposite causing your loop to do nothing since z is never smaller than min or larger than max
+
+languages,exception,value,complement,representation,integers,absolute,range,negative
+it may look odd but it is common for number-to-string functions in many programming languages to make an exception for the min value in this way because with two s complement representation of integers the max value is 1 less than the absolute of the min value range of -2 147 483 648 to +2 147 483 647 which means the min value is the only negative value you can t flip to positive and then process using the same shared loop code as for the positive values.
+
+clause,values,higher,range
+the whenever clause is required in this case to prevent min values being higher than the max values and to ensure that the range size does not exceed the capacity of an int
+
+number,edges,greater
+what is the best algorithm to generate a random simple no parallel edges or self-loops undirected graph with a given number of nodes where each node has a number of edges that is no less than min and no greater than max
+
+frequency,occurances,values,greater
+main problem why i cant adopt those solution is that every of my random values has different range and i need the values to be uniformly distributed withing the range no frequency occurances at min max for example which happens if i cut off the values which are less greater than min max
+
+last,rule,price,greater
+in my code every condition is satisfying but the last rule means max price will be always greater than min price is not working
+
+value,higher,lower
+each value entered after would then get checked to see if higher than max or lower than min
+
+clamp,smaller,larger
+sigmoid approximates clamp never smaller than min never larger than max
+
+opposite,productindex,greater
+however your current code does the opposite continuing to run when the productindex is less than the max or greater than the min
+
+allpossibleids,table,id
+you can select min if you want or you could limit your allpossibleids to be less than the max table id
+
+button,values
+the jquery way in which the clicking of the check button compares the two values and alerts if the max is less than the min
+
+value,higher,lower,values,keys
+if given value is higher than max or lower than min values then keys holding max and min are given respectively
+
+value,greater,you.will.know.about.it
+the code will also record the edge cases so if the the function produces a value greater than the max or less than the min you.will.know.about.it
+
+number,smaller
+if min is not a number fail if max is not a number fail if min is smaller than max fail
+
+value,greater,left,subtree,right
+the idea is to work through the nodes in the tree from the leaves upward checking whether each node s value is greater than the max of its left subtree and less than the min of its right subtree then checking whether its left and right subtrees are bsts
+
+type,bigger,value,inverse,inf
+2 also i notice that the inverse of the maximum value of a double precision type is bigger than its min value and inverse of its min value is inf way bigger than its max value
+
+first,iteration,heap,larger,part
+in the first iteration the min heap holds the larger part and the max heap
+
+bigger,random,character
+if min is bigger than max i just return a random character from the entire range
+
+false,value,greater
+the function return false if the value is less than the min bound or greater than the max bound
+
+non-silence,greater,ms,silence
+during the playback of the file audio is monitored in the receive direction and if a period of non-silence which is greater than min ms yet less than max ms is followed by silence for at least sil ms which occurs during the first analysistime ms then the audio playback is aborted and processing jumps to the talk extension if available
+
+chances,value,low
+so once more the chances of generating a min value that is exactly 10 less than the max value are so low that the test will give up trying to find values that satisfy this condition
+
+dropdownlist,age,higher
+i have these two dropdownlist that are supposed to be for age and i want to make it so that you cant make min age higher than max age
+
+node,smaller,nodes.
+i am trying to understand what would happen if the max node is somehow smaller than some of the min nodes.
+
+schedule_time,greater,value,column
+another idea was after im done all the inserts then just delete the rows where the schedule_time is greater than the min value in the schedule_time column and the schedule_time is less than the max value in the schedule_time column
+
+look,larger,smaller,arrays
+you can do the whole job in a single for-loop reading from stdin look if it is larger than the max smaller than the min and so you do not need the arrays
+
+constraints,bigger,lesser
+but he has some constraints like min must be bigger than max and neither of them should be bigger than 100 or lesser than 0
+
+points,greater
+probably the line drawer was a bresenham modified to skip the points drawn unless they were greater than max or less than min
+
+error,deepend,greater,code
+this will only return error if the deepend is less than the min and greater than the max which could never really happen testing your code -
+
+comparisons,greater,smaller
+another problem is you should have instead of || between comparisons you want it to be greater than min and also smaller than max
+
+sure,review,first,user
+from there you can use having to make sure the max review of the first user is less than the min review of the other user
+
+mt_rand,smaller
+mt_rand max 2 is smaller than min 11
+
+validation,price,greater
+i want to have validation that min price should always be less than max price and max price should be greater than min price
+
+outer,angles,lower,value,valid,testing
+alternately you could assume you are instead intending to take the smallest possible distance between the two outer angles in which case max could actually be a lower value than min and still be valid for testing
+
+simple,try,count,condition,greater
+thats really simple try to set i max an then count i down with the condition that i must be greater than min
+
+product,value
+i need receive product 2 only because his min value is -5 less than -1 and max value is 18 more than 15
+
+field,greater
+how can i validate that the max field is greater than the min field
+
+note,param
+note that the min param can be assumed to be always numerically less than max
+
+calenders,dates.i,dates,dateselect,event,date,greater,.my
+i have two primeface calenders which are used to select from and to dates.i have set the max and min dates for the two calenders which are updated using the ajax dateselect event so that the max date of from is never after the min date of to and the min date of to is never greater than the max date of from .my code is something similar to this
+
+values,greater,b
+to find the average of values between a given a and b in a list we ll need to filter the list as you said eliminating values greater than max a b and less than min a b
+
+sure,lower
+maybe make sure that min is lower than max first
+
+left,group,greater,right
+on the right side we have two groups where the left group s max is greater than the right group s min 4 4 1 2 6 2
+
+number,value,greater,alert
+whenever and user enters a number with a value that is less than 0 min value or greater than 300 max value an alert box will appear outlining the user of an incorrect value
+
+bigger,planet,size,distances,distance,x1-x2
+implement normal different sized circle packing than resize all circles so the biggest is no bigger than planet max size and the distances between them is bigger than min distance x1-x2 2+ y1-y2 2 mindistance for each pair of circles
+
+suggestion,greater,empty,tuple
+there will be only one consider running as suggestion when the max isn t actually greater than the min either because max is an empty tuple a none-ple
+
+version,closure,values,exception,smaller
+a version which uses a closure over the min and max values with raising an exception if max is smaller than min
+
+value,greater,boundary
+if the value is less than min or greater than max it returns that boundary
+
+right,subtree,value,rb1,rb2
+claim 1 order property if the inputs rb1 and rb2 obey the order property individually left subtree node value right subtree and the max value in rb1 is less than the min value in rb2 then app rb1 rb2 also obeys the order property
+
+pointer,lower,greater,heap,region,unlikely
+a pointer lower than min or greater than max is probably not in the heap and this min and max delimited region is unlikely to intersect with any static area ever
+
+fail,age,row
+fail because the min age on row 2 is less than the max age on row 1...
+
+user,value,greater
+where user can enter max value greater then min value and min value less than max value
+
+radius,smaller
+first of all why your 0 max radius is even smaller than 5 min radius
+
+course,names,credits,values
+and i want to retrieve the course names that having the min and max credits i get confused because there are more than min values
+
+problem,user,value
+problem i dont want to allow user to enter max value less than min value and so on
+
+number,greater,current,node,next
+in this case the number is one greater than the max of the current node and one less than the min of the next node
+
+calendar,date,range,thing,greater
+the question i have is i would like the calendar to only display the min and max date range for the from date and to date any thing greater than the max and anything less than the min should be greyed out
+
+urbg,smallest,result_type,operator
+urbg min returns the smallest urbg result_type that operator could return strictly less than max
+
+objects,value,smaller,equal,min-value,larger
+so you want to find objects where the min value is smaller equal the passed min-value and the max value is larger equal the passed max-value
+
+mt_rand,smaller
+warning mt_rand max -1 is smaller than min 1 in
+
+element,array
+then when you are creating each element of the array also check whether it is less than the min or more than the max
+
+value
+the max value set to min value + 100 while this should only happen when max is less than min max min like i said above
+
+possible,error,value
+one possible error is that the max value is less than the min value
+
+greater
+as you can easily understand max have to be greater than min
+
+table,greater,leftlimit,1st,2nd,rightlimit
+join the two tables on the leftlimit from the 2nd table being greater than the min leftlimit from the 1st table and the rightlimit from the 2nd table being less than the max rightlimit from the 1st table
+
+max215,bigger,smaller,min2015
+i would like the column extrema of my dataframe beeing max2015 if max215 is bigger than max or smaller than min2015 if min2015 is smaller than min
+
+value,max-min,step
+value min + max-min 2 or min if max is less than min step 1
+
+price,value,greater
+if both are selected then max price value must be greater than min price
+
+debugging,x,values,area,lower
+however during debugging i discovered that the min x values area always lower than the max x values regardless of positions and sizes of the rectangles
+
+number,new,greater
+if this number is less than min update min with the new number if it is greater than max update max with the new number
+
+value,large,lower,capped
+if the current value is large than the max or lower than the min it is either capped or wraps around
+
+width,pixel,higher,next
+set a min width 1 pixel higher than the max width of the next query
+
+iteration,values,subtree,reset,current,node,right,greater,left
+to answer you question on how to control that if you still want to do so with each iteration you can pass min max values ever seen in the subtree reset min max based on current node value and then make sure right is not greater than max and left is not less than min
+
+provinces,larger,size,smaller
+until all your provinces are larger than min size and smaller than max size
+
+signal,previous,higher,next,lower
+this would be simple to implement but the problem is that if i would just draw individual vertical lines there is the possibility to have gaps in the signal namely if the previous min is higher than the next max or the next max is lower than the previous min
+
+user,zero,value,equal,range,values
+i want to make sure that the user does not enter a zero for the max value and also that the min value is less than the max value not equal to but less than - i need the range of values max - min
+
+sure,user,value,greater,smaller,code
+my code should make sure the user doesn t select a min value greater than the max value or a max value smaller than the min value using this code
+
+time,earlier,date,greater
+the last bit is there because i needed to limit the time selected to no earlier than the min date and no greater than the max date so i had to check the date selected in the matching datepicker control
+
+handler,value,greater,user,suitable
+on your submit button handler you can check if the value of min is greater than the value of max and show the user a suitable message
+
+value,smaller,greater
+if the value is smaller than min i want to get the min value and if it s greater than max i want to get the max
+
+stats,unequal,values,results,equal
+this results in thousands of term stats with unequal min max values as well as even more results with equal min max values
+
+semantic,true,value,equal,greater
+you could even do without a predicate xpath xquery comparisons have a set-like semantic this means true iff one min value that is equal or greater than one max value
+
+greater,zoom
+max should be greater than min for zoom to happen
+
+value,larger
+when the min value is larger than the max value the max value gets reset to a value 100 larger than the min value
+
+lenght,bigger
+edit correcting the max lenght so it is bigger than the min lenght
+
+note,value,lett
+note that you can t let max and min be the same value or lett max be less than min
+
+properties,value,first,datetime,greater,ones
+i d just make two properties min max assign them the value of the first item you add to the array then each time you add a new item just check if its datetime is less or greater than the min max ones
+
+smaller,system,size,shmmin,greater,shmmax
+looks like either the segment exists and it s smaller than what you asked for or you re trying to create a new one but it s smaller than the system min size shmmin or greater than max shmmax
+
+smaller,nature,formula
+notice how max is smaller than min due the nature of your formula
+
+person,target,level,none,function,lower
+for example if we consider the table # 2 we see that name 1 belongs to function a and the person s achieved target is below the min then the level attained is none where as for name 2 the attained level for the same function will be level 1 as he has exceeded the min but lower than max
+
+value,current,values-,higher,lower,running
+take each value and compare it to your current min and max values- if it is higher than the max or lower than the min replace that and then add the value to a running total for average purposes
+
+list,dates,position
+if i have a list of 5 dates the max position should be 4 more than the min position
+
+absolute,value,integer,lower
+afaik for integers the first bit is used as a sign that s probably why the absolute value of max integer is lower than the absolute value of min integer isn t it
+
+condition,getnumber,true,greater
+change that so your first condition will execute if either getnumber min is true and min is greater than 0 or both are true and min is less than max
+
+value,number,empty
+i am trying to check that min is always less then max and min and max value is always a number and min and max is not empty
+
+ps,split,size,lesser,mistake
+ps i set max split size is lesser than min initially i set by mistake and i realized
+
+equal
+1 how would you validate that min is indeed equal or less than max
+
+range,numbers
+here is a dynamic solution that works for any range of numbers where min is less than max
+
+c1,greater,a2,b2,c2
+then check the special cases that all three of a1 b1 and c1 are greater than max or all three of a2 b2 and c2 are less than min
+
+options,selectbox,price,value,lower
+so what i want to do is when the user select options in the two selectbox verify if the min price value is lower than the max price value and if not show a message
+
+option,greater,change,equal
+one option is whenever min is changed if it is greater than max change it to equal max like this
+
+nothing,wrong
+for a person who sees this there is also nothing wrong min is less than max
+
+birth,greater,death
+if max birth ends up greater than min death then there is no overlap
+
+syntax,positive,integer,number,matches,equal,greater,maximum
+the syntax is min max where min is a positive integer number indicating the minimum number of matches and max is an integer equal to or greater than min indicating the maximum number of matches
+
+id,faster
+then i would add min id to see if its any faster than max id
+
+number,greater
+val - min max - min performs this scaling no number will be greater than max - min once min has been subtracted from it and never less than zero once min has been subtracted from it
+
+values,smaller,typing,greater,validator
+can achieve somehwat similar results typing values smaller than min will be corrected to min although you are still prevented from typing values greater than max due to the validator
+
+age,greater,row
+fail because the min age is greater than the max age in row 1
+
+predictions,greater
+the problem using a linear model like lm is that predictions can be greater than the max of the observed cases and less than the min of the observed cases
+
+logic,getter,setter,value,greater,equal
+if i just try to use the if compare logic directly within the min getter or setter when min is changed to a value greater than max i just end up with min equal to max
+
+value,lower,higher
+after this you can compare if the value is lower than the min or higher than the max
+
+example,values,lower,limit,first,value,upper
+as an example if for both values where min 0 is the lower limit for the first value max 0 is the upper limit for the first value etc. then the function should return the following
+
+higher,error
+setting min higher than the max or vice-versa will cause a 380 error
+
+validation,rule,field,greater
+i d like to set up a validation rule that enforces that the max field is greater than the min
+
+input,value
+the input value representing the max value can t be less than the min value
+
+array,lower,side,higher
+a variation on pentadecagon you are free to set n arbitrary values on the diagonal in some range min..max containing x and fill the rest of the array with lower than min on one side and higher than max on the other
+
+number,smaller,bigger
+you can check whether the new number is smaller than min or bigger than max and change them if needed
+
+target,invocation,distance,greater
+the trouble is when i enter an invalid value into the textbox the tooltip that appears says exception has been thrown by the target of an invocation instead of max distance must be greater than min distance
+
+events,table2,created_at,table1
+once you can confirm that events are landing in table2 and max created_at in table1 is less than min created_at in table2 delete firehose1
+
+model,properties
+say my model has min and max properties and i want to ensure that min is less than max
+
+series,values,greater
+2 plotting a new series with values less than min and greater than max
+
+error,attributeerror,larger,range,parameter
+produces the same error attributeerror max must be larger than min in range parameter
+
+group,greater
+say if the the max of group 1 is greater than the min of group 2
+
+price,entry_date,greater
+so what i m trying to do is grab the max price and min price when the max price entry_date is greater than the min price entry_date
+
+select,value,second,dropdownlist,first
+now when i select max value in second dropdownlist less than min value in first dropdownlist the value of first dropdownlist should reset equal to second
+
+greater,textbox,validation,state
+if i now change max to be greater than min the min textbox validation state does not get cleared down presumably because min hasn t changed and therefore doesn t get validated again
+
+integers,different,row
+this function should check of a series of integers that there are four they are all different and that the min is 3 less than the max - thus that there are four in a row
+
+group,smaller,greater,simple,checks
+the checks for the first and last group smaller than min and greater than max is done with simple if checks which doesn t affect the complexity
+
+full,constructor,value,greater
+in addition i noticed that you also have a possible exceptional scenario for your full constructor when the min value is greater than the max value
+
+lesser,guess,greater
+min is always lesser than guess and max is always greater than guess
+
+least,element,greater,param,script
+i m a new bie in es and i want to use script filter to get all match that the array has at least one element less than max and greater than min max and min are param in the script
+
+greater,button,view
+for example if min is greater than max i want to disable the button in my view
+
+kendo,datepicker,date,greater
+how can i set a date 1 1 2012 on a kendo datepicker which is less than min date 1 1 2013 or greater than max date 1 1 2014 defined in the datepicker options
+
+greater
+this is still just setting max to min when min is greater than max
+
+created_at,greater,table3,table1
+copy all events from table2 with created_at strictly greater than max created_at in table3 and strictly less than min created_at in table1 into table1
+
+higher,equal,map.lower_bound,first,number,map.upper_bound
+to find an interval find the lowest number higher than or equal to the min using map.lower_bound and find the first number higher than the max using map.upper_bound
+
+alpha2,greater,x1_line1,x2_line1
+then you have to check that beta1 - beta2 alpha1 - alpha2 is greater than min x1_line1 x2_line1 and less than max x1_line1 x2_line1
+
+slider,end,value,step,greater
+i m seeing is that if you use the slider and move it to either end min or max it appears to display a value which is the step value greater than min or less than max
+
+new,wrongelementvalueexception,greater
+throw new wrongelementvalueexception min must be greater than max
+
+greater,message.
+if min is greater than max should alert a message.
+
+value,vector,second
+also assume that the first value of the vector min is less than that of the vector max the second value as well and so on.
+
+validation,value,larger,error
+for example the validation i am looking for is when a min value is larger then a max value there needs to be an error but this error can be corrected from either textbox and the error for the textbox needs to be removed when this happens
+
+range,values,greater,wrap,circle
+ie the range includes min but excludes max and values greater than max or less than min wrap around in a circle
+
+new,value,larger,slider
+keep in mind that if your new min value is larger than either the current slider value or max value it will not render until the remaining two are updated accordingly
+
+time,greater
+take a look at your picture - all the range you want have ending time greater than min and starting time less than max
+
+level,lower,higher
+if you want remove lines with level lower than min and higher than max try this
+
+heap,element
+if max heap has more than one element than in min heap
+
+data,greater
+and throws out data that is less than the min and greater than the max
+
+table,values,specific,id,entry,date,greater
+i have a table as outlined below and i m trying to get the max and min values for a specific id but only if the max entry date is greater than the min entry date
+
+syntax,positive,integer,number,matches,equal,greater,maximum
+the syntax is min max where min is zero or a positive integer number indicating the minimum number of matches and max is an integer equal to or greater than min indicating the maximum number of matches
+
+shorter,characters,text
+than min but shorter than max characters in a text file
+
+3-,heap,elements
+3- if min heap has more elements than max heap
+
+value,lower,model
+if max s value is lower than min s i don t want to update the model value
+
+value,y-axis,series,chart
+when i specify a min and max value for the y-axis if any value in the series is less than the min value it will extend below the chart usually extending into the chart below
+
+string,greater
+you can t convert the string min is greater than max
+
+top,heap,k,term
+if the top of the max heap has more than k terms pop off the top term and push it into the min heap
+
+least,large,value,column,larger
+that having been said your average is guaranteed to be at least as large as the min value in the column and no larger than the max value in the column
+
+original,implementation,maximum,user,higher,vice
+i m going to revert to my original implementation of resetting max to no maximum if the user selects a min higher than max and vice versa
+
+number,greater
+if the number is greater than max then update max with that number if the number is less than min then update min with
+
+value,digits
+but it can happen that the max value has more digits than the min value
+
+value,greater,increment
+if that value is greater than max or less than the min we need to reset that value and increment the next index by the step
+
+syntax,positive,integer,number,matches,equal,greater,maximum
+the syntax is where min is a positive integer number indicating the minimum number of matches and max is an integer equal to or greater than min indicating the maximum number of matches
+
+value,greater
+if the entered value is greater than max the value is set to max and if the value is less than min the value is set to min
+
+jan,dec,value,greater,equal
+you will want to set max jan 1 and min dec 31 and then if the value you are currently inspecting is greater than max you set max equal to the value and likewise for min
+
+length,largest
+the max length is one more than twice the largest min found above
+
+number,least
+note that this will pick any number that is at least min but less than max
+
+caller,method,parameter,equal
+you may assume the caller of the method will pass a min and a max parameter such that min is less than or equal to max
+
+program,data,greater
+this program takes in the max and min that the data can be and throws out data that is less than the min or greater than the max
+
+mt_rand,function.mt-rand,smaller,users,www
+warning mt_rand function.mt-rand max 0 is smaller than min 1 in users avsm www pa-include functions.php on line 332
+
+false,obj,anobject,greater,true
+returns false if obj min is less than zero or if anobject max is greater than zero true otherwise
+
+values,bigger,value,td,smaller
+your code take all the td s which their values are bigger than the min value and all the td s which their values are smaller than the max value this mean all the td s
+
+value,bigger,smaller
+for every insert check if the value is bigger than max or smaller than min if so set them to properly
+
+b,equal,greater
+we have to show that b min is always less than or equal to zero and b max is always greater or equal to zero
+
+elements,odd,heap,element
+if total number of elements are odd then max heap will have one more element than min heap
+
+nothing,code,forces
+eventually max will equal min but nothing in the code forces max to become less than min
+
+larger,â
+so while max decremented is larger than min â
+
+maxbetamt,message,bet,amount,greater
+but when i change my maxbetamt to 241.55 or 2400.25 this message comes out max bet amount must be greater than min bet amount
+
+date,greater
+and also make sure that your current date should be greater than min date and less than max date
+
+query,larger
+when i run the above query the min returned is larger than the max
+
+interesting,documentation,larger,empty,null
+it s interesting that this works since the documentation states that max must be larger than min but it looks like -1 is treated more like an empty or null value
+
+mid,right,place
+when we know that min is actually less than mid we try to put max at the right place in this way
+
+higher,smaller,x-coordinates,polygon,y-coordiantes
+by the way you don t need to consider trivial gridpoints outside of your polygon those with x-coordinates higher or smaller than the max min x-coordinates of your polygon and those with y-coordinates higher or smaller than the max min y-coordiantes of your polygon
+
+entire,array,greater,lesser,variables
+for finding max and min you can traverse the entire array while checking if the elements are greater or lesser than your max and min variables
+
+index,first,element,greater,last,smaller,minheap
+now when you have both max and min you can simply get the index of first element greater than min and last element smaller than max from your minheap
+
+idea,number
+the idea is that any number less than min or more than max is removed
+
+value,larger,int32,lower,value...i
+it s likely that tm2 is a value that is larger than the max int32 value or lower than the min int32 value...i would add a check something like.
+
+number,loop,lower
+get your i as min number and loop until it lower than the max number
+
+tuple,next
+please observe that the max of one tuple is less than the min of the next tuple
+
+avg,higher
+this seems a good use of geom_pointrange but it will make no sense for your example because your avg is higher than your max and on 6 7 your min is higher than your max
+
+return,badrequest,value,cannot,greater
+return badrequest min value cannot be greater than max value
+
+lower,higher
+and if it s lower than min set it to min and if it s higher than max set it to max
+
+age,bigger
+max age should be bigger than min age
+
+data,greater
+and throws out data that is less than the min or greater than the max
+
+number,range,higher,lower
+if you want to check that a number is between the min and max of the range you would likely want to check that it is both higher than the min and lower than the max
+
+variable,wrong,smaller
+your interval for variable i is probably wrong max is smaller than min
+
+exception,value,lower
+you get these exception if max value is lower then the min value
+
+values,bins,value,greater
+i ve also added a control check in case your values could be out of your bins can be less than the min value or greater than the max value
+
+last,operation,greater,self,assignment
+the last operation in the case where max is greater than min is called self assignment
+
+attributeerror,larger,range,parameter.
+however i m getting a attributeerror max must be larger than min in range parameter. error when i m trying to plot the normalized data
+
+current,limits,measures,time,smaller,new
+now you could iterate through the objects to find current limits 9min and max or you could even do it while you calculate the measures each time sth smaller than min happens store new min etc
+
+landing,table1,created_at,table2
+once events start landing in table1 again confirm that min created_at in table1 is less than max created_at in table2
+
+interested,point,price,rows,greater
+it would still work if p3 was joined to p only but the extra condition prunes out rows we re not interested in there s no point looking for the min price on rows for which the price is greater than the max
+
+value,item,greater
+write a for-loop that loops through your arrays taking the integer value of each item and if it s less than min save it to min and if it s greater than max save it to max
+
+check,greater,next,entry
+2 check to see if any max is greater than the next entry over s min
+
+function,greater
+but this function fails if min is greater than max
+
+area,larger,tile,bytes,smaller
+i would like to split the image into tiles so that each tiles area must be larger than a min tile area eg 1024 bytes and smaller than max tile area eg 2048 bytes
+
+rating,higher
+4- you then need to loop over max to check if any rating is higher than any min
+
+1---------------------------------------------------
+
+list.remove,first,program,loop,values,list,greater,variables,python
+list.remove max is first run your program goes through the while loop again but min and max will keep the same values they had on the first pass through the loop and as nothing remaining in list is greater than max or less than min the variables won t be changed and so python will end up trying to run list.remove min
+
+able,values,real,initial,loop,bigger,file,empty
+thus after the loop exits you will be able to tell whether the values of min and max are real or just the initial values that haven t been changed another way to do that would be to test after the loop whether min is bigger than max - if it is then the file was empty
+
+first,query,date,patient,days,greater,patients,statement
+my other thought was a recursive cte with the first query pulling the min date for each patient then a union where the table date was at least 30 days greater than the max of each patients cte date but you can t have a max in the join statement
+
+2---------------------------------------------------
+
+minimum,repetitions
+which means minimum of min repetitions but not more than max repetitions
+
+template,minimum
+- preceeding symbol template is expected to appear exactly minimum min times but not more than max times
+
+other---------------------------------------------------
+
+order,alphabetical,lesser,spring
+i think that the actual order is alphabetical max is lesser than min starting from spring 3.0.4
+
+mistake,.you,loop,value,array,.then
+you re doing mistake here .you re checking max is less than min or not and above while loop you re setting min value to 0 and max to length of array .then how can max be less than min
+
+definitions
+both definitions agree that the min can t be less than max 2
+
+test,output
+. script.m file.csv 7 20 the test fails and i get the output min 7 must be less than max 20
+
+v1,v2,review
+now do i have to make a query so that tuples v1 v2 are selected where the max review of v2 is strictly less than the min review of v1
+
+
+if min is less than is and is is less than max
+
+sequential,order,year,record
+the the next row of data is in sequential order max year of record 1 is less than the min year of record 2
+
+interval,type
+it returns an interval of type min max from min to less than max
+
+red,border
+when i go and change my max as 0.9 the red border should automatically disappear since technically now min is less than max
+
+alert
+but why when i tested this it s alert max less than min
+
+
+if min is always less than max then you can also do
+
+statement,version,logical
+so by above statement min is more than max version it is not logical so i have changed this to below
+
+invalid,arguments
+i know the function does not handle invalid arguments if max is less than min
+
+trials
+the trials concur with each other if the max is less than twice the min â the trials concur with each other
+
+comments,runif
+as pointed out in comments in runif the min must be less than max
+
+endtime,starttime
+you have no overlaps when min endtime is less than max starttime
+
+minute,message,60-90
+max is more than 90 minute message med is 60-90 min etc
+
+general
+i believe this works for the general case provided min is less than max
+
+arbitrary
+max is more or less arbitrary i could have used min as well
+
+set,range,mins,maxes,circular
+i know that in general for a set of range if the max of the mins is less than the min of the maxes than they intersect but the circular nature of degrees makes this a bit more complicated
+
+finite,syntaxerror,exception
+if max is finite and less than min then throw a syntaxerror exception
+
+
+if i is less than min and more than max
+

@@ -1,0 +1,14 @@
+other---------------------------------------------------
+
+aware,suitable,uitextinput,bug,ios
+i m aware that uitextview is much more suitable for this as it implements uitextinput protocol which has all the methods i need but due to a bug in ios i m limited to uilabel
+
+padding,right,bigger
+i think the problem happened because the padding left right of uitextview is bigger than uilabel
+
+need,information,longer,slower
+also consider using uilabel instead of uitextview if you don t need to edit information inside since uitextview take longer to allocate and init and are generally slower than uilabel
+
+problem,complicated
+my problem is uitextview is more complicated than uilabel
+

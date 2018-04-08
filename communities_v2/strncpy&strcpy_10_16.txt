@@ -1,0 +1,54 @@
+0---------------------------------------------------
+
+unsafe,cousins,strcpy_s,safer
+strcpy is notoriously unsafe as are it s cousins strcpy_s and strncpy although they are mildly safer than strcpy
+
+safer,alternative
+in general strncpy is a safer alternative to strcpy
+
+safer
+strncpy is safer than strcpy
+
+safer,type,bugs
+strncpy is not safer than strcpy it just trades one type of bugs with another
+
+c,safer,additional,parameter
+i was exploring around with c regarding strncpy since most people says that it is safer than strcpy additional parameter length to avoid buffer overflows
+
+myth,safer,version
+myth 3 strncpy is a safer version of strcpy
+
+safer,method
+strncpy is not safer method to use as strcpy
+
+safer,string,array
+you should use strcpy or strncpy safer than strcpy to copy the string stored in the array between arrays
+
+1---------------------------------------------------
+
+better,checking
+strcpy could be better replaced by strncpy which does some bound checking
+
+better,things,strlcpy
+using strncpy 3 is better than strcpy 3 but things like strlcpy 3 are better still
+
+other---------------------------------------------------
+
+i.e,better,simpler,willing,code
+i.e strncpy is actually better than the simpler strcpy if you are willing to improve the code
+
+instance,useless,nothing
+for instance strncpy is mostly useless it gives you nothing more than strcpy
+
+code,buffer
+strncpy is more recommended that strcpy because protect your code against buffer overflow
+
+safier,second,one
+using strncpy is considered safier than strcpy because the second one can easily cause buffer overrun
+
+secure
+so that the strncpy is more secure than strcpy
+
+custom,version,weird,length,input
+the best solution is to write a custom version of strncpy that is less weird or if you know the length of the input just use strcpy
+

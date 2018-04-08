@@ -1,0 +1,38 @@
+other---------------------------------------------------
+
+application,bottle,comfortable,batteries
+i m building an application in both bottle and flask to see which i am more comfortable with as django is too much batteries included
+
+great,smaller,community,extensions
+flask has a really great albeit smaller than django community and there are a lot of extensions available for common web-app extensions in the extensions directory
+
+beginner,better,educational,time,oscar
+i read that flask for beginner is better than django because educational reasons at the same time django have django oscar
+
+use,mongodb,first,place,better,integration,mongoengine
+but if the use of mongodb is a must then i suggest that you reconsider using django in the first place because mongodb has a better integration with flask through mongoengine
+
+simplicity,functionality
+flask is more focused on simplicity instead of functionality while django has more functionality
+
+bottle,preference,faster,lightweight
+either will do the trick but bottle or in my preference flask will be faster as it is much more lightweight than django
+
+friend,simpler,complicated
+but a friend told me to begin with flask as it s simpler and will help me when i start learning django as django is more complicated than flask
+
+frameworks,easy,easier,imo,authentication,layer
+both frameworks are fairly easy to implement flask is much easier than django imo although django has a built in authentication layer that you can use albeit more difficult to implement in a client server scenario like you need
+
+latter,micro,framework,smaller
+if you are looking for the latter then flask is a micro framework that is considerably smaller than django
+
+current,task,smaller,simplier
+current task looks like flask is ok for it since it is smaller and simplier than django
+
+batteries,meaning,out-of-the-box,large,part
+django is very batteries included meaning that it comes with much more out-of-the-box than say flask and to me a large part of that the user auth system
+
+team,use,frame,light,template.
+our team use django as our frame before but now we use flask as our frame because it is more light than django but we still use django template.
+

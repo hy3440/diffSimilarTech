@@ -1,0 +1,26 @@
+other---------------------------------------------------
+
+advanced,capabilities
+perforce offers more advanced branching and merging capabilities than svn
+
+better,network,server,checkout
+svn works much better when disconnected from the network - with perforce you have to tell the server when you ve done a checkout
+
+easier,intuitive
+if anything i find working with svn easier and more intuitive than perforce
+
+ericgorr,right,nicer
+if you have the money ericgorr is right perforce is much nicer to work with then svn
+
+system,experience,better,free
+make sure you re using a source control system that supports branching and merging i ve had experience with perforce and svn and while perforce is better svn is free
+
+faster,check-outs,server
+perforce is soooo much faster than svn because all the check-outs are stored on the server so it doesn t have to check every file on an update
+
+support,oses,devs,comfortable
+perforce does have support for many other oses but our non-windows devs feel more comfortable with svn too
+
+scm,clearcase,maven,integration,community,examples,git
+if you want to a little bit further you can imagine use more powerfull scm clearcase perforce ... but maven integration is fewer not well documented and community provide less examples than svn or git
+

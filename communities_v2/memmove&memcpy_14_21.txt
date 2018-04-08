@@ -1,0 +1,71 @@
+0---------------------------------------------------
+
+little,bit,slower
+memcpy is still a little bit slower than memmove
+
+slower,hand,copy
+why is memcpy so much slower than memmove or hand rolled copy on the server
+
+2x,faster,server
+edit memmove is 2x faster than memcpy on the server
+
+platform,faster
+the question is about is there really any platform where memcpy is faster than memmove
+
+asmlib,version,slower,glibc
+bad news is that the asmlib version of memmove is slower than the glibc version it is now running at the 300ms mark on par with the glibc version of memcpy
+
+slower,system
+why does memcpy perform slower than memmove on my system
+
+slower,assumptions
+this means that memmove might be very slightly slower than memcpy as it cannot make the same assumptions
+
+impression,faster
+from reading other so questions such as this or this gives the impression that memcpy should work faster than memmove and intuitively this should be so
+
+slower
+and it said memmove might be very slightly slower than memcpy
+
+std,slower,emphasis,first
+std memmove may be very slightly slower than std memcpy emphasis added because it has to first check whether the source and target ranges overlap
+
+1---------------------------------------------------
+
+platform,faster,none,similiar,functions,bug
+so in what platform and how memcpy can be significantly faster than memmove if there is none why providing two similiar functions instead of just memmove and lead to a lots of bug
+
+platform,im,faster,short,unalligned
+on some arm platform im working on memmove was 3 times faster than memcpy for short unalligned load
+
+2---------------------------------------------------
+
+c++,rusty,efficient,memory
+as an aside my c c++ is rusty but is not memcpy more efficient than memmove if you know you don t have overlapping memory
+
+answers,sophisticated,memory
+as already pointed out in other answers memmove is more sophisticated than memcpy such that it accounts for memory overlaps
+
+other---------------------------------------------------
+
+laptop,slower,enough,runs,speed,server
+memmove on the laptop runs slower than memcpy but oddly enough runs at the same speed as the memmove on the server
+
+implementations,cost,function,call,greater,scenario,behavior
+it is entirely possible that in most implementations the cost of a memmove function call will not be significantly greater than memcpy in any scenario in which the behavior of both is defined
+
+note,overhead,direction,copying
+note that memmove has more overhead than memcpy because it has to determine which direction of copying is safe
+
+buffers,overlap,fine,use,optimizations,faster
+if you know buffers cannot overlap memcpy is fine and may in any given library use optimizations that allow it to be faster than memmove
+
+mats,petersson,cache,friendlier
+in addition as mats petersson said memmove is cache friendlier than memcpy
+
+slower,assumptions,source,destination,superior,standard
+while memmove will be only slightly slower than memcpy due to the assumptions it needs to make about the source and destination in memcpy they cannot overlap it should still be far superior to any standard loop
+
+efficient,memmove.,use
+memcpy is more efficient than memmove. in general use memmove only if you have to
+

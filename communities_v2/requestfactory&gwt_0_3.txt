@@ -1,0 +1,11 @@
+other---------------------------------------------------
+
+better,counterpart,rpc,db4o
+from gwt 2.1 requestfactory is better counterpart than gwt rpc when you use db4o together
+
+up-front,startup,complicated,systems,rpc
+with requestfactory you pay an up-front startup cost to accommodate more complicated systems than gwt rpc easily supports
+
+design,slower,rpc,json
+gwt requestfactory by design is slower than gwt rpc and gwt json etc
+

@@ -1,0 +1,8 @@
+other---------------------------------------------------
+
+base,number,greater,cycle
+more generally you can always just try multiplying the base by itself a number of times no greater than the modulo and you are bound to find a cycle
+
+integer,expensive,divide
+also integer multiplying is less expensive so you may just do the divide first and calculate the modulo 10
+

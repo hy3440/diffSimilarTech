@@ -1,0 +1,21 @@
+0---------------------------------------------------
+
+idx,lower,element,higher
+so floor idx is the lower element and ceil idx is the higher
+
+higher,lower,axis
+now if floor is higher than 0 or ceil is lower than 0 on any axis it means that there just as many tiles outside of the camera scoop
+
+1---------------------------------------------------
+
+greater,possible
+the floor times the ceil are greater than the floor xy...that s very much possible
+
+works,b,greater
+works because ceil a b is always one greater than floor a b except when a b is a whole number
+
+other---------------------------------------------------
+
+fractions,direction,higher,std,lower
+on the other hand if what you want to do is not rounding but elimination of fractions into one direction then you have std ceil that goes always higher and std floor that always goes lower
+

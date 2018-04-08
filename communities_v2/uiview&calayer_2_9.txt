@@ -1,0 +1,29 @@
+other---------------------------------------------------
+
+better,performance
+is calayer better than uiview in terms of performance
+
+documentation,lighter,hundreds
+i am using calayer s because as suggested in documentation calayer s are lighter than uiview and i have hundreds of them
+
+worse,performance
+i noticed calayer had worse performance than uiview
+
+view,larger,lighter,frame,myview
+this is better than using a second view a bit larger as a calayer is lighter than a uiview and you don t have do modify the frame of myview which is good for instance if myview is a uiimageview
+
+smaller
+i want to add a calayer inside an uiview and this calayer will be smaller than the uiview
+
+fancy,wrapper,â,uiresponder
+a uiview is no more than a fancy wrapper for a calayer â bringing uiresponder events animation conveniences among many other things
+
+wrapper
+a uiview is no more than a wrapper for an underlying calayer
+
+corresponding
+in fact each uiview has even more than 1 corresponding calayer
+
+controller,multiple
+does that mean the the view controller has multiple uiview or that the uiview has more than one calayer
+

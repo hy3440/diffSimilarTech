@@ -1,0 +1,13 @@
+0---------------------------------------------------
+
+scanf,faster,printf
+scanf is faster than cin printf is faster than cout etc
+
+scanf,preferable,situations,printf,practical
+there are obviously situations where in c++ scanf is preferable to cin i was wondering if there are any situations where printf is more practical than cout
+
+other---------------------------------------------------
+
+printf,faster,scanf,little
+using printf isn t faster than cout but scanf is a little faster than cin 0.04s + - 0.05
+

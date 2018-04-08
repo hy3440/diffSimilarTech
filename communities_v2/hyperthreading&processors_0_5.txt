@@ -1,0 +1,17 @@
+other---------------------------------------------------
+
+modern,better,older
+more modern processors handle hyperthreading better than older processors
+
+code,large,amounts,memory
+you may find that hyperthreading helps more on code that is using large amounts of memory so that the processors is regularly blocked on fetching from memory
+
+first,step,simultaneous,multithreading,poorer,performances,technology
+first step would be to investigate why a processors with hyperthreading simultaneous multithreading could lead to poorer performances than a processors without this technology
+
+intel,cpu,physical,cores,logical
+a quad core intel cpu s with hyperthreading enabled has 4 physical cores yet 8 logical processors hyperthreading creates 4 more logical processors
+
+number,total,virtual,physical,â,greater
+in computer 1 the eigen3 performance is worse because the number of total processors virtual + physical - â due to hyperthreading is greater than the number of physical processors
+

@@ -1,0 +1,20 @@
+other---------------------------------------------------
+
+margin-left,smaller,16px,effect
+you can remove the transform s and the margin-left and add a width set as 0 here smaller than the font-size 16px here to the get the effect
+
+query,screen,h2,item,class,3rem,red
+the first media query says that if the screen width is less than 992px the h2 in the item class should have a font-size of 3rem should be red and should have an underline
+
+value,increment,string,wider,element
+i initialize the loop with this value and increment the font-size with 1 until the string is wider than the width of the containing element
+
+fittext,time,greater,exact
+when you are using fittext at that time if the font-size is greater than 100px than you have to set the exact width as per your font-size
+
+part,string,line,wider,increases
+from there on the width slowly increases again as the part of the string still on line 1 linearly gets wider as the font-size increases
+
+text,larger,noisy,lines
+as you can see the font-size of the text is bit larger than the width of the noisy lines
+

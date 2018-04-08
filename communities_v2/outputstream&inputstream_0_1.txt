@@ -1,0 +1,5 @@
+other---------------------------------------------------
+
+bytes,modification,doc
+what i did not expect is that outputstream is much less bytes than inputstream although i have yet to make any modification on doc
+

@@ -1,0 +1,28 @@
+0---------------------------------------------------
+
+look,safer,version
+also have a look at strncmp which is safer version of strcmp
+
+strings,safer
+you should use strncmp to compare your strings it s safer than strcmp
+
+words,safer,slower
+in few words strncmp is safer then strcmp but it is slower too
+
+note,safer
+note strncmp is safer than strcmp
+
+other---------------------------------------------------
+
+secure
+strncmp is more secure than strcmp
+
+safer,character,arrays,3rd,argument,certain
+the only case where strncmp would be safer than strcmp is when you re comparing two character arrays as strings you re certain that both arrays are at least n bytes long the 3rd argument passed to strncmp and you re not certain that both arrays contain strings contain a 0 null character terminator
+
+slower,pre-calculated,string,length,information
+is strcmp slower than strncmp as one can give pre-calculated string length to it but strcmp does not receive such information
+
+little,bit,safer,comparisons
+strncmp is a little bit safer than strcmp because you specify how many comparisons will be made at most
+

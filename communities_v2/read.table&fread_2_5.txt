@@ -1,0 +1,17 @@
+other---------------------------------------------------
+
+fast,faster,read.csv,large
+fread ... is extremely fast 10 - 100 times faster than read.table ... or read.csv ... for large datasets
+
+faster,errors,data
+fread performs faster and more efficiently than read.table but read.table produces less no errors on the same data set
+
+read_csv,data.table,faster,base
+for reading large csv files you should either use readr read_csv or data.table fread as both are much faster than base read.table
+
+try,check,function,faster
+you might want to give the data.table package a try check out the fread function which is much faster than read.table
+
+version,read.csv,take,time,optimisation,longer
+interestingly for 1 million rows per file the optimised version of read.csv and read.table take 422 and 430 more time than fread whilst without optimisation this leaps to around 1500 and 1005 longer
+

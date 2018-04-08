@@ -1,0 +1,18 @@
+0---------------------------------------------------
+
+slower,quicksort,assumption
+typically mergesort is slower than heapsort and quicksort but that s usually under the assumption that comparisons are fast
+
+quicksort,faster
+normally quicksort is faster than mergesort which is faster than heapsort
+
+1---------------------------------------------------
+
+slower,reason.
+heapsort tends to be slower than mergesort for the same reason.
+
+baffles,slower,languages
+what baffles me is that my mergesort seems to be slower than heapsort in both of the languages
+
+other---------------------------------------------------
+

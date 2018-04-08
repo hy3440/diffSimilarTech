@@ -1,0 +1,8 @@
+other---------------------------------------------------
+
+wsgi,benchmark,slower
+but this popular wsgi benchmark says eventlet is way slower than gevent
+
+use,performant,option,lower
+the use of gevent is also a performant option but slightly lower than eventlet
+

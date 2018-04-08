@@ -1,0 +1,8 @@
+other---------------------------------------------------
+
+similar,functionality,flexible,features,facetgrid,object
+for similar functionality that speaks pandas but has more flexible features you could use the facetgrid object from seaborn
+
+easier,dataframes,numpy
+i also think working with seaborn is much easier using pandas dataframes and not numpy arrays
+

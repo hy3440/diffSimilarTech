@@ -1,0 +1,8 @@
+other---------------------------------------------------
+
+authentication,protocol,secure,box,servers
+in short as an authentication protocol kerberos is far more secure out of the box is de-centralized and will put less load on your directory authentication servers than ldap will
+
+one,access,server
+one might want to define kerberos access to more than one ldap server
+

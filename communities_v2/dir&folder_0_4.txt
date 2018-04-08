@@ -1,0 +1,14 @@
+other---------------------------------------------------
+
+size,first,home,platforms,arrayindexoutofboundexception
+calculates the size of the first 5 folder in your home dir should work on all platforms fails with an arrayindexoutofboundexception if there are less than five folder in your home dir
+
+recent,command,line,4th
+it iterates through the most recent folder returned by the dir command each returned on one line and after it encounters the 4th it stops if there are more than 4 folder
+
+ideas,command
+any ideas how to use the command dir to more than 1 folder in one command
+
+cmd,c,kind,shared,network,thousands,files,ls,slower
+things like cmd c dir don t know why - and yes i do cmd c dir in cases i am in some kind of shared network folder with thousands of files and ls is significantly slower than dir
+

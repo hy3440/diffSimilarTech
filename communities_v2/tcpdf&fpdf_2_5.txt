@@ -1,0 +1,17 @@
+other---------------------------------------------------
+
+past,better
+i ve used tcpdf in the past and found it a lot better than fpdf
+
+good,news,better,utf8,modern
+somewhat good news you could move to tcpdf which is much better at handling utf8 and is more modern in general than fpdf
+
+slower
+tcpdf was always slower than fpdf
+
+look,better
+i suggest you to give a look to tcpdf which is far better than fpdf also because it is actively developed
+
+problem,things,faster,confirmation,slower
+if anyone has some information on this problem i d really appreciate it - either things you did to make tcpdf faster or just confirmation that it runs slower than fpdf so i can forget about it and just stick with fpdf
+

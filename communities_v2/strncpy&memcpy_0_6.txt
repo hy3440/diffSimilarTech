@@ -1,0 +1,20 @@
+other---------------------------------------------------
+
+faster,real,world
+memcpy will always be faster than strncpy for any real world situation even in the corner case i spoke before look page_copy_fwd_maybe
+
+implementation,different,faster,copying,copy,end
+even if underlying implementation is not so different memcpy is much faster because it does not have to check what it s copying strncpy will stop when it ll copy the end of string character null
+
+memory,instruction,faster,byte,nul
+which is more efficient is up for debate but based on cpu bulk instructions which can copy an entire block of memory in one instruction memcpy is probably faster as strncpy would check each copied byte for a nul character
+
+version,complex,dangerous
+the memcpy version is not more complex or more dangerous than the strncpy version
+
+initial,strlen,safety,slower,check,nul,difference,strcpy,worth
+but for the example you give it doesn t matter - if it s going to fail it will be in the initial strlen so strncpy doesn t buy you anything in terms of safety and presumbly strncpy is slower as it has to both check bounds and for nul and any difference between memcpy and strcpy isn t worth changing code for speculatively
+
+resources,unclear,better,worse
+if you compute the length of the string for unrelated reasons or have the length of the string from other resources it s unclear to me whether memcpy is better or worse than strncpy
+

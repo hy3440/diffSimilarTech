@@ -1,0 +1,8 @@
+other---------------------------------------------------
+
+fine,better,idea,background,process
+and it seems working fine antialiasing is much better however this beats the idea of a transparent background in the process
+
+pixels
+minus doesn t truly work for antialiasing less than 100 transparent pixels
+

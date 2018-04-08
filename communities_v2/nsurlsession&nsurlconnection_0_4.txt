@@ -1,0 +1,14 @@
+other---------------------------------------------------
+
+newer,swift,language,custom,methods,alamofire
+nsurlsession is newer than nsurlconnection if you are using swift language then you can use your own custom methods by using nsurlsession or you can use alamofire
+
+nicer,interfaces,redirect,handling,things,code
+nsurlsession also provides nicer interfaces for requesting data using blocks in that it allows you to combine them with delegate methods for doing custom authentication handling redirect handling etc. whereas with nsurlconnection if you suddenly realized you needed to do those things you had to refactor your code to not use block-based callbacks
+
+experience,slower
+it s not my experience that nsurlsession is any slower than nsurlconnection is
+
+powerful,tool
+nsurlsession is much more powerful tool than nsurlconnection
+

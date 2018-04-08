@@ -1,0 +1,8 @@
+other---------------------------------------------------
+
+newer,faster
+stringr is newer based on stringi internally and is often even faster
+
+human-readable,wrappers,branch,top
+stringr provides more human-readable wrappers around the base r functions though as of dec 2014 the development version has a branch built on top of stringi mentioned below
+

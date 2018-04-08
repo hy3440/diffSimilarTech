@@ -1,0 +1,11 @@
+other---------------------------------------------------
+
+better,sense,easy
+it seems activemq is better than rabbitmq in the sense that it is easy to set up and maintenance for cluster
+
+better,worse
+what does rabbitmq do better or worse than activemq
+
+apache,popular,qpid,jms,provider
+apache activemq which is way more popular than qpid or rabbitmq - or indeed any jms provider would work just fine
+

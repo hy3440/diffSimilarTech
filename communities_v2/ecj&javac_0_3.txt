@@ -1,0 +1,11 @@
+other---------------------------------------------------
+
+compiler,jdt,smarter,tool,actual
+eclipse compiler for java jdt ecj is much smarter tool than actual javac
+
+compilation,cpu
+to recap i want to know why a javac compilation utilizes so much more cpu than ecj
+
+better,opinion
+however i think that ecj is even better than javac my opinion .
+

@@ -1,0 +1,17 @@
+other---------------------------------------------------
+
+quicker,trading,speed,convenience,different,ui
+actionscript is quicker than mxml but for what you re going to do you re trading speed for convenience - mxml comes with all the different ui classes list scrollbars etc already there
+
+flash,pure,convenient,framework,hood
+so yes it can be used with flash or rather pure actionscript but it is a little less convenient than with mxml where everything is set up by the framework because it takes more under the hood configuration to be able to run all the necessary parts for remoting
+
+skeleton,module,larger
+i can see that my skeleton mxml module is slightly larger than my actionscript module 66kb vs
+
+deal,nicer
+what s the deal i thought actionscript would be nicer than mxml
+
+pure,better,flash,ide,relevant,non-programmers
+i would say pure actionscript is better for programming whether you use flash ide or flex ide is not that relevant and mxml is better for non-programmers to combine the components programmed in as
+

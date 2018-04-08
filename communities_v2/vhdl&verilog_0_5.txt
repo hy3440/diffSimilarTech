@@ -1,0 +1,17 @@
+other---------------------------------------------------
+
+popular,europe
+vhdl is more popular in europe and verilog is dominating in the us
+
+experience,designers,easier,code,shorter,equivalent
+my experience is that designers can use whichever they prefer usually and most agree that verilog is easier to use and the code is shorter fact than equivalent vhdl
+
+feature-rich,later,revisions,language,systemverilog,etc..,toolchain,support,variant,days,use,experience,extreme,legacy
+yes vhdl was once much more feature-rich than verilog but later revisions of the language verilog 2001 verilog 2005 systemverilog etc.. have cherry-picked most of the interesting features and there is far more robust toolchain support for verilog and its variant these days in addition to it being the dominant language in use in the us in my experience vhdl is only used here when dealing with extreme legacy blocks and in academic contexts partially due to the tools support mentioned previously
+
+pacoblaze,adam,common
+pacoblaze was written in verilog which like adam said less common than vhdl
+
+numbers,widely-used
+by these numbers and only these numbers vhdl seems to be more widely-used than verilog
+

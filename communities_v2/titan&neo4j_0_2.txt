@@ -1,0 +1,8 @@
+other---------------------------------------------------
+
+cluster,better,willing,enterprise,edition,clustering
+because it seems you re going to deploy a cluster i think titan is the better choice unless you re willing to pay for the enterprise edition of neo4j to support clustering
+
+data,disk,faster,cause,better
+when the data is on disk titan is faster than neo4j cause it has a better disk representation
+

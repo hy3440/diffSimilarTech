@@ -1,0 +1,19 @@
+0---------------------------------------------------
+
+older,browsers,brother
+this should be possible maybe be aware snap.svg isn t so compatible with older browsers in which case you could look at raphael which is snaps older brother d3.js is very well established as well
+
+older,versions,current,web
+raphael supports older versions of ie whereas d3.js is based on current web standards
+
+other---------------------------------------------------
+
+place,fallback,older,versions,current,web
+the only place where raphael defeats d3.js is fallback raphael supports older versions of ie where as d3.js is based on current web standards ie 9
+
+better,processing,viable
+as it stands d3.js is not just better than raphael and processing in many cases but is also a viable replacement for jquery underscore.js and other frameworks
+
+harder,svg,able
+d3.js is much harder to learn than raphael but in both cases you will also have to learn svg to be able to create better animations
+

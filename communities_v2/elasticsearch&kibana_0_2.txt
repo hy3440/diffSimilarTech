@@ -1,0 +1,8 @@
+other---------------------------------------------------
+
+odd,tolerant
+odd that elasticsearch is more tolerant than kibana
+
+front-end,opentsdb,grafana,support,functionality,regard
+if you would like a unified front-end for elasticsearch and opentsdb you could consider grafana which has support for both elasticsearch and opentsdb but less functionality than kibana in regard to elasticsearch
+

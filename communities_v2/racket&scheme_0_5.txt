@@ -1,0 +1,17 @@
+other---------------------------------------------------
+
+side,macros,advanced,lisp,implementations
+on the side of using macros racket has always been more advanced than other scheme and lisp implementations
+
+integration,code,dialect,surrounding,culture,chicken,object-oriented,instance
+there are various object systems you can load as libraries when you want to do oop but integration with existing code heavily depends on the scheme dialect and its surrounding culture chicken scheme seems to be more object-oriented than racket for instance
+
+languages,language,unused,community,#lang,useful,programs,implementations,different
+all of racket s languages can interoperate so your language of choice is up to you though the rnrs languages tend to go unused in the racket community #lang racket is much more useful for writing programs than any of the scheme implementations but they can be useful if you want to write programs that run on different scheme implementations
+
+plt
+i would suggest you start with scheme and more specifically with racket formerly plt scheme
+
+closer,common,lisp
+racket is closer to scheme than to common lisp but you could dip your toes into the lisp family without the speed bump of the emacs style of development
+

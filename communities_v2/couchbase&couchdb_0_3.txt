@@ -1,0 +1,11 @@
+other---------------------------------------------------
+
+btw,binary,mechanism,efficient,protocol,bidirectional
+couchbase btw also uses binary replication mechanism which will be more efficient than couchdb as long as the couchdb protocol is not utilized for bidirectional data exchange and conflict resolution
+
+faster,scalable,option,version,views,membase,server,sophisticated
+i d like to add that couchbase is a faster and more scalable option than couchdb the 2.0 version introduces views at a high level it s a distributed memcached membase server merged with couchdb but of course more sophisticated than just mashing them together
+
+memcache,server,persistence,layer,needs
+couchbase looks more like a memcache server with a persistence layer powered by couchdb and maybe it does not fit your needs
+

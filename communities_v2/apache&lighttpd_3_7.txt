@@ -1,0 +1,25 @@
+0---------------------------------------------------
+
+nginx,fastcgi,mode,ram,concurrent,connections
+nginx or lighttpd in fastcgi mode use less ram than apache and they can handle more concurrent connections
+
+server,nginx,overhead,traditional,setup
+it may even use a different server software say nginx or lighttpd that has less overhead than the traditional apache setup
+
+other---------------------------------------------------
+
+webserver,fewer,resources,bottleneck,ram
+since you ve switched to lighttpd the webserver itself is going to use fewer resources than apache would but apache is rarely the bottleneck unless you ve run out of ram or seriously misconfigured it
+
+benefit,powerful,extensible,power,anyway...,faster,static
+the benefit of both apache is more powerful and extensible useless if you don t need that power but anyway... and lighttpd is faster at static content
+
+first,experience,suitable
+this is my first experience setting up lighttpd as i thought it would be more suitable than apache in this case
+
+content,fastcgi,faster
+- if you move towards more static content or go the fastcgi way lighttpd is faster than apache
+
+instance,benchmarks,faster,static,resources
+for instance in some benchmarks lighttpd is even faster at serving static resources than apache
+

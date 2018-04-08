@@ -1,0 +1,17 @@
+other---------------------------------------------------
+
+time,html
+yes joomla takes more time in cooking the resulting html when compared to wordpress
+
+imho,better
+imho wordpress is better do work and customize than joomla
+
+impression,popular
+i seem to be getting the impression that wordpress is more popular than joomla nowadays
+
+imho,templates,easier,cms,typo,modx,parts,static,version,tags,menu
+imho creating templates for joomla is the easier than most other cms i know typo wordpress modx as you simply have to replace parts of the static version with joomla tags menu content etc. it still needs some time to get used to the system but its not that hard
+
+menu,better
+if that will solved later than wordpress menu is better than joomla
+

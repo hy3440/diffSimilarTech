@@ -1,0 +1,8 @@
+other---------------------------------------------------
+
+faster,processing,results
+also pyquery is significantly faster than beautifulsoup in many cases for processing results
+
+css,selector,jquery,intuitive
+pyquery uses the css selector syntax familiar from jquery which i find more intuitive than beautifulsoup s
+

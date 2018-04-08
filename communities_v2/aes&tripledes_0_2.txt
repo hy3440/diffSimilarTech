@@ -1,0 +1,8 @@
+other---------------------------------------------------
+
+older,weaker
+but tripledes is older and weaker than aes
+
+encryption,lighter,secure,algorithm
+i personally would use aes for my encryption as it is lighter and more secure than tripledes in fact i think it is the de facto algorithm at the moment
+

@@ -1,0 +1,19 @@
+0---------------------------------------------------
+
+int,sizeof,longer,convenient
+most machines now end up with sizeof int sizeof long because 16-bit is no longer convenient but we have long long to get 64bit if needed
+
+systems,int,wide,larger,range
+on today s desktop systems an int is usually 32 or 64bit wide for a correspondingly much larger range than the 16-bit 32767 32768 you are talking of
+
+other---------------------------------------------------
+
+int,platforms,greater
+how many chars you can pack into it depends on the size of int which varies across platforms typically one of 16 32 or 64bit but it could be anything else greater than 16-bit
+
+int
+that s obviously quite a bit more than the 16-bit that s mandated for an int but equally obviously less than the 64bit mandated for a long long
+
+processors,32-bit,operations,efficient,8-bit
+in fact for x86 64 processors performing 32-bit or 16-bit operations are less efficient than 64bit or 8-bit operations due to the operand prefix byte that has to be decoded
+

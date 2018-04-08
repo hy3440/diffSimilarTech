@@ -1,0 +1,8 @@
+other---------------------------------------------------
+
+assignment,operator,call
+this allows you to use the assignment operator instead of memcpy and requires 1 less call to malloc - the one you make
+
+afaik,slower
+afaik malloc is not slower than memcpy
+

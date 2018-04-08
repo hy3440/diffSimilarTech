@@ -1,0 +1,17 @@
+other---------------------------------------------------
+
+part
+when you then calculate the integer part is 1 less that you might expect while the fractions part is slightly less than one
+
+bits,mantissa,larger,number,type,precision
+if the number of bits in the mantissa or fractions is larger than the number of bits in your integer type then you ll possibly lose precision when someone types in a number such as
+
+bits,part,bigger,hard,data-type,non,trouble
+i know there are not that many mantissa bits for fractions part for bigger numbers but you did not specify which floating data-type you are using if 32 64 80 128 256 bits or more so hard to say and if the integer part is bigger then your integral data-type used to cut off the non fractions part then you would be in trouble with f-long f
+
+text,size,part,bigger
+the label s text size of an integer part is bigger than text size of a fractions part
+
+python,limited,float,bigger,results,sense
+as python integer is less limited than the float you may get bigger results with the fractions if it makes sense at all
+

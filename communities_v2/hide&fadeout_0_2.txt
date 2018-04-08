@@ -1,0 +1,8 @@
+other---------------------------------------------------
+
+test,faster,use,animations
+according to this test - hide is slightly faster then fadeout since it doesn t use animations
+
+simpler,code,animation
+fadeout is simpler because it will hide it for you automatically when it is done so you can save that code and it automatically waits for the animation to be done before hiding the element something your current code was not doing
+

@@ -1,0 +1,35 @@
+other---------------------------------------------------
+
+fewer,industrial,users,multicore,support
+haskell has fewer industrial users than ocaml and although it does have multicore support it is still being developed in a very unproductive direction
+
+ffi,powerful,code,libraries,avaliable
+secondly the haskell ffi is more powerful that is it does more with less code than ocaml s and more libraries are avaliable via hackage so i don t think foreign interfaces will be a deciding factor
+
+closer,c++,oo,features,functional,mindbending
+ocaml is closer to c++ because of it s imperative and oo features but i recommend you learn haskell as it is more functional more mindbending and has more resources
+
+performance,characteristics,code,intuitive,lazy,evaluation
+you will also likely find the performance characteristics of your ocaml code more intuitive than haskell because of haskell s lazy evaluation
+
+syntax,better,pure,cool
+i would just use ocaml but haskell s syntax is so much better than ocaml s and haskell is pure and has cool features such as type classes
+
+others,curve,lower
+as others have pointed out ocaml s learning curve will be lower than haskell s
+
+zipwith,friendlier,list.map2,lists
+the haskell zipwith is friendlier than the ocaml list.map2 which requires the lists to be the same length
+
+momentum,days,parsing,libraries,parser,generator
+haskell has more momentum these days but there are plenty of good parsing libraries for ocaml as well including the peg parser generator aurochs menhir and the glr parser generator dypgen
+
+c,faster,program
+the reason i wanted to investigate this was because both c and ocaml were significantly faster than haskell for this program
+
+keith,powerful,type,system,module
+keith pointed out that haskell has a more powerful type system but it can also be said that ocaml has a more powerful module system than haskell
+
+higher,level,bindings,llvm,ones,interesting,safety,guarantees,libraries,packages
+haskell has higher level bindings to llvm than ocaml the haskell ones provide some interesting type safety guarantees and haskell has by far more libraries to use 1700 packages on making it easier to glue together components
+

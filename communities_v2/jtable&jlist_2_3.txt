@@ -1,0 +1,11 @@
+other---------------------------------------------------
+
+better,jcomponents,tablecelleditor,example
+i think jtable would be better jcomponents as jlist because there you can implements tablecelleditor maybe example with similair output here
+
+better
+a jlist would probably be better than a jtable
+
+better,rendering,strategy
+i don t really think that jtable will help you here anyhow better than jlist - it has the same rendering strategy
+

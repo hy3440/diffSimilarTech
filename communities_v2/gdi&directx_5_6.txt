@@ -1,0 +1,22 @@
+0---------------------------------------------------
+
+faster
+directx is way faster than gdi
+
+faster,simplification,gdi-based
+to say directx is faster than gdi is also something of a simplification - wpf and gdi-based rendering technologies just have different performance characteristics
+
+speed,faster,slower,things
+speed is usually faster than gdi and slower than directx and depends greatly on how you do things seen something to work 60 times faster after rewriting in a sensible way
+
+getfrontbufferdata,method,slower
+using getfrontbufferdata in directx method is slower than gdi itself
+
+other---------------------------------------------------
+
+faster,full,acceleration
+directx is in general much faster than gdi due to the fact that it has full acceleration on most video cards
+
+factors,size,surface,smaller,limit
+if you are talking about someone else s there is no promise that they will render larger than the screen since would be wise to clip their painting to what is visible and they may be further constrained by other factors such as the size of a directx surface which is smaller than the gdi limit
+

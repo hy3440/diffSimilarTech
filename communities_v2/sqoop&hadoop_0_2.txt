@@ -1,0 +1,8 @@
+other---------------------------------------------------
+
+details,oracle,connectors,better
+can anyone give some details about oracle hadoop connectors will it perform better than sqoop
+
+older,functional,mature,project,bits
+sqoop 1 is older fully functional and mature project supporting hadoop 0.20 1.x 0.23 and 2.0.x you can download the bits from here
+

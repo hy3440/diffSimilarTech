@@ -1,0 +1,8 @@
+other---------------------------------------------------
+
+loop,tighter,ends
+as the condition reads a loop can not be zipped tighter if it s either too short less than five base or its ends do not match
+
+worse,design,things,class,specific
+in short it s worse design to move things to the base class than it is to downcast to the specific class
+

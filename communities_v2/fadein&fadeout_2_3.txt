@@ -1,0 +1,11 @@
+other---------------------------------------------------
+
+issues,time,delay,shorter
+otherwise you will run into issues of trying to fadein and fadeout at the same time if your delay is shorter than your fadein
+
+time,animation,delay,longer
+more detail set the amount of time the animation will take for fadeout and use a delay for the fadein animation that is longer than the fadeout animation time
+
+smooth,animations,visibility,slower,animation,enteractions
+i want smooth fadeout fadein animations instead setting visibility where fadeout is slower than fadein animation so i ve used enteractions and exitaction of datatrigger
+

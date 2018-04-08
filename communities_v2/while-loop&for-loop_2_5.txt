@@ -1,0 +1,17 @@
+other---------------------------------------------------
+
+cleaner
+edit just realized a while-loop may well be a lot cleaner than a for-loop for this
+
+faster
+and now we know that for-loop is faster than while-loop
+
+faster
+i have also found that a while-loop is faster than a for-loop
+
+greater,cost,compiler
+also it seems like a for-loop is of greater cost to the compiler than a while-loop
+
+slower,data,cheaper,equivalent,iterations
+the reason for the second case much slower on sorted data is that a while-loop is cheaper than the equivalent for-loop when there are zero iterations
+

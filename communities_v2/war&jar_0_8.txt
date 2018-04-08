@@ -1,0 +1,26 @@
+other---------------------------------------------------
+
+embedded,better,file
+is embedded jar better than embedded war file
+
+module,scope,file,longer,tests,impl
+i tried to do it in server s pom.xml file and i set the impl module to provided scope so the jar file is not longer contained in war but now the tests are failing as after unpacking the war file used for running the tests does not contain the impl jar file which is required for that
+
+tomcat,windows,jars,class,definitions,web-inf,lib
+i recently got this error with tomcat 7.0.21 on windows 7 when a war contained jars which had duplicate class definitions a class was defined in more than 1 jar within the war s web-inf lib directory
+
+client,thinner,interfaces,reference,access,ejb
+if your client jar is really thinner for example only the interfaces having the war s reference the client jar effectively disallows them to access to ejb implementations which is always a good idea
+
+practice,easier
+so in my practice using war app easier than jar to manage and re-configure
+
+logic,ejb,ear,different
+keeping your business logic in ejb jar will pay off when you ll need more than one war in your ear different security realms etc.
+
+file,runnable,executable,common,files
+5 a war file can be runnable executable though this is more common with jar files
+
+project,packaging
+i set up a maven multi module project one with packaging war two more with packaging jar
+

@@ -1,0 +1,68 @@
+0---------------------------------------------------
+
+years,slower
+as of a few years ago multiplying was 3x slower than add
+
+slower
+its the multiplying that historically was slower than the add
+
+1---------------------------------------------------
+
+divide,higher,precedence
+multiplying and divide have higher precedence than add and subtract
+
+pow,evaluator,higher,precedence,divide
+moreover i would like to add the pow in my evaluator with an higher precedence than multiplying and divide
+
+exprbinopmul,precedence,higher,proper,consideration
+in the above example the instance of exprbinopadd is a child of the instance of exprbinopmul although precedence of multiplying is higher than precedence of add which results from the proper consideration of the parentheses
+
+extra,braces,higher,precedence,percentage,discounts
+with extra braces because multiplying has a higher precedence than add - assuming these are both percentage discounts
+
+someone,behaviour,operator,higher,precedence
+can someone explain this behaviour multiplying operator has higher precedence than add operator
+
+precedence,left-to-right,c,instruction,level
+then i think it would be the problem of precedence in most case they are left-to-right and i think multiplying would be calculated first because in c multiplying is more prior than add instruction by one level
+
+higher,precedence,example,john
+to give multiplying and divide higher precedence than add and subtract you can do something like this example adapted from john levine lex yacc 2 e 1992
+
+pow,evaluator,higher,precedence,divide
+i would like to add the pow in my evaluator with an higher precedence than multiplying and divide
+
+2---------------------------------------------------
+
+operation,clock,cycles,processors
+the multiplying operation uses more clock cycles than the add on many processors
+
+faster,clock,cycles,verses,particular,cpu
+however multiplying is faster than adding even though less clock cycles are used to add verses multiplying according to what my particular cpu s datasheet says about the instructions being used
+
+other---------------------------------------------------
+
+sub,cheaper,better,throughput
+add sub are cheaper than multiplying better throughput and lower latency
+
+faster,mul,general,values,loop,operations
+add is faster than mul but if you want to multiplying two general values mul is far faster than any loop iterating add operations
+
+higher,lower,resolutions
+you can add higher and lower resolutions by multiplying or dividing them by 2
+
+
+where multiplying binds more tightly than add
+
+fast,multiplier,order,slower,normal,hardware
+on a cpu with a fast multiplier multiplying may only be on the order of 4 times slower than add but on normal hardware it s 16-32 times slower for a 32 bit operation
+
+fp,throughput,lower,fma,intel,skylake
+for example fp add throughput is lower than fma or multiplying on intel before skylake 1 vector per clock instead of 2
+
+expensive,modern,computers
+multiplying is still somewhat more expensive than add on modern computers and compilers go to some effort to replace them with one or two shifts+add instructions
+
+time,true,addition
+functionally a multiplying will always take more time than an add because it combines a true multiplying along with a true addition step
+

@@ -1,0 +1,20 @@
+other---------------------------------------------------
+
+big,surprise,better
+so no big surprise zsh being better than bash
+
+implementation,builtin,compctl,simpler
+update turns out that zsh implementation based on builtin compctl is much simpler than the bash implementation based on builtin complete
+
+configurable,complicated
+it seems that zsh is more configurable than bash but also more complicated
+
+setopt,nonomatch,glob,pattern
+my stackoverflow search indicates that it can be turned off by setting setopt nonomatch then zsh behaves more like bash glob the pattern and pass it to the program if no match is found
+
+similar,highlightings,ubuntu
+how can you get similar highlightings to zsh s less than bash s less in ubuntu
+
+extensible,greater,focus,completion
+zsh is more extensible and has a much greater focus on searching and completion than bash
+

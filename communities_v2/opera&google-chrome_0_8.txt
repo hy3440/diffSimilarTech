@@ -1,0 +1,26 @@
+other---------------------------------------------------
+
+green,painting
+especially in opera there is much more green in the painting than in google-chrome
+
+fine,safari,assitional,settings,firefox,ribbon,div,higher
+now this works fine in google-chrome and safari and i have had to use assitional css settings for firefox but ie and opera both display my ribbon div about 25px higher than in google-chrome or safari
+
+browsers,helpful,mode,powerful
+since you noted thoughts on other browsers would be helpful opera s kiosk mode seems more powerful than google-chrome s
+
+complete,problem,finger
+opera probably is more complete to manage canvas than google-chrome but the problem is always to exclude the finger touch if i m using the pen
+
+note,faster,memory,leaks
+note i recommend using opera - it is much faster than google-chrome as it doesn t have memory leaks and comes with a built-in ad blocker
+
+latest,version,longer,userscripts,box
+also nice to know is the fact that the latest version of google-chrome and also opera don t know since when but longer than google-chrome supports userscripts out of the box no need to install any add-ons
+
+usage,outdated,release,popular,previous,versions,penultimate,version
+for comparison 0.68 usage means this outdated google-chrome release is more popular than the current and previous versions of opera the penultimate version of safari on ios and ie 9 or 10
+
+image,longer
+as you can see in the image google-chrome is running a lot longer than opera
+

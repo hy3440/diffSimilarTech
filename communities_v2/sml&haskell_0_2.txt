@@ -1,0 +1,8 @@
+other---------------------------------------------------
+
+stricter,precedence,rules
+also sml has stricter precedence rules than haskell
+
+execution,model,printf,better
+because sml is eagerly evaluated the execution model is far easier to comprehend and debugging via printf works a lot better than in haskell
+

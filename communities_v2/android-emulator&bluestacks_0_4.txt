@@ -1,0 +1,14 @@
+other---------------------------------------------------
+
+ram,alternative,genymotion,memory
+2 if your host machine laptop doesn t have more ram then you might want to find alternative android-emulator like genymotion bluestacks which takes less memory than android-emulator
+
+possible,device,player,possibilities
+yes some functionality possible only on device but you can try also bluestacks app player which has more possibilities than android-emulator
+
+better
+this android-emulator works better than bluestacks
+
+memu,powerful,pc,better
+in xda-forums i read about memu - most powerful android-emulator for pc better than bluestacks
+

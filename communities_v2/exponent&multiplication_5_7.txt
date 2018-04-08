@@ -1,0 +1,25 @@
+0---------------------------------------------------
+
+analogous,successive,faster
+this is analogous to the way you can compute exponent using successive squaring much faster than by repeated multiplication
+
+int,larger,powers,faster
+as int exponent gets larger taking powers might be faster than multiplication
+
+misunderstanding,faster
+the misunderstanding is that incrementing the exponent is not faster than doing a multiplication
+
+small,parameter,faster
+however with really very small parameter 2 in your case exponent is faster than multiplication
+
+other---------------------------------------------------
+
+naive,slower,increases
+however naive multiplication will get slower and slower as the exponent increases
+
+easier,decimal,significant,digits
+multiplication is even easier as you dont have to line up the decimal points you just do the math on the significant digits and simply add the exponent
+
+note,operator,higher,precedence,division,mathematics
+note that the exponent operator has a higher precedence than multiplication and division just like in mathematics
+

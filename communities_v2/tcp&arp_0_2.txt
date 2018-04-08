@@ -1,0 +1,8 @@
+other---------------------------------------------------
+
+period,message,shorter,time
+it would appear from your question that the period of the tcp message is shorter than the arp refresh time
+
+check,netdiscover,lower,level,udp,apps
+if you are using linux check out netdiscover this uses arp i think arp is lower level than tcp udp and with java you can only create apps from tcp udp and above
+

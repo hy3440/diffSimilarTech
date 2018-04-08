@@ -1,0 +1,20 @@
+other---------------------------------------------------
+
+part
+if your rank is less than 4 it takes 0 instead it s the max part
+
+second,set,value,greater,first
+so i want to generate rank for second set of values but starting with value greater than max from first set
+
+lower,number,table,query
+if no rank is lower than its number there are no gaps in the table the query returns the max number + 1
+
+use,clause,date,id,faster
+while i think gbn s answer is probably sufficient i m wondering whether use of an over clause to establish a max date per id attribute with which to reduce the select in a where clause wouldn t be faster than a rank
+
+time,larger,number,new,root
+every time a rank finds a larger number than that stored have it send its new max to the root rank
+
+subquery,slower,cus_id,pi,worse
+you might replace the max subquery with a rank max is usually slower only when cus_id is the pi rank might be worse
+

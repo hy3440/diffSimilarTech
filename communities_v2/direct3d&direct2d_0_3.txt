@@ -1,0 +1,11 @@
+other---------------------------------------------------
+
+principal,easier,poor,text
+direct3d appears in principal to be easier than direct2d but has poor text font handling in the latest version
+
+willing,vista,little,simpler
+if you are willing to limit yourself to vista or later then direct2d would be a little simpler than direct3d
+
+dead,2d
+direct2d is more or less dead nowadays and one would use direct3d also to render 2d
+

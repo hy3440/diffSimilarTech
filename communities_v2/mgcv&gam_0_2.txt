@@ -1,0 +1,8 @@
+other---------------------------------------------------
+
+package,flexible
+i try to fit a gam using the gam package i know mgcv is more flexible but i need to use gam here
+
+popular,packages,dependency,car
+mgcv and gam does not depend on each other but since mgcv is more popular than gam many packages has dependency on mgcv for example car
+

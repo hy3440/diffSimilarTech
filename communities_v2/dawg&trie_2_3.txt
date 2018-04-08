@@ -1,0 +1,11 @@
+other---------------------------------------------------
+
+efficient,space,waste
+use a dawg which is more efficient than a trie in terms of space waste
+
+better,memory,expensive,difficult
+a dawg has better memory performance if the strings have many common suffixes but they are more expensive and difficult to build and update so start with a trie
+
+similar,space-efficient,efficient,prefixes
+it is a structure similar to but twice as space-efficient as the dawg that is more efficient than the trie which only compresses prefixes
+

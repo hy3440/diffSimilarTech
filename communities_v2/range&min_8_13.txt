@@ -1,0 +1,45 @@
+0---------------------------------------------------
+
+solution,part,clunky,check,max,value,bigger
+my solution to the range part feels clunky over complicated and doesn t check if the max range value is bigger than the min range value doesn t check if 10 2
+
+first,date,value,console,smaller,bigger,max,corresponding
+for ease of debugging i pass the value of to reactive values and print the first date range s value to the console rendered to check whether the it is smaller or bigger than the min and max of the corresponding date column as i did in the lapply function
+
+1---------------------------------------------------
+
+values,diagonal,min..max,x,array,lower,side,higher
+a variation on pentadecagon you are free to set n arbitrary values on the diagonal in some range min..max containing x and fill the rest of the array with lower than min on one side and higher than max on the other
+
+look,picture,time,greater,max
+take a look at your picture - all the range you want have ending time greater than min and starting time less than max
+
+number,max,higher,lower
+if you want to check that a number is between the min and max of the range you would likely want to check that it is both higher than the min and lower than the max
+
+maxpoint,select,values,greater,points,value
+range is 5000 to 50000 what i want to achive is in maxpoint select box i want to display the values which are greater than min points selected value
+
+greater,max,error
+if range is greater then or less then the min and max then it should throw error
+
+slider,limited,values,lower,higher,max
+i m working on slider that updates 2 text boxes with values the slider is in a limited range so it doesn t give values lower higher than min max
+
+other---------------------------------------------------
+
+manner,extreme,ends,end,greater,targetmax,look,backwards
+if your range were sorted in some manner then you could look at the extreme ends if the end s min is greater than the targetmax then say look at the range 1 4 backwards from the end etc.
+
+exception
+but if i take it out of range for more than 1 min it gives an exception
+
+query,date,first,records,time,difference
+my query is given below so based on the date range first i have to sort down the records after that i have no idea how to find the difference between created_at and updated_at having status success and the time difference is less than 5 min 5 to 15 and so on
+
+max,independent,variables,run-time,numbers,expression,value,large,fraction,values,valid,faster
+if max and min are independent variables the extra subtraction for max-min will waste time but if that expression can be precomputed at compile time or if it can be computed once at run-time to test many numbers against the same range the above expression may be computed efficiently even in the case where the value is within range if a large fraction of values will be below the valid range it may be faster to use because it will exit early if value is less than min
+
+value,disjointed,d1
+any value in the disjointed range that is less than the value in d1 has 1e+99 added to it and that won t be the min of anything
+

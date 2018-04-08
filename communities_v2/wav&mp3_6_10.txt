@@ -1,0 +1,34 @@
+0---------------------------------------------------
+
+files,larger,additional
+wav files are about 3 times larger than mp3 files so it would need 1.8gb additional space to do the conversion
+
+.wav,clips,smaller
+ok i am new to audio with unity but despite reading all the unity posts regarding audio adding 2 short .wav clips i heard wav was smaller than mp3 to my app has added over 200mb
+
+smaller,worst,audio,quality,files
+i understand that mp3 is much smaller but it has worst audio quality when is compared to wav files
+
+problems,ability,files,smaller
+if you are still having problems jdk 8 has the ability to play mp3 files which are significantly smaller than wav you may want to try this
+
+smaller,files,duration
+you should definitely pick mp3 because they are about 10x smaller than wav files of the same duration
+
+other---------------------------------------------------
+
+sample,data,file,easier,frequency-domain
+either way applying gain and or attenuation to time-domain sample data as in a wav file is much easier than trying to apply these effects to frequency-domain data as in an mp3 file
+
+worried,techno,smaller,memories
+now i assume you are worried your techno might not read a compressed mp3 which should be smaller than a wav from my memories
+
+fileformat,memory,formats
+for using a fileformat i thought mp3 uses much less memory than wav because all the formats are based on wav but just compressed
+
+uncompressed,pcm,data,better,human
+if you ask if a uncompressed wav which contains pcm data is better than mp3 then yes but the question sometimes is how much this better really matters to the human ear and how much postprocessing you have to perform on that data
+
+iâ,compromise,quality,lower,file,size,audio,little,poor,wonder
+question iâ m seeing some compromise in mp3 quality my converted mp3 is lower file size when compared to wav but my audio quality is little poor than wav wonder if i can increase the quality of the mp3 file
+

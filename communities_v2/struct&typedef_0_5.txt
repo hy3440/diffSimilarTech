@@ -1,0 +1,17 @@
+other---------------------------------------------------
+
+ins,outs,helpful
+this is a good example of a time to know the basics - i think understanding the ins and outs of struct is more helpful than typedef since you can do so much more with it
+
+better
+also i think typedef is a better choice when you want to define a struct
+
+linux,kernel,clearer
+one camp most notably the linux kernel people thinks that struct a is clearer than the typedef
+
+foo,easier,name-lookup
+struct foo is easier to parse then typedef d foo as the name-lookup is simpler
+
+length,symbols,longer,similar,counterparts,microsoft,compilers
+you can verify with a simple objdump symbols objfile.obj that the length of decorated symbols by using typedef s is incredibly longer than their similar counterparts split into struct s microsoft compilers have historically used a proprietary name mangling scheme
+

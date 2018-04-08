@@ -1,0 +1,16 @@
+0---------------------------------------------------
+
+vorbis,better,bitrates
+moreover ogg vorbis is better then mp3 at all bitrates
+
+better,compression,plus,things
+in general ogg achieves better compression than mp3 which is a plus for things like download size bandwidth resource usage etc
+
+other---------------------------------------------------
+
+vorbis,better,quality,meg,licensing,legal
+ogg vorbis is better quality per meg than mp3 plus no licensing legal issues
+
+smaller
+of those three ogg would usually be smaller than mp3
+

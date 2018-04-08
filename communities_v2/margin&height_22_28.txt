@@ -1,0 +1,90 @@
+0---------------------------------------------------
+
+listview,item,bigger,padding,top,bottom,textview
+your listview item s height is looking bigger because your are applying 17dp padding and 4dp margin at the top and 7dp padding and 4dp margin at the bottom of the textview ...so its taking total 32dp extra space excluding your textview
+
+greater,negative,top,part,element
+you also need to set a height that is greater than the negative top margin so part of the element will be visible so the user can hover over it
+
+negative,greater,first,time
+if i apply a negative margin to it that is greater than its height the first time feedbackview.showtext is called it doesn t animate in correctly
+
+recyclerview,content,last,item,padding,space
+when recyclerview s content height is less than itself - last item has to gain margin padding height and fill the remaining space
+
+first,row,larger,bottom,.content
+the first row has a height that is much larger than the margin bottom of its .content div so that the margin-bottom is contained and should not effect anything outside of its container
+
+value,top,equal,greater,header
+the value of margin top will be equal or greater than height of the fixed header height
+
+algorith,new,top,greater,current,note,anchor
+however an algorith could be something like if the new margin top is greater than the height of the current note and the difference between the offet of the current note anchor and the following note anchor is less than the height of the current note than subtract the height of the current note from the new margin
+
+top,item,greater,navbar,order
+you ll need to set the top margin for whatever item you want under it to be greater than the height of your navbar in order for it to show up correctly
+
+#footer,#container,top,value
+#footer s height is more than 800px so the #container should lose its top margin value by touching #footer and continue scrolling the page without that floating div
+
+greater,negative,top,equal,half
+if the height is greater than 66px i want to apply a negative top margin equal to half of its height
+
+activity_main.xml,feedbackview,top,-36dp,greater,non-negated
+in activity_main.xml below the feedbackview has a margin top of -36dp which is greater than its height when non-negated
+
+div,tag,higher,padding,things,work
+i am trying to make my div wrap the tag however it doesn t wrap the height is always higher of my div and my tag has no padding or margin i tried many things but doesn t work i am adding my style and the html code i am also going to add some screenshots
+
+lower,available,negative
+this may be ommited once height is lower than available - thus negative margin may work
+
+position,absolute,equal,negative,top,parent
+it is treating the floated ul as position absolute but only when its height is less than or equal to the negative top margin on its containing parent
+
+bottom,content_main,equal,greater,ad,layout
+if you want to use it then add a bottom margin to the content_main which should be equal or greater than the height of the ad layout
+
+greater,iframe
+the margin will be greater than the height of the iframe
+
+items,div,larger,windows,bellow,page
+sometimes when enough content items is added this div height is larger than windows and part of div content is not visible at all it stays bellow page margin
+
+css,element,greater,size
+css height 100 gives an element height that is actually greater than 100 by the size of the margin
+
+conjunction,negative,equal,greater,top,bottom
+in conjunction with a negative margin equal to or greater than the height of the top and bottom borders if any to further remove the element
+
+margintop,im,top,order,screens,smaller,div,higher...
+i assume margintop can t be solved since im setting margin top to -820 in order to get at a point of top 275 therefore screens smaller than 1200px height the div will go much higher...
+
+1---------------------------------------------------
+
+aware,printable,area,page,minus,top,bottom,cell,content
+also be aware that if the height of the printable area that is page height minus top and bottom margin is less than the height of your cell content then it s impossible for the browser to avoid breaking it unless it can somehow warp the fabric of space maybe firefox has a -moz- property for that
+
+top,bottom,browser,larger,space,available,percentage,content,vertical
+also you need to be careful about your content - in the fiddle you used h4 and p tags and these have a default top bottom margin set by the browser - if this margin is larger than the space available in the percentage height div it will push the content out of vertical alignment
+
+other---------------------------------------------------
+
+page
+once the page height is less than the margin i need to create another page
+
+default,browsers,body
+by default browsers add a margin to the body causing the body to actually take up more than 100 height 100 plus whatever the margin is
+
+steps,child,smaller,parent,maximum,similar
+the problem with your logic is that it doesn t incorporate the maximum distance the child is allowed to move in the top direction it will jump in 50 pixel steps and in case the newly calculated child height is smaller than the parent it just stops where it would also need to limit the margin to the maximum similar to what you are already doing for the bottom direction
+
+use,.container,.footer,minus
+i have use height 100vh for .container and pulled .footer up by minus margin
+
+transparent,plot,smaller,width,file
+gives a way to make the margin transparent but they are still there and the plot is smaller than height and width i set in the saved file
+
+barcodes,bigger,page
+you cant see 45 barcodes because their margin is bigger than page height
+

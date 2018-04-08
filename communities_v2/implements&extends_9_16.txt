@@ -1,0 +1,54 @@
+0---------------------------------------------------
+
+interface,better,system,superclass
+i have not found a lot of times when implements an interface would be a better system than extends a superclass
+
+runnable,better,classes
+implements runnable is better because you can extends other classes
+
+runnable,better,thread,idea
+i have read that implements runnable is better than extends thread but i have no idea of how
+
+runnable,preferrable,thread
+they say that implements runnable is more preferrable than extends thread
+
+runable,better,thread
+i also know implements runable is better than extends thread
+
+runnable,better,option,thread,class
+why is implements runnable a better option than extends from thread class
+
+1---------------------------------------------------
+
+note,mouseadapter,easier,methods
+note extends mouseadapter is easier since you only need to implements the methods you want to handle
+
+value,listview,arrayadapter,easier,baseadapter
+second in order to add or update the value of listview in general extends arrayadapter is much easier than implements baseadapter because of arrayadapter support add remove insert method by itself
+
+other---------------------------------------------------
+
+possible,stronger,relationship,type,relationships
+a possible reason is that extends represents a a stronger relationship than implements although both represent is a or is a type of relationships
+
+sense,class,higher,priority,interface
+which i think makes sense because extends from a class should take higher priority than implements from an interface
+
+solutions,available,asp.net,identity,better,custom,solution
+are there some solutions available to extends asp.net identity better than implements a custom solution as suggested in the links
+
+rawcomparator,faster,writablecomparator
+is implements the rawcomparator that much faster than extends writablecomparator
+
+sense,typo,book
+extends makes more sense to me here than implements maybe it s a typo in the book
+
+thing,answer,gridviewpager
+more or less the same thing as the accepted answer can be implements more succinctly by extends the gridviewpager like this
+
+larger,errors
+implements gives larger errors because i tried with extends
+
+api,external,better,position,oauth,doorkeeper
+but if you d like to extends this api to be used by the external services then you ll be in a much better position with implements oauth 2.0 using doorkeeper because you can easily configure for example a authorization code grant for them
+

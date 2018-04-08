@@ -1,0 +1,45 @@
+0---------------------------------------------------
+
+interesting,experiment,memory,pointer
+one interesting experiment you can try is to try and malloc more memory after you free d that pointer
+
+memory,earlier,calloc
+how does free know how much memory to be free d which was earlier allocated by malloc or calloc
+
+values,heap,memory,earlier
+now if you free some values on the heap and allocate more with malloc you may be given back some of that dirtied memory that you scribbed on earlier
+
+1---------------------------------------------------
+
+bytes
+malloc finds 10 more free bytes and marks them as used
+
+char,p,bytes,memory
+suppose char p malloc n assigns more than n say n bytes of memory are allocated and free p is used to free the memory allocated to p
+
+other---------------------------------------------------
+
+likely,memory,so-called,bytes,metadata,later
+most likely malloc allocates more memory and puts so-called guard values that happen to contain null bytes or it puts some metadata to be used by free later and this metadata happens to contain a null byte right at that position
+
+.so,runtimes,objects,module,new,delete,extra,info
+if your .so are statically linked to c++ runtimes - you should free objects in the same module where they were allocated since new delete is something more than malloc free and need some extra info to work properly
+
+context,store,different,heap,new,simpler,quicker,realloc,calloc
+in this context free store is different and incompatible with heap because the new delete free store library is simpler and quicker than the malloc free realloc calloc heap library and thus provides huge memory usage gains to the c++ embedded programmer in a context where you have only 512 bytes of ram
+
+easier
+malloc is much easier to implement if there is no free
+
+unsafe,opinion,safer,function,inconsistent
+in addition to the previous answers the strncpy char pointer which seems unsafe for my opinion and the malloc which is safer but you need to remember to free it outside of the function and its inconsistent with the hierarchy of the program you can do the following
+
+solution,call,bigger,buffer,later
+here is a solution which encapsulates the call to malloc allocates a bigger buffer for alignment purpose and stores the original allocated address just before the aligned buffer for a later call to free
+
+expensive,action,costs
+remember malloc is quite expensive action and free costs even much more than malloc
+
+mac,bigger,boundaries,pointer,correct,wrong
+presumably the mac malloc aligns to bigger boundaries and so it s spotting the pointer you re passing to free can t be correct since it has the wrong alignment
+

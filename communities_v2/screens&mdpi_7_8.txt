@@ -1,0 +1,30 @@
+0---------------------------------------------------
+
+drawable,ldpi,xhdpi,image,shorter,width
+i have used this link to generate nine-patch images however even if i add the files to the drawable ldpi mdpi ldpi xhdpi and xxhdpi folders the image is still shorter than the screens width
+
+issue,phone,smaller,layout,res
+addressing issue #2 if your mdpi phone has a smaller screens than 600dp it will use the layout in res layout folder
+
+high,density,smaller,hdpi
+ldpi assets will look bad on high density screens but are exponentially smaller than mdpi which is exponentially smaller than hdpi etc
+
+hdpi,taller
+proportionally the hdpi screens is slightly taller than the mdpi screens
+
+density,xhdpi,ldpi,48x48,72x72,hdpi
+if the screens density is less than xhdpi i load smaller sampled sizes of the 96x96 image - as 36x36 for ldpi 48x48 for mdpi 72x72 for hdpi
+
+1---------------------------------------------------
+
+scales,images,resolution,bigger
+i read in some tutorials that android automatically scales up the images when the screens resolution is bigger than mdpi
+
+size,larger,common,sizes,text
+since the screens size is larger than the common mdpi screens sizes 320x480 the text size looks smaller in this emulator
+
+other---------------------------------------------------
+
+device,destiny,default,values
+if device screens destiny is more than mdpi - use default values folder
+

@@ -1,0 +1,39 @@
+0---------------------------------------------------
+
+values,folder
+as mdpi is less than hdpi so it will take the values from the folder which is least below it in you case it is values which is applicable to all
+
+version,button,bigger,baseline
+ideally the hdpi version of your button should be 1.5 times bigger than the mdpi baseline version
+
+image,folder,larger
+and you know your image at hdpi folder so its 1.5 larger than the mdpi
+
+computer,monitor,resources,larger
+for example mdpi is basically 72dpi as your computer monitor hdpi resources should be around 1.5 times larger than mdpi resources and so forth
+
+dp,unit,device,larger
+example if using dp unit hdpi device will have 1.5 240 160 times larger than mdpi
+
+1---------------------------------------------------
+
+layout-sw320dp-land,drawable,folder,layout-sw720dp-land,device,drawables,smaller
+layout-sw320dp-land will pick up drawable from hdpi folder whereas layout-sw720dp-land is mdpi device so it will pick up drawables from mdpi folder which will be smaller than hdpi
+
+images,folder,appearance,smaller,ldpi
+when you put images into hdpi folder their appearance is smaller than from mdpi and ldpi
+
+screens,smaller
+ldpi assets will look bad on high density screens but are exponentially smaller than mdpi which is exponentially smaller than hdpi etc
+
+pixel,sizes,smaller,images
+images in these different folders should have different physical pixel sizes mdpi has smaller images than hdpi but the images pixel densities aren t used
+
+other---------------------------------------------------
+
+graphic,ldpi,size
+first of all if you anyhow provide a hdpi graphic adding an mdpi and ldpi graphic which both are less than the hdpi graphic in size there is approximately 3 4 6 scaling ratio will increase the size but far from triple it more close to double
+
+closest,match,closer
+the system will pick the closest match and mdpi is closer to hdpi than to xxhdpi
+

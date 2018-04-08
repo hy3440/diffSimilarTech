@@ -1,0 +1,36 @@
+0---------------------------------------------------
+
+better
+i do know imagemagick better than graphicsmagick
+
+better
+for me graphicsmagick is performing far better than imagemagick
+
+faster,better,multitasking
+graphicsmagick also seems to be faster than imagemagick using better multitasking
+
+1---------------------------------------------------
+
+s3,process,faster
+the origin server would get the images from s3 process them using graphicsmagick since it s much faster than imagemagick then serve them
+
+faster,file,sizes,higher
+graphicsmagick is not that much faster -- and the outputted file sizes are significantly higher than imagemagick
+
+other---------------------------------------------------
+
+extensive,api,documentation
+graphicsmagick provides more extensive api documentation than imagemagick
+
+mmmm,developed,respects
+mmmm graphicsmagick is somewhat less developed than imagemagick in many respects
+
+q8,slower,secs
+i successfully compiled graphicsmagick with q8 but after all it seems about 30 slower than imagemagick 0.3 secs
+
+faster,test,conversion
+graphicsmagick converted much faster than imagemagick although i did not test conversion with cuda processing
+
+leaner,meaner
+i thought graphicsmagick was supposed to be leaner meaner than imagemagick
+

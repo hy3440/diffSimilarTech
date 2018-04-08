@@ -1,0 +1,11 @@
+other---------------------------------------------------
+
+easier,example,files
+dotnetzip is much easier to use than sharpziplib example of zipping all files in folder
+
+extraction,smaller,kb,permissive
+i used it because it is small 6 kb compiled with just the extraction making it far smaller than dotnetzip which is more than 150 kb and is more permissive than sharpziplib
+
+native,support,opinion,flexible
+dotnetzip offers native support and has a quite friendly api and is my opinion more flexible than sharpziplib
+

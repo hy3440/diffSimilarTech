@@ -1,0 +1,8 @@
+other---------------------------------------------------
+
+animation,longer,200ms,animations,parallel,last,color
+the mouseover animation is 200ms longer than the mouseout so if you mouseover and mouseout in less than 200ms total the animations run in parallel and the mouseover one finishes last leaving the color red
+
+note,better,tooltip,next
+note without the mouseout it works better but tooltip stays until next mouseover
+

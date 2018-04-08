@@ -1,0 +1,14 @@
+other---------------------------------------------------
+
+algorithm,random,common,opinionï¼š,sha-256,stronger
+encrypt the passwords with one-way encryption algorithm with a random salt like the common opinionï¼š sha-256 is stronger than md5
+
+secure,password,slow,slower
+bcrypt is considered the most secure way to implement password hashing with salt because it is slow - much slower than an md5
+
+sha256,secure
+using sha256 with a salt will be much more secure than md5
+
+passwords,fancy
+decode the passwords yourself and re-encode them with a salt i recommend something a little more fancy than md5
+

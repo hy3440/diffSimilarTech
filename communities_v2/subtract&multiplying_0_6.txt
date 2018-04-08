@@ -1,0 +1,20 @@
+other---------------------------------------------------
+
+faster
+subtract is faster than multiplying
+
+compiler,bitshift,faster
+p is sometimes chosen to be 31 because not only is it prime but a compiler resolves it to a bitshift and a subtract which is much faster than a multiplying
+
+first,field,value,greater
+subtract first field from the other and if the value is not greater than 0 multiplying by -1
+
+logarithms,factorials,end,reliable
+adding and subtract logarithms of factorials then taking the exponential at the end is more reliable than multiplying and dividing factorials directly
+
+n-5,time,constant,weaker
+similarly if you skip the five first elements your loop takes o n-5 time but that too is the same as o n because adding or subtract a constant is even weaker than multiplying by a constant
+
+logic,whole,number,bigger
+the logic is multiplying by 2 whole number 0.1 2 0.2 and if it s bigger than 1 subtract and continue
+

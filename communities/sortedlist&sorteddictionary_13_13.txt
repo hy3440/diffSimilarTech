@@ -1,0 +1,47 @@
+0---------------------------------------------------
+
+cost,input,smaller
+ignoring the cost of providing sorted input the oh of sortedlist is smaller than the oh of sorteddictionary
+
+data,faster
+if the sortedlist is populated all at once from sorted data it s faster than sorteddictionary
+
+list,data,faster
+if the list is populated all at once from sorted data sortedlist is faster than sorteddictionary
+
+faster,insertion,data,log
+sorteddictionary has faster insertion and removal operations for unsorted data o log n as opposed to o n for sortedlist
+
+worse,construction,items
+you should also keep in mind that sortedlist performs worse than sorteddictionary during construction if the items are not inserted in already-sorted order although in this particular case it is highly likely that dates are inserted in chronological sorted order which would be perfect
+
+faster,elements,index
+sortedlist is faster when you want to enumerate the elements and you can access the elements by index and sorteddictionary is faster if there are a lot of elements and you want to insert a new element in the middle of the collection
+
+faster,insertion,unsorted,data
+sorteddictionary has faster insertion and removal operations for unsorted data o logn as opposed to o n for sortedlist
+
+index,item,box,easier
+i had one further issue that related to the oncollectionchanged - the notifycollectionchangedeventargs required an index as opposed to the item of the sorteddictionary which is doesn t come out of the box it s easier with a sortedlist but anyhow
+
+note,benchmarks,faster,removal,indexing
+note after doing some benchmarks i found that sorteddictionary is faster for removal but sortedlist is faster for adding and indexing by key
+
+1---------------------------------------------------
+
+â,memory
+â sortedlist uses less memory than sorteddictionary
+
+tkey,tvalue,memory
+sortedlist tkey tvalue uses less memory than sorteddictionary tkey
+
+memory
+sortedlist uses less memory than sorteddictionary
+
+2---------------------------------------------------
+
+faster
+sortedlist is faster than sorteddictionary
+
+other---------------------------------------------------
+

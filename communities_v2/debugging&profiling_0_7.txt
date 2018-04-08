@@ -1,0 +1,23 @@
+other---------------------------------------------------
+
+archive,development,easier,4f96f173-7ebe-4892-b283-52489de2f409
+the reason is that maybe like in my case the xcode bot was attempting to archive with the development profiling and development profiling is much easier to debugging than 4f96f173-7ebe-4892-b283-52489de2f409
+
+buildtmp.netframework,version,client.assemblyattributes.cs,newer,file,bin,dllname.xml
+corecompile input file c buildagent temp buildtmp.netframework version v4.0 profiling client.assemblyattributes.cs is newer than output file bin debugging dllname.xml
+
+entity,framework,headaches,performance,issues,sql,queries,objects
+another thing to try is the excellent entity framework profiling - has saved us many headaches in debugging performance issues like these - gives you a lot more than sql profiling and you can see what queries objects are created per objectcontext and method source line etc -
+
+time,better,micro-benchmarks
+time spent learning a profiling is probably better spent than time writing and debugging micro-benchmarks
+
+code,sql,easier,tool,long
+of course you can only debugging the code to see the generated sql but it s easier with a profiling tool and you ll see how long time the query takes
+
+note,release,strict,default,errors
+note that this usually happens under the release profiling which is more strict by default about errors than say debugging
+
+difference,issue,better,hours,code,performance,good,web
+this performance difference issue when doing profiling is better than debugging also has troubled me for a few hours i even tried to move code from web api to console application to test and console application has similar performance as good as when profiling web api
+

@@ -1,0 +1,17 @@
+other---------------------------------------------------
+
+ctx.request.get,authorization,req.header,routes
+i should also say that i have the token at ctx.request.get authorization koa based i think it s something like req.header authorization with express in all routes
+
+kind,thing,low,level
+koa doesn t provide this kind of thing out of the box - it s designed to be a little more low level than express
+
+blog,request,better
+see this blog when you have 10000 request koa performs better than express
+
+faster,framework,restify
+it shows that koa is faster then other framework but as this question is about express and restify express is faster than restify
+
+middleware,simpler,hacky
+koa middleware is much simpler and less hacky than express middleware due to the way middleware flows in a stack-like manner
+

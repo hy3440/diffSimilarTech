@@ -1,0 +1,2925 @@
+0---------------------------------------------------
+
+image,greater,.png,generated,smaller
+more specifically if the image height is greater than the width the generated height will be the same as the resulting .png s height but the generated width will be slightly smaller
+
+squares,rectangles,greater,closer,north
+this is to make grid consist of squares instead of having them look like rectangles with height few times greater than width closer to the north and south poles
+
+ratio,imageview,image
+the images ratio does not fit with imageview s width and height or the image width or height is less then the imageview s width or height
+
+image,greater,original
+then since width of your image is greater than height multiply the original width and height by 250 498
+
+greater,x
+our height y is greater than width x
+
+greater,img,height.
+or div s width and height is greater than img s width and height.
+
+ratio,large,number,real,smaller
+in this case if i want to have a fixed width while keeping ratio i just set height to a very large number so that the resizer will actually ignore it since the ratio of real height to desired height is far smaller than the ratio of real width and desired width
+
+greater,individual,page
+if the width is greater than the height of an individual page add a dictionary entry to that page and explicitly set it s rotation
+
+min-width,pixel,count,higher,element,size
+if the fixed min-width height pixel count is higher than the width height set on the element then the element will be the size of the fixed min-width height and the element size wont look the same across all monitors
+
+place,image,file
+for this you can create a new transparent png or white 200 200 jpg and place the newly generated image apprioriately i.e if height is less place it vertically centered or if the width is less place it horizontally centered and save that file
+
+lower,imagebuttons,image,imageview
+my problem is that lower imagebuttons are not shown whenever height of image in imageview is more than its width
+
+isolation,verify,larger,scalr.mode.fit_to_width
+personally i would extract it to a separate class just so that i could in isolation verify that given a width larger than a height i was returned a scalr.mode.fit_to_width and vice-versa
+
+greater,swaps,calculation
+this is the same as before if height is greater than width and swaps the calculation logic for the two directions otherwise
+
+property,images,greater
+what i was looking to do was to assign a width property of 100 if the height of the images is greater than the width and the height if the width is greater than the height
+
+cell,sizes,section,inset
+i have also messed with various cell sizes width 1 less than height height 1 less than width etc and messed around with some section inset combinations but have not managed to find the source of this issue that is causing the animated view to not to show up
+
+outer,div,smaller,contents
+how can i make the outer div height and width never be any smaller than the height and width of its contents
+
+square,uiimage,larger
+although the uiimageview is square the uiimage s height is much larger than the width
+
+larger
+the canvas height is slightly larger than the width
+
+popup,display,size,larger,css
+when you are using the orientation landscape you have to consider whether the keyboard popup will change the display once the width size is larger than the height size the css will consider it as landscape
+
+smaller,able,issue
+if the width is still smaller than the height adjust it manually and you should be able to fix your issue
+
+greater
+this should work as long as the height is never greater than the width
+
+experia,model.whose,less.this,particular,layout,fine,physical,devices.like
+please help...this is the problem of one sony experia model.whose height is more but width is less.this particular layout is working fine where the height and width is almost adjusted in physical devices.like samsung and htc
+
+problem,screen,bigger,image
+but the problem is because the screen height is bigger than the width is makes image looks expanded in height like this
+
+image,square,larger
+the right image doesn t look like a square the width is larger than the height
+
+screen
+unless the screen height is less than 580px or width less than 930px
+
+larger,aspect,fit,uiimageview
+however if the height is larger than the width aspect fit will increase the height of the uiimageview
+
+image,greater
+otherwise if the height of the image id greater than its width
+
+110px,relevant,bigger
+height 110px | width relevant to the height if the width is bigger than height
+
+views,larger
+it breaks in case of views with width comparatively larger than height
+
+greater,landscape,printing
+now additionaly i would like to detect if the printed width is greater than the printed height and then change to landscape printing
+
+viewer,landscape,greater
+the printer sees and feeds them as portrait no rotation but the report viewer prints them landscape because the width is greater than the height
+
+landscape,mode,greater,phone,portrait
+and i want to show the video in the landscape mode if the height is greater then the width of the phone otherwise to show the video in the portrait mode
+
+image,screen,smaller,max-width,auto,css
+and to resize the image proportionally when the screen width is smaller than 1000px i set the max-width as 100 and height as auto using css
+
+top
+to avoid cropping either top if width is more or left if height is
+
+jquery,javascript,table,div,smaller
+using jquery of javascript you can get the height of the table and set the div to be slightly smaller than the width you retrieved from the table
+
+select,images,bigger
+when i select images which height is bigger than width
+
+portrait,device,smaller
+if you have a portrait device the width is smaller than the height
+
+pixels,thumbnail,visible,new,image,aspect,ratio
+i want to make an 100x100 pixels thumbnail of it and in this case because the height is less than the width the height should be 100 visible on the new image and the width should keep the aspect ratio of the image
+
+xml,tag,bigger,oval
+in your xml the tag specifies height bigger than width hence the oval
+
+first,orientation,longer,textureview,degrees
+so when playback i first check the orientation of the video by measuring width and height and if width is longer than height rotate textureview by 90 degrees by below code
+
+viewport,equal,greater,landscape
+if you resize your browser window to still have a viewport with a with equal or less than 1024px but have an height greater than your width the viewport is no longer considered to be in landscape mode but switch to portrait mode
+
+problem,hit,bigger
+the problem i hit is when the width is bigger than the height
+
+widthmeasurespec,item,larger
+surprisingly if i set the heightmeasurespec to a lesser value than widthmeasurespec still the item height gets larger than the width
+
+cameras,server,greater
+the uploaded images taken on cameras arrive on the server with a width greater than the height regardless of how they were shot
+
+larger
+now if you get these confused and use the height for the width and the height is larger than the width this is going to blow up
+
+view,keyobard,available,screen,higher,change,orientation
+it is quite interesting since you are in portrait view but when keyobard is shown width of the available screen is higher than height and that change orientation to landscape
+
+images,greater,class,parent
+basically i m comparing the images height to it s width and then if its height is greater than it s width i m adding a class to it s parent called horizontal that has the appropriate styles
+
+total,images,greater,screen,br
+in that case if the total images width height is greater then the screen s width height it will just cut off. br
+
+picture,greater
+the width of the picture is greater than the height
+
+vertices,editable,rectangle,greater
+i have an application which has a rectangle on a google map at the certain point i have to rotate the rectangle along the vertices as well as it should be editable but the width of the rectangle should be always greater than its height
+
+greater,min-aspect-ratio
+if you want to target any case when width is greater than height i think something like min-aspect-ratio 101 100 or something like this might work
+
+attributes,svg,bigger,iframe,element
+you can change the width and height attributes on the referenced svg if they are bigger than the width and height on the iframe element you should get scrollbars
+
+img,#clock,clock,viewport,greater
+likewise if we change img and #clock to have a defined width instead of a defined height then we have a clock that can scale properly but only if the viewport height is greater than the width
+
+sql,server,greater
+i m trying to generate a multiplication table with t-sql in microsoft sql server 2012 and have been stuck on cases where width is greater than height
+
+compattible,menu,page,loads
+i am trying to make my html page tablet compattible by trying to hide the menu if width is less than height it works when page loads but when i change the orientation of tablet the menu div remains at its place
+
+x,window,greater,user,device
+the problem is that when i move to an android device whose orientation is landscape by default the device s hardware is arranged in such a way that it is clear it is intended to be used mainly in landscape orientation the x and y coordinates are reversed and the fact that the window s height is greater than its width can t be used to determine whether the user is holding the device with it s top up and its bottom down
+
+load,viewport
+or does it only load the portrait.css file on page load and if the viewport width is already less than its height
+
+image,style,portrait,mode,larger
+i was wondering how to get the height and width of an image if i m rendering it react style so i can process it to flip it to portrait mode if the width is larger than the height
+
+image,larger,value,space,smaller
+specifically i take the image s height and width and then divide both by larger value 300 so that the aspect ratio is maintained and the image is optimized to fit in the space i have designed for it a width that is never smaller than 320 and a height that is always exactly 320
+
+ratio,maths,larger
+in this post he used 56.25 to make a ratio of 16 9 while i understand the maths 100 16 9 it doesn t seem to be the case if the height is larger than the width
+
+smaller,horizontal,rectangles
+is there a way to change the height so that its smaller than the width to make horizontal rectangles
+
+larger
+so the height must be 1.24 times larger than the width
+
+auto,smaller,insufficient
+auto shrink only seems to apply when the width is smaller than needed and not when the height is insufficient
+
+image,smaller,equal,crop,aspect,unchanged
+if the height of the image is smaller than the width i set the height to be equal to the width and crop the width accordingly with aspect unchanged
+
+bigger,pictures,img
+because the width was bigger than the height of the pictures the img element was too small and the rotated picture overlaid some of the text above and below
+
+ways,image,code
+i ve tried 2 ways of rotating the image when the width is less than the height both are in this code
+
+page,wider,desktop,simulator
+you can see the page s width is wider than the height but when the app runs on a desktop or a simulator device like 7 pad the extra space is pushed into the top and the bottom
+
+approaches,element,larger,scale,elliptical,tweaking,attributes,changes
+other approaches like making the element s width larger than height or using scale would result in an elliptical arc and it would also require tweaking to positioning attributes when height or width changes
+
+image,bigger,minumum,zoom
+my image has the width bigger than the height so i want that the minumum zoom is the width
+
+browser,div.banner,div.title
+if browser width is less than 1670px and height of div.banner is less than 1253px then let div.title and div.social s parent be div.banner else let the parent of div.title and div.social be the body or browser window
+
+new,row,greater
+add a new row until height is greater than width
+
+mode,window,larger
+portrait mode is when the window height is larger than window width
+
+image,greater
+these are the cases if the image width is greater than 2048 then we need to scale down to 2048 same as if the image height is greater than 1229 then we need to scale down to 1229
+
+8th,area,dialog,taller,wider
+i interpred this to mean that for example the width will be 5 8th of the width of the working area unless this results in the dialog which is taller than the height of the working area in which case it will use a wider width
+
+table,cell,bigger,whole
+but in safari browser the table cell height is bigger than the width i did not set the whole table dimensions
+
+portrait,orientation,smaller
+portrait orientation is that one where the width smaller than the height
+
+hand,image,greater,show
+on the other hand i uploaded an image with height much greater than width but it doesn t show
+
+browser,bigger
+therefore when i get my browser bigger width gets bigger as well as height
+
+smaller
+and the height is smaller than the width physically
+
+image,greater,crop
+if an image s height is greater than the width i want to switch to the height crop else keep the width crop
+
+grater,imageview,adjustviewbounds,property,size,use,scaletype
+there is two case if your actual image size is equal or grater than your imageview width and height then you can use adjustviewbounds property and if your actual image size is less than imageview width and height than use scaletype property to shown image in imageview based on your requirement
+
+ratio,text,box,smaller,area
+the height width ratio since the height of the text box is relatively smaller than the width and the area of the text box
+
+image,greater
+if the height of the image is greater than the width i just want to crop the height
+
+auto,picture,greater,div,image
+i want the div to auto adjust for the picture so if the height is greater than the width then the div should adjust to the image s size
+
+storyboard,image,greater
+currently i am using the universal storyboard and want the image to be 3 4 so the height needs to be 33 greater than the width
+
+greater,screen.width
+if the width is greater then height 3 4 screen.width then
+
+greater,image
+if the height is greater than the width then scale the image to 200px width
+
+bar,controller,smaller,gutter
+the presence of a tab bar controller was enough to make the height 768 - 20 - 49 699 just smaller than the width 1024 - 320 - 1 gutter 703
+
+id,screen,greater,h
+all i need is simply to append a w to the end of the div id if the screen width is greater than the height or an h if the height is greater
+
+settings,larger
+you ll need to change the width and height settings so that the width is larger than the height
+
+facebookâ,database,larger,maximum,image,notification,entire,allowable
+second if a notification image is displayed from facebookâ s database and the height is larger than the width and also the height exceeds the maximum image height for the notification the entire image will be resized to fit the maximum allowable height for the notification image leaving white vertical bars on either side
+
+run,time,greater,match,parent,wrapcontent,vice
+in addition to that you can also check at run time if width is greater than height programmatically set width as match parent and height as wrapcontent and vice versa
+
+laptop,screens,greater
+so the majority of desktop and laptop screens nowadays have a width greater than the height
+
+new,result,trapezoid
+so if you want to draw a trapezoid the adjustment must be calculated like this subtract the top of the trapezoid to the base divide by 2 the result and divide the new result by the height of the trapezoid if the height is less than its width or by its width in the other case
+
+max-height,effect,greater
+similarly max-height will be in effect when height is greater than width
+
+longer,labels
+you may even make its height longer than its width to let the labels spread out
+
+devices,smaller,card,90deg
+if the devices width is smaller than its height the card should also rotate 90deg
+
+image,larger,reality
+it seems like image in width is larger then the image in height where as it is not in reality
+
+greater,rows,columns
+in the case the height is greater than width simply not all the rows will be used but all of the columns must always be used
+
+image,larger,portrait,pixels,scale,appropriate,value
+if image height is larger than width portrait then scale the width to 1024 pixels and scale the height to appropriate value to maintain aspect ratio
+
+page,greater,device
+when the width of the page is greater than the height the device is
+
+orientation,device,greater,tablet,mobile
+the logic is that the default orientation for a device who s width is greater than it s height is most likely a tablet and not a mobile phone device
+
+frame,tableviewincell,larger,cell,heywire
+if i set the frame of the tableviewincell to a width larger than the height of the containing cell then it goes heywire
+
+margin,divs,smaller,aspect,ratio
+when i add a margin to the divs the width becomes smaller and the height stays the same so the aspect ratio changes
+
+problem,image,higher,listview
+the problem that i have is that some image the height is higher than width and then the listview looks like this
+
+image,degrees,greater
+in some scenarios i can prevent the image from getting too torn apart by rotating the image 90 degrees if the width of the image is greater than the height of the image
+
+portrait,photo,greater
+when working with a portrait photo the height is greater than the width
+
+logic,image,x,product,greater,new,values,large
+i ve used resize_to_fit to reduce images to a specific pixel size depending on the longer side but i m wondering if it s possible to do it with this logic instead for any image whose width x height product is greater than a set value resize the image so that the new width and height values are as large as possible while still being under that value
+
+mode,stream,greater,laptop
+i am making a webrtc video call between a mobile and laptop the mobile is in portrait mode so it sends the stream with the height greater than width and the laptop send the stream with the aspect ratio reversed
+
+smaller,larger,whole
+if the width gets smaller the height should get larger accordingly to display the whole content
+
+wrapper,containers,larger
+but if i look at in the firefox responsive design developer mode the circle takes always more space than it should when the wrapper containers height is larger than its width -
+
+code,view,top,greater,bitmaptosave
+however nowhere in the code have you checked that the width of the view added to the top of the view is not greater than the height of bitmaptosave
+
+query,images,greater,landscape,image
+i updated the query to select only images whose width was greater than the height so as to only select a landscape image
+
+approach,work,container,larger,child,parent
+this approach doesn t work when the width of the container is larger than the height as the child overflows the parent as demonstrated in the following snippet
+
+auto,scrollable,bigger,screen,vertical
+try to change overflow hidden to overflow auto this should make it scrollable horizontally if width is bigger than screen and vertical if height is
+
+opposite,greater,pixels,scale
+and opposite if height is greater than width then resize height to 500 pixels and scale width accordingly
+
+matrix,greater,square
+in the case the matrix s width is greater than height it will be padded with 1 s to make the matrix square
+
+container,fluid,harder,browser
+edit okay so the real problem comes when you try and make your container that fluid because height is harder for a browser to calculate than width
+
+container,length,smaller,image
+basically it should check weather container length or height is smaller compared to image width and height normalized and adapt it to that
+
+query,device,larger
+how would i write a media query for when the device height is larger than device width or vice-versa
+
+larger,angle
+if the width is larger than the height then width and height are swapped and the angle is corrected
+
+greater,vice
+this assumes that height is greater than the width and vice versa
+
+sizes,images,greater
+working with image sizes i need a regular expression which returns sizes of images which their height is greater than their width
+
+x,greater
+but you only want it to be negative when x is greater than the width or y is greater than the height
+
+landscape,i.e,greater
+take screenshot of rotated screen and while uploading turn the dimension to portrait if their dimension is landscape i.e width is greater than height
+
+attributes,pixels,badge
+the width and height attributes should be two pixels less than the width and height of your badge
+
+bigger,y-axis,wrapper,distorted
+the code that i have so far seems to work as expected when the x-axis of the wrapper is bigger than the y-axis width height but for some reason when the height of the wrapper is bigger than width it gets all distorted
+
+current,size,greater
+how can i call this method manually and pass the current size in which width is greater than the height
+
+png,image,greater
+so this script will take a jpg gif of png image resize it to 110px width if width is greater of 110px height if height is greater
+
+tools,rectangle,pens,program,draw
+when i want to draw a rectangle in c# using pen tools if the rectangle width and height is less then the pens width then program draw nothing in from if pens alignment property inset .but when i set alignment center then it print a rectangle
+
+window,tall,greater,header,footer
+i d like to do this with media queries so that if someone on a mac with a big monitor has their browser window sized so that it s very tall height is greater than width they would see a header and footer
+
+bigger
+also make it so it ll always be centered horizontally and vertically and the width will always be 1.5x bigger than the height
+
+version,image,larger,screen,lay
+if i have a writeablebitmap version of my image and either the height or width whichever is larger is scaled to be either the screen height or width then how might i over lay that image on top of another image that is the page size to make the image become a full screen image
+
+image,landscape,bigger
+yet when i save the image the image his in landscape width is bigger than height
+
+circle,greater
+then the circle gets vertically centred because the height is greater than the width
+
+greater,portrait,mode
+however the height was greater than the width indicating it was still in portrait mode .
+
+parameter,size,greater
+my question is how can i call the reorientation method viewwilltransitiontosize manually and pass a size parameter in which the size width is greater than the height
+
+portrai,css
+so whenever width is less than height this shall be a portrai eventually will load your css file even if the original screen was initialized at landscape
+
+classes,viewport,greater
+you could also do some magic with jquery on orientationchange and toggle some classes when viewport width is greater as viewport height
+
+photo,properties,lower,bigger
+the problem i m experiencing is that when i use javascript to grab a portrait photo s properties when it s loading the height is significantly lower than what it should be and the width is bigger than it should be
+
+class,screen,greater,portrait
+on pageshow or pagebeforeshow add that class if screen height is greater than width portrait
+
+ratio,bigger
+you have to calculate a ratio like this when width is bigger than height
+
+larger,crops,image
+but when i stretch the width to be larger than the height it crops the image even if i switch to object-fit contain
+
+landscape,bigger,top,bottom
+on landscape as the width is bigger than the height you should set top and bottom 0 and ratio 1 1 and center it horizontally in container
+
+greater
+how can i detect if the printed width is greater than the printed height
+
+images,smaller,tall
+so something happens with the images that their width is smaller than their height or images that are tall
+
+ratio,sure,larger,maximum
+one that maintains the aspect ratio one that makes sure the width is no larger than the maximum and one that makes sure the height is no larger than the maximum
+
+paintcomponent,method,last,call,original,image,smaller,scaling
+i wouldn t scale the image every single time in the paintcomponent method but do it once if the width and height have been changed since the last call and in that case recreate a bufferedimage containing the image which you blit every single time before calling the superclass paintcomponent scaled up to the right size use something like image scaling does not work when original image height width is smaller the scaling height width
+
+depth,little
+that is the height is more than half the width and depth -- little rule of thumb
+
+frame,greater,picture,pictures,frames
+a picture can be put in a frame if the frame width and height is greater than the picture width and height the pictures and frames cannot be rotated
+
+longer,screen,portrait
+if the height is longer than the width the screen is in portrait mode otherwise it is landscape
+
+page,format,smaller,a4,paper
+if i set the page format with height is smaller than width it is treating it as a4 paper and feed the bottom of the paper
+
+view,greater,able,colorimageview,equal,priority
+when the view s width is greater than its height it won t be able to make the colorimageview s width equal to the view s width but that s ok since the priority is 750
+
+portrait,page
+is set to portrait if the page width is less than the page height
+
+user,browser,possible,larger,viewport
+so its width is the width of the user s browser minus as much as possible without making them larger than 90 height of the viewport
+
+load,square,smaller
+so how can i set the image to load as a square and be 100 width if the width is smaller than the height and 100 height if the height is smaller than the width
+
+greater,variables
+if the height is greater than the width just reverse the width and height variables
+
+browser,orientation,bigger,round
+i m not fully sure how this should work on desktops but i m pretty sure that when you resize the browser the orientation should change provided the height was bigger than the width and after resizing it s the other way round
+
+observation,moment,lower,ssrs,landscape
+i ve tried setting this up in the report properties but as per my observation the moment the height becomes lower than the width ssrs will automatically convert it to landscape
+
+images,portrait
+above images are portrait but if you calculate height and width you will find that width is more than height
+
+landscape,size,shorter,things
+so if an image is in landscape size the width is shorter than the height which throws things off
+
+image,larger,fitstart,fitend
+if image height is larger than width then scaletypes fitstart fitend and fitcenter don t work
+
+aspect,ratio
+if width is way more than height for the 16 9 aspect ratio it s still scaled appropriately just missing the top bottom part of the video in see-able view
+
+image,values,bigger,scale
+i would like somehow to fit the image to scale it normally without setting up fixed values for width and height so if the width is bigger - scale the height and if height is bigger - scale the width
+
+android,fragment1,display,greater,fragment2,getwidth
+i am trying to use fragments in android and want to display fragment1 when width of display is greater than height of display and fragment2 when height of display is greater than width of display but when using getwidth and getheight android studio is saying that these methods are depricated
+
+first,lines,dialog,works,uncommented,smaller,content,overflows
+the first two commented lines for setting width and height of dialog works but second two uncommented lines does not work displayed height is slightly smaller than it should be and content overflows vertically width is ok
+
+program,larger,computer
+once again my question is why is my program crashing if the width is larger than the height when the computer plays
+
+view,greater,able,constraints,colorview,lessthanorequalto
+when the view s height is greater than its width it will be able to satisfy all constraints because the colorview s height is lessthanorequalto the view s height
+
+check,window,greater,order,user
+i check to see if the window s width is greater than its height in order to determine if the user is holding the device in landscape or portrait mode and i translate the data that the accelerometer provides based on that fact
+
+pdf,output,greater
+still my pdf output s height is greater than the width
+
+options,real,bigger,smaller,virtual,sure,best
+if you wan to account for all the possible options real height width bigger smaller than virtual height width and to make sure that the best configuration is delivered the rescaling occurs such that the available space is maximised it is not so straightforward
+
+figure,smaller
+with this gives you a figure of which the height is 300x smaller than the width
+
+top,image,browser,shorter,content
+the top image is 100 width of the browser but shorter than 100 height of the browser so the content peeks up a little bit the tops of the two images below are showing
+
+problem,window,bigger
+but with iframe it is a problem - window height is always bigger than width
+
+highcharts,datalabel,bar
+i have created a chart using highcharts and i want to disable any datalabel if its width is more than height of its bar bar cannot accomodate the datalabel
+
+phone,screen,narrower,page,full
+if i display the app on an android phone and the screen in held vertically width is narrower than height then the rendering the page does not occupy full width stuck at 95 or so
+
+custom,page,higher
+i just want to set the custom page width and height page width is higher than page height
+
+greater,orientation,landscape
+if width is greater than height you know that the orientation changed to landscape
+
+portrait,images,higher,orientation
+note if you are sure that image is portrait if and only if your images height is higher than its width you could measure them to find its orientation
+
+wider
+it seems like you re trying to make the width of the video wider than the height
+
+msoshapetrapezoid,coefficient,form
+i have been struggling with this problem during a couple of hours and i have found that the adjustment for the msoshapetrapezoid is a coefficient that must be multiplied by the width of the form if the width is less than the height or by the height of the form if the height is less than the width
+
+reverse,row,bigger,number,column
+but the measurement is reverse row height shows bigger number than column width
+
+device,sizes,matter,keeps,smaller
+when i set it off height width but i d like it to stretch so it supports other device sizes ....i need the height to stretch as well though which does not happen no matter what i tried height keeps turning out smaller than width
+
+monopsace,characters,bigger
+to answer your question monopsace characters have often a height two times bigger than their width
+
+greater,device,coordinate,image
+so you can get your image coordinates before moving it and you can compute measure of movement in your ontouchlistener class.now if x coordinate of your image plus horizontal movement that you computed be greater than device width or y coordinate of your image plus vertical movement that you computed be greater than device height your image not move
+
+words,image,space,bottom
+in other words when the image s width is more than it s height then there will be an space in between the bottom border of the uiimageview and the image itself
+
+condition,image,bigger,equal,smaller,trouble,variables
+i need to apply a condition in the case that an image s width is bigger than equal to or smaller than height but i m in trouble when i try to compare the variables
+
+pages,ways,larger,page,rotation
+landscape pages can be created in 2 ways set a width larger than the height or set the page rotation to 90 or 270 degrees for a portrait page
+
+minimum,metric,multi-window,mode,smaller
+the solution is to choose the minimum metric between width and height since in multi-window mode the height can be smaller than the width
+
+viewport,banner,size
+which means if viewport width is more than 970 and viewport height is more than 0 serve banner with size 300x250
+
+larger
+if width is larger than height
+
+snippet,previous,smaller,equal
+this second snippet is the same as the previous one but now the height is 20 smaller than the width it was equal on the previous example plus have a max-height limit of 100px
+
+code,image,vice
+i have tried following code but it distorts the image if height is more than width but looks perfectly if it is vice versa
+
+second,image,greater
+this is because the height of the second image is greater than the width
+
+longer,35px,start
+as the width gets longer the height increases by the same but i don t want the height to exceed 35px nor start with below 5px
+
+smaller,div,image,position
+one way you can do it is to check if the position of the mouse is within the div boundaries if the x position is smaller than the div s width minus the width of the image as you don t want the image to cross the div s border and if the y position is smaller than the height of the div minus the height of the image
+
+last,image,value,higher
+create a new class for the last image i called it landscape2 in my jsfiddle as the last image is the only one with width value higher than the height value
+
+scroll,bar,horizontal
+you will get a vertical scroll bar when the height increases more than 500px and a horizontal scroll bar if the width increases more than 250px
+
+word,landscaped,greater
+for word to recognize it as landscaped the width must be greater than the height
+
+image,class,particular
+if the image width is less than the image height i want to add class a to that particular image if not i want to add class b to that particular image
+
+uiscreen,mainscreen,greater,actual,dimensions
+if uiscreen mainscreen knows that i really want the height to be greater than the width whether or not i actually do how can i either query the actual dimensions or query whether the device is in portrait mode or landscape
+
+bottle,thumb,bigger,visible
+bottle thumb height is much bigger than width are only partly visible
+
+mode,image
+for the portrait mode and when image height is less than image width
+
+iframe,scrollbars,offsetwidth,scroll,higher,increase,scrollbar,prolly
+you could adjust the height of the iframe if the scrollbars are present just check the iframes scrollwidth against it s offsetwidth and if the scroll width is higher increase the height of the iframe by the height of the scrollbar prolly 5-10px i d have to check to be sure
+
+orientation,window,higher
+this demo illustrate the change from landscape to portrait using css orientation when the window height is higher than its width
+
+image,container,bigger,actual
+with this code image will be stretched if image container width is bigger then image actual height
+
+greater
+now the width is here greater than equals to 42.0 and the height is greater than equals to 21.0
+
+image,higher,lines,output
+but when i try to upload an image with a width higher than the height i see that the lines that output vh vw return zero
+
+browser,land,scape
+if the width of the browser is more than height it is land scape otherwise it is portrait
+
+image,higher,opposite,value
+it should look wheter the image width is higher than its height and the opposite and according to that set a height or width and the other value height width should be set proportionally so it won t get stretched
+
+larger,undefined,behaviour
+if width is larger than height you get undefined behaviour probably writing into random memory under which anything can happen
+
+landscape,setting,longer
+the webview is in landscape setting width longer than the height
+
+larger,portrait,image,phone,aspect,ratio
+if the height is larger than the width a portrait image the image should be scaled to fit the height of the phone and width should then adjust to keep the aspect ratio i ve had a bit of trouble getting this to work here s what i ve done so far though any help would be greatly appreciated
+
+check,greater
+1 check if width is greater than height
+
+larger,landscape
+you can check wether the width larger is than the height which is landscape
+
+window,bigger,portrait,landscape
+if window height is bigger then window width the we have a portrait or in any other case we have a landscape orientation
+
+image,greater,degrees
+if the height of the image is greater than the width then i rotate the image by 270 degrees
+
+greater,screen
+then i check if the width of the video is greater than the height and rotate the screen
+
+scale,degree,smaller,image,widths,container,proportion,longer
+right now i scale by height which works to some degree however as the width gets smaller the image gallery will be cut off as the container has overflow hidden on some smaller widths as it is adjusting by the height of the container to stay in proportion but doesn t consider the width of the container too essentially the width is longer than the container width
+
+bigger,unallocated,arrays
+if height is bigger than width then this will result in unallocated arrays for some of the in your code as it stands
+
+device,wider
+hover toggles the height width when device width is wider than 768px while a click toggles the height width when device width is less than 768px
+
+spacing,browser,taller
+also if you keep a fixed aspect ratio you are going to have very funny spacing if the browser height is taller than the width
+
+size,viewport,greater,display
+but a workaround could be to detect the size of the viewport if the width is greater than the height display normally
+
+lower,dimension,higher
+most devices seem to recognize the highest dimension as the max-width but some amazon kindle 2 appear to treat lower dimension as the width and higher as the height
+
+cells,exact,new,line,cell,table
+my solution was to use a php variable and increment it on each generated then if i have let s say 13 rows it echoes but the cells must have an exact width so it may add a new line of text if i have a longer text on a cell and the table will have more than 1280px height
+
+landscape,screen,greater
+and for landscape width of the screen is greater than height
+
+others,larger,fit,properly.that
+others because the width is larger than the height doesn t fit properly.that s why i crop them they must be centered in order to make sence
+
+crop,image,greater,dimensions,equal,left,corner
+you may need to crop if the image height is greater than the width so i decided to crop with dimensions equal to the width from the to left corner most likely you wont miss the face of the person this way
+
+x,dimensions,greater
+only elements and which determine the scaling in the x and y dimensions are calculated differently if width is greater than height
+
+bigger
+it works well when height is bigger than width but it does not work when width is bigger than height
+
+area,image,160px
+but when i select an area where width and height varies in which height is more than width as the cropped image then i am not getting cropped image as height and width as 160px like as shown below
+
+greater
+if the height is greater than the width
+
+scale,image,bigger,max
+resize scale image only if the width height is bigger than 1000px so that the resulting image s max width height is 1000px or less
+
+100vmax,equal,smaller,unit,larger
+if a user s screen had a resolution of 1000x800px 100vmin would be equal to 800px and 100vmax would be equal to 1000px as the height here is the smaller unit and the width is the larger unit
+
+greater
+actually it s not even but rather since its width is greater than its height
+
+orientation,portrait,higher,least,javascript
+still not managed yet to detect orientation correctly because now for some reason when portrait - width is still higher than height with is 960 at least that what javascript see but in reality it is not going over boundaries which are 768px
+
+larger
+if height is larger than width
+
+greater
+height is greater than width
+
+bigger,auto
+if the width is bigger than the height i want the height to be set to auto
+
+screen,landscape,larger,portrait,mode,css
+however if you want to redesign your layout or make adjustments based on wether the screen is in landscape width is larger than height or portrait height is larger than width mode you can definitely use css media queries
+
+image,greater,250px,auto
+specifically if an image s width is greater than 250px resize it so the height is 250px and the width auto
+
+longer
+in between 768 1024 and only when width is longer than height
+
+smaller,sizes
+but now when i scale down the background image is not scaled down to smaller sizes if the height is more than the width
+
+ratio,image,screen
+if the width to height ratio of the image is more than the width to height ratio of the screen then you know you ll be using the screen width and calculating the height
+
+ratio,units
+if the width is less than the height then it will scale the height by the ratio of height to width and leave the width at 4 units -2 to +2
+
+div,modal-body,greater,ifrmae
+2 take one div in modal-body with width and height fixed and greater than ifrmae width and height like
+
+media,size,longer,viewer,landscape
+my fixed document xps has its page orientation set to landscape the page media size has a width that is longer that its height and it displays correctly in the viewer as landscape
+
+pages,landscape,bigger
+pages are landscape if their width is bigger than their height
+
+matter,#content,naturalsize,ratio,container,smaller,original,black,bars
+check it out it doesn t matter the width you set to the #content because naturalsize checks the ratio and the container s width and sets a smaller height for the video than the original preventing the black bars appearing in original video height with a smaller width
+
+javascript,child,element
+the javascript comes in only when width is more than the height and then what it does it sets the width of the child to be the height of the element
+
+bigger
+if width is bigger than the height it s width won t be 100 only it s height in all cases will be 100
+
+greater,return,proportional,target
+if width is greater than height return the proportional height otherwise return the target
+
+code,edges,larger
+my current code will rotate but will crop the edges if the height is larger then the width
+
+uiimageview,images,greater
+i would like to avoid top bottom padding in the uiimageview when the images width is greater than its height
+
+trouble,images,greater
+i m trying to use universal image loader uil in my test project and i think i m having trouble loading images when their height is greater than their width
+
+button.getwidth,screen,x,regerenate,button.getheight
+x + button.getwidth to it and check if it is less than screen width if yes your x is well in bound if no regerenate your random x and y similary if x is in bound do it for y and check y + button.getheight is less than screen height it will do
+
+110px,relevant,bigger
+width 110px | height relevant to the width if the height is bigger than width
+
+static,aswell,ratio,higher
+your and are static which means and are always they same aswell respectively 5.1785714285714 and 2.55625 so width ratio is always higher then height ratio
+
+imageview,check,image,greater
+while setting it to the imageview check if the width of the image is greater than height or not and rotate it to 90 if needed
+
+page
+this seems to happen only when the page s height is less than its width
+
+proportions,image,larger,font-size,text
+if you dont want to crop the image at all or use javascript i think your only choice is to force the text element to have the same proportions as the image with width approximately being 50 larger than height and then adjust the font-size text elements to fit the container
+
+plots,uniform,taller,others
+modify the height and width of the plots so that all four have uniform width one is substantially taller than the others which have uniform height among them
+
+screen,smaller,white,circle,radius
+if the screen width is smaller than the height i need the white circle s radius to be width 2 and if the height is smaller than the width i need the circle s radius to be height 2
+
+greater
+you are checking whether the width which starts out at 350px is greater than height 325 and whether height 325 is greater than width 350
+
+100wh,bigger,100vh,crop,view,max,youre,browser
+if the height of the video with width 100wh is bigger then the height 100vh i want the video to crop so it will be on fullscreen view on the max with and height youre browser
+
+area,points,smaller,well,greater
+then we can calculate the width and height of the area for that 4 points and pick the smaller one well sometime width can be greater than height i guess.
+
+longer,src_x,src_y
+meaning if s width is longer src_x has to be 0 and if height is longer src_y has to be 0
+
+view,larger,boxes
+essentially i detect if the view s width is larger than the height and if so rotate the view that contains the boxes
+
+rotateimg,class,greater
+the img tags will have rotateimg class if its width is greater than its height
+
+image,originalsize,greater,svg
+if the image originalsize width height is greater than the svg image width and height
+
+greater
+here s what the video with height greater than width looks like
+
+value,larger,wide,figure
+pass a value for width that is much larger than that for height and you will get a very wide figure
+
+greater,orientation,landscape
+when the width is greater than the height the orientation is landscape
+
+fit,browser,ratio
+i want to decrease the width when this div not fit s the browser anymore when the browser width is less than 1252+50+50px and i want the height to decrease but still keep the same ratio 1252x805
+
+mode,window,larger
+landscape mode is when the window width is larger than window height
+
+image,greater,250px,auto
+if an image s height is greater than 250px resize it so the width is 250px and the height auto
+
+appbar,greater,device
+i have appbar whose height is greater than device width
+
+bigger,portrait
+you should consider if the height is bigger than the width portrait
+
+window,value
+what i need to do is change the 515 based on the width of the window if the window width is above 1280 i would like the value for the height to be 515 and if it is below 1280 i would like the height to be 615 and if the width is less than 480 make the height 715
+
+sure,priority,others
+width - set it a width make sure it has a priority more than others but less than height
+
+computer,move,greater
+my problem is now after changing some stuff my game crashes when the computer plays its move if the width is too much greater than the height
+
+portrait,screen
+in portrait width of the screen is less than height
+
+greater,else,javascript
+then you might need to check if height is greater than width then use height 100 else width 100 in javascript
+
+hand,side,greater
+this prevents all stretching and simply places a black bar on the right hand side when the width is greater than height
+
+greater,image
+if the width is greater than the height then scale the image to 200px height
+
+images,side,larger,image,divs,overflow
+if the images height side is larger than the width resize the image so that the width matches the divs width and hide the height overflow after vertically centering
+
+greater
+assuming the width is greater than the height
+
+timagelist,property,greater,constructor,limitations,setters
+1 the timagelist s height or width property is less than 1 or the height property is greater than 32768 when the timagelist is initially created via the createsize constructor there are no such limitations imposed by the height and width property setters
+
+bigger,auto
+i would when the height is bigger than the width the width 100 height auto
+
+#fluid-container,large,diameter,circle,greater,#max-circle,equivalent
+meaning that if #fluid-container has a large height than width the diameter of the circle will be the width of #fluid-container but if it is the other way around width greater than height than #max-circle will have a diameter equivalent to #fluid-container s height
+
+problem,devices,greater,vice
+the problem is that on some devices the width is greater than the height and vice versa
+
+image,screen,shorter
+i have a header image that i would like to be 100 of the screen in width when the width of the screen is shorter than the height and 100 of the screen in height when the height the screen is shorter than the width
+
+works,notice,image
+i m trying to upload an image from my api to show it as profile picture the problem is from the first time that the user opens the navdrawer the image doesn t load and it makes the entire layout disappear but from the second time it all works and i notice that it happens when the width of the image is less than the height
+
+bigger,print,image-horizontal
+if width is bigger than height print image-horizontal else print image-vertical
+
+moment,smaller,portrait,opposite
+if you think about a moment this is exactly what you want - to know if width is smaller than height portrait the opposite landscape or if they are the same square
+
+code,problem,greater,equal
+edit this code solves your problem given height is greater than or equal to width
+
+wrap_content,aspect,ratio,fixed
+but i can see if i give width as wrap_content then height is less than fixed height because keeping aspect ratio height corresponding to wrap_content width is less fixed height
+
+greater,layout,right
+regardless setting height greater than width is needed to get the layout right between browsers
+
+browser,smaller,image,text,centre
+i.e if the browser height goes smaller the image will scale down while not overlapping or going under the text and staying centre same goes for width
+
+aspect,ratio,vision,framework,detect,rectangles,bigger
+i believe the aspect ratio is defined as width height so does that mean that the vision framework cannot detect rectangles that have a width bigger than height
+
+weird,cause,bigger,value
+this is weird cause i would figure that the width should have a bigger value than the height right now
+
+smaller,higher
+also if the width is smaller it will start flashing a higher height
+
+bigger
+for some of them the width is much more bigger than the height for some of them the height is much more bigger than the width and for some of them height and width are almost the same
+
+issue,image,greater,white,space,right,fine
+my issue is if the image height is greater than the width there is a lot of white space left to the right of the image see attached however the height is fine
+
+monitors,desktop,bigger,boxes,smaller
+another problem is if use multiple monitors together for viewing desktop the width will be very bigger than the height so the boxes will have smaller height and bigger width
+
+bigger
+width is always bigger than height
+
+landscape,longer
+landscape and even though the width is given as longer than the height
+
+attribute,images,larger
+so if i set height attribute to 40 i might find myself with images larger than 120 width
+
+matrixes,horizontal,matrix,lower,vertical,higher
+these matrixes can be horizontal height of matrix is lower than its width or vertical height of matrix is higher than its width
+
+size,least,important,image
+how can i even get real image size at least height it s more important than width in my case from downloaded image
+
+â,bigger,style,max-width,auto
+â if the height is bigger than the width i switch the style to max-width 100 and height auto
+
+â,inversement,bigger
+â inversement if the width is bigger than the height
+
+uitableviewcontroller,view,bigger,cell,correct,becomes,big
+when the uitableviewcontroller view width is made bigger 500px+ the cell adopts the correct height however label 1 becomes too big for its content spanning 1 line of text over 2 lines and label 2 becomes squashed spanning 2 lines of text into 1 line
+
+orientation,picture,greater
+according to the exif-information the orientation is 0 so supposedly the picture is not rotated - but since the width is greater than the height the picture is in fact rotated
+
+notes,circumstance,image,minimum,zoomscale,uiscrollview,zoom
+now i can see the image and just fit the screen nicely but the image is just at the top of uiscrollview . notes in this circumstance the width of my image after being zoomed to minimum zoomscale equals to the width of uiscrollview the height of my image after being zoom to minimum zoomscale less than the width of uiscrollview
+
+image,larger,lines,code
+since the width of your image is larger than the height you need to basically reverse these three lines of code
+
+user,phone
+if the height is less than your width it means the user was holding the phone horizontally so you have to rotate it
+
+flag,usable,larger
+i suspect ios just sets the landscape flag if the usable width is larger than the usable height
+
+panning,image,larger,screen
+i have a code which zooms and pans the imageview matrix it works well but i want the imageview to not be zoomed smaller than my screen and i don t want it to be zoomed very much i want to set a limit for zooming and to the same thing for dragging panning it should pan horizontally if image s width is larger than screen and it should pan vertically if image s height is larger than the screen how can i achieve this result
+
+parent,lower
+parent s height is lower than its width
+
+image,larger,solution,space
+if your image s width is larger than its height then mark s solution will leave space at the top and bottom of the screen
+
+event,testing
+your best bet would be describing to windows.current.sizechanged event and testing if width is more than height
+
+image,longer
+now this works when the width of an image is longer than its height but not the other way around
+
+frame,values,larger,ratio,leg
+for any frame with width values larger than the height a 1 ratio the leg will begin to stretch unproportionally
+
+check,images,bigger,visa,equal
+i m then attempting to use jquery to run a check on whether or not the images height is bigger than it s width visa versa or they are equal
+
+position,larger
+left position in fixed worked probably due to the fact that it s width is larger than it s height
+
+bitmap,greater,maxheight,maxwidth
+and if the bitmap s height is greater than maxheight or the width is greater than maxwidth i d like to proportionally resize the image so that it fits in maxwidth x maxheight
+
+intersection,greater,ball,bottom
+if the intersection width is greater than the intersection height the ball has hit in the bottom or vertical sides of the brick
+
+larger
+height is usually larger than width
+
+classes,sizes,greater
+the mediasize class and all of it s inner classes only have sizes where the height is greater then the width
+
+higher,vice
+if this is the case then height will be higher than width or vice versa
+
+knowable,desktop,old
+width tends to be more knowable than height so on desktop you could do the old switcharoo to change their positions
+
+scaling,grid,location,smaller
+the above scaling assumes that the height of the grid location is always smaller than the width of the grid location
+
+portrait,images,image
+few are portrait images where the height of the image is like 3 times more than width
+
+image,view,smaller,screen,inset,larger
+essentially what this does is check whether your image view s width height is smaller that the screen s width height and if so create an inset of half the screen s width height you could probably make this larger if you want the image to go out of the screen bounds
+
+possible,icons,smaller,last,next,row
+i m wondering if it s possible to automatically arrange the icons so that when the width gets smaller than x the last icon of each row gets pushed to next row so that it grows in height
+
+image,smaller,form,contentpane,screen
+in case your image s width height is smaller than form contentpane s width height you might as well do not scale it since the image will fit the screen
+
+image,smaller,displaywidth,scale
+also if the image width or height is smaller than displaywidth scale you might want to cap it to be image width instead
+
+auto,grid,content,grid.width,greater,windows
+if auto then grid stretches its width and height to fit its content hence why your grid.width is greater than windows width
+
+image
+if you have an image that its height is more than its width it will be shown as such
+
+header,window,thes,code
+i have a page that hide the header if the window height is less than width thes is my code
+
+buttons,rectangular,greater
+however when i run my application the buttons appear to be bigger than the size of the images i m displaying on them- the images are 30x30 but the buttons are rectangular rather than square with their height being greater than their width
+
+solution,swap,lesser,resolution,landscape
+as the simplest solution swap width and height if width is lesser than height so you always get the resolution of landscape mode
+
+greater,pixels,scale,original,aspect
+for example if width is greater than height then resize width to 500 pixels and scale height accordingly so that original aspect ratio is preserved
+
+larger
+solved it will resize only if width is larger than 800px or height is larger than 600px
+
+window,iframe
+specifically when window width is no more than 680px iframe height should be
+
+media,screen
+media screen and height less than width
+
+larger,unexpected
+the height is 3 times larger than width which is unexpected
+
+horizontal,image,greater,loads,vertical
+i m using gallery located on sd card when i pick the horizontal image width greater than height it loads the image in image view perfectly fine but the problem is with vertical image height greater than width it show the image in image view rotated on the left side or saying -90 degree from original position
+
+image,larger,changes
+i m trying to set the height of a image to 150px if the image width is larger than the height and if the image height is larger than the width the width of the image changes to 150px
+
+distance,smaller,x,collision
+you just should separate the x and y axis during distance comparison if the y distance is smaller than the width and the x distance is smaller than the height than there is a collision
+
+words,bigger
+in other words to check if the height is bigger then the width
+
+images,looks
+images scratch width more than height and does t looks nice.
+
+text,smaller
+what is the reason that text s width is smaller than its height
+
+greater,scale
+following that if the width is greater than 1000 simply scale both height and width which may already have been scaled due to the height by 1000 width
+
+1x1,ratio,bigger
+this xml code works well if the image is a 1x1 ratio or if the height is bigger than the width
+
+higher,value,browser,orientation
+if height has a higher value than width the browser will be in orientation portrait
+
+longer,landscape
+so that means the width is longer than the height or that it is still in landscape
+
+amount,zoom,greater,overall,image,panning
+managed to accomplish it by checking whether the pan tilt amount added to the zoom width height is greater than the overall image width height then stop it from panning tilting
+
+idea,larger,overflow-x,auto
+the idea is that the width is 3 times larger than the height and i was thinking to achieve this with overflow-x auto and overflow-y hidden as shown in the example from the second row 6-th column on these website
+
+loads,images,equal
+but uil loads my images correctly when their height is less than or equal to their width
+
+image,correct,bigger,smaller,constraints
+the image is placed in a correct height but the width could be bigger or smaller than the height constraints
+
+understandable,conditions,larger,code
+the following code is working without any error but my problem is when i create a thumbnail some times thumbnail are non understandable one some conditions such as width is very larger than height i also tried a code for calculate height automatically.but it won t perfectly works
+
+arbitrary,function,fontsize
+the width is more arbitrary than the height but i made it a function of the fontsize and the doubling so i could write the shade names in the rectangles
+
+largest,greater
+if the largest width is greater than the largest height then a
+
+final,viewport,lower
+simple because the viewport has changed due to the keyboard showing and the final viewport has a height lower than width
+
+greater
+its height is greater than width
+
+actual,image,250dp,white
+then it can happen where the height if the actual image is less than the width see attached so here because the fixed height is 250dp there is a lot of white space below the image
+
+result,square,larger
+but the result does not look like a square at all the height seems to be larger than the width
+
+method,image,larger,imageview,new,autolayout
+what i did is in the completion block of downloading image method i check if the image width is larger then i change the imageview to the new imageview with new resized height but i can t make it work with autolayout
+
+imagebutton,rectangle,greater
+although layout_width and layout_height are set to wrap_content the imagebutton is shown as a rectangle with the height greater than the width
+
+fullscreen,wide,greater,sidebar,left
+but if they went fullscreen or wide width is greater than height they would see a sidebar on the left and maybe also the right
+
+landscape,image,greater,portrait,interchange,flag,rotation
+it works as as desired for landscape image width greater than height however for portrait it automatically rotates image and interchange width and height without any flag to get if any rotation has been done
+
+image,layout,higher,screen,incomplete
+i need to force the width when i am adding the image to the layout i mean that the image must be keep the aspect ratio but the image must be higher than the height of the screen and the image must be shown incomplete if the height of the image is higher than the height of the screen
+
+auto,consistent,grid,vertical,scrollbar
+so height auto seems more consistent with the grid based on width and a vertical scrollbar
+
+smaller,normal,verticaladvance,char
+i noticed that the horizontaladvance of the chars f w y a is smaller than their normal width and the verticaladvance of the char is smaller than its height
+
+image,new,bigger,screenshots,show,images
+however after rotating a rectangular image its new width and height is much bigger as these two screenshots should help clarify during rotation and after rotating then rotating again -- the little handles show where the images x y width height extends to
+
+restriction,greater
+in java we have a restriction that width should not greater than height
+
+vertical,layout,bigger
+so basically the small and medium sizes are a vertical layout as the height is bigger than the width
+
+uiimage,larger,border
+i needed to compare the width and the height of the uiimage when width is larger than height i will add border
+
+image,uiimageview,greater,wrong
+my image is then displayed in an uiimageview where the width is greater than the height which makes the image looks wrong
+
+greater,display,none
+if the height is greater than the width turn the display to none
+
+camera,pairs,larger,landscape,usual
+when requesting the preview sizes from the camera you always get pairs where the width is larger than the height because landscape is the usual orientation when taking a picture
+
+div,greater,screen
+i m calculating the width based on the div height if the height is greater than the screen width
+
+svg,larger,1px,change,10px
+since the svg s width is much larger than its height every 1px change in the height of the svg is causing the width to change by about 10px
+
+bigger,size,scale,image,holder
+assuming width is bigger in size then height scale the image width to the holder width
+
+bigger
+that is why width is bigger than height
+
+images,portrait,greater,landscape
+so in the case if i upload 2 images i want to check if the images are portrait height is greater the width or landscape and need to show the images accordingly
+
+orientation,landscape,screen,wider
+hey so you re last media query is just asking for if the screen is orientation landscape which means the width of the screen is wider than the height of the screen
+
+units,scales,correct,aspect
+if the height is less than the width then it leaves the height at 4 units and scales the width to maintain the correct aspect ratio
+
+parent,higher
+parent s height is higher than its width
+
+greater,close,proper,proportion
+if the width is greater than 320 or the height is greater than 480 it should scale in a way so that it becomes as close to 320x480 as possible but by keeping the proper proportion of width to height
+
+img,carousel
+but when the height img is more than 500px or when the img width is more than the width of the carousel the img overflows the carousel
+
+greater,layout,right
+setting height greater than width is needed to get the layout right between browsers
+
+images,whos,larger,background
+what is the best approach to dealing with images whos height is much much larger than their width in regards to covering the background
+
+checks,content,equal,container
+so in code where you perform scaling add condition which checks if the content width or height is less or equal container width or height
+
+centered,circle,blue,div,smaller,image,full
+how do i make perfect centered circle always 100 height of blue div until blue div width because smaller than height and image always covering full circle
+
+larger,math
+if the video height was larger than its width the math is the same
+
+image,ideal,larger,portrait
+such that a landscape image would have an ideal height of 300 or slightly larger with a width 400 and a portrait image would have an ideal width of 400 or slightly larger with a height 300
+
+window,div,smaller,elements,jump
+when i resize my browser window and the div s width becomes smaller the elements inside the div jump below expanding the height
+
+columns,vertical,longer,middle,horizontal,side
+so i am trying to build a website using bootstrap and i am trying to arrange vertical and horizontal videos in a feed with a design where the first 3 and last 3 columns are occupied by a vertical video thus the height being longer than the width and the middle 6 columns being occupied by the horizontal video where the width is the longer side
+
+check,image,greater
+2 for each file check if the image width is greater than the image height
+
+greater
+you may want to check if the width is greater than the height
+
+image,greater,class
+ok so i m trying to see if an image s width is greater than it s height then apply a class if not apply another class
+
+mode,container,larger
+in landscape mode the container s width somehow gets larger than its height as shown below
+
+device,change,smaller,safe,keyboard
+if you rotate the device the width becomes the height and we can ignore the change but if the height gets dramatically smaller while the width remains the same it is safe to assume there is a keyboard being shown and we throw a show keyboard event
+
+brute,box,larger
+i brute forced it a bit with forcing the height of the box to always be larger than the width
+
+vertical,manner,page,longer,footer,blank
+when i try to minimize this page resize it to a size smaller than my screen espicially when it is minimized in a vertical manner where the height of the page is longer than the width the footer becomes blank white and the background-image becomes shorter
+
+larger
+the width should be larger than the height
+
+div,greater
+is there any way using only css to set a div s height to be never greater than its width
+
+data,flag,greater,certain,distortion
+i ve found that if you load an image from the camera roll that is a png pngs have no orientation data flag and the height is greater than the width upon applying certain distortion filters to said image it will rotate and present it self as if it were a landscape image
+
+greater
+it only seems to display when the height is greater than the width
+
+check,image,greater,clockwise
+check if image width is greater than its height and if so rotate image clockwise
+
+equal,bigger,auto,greater,value
+if they are equal or the width is bigger i set those to 100 each and set height as auto whereas if the height is the greater value i set that to 100 and width to auto
+
+bigger
+the reason why i m struggling is that sometimes the width is bigger than the height and sometimes the height is bigger than the width
+
+tricky,parent,div,known
+height is slightly more tricky for it to work you need to have the parent of the overlay div to have a known width
+
+image,bigger,croppingarea
+if the image s width i bigger than its height i want the height of the croppingarea to automatically scale to the height
+
+bigger,portrait
+if the height is bigger than the width it is portrait
+
+image,bigger,condition,true
+as the image width is always bigger than the height this condition always is true
+
+interested,size,dynamic,larger
+i m not interested in the height only the width they won t be the same - the size will be dynamic but i can presume the height will be larger than the width
+
+bin,smaller,bar,large
+if the bin width is smaller than zero the bar height might become very large
+
+model,fitting,aspect,ration
+but the model is not fitting properly when the canvas width is less than height aspect ration less than 1
+
+mean,web,browser,desktop,pc
+does this mean that if or when i resize the width of the web browser on my desktop pc so the width is less than the height of the web browser the portrait.css file will override the current style
+
+window,smaller,orientation,portrait
+when the window width is smaller than its height then the orientation would be considered portrait
+
+code,mistake,correct,equal,greater
+anyway i checked your code ..your mistake that you always calculate knopafmeting based on width that is correct if height is equal or greater than width
+
+photo,full,image,higher,imageview
+i need display photo to fill full width and when image is higher than imageview height it can be scroll up and down
+
+photo,greater
+when working with a landscape photo the photo width is greater than the photo height
+
+portrait,landscape,smaller,former,latter
+in order to do so you need to find out if the svg is portrait or landscape - meaning if the width is smaller than height former or not latter
+
+image,lower,problem
+when i try loading an image whose width is lower than the height there is no problem at all
+
+images,larger,line,error
+for images with height larger than width it s the following line that causes error
+
+resolution,size,bigger,vice,images
+the images can be of any resolution size and the height sometimes is bigger than the width and vice versa for both images
+
+ratio,limit,bigger,image
+there is an image restriction that is not documented or at least i couldn t found anything the aspect ratio limit is 1 3 when the height is bigger than the width on the image
+
+aspect,image
+we can assume that max 30 or more upto 100 can be the zooming effect if aspect image height or width is less than the desired height or width
+
+shorter,position,wrong
+the width is shorter and the height and position is wrong too
+
+image,rectangle,original
+okay so i used one trick pony s solution but tried to modify it to create a square image out of a rectangle if the width is less than the height but not stretch the original image and instead center it
+
+difference,screen,greater
+you can tell the difference by seeing if the screen height is greater than the screen width
+
+greater,ratio,new,old,opposite,example
+if the height is greater than the width get the ratio by dividing the new height with the old one and finally multiply the width with the ratio to get the new width if the width is greater than the height you do the opposite like in the example code below
+
+default,image,view,port,100vw,page,greater,landscape,orientation,background-size
+by default the image width will fill 100 of the view port width 100vw but if the page has a height that is greater than the width or has a landscape orientation the background-size is overridden so that the image height fills 100 of the view port height 100vh
+
+better,image,greater
+so my intuition says that it is better to have an image where the height is much greater than the width
+
+uiimage,greater
+i have a uiimage with its width much greater than its height
+
+vertical,image,greater,config
+my assumption is that the library would take a vertical image see that the height is greater than the width and translate the height width config appropriately so the image remains vertical
+
+max-width,image,greater
+i.e max-width kicks in when image width is greater than height and its height will be calculated proportionally
+
+ratios,vmin,window,smaller
+this should allow you to solve for your concern about aspect ratios i ve tried using vmin but that does not help as the height of the window is almost always smaller than the width
+
+larger,body,top
+if left is larger than body width or top is larger than body height
+
+everytime,image,wider,picture
+what i want to do is that everytime the width of the image is wider than the height of the image i want to rotate the picture by 90 degrees clockwise into landscape layout mode save it on app s documents folder and then present it on the screen - this way the picture of the widescreen tv appears 90 degrees rotated but the image aspect ratio is not totally destroyed
+
+margins,image,larger
+note what i observed is the margins appears only when image width is larger than height
+
+images,interval,larger,dimension,smaller
+the basic idea behind the approach is that you map the coordinates of the images to the interval by dividing by the width assuming the width is the larger dimension but it does not matter if it is smaller than the height
+
+sidebar,content,smaller,full,bellow
+as i understand it you need footer to be on the left side of the sidebar when content height is smaller and full width bellow sidebar when content is higher
+
+image,greater,script,px
+as you can see if image width is greater than height the script first makes image 128 px height
+
+value,maximum,greater,real,true
+its a bool value so if the maximum of width or height is greater than real width then you get true
+
+easy,javascript,greater,signature,portrait
+but it s easy enough using javascript to check whether the height is greater than the width a signature of portrait mode
+
+greater,containers,proportions
+and if their width or height is greater than their containers width or height then make them automatically shrink while keeping their proportions
+
+window,screen,greater,landscape
+so here when you enter multiwindow mode your app s window no longer fits screen - width is greater than height and it is considered as landscape
+
+image,window,previous,experiment
+also i am not posting an image but i tried to set the height and width of the window to 96 in a previous experiment and the height was less than width
+
+header,browser,smaller,10vh,tall
+even though you ve given your header a fixed height of 10vh if one resizes the browser whereby the header s width gets smaller eventually a height 10vh might not be tall enough to contain all of header s content thus it overflows
+
+jquery,larger,vice
+with jquery you can check if height is larger than width and vice versa
+
+gap,greater
+in fact the gap doesn t appear at all when width is greater than height only when height is greater than width
+
+happy,class,image,auto
+i would be happy applying a class with width 100 to the image and a height auto but the height should not be more than the width
+
+viewer,picture,smaller,eye
+i add the detail that opening it only with some software paint picasa viewer ... i see the picture squeezed horizontally of about 50 this way width is smaller than height to my eye too
+
+image,larger,smartphone,screen,proportion
+for example if the image width is much larger than the image height than on smartphone the image will use 100 of the width of the screen and in proportion to that will be the height of the image
+
+image,check,smaller
+it will look at the image height check whether the height is smaller than the width or if the width is smaller than the height and set either one to the smaller height
+
+image,smaller,vice
+i need to resize an image so that if its height is smaller than its width i ll set its height and vice versa
+
+code,smaller,l
+but the code does not function correctly if the width is smaller than the height since l ranges only 1 to
+
+larger,keyboard,event
+when the height gets dramatically larger while width stays the same we throw a hide keyboard event
+
+small,screen,bigger,go,first,design,second
+i can only find adaptivetriggers which take a static minwindowwidth or minwindowheight .but what i need is no matter how big or small the screen is if the height is bigger than the width go with the first design and if the width is bigger go with the second design
+
+window,larger,screen,desktop
+if requested width or height of a window is larger than width or height of a screen desktop the function shrinks the values to the screen sizes
+
+content,screen,scroll,container
+if your content height and width is less the screen height and width in that case scroll will not appear if content got out of container height and width scroll will come
+
+image,square,bigger
+so at first this looks ok but is actually is not all pixels in the image are not square but elongated with their height being bigger than their width
+
+fine,image,larger,landscape,largest,dimension,portrait,600px,size,aspect
+the third url works fine when the image width is larger than the height landscape but when the height is the largest dimension portrait it resizes the height correctly but the width dimension does not get padded to fill the 600px width but instead becomes whatever size is calculated to maintain the aspect ratio
+
+smaller,watermark,image,wont
+so how can i determine a smaller width and height to which i will resize the watermark image something much less than 150 width 20 height so that it will appear still as a watermark and wont mask the image completely
+
+size,whe,greater,proportions
+whenever i resize an image to a desired size there whe width is greater than the height the proportions get screwed
+
+pixel,larger
+the pixel height is larger than the pixel width
+
+property,window,greater
+it test if window.orientation property is supported if it isn t it checks if window height is greater than window width
+
+screen,larger,useless,landscape
+checking if screen width is larger than height is useless in my case because the app always runs in landscape
+
+browser,greater,scrollbar,padding,relative
+if you resize the browser so that the height is greater than the width you will notice that the scrollbar goes away which is because the padding is relative to the width
+
+screen,600px
+on a 5 screen roughly the width is 400px more or less and the height is 600px or more
+
+larger,ratio,x
+if the height is larger than the width the ratio will be y x instad of x y and minimum will be multiplied by ratio for x instead of y
+
+image,greater
+updated to handle cases where image width is greater than height
+
+diameter,dot,aggregation,diamond,larger,line
+the diameter of the dot shall not exceed half the height of the aggregation diamond and shall be larger than the width of the line
+
+format,larger
+and i don t why appears in this format width larger than height
+
+keyboard,large,larger
+not only is height of keyboard so large how can height be larger than width
+
+console,window,larger,argumentoutofrangeexception,.net
+therefore if console window height or width is larger than buffer height or width argumentoutofrangeexception is thrown in .net there is no argumentoutofbounds exception type
+
+true,bigger,original
+if set true then it might increase the width or height if the given width and height are bigger than original width and height
+
+image,narrow,tall,greater
+for example my image width is 10mm but in height it is 300mm so i want it to appear reflecting this so in this case i would expect it to appear very narrow but tall because the height is so much greater than the width
+
+widget,panel,greater,map
+i think you had situation like map widget get added to a panel having width and height greater than width and height of map widget
+
+stylesheet,browser,smaller,styles,ride
+it depends what is your default stylesheet like if you want to tell the browser that when the width is smaller than 700px apply these styles but as soon as the height goes smaller than 600px over ride these styles with these new values
+
+bigger
+you would then need your height to be 2 times bigger than your width
+
+image,higher,new,browser,trick
+once your image have a width higher than height you need to set only the new width and let the browser do the trick with the new height
+
+videos,greater,players,rotation
+but with the videos i m using the width is always greater than the height and players know whether to rotate the video or not based on the rotation exif value
+
+longer,auto
+else if the width is longer than the height you set the width to 500px and the height to auto
+
+ratio,longer,left,right
+your ratio is a little more than one since your width is longer than your height so your left and right boundaries are essentially something like -1.5 and 1.5 whatever your ratio happens to be
+
+image,pixels,smaller
+but the problem is on resizing an image with 1920 x 1200 pixels as the height is much smaller than the width
+
+background,image,bigger
+if the background image s width is bigger than it s height it s width must be 100
+
+orientation,portrait,screen,bigger,soft,keyboard,popup
+using media screen and orientation portrait means that when is the width of the screen bigger then its height and when the soft keyboard popup the width of the screen become bigger than the height so that happen
+
+getimagesize,function,larger,echo,image,tag,style,else
+guys after spending too much time looking around for an easier way to do this i combine the info from research to do it like this simply using the getimagesize function -if the height is larger than the width echo an image tag with a style having a height of 100 else echo the same image tag but with a style having a width of 100
+
+image,zoom,picture,changes,bigger,smaller,iphone,screen
+the image renders but then when i try to pinch zoom in and out only the height of the picture changes bigger or smaller with the width stuck at the iphone screen width
+
+div,max,full,image,higher,+1000px,fit
+i am using an image in a full screen div max height 500px but when applying the full width to the image the image height is much higher +1000px so is there a solution to let this image fit perfectly in the 100 width div with a max height of 500px
+
+kindle,landscape,smaller,definition,real,true
+from my experience every time the kindle fires up my landscape app with a width smaller than the height thus by definition not really giving me a landscape view i just ignore the surface and wait it quickly gives me a a real landscape flipping the height and width so that its a true landscape view
+
+preview,getimagesize,bigger
+photoshop opens it and shows it vertical mac preview does too but getimagesize keeps telling me width is bigger than height
+
+aspect,ratio,larger
+if the aspect ratio is 1 then the height is larger than the width
+
+landscape,image,larger,phone,scale,aspect,ratio
+hi i m working on an application that will be loading images and i m looking to scale each image to it s largest possible size for instance if the image is a landscape image if width is larger than height i would like to stretch the width to fill the width of the phone and scale height to keep it s aspect ratio
+
+current,project,image,number,longer
+to put this in perspective the current project i am working on involves comparing the width and height of an image to get a number to determine if the width is longer than the height or the same
+
+thing,new,smaller,imagetoadd.draw,rectanglef,imagetoadd,value,image,x-value
+this method works great except for one thing if the new height is smaller than the new width the new height and new width successfully get modified but after the imagetoadd.draw rectanglef the size of the imagetoadd still has the new width value instead of the cropped width that is if i can assume that if i draw an image with -20 as its x-value the width gets modified with -20 as well
+
+img,max-width,smaller,image,auto,aspect,set,bigger
+how to set the size of img so that it s max-width is set to 200px if the width is smaller than height the image height is auto in this case to preserve aspect ratio and set max-width to 200px if the width is bigger than height
+
+image,folder,pixels,aspect,landscape,format,higher,equal
+it looks like you want to resize each jpeg image in a folder to a width of 1840 pixels with keeping aspect ratio for images in landscape format width is higher or equal than height
+
+portrait,value,greater,equal,mdash
+the orientation media feature is portrait when the value of the height is greater than or equal to the value of the width mdash
+
+container,greater,image,margin
+therefore assuming the container s width is greater than the image s height margin -50 0 should be enough
+
+circle,perfect
+the circle will stay perfect as long as the width is less than the height
+
+relative,image,greater,x
+i am essentially stating for the div #colorbox if the has the class of cboxphoto then run the each function to add the class of relative to the if the image width is greater than x and it s height is greater than x
+
+innerwidth,innderheight,greater,happy,days
+to do this i have created a function that checks the innerwidth and innderheight and if the width is greater than the height then happy days
+
+device,greater
+device width greater than device height
+
+current,greater,inital,swipe
+if the current height width is greater than inital height width ignore the swipe
+
+device,bigger
+the device width is bigger than its height so it seems to be inverted
+
+orientation,notice,higher,pixels,vertical
+then i have a photo with vertical orientation please notice that height is higher have 6000 pixels and width have 4000 pixels so it is definitely vertical photo
+
+bad,screen,greater,image,white
+somethinghere s solution isn t bad but when the screen s width is greater than its height the image will leave 20 of white space on top and bottom
+
+popular,formats,larger
+most popular video formats are 4 3 or 16 9 so the width is larger then the height
+
+vice,greater
+and vice versa for the width if it greater than height
+
+nathaniel,image,larger
+the solution posted by nathaniel actually fails if the image height is larger than the image width
+
+main,div,1200px,content,larger,border,increase
+your main div has height 1200px and the content are larger than this width so border is not displaying on the content which are overflowing you can check by increase height it will showed
+
+numbers,column,larger,row
+despite them being set to the same numbers the column width is much larger than the row height
+
+example,image,greater
+the second example is an image whose height is greater than its width
+
+image,greater,vice
+i would like to resize the image when the image width is greater than the image height or vice versa
+
+horizontal,picture,300px,database
+how do i determine the picture size if it is a horizontal picture width is more than height width 300px and height 200 then insert into the database
+
+chrome,larger,pixels,constant,px
+chrome however stops displaying the canvas when the height becomes larger than 8130 pixels the width is constant - 834 px
+
+photo,larger,whats,wrong
+i can successfully crop the photo if its height is larger than the width but not otherwise and i just can t see whats wrong
+
+means,ratio,devices,greater,960px
+next means that the ratio of width to height in devices greater than 960px width should be 1 1
+
+longer
+in between 768 1024 and only when height is longer than width
+
+greater,field,arithmetic
+in the other case when the height is greater than the width then the field at and can be calculated using that arithmetic sum and the rhomboid can be imagined as a rectangle with x-value x and y-value y- w-x-1
+
+wider,target,size
+if the width is wider than the height make your target size 500 x 375 otherwise make it 375 x 500
+
+sizetofit,returns,body,text
+how do i make sure that the uilabel when sizetofit is called returns a width that is less than 320 so only the height is scaled to fit the body of the text
+
+bigger
+one where height is bigger than width and one where width is bigger than height
+
+situation,bigger,parent
+this is used in a situation that view s width height is bigger that its parent s width height
+
+dimensions,page,greater
+it looks like a page in landscape because the dimensions of the page are created in such a way that the width is greater than the height
+
+mistake,image,greater,portrait,orientation
+it seems like it would be a mistake to simply check if the image s width is greater than it s height and to rotate it to portrait orientation based on that
+
+maxsizex,greater,maxsizey
+you should first check if maxsizex is greater then the width or the maxsizey is greater than the height
+
+method,display,display.getsize,point,greater,normal,mode
+there may be a better way to do this but a quick and dirty method would be to inspect the display s width and height with display.getsize point point - if the width is greater than the height then normal mode is landscape otherwise portrait
+
+aspect,ratio,larger,square,size,smaller,value
+if the aspect ratio is 1 then width is larger than height so you then need to assume a square the same size as height as it s the smaller value
+
+storyboard,fine,view
+when i run the app the height is more than that i set in my storyboard width is fine but i change the height of the view nowhere
+
+ring,shape,imageview,bigger
+so the ring shape will be cropped if the width of the imageview becomes bigger than the height
+
+program,picture,bigger,mouse,x
+the program does load a picture its width height always bigger than canvas width height and when i make a mouse click on the canvas it returns a x y - coordinates and color grayscale value but it always a coordinates of canvas not an image ones
+
+x,equal,array,y+1
+when x is equal to width and y is less than height you will be writing to the array 0 y+1 cell
+
+icon,greater
+icon s height is greater than width
+
+device,smaller,tablet
+if the device width is smaller than height so the device is a tablet or a mobile phone in standard position and rotation usually
+
+information,images,greater
+i think what you re asking for is how to return the information for all the images where the height is greater than the width
+
+img,tag,wider
+i upload expansion code to show photo by android camera on html as normal on some img tag with right rotaion especially for img tag whose width is wider than height
+
+shapes,couple,pixels,larger,value,computations
+shapes width are a couple of pixels larger than their height and using that value in computations works
+
+greater
+same for width being greater than height
+
+long,condition,greater
+note this holds as long as the condition that the height is always greater than the width is maintained
+
+exchange,x-y,occupied,area,larger
+this algorithm could be optimized if you rotate points or just exchange x-y coordinates so that width of the occupied area is not larger than its height
+
+square,squashed,smaller
+i can rotate it to any angle i want but i want to make the rotated square squashed making the height 2 3 smaller than the width
+
+style,thumb,bigger
+now pen style thumb width is much bigger than height show correctly
+
+exception,window,lesser,image
+everything works as expected with the exception that if the height of the window is lesser than the width the image get cropped even when using contain
+
+viewport,square
+when viewport height is less than width of square
+
+screen,catalog,grid,page,div,unscrollable
+when the screen width hits less that 780px the catalog grid page div just loses its height and the page becomes unscrollable
+
+landscape,orientation,bigger
+landscape orientation is that one where the width is bigger than the height
+
+â,œportraitâ,greater,œlandscapeâ
+turns out â œportraitâ really just means the height is greater than the width and â œlandscapeâ means the width is greater than the height
+
+devices,portrait,bigger
+for photos taken on other devices pass successfully when are rotated to portrait height bigger than width
+
+layout,greater
+i want to change my layout depending on if the width is greater than the height
+
+wrap_content,greater,parent,wide,content
+if a width has been set don t exceed it so if wrap_content is specified and the width is greater than the parent the height will be adjusted else assume you can be as wide as the content
+
+image,bigger
+and the height 100 if the image height is bigger than width
+
+mode,view
+the only way i found to be sure that the view is in landscape mode is to test that the view height is less than the view width
+
+screen,bigger,monitor,landscape
+because the width of the screen is bigger than height on monitor the landscape will scale better
+
+element,explicit,contents
+it applies to window objects but also to scrollable frames and elements with the overflow css property set to scroll or auto when the element s explicit height or width is less than the height or width of its contents
+
+content,wider,vertical,taller
+this will effectively only show scrollbar when needed if horizontal content is wider than width or vertical content is taller than height
+
+image,loads,greater,class,margin
+i have this code for when an image loads in our app and then when the height is greater than the width add a class to bump up the margin
+
+machine,firefox,smaller
+now this works on my desktop machine in firefox if i make the width smaller than the height
+
+object,smaller,pixel,nested,loop,both.
+for example if you know that you have no such object whose width or height is smaller than 50 pixel then you will put 50 as the increment in the nested loop either on width or height or both.
+
+window,longer,correct
+however when i resize the window so that the width is less than the height it no longer renders at the correct x location
+
+adjustment,form,max,value
+this also explains why this adjustment can be more than 0.5 if the height of the form is less than its width the adjustment can be more than 0.5 the max value is width divided by height but in the other case the max value is 0.5
+
+rectangles,longer
+for example detected rectangles should have width which is longer than their height in your case
+
+viewport,nothing
+which means if viewport width is more than 970 and viewport height is more than 0 serve nothing
+
+columns,column,view,port,larger
+i want to have two columns stacked into one column when the height of view port is larger than the width of the view port
+
+device,else,set
+if your video s height width is more than height width of the device set width to be 100 else set height to be 100
+
+images,smaller,margins
+for images having width much smaller than height no margins observed
+
+difference,window,current,lower,element
+now what i want is when difference between window width and current width is lower then 6 i want to change height of my element
+
+filter,images,greater,class
+alternatively you can use jquery filter method to filter all the images which have width greater than height and then add the required class at once
+
+bigger
+if the height could be bigger than width you can add
+
+page,smaller,portrait
+one page is a page of which the width is smaller than the height sounds like it s a page in portrait but as there s a rotate value of 90 added to the page dictionary it is shown in landscape
+
+portrait,viewport,higher
+vh for portrait orientation since in portrait the viewport height is higher than its width
+
+variations,lower,depth,variation,highest,lowest
+you do this by dismissing all variations where the width is lower than the depth so for each i w i d i and then dismissing the variation where the height is not the highest nor the lowest of the three dimensions because the other two variations can go one on top of the other and this one can t join in
+
+div,body,overflow,auto,padding,larger,scroll,bar
+if you want a pure css option i believe an absolute positioned div inside the body with width and height of 100 overflow auto and right padding larger than the width of a scroll bar will replace the normal scrollbar without shifting the content to the left on long pages
+
+position,screen,smaller,820px
+i want to add media queries for a div to change position when the screen width is smaller than 820px and or height smaller than 615px so i made this
+
+size,device
+if the width size is more than height size then the device is a tablet otherwise is a phone
+
+cboxphoto,function,class,relative,image,greater
+i am essentially trying to state if an has the class of cboxphoto then run the each function is for detecting the height width and add the class of relative if the image width is greater than it s height
+
+thing,uiimageview,images,server,greater,image
+i have one issue regarding uiimageview and uiimage i get confuse on 1 thing ie my uiimageview height 759 and width 748 and i am downloading the images from server that height and width is so so greater such as image height 2048 and width 2500
+
+universal,storyboard,ratio,greater
+what i don t understand is the width is 600 on the universal storyboard so how do i then get the ratio of the height being 33 greater than the width
+
+original,image,higher,surprise
+the original image height is higher than its width woo no surprise so far
+
+firebase,database,larger,maximum,image,notification,iâ
+first if a notification image is displayed from my firebase database and the height is larger than the width and also the height exceeds the maximum image height for the notification iâ m not sure specifically what this is the image is compressed vertically and the aspect ratio is incorrect
+
+images,b,greater
+so i am trying to figure out a situation where i would populate an array with the index numbers from another array whose elements meet a certain criteria array b would be index numbers based on array a which is an array of images and would populate b when width is greater than height
+
+image,input.but,bigger,text,box.on,input,size
+i tried to add class and added the background image for that input.but the height and width is aligned bigger than the text box.on trying to change the height the input size reduced as the background img is inside the input
+
+ratio,window,greater,image,issues
+as long as the ratio of the window s height width is greater than the image s height width you won t have any issues but once the window s ratio is smaller than the image s ratio you ll see that whitespace
+
+screen,size,greater,landscape,mode
+we next tried to just look at the actual screen size assuming that when width was greater than height we were in landscape mode
+
+image,greater
+if the height of the image is greater than the width of the image clicked then this means that you have taken the image in portrait mode
+
+images,match_parent,wrap_content,results,image,picture,lower,typical
+here is how the regular imageview handles resizing of images if you are using match_parent as width and wrap_content as height i tested with both as match_parent and the results were the same it will not scale the image if the height of your picture is lower than the width which is quite typical
+
+smaller,100px,works
+width should be smaller than height at about 100px - the all works fine
+
+scales,users,larger
+i have a fullscreen image standard 16 9 that scales proportionally unless the users height is larger then the width
+
+rotation,transformation,bigger,scaling
+it will also automatically apply a 90 degree rotation transformation if the width is bigger than the height before applying any scaling
+
+red,window
+which will paint all the text red when the window width is less than its height
+
+element,big,bigger,image,setting
+width and height of the canvas element need to be as big or bigger than the width and height of the image which i wasn t setting when i created the image object
+
+bigger
+just check if the height is bigger then the width thus portait
+
+check,image,bigger
+check if the image s width is bigger than its height
+
+window,value
+if the window width is above 1280 i would like the value for the height to be 515 and if it is below 1280 i would like the height to be 615 and if the width is less than 480 make the height 715
+
+greater,new
+height is greater than 200 we need to calculate the new width and
+
+visible,viewport,orientation
+since the height width is calculated on the visible viewport the soft keyboard apparently causes the orientation to flip now that the viewport width is less than the height
+
+browser,window,greater,orientation,landscape
+this will check if the width of the browser window is greater than the height orientation landscape will do the opposite
+
+rectangle,larger,low-level,graphics
+to draw a crossed rectangle of height 2 times larger than its width using the low-level graphics package facilities i call
+
+portrait,greater
+it is regarded as portrait if the height is greater than the width
+
+bounds,value,greater
+for example when rotating from portrait to landscape the collection view bounds value still has its height greater than the width
+
+image,side,larger,div,overflow
+when resizing the image if the width side is larger than the height resize the image so that the image height is the div s height and hide the width overflow after centering
+
+circle,.bublina,smaller,thats,border-radius
+in your case in the 3rd circle the height and width of .bublina not same height is smaller than width thats why border-radius 100 is not making it circle
+
+wider,shorter
+where the width is wider and the height is shorter than 44
+
+parent,greater,child
+so if the parent s height is greater than the width then the child is limited by the parent s width and if the parent s width is greater than the height then the child is limited by the height
+
+ckeditor,200px,300px,user,able,content
+suppose if the ckeditor height is 200px and width is 300px then end user should not be able to add more content with height and width
+
+form,small,smaller
+when i resize a borderless form to a small width and height it won t get smaller than width 132 height 38
+
+portrait,bigger
+portrait height is bigger than width
+
+stage,onenterframe,bigger,portrait,landscape
+or continuously check the stage width height in onenterframe update and if height is bigger than width portrait else landscape
+
+taller,wide,greater
+documents are most likely to be in portrait format taller than they are wide so if the height is greater than the width then do don t have to do anything
+
+container,green,vertical,black,wrapper,larger
+the goal is to have the top wrapper container green to take on the height of the vertical black wrapper and the left column wrapper to be no larger than the width of the rotated black wrapper
+
+image,square
+it works fine when the image is square or the width is not too much more than the height
+
+figure,image,smaller
+i figure it has something to do with an image which has a width smaller than its height
+
+orientation,screen
+i expect that in portrait orientation screen width is less then height
+
+reading,report,smaller,printout,landscape
+i seem to remember reading somewhere that if report height is smaller than width printout is automatically rotated to landscape
+
+control,size,suitable
+then when the width or height of the control is less than width or height of given size the suitable scrollbar will be shown
+
+larger,itâ,landscape
+if the width is larger than the height itâ s in landscape mode.
+
+values,longer
+switch the values of the width and height so that the width is longer than the height
+
+greater
+if the width is greater than the height
+
+position,camera,greater,room
+my code might be a bit off and only for one side of the room but conceptually you are checking if your camera position modified by an offset based on camera width or height is greater or less than the room position modified by an offset based on room width or height
+
+larger,scrollview
+if you want it to scroll the width and height must be larger than the width and height of the scrollview itself
+
+code,fitellipse,ellipse,larger
+you can see in the opencv source code for fitellipse that the height of the ellipse is always larger than the width
+
+image,larger
+i am trying to resize the image based on if the height is larger than the width or width height
+
+images,image,greater
+i have few images thats being displayed now there are some images where the width of the image is greater than the height of the image
+
+image,smaller,class,portrait
+if the image that s inside has a width that s smaller than its height add class portrait
+
+landscape,bigger
+landscape width is bigger than height
+
+menu,open,greater,screen,code
+i m just trying to keep the menu open when the width is greater than the height of the screen by using the following code
+
+mode,window,main,factor
+but is it dangerous to assume that while working in landscape mode the window height will always be less than window width and therefore making it the main constraining factor
+
+videos,greater,container,screen
+however videos with height greater than the width the video container stretches vertically and goes off screen and the video looks choppy and zoomed
+
+scenario,image,elements,advance,greater,amount,new
+given a scenario where you don t know the height and width of image elements in advance let s say that in cases where image height is greater than image width you d like to vertically center the image by cropping the same amount of pixels form its top and bottom such that the new image height matches the image width
+
+matrix,p,determinant,pp
+the main reason is when you use non-square matrix p where height is less than width determinant of the pp always has a zero value but because of a calc error it s
+
+sides,greater
+both of the sides move toward it but in this case never reach it since the width 100 is greater than the height 30
+
+code,j,lines,range
+if you look at your code you always use i + - 1 width + j + - 1 so everything will be ok for the lines where i is less than the height but everything else is going to be out of range
+
+full,screen,image,parts,higher,javascript,job
+firefox desktop and mobile showing the images with full screen width but cutting out the image parts which is higher than screen height javascript doing his job without problem
+
+example,image,greater
+the first example is an image whose width is greater than its height
+
+image,equal,ahd,greater,vice,trouble
+it works fine if the image has equal width ahd height but when the width is greater than the height or vice versa then the trouble comes in
+
+code,fiddle,greater,completeness
+see code below and fiddle - i ve added the case where the height is greater than the width too for completeness
+
+device,orientation,smaller
+portait in a mobile device is that orientation where the width is smaller than the height
+
+problem,displays,bigger,area
+of course this would have the problem that in displays where the width is bigger than the height there will be an area not covered by the video
+
+default,box,container,cannot,greater,parent
+by default the width and height of a box or container cannot be greater than the width and height of its parent container because the box won t fit
+
+document,smaller,mediabox,rectangle
+in this case you create a document of which the width is smaller than the height the mediabox is defined as a rectangle in portrait but you rotate that page adding a rotate entry equal to 90 to the page dictionary
+
+padding-top,respect,outer,div,larger
+i m currently using a before element with padding-top 56.25 which works only with respect to the width of the outer div and overflows the outer div if the width is much larger than the height
+
+image,type
+the image height is probably going to be less than the width and really just depends on what type of image you are using and how tall you want the carousel image to be
+
+element,offset,cannot,larger,attributes
+if you set the width and height of the element and set the offset to any size the same size for both left and right or top and bottom it will be centered because the element cannot get any larger than its width and height attributes
+
+background,image,window,smaller,actual,photo
+when the window is resized the background image shrinks in height once the window is adjusted smaller than the width of the actual photo
+
+becouse,window,greater
+i suppose that it is happening becouse when the keyboard is opened it resizes the browser window to other size that on some devices is recognized as landscape becouse window width is greater than window height
+
+container,browser,greater
+i m using a resize function to wrap a div with a container when the browser width is less than 801px or the height is greater than the width
+
+bigger,auto
+and when the width is bigger than the height the height 100 width auto
+
+css,.character,narrower,portrait,view
+also your css for .character has the width 170 narrower than the height 245 which would be a portrait view but your example shows a landscape view
+
+images,portrait,image
+but the problem i am facing is some images are portrait but the width of image is more than height
+
+smaller,side,larger,landscape,sets
+portrait mode sets the smaller side as the width and larger side as height for example 9 16 landscape the sets the larger side as the width and smaller side as height 16 9
+
+image,background,pixels,x
+i feel that the image background s width looks more than 400 pixels say x and the height is also more than 400 pixels say y
+
+ints,view
+height and width are both ints so if width is more than height so you are setting your view height to 0
+
+viewport,larger
+is the height of the viewport larger than the width
+
+greater,calculations
+the width is greater than the height so our calculations are
+
+element,greater,container,offsetleft,bigger
+to generalize this approach you could try and check whether the offsettop of an element is greater than the height of the container or the offsetleft is bigger than the width
+
+image,fix,div,smaller
+in second scenario i will display image in fix width and height div which will be smaller than image width and height
+
+size,filters,image,photos,camera,grater,length,problem
+make sure the image size before apply filters means width should be less than height because image photos taken from front camera have grater width than length that may cause problem after applying filters
+
+image,greater,method
+if i have an image whose width is greater than its height rotating that image using this method and then painting it will result in the image being painted vertically above the point 0 0 and horizontally to the right of the point 0 0
+
+fixed,position,window,full,page
+i have a div with fixed position and height width is more than the window height width then full page is not appearing
+
+particular,thumbnail,greater,new,layout
+for once particular thumbnail i d like the width to be greater than the height because i want to go for this new layout
+
+getscrollabletracksviewportheight,true,parent,false
+implement getscrollabletracksviewportheight width to return true if height width is less than parent height width and false otherwise
+
+images,left-top,corner
+i am trying to rotate some images whose width is more than height about the left-top corner by 90 degrees
+
+greater,landscape,mode
+if width is greater than height then you ll most probably in landscape mode
+
+screen,larger,first,launch
+you can also see if the screen width is larger than the screen height since sometimes especially on first launch of the app it will be uideviceorientationunknown
+
+layout,landscape,smaller,longer
+if the screen is layout is changed to landscape as you know the height is smaller and width is longer in landscape mode
+
+larger,things,perfect
+when the height is larger than the width - things are perfect like this
+
+greater,set,auto,stretch
+when height is greater than width set width and auto stretch height
+
+smaller,trick
+since your height is smaller than the width it should do the trick
+
+row,single,column,source,columnâ
+if the row height is more than that for a single row i would increase the column width until the row height matched that for a single row and then adjust the source columnâ s width to match
+
+original,file,greater,element,auto,mind
+and i m just having trouble saying if the image original file s width is greater than the height then we need the height to expand to the height of the surrounding element and put the width at auto so it doesn t get squished but keeping in mind that the client can upload any image size they want with no restrictions of must be 350x350
+
+sides,divs,bigger
+the current solution works for shapes with equal sides but my divs are not like that their width are bigger than their height
+
+images,problem,greater
+its working fine for square images the problem is when width is greater than height
+
+vmin,window,smaller
+i ve tried using vmin but that does not help as the height of the window is almost always smaller than the width
+
+element,explicit
+the element s explicit height or width is less than the height or
+
+problem,picture
+the problem is when i try to upload a picture that has height more than width such as
+
+return,larger,dimension
+width return a larger dimension than height which is not correct
+
+row,table,smaller
+on devices like the droid the bottom row is squinched in because the table width is smaller than the height
+
+value,minimum,item,content,guaranteeing
+for flex items the auto attribute value calculates the minimum width height of the item to be no less than the width height of its content guaranteeing that the item is rendered large enough to hold the content
+
+image,bottom
+that is to say i want to stretch my image so that the width correspond so that would be an image of 15 90 but i do not want the height to stretch more than the width so the bottom of my image will not appear
+
+works,600px,conditions
+works very well but only happens if the width is less than 600px and the height is less 400px the two conditions have to match
+
+form,contentpane,smaller,images,better,option
+in case your form contentpane s width height is smaller than the images width height than a better option would be use
+
+image,ratio,greater,equal,black
+if the image height width ratio is not greater than or equal to imageview height width ratio then there will be black space shown as there will be less ratio to match to the imageview
+
+bigger
+if height is bigger than the width it s height won t be 100 only it s width in all cases will be 100
+
+proportional,problem,bigger
+so this will make width proportional with the height that is set but the problem is when the width is bigger than height
+
+size,larger,area,number,spectral,lines
+this could happen if your fft size is much larger than the height of the drawing area or the number of spectral lines is a lot more than its width
+
+landscape,smaller
+in landscape the height is smaller than the width
+
+compact,greater,label,screen
+while compact the width is actually greater than the height so was pushing your label off the screen
+
+parent,control,text,fontsize,image,size,button.i,portions,button,contentcontrol,boundary.how
+i have a wpf button.the contentcontrol inside this button contains other ui elements like textblock images etc.when i increase the font size of the textblock or the image etc or i change the text inside textblock then some portion of the text and image can sometimes be seen overflowing outside the button s ie parent control height and width if the text fontsize or image size is more than the height and width of this button.i want to hide these overflowing portions of the text and image controls ie which only the portions of the textblock and image which lie outside the button contentcontrol s height and width boundary.how can i do this
+
+mode,screen,taller
+everything seems good until i previewed the website on an ipad iphone portrait mode where the screen height is much taller than its width
+
+100vw,scrollbar,page,content,higher,window,annoying,horizontal
+unfortunately 100vw includes scrollbar width so if page content is higher than window height the annoying horizontal scrollbar appears
+
+landscape,viewport,higher
+vw for landscape orientation since in landscape the viewport width is higher than its height
+
+image,greater,set,value,auto,stretch
+when width of the image is greater than height set height to a fixed value and auto stretch width
+
+overflow,point,higher
+if your element is rectangle as is yours in the example it will overflow at some point for the width is higher than the height
+
+print,paper,small,sm,table
+the question s if i am currently looking at a desktop lg and the print paper width is more like small sm can i get the height of the table as if it were sm
+
+odd,greater
+so it s even more odd that the width is greater than the height when it should be the other way around
+
+auto,ascpet,ratio
+so never height is more than 150px and width is auto to this height to keep it s ascpet ratio and also fit in this div
+
+dimension,figure,greater
+assuming that the units are the same you ll probably want to set the radius based on the y-data dimension because your figure width is greater than the figure height
+
+source,slider,window,greater
+i thought i d use another image source for my slider when the height of the window is greater than its width
+
+font,space,taller,verdana,characters,requirements
+in that font the zero width space is taller than verdana characters are causing added height requirements
+
+rectangle,screen,smaller,size
+i have a view where i need to place an uiimageview and i was told to place it inside a rectangle that takes the screen width and its height is smaller than width fixed size
+
+landscape,higher,image
+surely it s not working and it detect it as landscape because width higher than height but in fact image need to rotate
+
+need,images,dpi,75dpi
+i am in need of this if any images has more than 300 width or more than 100 height i want to convert it to width 300 width and 100 height with changing above dpi 75dpi
+
+larger,auto
+in other way if width is larger than height it should be width 100 height auto
+
+images,greater
+i have images that have height much greater than width
+
+boxes,max-height,bigger
+note that i am using jquery to set these boxes max-height so they will never have the height bigger than the width
+
+resolution,change,larger,vice,layout
+i tried changing the screen resolution in a virtual machine orientation change is really just a screen resolution change that results in width being larger than height or vice versa and could not trigger any layout events
+
+bigger,smaller,draw,visibility
+if the height is bigger smaller than width don t draw or set visibility false
+
+greater
+if the width is greater than the height then and
+
+bitmap,data,look,numbers,image,alistair3408
+bitmap data always has a width and a height just take a look at the numbers and if the width is less than the height rotate the image as per alistair3408 s answer
+
+image,large
+if the first image is large like this one where the height is more and width is less it would look like this
+
+scale,images,larger
+scale does not work for images where the height is larger than the width
+
+landscape,greater
+it is regarded as landscape if the width is greater than the height
+
+document,greater,browser,center,relation
+my document s width is greater than the browser s height so i can t center it vertically in relation to the document
+
+new,emulator
+as per your expectation create a new emulator with height 800 more than the width 480
+
+approach,element,default,surface,browser
+now usually with this approach when the element width and height is more than the default width and height of the drawing surface what the browser does is it scales up the drawing surface to find the canvas element size
+
+emulator,right,screen,greater,views,frames
+in ios emulator works all right width of screen is greater than height views frames and bounds are as shown
+
+report,size,bigger,landscape
+i have report with width size is bigger than height size like landscape but set to portrait in format - page format ireport
+
+container,image,screw,background
+as your container height is less then the image you have to rely on this otherwise set width height screw background image
+
+image,bigger
+the image is exaggerated in that it s width is normally bigger than its height
+
+div,images,bigger,left,margin
+what i want it to do is to center a given image from a database into a div for example if the given images width is bigger than height it echos it with a left margin
+
+first,image,div,applies,next,checks,class
+the first one keeps checking if the image height is less than the div and applies .fillheight class while the next checks for width and applies .fillwidth class
+
+display,image
+my imade doesnt display when the image height is less than 981pz width is less than 477pz
+
+images,greater
+i want this to show images whose height is greater than the width
+
+resolution,greater
+if the height in resolution is greater than its width how do i achieve it
+
+size
+i have the size to 10 less than the width and 10 less than the height
+
+desktop,resolution,pixels,irrelevant
+update 1 upon further testing this problem occurs only when the desktop resolution height is less than 942 pixels width is irrelevant
+
+close,finding,greater,left,position
+it s close - i m finding if height is greater than width the left position of the rotated image is incorrect
+
+page,design,larger
+inside default mainpage you can override constructor and load page with another design if height is larger than width
+
+demo,documentation,greater,range,slider
+the caption for the vertical slider demo in the ie documentation erroneously indicates that setting height greater than width will display a range slider vertically but this does not work
+
+whole,screen,result,landscape
+if your collection view occupies whole screen then you can simply check if width is more than height and take the result as landscape orientation
+
+browser,window,larger,media,portrait
+as they say above you can resize your browser window to have the height be larger than the width so then the media portrait is true
+
+ratio
+i guess it s because the height to width ratio is more than 4 3 so it s cropping the height to give a width of 300
+
+larger,window,portrait
+if the height is larger than the width the window is in portrait mode
+
+test,rectangles,window,clear
+this code should draw the test rectangles only when the height is less than the width and otherwise the window should remain clear
+
+new,column,greater
+add a new column until width is greater than height
+
+logic,checks,greater,fine
+to explain the logic all it does is sets the width to 100 and checks if it s height is greater if it isn t then width 100 is fine
+
+background,image,larger,vice
+what should i modify to make the background image s width 100 when it s width is larger than the height and vice versa
+
+bigger,landscape,desktop
+it seems to work by seeing if the width is bigger then the height landscape so it also works on desktop really well
+
+greater,smaller
+inversely if the width is greater the generated height will be slightly smaller
+
+degrees
+if the height is less than the width then rotate through 90 degrees
+
+portrait,smaller
+in portrait view the width is smaller than the height
+
+image,landscape,larger
+i figured that if the image was actually in landscape then it was appearing stretched and truncated because it s width was larger than its height
+
+dimensions,pdf,bigger,matter
+i found this how to detect the orientation of a pdf document in iphone sdk - but when i try to get the dimensions of the pdf the height is always bigger than the width no matter what orientation the pdf has.
+
+greater,css
+after that in my case if the width is greater than the height i set the the height to 100 in css and if the height is greater than the width i set the width to 100
+
+details,larger,event
+in details height is getting larger than expected and event more than width
+
+browser,size
+i extracted the solution from media query for browser size where width is less than height
+
+click,event,value,animation,time,delay,equal,bigger
+...then using the animate on click event you could give the height a value and animation time the width a delay equal o bigger than the height animation time and then it s value...that should do the trick but it s more stiff than actually using the ui
+
+picture,shape,ratio,greater,threshold,aspect,visaversa
+once the image is loaded into a new picture shape and renamed i want to based on whether the width to height ratio is greater than a threshold resize its width keeping aspect ratio then crop the remaining down to the height and visaversa
+
+answers,container,greater,scenario
+i ve seen similar questions asked here before but the answers all seemed to assume that the container s width would be greater than its height - something that is not guaranteed in my scenario
+
+background,image,bigger
+if the background image s height is bigger than it s width it s height must be 100
+
+picture,vertical,greater
+if the picture is vertical the height should be greater than the width
+
+rotated.but,image,bigger,problem
+in picturebox i saw this image left rotated.but if image width is bigger than height there is no problem
+
+axis,screen,wider,image
+because if you do that then if you tell opengl to draw a square it will appear as a rectangle on the screen instead if you don t have your x axis edges be larger than your y axis edges when your screen width is wider than your screen height as suggested by the image
+
+image,imageviews,greater
+you just perform the apply the aspect ratio of the image to the imageviews height and if it s greater than the width set it to the width
+
+longer,auto
+then if the height is longer than the width you set the height to 500px and set the width to auto
+
+image,ratio,larger,method
+if you have an image which has a ratio like 16 9 so the width is larger than the height use the method above
+
+advice,bigger,picture,landscape
+i would advice to check if the width is bigger than the height of the picture taken landscape picture and if that is the case show an alert to the users to explain that just portrait pictures are supported
+
+image,greater,maxheight,maxwidth
+and if the image s height is greater than maxheight or the width is greater than maxwidth i d like to proportionally resize the image so that it fits in maxwidth x maxheight
+
+image,box
+if i put image height is more than width i can fill the box easily
+
+image,wider,shorter
+if i shrink the width then the image s width gets wider and if i shrink the height the image gets shorter
+
+dimensions,image,smaller,uiimageview,larger,proportions,different
+as you can already see from these dimensions the captured image s width is smaller than its height whereas the uiimageview s width is larger than its height - the proportions are different
+
+font.getsize,text,pixels,word,greater,image
+font.getsize text return the width and the height in pixels of the text so my method splits the string in words and verify if the word is greater than the width of the image if not i concatenate the word in a variable
+
+image,greater
+1 if image s height is greater than width then its height will be 300
+
+review,image,greater
+upon further review it appears to only occur when the image height is greater than the width
+
+bigger,smaller,container,stretch,side
+if your height is bigger and width is smaller than container width will be stretch to 100 and height will be trimmed from both side
+
+sizes,site,greater,vice
+i have various different image sizes running through the site - some where the width is greater than height and vice versa
+
+greater
+likewise if the height is greater than the width and
+
+actual,visible
+the problem is that layer.bounds still returns 200x200 for the layer but because of the perspective transformation the actual visible width is less and the height more than 200
+
+button,higher
+the button height is higher than it s width go to step 2
+
+onsurfacechanged,greater,orientation,technique
+in onsurfacechanged you can check if your width is greater than your height and if it is you can query the orientation using the technique shown here
+
+original,image,greater,camera+...the,exact
+what s odd is that usually this doesn t happen - so far i ve only encountered this error when the original image has height greater than width and it has been filtered by another app called camera+...the exact same photo before filtering causes no problems and a filtered landscape photo also seems to be fine
+
+bound,greater,applet,random,example.
+basically you need to create a random x position with the an upper bound no greater than the width of the applet and a random y position with an upper bound no greater than the height of the applet for example.
+
+picture,landscape,greater
+that will let you know if the picture is landscape because width would be greater than height
+
+screen,greater,md,elements,minimum,420px,magic
+when the screen width is greater than the md breakpoint in bootstrap give all the elements with panel-body class which are direct descendants of the column elements a minimum height of 420px which happens to be a magic number that works with your existing content
+
+image,smaller,crops
+however if the image width is far smaller than the height the image is centered which crops the top
+
+image,source,bigger,parameters,ratio
+ps the image source width and height is always bigger than the width and height parameters and the width and height ratio is being preserved
+
+image,larger
+this is for the case when the height of the image is larger than the width
+
+consequence,images,larger,transpose,original
+but since i want a portrait preview i need to rotate the image and as a consequence i get images with an height much larger than the width the transpose of the original image i guess
+
+window,current,bigger,horizontal,split
+i know emacs tries to be intellectual and opens its helper buffers depending on which dimension of the window is bigger so it may appear in vertical split window if current width is bigger than height and in horizontal split otherwise
+
+image,larger,device,screen
+in case the image s width height is larger than the device s screen width height i want to crop the image so it matches the device dimensions see picture below
+
+content,better,approach
+managing the content via width is a better approach you don t really need to know the height
+
+viewport,field,size
+however if the viewport width is less than the height i want the field size to update accordingly and keep the 1 1 ratio
+
+device,greater
+device height greater than device width
+
+picture,portrait,greater,output,behavior
+when the picture is portrait height is greater than width the output is automatically rotated how can i prevent this behavior
+
+viewport,larger
+is the width of the viewport larger than the height
+
+trail,constraints,bigger,lead
+while on portrait you should set trail and lead constraints as your height is bigger than the width so if you set 0 for trail and lead and 1 1 ratio you are safe that it will fit beautifully
+
+issue,window,i.e,mobile,header,54px
+my issue is when the window width is less than 767 i.e mobile device i need the offset variable to be 54px as i have made my fixed header 54px height
+
+relative,image,greater,x
+i am essentially stating if an has the class of cboxphoto then run the each function to add the class of relative if the image width is greater than x it s height is greater than x
+
+greater
+first set height greater than width
+
+image,gridview,aspect,ratio,crop,smaller
+this should fit the image to the height of the gridview maintaining the aspect ratio and crop the remaining width unless the image s width is smaller than that of the gridview when the height is matched
+
+device-height,style,greater,vice
+my ultimate question for this post is can i specify some form of expression in a media query in css that will simply compare the device-width and device-height and display one style when the width is greater than height and vice versa
+
+image,larger,landscape,pixels,scale,appropriate,value
+if image width is larger than height landscape then scale the height to 1024 pixels and scale the width to appropriate value to maintain aspect ratio
+
+object,document,percentage
+as you can see what s happening here is sometimes the object falling out of the document because the width or height of it + the randomized percentage is more than document width or height
+
+window,larger
+that will also works if the height of the window is larger than the width
+
+absolute,difference,larger,percentage,higher
+in this example the absolute difference in width is larger but the percentage difference in height is higher
+
+greater,landscape,orientation
+if width is greater then height then it is landscape orientation and it converts all the values under landscape column into json
+
+images,length,greater,px
+basically i have about 30 images with varying height and length not greater than 750px width and 500 px height
+
+image,bigger
+i have an image where the width is bigger than height
+
+records,autocompletetext,vertical,scrollbar,bigger
+when text records in autocompletetext are more than its height automatically vertical scrollbar appears but why when length of text is bigger than autocompletetext width scrollbar doesn t appear
+
+problem,window,larger,grid
+the problem is when the window s height is larger than it s width the grid inside the window gets clipped
+
+orientation,window
+judging by these i would assume that in landscape orientation the window height will be less than window width
+
+array,books,greater,equal
+now i want an array which contain those books id s which their height is greater than or equal to their width
+
+image,greater
+so the problem is the javascript is not adding class from the image if image height greater than the width
+
+orientation,portrait,size,higher
+i want set page orientation to portrait with width size is higher than height size
+
+page,smaller
+the other page isn t rotated but it has a height that is smaller than the width
+
+vw,viewport,vh,vmin,relative,smaller,vmax,larger,length
+this can be done using pure css using the vw viewport width vh viewport height vmin relative to width or height whichever is smaller vmax relative to width or height whichever is larger length units
+
+greater,middle,centered
+if the height is greater than the width it will auto-calculate the middle and give you a perfectly centered square
+
+project,glsurfaceview,equal,bigger,particles,work
+i am using liquid fun library for my android project when i have my glsurfaceview width equal to or bigger than the height everything works well but when i set height bigger than the width the particles rendering doesn t work well
+
+bigger,landscape
+if the width is bigger then the height landscape
+
+image,larger
+and i just recently found out that the above applies only to image whose width is larger than height
+
+greater
+so if the width was greater than the height doing
+
+fix,image,bigger
+for a quick fix you can check if image s width is bigger than image s height
+
+size,method,greater,landscape,mode
+any suggestions on how to obtain the current size to pass to the method below in which the width would be greater than the height since its in landscape mode
+
+vertical,slider,greater
+as of today no browser implements a vertical slider based solely on height being greater than width
+
+version,500px,image,aspect,smaller
+this version gives me a fixed 500px height and an image that looses aspect ratio when viewport is smaller than image width
+
+higher,threshold,panels,additional,righttoppanel,faster,rightbottompanel,jframe
+when the height is higher than this threshold both right panels gain additional width and the righttoppanel loses its height much faster than the rightbottompanel when decreasing height of jframe
+
+bigger
+if width goes bigger height will goes bigger
+
+comments,references,greater,browser,orientation
+i ve found some comments and references that seem to indicate that setting the height greater than the width will cause the browser to change the orientation automatically but in my testing that only works in opera used to work in opera but not anymore
+
+window,ls,scrollbar
+if the height of window ls less than width 2 scrollbar of window is enabled
+
+sizes,matter,greater,images,100px,different,image
+okay here is the problem i have images of different sizes but that doesn t really matter because their width is always greater then their height and all images are resized to a 100px width height still is different in each image
+
+portrait
+if the height is more than the width then it is portrait
+
+narrow,bigger
+make it very narrow and while its height is bigger than the desired one keep increasing width
+
+media,screen,greater
+media screen and width greater than height
+
+second,example,greater,window,25px
+taking the second example the height will not be greater than the width until after you ve shrunk the window horizontally 25px 350 - 325 beyond the point where the image starts to shrink
+
+smaller,device,screen
+but the video height and width is smaller then then device screen height width
+
+imageview,rectangular,so.
+in retrospect what you re trying to do will not get you to make the imageview circular because the default imageview is rectangular the height is always more than the width and so.
+
+sequence,value,depth
+in this case i obviously would like to find the height sequence because the value 60 stands out more than the width or the depth
+
+greater,top,position
+similarly if width is greater than height the top position of the rotated image is incorrect
+
+phone,portrait,landscape,images,longer
+the following works perfectly with my phone in portrait the width fits but when i flip to landscape the width still fits perfectly but the images are longer than the height
+
+user,screen
+it works up to the point where the user s screen height is less than the width
+
+bitmap,greater,image,landscape
+if the width of the bitmap is greater than the height the returned image is in landscape so i rotate it 90 degrees
+
+pictures,biggest,worth,bigger
+now i want to order this array by the pictures with the biggest width worth and where the width is bigger than the height
+
+aspect,ratio,larger,contours,minarearect
+all of the labels have the same aspect ratio the width is 3.5 times larger than the height so i m trying to find contours that have a minarearect with that same aspect ratio
+
+greater,landscape
+if width is greater than height it is landscape
+
+dimension,pixels,bigger
+now you should have square cell - as you see those dimension are not pixels and height must be bigger than width
+
+image,greater,landscape
+if the width of the image is greater than its height landscape
+
+left,right,larger,top,bottom
+alternately you could make use of background-size contain it would preserve the aspect ratio but it will leave white space on the left and right if the width is larger or on the top and bottom if the height is larger
+
+spinner,container,larger
+the asymmetry might ve been caused by the dimensions of the spinner container .round where its width was 2px larger than its height
+
+elements,smaller,circles,larger,original
+elements smaller than height or width is less than 2000px will become circles elements larger than height or width is more than 2000px will not become circles but rather stay their original shapes but have largely rounded corners
+
+def,randomrects,top,left,corner
+i have a function def randomrects x y width height x y is the top left corner and width must be less than 90 height less than 70
+
+orientation,device,greater,viewwillappear
+you can infer the device orientation if the device width is greater than device height in viewwillappear
+
+medium,larger,default,landscape
+when the medium width becomes larger than its height then it would be the default landscape size
+
+uiscrollview,contentsize,property,larger,frame
+again a uiscrollview will not scroll in height width unless the contentsize property s height width is larger than its frame property height width
+
+javascript,greater,vice
+as far as i can tell the javascript is only detecting when the height grows greater than the width and vice versa
+
+bigger,code,work
+if width is bigger than height this code won t work
+
+boxes,person,greater,car
+since you want to track cars a simpler approach is based on the consideration that a person is smaller than a car or that with reference to their bounding boxes for a person usually the height is greater than the width usually a person is standing or walking for a car is the other way around
+
+function,image,bigger,max
+on every image load a call this function with image and resize if its width or height is bigger than my max width and max height
+
+intersection,greater,horizontal,collision
+if the intersection height is greater that the intersection width then it is a horizontal collision
+
+larger,itâ,landscape
+if the width is larger than the height itâ s in landscape mode
+
+clock,viewport,greater
+we now have a clock that can scale properly but only if the viewport width is greater than the height not the other way around
+
+greater,lesser
+sometimes width greater than height and sometimes width lesser than height
+
+screen,outer,layout
+for cases screen height is more than 0.5625 of width outer layout parts start to eat center
+
+greater,image,landscape
+if the width is greater than the height of the image you can safely assume that it was taken in landscape mode
+
+image,distorted,greater
+however when i build the apk and run it on my android phone the image is distorted width greater than height
+
+image,larger,target,aspect
+so it needs to downsize the image so that both the width and height are larger than the width and height of the target maintaining aspect ratio
+
+border,1px,item,property
+each item has a border of 1px width so each item has 2px more than the height property
+
+â,œlandscapeâ,greater
+width and â œlandscapeâ means the width is greater than the height
+
+button,2px,greater,ie7
+button width is 2px greater in ie7 and button height is 4px greater in ie7
+
+orientation,landscape,longer
+i have my website in this situation the thumbs of my gallery are ok when i change orientation to landscape if the width is longer than the height
+
+browser,window,larger,body,equal
+if the width of the browser window is larger than the height body width will be equal to the window height
+
+width-36,instance,narrow,cells,number,60px,greater,rectangle,square
+or i can set the width to more than 36 and it appears to grow by width-36 but if for instance i set both the height and width of one of these narrow cells to the same number lets say 60px the height of what gets displayed is greater than the width and it appears as a rectangle not a square
+
+javascript,title,greater,main
+then in the javascript you just check to see if the height or width of title is greater than the height or width of main
+
+problem,bigger
+the problem is that the width is bigger than the height and i want it to be the same 1 1
+
+greater
+it is happening when width is greater than height
+
+maxwidth,greater,maxheight,true
+in other words if either maxwidth is greater than the width of or maxheight is greater than the height of it will return true
+
+things,state,greater,source,checks
+i ve found some things online that state that the height must always be greater than the width and have seen in the java source checks for this with accompanying messages that this is the case but cannot find a reason why
+
+error,parameters,bitmap
+after doing this i got error that width and height parameters should be less than width and height of bitmap
+
+bigger,top,bottom
+since the height is much bigger than the width there are top and bottom parts that are captured in the image that are not showing up in the live feed naturally
+
+ratio,smaller,500px,700px
+of course if the ratio is less than 1 then the width is smaller than height let s say 500px 700px and you will see the white spaces on the left and right of the image
+
+greater
+then how to know when width is greater and when height is greater
+
+higher
+if height is higher than width then do as you re doing now
+
+little,bit,smaller
+and i need the height to always be a little bit smaller than the width
+
+square,rectangle,smaller
+scott suggested to remove the transform -50 -50 which makes perfect sense if you wanted the div centered in the first place but if you wanted that in there still and have it centered as a square in a rectangle height is smaller than width then 45 by -290
+
+true,diamonds,greater,equal
+edit this would only be true for diamonds where height is greater than or equal to the width
+
+photoshop,bigger
+how come photoshop sees its height bigger than its width
+
+image,portrait,greater,div
+if the image is portrait height is greater than width the image will have a width of 100 within the div and be vertically centered
+
+image,static,access,blog,bigger,device
+the problem is that the image has static width and height and then if i access the blog on a mobile device the image is cut because it s bigger than the width of the device
+
+font,smaller,textview,binary,sizes
+basically you would start with a font height smaller than the height of your textview and then iterate or do a binary search through fonts of varying sizes until you find one that measures to smaller than the width of your textview
+
+minimum,gamepanel,greater,empty,space
+i want boardpanel to always be a square with size equal to the minimum of gamepanel s width and height if gamepanel s width is greater than height there should be empty space on the left and right if it s smaller there should be empty space on top and bottom
+
+javascript,code,greater,first,time
+i have this doubt i have a menu in which i run a javascript code or another depending on whether its width is greater or less than its height works me well the first time the screen resolution is detected but if there is a change of resolution or a change of orientation does not detect it and despite for example of having changed to portrait orientation still executing the landscape orientation code
+
+sure,#div-width-border,greater,element
+i m sure that the width of #div-width-border is always greater than the height of the element
+
+greater,return,target,proportional
+if width is greater than height return the target otherwise return the proportional width
+
+picture,actual,splashscreen,bigger
+see picture above height 1280 width 720 when the actual splashscreen have a width bigger than the height
+
+greater,border,thickness
+if the width will be greater than height so will the border thickness on sides
+
+image,greater,second,statement
+i have an image that has it s width greater than the height and it is still outputting using the second if statement in the jquery
+
+landscape,portrait,smaller
+but the screen always gets rotated to landscape instead of being set to portrait when the width is smaller than the height
+
+element,explicit,contents
+you can use jquery .scroll but overflow css property set to scroll or auto when the element s explicit height or width is less than the height or width of its contents
+
+smaller,store,variable,value,else
+if width is smaller than height store width in one variable called value else store height
+
+xpos,ypos,greater,equal
+you need to check if xpos is less than height ypos is less than width and both are greater than or equal to zero
+
+device,screen,larger
+i want to know if the device screen width is larger than height
+
+value
+i have ensured that the width value is not less than height always
+
+button,higher
+button height is higher than it s width
+
+ratio,bigger,700px,500px
+if the ratio is bigger then 1 then the width is bigger than height let s say 700px 500px and after resizing the image is filled with white spaces in the top and bottom of the image
+
+portrait,pictures,longer,mobile,screen
+instead for portrait pictures height longer than width it fits only if i use the mobile screen normally in portrait mode
+
+image,square,larger
+right now what this code is producing is the right image doesn t look like a square the width is larger than the height
+
+mode,pictures,larger
+my camera by default is in landscape mode therefore it takes pictures with a width much larger than the height
+
+ipad,iphone,smaller,say
+like on the ipad lest say its 137p x 60p and lets say the iphone s width is 150 smaller and the height is lets say is 125 smaller
+
+array,bigger,direction
+let s assume that width of the array is bigger than height otherwise we will split in another direction
+
+image
+i resize the image if its width is more then 225 and height automatically fix with that width
+
+good,desktop,larger,rare,orientation
+but this is no good for desktop because the height may be larger than the width probably quite rare though but the orientation will never change
+
+function,device,larger
+below is my code for displaying a full-screen background image and also has some basic function for detecting whether the device s width is larger than the height
+
+page,landscape,printer,prints
+in crystal report if i set a user defined size as 4ã 6 it sets the page landscape as height is less than width due to this printer prints page on landscape mode i want it in portrait
+
+super,view,iphone,greater
+the problem is that if i am setting as per the ratio my super view height and width then the iphone height is greater than width
+
+browser,960p,toolbar,change
+when browser width is less than 960p toolbar change it s height to 48p
+
+problems,greater,object,memory
+this isn t causing your problems since width is greater than height and you stay within the object s memory when doing normal accesses to it
+
+biggest,bigger
+edit actually you resize the one that is the biggest if width is bigger you resize that and if height is bigger then you resize that
+
+users,browser,smaller,popup,ability,scroll,product
+the problem is when a users browser s height is smaller than the popup the overflow css property adds the ability to scroll which is what i want but it also adds its own width inside the popup causing one product to move down to next line
+
+paper,sizes,greater
+i m trying to figure out why the java print api can t handle paper sizes where the width is greater than the height
+
+bold,meaning,greater,portrait,landscape
+it s a bold meaning that its width is greater than its height which makes its portrait view a landscape
+
+orientation,portrait,window,higher,value,none,css
+it s because you re using and orientation portrait so once the width of the window has a higher value than the height none of your css will be taken into account because it s considered landscape orientation at that point
+
+degrees,rotation,portrait,picture
+so what i need to do is to check if the exif wants to rotate 90 or 270 degrees and if so only perform the rotation if the height is less than the width which would mean the portrait picture isn t already rotated
+
+higher,portrait,landscape
+if the height is higher than the width then you can say it s portrait or else landscape
+
+button,contents,higher,binding,lower
+if the button contents width is higher than it s height then the binding will force it s width lower
+
+image-width,image,greater,cifilter..
+this problem arise when image-height is greater than image-width so if your image s height is greater than width then you should resize the image by swapping image height and width with each other before applying cifilter..
+
+image,large,div,overflow
+issue is that user may link to an image that is of extremely large height and width which is more than the height and width of the div it is in causing some overflow layout issues
+
+wish,bigger,certain,container
+i only want it to fit the width 100 and wish to become bigger than the height but not leave the certain container
+
+devices,480px
+480px seemed to be a good as no few devices had more than 480px width or less than 480px height
+
+calculation,images
+i don t think you can do what you want with pure css as you will need to make a calculation to see if the images height is less than the width
+
+thumb,text,track
+if the thumb text width is less that the height of the track the thumb shape will be scaled down
+
+gallery,image
+i have a gallery with different image sizes the custom layout is below for gallery its working correctly if the image width is les than height but if image height is less than width its not working correctly
+
+image,bigger,container
+you can check the width of the image and if the width is bigger than height you reduce the image for the width instead reduce from the height to fill the container something like that
+
+div,device,smaller
+so can i change the background image for a div when the device width is smaller than height
+
+540px
+so when the width is less than 540px i ll overwrite the height and width
+
+image,site,bigger
+i have an image in my site which it s height is bigger than it s width
+
+better,layout,textblock
+rather than using fixed width height it is better to create a layout which allows the textblock to adjust its width
+
+moment,479px,rule
+the moment i resize the height to less than the width say 479px the rule in the media query ceases to hold and the layout reverts back to the original
+
+1---------------------------------------------------
+
+line,paper,path
+the best i could come up with would be to scale the line to fit inside paper based on the width of the path assuming that the width is more than the height
+
+last,iteration,j,line
+but in your nested loops the last iteration occurs when i is one less than width and j is one less than height where in the last line of your loop you try to access element which is bigger than the size of your array
+
+other---------------------------------------------------
+
+option,list,item,move,ul,method
+tried some option as width is less when we resize then list item move below and increase height of ul so using this method i am able to hide last visible
+
+
+it s has the same height but has more width
+
+example
+here s an example of the width being less than the height and then rotated 90deg.
+
+technique,work,word,wrapping,sentence,wider,text,box
+but this technique doesn t work when height is resized extended by word wrapping that is if a sentence is wider than the width of the text box and the textbox creates a new line automatically
+
+
+width is usually less than height you might want to think about inverting the coordinates ie
+
+body
+but if the width is less than the height then the body width is 100
+
+
+in case height is more than width then you have to resize with height
+
+view,implementation,padding,values,convenient,columnwidth,custom
+in your xml you gave and 10dp both vertical and horizontal spacing and then in your custom view implementation you gave 150 as width and height and 8 as padding basically they conflict try to make both values convenient since the columnwidth you gave is way more less than width you gave in your custom view
+
+preferred,actual,pack,frame
+then if the preferred width height is less than the actual width height you could manually invoke pack on the frame
+
+timetable
+the width of the timetable is more than the height of the timetable
+
+
+if width is less than height just discarding it and if above allowing it
+
+uibuttons,lastpressedbutton.frame.origin.x
+now get the width and height of the uibuttons and compare if the lastpressedbutton.frame.origin.x will be less than width or -width away
+
+
+3-2 if width is more over than height then
+
+inner,for-loop,possible,fourth
+it seems that you are just printing too much and it seems to come from the third inner for-loop and also in other cases when the height is more than the width possible from the fourth for-loop
+
+
+this often affects width more than height
+
+root,access,code
+i cant get the orientation through exif because of my server don t have root access to fix that so i was just going to see if the width is less then the height then rotate them but the code isn t working properly
+
+distance
+we get this because our height has more distance than our width so we need to do 3 5 a 16 3 16 a 5 3 16 5 a so a 9.6
+
+perfect,support,bigger,easy,thoughâ
+this code is not perfect though because it doesn t support when height is bigger than width easy to fix thoughâ
+
+big,responsive
+width must be more big than height and want it responsive
+
+expression,h,w,ternary
+rather than that though i am using a calculated expression which tests whether the height h is less than the width w using a ternary operator
+
+videos,transcoded
+for videos which are recorded vertically height is more than width the transcoded video generated does shrink vertically
+
+
+3-1 if height is more over than width then
+
+sum,widths,board,cells
+the only problem here sometimes the sum of widths height of board cells are less than the width height of the board
+
+
+i see that they are squeezed such that the height is more than the width
+
+aspectratio,full,clipping
+if height is less than what the aspectratio allows to still utilize full width i m clipping
+
+delete,contours,small
+5- delete all the contours that width is more than its height delete the very small contours the very large ones and the not rectangle contours
+
+cannot
+the specified width and height cannot be less than the width and
+
+sets,constraints
+if this app can rotate you might need two sets of constraints one for when the width is less than the height the other for when the height is less than the width
+
+statements,important,meaning,user
+or you can group these statements by width as i think thats less important than height meaning less scrolling down for the user
+
+fonts,character
+most fonts have a character width less than the height so assuming width height will definitely work
+
+portrait-secondary
+width is less than height implies the portrait-secondary
+
+
+verify width is not more than 2x the height and height is not more than 2x the width
+
+thing,document,script,div,min,hover,greater,minimum,sub,menu
+first do one thing get the width of the document using java script and your sub div set min width of generating div on hover of sub menu if it is greater than minimum height than animate your sub menu sub div to wherever you want or you can also give style using java script css property
+
+jerky,stage
+for the dragging to be jerky like this the width and height of the stage must be 256 and less than width 1050 and height 293
+
+
+find out if the height is less or the width is less
+
+thumbnail,wordpress,moreso
+i am trying to change the size of a thumbnail in wordpress but it keeps making it exactly square even though i want to stretch the width moreso than the height
+
+site,pages,greater,equal,pixels,certain,content,different,code,menu
+i noticed some very peculiar behaviour of the site which is pages whose height is greater than or equal to the max vertical pixels occupy a certain width while pages whose content does not fill the height have a different width even though the code for the menu is exactly the same.why does this happen and what is the remedy
+

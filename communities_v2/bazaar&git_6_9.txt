@@ -1,0 +1,35 @@
+0---------------------------------------------------
+
+mercurial,faster,slower,smaller,difference
+mercurial is significantly faster than bazaar it s slower than git though by a much smaller difference
+
+balling,numbers,2-4x,slower,mercurial,use
+an incredibly rough eye balling of the numbers they posted showed bazaar to be 2-4x slower than either git or mercurial in the use cases tested
+
+1---------------------------------------------------
+
+imho,easier
+bazaar is imho easier to learn than git
+
+easier,api,unix
+bazaar is easier to extend in an api way git is easier to extend in a unix way pipes
+
+2---------------------------------------------------
+
+articles,slower,mercurial
+a lot of articles about bazaar will tell you it is a lot slower than git or mercurial
+
+stuff,slower
+i hear all this stuff about bazaar being slower than git
+
+other---------------------------------------------------
+
+afraid,honest,technical,mercurial,windows,sorts
+i would not mind changing to for example bazaar or git if needed i am a bit afraid of git to be honest everything i read about git seems 10x more technical than anything i read about mercurial or bazaar and installing it on windows seems to imply installing all sorts of secondary software it seems but that is another matter
+
+note,hg,powerful,stuff
+note most recently i have been using bazaar and hg with fully powerful regexps so may be looking for stuff more powerful than git provides
+
+fine,needs,better,problem,usability,user,friendly,explorer,advice,experience,best,similar
+it works fine and fits all my needs but recently i found that git works better than bazaar so i decided to use it but i face a problem with git usability because most git s gui not user friendly as bazaar explorer so i want your advice based on a practical experience which best git s gui user friendly or which one is most similar to bazaar explorer
+

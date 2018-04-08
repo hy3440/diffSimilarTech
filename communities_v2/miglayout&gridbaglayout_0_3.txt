@@ -1,0 +1,11 @@
+other---------------------------------------------------
+
+clarification,easier,familiar,hard,download
+edit for clarification miglayout is probably easier to use than gridbaglayout but if you get familiar with gridbaglayout it s not that hard to use and it doesn t require a download since it s part of the core java library
+
+open-source,convenient,powerful
+you can also check out the open-source miglayout which is much more convenient that gridbaglayout and also a bit more powerful
+
+start,guide,site,difficult,powerful
+look at the quick start guide on the miglayout site it s a lot less difficult than gridbaglayout and much more powerful
+

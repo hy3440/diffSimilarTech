@@ -1,0 +1,8 @@
+other---------------------------------------------------
+
+mature,ajax,events,easy,ones
+i think richfaces has a more mature ajax integration and their ajax components and events are more easy to use for me than trinidad ones
+
+skinning,default,basic,ways,beautiful
+regarding skinning i feel trinidad default skinning to be more basic than richfaces one but i think both have ways to make them as beautiful as your css skills allow you
+

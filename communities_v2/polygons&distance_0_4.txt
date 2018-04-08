@@ -1,0 +1,14 @@
+other---------------------------------------------------
+
+drawback,vertices,intuitive,area,proportional
+the one drawback is that distance between vertices might be slightly less intuitive than polygons area but the two are proportional
+
+new,segment,x,last,point.
+plenty of others don t use a delimiter at all and require you to start a new segment polygons if you re more than x distance away from the last point. furthermore these things often wind up being multi-gb ascii files so reading the entire thing into memory can be impractical
+
+radius,circle
+if that distance is less than the radius of the circle then you know that the polygons intersects the circle
+
+actual,minimum,list,maximum,greater
+calculate the actual minimum distance and continue through the sorted list until the maximum distance between the polygons is greater than the minimum distance found so far
+

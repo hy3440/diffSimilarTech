@@ -1,0 +1,17 @@
+other---------------------------------------------------
+
+advanced,language
+owl is a more advanced language than rdf
+
+mechanisms,shapes,graphs,new,work
+owl provides more mechanisms for asserting shapes of rdf graphs as does new work on rdf shapes
+
+richer,languages,schema,rdfs
+owl is richer than languages such as rdf schema rdfs
+
+rdfs,expressive,complex,relations
+owl and rdfs are more expressive than rdf which means here that you can capture more complex relations for instance you can also represent the link between sets of things rdfs subclassof or use transitive properties hasancestor
+
+structure
+owl has more structure than rdf
+

@@ -1,0 +1,8 @@
+other---------------------------------------------------
+
+x,better,.__init__,multiple,inheritance
+i think a.__init__ self x is better then super .__init__ x because it supports multiple inheritance and i didn t find a way to do it with super
+
+martijn,pieters,.__str__,better
+also as stated by martijn pieters using super super .__str__ is better than doing it the way i did deck.__str__ self
+

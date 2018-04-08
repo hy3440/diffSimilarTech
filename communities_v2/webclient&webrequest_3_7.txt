@@ -1,0 +1,25 @@
+0---------------------------------------------------
+
+easier
+webclient is sometimes easier to use than webrequest
+
+easier
+a webclient is much easier than a webrequest
+
+other---------------------------------------------------
+
+simpler
+webclient is simpler to use than webrequest
+
+class,place,access,necessary,features
+update i ve created a webhelper class that takes the place of webclient but provides more access to the necessary features of the underlying webrequest
+
+html,use,class,simplier,api
+to get the html instead of hardcoding it as above use the webclient class since it has a simplier api than webrequest
+
+shorter,concise,syntax,scenes,performance,faster
+webclient is a shorter and more concise syntax but behind the scenes it uses a webrequest so in terms of performance it won t be faster it will be equivalent
+
+functonality
+webrequest just offers you more functonality than webclient
+

@@ -1,0 +1,44 @@
+0---------------------------------------------------
+
+class,problems,better
+i hate to answer a request for a solution in language a by suggesting a solution in language b but what you are doing here falls into the class of problems which xslt handles much better than xquery
+
+proof,pudding,better,queries
+as for whether to use xslt or xquery the proof is in the pudding xslt is better at transforms and xquery is better at queries
+
+xml,documents,streaming,better
+saxon-ee supports streaming of large xml documents using xslt or xquery streaming is better supported in xslt than in xquery
+
+1---------------------------------------------------
+
+kind,processing,expressive
+this kind of processing is most easily done with xslt which is more expressive than xquery
+
+appropriate,kind,tasks
+xslt is significantly more appropriate to use than xquery for such kind of tasks
+
+2---------------------------------------------------
+
+amenable,static,analysis,dynamic,template
+xquery is more amenable to static analysis than xslt because it lacks the very dynamic template despatch mechanism
+
+better,amenable,static,analysis,polymorphism,template,rules
+xquery works better than xslt for this because it s more amenable to static analysis as it lacks the polymorphism of xslt s template rules
+
+other---------------------------------------------------
+
+dimitre,better,class,problem
+as dimitre says xslt is much better at this class of problem than xquery
+
+typing,feature
+unless you are using the static typing feature xquery is no more strongly typed than xslt
+
+small,changes,solution,simpler
+if your output is going to be similar to your input with small changes then the xslt solution is often a lot simpler than the xquery solution
+
+banal,better,transformation,source,document,query
+generally i know it sounds banal xslt is better at transformation generating a new document from each source document while xquery is better at query extracting a small amount of information from each source document
+
+usual,rule-of-thumb,better,simple,tasks,complex
+my usual rule-of-thumb is that xquery is better than xslt for simple tasks whereas xslt is better for complex tasks
+

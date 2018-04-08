@@ -1,0 +1,11 @@
+other---------------------------------------------------
+
+label,image,cleaner,scratch,tiles
+instead of working around the 1 label and image you get in a uibutton it s cleaner to start from scratch with a uicontrol and create your tiles
+
+sounds,methods,sendaction,finer,control
+sounds like you want to use some of the inherited uicontrol methods such as sendaction to forevent this offers even finer control than with uibutton
+
+simple,subclass,customization,hassle,nsattributedstring
+a solution i ve used is a simple subclass of uicontrol which allows more customization than subclassing uibutton and less hassle than nsattributedstring et al
+

@@ -1,0 +1,26 @@
+other---------------------------------------------------
+
+memory,free,pair
+that s why realloc can temporarily require more memory than a malloc free pair
+
+datasets,users,program,slows,programs,data
+but if it works with large datasets the users will notice that using the malloc -only program slows down other programs much more than the realloc -using program with the same data
+
+worse,old,new,pointers,valid
+realloc is worse than malloc in that you will need to have the old and new pointers valid during the realloc
+
+overflow,free,pair,costs,internal,hidden
+in the case of overflow a free malloc pair costs less than realloc because of its internal hidden memcpy
+
+smarter
+i mean i think realloc is way smarter so why do we even need malloc
+
+memory,stores,special,location,later,time
+malloc often gives you more memory that you ask and stores the actual value in a special location that realloc can access at a later time
+
+faster,memcpy,free
+a realloc can occur significantly faster than a malloc memcpy and free
+
+justification,faster,2nd,manual,copy
+the justification of realloc is that it s faster than 2nd malloc manual copy free
+

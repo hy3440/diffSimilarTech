@@ -1,0 +1,20 @@
+other---------------------------------------------------
+
+hot,sure,time-effective
+i understand that laravel is what s hot right now but i ve never played with it and am not sure if learning laravel is more time-effective vs using codeigniter which i know pretty well but just doesn t excite me any more
+
+web,site,older
+unfortunately i m pretty sure you ll not find any packages or projects that migrates a joomla web site to laravel or maybe codeigniter which is much older than laravel
+
+better,features
+before i am using codeigniter but i found out that laravel is much better than codeigniter and it has a lot of features
+
+personal,benchmarks,faster,lazy,loading
+in my personal benchmarks laravel is undeniably faster than codeigniter due to lazy loading
+
+new,good,faster
+i am new to laravel it s good for coding but it is not much faster than codeigniter
+
+better
+if you ve been using laravel then you already know it is better than codeigniter
+

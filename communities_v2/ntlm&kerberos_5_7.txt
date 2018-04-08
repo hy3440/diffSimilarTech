@@ -1,0 +1,25 @@
+0---------------------------------------------------
+
+better,option
+kerberos could be considered as a better option than ntlm
+
+better,performance
+i understand that kerberos has better performance than ntlm
+
+ways,better
+in fact in some ways ntlm is better than kerberos
+
+other---------------------------------------------------
+
+secure
+but since ntlm is less secure than kerberos why isn t it the other way around
+
+secure,domain,credentials
+but as i understand it ntlm disallows the more secure kerberos domain credentials if they re available
+
+huge,tokens,network,slower
+for a low traffic site the huge tokens that kerberos send across the network actually makes it slower than ntlm
+
+complex,faster,true,certain
+kerberos is complex to set up and even though it generally is considered faster than ntlm this is only true when you reach a certain limit of simultanious users on your site
+

@@ -1,0 +1,11 @@
+other---------------------------------------------------
+
+edit,performance,slower,.all
+edit just checked the performance of intersect it is slower than using .all with contains
+
+method,answer,dasblinkenlight,better
+i d say the intersect method see answer by dasblinkenlight + any must work better than contains + any
+
+c,greater
+given two ranges a a b and c c d do they intersect is one greater than the other or does one contains the other
+

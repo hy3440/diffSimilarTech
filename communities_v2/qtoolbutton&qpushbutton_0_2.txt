@@ -1,0 +1,8 @@
+other---------------------------------------------------
+
+smaller,default,internal,margins
+qtoolbutton has smaller default internal margins than qpushbutton
+
+complex,hood
+qtoolbutton is much more complex under the hood than qpushbutton
+

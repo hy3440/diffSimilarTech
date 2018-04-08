@@ -1,0 +1,8 @@
+other---------------------------------------------------
+
+jquery,javascript,hassel,worth,scriptmanager.registerclientscriptblock
+i have found that using jquery javascript inside an updatepanel is more hassel than it is worth as you always need to output the jquery javascript using the scriptmanager or the scriptmanager.registerclientscriptblock
+
+time,process,asyncpostbacktimeout,property
+in case if updatepanel takes more time to process set asyncpostbacktimeout property of your scriptmanager
+

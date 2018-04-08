@@ -1,0 +1,8 @@
+other---------------------------------------------------
+
+better,plugins,capabilities,boltclock,powerful,text
+i have found that jedit has better plugins for providing some of the more ide-oriented capabilities but like boltclock said notepad++ is really just a powerful text editor and does not try to be a one-stop-shop ide
+
+equal,better
+i think jedit is equal to or better than notepad++
+

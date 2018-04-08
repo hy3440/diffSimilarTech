@@ -1,0 +1,11 @@
+other---------------------------------------------------
+
+separate,original,simpler,strlen,call
+you can use either to create a new memory block which is separate from the original but naturally strdup is simpler since it doesn t require a separate malloc strlen call
+
+system,willing,implementation,cleaner,strcpy
+or indeed if your system has strdup or you re willing to write an implementation then strdup is much cleaner than malloc + strcpy
+
+memory,pointer,original,impossible,free
+you should know that strdup allocates more memory and returns its pointer which you then overwrite the original pointer returned by malloc so it will be impossible to free that memory since you no longer have the pointers
+

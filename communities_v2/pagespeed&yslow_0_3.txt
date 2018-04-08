@@ -1,0 +1,11 @@
+other---------------------------------------------------
+
+firefox,firebug,reliable
+i use firefox with firebug and yslow and think it s more reliable than pagespeed
+
+imho,better
+imho pagespeed is better than yslow
+
+testing,google,addon,better
+in my testing so far google s pagespeed addon is far and above much better than yslow
+

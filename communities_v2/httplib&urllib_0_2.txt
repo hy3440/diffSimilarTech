@@ -1,0 +1,8 @@
+other---------------------------------------------------
+
+lower,level,high-level
+basically - httplib is lower level while urllib is high-level
+
+better
+i don t know why this works i can only assume that httplib is slightly better behaved than urllib
+

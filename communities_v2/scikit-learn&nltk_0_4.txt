@@ -1,0 +1,14 @@
+other---------------------------------------------------
+
+confusion,matrix,nicer,output
+the nltk library includes a confusion matrix that is simple to use and produces a nicer output than scikit-learn
+
+linear,regression,better
+what you re looking for is linear regression and scikit-learn is much better than nltk for this see
+
+memory,equivalent,models
+if you are worried about memory then do look into scikit-learn since equivalent models can use significantly less memory than nltk
+
+details,documentation
+or scikit-learn directly .for more details nltk 3.0 documentation
+

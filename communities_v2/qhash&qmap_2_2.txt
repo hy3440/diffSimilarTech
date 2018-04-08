@@ -1,0 +1,8 @@
+other---------------------------------------------------
+
+faster,lookups
+qhash provides faster lookups than qmap
+
+faster,values,key
+qhash is faster but qmap values are sorted by key if you iterate through them
+

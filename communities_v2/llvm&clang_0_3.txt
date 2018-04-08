@@ -1,0 +1,11 @@
+other---------------------------------------------------
+
+good,options,libc++,static,features,compatible,gnu,stl,issue,optimizer,segfault
+good options are llvm libc++ static library fewer features more compatible with clang and gnu stl static library more features i had an issue that required me to turn the clang optimizer to -oz to prevent a segfault
+
+code,faster,frontend,accurate
+llvm compiles code faster than gcc may create code that runs faster and the clang frontend provides more accurate error messages than gcc â so there are definitely reasons for switching
+
+fiber,apple,use,thread_local,better,standard,abi
+first fiber won t compile with apple clang because of the use of thread_local which apple does not support according to what i found online they think they can implement it better than standard llvm and don t want to introduce it only to break abi later
+

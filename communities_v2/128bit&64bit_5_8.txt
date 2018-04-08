@@ -1,0 +1,30 @@
+0---------------------------------------------------
+
+number,prime,factor,larger,solution,problem
+i ll just add that if the 128bit number is prime or has a prime factor larger than 64bit then there will be no solution to your problem
+
+previous,comment,number,prime,factor,larger
+and i ll just add to previous comment if 128bit number has prime factor larger than 64bit then it certainly has a factor less than 64bit
+
+1---------------------------------------------------
+
+mul,imul,faster,32bit
+actually on intel sandybridge-family at least mul imul 64bit 64bit 128bit is faster than imul mul 32bit 32bit 64bit
+
+benchmark,test,intrinsic,function,faster
+in a benchmark test the 128bit intrinsic function performs faster than the 64bit intrinsic
+
+other---------------------------------------------------
+
+distributed-system,internet-wide,pointers,system,call
+perhaps 128bit distributed-system internet-wide pointers but no more than 64bit in a system call or perhaps even a legacy 32-bit limit
+
+years,architecture,math,faster,today
+in a few more years there might be an architecture where 128bit math is faster than 64bit but i don t think any exists today
+
+transactions,faster,bit
+128bit transactions tend to be faster than 64bit which tend to be faster than 32 bit
+
+adder,slower
+so a 128bit adder will be slower than a 64bit add
+

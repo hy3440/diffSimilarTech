@@ -1,0 +1,31 @@
+0---------------------------------------------------
+
+union,slower
+if you do not implement gethashcode union will call equals which will work but is slower than gethashcode
+
+performance,implementation,faster
+and that is for performance reasons assuming that a gethashcode implementation should always be much faster than an equals implementation
+
+other---------------------------------------------------
+
+faster,equivalent
+even though gethashcode itself should be fast it s not mostly faster than equivalent equals
+
+comparison,check,hashcode,objects,faster
+1 is comparison via gethashcode check if the hashcode of both objects are the same faster than equals
+
+hand,larger,test,specific,comparisons
+equals on the other hand can test accross a larger number of fields - ie its test is more specific than gethashcode comparisons
+
+sure,overhead,ints,quicker,object,method
+not sure about the overhead of calling gethashcode a few million times but comparing two ints is probably going to be a lot quicker than the equals object method
+
+quicker,unique
+gethashcode should be a lot quicker than equals but doesn t need to be unique
+
+override,methods,tolerant,unequal,objects
+override both methods but make gethashcode more tolerant than equals that means make unequal objects have the same hash code and not the opposite
+
+method,certain,implementation,expensive,vast,majority
+in the equals method only if you re certain the ensuing equals implementation is much more expensive than gethashcode which is not vast majority of cases
+

@@ -1,0 +1,39 @@
+0---------------------------------------------------
+
+wise,operations,slow,type,faster
+since bit wise operations can be done very fast and division operations are relatively slow this type of modulo is much faster than doing a division
+
+power,bitwise,simpler,faster
+if you compute modulo a power of two using bitwise and is simpler and generally faster than performing division
+
+1---------------------------------------------------
+
+number,bits,harder,hard
+programmers like to use this property to speed up programs because it s easy to chop off some number of bits but performing a modulo is much harder it s about as hard as doing a division
+
+remainder,better,straight,situations,number
+modulo gives you a remainder which is why it s better than straight division in situations where you re number of elements can change
+
+other---------------------------------------------------
+
+side,effect,routines,faster
+a side effect of many division routines is the modulo - so in few cases should division actually be faster than modulo
+
+higher,priority
+is the same as because division has higher priority than modulo
+
+terms,feel,slower,computers,long,stepwise,fashion
+so in simple terms this should give you a feel for why division and hence modulo is slower computers still have to do long division in the same stepwise fashion tha you did in grade school
+
+programming,language,reaminder,operator
+python respects this definition whereas in most other programming language the modulo is really more like a reaminder after division operator
+
+mathematical,remainder,common,integer,old,fortran
+modulo is more mathematical if you like while the remainder in the c-family is consistent with the common integer division satisfying and this is adopted from old fortran
+
+variable,costly,resulting,time,better,constant
+using an extra variable to avoid the costly division and the resulting time was 18.9s so significantly better than the modulo with a statically known constant
+
+inverse,time,seconde,sub,multiplication,core
+inverse modulo for 300 time take 1.422 seconde more than executing division sub and multiplication 10k time even the core of inverse modulo is build with same division and sub and multiplication functions and for this number it just do 150 time inside while help plz why
+

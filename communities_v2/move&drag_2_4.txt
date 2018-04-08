@@ -1,0 +1,14 @@
+other---------------------------------------------------
+
+mouse,press,release,order,able,bigger,parent,drop
+i reimplemented the mouse move press and release events for the inner widget in order to be able to move it inside its bigger parent with drag drop
+
+confusion...you,cannot,table,bigger,smaller,mouse,size
+it ends up in a state of confusion...you basically cannot release the drag of the table it keeps getting bigger and smaller as you move your mouse - but you can never let go and release it to get the size you want
+
+items,buttons,loop,item,difficult,reordering
+this is easy to implement with buttons select items click up or down buttons to move - just loop through and apply the move to each selected item but much more difficult with drag reordering
+
+jquery,ui,slower,mouse
+i got a draggable object done with jquery ui and when i drag it it s way slower than i move my mouse
+

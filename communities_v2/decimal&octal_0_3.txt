@@ -1,0 +1,11 @@
+other---------------------------------------------------
+
+buffer,number,representation,digits
+this means the buffer is enough for printing the number in octal and since decimal representation uses no more digits than octal it will be enough for decimal representation too
+
+easier,hexadecimal,convenient
+bitshifts just go easier with hexadecimal than decimal and is often more convenient to read than octal
+
+hex,machine,clearer,similar,opcodes
+hex or maybe octal depending on the machine being emulated will be clearer than using decimal since similar opcodes tend to vary in bits not digits
+

@@ -1,0 +1,11 @@
+other---------------------------------------------------
+
+self-sufficient,tomcat,resource,intensive,costs,money
+if your application is self-sufficient i would recommend going for tomcat as jboss is much more resource intensive as well as weblogic moreover weblogic costs some money
+
+application,soap,call,restrictive
+i am running an application on jboss 7 and weblogic 12 when i make a soap call on weblogic is more restrictive than jboss
+
+year,experience,logic,good,stable,robust,single,exception,admin,console,excellent,complex
+i had worked on jboss for a year and on weblogic for more than a year now my experience with the web logic is good compared to jboss weblogic is more stable and robust it can handle more than 3000 concurrent requests without throwing a single exception where jboss failed to do so and admin console for the weblogic is excellent but i think weblogic is more complex then jboss
+

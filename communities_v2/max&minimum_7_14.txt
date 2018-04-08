@@ -1,0 +1,46 @@
+0---------------------------------------------------
+
+size,lower,kb
+my question is can we set max stack size lower than the minimum stack size which may be 4 kb for the goroutines
+
+equal,greater,value
+all numbers will always be equal to or greater than the minimum value or equal to or less than the max value
+
+group,value,lower,index
+for group 1 the minimum value is actually 2 however i need minimum indexed lower than max value index position
+
+data,lower,x,higher
+in this example i would want to flag the following records in my data 2 lower than the minimum for x and 4 higher than the max for y
+
+value,larger
+how can the max value be larger than the minimum
+
+value,higher,year,data
+from here you also need to take into account if the user inputs a value higher than the max year of the data and also less than the minimum
+
+other---------------------------------------------------
+
+query,min,security,id,difference,value
+first i run a query to find the min and max for each security id then find the difference between the min and max and finally find a value that is 10 more than the minimum like this
+
+requirement,smaller
+the minimum requirement and smaller than the max requirement
+
+little,datas,new
+if i is rather little just iterate and keep i minimum datas insert every new data in a binary tree of the i most little datas if it is less than the max of these datas
+
+min-cut,true,flow,network,greater,capacity,s-t
+if it were possible to find such a cut then max-flow min-cut would not be true the max flow of the network would be greater than the minimum capacity of an s-t cut
+
+number,array,option
+now you are iterating exactly like your example with one change to know what is the next set you are moving to you have to replace every number in the current set with the next number in the array and replace the max option that less than the minimum you are saving
+
+time,first,2-4x,longer
+why is the max time which happens on the first iteration of the loop 2-4x longer than the minimum time
+
+value,greater,update,left
+4.if minimum value is greater than the current value in array than add difference of than in ans add the difference with current value update max from left
+
+textboxes,user,price
+i m simply checking the values of two input textboxes and alerting the user if the max price is less than the minimum price but they re evaluating backwards
+

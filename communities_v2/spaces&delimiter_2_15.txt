@@ -1,0 +1,47 @@
+other---------------------------------------------------
+
+awk,comma,field
+awk uses a comma surrounded by 0 or more spaces as field delimiter
+
+part,words,punctuation,etc.
+the pattern in scanner is supposed to be a regular expression that describes all the characters you don t want included in a token repeated one or more times this last part is because the words may be delimiter by more than one spaces punctuation etc.
+
+columns,row
+so by using s 3 i am telling the csv processor that the columns in a row are delimiter by more than 3 spaces
+
+wrong,text,file,character,tokens
+you are using the wrong delimiter since your text file may contain more than one spaces character between tokens
+
+tab,additional
+if you want to allow for more delimiter than just spaces tab you can add additional separators when using split
+
+operation,adjacent,single,convertfrom-csv,create,empty,fields,row
+the -match operation removes those lines that don t start with an sha1 hash and the -replace operation collapses adjacent spaces into a single delimiter so that convertfrom-csv won t create empty fields when there is more than 1 spaces in a row
+
+preg_split,s+
+instead of explode use preg_split and then use s+ s spaces + 1 or more times as delimiter
+
+issue,number
+as luiggi mendoza commented splitting by s+ instead of would resolve any issue with the number being delimiter by more than one spaces
+
+c,code,tabs
+the alternative is to write slightly more complex c code which can split on either spaces or tabs note that you can pass strtok more than one delimiter
+
+actual,comma
+your actual delimiter looks more like comma followed by a spaces to me
+
+integers,indentation,purposes,whitespace,complex
+if you want to allow the integers to be delimiter by more than one spaces for indentation purposes or so and depending on the way you want to handle tabs and other non-newline whitespace you can use a more complex delimiter
+
+wrong,information,road,name,info
+i know by giving spaces delimiter will not work as there will be split the wrong information and there will be some road name with more than spaces so in this info will be split up in wrong column
+
+checks,field,tabs
+it checks for one or more spaces as field delimiter and also tabs
+
+search,terms,natural,users,separation,pipes
+this is happening because i am trying to separate out the search terms based on spaces since spaces comes more natural to users then comma separation or pipes or any other delimiter
+
+regular,expression
+to split the string with regular expression saying spaces one or more spaces one or more as delimiter
+

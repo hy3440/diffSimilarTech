@@ -1,0 +1,28 @@
+0---------------------------------------------------
+
+programming,simpler
+declarative programming is not always simpler than imperative programming
+
+cleaner,programming,business
+i know that declarative way is cleaner but sometimes imperative programming makes your business safer
+
+other---------------------------------------------------
+
+angular,belief,code,better,uis,components
+angular is built around the belief that declarative code is better than imperative when it comes to building uis and wiring software components together.
+
+code,easier,bug-free
+declarative code is easier to make bug-free than imperative code
+
+sql,simpler,faster,pl
+declarative sql is usually simpler and faster than imperative pl sql so it s usually best to do most of the work in sql and just glue it together with pl sql
+
+current,time,machine,interpreter,top,cheaper,faster,true
+while it is possible to explore non-imperative computer concepts it doesn t seem to be worth the effort at the current time - building a declarative machine as an interpreter on top of an imperative machine is much cheaper and faster than a true declarative machine
+
+difference,speed,fewer,overheads,modern,compilers,code,top,bigger,python,slower
+traditionally there was a huge difference in speed imperative has fewer overheads because it s more directly like the computer works but some more modern compilers of declarative code seem to be in the top few of the speed tables a lot of the time - compiled verses interpreted makes a much bigger difference than imperative vs declarative which is why python etc are often slower even though they re imperative
+
+effects,better,pattern,top,code
+using declarative effects is better than thunks for testability but the saga pattern can be implemented on top of imperative or declarative code
+

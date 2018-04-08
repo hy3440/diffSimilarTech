@@ -1,0 +1,14 @@
+other---------------------------------------------------
+
+pre-processing,events,better
+you should treat submit as what happens after you ve done any pre-processing so binding to click events then conditionally raising the submit is better than always submission but conditionally stopping the submit
+
+form,database,user,little,research
+so i have a form that submit to a database and i want to prevent more than one submission if the user clicks the submit button more than once...with a little research this seems easily enough done however none of the solutions i found worked for me as i am using the jquery validationengine plugin to validate the form client side
+
+paramaters,ajax,loader,image,file,complete
+i am wondering if i can submit the paramaters to via ajax show a loader image after submission it but once the file is complete return the file for download
+
+right,form,button,js,data
+i suspect this will submit the right form data but may not be acceptable if your button is calling js and is doing more than submission form data
+

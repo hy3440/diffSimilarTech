@@ -1,0 +1,11 @@
+other---------------------------------------------------
+
+memory,leaks,tools,info,root,cause
+so my question is beyond instrumentation and the profiling using memory leaks which tells you the location of creation of the leaky object but not the root cause are there any other tools i could run that could give me any more info than instrumentation re tracking down the root cause point
+
+helped--the,time,template,better,system,trace
+paulw11 s comment helped--the time profiling template is better suited for this task than the system trace instrumentation
+
+mac,opengl,tool,code,better
+if you re writing a mac app the opengl profiling tool profiling opengl code better than instrumentation
+

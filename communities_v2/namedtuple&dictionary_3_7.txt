@@ -1,0 +1,25 @@
+0---------------------------------------------------
+
+better,overhead,lists
+namedtuple should perform better less overhead than dictionary if the lists are long
+
+use,better
+depending on your use case a dictionary might fit better than a namedtuple
+
+other---------------------------------------------------
+
+instance,easier
+creating an instance of the namedtuple is easier than creating a dictionary
+
+faster,memory,efficient
+namedtuple is faster and significantly more memory efficient than a dictionary
+
+lighter
+as namedtuple lighter than dictionary
+
+lower,overhead,keys,item
+namedtuple have a lower overhead than dictionary since the duplicate keys don t have to be stored per item but have the convenience of named access
+
+lighter,properties,dot
+2 you probably want a namedtuple - i m pretty sure they re lighter than dictionary and you can access properties using dot notation for which i have an aesthetic preference anyway
+

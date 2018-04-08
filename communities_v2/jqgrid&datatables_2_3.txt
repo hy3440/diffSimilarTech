@@ -1,0 +1,11 @@
+other---------------------------------------------------
+
+jquery,better,customisation
+it turns out jquery datatables is better suited for customisation and we have adopted this instead of using jqgrid
+
+someone,better
+if you don t have someone around to help with jqgrid you are better off with datatables
+
+better,customizations,bells,whistles,little,harder
+datatables has better customizations as far as clientside bells and whistles where as jqgrid is a little harder to make look as pretty but can do some pretty good serverside interaction from what i understand
+

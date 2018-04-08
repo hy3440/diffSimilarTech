@@ -1,0 +1,39 @@
+0---------------------------------------------------
+
+framerates,slower
+for example i ve read that opera and ie will fix framerates slower than firefox
+
+slower,google-chrome,faster
+it seems to be slower in google-chrome and firefox but is significantly faster in opera
+
+1---------------------------------------------------
+
+problem,code,worse
+the problem with this code is that it doesn t quite work on firefox and works even worse on opera
+
+issue,worse,care
+only firefox and opera seem to have this issue opera even worse than firefox but i don t care that much about opera
+
+other---------------------------------------------------
+
+linux,gentoo,reneders,larger,fonts,nothing,odd
+update under linux gentoo amd64 it s the same - opera reneders slightly larger fonts than firefox but nothing that looks odd
+
+div,width,bigger,google-chrome
+on your screenshot div width in opera is bigger than in firefox and google-chrome
+
+share,example,pie,distance,slice,connector
+for example in the classic browser share example if the firefox is at 45 i want to be rendered inside the pie distance -40 may be and where the slice is less such as opera at 6 - i want it to be shown outside with a connector
+
+little,bit,lower
+in opera it goes little bit lower than in firefox
+
+fewer,none
+firefox has even fewer as far as i know and opera has none
+
+donâ,launch,â,time,2ms,faster,google-chrome,difference
+but if firebug donâ t enabled after launch firefox â time equal 2ms that faster than opera and google-chrome and difference between empty filled array disappears
+
+access,internals,extensions,possible,widgets,google-chrome
+firefox just provides far more access to its own internals and system to the extensions so its technically possible to do more with them than with opera widgets or google-chrome extensions
+

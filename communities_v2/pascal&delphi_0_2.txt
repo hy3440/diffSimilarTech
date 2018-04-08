@@ -1,0 +1,8 @@
+other---------------------------------------------------
+
+free,turbo,file,handling,easier,assignfile,close
+in free and turbo pascal file handling is much more easier than in delphi in pascal we have assign instead of assignfile and close instead of closefile
+
+pov,object,paradigm,fpc,dialect,default,code,advanced,interface-based,plumbing,xe2,compiler
+from my pov the object pascal paradigm used with fpc object pascal dialect which can coexist with the default object pascal code is more advanced lightweight and integrated than the interface-based plumbing of delphi xe2 compiler with on-the-fly marshalling using rtti
+

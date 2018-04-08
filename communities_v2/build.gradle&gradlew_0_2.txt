@@ -1,0 +1,8 @@
+other---------------------------------------------------
+
+better,ivy,dependency,management
+i naively assumed that gradlew is better than ivy then when i created my build.gradle the dependency management is even greater mess than of ivy s for the first look
+
+higher,priority,value,androidmanifest.xml,application
+although build.gradle has a higher priority so the value in androidmanifest.xml will be ignored by gradlew while building your application
+

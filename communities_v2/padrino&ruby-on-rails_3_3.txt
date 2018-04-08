@@ -1,0 +1,13 @@
+0---------------------------------------------------
+
+sinatra,faster
+sinatra and padrino are not automatically faster than ruby-on-rails
+
+wuliwong,sinatra,complex
+as wuliwong said sinatra and padrino are way less complex than ruby-on-rails
+
+other---------------------------------------------------
+
+sinatra,footprint,speed,better
+but i don t know anything about sinatra and padrino is the footprint and speed really that better than ruby-on-rails
+

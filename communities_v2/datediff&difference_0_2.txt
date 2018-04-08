@@ -1,0 +1,8 @@
+other---------------------------------------------------
+
+difficult,dateparts,minutes,seconds
+datediff becomes more difficult to use as you have more dateparts in your difference in your case looks like minutes and seconds
+
+diffseconds,overflow,larger,int32.maxvalue,error,function
+note that diffseconds can cause an overflow when the difference becomes larger than int32.maxvalue error the datediff function resulted in an overflow
+

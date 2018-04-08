@@ -1,0 +1,8 @@
+other---------------------------------------------------
+
+copying,slower,scenario,malloc,data,allocation,address,block
+as we can see copying manually with memcpy is always slower than realloc because in this scenario malloc is guaranteed to allocate new memory and you re forced to copy the data in every allocation which shows us that realloc is indeed reusing the same address and enlarging the block size in some cases
+
+tests,faster,memalloc,free
+as you can see from the above tests realloc is consistently faster compared to memalloc memcpy and free
+

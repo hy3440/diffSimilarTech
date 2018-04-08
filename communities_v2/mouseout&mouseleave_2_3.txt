@@ -1,0 +1,11 @@
+other---------------------------------------------------
+
+better
+there can be times when mouseout is a better choice than mouseleave
+
+better,text
+also see i ve replaced mouseout with mouseleave which should work better than mouseout text will not jump up and down
+
+browsers,mouseenter,events,accurate
+some browsers implement the mouseenter mouseleave events that i ve noticed are more accurate than mouseout
+

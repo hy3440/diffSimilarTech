@@ -1,0 +1,8 @@
+other---------------------------------------------------
+
+smaller,full
+xfce runs much smaller than gnome and is full featured
+
+options,vm,lighter,weight,days
+you might want to look at one of these options if you re running in a vm since xfce is slightly lighter weight than gnome although not all that much lighter these days
+

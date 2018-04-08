@@ -1,0 +1,11 @@
+other---------------------------------------------------
+
+statement
+my question is how can i execute more than 1 prepare statement
+
+statement,sooner,later
+any execute statement becomes prepare sooner or later it need to be parsed optimized compiled and then execute
+
+execution,faster,statements,statement,time
+prepare execution is faster than direct execution for statements execute more than three or four times because the statement is compiled only once while statements execute directly are compiled each time they are execute
+

@@ -1,0 +1,11 @@
+other---------------------------------------------------
+
+part,equation,segment,numbers,larger,smaller,medians..
+so the t 7n 10 is the part of continuing the equation with the max segment of numbers that is larger smaller than the median of medians..
+
+first,k,heap,min,greater,pointers,heapify
+so after calculating median of first k elements delete the first element directly from heap min or max according to whether it is greater or less than median using pointers and then use heapify at that position
+
+number,elements,greater
+therefore the max number of elements you could have that are greater than or less than the median of median is 3 10 + 2 10 + 2 10 7 10
+
