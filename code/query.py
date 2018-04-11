@@ -3,6 +3,7 @@ from gensim.corpora import Dictionary
 from gensim.similarities import WmdSimilarity
 
 
+
 corpus_file = open(os.path.join(os.pardir, "keywords", "corpus.pkl"), 'rb')
 corpus = pickle.load(corpus_file)
 corpus_file.close()
@@ -24,7 +25,7 @@ def set_shreshold(a, b):
     #     return 0.55 - 0.1 ** abs(a - b)
     return 0.55 - 0.05 ** abs(a - b)
 
-i = 3
+i = 1
 sims = index[corpus[i]]
 print("query:")
 print(corpus[i])

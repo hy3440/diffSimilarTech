@@ -13,15 +13,22 @@ from nltk.tag.stanford import CoreNLPPOSTagger
 query_flag = False
 ver_flag = True
 if ver_flag:
-    com_dir = "communities_v2"
-else:
     com_dir = "communities"
+else:
+    com_dir = "communities_"
 flag = False # all sentences
 pos_flag = True
 if pos_flag:
     pos = ""
 else:
     pos = "_without_pos_"
+
+pairs = [("3des", "aes"), ("png", "bmp"), ("g++", "gcc"), # < 10
+         ("postgresql", "mysql"), ("udp", "tcp"), # >100
+         ("quicksort", "mergesort") # 50 ~ 100
+         ("vmware", "virtualbox"), ("datamapper", "activerecord"), ("sortedlist", "sorteddictionary"), # 10 ~ 15
+         ("testng", "junit"), ("jruby", "mri"), # 15 ~ 20
+         ("rsa", "aes"), ("compiled-language", "interpreted-language"), ("google-chrome", "safari"), ("heapsort", "quicksort")] #20 ~ 50
 # pair = ("postgresql", "mysql")
 # pair = ("udp", "tcp")
 # pair = ("datamapper", "activerecord")
@@ -30,7 +37,8 @@ else:
 # pair = ("3des", "aes")
 # pair = ("nfa", "dfa")
 # pair = ("awt", "swing")
-pair = ("mouseleave", "mouseover")
+pair = ("testng", "junit")
+# pair = pairs[-1]
 
 # Prepare POS tagger
 pos_tag_set = {"JJR", "JJ", "NN", "NNS", "NNP", "NNPS", "RBR", "RBS", "JJS"}
@@ -43,10 +51,14 @@ stop_words = pickle.load(open(os.path.join(os.pardir, "data", "stop_words.pkl"),
 
 # Prepare stop phrases
 stop_phrases = [["for", "example"], ["in", "terms", "of"], ["keep", "in", "mind"],
-                ["in", "this", "case"], ["a", "lot"], ["a", "lot", "of"], ["lots", "of"],
+                ["in", "this", "case"],
                 ["a", "bit"], ["of", "course"], ["due", "to"], ["generally", "speaking"],
                 ["in", "general"], ["at", "the", "moment"], ["from", "my", "point", "of", "view"],
-                ["in", "my", "experience"]]
+                ["in", "my", "experience"], ["at", "least"], ["at", "most"],
+                ["from", "my", "experience"], ["in", "so", "many", "ways"],
+                ["hard", "data"], ["sorted", "data"], ["unsorted", "data"],
+                ["by", "index"], ["new", "element"], ["are", "familiar", "of"],
+                ["ios", "google-chrome"], ["several", "tests"]]
 
 # Prepare tags set
 # tags = pickle.load(open(os.path.join(os.pardir, "data", "tags.pkl"), 'rb'))
@@ -138,7 +150,7 @@ def main():
         def set_shreshold(a, b):
             if ver_flag:
                 if a == b:
-                    return 0.55
+                    return 0.5
                 return 0.55 - 0.05 ** abs(a - b)
             else:
                 if a == b:
@@ -179,12 +191,31 @@ def main():
         plt.savefig(image_path)
         # plt.show()
 
-        # Detect communities
-        communities_generator = community.girvan_newman(G)
-        top_level_communities = next(communities_generator)
-        # next_level_communities = next(communities_generator)
-        communities = sorted(map(sorted, top_level_communities))
-        # next_communities = sorted(map(sorted, next_level_communities))
+        nnodes = G.number_of_nodes()
+
+        if nnodes == 2:
+            communities = []
+            communities.append(G.nodes())
+        elif nnodes <= 15:
+            communities_generator = community.girvan_newman(G)
+            temp_communities = next(communities_generator)
+            communities = sorted(map(sorted, temp_communities))
+        else:
+            if nnodes < 50:
+                part = 2 / 3
+            else:
+                part = 1 / 3
+            # Detect communities
+            communities_generator = community.girvan_newman(G)
+            div_flag = True
+            while div_flag:
+                temp_communities = next(communities_generator)
+                communities = sorted(map(sorted, temp_communities))
+                div_flag = False
+                for com in communities:
+                    if len(com) > l * part:
+                        div_flag = True
+                        break
         num = 0
         graph_indices = set()
         with open(out_path, "a") as out_file:
@@ -206,4 +237,8 @@ def main():
 # for pair in relations.keys():
 #     if len(relations[pair]) > 2:
 #         main()
+
+# for pair in pairs:
+#    main()
+
 main()

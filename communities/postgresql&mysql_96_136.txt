@@ -1,0 +1,416 @@
+0---------------------------------------------------
+
+query,optimizer,advanced,complicated,statements
+the query optimizer in postgresql is more advanced than in mysql and copes with complicated statements much better especially when it comes to sub-selects
+
+complete,solid,queries,optimization,retrieval,speed
+postgresql is much more complete and solid and will much better support complex queries and their optimization while mysql may shine in terms of retrieval speed for extremely simple queries
+
+operations,better
+generally speaking i find postgresql lends itself to 24 7 operations better than mysql
+
+free,oracle,powerful
+i cannot propose any db not knowing your specific needs but if you want to use a free software which excludes oracle and you re not already experienced with mysql you should try postgresql which is more powerful than mysql
+
+fewer,security,issues
+traditionally postgresql has had fewer security issues than mysql but they are both doing very well on that
+
+mature,robust
+i feel postgresql is much more mature and robust than mysql
+
+experience,faster,big,tables
+according to my own experience postgresql run much faster than mysql especially handling big tables 1.4 gb lineitem table in my case
+
+select,count,slower
+unfortunately in postgresql select count is often slower than mysql to which it often get s compared to
+
+little,easier,cool,features
+mysql is more widely supported and a little easier to use but postgresql has some very cool features and functionality that s worth taking a gander at
+
+group,leader,better
+what i am hearing from our group leader is that postgresql is better than mysql when working with coordinates
+
+research,better,support,schemas
+the only reason i was considering postgresql was that some research suggested postgresql has much better support for changing schemas along the way than mysql
+
+harder
+does this affect postgresql harder than mysql
+
+reputation,things,better,least,good,similar,performance
+given postgresql s reputation for doing things better than mysql or at least as good as i daresay that postgresql would demonstrate similar performance if properly used
+
+popular,serious,web
+while postgresql is less popular than mysql most of the serious web hosting supports it
+
+slower,certain,point
+postgresql is already slower than mysql up to a certain point it is actually faster when you have a ridiculously large database
+
+tricks,complicated,queries,optimizer
+in general postgresql knows more tricks for how to optimize complicated queries than the mysql optimizer does but it also relies heavily on your having given the optimizer enough data to work with
+
+famous,serious,data,critical
+while mysql is more famous for serious enterprise-quality database where preserving your data is critical i recommend postgresql
+
+performance,test,slower
+i did a simple performance test and i noticed postgresql is slower than mysql
+
+fewer,experienced,big,databases,reputation
+and postgresql has fewer experienced administrators than the big databases and mysql which i believe contributes to the reputation
+
+better,imo,database,django
+postgresql is also a lot better imo than mysql and is the recommended database to use with django according to a lot of the people close to django
+
+easier
+mysql is easier than postgresql but it doesn t really matter either way
+
+beginner,fewer,surprises
+i would recommend postgresql for a beginner as it has far fewer surprises than mysql
+
+better,purpose
+is postgresql better than mysql for such purpose
+
+workloads,better
+there are workloads where postgresql is better and there are workloads where mysql is better
+
+cleaner,easier
+however people often argue that postgresql is cleaner and easier to use that mysql
+
+time,needs,better
+also you might take the time to compare postgresql and see if there is something about it that meets your needs as well or better than mysql
+
+sql,reccommend,large,databases,frequent,better
+if you want to use sql i strongly reccommend postgresql it seems to deal with large databases and frequent writes a lot better than mysql
+
+concurrent,use,better
+with correct locking for safety reasons and heavy concurrent use postgresql performed better than mysql
+
+words,better,worse,unicode
+in other words is mysql better or worse than postgresql to handle unicode etc
+
+robust,crash,situations
+i hear postgresql is more robust and doesn t crash like mysql does in these situations
+
+better,ways
+postgresql is better than mysql in many ways
+
+better
+an efficiently configured mysql is better than a badly configured postgresql and vice-versa
+
+restrictive
+postgresql is a bit more restrictive than mysql
+
+better,performance,former,partisan
+postgresql gets much better performance and this is coming from a former mysql partisan
+
+better,option,tables,date
+is postgresql a better option than mysql for partitioning tables by date
+
+better,data,warehousing
+postgresql is much better suited for data warehousing compared to mysql
+
+simple,queries,slower,richer,planner
+for these ultra simple queries postgresql can be slower than mysql - postgresql has richer planner that works better on more complex queries but on trivial queries is slower
+
+run,4x,faster
+mysql run 4x faster than postgresql
+
+better,security,purposes,feature,rich.
+some people were saying that postgresql is better for security purposes whereas mysql is becoming more feature rich.
+
+better,support,storage,engine
+postgresql has better support but the support by mysql depends on the used storage engine
+
+easier,aspects,logical
+you might look at postgresql as i find it a bit easier to manage and maintain as i feel some aspects are more logical than mysql
+
+group,leader,better
+the other question is that what i am hearing from our group leader is that postgresql is better than mysql when working with coordinates
+
+tuning,optimal,performance
+postgresql requires more tuning than mysql to achieve optimal performance
+
+easier,simplicity,advantage
+postgresql specifically has gotten easier to manage while mysql has lost some of the simplicity that gave it an advantage without picking up enough features that really matter
+
+better,respect
+postgresql is way better than mysql in nearly every respect
+
+shared,providers,powerful
+mysql is probably more often offered by shared hosting providers postgresql is probably a little more powerful
+
+indexes,better
+i really like postgresql s indexes which are far better than mysql s
+
+better,hierarchical,data,ready
+i was told that postgresql is a better choice than mysql for displaying hierarchical data so i installed postgresql and i m ready to go
+
+large,datasets,fulltext,10-100x,faster,xapian,integrated
+i did some benchmarking 3 years ago may be stale... which showed that on large datasets basically postgresql fulltext is 10-100x faster than mysql and xapian 10-100x faster than postgresql but not integrated
+
+capable,features,queries,datatypes,tuning,options
+i suggest postgresql it s more capable has more features and better support for complex queries and datatypes than mysql and has a lot of tuning options
+
+bad,longterm,better,db,satisfied
+anyways mysql is bad and on longterm especially if you are enough good for java i suggest you to use some better db with postgresql you were really satisfied i think
+
+security,aware,roles,authentication
+i d have said that postgresql is more security aware than mysql supporting roles more authentication methods ... but that the database itself has generally a very limited impact on the security of an application
+
+shame,popular,feature,out-of-the-box
+it s a shame postgresql isn t more popular than mysql since it supports exactly this feature out-of-the-box you d only have to share one sequence object between tables.
+
+scales,better
+honestly though postgresql scales much better than mysql
+
+nested,comments,hierarchical,better
+i d also recommend postgresql over mysql if you are going to have nested comments as postgresql does hierarchical querying better than mysql
+
+databases,slew,problems,better
+i just recently switched databases to postgresql which has given me a slew of problems although i must admit i like it a lot better than mysql
+
+better,capabilities,json,versions
+i found that postgresql 9.3 has better capabilities for json than the mysql versions i am using
+
+proven,huge,data
+either postgresql more proven than mysql for such huge data
+
+robust,free
+there is also postgresql its a bit more robust than mysql and is free just the same
+
+superior,hate,bizarre,bugs,performance,better,complicated,query
+as i said postgresql is far superior and i hate mucking with mysql s bizarre bugs and i think that overall postgresql performance is probably better than mysql for any even slightly complicated query
+
+sure,better,things,uses
+now i m not sure if i d say postgresql is generally better than mysql -- there are certainly things that mysql does much better and so it certainly has its uses -- but these are a few things i absolutely love about it
+
+better,speed
+postgresql seem to better than mysql in terms of speed
+
+slower,fine,tuning
+in most regards postgresql is slower than mysql especially when it comes to fine tuning in the end
+
+faster,transactions,sound
+mysql i am told can be optimized to do faster reads than postgresql but both are pretty ridiculously fast in terms of # transactions sec they support and it doesn t sound like that s your problem
+
+wiki,better
+and a wiki for why postgresql is better than mysql
+
+rails,slower,query,background
+do you find rails with postgresql is slower than mysql knowing that it produce more query on the background
+
+personal,openion,slower,mongo,db
+in my personal openion mysql is slower than postgresql and mongo db
+
+version,faster,advanced,spatial
+mysql s version is apparently marginally faster than postgresql but lacks some of the more advanced spatial features therefore it s pretty much limited to finding records that match a certain range of coordinates
+
+better,unicode
+in my cases postgresql was better than mysql mysql do not completely support unicode
+
+powerful,scalable,silly,limitations
+postgresql is far more powerful and scalable and doesn t have mysql s silly limitations and gotchas
+
+faster
+postgresql is faster than mysql s innodb
+
+scalable,database,better
+i would need a scalable database so probably postgresql would be better than mysql
+
+little,bit,mature
+postgresql will always be a little bit more mature than mysql
+
+better
+then postgresql is much better than mysql
+
+capable,others,django
+why postgresql is more capable than others mysql etc. on django
+
+better,bigger,projects,others
+some say mysql is much better for bigger projects while others think just go with postgresql
+
+popular,instagram
+though mysql is more popular than postgresql but instagram is using postgresql maybe due to these reasons
+
+better,option,query,likely
+in your case postgresql may be a better option than mysql because your query is going to likely be against secondary indexes
+
+data,capabilities,better
+if you need spatial data capabilities postgis with postgresql is better than mysql
+
+recursive,queries,data,easier,better,performance
+postgresql supports recursive queries in the form of recursive common table expressions which make querying heirarchical data easier than in mysql and also give better performance
+
+picky,pickier,fields,select
+postgresql is picky pickier than mysql -- all fields in the select list when using distinct must be present in the order_by and group_by clauses
+
+expirience,slower
+i ve found that postgresql is in my expirience is slower as mysql
+
+sql,features,advanced,tendency,things
+however postgresql s sql features are far more advanced than mysql s and mysql has a tendency to silently ignore things you tell it to do - especially in a default installation and if you rely on a foreign key to be created that might be a very unpleasant surprise
+
+1---------------------------------------------------
+
+error,implementation,sql
+i totally understand the error and assume that the mysql implementation is less sql conform than the postgresql implementation
+
+stricter,conversions,error,string
+postgresql is stricter about conversions than mysql is and generally will throw an error rather than try to convert a string to an integer if it doesn t look like one
+
+permissive,non-standard,use,distinct,error
+mysql is more permissive and allows the non-standard use of distinct but postgresql throws an error
+
+aware,interpretation,sql,standard,stricter,type,query
+i am aware that postgresql interpretation of the sql standard is stricter than mysql and that consequently this type of query won t work...and have read a number of posts on stackoverflow and elsewhere on the subject - but none of them seem to be the definitive answer on this subject
+
+compliant
+postgresql is more sql compliant than mysql
+
+stricter,sql,standard
+postgresql is stricter to the sql standard than mysql is
+
+wrong,fields,aggregation,function,stricter,sql,site_id,query
+but in mysql it is ok and in postgresql it is wrong and ask for the other fields besides site_id either in a group by clause or in a aggregation function i know that postgresql is stricter on sql than mysql so i must select the site_id in the query object of msg_published but in pure sqlalchemy i can do like this
+
+correct,database,implementation,compliant
+from how i understand it postgresql is a more correct database implementation while mysql is less correct less compliant but faster
+
+acid,compliant,fks,post
+all that said postgresql is much more acid compliant than mysql it handles fks just as you re needing and i would generally recommend it based on what you ve expressed in your post
+
+looks,compliant
+looks like postgresql is a little more compliant than mysql so try this instead
+
+compliant,comfortable,orm
+postgresql is more compliant but if you re comfortable with mysql and you re using an orm you should probably use that
+
+2---------------------------------------------------
+
+mariadb,worse
+mysql mariadb is slightly worse than postgresql
+
+timings,worse
+i just checked the timings using mysql 5 and they are slightly worse than postgresql
+
+other---------------------------------------------------
+
+resistant,sql,injection
+the question is is mysql somehow more resistant than postgresql to sql injection attack under the perl dbi and why might this be the case
+
+forgiving,reserved,word
+it seems mysql is more forgiving with this than postgresql but in every case you use a reserved word you should escape it
+
+similar
+postgresql is much more similar to oracle than mysql is
+
+license,bsd,simple
+postgresql license bsd is undoubtedly more simple than mysql s
+
+flexible,indexing,table,approaches
+not only does postgresql have a far more flexible indexing than mysql but the table approaches are very different also meaning the appropriate indexing strategies are as different as the tactics are
+
+btw,incase,things
+i am using postgresql btw which can do more than mysql incase that changes things
+
+weak,point,better,changes,rollbacks
+this is a weak point that iirc postgresql can handle better but with mysql you have to work around that by reverting the changes yourself in case of rollbacks
+
+mature,thanks,mvcc,row-locking,feature,token,field
+i know postgresql could be considered more mature than mysql with regards to locking thanks to mvcc - can i use row-locking or some other feature in postgresql instead of the token field
+
+thing
+mysql is not less complicated that postgresql -- they re the same thing
+
+capable,needs,alex,suggestion
+mysql is more than capable of serving your needs as well as alex s suggestion of postgresql
+
+django,easy,query,data,db,faster,x10,shows,indexes
+with django it is easy to use postgresql instead of mysql so i tried it with the same query and same data in db postgresql is much faster that mysql x10 more faster while using inner join analyse shows it uses indexes unlike mysql
+
+pyqt,available,splendid,open-source,engine,standard,py-postgresql
+for example pyqt is already available for python 3 as well as 2 and you can use postgresql a splendid open-source sql database engine much more standard than mysql via py-postgresql
+
+optional,hstore,module,better,this.
+postgresql with the optional hstore module might be better than mysql at this.
+
+ps,smarter,right,indexes
+ps you can also migrate to postgresql it s smarter than mysql when choosing right indexes
+
+ancedotal,servers,troublesome,table
+this is ancedotal but the postgresql servers i ve managed have always been much less troublesome than mysql which likes to randomly crash once in a while occasionally corrupting a table on the way down
+
+reliability,reliable,myisam,innodb
+as for reliability i think that postgresql is more reliable especially when compared to mysql using myisam - innodb is a lot better here
+
+useful
+explain in postgresql is way more useful than in mysql
+
+incomplete,version,opengis,support,proper,indexing,geospatial,actions,better,postgis,sure
+in fact this presentation which still refers to an older incomplete version of mysql s opengis support suggests that with proper indexing some mysql geospatial actions may actually perform better than postgresql postgis though i m sure that s up for debate
+
+older
+postgresql is older than mysql so it might have influenced them
+
+advanced
+postgresql is worth learning and much more advanced than mysql
+
+fyi,scales,better,multi-processor,requests
+fyi postgresql scales better than mysql on multi-processor overlapping requests from a review i was reading a few months back sorry no link
+
+security,features,integration,gssapi,logins,last
+postgresql supports some more security features than mysql for example integration with gssapi or kerberos for logins last i checked mysql didn t have these
+
+team,favor
+does that mean perhaps rails team favor postgresql slightly more than mysql
+
+strict,type,conversion
+postgresql is a little more strict than mysql about type conversion and does not let you implicitly cast convert between numbers and strings
+
+larger,user,base,popularity,several
+while mysql has a larger user base postgresql is gaining more an more popularity ever since implementing several crucial features that were missing in earlier versions
+
+relational,databases
+if you are looking for location based queries in relational databases postgresql is more matured compared to mysql
+
+recent,tests,faster,table,feature,important
+some recent tests we did showed that postgresql does perform faster than mysql and we believe the table partitioning feature in postgresql will be very important with a table in our database we foresee to grow into 100 million rows and more in production
+
+wonder,single,insert,statement,faster,autocommit
+i wonder why postgresql s single insert statement is completely faster than mysql s when autocommit is turned on
+
+first,answer,compliant,standard,group,clause
+following the first answer it appears that postgresql is more compliant to sql standard than mysql so it needs a group by clause for each selected column you want to display with your aggregated function
+
+triggers,syntax,complex,procedures,action
+triggers in postgresql have a syntax a bit more complex than mysql because they execute procedures as the action
+
+queries,100ms,complex,activerecord,15s,nested,loops
+i had mentioned that in our rails application all select queries dropped below 100ms after switching to postgresql whereas some of the complex joins generated by activerecord would occasionally take as much as 15s or more with mysql 5.1 because of nested loops with inner table scans even when indices were available
+
+sane,tricks
+since postgresql is a lot more sane than mysql there are not that many tricks to report on
+
+established,support,last,year
+postgresql has more established support for this but mysql has played catch up in the last year or so and has a working method of this in the latest versions
+
+use,indexes,bigger,repertoar,gist,gin
+b use indexes - postgresql has bigger repertoar of indexes then mysql so use it - there are gist gin indexes
+
+poor,performance,smart,plan,sql,server,oracle
+poor performance from mysql has more to do with it not being smart and automatically creating an optimized plan like sql server postgresql or oracle would
+
+better,handling,sub-selects,like,users
+i also personally believe that postgresql has better handling of complex queries that include sub-selects and the like which most mysql users used to avoid
+
+open,source,smarter
+if you want open source postgresql is much smarter than mysql as well
+
+able,server,safer,bet
+if i were able to upgrade the server s versioning of mysql to 5.5 would innodb be a safer bet than postgresql
+
+drupal,higher,pdo
+drupal 7 mysql 5.0.15 or higher with pdo postgresql 8.3 or higher
+
+time
+may be postgresql takes less time than mysql
+

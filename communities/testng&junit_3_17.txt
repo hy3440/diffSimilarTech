@@ -1,0 +1,55 @@
+0---------------------------------------------------
+
+easier
+if you are familiar of using junit it is easier to switch into testng
+
+better
+isn t testng supposed to a better than junit
+
+other---------------------------------------------------
+
+direct,simpel,features,complex
+junit is more direct and simpel to use if you start to learn java testng has more features but maybe is more complex
+
+easier
+i know this can be achieved with junit but in my experience it is easier with testng
+
+testing,framework,bigger,feature,set
+in case if you have flexibility to choose another testing framework you can try with testng which has bigger feature set than junit
+
+options,possibilites,tests,order
+testng offers you more options and possibilites how to run your tests and in which order especially something junit can t
+
+honest,popular,work
+to be perfectly honest i junit is way more popular than testng at least here where i work and live
+
+contrived,parameters,functions
+here is what it would look like with testng it s a little more contrived with junit since you can t pass parameters directly to test functions
+
+non-unit,testing,better
+if you re doing non-unit testing testng might be a better option than junit
+
+configurable,end
+testng strives to be much more configurable than junit but in the end they both work equally well
+
+flexible,multiple,advantages
+testng is more flexible than junit and have multiple advantages like support for parallel testing for example
+
+flexible
+if you have to do a lot of this honestly testng is more flexible but you can absolutely get it done in junit
+
+extension,similar,better,solution
+if there is a junit extension or similar framework that provides a better solution than testng then please let me know
+
+friendlier,paradigm
+testng is much friendlier to this paradigm than junit though
+
+books,references,amazon
+edit it seems junit has more printed books as references compared to testng on amazon
+
+capabilities,helpful,integration,tests,unit
+testng has more capabilities and can be helpful with integration tests junit is more focused on unit tests
+
+sure,multi-thread,last,time,better,results
+firstly i am not sure how to properly use multi-thread with junit last time i tried i had no success anyway i have had better results with testng
+
