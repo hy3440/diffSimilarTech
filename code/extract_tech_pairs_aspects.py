@@ -25,11 +25,11 @@ else:
 
 pairs = [("3des", "aes"), ("png", "bmp"), ("g++", "gcc"), # < 10
          ("postgresql", "mysql"), ("udp", "tcp"), # >100
-         ("quicksort", "mergesort") # 50 ~ 100
+         ("quicksort", "mergesort"), # 50 ~ 100
          ("vmware", "virtualbox"), ("datamapper", "activerecord"), ("sortedlist", "sorteddictionary"), # 10 ~ 15
          ("testng", "junit"), ("jruby", "mri"), # 15 ~ 20
          ("rsa", "aes"), ("compiled-language", "interpreted-language"), ("google-chrome", "safari"), ("heapsort", "quicksort")] #20 ~ 50
-# pair = ("postgresql", "mysql")
+pair = ("postgresql", "mysql")
 # pair = ("udp", "tcp")
 # pair = ("datamapper", "activerecord")
 # pair = ("sortedlist", "sorteddictionary")
@@ -37,7 +37,8 @@ pairs = [("3des", "aes"), ("png", "bmp"), ("g++", "gcc"), # < 10
 # pair = ("3des", "aes")
 # pair = ("nfa", "dfa")
 # pair = ("awt", "swing")
-pair = ("testng", "junit")
+# pair = ("testng", "junit")
+# pair = ("quicksort", "mergesort")
 # pair = pairs[-1]
 
 # Prepare POS tagger

@@ -26,7 +26,7 @@ def set_shreshold(a, b):
     return 0.55 - 0.05 ** abs(a - b)
 
 i = 1
-sims = index[corpus[i]]
+sims = index[["recursive", "base", "quicker"]]
 print("query:")
 print(corpus[i])
 print(sentences[i])

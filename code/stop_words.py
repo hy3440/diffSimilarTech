@@ -115,6 +115,9 @@ stop_words.add("google-chrome")
 stop_words.add("opera")
 stop_words.add("diff2")
 stop_words.add("js")
+stop_words.add("scenarios")
+stop_words.add("vice")
+stop_words.add("vesa")
 
 with open(os.path.join(os.pardir, "data", "stop_words.pkl"), 'wb') as stop_words_file:
     pickle.dump(stop_words, stop_words_file)
