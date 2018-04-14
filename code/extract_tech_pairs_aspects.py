@@ -2,14 +2,17 @@
 import gensim, os, pickle
 from gensim.corpora import Dictionary
 from gensim.similarities import WmdSimilarity
+import math
 import matplotlib.pyplot as plt
 import networkx as nx
 from networkx.algorithms import community
 from nltk import pos_tag
 from nltk.tag.stanford import CoreNLPPOSTagger
+from textblob import TextBlob as tb
 
 
 #Setting
+aspects = {}
 query_flag = False
 ver_flag = True
 if ver_flag:
@@ -29,7 +32,8 @@ pairs = [("3des", "aes"), ("png", "bmp"), ("g++", "gcc"), # < 10
          ("vmware", "virtualbox"), ("datamapper", "activerecord"), ("sortedlist", "sorteddictionary"), # 10 ~ 15
          ("testng", "junit"), ("jruby", "mri"), # 15 ~ 20
          ("rsa", "aes"), ("compiled-language", "interpreted-language"), ("google-chrome", "safari"), ("heapsort", "quicksort")] #20 ~ 50
-pair = ("postgresql", "mysql")
+
+# pair = ("postgresql", "mysql")
 # pair = ("udp", "tcp")
 # pair = ("datamapper", "activerecord")
 # pair = ("sortedlist", "sorteddictionary")
@@ -39,6 +43,8 @@ pair = ("postgresql", "mysql")
 # pair = ("awt", "swing")
 # pair = ("testng", "junit")
 # pair = ("quicksort", "mergesort")
+# pair = ("rsa", "aes")
+pair = ("vmware", "virtualbox")
 # pair = pairs[-1]
 
 # Prepare POS tagger
@@ -71,13 +77,33 @@ relations = pickle.load(relations_file)
 relations_file.close()
 
 
+# Prepare tf-idf
+def tf(word, blob):
+    return blob.words.count(word) / len(blob.words)
+
+
+def n_containing(word, bloblist):
+    return sum(1 for blob in bloblist if word in blob.words)
+
+
+def idf(word, bloblist):
+    return math.log(len(bloblist) / (1 + n_containing(word, bloblist)))
+
+
+def tfidf(word, blob, bloblist):
+    return tf(word, blob) * idf(word, bloblist)
+
+
 def main():
+    information = {}
     sentences = set()
     for items in relations[pair]:
         sentences.add(items[5])
+        information[items[5]] = (items[0], items[1], items[2], items[4])
     sentences = list(sentences)
     l = len(sentences)
     corpus = []
+    topics = []
     for sentence in sentences:
         if pos_flag:
             words = sentence.split()
@@ -104,6 +130,8 @@ def main():
                 elif word not in stop_words and tag in pos_tag_set and word is not None:
                     keywords.append(word)
                     i += 1
+            # topics.append(" ".join(keywords))
+            # topics.append(sentence.strip())
             if len(keywords) <= 10 and flag:
                 ws = [w for w in keywords if w not in pair]
             else:
@@ -126,6 +154,7 @@ def main():
             #     keywords_file.write(",".join(ws)+"\n")
             #     keywords_file.write(sentence+"\n")
             corpus.append(ws)
+            topics.append(" ".join(ws))
         else:
             corpus.append([w for w in sentence.split() if w not in stop_words])
 
@@ -151,7 +180,7 @@ def main():
         def set_shreshold(a, b):
             if ver_flag:
                 if a == b:
-                    return 0.5
+                    return 0.52
                 return 0.55 - 0.05 ** abs(a - b)
             else:
                 if a == b:
@@ -194,7 +223,7 @@ def main():
 
         nnodes = G.number_of_nodes()
 
-        if nnodes == 2:
+        if nnodes < 4:
             communities = []
             communities.append(G.nodes())
         elif nnodes <= 15:
@@ -219,21 +248,36 @@ def main():
                         break
         num = 0
         graph_indices = set()
+        bloblist = []
+        clusters = []
+        for com in communities:
+            if len(com) > 1:
+                doc = ""
+                for i in com:
+                    doc += topics[i] + " "
+                bloblist.append(tb(doc))
+                clusters.append(com)
+
+
         with open(out_path, "a") as out_file:
-            for com in communities:
-            # for com in next_communities:
-                if len(com) > 1:
-                    out_file.write("{}---------------------------------------------------\n\n".format(num))
-                    for i in com:
-                        out_file.write(",".join(corpus[i])+"\n")
-                        out_file.write(sentences[i]+"\n")
-                        graph_indices.add(i)
-                    num += 1
+            for i, blob in enumerate(bloblist):
+                print("Top words in document {}".format(i + 1))
+                scores = {word: tfidf(word, blob, bloblist) for word in blob.words}
+                sorted_words = sorted(scores.items(), key=lambda x: x[1], reverse=True)
+                for word, score in sorted_words[:3]:
+                    out_file.write(word+", ")
+                    print("\tWord: {}, TF-IDF: {}".format(word, round(score, 5)))
+                out_file.write("---------------------------------------------------\n\n")
+                for j in clusters[i]:
+                    out_file.write(",".join(corpus[j])+"\n")
+                    out_file.write(sentences[j]+"\n")
+                    graph_indices.add(j)
+                num += 1
             out_file.write("other---------------------------------------------------\n\n")
-            for i in range(len(sentences)):
-                if i not in graph_indices:
-                    out_file.write(",".join(corpus[i])+"\n")
-                    out_file.write(sentences[i]+"\n")
+            for j in range(len(sentences)):
+                if j not in graph_indices:
+                    out_file.write(",".join(corpus[j])+"\n")
+                    out_file.write(sentences[j]+"\n")
 
 # for pair in relations.keys():
 #     if len(relations[pair]) > 2:

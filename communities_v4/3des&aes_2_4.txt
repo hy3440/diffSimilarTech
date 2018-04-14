@@ -1,0 +1,16 @@
+faster, slower, ---------------------------------------------------
+
+faster
+should be as fast as 3des aes turned out to be much faster than 3des in software typically 5 to 10 times faster
+
+slower
+furthermore 3des is much slower than aes
+
+other---------------------------------------------------
+
+expensive
+3des is more expensive than aes for example
+
+least,secure,better
+des is the least secure 3des is better but i d go for the aes
+

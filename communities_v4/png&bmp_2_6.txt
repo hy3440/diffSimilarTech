@@ -1,0 +1,22 @@
+faster, slower, ---------------------------------------------------
+
+faster
+i have a sample wpf app here and wondering why bmp is loading faster than png
+
+slower
+jpg png is slower to draw than a bmp
+
+other---------------------------------------------------
+
+new,format,in-memory,smaller,current,data
+rebuild a new png format in-memory data which is much more smaller than current bmp data and send the new png format data by socket to remote server
+
+image,backbuffer,copies,lower,resolution
+is not simple scale or crop but to be able to rotate scale and crop every single sprite and draw it in the exactly order to compose the final hight resolution image in a backbuffer then save it in bmp and make some copies in lower resolution as png
+
+files,natural,transparency,smaller
+not only do png files have natural support for transparency they are also smaller than bmp files
+
+note,format,complex,compression
+note that the png format is much more complex than bmp since it allows compression etc
+

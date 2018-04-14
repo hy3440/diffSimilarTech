@@ -118,6 +118,16 @@ stop_words.add("js")
 stop_words.add("scenarios")
 stop_words.add("vice")
 stop_words.add("vesa")
+stop_words.add("lg")
+stop_words.add("î")
+stop_words.add("nlogn")
+stop_words.add("rc3")
+stop_words.add("freebsd")
+stop_words.add("sample")
+stop_words.add("advantages")
+stop_words.add("smp")
+stop_words.add("sure")
+
 
 with open(os.path.join(os.pardir, "data", "stop_words.pkl"), 'wb') as stop_words_file:
     pickle.dump(stop_words, stop_words_file)

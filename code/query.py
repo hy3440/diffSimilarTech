@@ -20,13 +20,14 @@ index = WmdSimilarity(corpus, model, num_best=10)
 
 def set_shreshold(a, b):
     if a == b:
-        return 0.55
+        return 0.52
     # elif a > 3 or b > 3:
     #     return 0.55 - 0.1 ** abs(a - b)
     return 0.55 - 0.05 ** abs(a - b)
 
-i = 1
-sims = index[["recursive", "base", "quicker"]]
+i = 10
+# sims = index[["flexible","multiple"]]
+sims = index[corpus[i]]
 print("query:")
 print(corpus[i])
 print(sentences[i])
