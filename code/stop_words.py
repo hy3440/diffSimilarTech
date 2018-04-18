@@ -127,7 +127,7 @@ stop_words.add("sample")
 stop_words.add("advantages")
 stop_words.add("smp")
 stop_words.add("sure")
-
+stop_words.add("â")
 
 with open(os.path.join(os.pardir, "data", "stop_words.pkl"), 'wb') as stop_words_file:
     pickle.dump(stop_words, stop_words_file)

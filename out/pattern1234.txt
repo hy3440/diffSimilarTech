@@ -1,0 +1,10 @@
+2562
+wmv	flv
+pattern3	
+i found the production of wmv much better and easier than flv because all windows flv encoders i tried are not really good and stable whereas pretty much every tool can natively output wmv
+
+6671
+junit	testng
+pattern4	
+testng strives to be much more configurable than junit but in the end they both work equally well
+

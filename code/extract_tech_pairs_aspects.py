@@ -44,7 +44,7 @@ pairs = [("3des", "aes"), ("png", "bmp"), ("g++", "gcc"), # < 10
 # pair = ("testng", "junit")
 # pair = ("quicksort", "mergesort")
 # pair = ("rsa", "aes")
-pair = ("vmware", "virtualbox")
+# pair = ("vmware", "virtualbox")
 # pair = pairs[-1]
 
 # Prepare POS tagger
@@ -264,9 +264,14 @@ def main():
                 print("Top words in document {}".format(i + 1))
                 scores = {word: tfidf(word, blob, bloblist) for word in blob.words}
                 sorted_words = sorted(scores.items(), key=lambda x: x[1], reverse=True)
-                for word, score in sorted_words[:3]:
-                    out_file.write(word+", ")
-                    print("\tWord: {}, TF-IDF: {}".format(word, round(score, 5)))
+                word_num = 0
+                for word, score in sorted_words:
+                    if word_num == 3:
+                        break
+                    if tf(word, blob) >= 0.2:
+                        word_num += 1
+                        out_file.write(word+", ")
+                        print("\tWord: {}, TF-IDF: {}".format(word, round(score, 5)))
                 out_file.write("---------------------------------------------------\n\n")
                 for j in clusters[i]:
                     out_file.write(",".join(corpus[j])+"\n")
@@ -283,7 +288,7 @@ def main():
 #     if len(relations[pair]) > 2:
 #         main()
 
-# for pair in pairs:
-#    main()
+for pair in pairs:
+   main()
 
-main()
+# main()
