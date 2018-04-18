@@ -78,7 +78,7 @@ def add_patterns(matcher):
                 [{'ORTH': 'CV'}, {}, {'ORTH': 'CIN'}, {'ORTH': 'TECH'}])
     matcher.add(6,
                 None,
-                [{'ORTH': 'CV'}, {'ORTH': 'VBG'}, {'ORTH': 'TECH'}])
+                [{'ORTH': 'CV'}, {'ORTH': 'VB'}, {'ORTH': 'TECH'}])
     matcher.add(7,
                 None,
                 [{'ORTH': 'CV'}, {'ORTH': 'TECH'}])
@@ -213,7 +213,7 @@ def get_pos_tag(techs, words):
             flag = True
             continue
         elif tag[:2] == "VB":
-            tag = "VB"
+            tags.append("VB")
         else:
             tags.append(tag)
         words.append(word)
