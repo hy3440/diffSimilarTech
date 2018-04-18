@@ -335,7 +335,9 @@ print(datetime.datetime.now())
 
 try:
     dbname = "tech"
-    for i in range(1, 2):
+    for i in range(1, 83):
+        extract(i, dbname)
+    for i in range(100, 147):
         extract(i, dbname)
 finally:
     print("current file: {}, current id: {}".format(i, current_id))
