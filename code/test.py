@@ -47,15 +47,20 @@ from prepros import *
 # # Make query.
 # query = 'trees'
 # sims = index[query]
-in_path = os.path.join(os.pardir, "data", "relations.pkl")
-relations_file = open(in_path, 'rb')
-relations = pickle.load(relations_file)
-out_path = os.path.join(os.pardir, "keywords.txt")
-with open(out_path, "a") as out_file:
-    for key, values in relations.items():
-        for value in values:
-            #if value[3] != "":
-            if True:
-                out_file.write(value[1]+"\n")
-                out_file.write(value[5])
-                out_file.write("\n")
+
+
+# in_path = os.path.join(os.pardir, "data", "relations.pkl")
+# relations_file = open(in_path, 'rb')
+# relations = pickle.load(relations_file)
+# out_path = os.path.join(os.pardir, "keywords.txt")
+# with open(out_path, "a") as out_file:
+#     for key, values in relations.items():
+#         for value in values:
+#             #if value[3] != "":
+#             if True:
+#                 out_file.write(value[1]+"\n")
+#                 out_file.write(value[5])
+#                 out_file.write("\n")
+a = 1
+with open(os.path.join(os.pardir, "a.pkl"), "wb") as f:
+    pickle.dump(a, f)
