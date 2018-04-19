@@ -10,7 +10,8 @@ import os.path
 import pickle
 from prepros import get_words
 
-batch = 10000
+batch = 480000
+s = batch * 8 * 7
 table_name = "Posts"
 pw = "ccywch"
 # pw = "yfwrshgrm"
@@ -145,7 +146,7 @@ def main(start):
     finally:
         print("Proc {}: {}/{} from {} to {} ({} posts)".format(os.getpid(), compa_sent_count, total_sent_count, start, current_id, post_count))
 
-datalist = [j*batch for j in range(8)]
+datalist = [j*batch + s for j in range(8)]
 
 procs = []
 for i in range(8):
