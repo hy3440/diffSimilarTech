@@ -27,12 +27,12 @@ if pos_flag:
 else:
     pos = "_without_pos_"
 
-pairs = [("3des", "aes"), ("png", "bmp"), ("g++", "gcc"), # < 10
-         ("postgresql", "mysql"), ("udp", "tcp"), # >100
-         ("quicksort", "mergesort"), # 50 ~ 100
-         ("vmware", "virtualbox"), ("datamapper", "activerecord"), ("sortedlist", "sorteddictionary"), # 10 ~ 15
-         ("testng", "junit"), ("jruby", "mri"), # 15 ~ 20
-         ("rsa", "aes"), ("compiled-language", "interpreted-language"), ("google-chrome", "safari"), ("heapsort", "quicksort")] #20 ~ 50
+# pairs = [("3des", "aes"), ("png", "bmp"), ("g++", "gcc"), # < 10
+#          ("postgresql", "mysql"), ("udp", "tcp"), # >100
+#          ("quicksort", "mergesort"), # 50 ~ 100
+#          ("vmware", "virtualbox"), ("datamapper", "activerecord"), ("sortedlist", "sorteddictionary"), # 10 ~ 15
+#          ("testng", "junit"), ("jruby", "mri"), # 15 ~ 20
+#          ("rsa", "aes"), ("compiled-language", "interpreted-language"), ("google-chrome", "safari"), ("heapsort", "quicksort")] #20 ~ 50
 
 # pair = ("postgresql", "mysql")
 # pair = ("udp", "tcp")
@@ -295,12 +295,14 @@ def main():
                     out_file.write(sentences[j]+"\n")
 
 
-# for pair in relations.keys():
-#     if len(relations[pair]) > 2:
-#         main()
+for pair in relations.keys():
+    if len(relations[pair]) > 2:
+        main()
+# main()
 
-for pair in pairs[3:5]:
-    main()
+# for pair in pairs[3:5]:
+#     main()
+
 with open(os.path.join(os.pardir, "aspects.pkl"), "wb") as aspects_file:
     pickle.dump(aspects, aspects_file)
 print("no. of pairs: ", len(aspects.keys()))
@@ -329,4 +331,3 @@ with open(os.path.join(os.pardir, "new_aspects.txt"), "a") as new_recordings_fil
             for v in value:
                 new_recordings_file.write(str(v)+'\n')
             new_recordings_file.write("\n")
-# main()
