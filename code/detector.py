@@ -293,41 +293,45 @@ def main():
                 if j not in graph_indices:
                     out_file.write(",".join(corpus[j])+"\n")
                     out_file.write(sentences[j]+"\n")
+        plt.close('all')
 
 
-for pair in relations.keys():
-    if len(relations[pair]) > 2:
-        main()
+
 # main()
 
 # for pair in pairs[3:5]:
 #     main()
+try:
+    for pair in relations.keys():
+        if len(relations[pair]) > 2:
+            main()
+finally:
+    print(pair)
+    with open(os.path.join(os.pardir, "aspects.pkl"), "wb") as aspects_file:
+        pickle.dump(aspects, aspects_file)
+    print("no. of pairs: ", len(aspects.keys()))
+    tt = set()
+    for (a, b) in aspects.keys():
+        tt.add(a)
+        tt.add(b)
+    print("no. of different techs: ", len(tt))
+    with open(os.path.join(os.pardir, "aspects.txt"), "a") as recordings_file:
+        recordings_file.write(str(len(aspects))+"\n\n")
+        for key, values in aspects.items():
+            recordings_file.write(key[0]+"\t"+key[1]+"\t"+str(len(values))+"\n")
+            for value in values:
+                # recordings_file.write(" ".join(value)+"\n")
+                recordings_file.write(str(value)+'\n')
+            recordings_file.write("\n")
 
-with open(os.path.join(os.pardir, "aspects.pkl"), "wb") as aspects_file:
-    pickle.dump(aspects, aspects_file)
-print("no. of pairs: ", len(aspects.keys()))
-tt = set()
-for (a, b) in aspects.keys():
-    tt.add(a)
-    tt.add(b)
-print("no. of different techs: ", len(tt))
-with open(os.path.join(os.pardir, "aspects.txt"), "a") as recordings_file:
-    recordings_file.write(str(len(aspects))+"\n\n")
-    for key, values in aspects.items():
-        recordings_file.write(key[0]+"\t"+key[1]+"\t"+str(len(values))+"\n")
-        for value in values:
-            # recordings_file.write(" ".join(value)+"\n")
-            recordings_file.write(str(value)+'\n')
-        recordings_file.write("\n")
-
-with open(os.path.join(os.pardir, "new_aspects.pkl"), "wb") as new_aspects_file:
-    pickle.dump(new_aspects, new_aspects_file)
-with open(os.path.join(os.pardir, "new_aspects.txt"), "a") as new_recordings_file:
-    new_recordings_file.write(str(len(new_aspects))+"\n\n")
-    for key, values in new_aspects.items():
-        new_recordings_file.write("\t".join(key)+"---------------------------------------------------\n\n")
-        for k, value in values.items():
-            new_recordings_file.write(k+"\n")
-            for v in value:
-                new_recordings_file.write(str(v)+'\n')
-            new_recordings_file.write("\n")
+    with open(os.path.join(os.pardir, "new_aspects.pkl"), "wb") as new_aspects_file:
+        pickle.dump(new_aspects, new_aspects_file)
+    with open(os.path.join(os.pardir, "new_aspects.txt"), "a") as new_recordings_file:
+        new_recordings_file.write(str(len(new_aspects))+"\n\n")
+        for key, values in new_aspects.items():
+            new_recordings_file.write("\t".join(key)+"---------------------------------------------------\n\n")
+            for k, value in values.items():
+                new_recordings_file.write(k+"\n")
+                for v in value:
+                    new_recordings_file.write(str(v)+'\n')
+                new_recordings_file.write("\n")
