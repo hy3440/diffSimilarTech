@@ -8,7 +8,7 @@ Two versions:
 {(TECHA, TECHB): (TECH1, RELATION, TECH2, TOPIC, POST ID, SENTENCE)}
 ```
 
-2. [new_aspects.pkl](https://github.com/hy3440/diffSimilarTech/blob/master/aspects/anew_spects.pkl). As [new_aspects.txt](https://github.com/hy3440/diffSimilarTech/blob/master/aspects/anew_spects.txt) shows, new format:
+2. [new_aspects.pkl](https://github.com/hy3440/diffSimilarTech/blob/master/aspects/new_spects.pkl). As [new_aspects.txt](https://github.com/hy3440/diffSimilarTech/blob/master/aspects/new_spects.txt) shows, new format:
 
 ```
 {(TECHA, TECHB): 
