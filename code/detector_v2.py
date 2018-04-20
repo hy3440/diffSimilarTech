@@ -306,7 +306,7 @@ def main():
 #     main()
 try:
     for pair in relations.keys():
-        if len(relations[pair]) > 2 and len(relations[pair] < 200):
+        if len(relations[pair]) > 2 and len(relations[pair]) < 200:
             print(pair)
             main()
 finally:
