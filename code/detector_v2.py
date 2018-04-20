@@ -19,6 +19,7 @@ from textblob import TextBlob as tb
 # new_aspects = pickle.load(f)
 # f.close()
 new_aspects = {}
+sentences_keywords = {}
 query_flag = False
 ver_flag = True
 if ver_flag:
@@ -172,6 +173,7 @@ def main():
             #     keywords_file.write(",".join(ws)+"\n")
             #     keywords_file.write(sentence+"\n")
             corpus.append(ws)
+            sentences_keywords[sentence] = ws
             topics.append(" ".join(ws))
         else:
             corpus.append([w for w in sentence.split() if w not in stop_words])
@@ -316,7 +318,8 @@ finally:
         tt.add(a)
         tt.add(b)
     print("no. of different techs: ", len(tt))
-
+    with open(os.path.join(os.pardir, "v2", "sentences_keywords.pkl"), "wb") as sk_file:
+        pickle.dump(sentences_keywords, sk_file)
     with open(os.path.join(os.pardir, "v2", "new_aspects.pkl"), "wb") as new_aspects_file:
         pickle.dump(new_aspects, new_aspects_file)
     with open(os.path.join(os.pardir, "v2", "new_aspects.txt"), "a") as new_recordings_file:
