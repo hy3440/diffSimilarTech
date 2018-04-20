@@ -12,10 +12,10 @@ from textblob import TextBlob as tb
 
 
 # Setting
-f = open(os.path.join(os.pardir, "aspects.pkl"), 'rb')
+f = open(os.path.join(os.pardir, "v1", "aspects.pkl"), 'rb')
 aspects = pickle.load(f)
 f.close()
-f = open(os.path.join(os.pardir, "new_aspects.pkl"), 'rb')
+f = open(os.path.join(os.pardir, "v1", "new_aspects.pkl"), 'rb')
 new_aspects = pickle.load(f)
 f.close()
 query_flag = False
@@ -51,10 +51,11 @@ else:
 # pair = ("rsa", "aes")
 # pair = ("vmware", "virtualbox")
 # pair = pairs[-1]
-large_pairs = {("chars", "int"), ("double", "int"), ("for-loop", "loops"),
-               ("google-chrome", "firefox"), ("height", "width"), ("innodb", "myisam"),
-               ("max", "min"), ("multiplication", "addition"), ("multiplication", "addition"),
-               ("parent", "children"), ("post", "get")}
+# large_pairs = {("chars", "int"), ("double", "int"), ("for-loop", "loops"),
+#                ("google-chrome", "firefox"), ("height", "width"), ("innodb", "myisam"),
+#                ("max", "min"), ("multiplication", "addition"), ("multiplication", "addition"),
+#                ("parent", "children"), ("post", "get")}
+pairs = {("google-chrome", "firefox"), ("post", "get"), ("innodb", "myisam")}
 
 # Prepare POS tagger
 pos_tag_set = {"JJR", "JJ", "NN", "NNS", "NNP", "NNPS", "RBR", "RBS", "JJS"}
@@ -298,8 +299,13 @@ def main():
                     graph_indices.add(j)
                 num += 1
             # out_file.write("other---------------------------------------------------\n\n")
-            # for j in range(len(sentences)):
-            #     if j not in graph_indices:
+            new_aspects[pair]["other"] = set()
+            for j in range(len(sentences)):
+                if j not in graph_indices:
+                    temp = information[sentences[j]]
+                    new_aspects[pair]["other"].add((temp[0], temp[1], temp[2], temp[3], sentences[j]))
+                    aspects[pair].add((temp[0], temp[1], temp[2], "", temp[3], sentences[j]))
+
             #         out_file.write(",".join(corpus[j])+"\n")
             #         out_file.write(sentences[j]+"\n")
         plt.close('all')
@@ -309,12 +315,13 @@ def main():
 
 # main()
 
-# for pair in pairs[3:5]:
-#     main()
 try:
-    for pair in relations.keys():
-        if len(relations[pair]) > 2 and pair not in aspects.keys() and pair not in large_pairs:
-            main()
+    for pair in pairs:
+        main()
+# try:
+#     for pair in relations.keys():
+#         if len(relations[pair]) > 2 and pair not in aspects.keys() and pair not in large_pairs:
+#             main()
 finally:
     print(pair)
     with open(os.path.join(os.pardir, "aspects.pkl"), "wb") as aspects_file:

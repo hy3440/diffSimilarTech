@@ -61,12 +61,34 @@ from prepros import *
 #                 out_file.write(value[1]+"\n")
 #                 out_file.write(value[5])
 #                 out_file.write("\n")
-in_path = os.path.join(os.pardir, "out", "pattern1234_pairs.pkl")
+in_path = os.path.join(os.pardir, "aspects", "new_aspects.pkl")
 relations_file = open(in_path, 'rb')
-relations = pickle.load(relations_file)
+new_aspects = pickle.load(relations_file)
 relations_file.close()
-for k, v in relations.items():
-    print(k)
-    print(type(v))
-    print(v)
-    break
+
+pairs = {("google-chrome", "firefox"), ("post", "get"), ("innodb", "myisam")}
+
+
+for pair, items in new_aspects.items():
+    if pair not in pairs:
+        temp = set()
+        if "other" in items:
+            for values in items["other"]:
+                if len(values) == 6:
+                    ta, comp, tb, topic, id, sentence = values
+                    temp.add((ta, comp, tb, id, sentence))
+            new_aspects[pair]["other"] = temp
+        else:
+            print(pair)
+
+with open(os.path.join(os.pardir, "v2", "new_aspects.pkl"), "wb") as new_aspects_file:
+    pickle.dump(new_aspects, new_aspects_file)
+with open(os.path.join(os.pardir, "v2", "new_aspects.txt"), "a") as new_recordings_file:
+    new_recordings_file.write(str(len(new_aspects))+"\n\n")
+    for key, values in new_aspects.items():
+        new_recordings_file.write("\t".join(key)+"---------------------------------------------------\n\n")
+        for k, value in values.items():
+            new_recordings_file.write(k+"\n")
+            for v in value:
+                new_recordings_file.write(str(v)+'\n')
+            new_recordings_file.write("\n")
