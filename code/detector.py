@@ -210,7 +210,7 @@ def main():
                     G.add_edge(i, j)
                     # G.add_edge(i, j, weight=sims[j])
 
-        out_path = os.path.join(os.pardir, com_dir, "{}_{}_{}.txt".format("&".join(pair), G.number_of_nodes(), l))
+        # out_path = os.path.join(os.pardir, com_dir, "{}_{}_{}.txt".format("&".join(pair), G.number_of_nodes(), l))
         # image_path = os.path.join(os.pardir, com_dir, "{}_{}_{}.png".format("&".join(pair), G.number_of_nodes(), l))
 
         # Draw graph
@@ -261,7 +261,8 @@ def main():
 
         aspects[pair] = set()
         new_aspects[pair] = {}
-        with open(out_path, "a") as out_file:
+        if True:
+        # with open(out_path, "a") as out_file:
             for i, blob in enumerate(bloblist):
                 # print("Top words in document {}".format(i + 1))
                 scores = {word: tfidf(word, blob, bloblist) for word in blob.words}
@@ -269,7 +270,7 @@ def main():
                 # word_num = 0
                 aspect_keywords = []
                 for word, score in sorted_words[:3]:
-                    out_file.write(word+", ")
+                    # out_file.write(word+", ")
                     aspect_keywords.append(word)
                 new_aspects[pair][" ".join(aspect_keywords)] = set()
                 # for word, score in sorted_words:
@@ -279,20 +280,20 @@ def main():
                 #         word_num += 1
                 #         out_file.write(word+", ")
                 #         print("\tWord: {}, TF-IDF: {}".format(word, round(score, 5)))
-                out_file.write("---------------------------------------------------\n\n")
+                # out_file.write("---------------------------------------------------\n\n")
                 for j in clusters[i]:
                     temp = information[sentences[j]]
                     new_aspects[pair][" ".join(aspect_keywords)].add((temp[0], temp[1], temp[2], temp[3], sentences[j]))
                     aspects[pair].add((temp[0], temp[1], temp[2], " ".join(aspect_keywords), temp[3], sentences[j]))
-                    out_file.write(",".join(corpus[j])+"\n")
-                    out_file.write(sentences[j]+"\n")
+                    # out_file.write(",".join(corpus[j])+"\n")
+                    # out_file.write(sentences[j]+"\n")
                     graph_indices.add(j)
                 num += 1
-            out_file.write("other---------------------------------------------------\n\n")
-            for j in range(len(sentences)):
-                if j not in graph_indices:
-                    out_file.write(",".join(corpus[j])+"\n")
-                    out_file.write(sentences[j]+"\n")
+            # out_file.write("other---------------------------------------------------\n\n")
+            # for j in range(len(sentences)):
+            #     if j not in graph_indices:
+            #         out_file.write(",".join(corpus[j])+"\n")
+            #         out_file.write(sentences[j]+"\n")
         plt.close('all')
 
 
