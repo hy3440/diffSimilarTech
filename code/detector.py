@@ -295,6 +295,7 @@ def main():
             #         out_file.write(",".join(corpus[j])+"\n")
             #         out_file.write(sentences[j]+"\n")
         plt.close('all')
+        print(pair)
 
 
 
