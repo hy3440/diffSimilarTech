@@ -12,12 +12,13 @@ from textblob import TextBlob as tb
 
 
 # Setting
-f = open(os.path.join(os.pardir, "aspects.pkl"), 'rb')
-aspects = pickle.load(f)
-f.close()
-f = open(os.path.join(os.pardir, "new_aspects.pkl"), 'rb')
-new_aspects = pickle.load(f)
-f.close()
+# f = open(os.path.join(os.pardir, "aspects.pkl"), 'rb')
+# aspects = pickle.load(f)
+# f.close()
+# f = open(os.path.join(os.pardir, "new_aspects.pkl"), 'rb')
+# new_aspects = pickle.load(f)
+# f.close()
+new_aspects = {}
 query_flag = False
 ver_flag = True
 if ver_flag:
@@ -80,7 +81,7 @@ stop_phrases = [["for", "example"], ["in", "terms", "of"], ["keep", "in", "mind"
 # tags = pickle.load(open(os.path.join(os.pardir, "data", "tags.pkl"), 'rb'))
 
 # Prepare sentences
-in_path = os.path.join(os.pardir, "data", "relations.pkl")
+in_path = os.path.join(os.pardir, "out", "pattern1234_pairs.pkl")
 relations_file = open(in_path, 'rb')
 relations = pickle.load(relations_file)
 relations_file.close()
@@ -117,12 +118,7 @@ def set_shreshold(a, b):
 
 
 def main():
-    information = {}
-    sentences = set()
-    for items in relations[pair]:
-        sentences.add(items[5])
-        information[items[5]] = (items[0], items[1], items[2], items[4])
-    sentences = list(sentences)
+    sentences = list(relations[pair])
     l = len(sentences)
     corpus = []
     topics = []
@@ -267,7 +263,6 @@ def main():
                 bloblist.append(tb(doc))
                 clusters.append(com)
 
-        aspects[pair] = set()
         new_aspects[pair] = {}
         if True:
         # with open(out_path, "a") as out_file:
@@ -290,9 +285,7 @@ def main():
                 #         print("\tWord: {}, TF-IDF: {}".format(word, round(score, 5)))
                 # out_file.write("---------------------------------------------------\n\n")
                 for j in clusters[i]:
-                    temp = information[sentences[j]]
-                    new_aspects[pair][" ".join(aspect_keywords)].add((temp[0], temp[1], temp[2], temp[3], sentences[j]))
-                    aspects[pair].add((temp[0], temp[1], temp[2], " ".join(aspect_keywords), temp[3], sentences[j]))
+                    new_aspects[pair][" ".join(aspect_keywords)].add(sentences[j])
                     # out_file.write(",".join(corpus[j])+"\n")
                     # out_file.write(sentences[j]+"\n")
                     graph_indices.add(j)
@@ -303,8 +296,6 @@ def main():
             #         out_file.write(",".join(corpus[j])+"\n")
             #         out_file.write(sentences[j]+"\n")
         plt.close('all')
-        print(pair)
-
 
 
 # main()
@@ -313,30 +304,22 @@ def main():
 #     main()
 try:
     for pair in relations.keys():
-        if len(relations[pair]) > 2 and pair not in aspects.keys() and pair not in large_pairs:
+        if len(relations[pair]) > 2 and len(relations[pair] < 200):
+            print(pair)
             main()
 finally:
     print(pair)
-    with open(os.path.join(os.pardir, "aspects.pkl"), "wb") as aspects_file:
-        pickle.dump(aspects, aspects_file)
-    print("no. of pairs: ", len(aspects.keys()))
+
+    print("no. of pairs: ", len(new_aspects.keys()))
     tt = set()
-    for (a, b) in aspects.keys():
+    for (a, b) in new_aspects.keys():
         tt.add(a)
         tt.add(b)
     print("no. of different techs: ", len(tt))
-    with open(os.path.join(os.pardir, "aspects.txt"), "a") as recordings_file:
-        recordings_file.write(str(len(aspects))+"\n\n")
-        for key, values in aspects.items():
-            recordings_file.write(key[0]+"\t"+key[1]+"\t"+str(len(values))+"\n")
-            for value in values:
-                # recordings_file.write(" ".join(value)+"\n")
-                recordings_file.write(str(value)+'\n')
-            recordings_file.write("\n")
 
-    with open(os.path.join(os.pardir, "new_aspects.pkl"), "wb") as new_aspects_file:
+    with open(os.path.join(os.pardir, "v2", "new_aspects.pkl"), "wb") as new_aspects_file:
         pickle.dump(new_aspects, new_aspects_file)
-    with open(os.path.join(os.pardir, "new_aspects.txt"), "a") as new_recordings_file:
+    with open(os.path.join(os.pardir, "v2", "new_aspects.txt"), "a") as new_recordings_file:
         new_recordings_file.write(str(len(new_aspects))+"\n\n")
         for key, values in new_aspects.items():
             new_recordings_file.write("\t".join(key)+"---------------------------------------------------\n\n")

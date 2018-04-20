@@ -61,6 +61,12 @@ from prepros import *
 #                 out_file.write(value[1]+"\n")
 #                 out_file.write(value[5])
 #                 out_file.write("\n")
-a = 1
-with open(os.path.join(os.pardir, "a.pkl"), "wb") as f:
-    pickle.dump(a, f)
+in_path = os.path.join(os.pardir, "out", "pattern1234_pairs.pkl")
+relations_file = open(in_path, 'rb')
+relations = pickle.load(relations_file)
+relations_file.close()
+for k, v in relations.items():
+    print(k)
+    print(type(v))
+    print(v)
+    break
