@@ -1,8 +1,0 @@
-other---------------------------------------------------
-
-zero-altitude,larger
-because most of the case zero-altitude distance is quite larger than altitude itself so normally you can ignore altitude
-
-negative,verticalaccuracy,invalid,smaller,value,precise,vertical,discussion,measure
-a negative verticalaccuracy signifies that altitude is invalid whereas normally a smaller but positive value of verticalaccuracy actually means that altitude is more precise since it s the vertical distance that it may be off by - i ll leave the discussion as to why this measure is called verticalaccuracy and not verticalinaccuracy for some other time
-

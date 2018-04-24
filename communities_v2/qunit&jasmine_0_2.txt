@@ -1,8 +1,0 @@
-other---------------------------------------------------
-
-bdd,tests,behavior-oriented
-jasmine is clearly more bdd focused than qunit although i could see doing bdd with qunit by describing the tests in a behavior-oriented way
-
-testing,possible,better,javascript,framework,js
-performing this asynchronous testing is actually possible in qunit but is handled better in another javascript testing framework jasmine js
-

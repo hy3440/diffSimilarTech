@@ -1,8 +1,0 @@
-other---------------------------------------------------
-
-jackson,better
-quick takeaway of the benchmark jackson performs 5 to 6 times better than org.json and more than twice better than gson
-
-better,jackson
-or switch from org.json to something that performs better such as gson or jackson
-

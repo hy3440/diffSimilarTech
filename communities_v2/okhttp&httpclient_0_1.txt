@@ -1,5 +1,0 @@
-other---------------------------------------------------
-
-post,method,slower
-but the post method okhttp is more slower than httpclient s post always more slower than okhttp s get method
-

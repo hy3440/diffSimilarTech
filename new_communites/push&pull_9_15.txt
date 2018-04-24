@@ -1,0 +1,53 @@
+notification, iphones, subscriptions, ---------------------------------------------------
+
+model
+i guess one of them is that the push model is less coupled then the pull model
+
+model,better
+the reason the pull model works better than the push model in this case is as follow
+
+notification,better,iphones
+how are push notification better than pull notification on iphones
+
+subscriptions,better,wan
+pull subscriptions perform much better than push subscriptions in a wan scenario
+
+performance,better
+is the performance of pull better than push in this scenario
+
+message, processing, rebus, ---------------------------------------------------
+
+message,processing,model,better,rebus
+if in-order processing is required a much better design would be to use another message processing library that supports a pull model which i think would fit your scenario much better than rebus push model
+
+heartbeat,mechanism,model,easier,efficient
+a heartbeat mechanism pull model is definitely easier to implement but a push model is far more efficient
+
+scalable, starters, ---------------------------------------------------
+
+scalable
+i have found that pull is more scalable than push
+
+scalable,starters
+why do you think that push is far more scalable then pull for starters
+
+other---------------------------------------------------
+
+models,higher,throughput
+push models have higher throughput than pull models
+
+new,features,request,branch,second,original,project
+i create new branch add those new features and than i once again made pull request but now the features i implemented in the master branch are also in my new branch so my second pull request has more features than i want to push to the original project
+
+tortoise,new,branch,safer,force
+tortoise now has an option push new branch that may be safer than force pull or push
+
+irony,xslt,stylesheets,idiomatic
+there is a certain irony here given that within xslt push stylesheets are generally more idiomatic than pull stylesheets
+
+cursor,open,cheaper
+i guess i m just surprised that the documentation recommends the approach of querying presumably continually in my case versus keeping a tailable cursor open i would have thought that push would be cheaper than pull
+
+better,answer,class,new,object
+alone push is better in the accepted answer can t quite work as a push-operation in some class can require a new pull at the pushed object
+

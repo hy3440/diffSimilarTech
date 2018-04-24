@@ -1,8 +1,0 @@
-other---------------------------------------------------
-
-recent,benchmark,jvm,slower,faster,cpython
-here is a recent benchmark of jython 2.5.2 running on jvm 7 where jython is slower than pypy but faster than cpython
-
-unpredictableâ,slower,cpython
-jython is more unpredictableâ sometimes almost as fast as pypy sometimes much slower than cpython
-

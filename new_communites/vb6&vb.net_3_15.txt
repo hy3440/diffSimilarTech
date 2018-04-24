@@ -1,0 +1,49 @@
+com, endless, sketchy, ---------------------------------------------------
+
+better,use,com,endless,sketchy
+vb.net is a better language than vb6 use its com capabilities to save you from writing endless sketchy vb6 code
+
+little,point,better,use,c#
+if you don t already know vb6 there s little point in learning it now - your time could be put to much better use by learning vb.net c#
+
+new,features,application,expensive,better,c#
+biggest of all is that adding new features to your vb6 application is more expensive than it would be if the application was in a better language like c# or vb.net
+
+other---------------------------------------------------
+
+different,version,capable
+yes they are different but you can hardly say that the vb.net version is less capable than the vb6 version
+
+distant,memory,life,conjunction
+especially as vb6 is becoming more and more of a distant memory and the vb.net language takes on a life of its own in conjunction with the core .net framework advancing
+
+project,easier,old,controls
+getting your project migrated to vb.net is certainly easier when you keep the old vb6 controls
+
+languages,c#,rubby,easier,frameworks,body,practices,imagination,strong,rehusable
+also developing enterprise application is such new languages java c# vb.net rubby is easier that vb6 because they rely on frameworks every body can write c# java code that function but it requires tricks good practices and some of imagination to write vb6 strong and rehusable code
+
+result,precise
+can i safely assume that vb.net result is more precise than vb6 and discard the vb6 result completely
+
+complex,curve,tough
+vb.net appears much more complex then vb6 and the learning curve is tough
+
+easier,issues
+avoiding them by modifying vb6 is lot easier than fixing the issues in vb.net
+
+syntax,differences,strict
+none of the .net libraries are there and there are some syntax differences as vb.net is more strict than vb6 is
+
+feature,rich,means,extensive
+quite apart from the fact that the language vb.net is far more feature rich than vb6 the fact that you have developed in vb.net means that you have made extensive use of the .net class libraries including system.security.cryptography that you give as an example
+
+tools,painful,time,possibility
+however i ve noticed that running the vb6 tools is becoming more and more painful over time so i m looking at the possibility of migrating this code to vb.net 2008
+
+pixel,.net,better
+fortunately vb.net finally ended all that and is completely pixel based you can still alter you viewport scaling but .net seems to handle that much better than vb6
+
+control,datagridview,better,good,ones
+i assume the same control in vb.net would be datagridview and i m fairly sure that you can probably make it look better than in vb6 but if you want really good looking ones you might want to look at thirdparty grid controls
+

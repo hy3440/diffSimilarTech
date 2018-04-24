@@ -1,0 +1,115 @@
+secure, clear, value, ---------------------------------------------------
+
+bcrypt,slower,security,clear
+the fact that bcrypt produces hash slower than md5 because of security reasons is also clear for me
+
+salt,secure,better,sha256managed
+with a salt md5 is much more secure than without but you re better off using one of the sha hash such as sha256managed
+
+difficult,right,value
+obviously md5 is much more difficult to reverse even in this anything that will hash to the right value sense then a simplistic algorithm like take the last two digits
+
+wrapper,implementation,secure,simple
+the wrapper uses these in such a way that even the md5 implementation is significantly more secure than a simple hash
+
+non-reversible,secure,value,clear
+using a non-reversible hash such as md5 is much more secure and you can store the hash value as clear text
+
+sha1, sha256, larger, ---------------------------------------------------
+
+sha256,longer,algorithm,length
+because sha256 hash are much longer than md5 hash you can detect the hash algorithm by looking at the length of the hash
+
+function,complex,strong,sha1,possible
+if the hash function is more complex and cryptographically strong md5 or sha1 then it is theoretically not possible
+
+algorithm,slower,sha1,speed,useful
+also the hash algorithm itself is much slower than sha1 md5 sha1 md5 are made for speed - not a useful property when storing passwords
+
+sha256,bigger,attacker
+it s like complaining that a sha256 hash is bigger than an md5 hash - yep it is but only one of them might slow the attacker down for a while
+
+choices,sha1,preferable,larger,stronger
+valid choices for hashing include sha1 or md5 although sha1 is preferable because it produces a larger hash and is considered cryptographically stronger than md5
+
+function,sha1,sha256,content,larger
+any hash function like md5 sha1 sha256 etc obviously cannot be 100 unique - because they have a fixed length and due to the there must necessarily be non-unique results for input content that is larger than the hash
+
+sha256,alogorithm,better
+however if you want to use the sha256 hash alogorithm which is better than the md5 then here s a code sample
+
+sha1,safer,tag,post
+finally sha1 hash are safer than md5 i tell you that because you used the md5 tag in your post
+
+difference,crc32,larger,harder
+the difference between crc32 and md5 is that md5 generates a larger hash that s harder to predict
+
+use,algorithm,suits,possible,stronger,sha512
+use hash and choose hashing algorithm that suits you well if possible something stronger than md5 but don t go all the way to sha512 either
+
+functions, faster, fast, ---------------------------------------------------
+
+functions,faster,fast
+in that case some hash functions are somewhat faster than other md5 being one of the fast functions but md4 is faster and it is simple enough that its code can be included in any application without much hassle
+
+functions,sha-1,collisions,likely
+other hash functions such as sha-1 also have hash collisions although it is much less likely than md5
+
+functions,robust
+all hash functions have that problem but some are more robust than md5
+
+algorithm,faster
+this generally uses a hash algorithm that is much faster than md5
+
+proven, breakable, worse, ---------------------------------------------------
+
+proven,breakable,worse
+mac os x llvm gcc based crypt fuction is borked junk hardwired to only use des a proven breakable hash worse than md5
+
+column,proven,reliable,sha-1
+sha-256 uses 64 characters in the database but with an index on the column that isn t a problem and it is a proven hash and more reliable than md5 and sha-1
+
+other---------------------------------------------------
+
+solution,webpage,compact,sha-1,keys,json,table
+i would like to apply a hash code solution on my webpage which is more compact than md5 and sha-1 because i want to use them as keys in a json hash table
+
+properties,non-cryptographic,secure,good,strong,uses
+if you don t need the cryptographic properties then a non-cryptographic hash or a hash that is less cryptographically secure md5 being broken doesn t prevent it being a good hash nor still strong enough for some uses is likely to be more performant
+
+request,fields,password,user,authentication,better
+or you could employ a request signing scheme in which certain request fields are hash together with the password of the user basically sending the password without sending the password similar to digest authentication but you can use something better than md5
+
+cake,complex
+the hash cake generates are more complex than md5
+
+longer,secure,graphics,card
+md5 is no longer secure and it can be broken with a good gpu no typo you can use your graphics card to break a hash
+
+double,secure,single,attack,vectors
+double md5 hashing is actually less secure than a single hash with some attack vectors
+
+hashing,shasum,large,size,larger,output,pigeonhole,principle,restored.
+hashing is one way you can prove this to yourself by taking an md5 or shasum of a large file since the file s size is larger than the hash output by pigeonhole principle hash can t be restored.
+
+getstring,secure
+if you want to compare you re better off putting your result through getstring and compare the much less secure hash even less secure than md5 already is
+
+likely,100kb,second,higher,strength
+it is likely that you could do an sha hash of 100kb in well less than 10 second though and though sha-1 is still theoretically flawed it is of higher strength than md5
+
+crypt,expensive
+crypt with hash is simply more expensive than md5
+
+dump,output,conflicts,value,longer,outputs
+so i guess it s the md5 in the dump output cause the conflicts and the hash value is longer than md5 outputs
+
+phpbb,password,longer,version,higher,custom
+but if you still wish to figure out the phpbb password encryption hash it is no longer md5 in version 3.0 or higher and is a custom hash
+
+store,stronger
+you can for example store a hash stored with something stronger than md5
+
+algorithm,chance,better,options,1024-byte,limit
+of course any hash algorithm is going to have some chance of collision but you have better options than md5 that would still satisfy the 1024-byte limit
+

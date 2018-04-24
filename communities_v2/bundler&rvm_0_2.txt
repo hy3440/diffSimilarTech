@@ -1,8 +1,0 @@
-other---------------------------------------------------
-
-better,application,rbenv-gemset,results,gemsets,favors
-bundler is a better way to manage application dependencies. there is a plugin rbenv-gemset for getting the same results as rvm s gemsets but sam clearly favors using bundler instead
-
-files,gemfile,directive,ruby
-rvm supports more then just .rvmrc one of this files is gemfile with either the bundler directive to specify ruby
-

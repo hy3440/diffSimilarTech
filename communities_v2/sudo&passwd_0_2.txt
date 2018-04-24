@@ -1,8 +1,0 @@
-other---------------------------------------------------
-
-complex
-automating sudo is slighly more complex if you need to pass the passwd but still can be done
-
-better,respects,asroot
-sudo is better in most respects but still requires a passwd which asroot does not
-

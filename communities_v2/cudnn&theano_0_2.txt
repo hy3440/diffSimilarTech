@@ -1,8 +1,0 @@
-other---------------------------------------------------
-
-python2.7,dist-packages,sandbox,cuda,init,version,recent,supports
-usr local lib python2.7 dist-packages theano sandbox cuda init .py 600 userwarning your cudnn version is more recent than the one theano officially supports
-
-version,recent
-userwarning your cudnn version is more recent than the one theano
-

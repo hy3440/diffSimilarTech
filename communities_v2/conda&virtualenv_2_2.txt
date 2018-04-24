@@ -1,8 +1,0 @@
-other---------------------------------------------------
-
-additional,bonus,better,package,manager
-an additional bonus i find that conda works better as a package manager than virtualenv
-
-anaconda,better,alternative,packages
-if you are using anaconda conda is a better alternative to virtualenv as it manages conda packages which are not limited to just python packages
-

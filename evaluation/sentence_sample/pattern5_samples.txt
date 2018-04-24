@@ -1,0 +1,201 @@
+no
+wildfly	jboss
+if you don t have any specific container to run your application you can choose between jboss 7 and wildfly and wants to run spring java config try it out on wildfly
+
+yes
+codeigniter	kohana
+i prefer kohana over codeigniter ymmv
+
+no
+emacs	atom-editor
+so if you do not have hard preference for some of this editors choose between emacs or atom-editor to code elixir in
+
+no
+equals	compareto
+compareto compares values and returns an int which tells if the values compare less than equals or greater than
+
+no
+filtering	grouping
+select settings under filtering keys grouping in here you can switch off repeating keys for that user on that machine
+
+yes 
+apache	nginx
+one thing to consider is the magento environment tuning the php the web server favor nginx over apache and mysql
+
+yes 
+agda	idris
+in general at this time i recommend agda over idris for writing proofs like this
+
+yes 
+lxml.html	beautifulsoup
+i prefer lxml.html than beautifulsoup that support xpath and cssselector
+
+yes 
+dplyr	purrr
+if you have a function in mind that might be more complicated as you describe i would recommend going with purrr and map rather than do from dplyr
+
+no
+postgresql	mysql
+how would reading the data compare with mysql postgresql
+
+no
+ienumerable	ilist
+i would choose between ilist and ienumerable and wouldn t consider array at all
+
+yes 
+quicksort	heapsort
+the kernel developers recommend heapsort over quicksort within the kernel and give the following rationale
+
+yes 
+ienumerable	ilist
+i ve read in some of the threads here to choose ienumerable over ilist to pass data from controller to views
+
+yes
+gitolite	gitosis
+also i recommend gitolite over gitosis
+
+no
+post	get
+see how to choose between get or post here
+
+no
+udp	tcp
+don t reinvent the wheel and choose between udp and tcp until you re completely sure you need something more sophisticated but not simpler
+
+yes
+gridbaglayout	miglayout
+miglayout is another nice layout and it s easier to pick up than gridbaglayout but it also is not perfect or at least it wasn t a couple years ago when i last used it
+
+yes
+innodb	myisam
+maybe i have to choose innodb over myisam
+
+yes
+loops	while-loop	for-loop	while-loop	for-loop	loops
+i would prefer for-loop over while-loop because if not used properly while-loop can go into an infinite loops
+
+yes
+nunit	mstest
+i strongly prefer nunit over mstest
+
+yes
+button	checkbox
+i choose button over checkbox in this case because i think they are handier and faster to work with
+
+no
+post	get
+in the method attribute choose between get and post
+
+yes
+rsa	aes
+for encrypting large files i d recommend aes over rsa any day
+
+yes
+equals	compareto
+if you are using a collection class that uses compareto or compare rather than equals then you clearly don t have to override equals
+
+yes
+innodb	myisam
+as far as i am aware the only non-trivial reason to choose myisam over innodb is for full-text indexing
+
+no
+maven	pom.xml
+when i create a new jbpm project in eclipse and select create as maven project the pom.xml is generated without the dependency section
+
+no
+equals	gethashcode
+gethashcode is contractually required to return the same result for any two structs that compare as equals
+
+yes
+lxml	beautifulsoup
+i d recommend lxml over beautifulsoup when you start scraping alot of pages the speed advantage of lxml is hard to ignore
+
+yes
+postgresql	mysql
+i d also recommend postgresql over mysql if you are going to have nested comments as postgresql does hierarchical querying better than mysql
+
+yes
+calloc	malloc
+this makes calloc a little slower naturally but where that is not a problem my advice is to prefer it over malloc
+
+yes
+domparser	saxparser
+i have no doubts in domparser and people prefer saxparser than domparser because of the memory it takes
+
+no
+libstdc++	libc++
+with clang you can choose between libc++ clang s and libstdc++ gcc s
+
+no
+lxml	beautifulsoup
+if you have a bulk of files you want to do this to what you re probably going to want to do is write a script in a hll with a decent html parser i recommend python with lxml or beautifulsoup and then run it over your code
+
+yes
+haskell	elm
+my bone to pick with elm is that its type system isn t as expressive as haskell s
+
+yes
+calloc	malloc
+if you belong to the second camp which apparently you do then you prefer malloc over calloc
+
+yes
+nsurl	nsstring	nsurl	nsfilemanager
+generally for path related operations you should prefer nsurl over nsstring because the path information can be stored more efficiently in nsurl according to the class reference for nsfilemanager
+
+yes
+listview	gridview	gridview	detailsview
+personally i prefer listview over gridview and detailsview if possible it gives you more control over your html
+
+yes
+macports	homebrew
+i recommend homebrew over macports for package installing
+
+no
+google-chrome	firefox
+note i found an issue if i debbug select with google-chrome or firefox i
+
+yes
+int	chars
+can anyone please explain why the compiler chooses chars over int for inh p1 in this example
+
+yes
+strcpy	strncpy
+not related to the leak but if you know the length prefer strncpy over strcpy
+
+yes
+tolower	toupper
+prefer toupper over tolower for more character sets beyond a-z a-z collapse to upper characters better than to lower
+
+yes
+bottle	flask
+i used to favor bottle over flask for this very reason flask has a different way of doing it though
+
+no
+heroku	openshift
+so i would have to choose between heroku dotcloud and openshift
+
+yes
+calloc	malloc
+it s the same reason a c programmer might choose malloc over calloc
+
+yes
+junit	testng
+i prefer testng over junit
+
+yes
+macports	homebrew
+version - this is the main reason i prefer macports over homebrew you
+
+yes
+int	boolean
+so floats win over int and int win over boolean it would seem
+
+yes
+onclick	onchange
+i think you should use onchange event for whole select rather than onclick for its options
+
+yes
+client-side	server-side
+long story short my question is why should i prefer client-side over server-side hashing
+
+

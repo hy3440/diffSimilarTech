@@ -1,0 +1,56 @@
+slower, current, requirements, ---------------------------------------------------
+
+slower,current,requirements
+des turned out to be even slower than aes but for my current requirements a much simpler algorythm rc4 is sufficient
+
+slower,modern,hardware
+des is usually substantially slower than aes on modern hardware and has keys that are far too short for modern use
+
+faster, timings, sensitive, ---------------------------------------------------
+
+timings,sensitive,faster
+this shows that the timings are sensitive to buffering and that aes is faster than des
+
+faster,3des,default
+if aes is negotiated it s faster than des and 3des used by default by older applications
+
+little,faster,smaller
+using des assuming it s a little faster than aes and requires a smaller key and
+
+faster,cpu,aes-ni
+aes can be even much faster than des or 3des when the cpu supports aes-ni
+
+faster,result
+aes will indeed yield a considerably faster result than des
+
+size, triple, effective, ---------------------------------------------------
+
+effective,size,larger,triple
+note that the effective key size of aes is larger than triple des
+
+secure,triple,example
+i ve read that aes encryption is more secure than the triple des encryption ms is using in their example above
+
+analysis,rijndael-128,fast,bigger,size
+according to this analysis aes rijndael-128 is more than twice as fast as des 3des with a bigger key size more secure
+
+other---------------------------------------------------
+
+unrelated,actual,slower,small,better
+though it s unrelated to your actual question des is generally slower than aes at least in software so unless you really need to keep the key small aes is almost certainly a better choice
+
+hardware,failure,power,ones,antenna
+turns out this was a hardware failure the aes commands need more power than the des crypto1 ones 50 more which the antenna failed to deliver at the reading range i was testing with
+
+steps,vulnerable
+which steps of aes encryption makes it less vulnerable than des
+
+3des,better,sense,secure,performance,necessity,worse
+edit 3des is better than des in the sense that it s significantly more secure but still less secure than aes but its performance is of necessity significantly worse than aes des or twofish because you re essentially applying des three times
+
+secure
+also see why aes is more secure than des
+
+better,speedup,observations
+if you used aes then you might see a better speedup over the des 3des observations
+

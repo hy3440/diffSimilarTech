@@ -1,0 +1,40 @@
+values, instance, nesting, ---------------------------------------------------
+
+values,instance,better,nesting,related,operations
+less is a css extension that enables reuse and encapsulation of values color values for instance improves inherited allows a better nesting of related properties and operations also
+
+model,better,composition,individual,related,base
+potentially you are trying to model something in inherited that is better suited for composition or your base class should be taking in an object instead of individual related properties if the properties aren t related then perhaps your base class is doing too much single responsibility principle
+
+paddle,object,player,enemy,composition,better
+since the paddle object has properties that are shared by both player and enemy composition is a better choice than inherited
+
+multiple,easier,small,base,functionality,state
+multiple inherited makes it easier to compose classes from small mixin base classes that implement functionality and have properties to remember state
+
+other---------------------------------------------------
+
+form,higher,tree,simpleformcontroller
+i don t see any form properties in the code you posted so either the posted code has been modified or the properties is higher in the inherited tree simpleformcontroller
+
+documentation
+however i could not find it the documentation so it may inherited more than properties
+
+accessible,variable,base,class
+if you need a globally accessible variable or properties that s more suited to a base class that your classes inherited from
+
+is-a,relationship,model,methods
+inherited is more of an is-a relationship for example a usermodel is-a model thus all properties and methods of a model will be part of a usermodel
+
+desktop,controls,powerful,old,tag
+now in .net for desktop controls you can use inherited which is much more powerful than the old tag properties anyway
+
+counter1,instanceof,verbose,real,private,count
+counter1 can be used with instanceof and inherited but is more verbose and doesn t have real private properties eg count properties is exposed
+
+easier,things
+this should handle all cases of setting the properties makes them easier to implement in your inherited classes and cleans things up
+
+dedicated,methods,clear
+using dedicated methods for getting and setting properties is also more clear in inherited
+

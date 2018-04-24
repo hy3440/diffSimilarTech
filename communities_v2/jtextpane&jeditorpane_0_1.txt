@@ -1,5 +1,0 @@
-other---------------------------------------------------
-
-high,level,strange,naming
-jtextpane is more high level as jeditorpane strange naming
-

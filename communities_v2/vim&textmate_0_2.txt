@@ -1,8 +1,0 @@
-other---------------------------------------------------
-
-powerful,price,tag
-vim is more powerful and textmate is worth the price tag
-
-key,bindings,text,worse
-i like the idea of the of editing inside the terminal and like the key bindings of vim but the text highlighting in my vim is much worse than in textmate
-

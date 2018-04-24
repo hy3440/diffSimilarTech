@@ -1,0 +1,49 @@
+similar, character, alphabet, ---------------------------------------------------
+
+binary,search,similar,character,alphabet
+recursive is usually used for traversal and binary search tree but this tree is more similar to trie of only 2 character in alphabet
+
+better,binary,search
+a trie is better than a binary search tree for searching elements
+
+article, string, length, ---------------------------------------------------
+
+article,better,binary,string,length,time
+the article says that a trie is better than binary tree as for a string of length m for trie it takes o m time and for binary tree it takes o m logn time
+
+better,kind,thing,symbols,values
+a trie is better suited to this kind of thing because it lets you store your symbols as a tree and quickly parse it to match values or reject them
+
+efficient, ternary, sort, ---------------------------------------------------
+
+efficient,sort,dictionary,binary,ternary
+most likely a trie is more efficient and you didn t sort your dictionary and it doesn t use a binary tree or ternary tree
+
+node,children,space,efficient,ternary,search
+for cases where each node in the trie has most of its children used the trie is substantially more space efficient and time efficient than th ternary search tree
+
+suffix, dummy, nodes, ---------------------------------------------------
+
+suffix,dummy,nodes
+a suffix tree has less dummy nodes than the suffix trie
+
+suffix,advanced,substrings
+a suffix tree is more or less an advanced trie here you can also search for any substrings in o c as for the trie
+
+other---------------------------------------------------
+
+radix,wiki,performance.the,memory,efficient
+use a radix tree wiki or trie wiki if you are concerned about performance.the radix tree is more memory efficient compared to a trie
+
+ps,faster,compact,side,effects,tables,significant
+ps radix tree is usually faster and more compact then trie but suffers from the same side effects of trie comparing to hash tables though less significant of course
+
+suffix,lighter,faster,index,dna
+the suffix tree is lighter and faster than the trie and is used to index dna or optimize some large web search engines
+
+b+,difficult,red-black,level,complexity
+finally b+ tree is admittedly more difficult to implement than a trie it s more on a red-black tree level of complexity
+
+project,good,avl,woud,efficient,phonebook
+should i change my project to trie or is there any other good reasons where avl tree woud be more efficient than trie in case of phonebook
+

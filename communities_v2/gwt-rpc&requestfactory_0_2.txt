@@ -1,8 +1,0 @@
-other---------------------------------------------------
-
-understanding,efficient,data,entity
-my understanding is the requestfactory is more efficient and recommended over gwt-rpc but it s more of a data entity persistence framework than a request-response framework like rpc
-
-better,newer
-go with gwt-rpc or better newer with requestfactory
-

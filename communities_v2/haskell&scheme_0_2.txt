@@ -1,8 +1,0 @@
-other---------------------------------------------------
-
-background,learning,earlier,cl,little
-some background i m learning haskell now having earlier worked with scheme and cl and a little foray into clojure
-
-approachable
-scheme is perhaps more approachable than haskell however
-

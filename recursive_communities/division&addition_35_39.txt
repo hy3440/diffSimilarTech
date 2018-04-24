@@ -1,0 +1,129 @@
+time, example, cycles, ---------------------------------------------------
+
+example,cycles,time
+best example the division it an an addition are both o 1 but usually the division takes far more cycles time to execute than the addition
+
+time
+i remember it says something like division takes much much more time than addition
+
+faster, careful, optimization, ---------------------------------------------------
+
+careful,optimization,faster
+with careful optimization however you can make addition 61 times faster than division
+
+dependency,problems,faster
+so if your code has tough data dependency problems addition is about 12 times faster than division
+
+operation,faster,gpu
+i need to find out that how much division operation is faster than addition operation in a gpu
+
+larger,type,faster,modulo
+performing addition on this slightly larger type will pretty much always be faster than doing division or modulo on the type itself
+
+higher, precedence, subtraction, ---------------------------------------------------
+
+operator,higher,order,precedence
+the division operator has a higher order precedence as the addition operator
+
+multiplication,higher,priority,subtraction
+multiplication and division have higher priority than addition and subtraction
+
+operator,higher,precedence
+this happens because the division operator has higher precedence than the + addition operator
+
+operator,higher,precedence,sum
+the division operator has a higher precedence than the addition operator + so you need to enclose the sum with brackets before dividing
+
+multiplication,higher,precedence,subtraction,extraneous
+finally we all know that multiplication and division have higher precedence than addition and subtraction so we can remove the extraneous parentheses so this turns into
+
+faster,multiplication
+an addition is faster than a division and a multiplication
+
+subtraction,level,logic,slower
+division is performed by repeated subtraction therefore needs more level of subtract logic making division slower than addition
+
+subtraction,okay,point,arithmetic,brackets
+the addition and subtraction is okay because the types of a and b force them to be performed using floating point arithmetic - but because division binds more tightly than addition and subtraction it s like using the brackets above only the immediate operands are considered
+
+multiplication,higher,precedence,first,implicit
+multiplication and division are higher precedence than addition so they get done first - before the implicit conversion to string for concatenation
+
+multiplication,higher,precedence,subtraction
+multiplication and division have a higher precedence than addition and subtraction
+
+slower,bitwise,operation
+it could be done via division which is much slower than addition or it could be translated into a bitwise and operation as well and end up being just as fast as the version
+
+higher,precedence,integer
+since division has a higher precedence than addition 5 2 gets evaluated as a integer division returning 2 as an integer
+
+higher,precedence,sumaverage1+,sumaverage2,integer
+the division has higher precedence than the addition so what you re calculating is sumaverage1+ sumaverage2 5 which is integer division which is probably not what you want
+
+single-precision,multiplication,longer,subtraction
+the term is apparently not an exact measurement as it is clear that a double-precision floating-point operation is going to take longer than a single-precision one and multiplication and division are going to take longer than addition and subtraction
+
+higher,precedence
+division has a higher precedence than addition ergo
+
+multiplication,higher,precedence,subtraction
+to start with i need multiplication and division to take higher precedence than addition and subtraction
+
+preferable,computers,subtraction,binary,arithmetic,simpler
+knuth writes that fibonacci search is preferable on some computers because it involves only addition and subtraction not division by 2. but almost all computers use binary arithmetic in which division by 2 is simpler than addition and subtraction
+
+multiplication,operators,higher,precedence,subtraction,scientific
+multiplication and division operators have higher precedence than addition and subtraction in c++ same as in scientific notation
+
+higher,precedence
+division has higher precedence than addition
+
+note,higher,precedence
+note that division has a higher precedence than addition
+
+modulo,operation,slower
+it is true that division and modulo a division operation is slower than addition
+
+higher,precedence,subtraction
+division has a higher precedence than addition or subtraction so it s really this
+
+operator,higher,precendence,function
+the division operator has a higher precendence than the addition operator so your function is calculating 1 1 + e -x
+
+slower, bit, shift, ---------------------------------------------------
+
+bit,shift,operation,slower
+2.the division by 2 can be done by bit - shift operation is it really slower than addition
+
+complex,slower,operations,incorrect
+as far as i know the division is more complex and slower than other operations like addition so is my code incorrect then
+
+difference, expensive, costly, ---------------------------------------------------
+
+first,difference,expensive
+the first difference is that division is much more expensive than addition
+
+costly,difference
+generally the division is more costly than addition i think but not much difference in this case
+
+other---------------------------------------------------
+
+larger,complexity
+and division has larger complexity than addition
+
+systems,64-bit,faster,32-bit,modulo
+for example on most 32 bit systems 64-bit addition is faster than 32-bit division modulo
+
+expensive,multiplication,number,operations,trial,limit,small
+so even disregarding that division is more expensive than addition and multiplication we see that the number of operations the sieve requires is much smaller than the number of operations required by trial division if the limit is not too small
+
+simulations,things,square,roots,expensive
+if you are doing physical simulations things like division or square roots are going to be way more expensive than addition
+
+faster
+for example an addition is typically much faster than a division
+
+work,arrays
+in addition to that the crossing off may be less work than a division don t know about python it is for c arrays
+

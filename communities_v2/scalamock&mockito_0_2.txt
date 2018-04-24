@@ -1,8 +1,0 @@
-other---------------------------------------------------
-
-natural,applications,test,scenarios,mature
-scalamock looks more natural when developing applications in scala however from what i read it seems to support fewer test scenarios compared to mockito and it s also less mature
-
-longer,larger,contributor
-mockito has been around a lot longer than scalamock and is much more actively maintained because of it s much larger contributor base
-

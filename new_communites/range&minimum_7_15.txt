@@ -1,0 +1,51 @@
+32-bit, float, larger, ---------------------------------------------------
+
+32-bit,float,larger,-1..1,maximum,values,samples,int16
+if the 32-bit float range is larger than -1..1 then you need to find the minimum and maximum values and calculate a scale factor that gets the samples within the int16 range
+
+numeric,value,number,bits,maximum,lower,representable
+the cause for an integer overflow is when an arithmetic operation attempts to create a numeric value that is outside of the range that can be represented with a given number of bits either larger than the maximum or lower than the minimum representable value
+
+integer,values,predicate,value,greater,maximum
+how about for integer values you specify a range and a predicate that specifies the value must be greater than minimum less than maximum instead
+
+negative,value,error,greater,exponent,number
+the smallest most negative value that does not cause a range error is the one greater than the minimum exponent minus the number of bits of mantissa
+
+contiguous, smaller, bigger, ---------------------------------------------------
+
+contiguous,value,smaller,bigger,maximum,gap
+a range is contiguous when there is no value one smaller than the minimum and no value one bigger than the maximum and there is no gap within the range
+
+point,expression,greater,value,lesser
+the reductive point here is the expression can actually be simplified to just the range that has the greater minimum value and the lesser maximum value
+
+analysis,common,depth,values,greater,maximum
+i have hinted at my analysis of the problem finding the common range of depth values across all datasets and you should be able to track through how i have implemented this in excel to cater for cases where some datasets might contain depth values which are less than the minimum of the common range or which are greater than its maximum or possibly both
+
+other---------------------------------------------------
+
+maximum,inclusion
+minimum 1.6.0 is not less then range maximum 1.0.0 inclusion is
+
+standard,types,short,long,wider,requirements
+for example the language standard only mandates minimum range for types like short int and long but they may be wider than the minimum requirements
+
+half,circle,value
+the unfortunate side effect is that half your circle will be cut off as it extends into the range that is less than your minimum value
+
+ºâ,reverse,higher,fine,borland,turboc,program,prints
+145 the output is like â ºâ â â ºâ â it doesn t reverse when the range is higher than 145 it works fine in gcc for borland turboc the minimum range must be 65 otherwise the program prints strange values instead of reversing it
+
+time,t1,t2,longer
+to summarize the problem given time range t1 and t2 on day d how can i determine the remaining time left in d that is longer than the minimum time block m
+
+set,hyperparameters,closer,response,maximum
+for any particular set of hyperparameters this range is much closer to the minimum response than to the maximum
+
+
+this obviously means that range is less than its minimum of 1
+
+contionuous,interpolation,first,second,derivatives,monotonic
+the objective function is guaranteed to be finite and contionuous in the interpolation range along with its first and second derivatives and has no more than one minimum in this range if it has no minimum it is monotonic
+

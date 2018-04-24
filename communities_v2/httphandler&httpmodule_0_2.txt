@@ -1,8 +1,0 @@
-other---------------------------------------------------
-
-requests
-you can have only one httphandler but can plug in more than one httpmodule to examine and handle the requests
-
-sure,better
-i m not sure httpmodule is still better then httphandler
-

@@ -1,0 +1,76 @@
+execution, sizes, secs, ---------------------------------------------------
+
+execution,faster,sizes
+execution of aes is more faster than rsa for same key sizes
+
+secs,time,faster
+so the 115 seconds will be reduced to 3-4 secs plus the encryption decryption time used for aes which is much faster than rsa
+
+slower, data, simpler, ---------------------------------------------------
+
+data,faster
+the aes key is encrypting much more data but is much faster than rsa encryption
+
+slower,simpler,management
+like you heard asymmetric cryptography like rsa is much slower than symmetric cryptography aes but it does have it s advantages simpler key management a single private key to protect
+
+slower
+one of the reasons to do so is that rsa is much slower than for example aes
+
+slower
+rsa is much slower than aes
+
+faster
+it shows that rsa encrypt is faster then aes encrypt
+
+secure, ---------------------------------------------------
+
+secure
+asymmetric encryption ex rsa is no more secure than symmetric encryption ex aes
+
+secure
+how is aes less secure than rsa in this scenario
+
+secure
+asymmetric key encryption ex rsa is no more secure than symmetric key encryption ex aes
+
+performance, resources, resource, ---------------------------------------------------
+
+performance,faster,resources,resource,hungry
+there are two reasons for that performance aes is faster then rsa and resources aes is less resource hungry than rsa
+
+first,possible,technical,performance,faster,session
+and regarding your first question it is definitely possible to encrypt decrypt messages directly using rsa there are only technical and performance reasons aes is much faster than rsa why rsa is used only to encrypt a session key and aes is used to encrypt decrypt the messages themselves
+
+other---------------------------------------------------
+
+safe
+block crypto algorithms like aes do suffer from this problem too but without a pki aes is no less safe than rsa
+
+efficiency,orders,magnitudes,slower,trade-off,simplicity,favor,return,poor
+as far as efficiency rsa is going to be orders of magnitudes slower than aes so the trade-off you make is that you give up simplicity you give up the simplicity of using aes in favor of some rsa chunking in return for poor performance you get the slower performance of rsa.
+
+chunk,padding,expensive
+note however that doing so means that each encrypted chunk has its own padding and that rsa is much more computationally expensive than aes
+
+user-friendly
+algorithms like rsa are much less user-friendly than aes
+
+particular,bits,strenght
+in your particular case an rsa key of 2048 bits has a lot less strenght than an aes key of 256 bits
+
+moduli,bit,larger
+considering most rsa moduli are at least 1024 bit this will be much larger than an aes key
+
+256-bit,secure,4096-bit,similar,protection
+while 256-bit aes might sound less secure than 4096-bit rsa they might actually be quite similar from the offered protection
+
+whole,purpose,communication,faster,public
+the whole purpose of using aes to secure the communication or any symmetric key encryption is that it s a lot faster than rsa or any public key encryption
+
+small,bit,bytes,b,public,costly
+but if you use public key encryption to encrypt messages you are a limited to small messages -- a 1024 bit rsa key encrypts less than 128 bytes and b going to pay in performance because public key encryption is much more costly than symmetric key encryption such as aes encryption
+
+math,equation
+that is actually not the case with rsa which is --- more so than aes --- just a math equation
+

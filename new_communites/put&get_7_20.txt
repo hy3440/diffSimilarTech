@@ -1,0 +1,68 @@
+loop, small, assumption, ---------------------------------------------------
+
+small,assumption,process,faster,loop,q.empty
+as long as the dataframe is small your assumption that the put process is faster than the get seems true we can fetch all 5 items within one loop of while not q.empty
+
+loop,counter,value,higher,stuck..
+when i put my loop counter variable pagessent in the watch window it gets optmized when i declare as volatile it still gets optimized but when the max value is set to 4 the loop exits properly but if max value is higher than 4 get stuck..
+
+requests, second, bucket, ---------------------------------------------------
+
+rate,bucket,requests,second
+if you expect a rapid increase in the request rate for a bucket to more than 300 put list delete requests per second or more than 800 get requests per second we recommend that you open a support case to prepare for the workload and avoid any temporary limits on your request rate
+
+performance,considerations,requests,second
+at very high speeds amazon s3 does have some recommended request rate and performance considerations but this is only when making more than 300 put list delete requests per second or more than 800 get requests per second for a particular bucket
+
+rate,bucket,requests,second
+i m not sure if this is the answer but states that if you expect a rapid increase in the request rate for a bucket to more than 300 put list delete requests per second or more than 800 get requests per second we recommend that you open a support case to prepare for the workload and avoid any temporary limits on your request rate
+
+slower, rate, ---------------------------------------------------
+
+rate,slower
+at times the get rate is slower than the put rate and we see messages backing up
+
+slower
+this could mean that put is now slower than get and we have to wait
+
+other---------------------------------------------------
+
+topological,sort,value,number,vertices
+this should be producing a topological sort but so far i consistently get one value less than i put in as far as number of vertices and none of the number match those i ve inputted
+
+user-agents,post,difficult,different,users
+from an interface design standpoint you want user-agents to make post and put and delete more difficult than get or at least distinctly different so that users can rely on that difference to hint when their actions might cause a change in the resource state because they are responsible for those changes
+
+mechanisms,database,slower,data,http
+since most data-storage mechanisms in-ram in a database etc. get a lot slower as you put more data in them you should ensure you re only timing your http access and not looking at overall crawler throughput including storage
+
+method,better,webservice
+right now i would have to say the put method is better since it works and i could not get the webservice to work
+
+slider,work,better,slider.js,chrome
+but the slider won t work well it doesn t get activated is a better way to put it if i insert the code from slider.js into the chrome console hit enter - booom works perfectly i ve been looking for what the problem might be tried adding the type text javascript in the script tags added the document .ready in my jquery still nothing.
+
+wrong,session,login,oswap,privilege,level
+now don t get me wrong regenerating the session id on login or more accurately as oswap put it on privilege level change is indeed a very good defense against session fixation
+
+worse,tests,specflow
+i m concerned this is going to get worse as we put more tests into the specflow project
+
+count,number,sequence,different,series
+from the count you will get the number of sequence and those which have more than 2 put those in a different series and then add that series in the dataframe
+
+functions,data
+and then i saw that they put functions under transform that did much more than just get data
+
+large,file,command,slower
+as i am benchmarking my cluster i discover that for large file my get command is actually slower than put command
+
+loop
+to get your code to run more than once put it in a while loop
+
+cache,slower,native,inbuilt,value
+i think put and get on ignite cache would likely to be slower than native put and get on my inbuilt key value store
+
+frequent
+you got at least put and delete although they are used much less frequent than get and post as in hardly ever
+

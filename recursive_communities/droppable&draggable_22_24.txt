@@ -1,0 +1,82 @@
+set, z-index, higher, ---------------------------------------------------
+
+set,higher,z-index,visible
+for draggable set higher z-index than droppable so that draggable will always be visible over droppable
+
+work,z-index,container
+i can make this work if the z-index of the droppable is less than the container but then you can t see where the draggable is since it s hidden behind the container
+
+width,area,set
+alternatively you could set a width on your draggable which is less than twice the width of your droppable area or combine a set width with one of the above options for a better user experience
+
+div, size, bigger, ---------------------------------------------------
+
+size,div,smaller,container
+and the size of the draggable div s should be smaller than the droppable div so that they fit in the droppable container
+
+element,margin,bigger,status,upper
+it seems like the draggable element including the margin is bigger than the droppable element and therefore the dropped status is set although the element does not seems to touch the upper droppable yet
+
+div,bigger
+the draggable div is 3 times bigger than one droppable
+
+div
+how can i make the droppable to not accept more than one draggable div
+
+div
+how can i make the two droppable div s to not accept more than one draggable elements
+
+li,element,bigger,div
+apparently the draggable li element is bigger than the droppable div because the li is block size and the div has a 150px width
+
+parent,element,wrapper,bigger,teeth
+i have a draggable parent element ice cream wrapper which is bigger than the droppable one teeth
+
+matter,size,big,item
+it s just a hunch but maybe it s only a matter of the size of your draggable being too big and being over more than one droppable item
+
+dimension,div,smaller,event
+when i made dimension of draggable div smaller than droppable div then drop event triggered successfully
+
+target,size,smaller
+perhaps you find it strange since the target droppable s size is much smaller than the draggable
+
+full,width,container,wider
+this means that your draggable is the full width of the container which is much wider than the droppable and thus can t possibly intersect by 50
+
+item,larger,div,appointment,box
+when the draggable item is larger than the droppable div for some reason it will always place the appointment in the droppable div box that is directly below the one i am targetting
+
+p.s, smaller, bigger, ---------------------------------------------------
+
+p.s,smaller
+p.s this will only work if the draggable is smaller than droppable which is true in this case
+
+smaller
+but i have a problem dragging to a droppable that is smaller than the draggable
+
+bigger
+this overlap is somewhat forced when the draggable is bigger than the droppable
+
+point, item, element, ---------------------------------------------------
+
+item
+the problem you outlined is that the droppable is allowing more than 1 draggable item to be placed inside of it
+
+element,point
+the draggable is covering more than one droppable element and at this point there are multiple event.target.id s being covered
+
+other---------------------------------------------------
+
+unwanted,behavior,parent,element,padding,larger,snaptolerance
+i was able to remove the unwanted behavior described above by turning the droppable into the parent of the element and added a margin padding that is slightly larger than the draggable snaptolerance
+
+ui,perspective,image,bigger,possible,container
+it works nicely but from the rich ui perspective it s boring so i was wondering since the draggable image is bigger than the droppable how could i do assuming it s possible to have the droppable container suck the bigger image until if fills its dimensions
+
+validation
+i have a validation on the droppable for not adding more than one draggable per droppable
+
+
+without draggable seems more like it but then i can t use the droppable
+

@@ -1,8 +1,0 @@
-other---------------------------------------------------
-
-better,focusout,blur
-onchange is a better choice than onblur or focusout because blur and focusout also fire when the contents of the text field hasn t changed
-
-focus,imo,event,appropriate,onblure
-edit you probably only want to validate when the value changes and field loses focus that s why imo the onchange event would be more appropriate than onblur not onblure
-

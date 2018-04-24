@@ -1,8 +1,0 @@
-other---------------------------------------------------
-
-associations,better,relations
-using two one-to-many associations is always better than relying on many-to-many relations
-
-certain,tags,appropriate,convenient,efficient,single,order
-iâ ve read a so questionâ s comment where inserting order# 68 as pictured wouldnâ t cause any trouble but if i wanted to query orders by certain tags a many-to-many is more appropriate convenient efficient since otherwise in a one-to-many every single order will have to be checked to know how its tags is this true
-

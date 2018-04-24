@@ -1,8 +1,0 @@
-other---------------------------------------------------
-
-better,api,protocol,simpler
-i suggest that you to move jmock which has a better api or even to mockito whose protocol is even simpler
-
-record,today,complex,scenarios,initial,learning
-for the record jmock as of today supports more complex scenarios than mockito that s why the initial learning curve is steeper
-

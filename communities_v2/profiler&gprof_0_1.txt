@@ -1,5 +1,0 @@
-other---------------------------------------------------
-
-measurements,google,better,results
-for time measurements use google s cpu profiler it gives way better results than gprof
-

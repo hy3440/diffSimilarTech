@@ -1,8 +1,0 @@
-other---------------------------------------------------
-
-sqlite,mysql,principles,easy,database,system,atomicity,transactions
-using a database system such as sqlite or mysql that follows the acid principles is much more easy as the database system guarantees consistency atomicity of the transactions isolation and durability
-
-isolation,part,model,particular,sequential
-however the isolation part of acid sounds more like consistency model in particular the sequential consistency model
-

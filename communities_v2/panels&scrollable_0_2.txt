@@ -1,8 +1,0 @@
-other---------------------------------------------------
-
-larger,form,autoscroll,true
-the panels itself is larger than the form and is scrollable autoscroll true
-
-jpanel,resizable,smaller,inner
-i am trying to create a jpanel that is resizable scrollable and contains x smaller inner panels
-

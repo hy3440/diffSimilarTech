@@ -1,0 +1,59 @@
+int, larger, short, ---------------------------------------------------
+
+variations,type,bytes,memory,architecture,short,values
+according the books the variations of type integer occupy more or less bytes of memory depending on the architecture however the type unsigned short values â â can get up to 65 535 since the type unsigned long 4 294 967 295
+
+system,int,larger,greater,type,short
+on your system unsigned int is apparently larger than uint16_t int is a greater ranked integer type than short in the standard 6.3.1.1 even if they are of the same size
+
+promotions,place,type,smaller,int,promotion
+instead default argument promotions take place which means that any integer type smaller than int unsigned int gets converted to one of those -- that s not the only promotion but the only one relevant here -- and which also means that there is no automatic conversion to whatever type you specify with va_arg
+
+error,constant,larger,largest,type
+error integer constant is larger than the largest unsigned integer type
+
+pedantic,note,types,wider,int,final,computed
+pedantic note when printing integer types that might wider than int unsigned insure the final computed result matches the specifier
+
+object,type,int,rank,equal,field
+an object with an integer type other than int and signed int whose integer rank is less than or equal to the rank of int and unsigned int a bit field of type _bool int signed int or unsigned int
+
+chux,comment,larger,uint32_t,usual,promotions
+1 as chux has noted in a comment if unsigned is larger than uint32_t arithmetic on uint32_t goes through the usual integer promotions and if not it stays as uint32_t
+
+high,error,constant,larger,largest,type
+going too high gives the error integer constant is larger than the largest unsigned integer type
+
+compiler,conversion,int,better,pointer
+as far as the compiler is concerned the conversion from integer 0 to unsigned int is no better than the conversion from integer 0 to pointer
+
+bigger, implementation, pointers, ---------------------------------------------------
+
+implementation,type,pointers,bigger
+an implementation that has no such unsigned type say because pointers are bigger than any integer type won t provide it
+
+guarentee,bigger,equal,bytes,data
+i do have the guarentee that the signed integer is always bigger or equal than the unsigned integer in bytes so no data should be lost due to lack of space
+
+compiler,type,wider
+it can only disappoint you if your compiler has an integer type wider than unsigned long long and you use it
+
+faster, value, use, ---------------------------------------------------
+
+value,use,operators,faster
+the idea here is threefold readability using operator functions with compatible left and right arguments as well as return value and the use of integer multiplying operators being faster than unsigned operators
+
+division,faster,types
+in case of unsigned integer division this problem does not arise which is why generally integer division works much faster for unsigned types than for signed types
+
+types,useful
+furthermore signed integer types just tend to be more useful than unsigned types
+
+other---------------------------------------------------
+
+input,larger,long
+the problem is that the input integer is larger than what would fit in an unsigned long long
+
+minimum,64bit,sign,equal,bigger,size,long,int
+both of following types are semantically equivalent minimum 64bit integer without sign and with equal or bigger size than unsigned long int
+

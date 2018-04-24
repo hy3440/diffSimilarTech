@@ -1,0 +1,93 @@
+fixed-point, arithmetic, slower, ---------------------------------------------------
+
+faster,fixed-point,arithmetic
+but another added benefit of this approach is that it could make your program run faster since fixed-point integer arithmetic is much faster than floating-point arithmetic
+
+slower,arithmetic
+historically floating-point could be much slower than integer arithmetic
+
+slower
+floating-point may be somewhat slower than integer but it s generally
+
+math,faster
+generally integer math is faster than floating-point math
+
+slower
+historically floating-point could be much slower than integer
+
+arithmetics,complicated
+floating-point arithmetics is by far more complicated than integer arithmetics
+
+math,faster,function,major
+integer math is often much faster than floating-point so such a function could be a major performance win
+
+rule,thumb,2x,slower
+as a rule of thumb floating-point is about 2x slower than integer on
+
+arithmetic,simpler
+but integer arithmetic arguably is inherently simpler than floating-point
+
+division,faster,cpu
+floating-point division is typically faster than integer division on the cpu
+
+space,math,slower
+they take up more space and floating-point math is slower than integer math
+
+context,faster,slower
+depending on context floating-point code may be as fast as or faster than integer code or it may be four times slower
+
+today, units, unit, ---------------------------------------------------
+
+today,units,faster,unit
+today s floating-point units are pretty fast and may actually divide faster than an integer unit
+
+divide,faster,fewer,bits,cpu,unit
+floating-point divide is faster than integer fewer bits to divide assuming your cpu has floating-point unit
+
+combinations,32b,faster,cpu,gpu
+there are lots of cpu gpu combinations where a 32b integer multiply is faster than a 32b floating-point multiply on cpu and vice-versa on gpu
+
+other---------------------------------------------------
+
+general,real,larger,maximum,integers,representable
+floating-point solves the more general problem of representing some real numbers that aren t integers and some real numbers that are larger than the maximum integer up to which all integers are representable here 16777216 all with a nearly uniform relative accuracy at least 1 2 precision
+
+value,thanks,part
+since the floating-point value is slightly less than the integer you rounded to thanks to .nextdown the integer part is going to be one less than that integer
+
+possible,pong,arithmetic,likely,faster,difference,unlikely
+it s even possible that you could implement pong using only integer arithmetic which is likely to be faster than floating-point -- but the difference is unlikely to be critical
+
+scipy.ndimage,domain,better,results,image,processing
+i did this very successfully with scipy.ndimage in the floating-point domain way better results than integer image processing like this
+
+largest,smallest,greater,lower,digit,limitation,variable
+i know c++ have functions that return largest or smallest integer that is greater or lower than a like ceil or floor.is there a function that implement digit limitation of floating-point variable
+
+cell,phones,slower,order,magnitude,better,hardware,available
+on somewhat limited processors like those in high-end cell phones floating-point may be somewhat slower than integer but it s generally within an order of magnitude or better so long as there is hardware floating-point available
+
+arithmetic,faster,equivalent,likely,type
+which uses all integer arithmetic is usually faster than its floating-point equivalent likely significantly faster in the case of a floating-point type equivalent to t-sql s decimal type
+
+value,higher,rank,float
+because the floating-point value is of a higher rank than an integer it will promote the integer to a float
+
+division,coarser
+you re performing integer division which is coarser than floating-point division
+
+representation,memory,third,link,variables,ones
+floating-point representation in memory can t add third link - because floating-point variables is much more strange than integer ones
+
+types,larger,range
+floating-point types have a larger range than the integer types so
+
+individual,division,instruction,longer
+an individual floating-point division instruction will take longer than an integer one
+
+unpredictable,precision,issues,little,exact
+however due to unpredictable floating-point precision issues it is sometimes little less than exact integer and in this case it is rounded down too much
+
+nsdecimalnumber,types,able,bigger,numbers,precision
+nsdecimalnumber and the floating-point types may be able to store bigger numbers than the integer types though with decreasing precision
+

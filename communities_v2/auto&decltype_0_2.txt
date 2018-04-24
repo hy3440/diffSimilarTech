@@ -1,8 +1,0 @@
-other---------------------------------------------------
-
-versatile,place
-decltype is significantly more versatile that auto and can always be used in place of it
-
-concise,need,expression
-in the cases where auto can be used it is more concise than decltype as you don t need to provide the expression from which the type will be inferred
-

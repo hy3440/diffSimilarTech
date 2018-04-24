@@ -1,8 +1,0 @@
-other---------------------------------------------------
-
-project,management,tools
-i ve read that mantis contains less project management tools than redmine
-
-better
-i have been trying out redmine to see if i like it better than mantis
-

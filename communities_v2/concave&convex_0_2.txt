@@ -1,8 +1,0 @@
-other---------------------------------------------------
-
-hull,difficult
-but determining a concave hull is far more difficult than a convex hull
-
-check,polygons,triangle,simpler,ones,first
-the check for convex polygons your triangle is simpler than for concave ones see first linked article
-

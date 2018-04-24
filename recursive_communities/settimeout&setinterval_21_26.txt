@@ -1,0 +1,90 @@
+timers, countdown, things, ---------------------------------------------------
+
+countdown,timers,things
+setinterval is much more suited for countdown timers and things you need to run continually since settimeout only runs once and you need to keep on calling it
+
+use,timer,several,timers
+the use of one settimeout timer is more preferably than several setinterval timers
+
+better, task, safer, ---------------------------------------------------
+
+better,task
+setinterval is better than settimeout for this task
+
+better
+also setinterval is often better replaced by settimeout
+
+better
+setinterval would be the better way than settimeout
+
+safer
+i think using settimeout is safer than setinterval
+
+better, previous, function, ---------------------------------------------------
+
+better,function,repeat
+i understand from searching on so that setinterval is a better way to approach this that settimeout which i was using initially but i haven t figured out how to specify that the function needs to repeat
+
+better,screwy,ways
+using settimeout is considered better than setinterval because of the screwy ways that js s event loop works
+
+better,idea,fight,longer
+using settimeout for such purposes is better idea than setinterval as you don t have to clear them and they won t get crowded - if your fight takes longer than period then this won t run into next fight
+
+better,secs,time,job
+settimeout is better than setinterval here because setinterval will start at every 5 secs but settimeout will start once each time your job is done and wait for 5 seconds which will make your script adaptive to server response timings
+
+lines,array,better,animations
+if so then you can just pop lines off the array using settimeout which is better than setinterval for most animations
+
+better,approach,round,trip
+also settimeout is a better approach than setinterval as you explicitly reset it on each round trip
+
+better,previous,ajax
+but settimeout would be better than setinterval because with setinterval if your previous ajax request is not complete and you start another request there will have multiple requests which would sooner be problematic
+
+better,solution,new,previous
+it uses settimeout however settimeout is a better solution than setinterval because it will only queue a new one if the previous one is complete
+
+useful, need, method, ---------------------------------------------------
+
+useful,need
+setinterval is more useful than settimeout here as it recurs automatically and you don t need to keep setting it
+
+routine,second,useful
+now a routine to initiate once per second - settimeout is usually more useful than setinterval
+
+relevant,first,method
+settimeout is more relevant than setinterval since the first method just waits for a delay and executes a logic whereas the second function is meant for repeating a logic on periodic intervals
+
+thing,method,accurate
+well setinterval and settimeout essentially try to do the same thing but for your case setinterval method will be more accurate than settimeout
+
+simpler,need,clearinterval
+as for me settimeout is simpler than setinterval in this case as you won t need to clearinterval in the end of the array
+
+little, cleaner, calls, ---------------------------------------------------
+
+little,cleaner,calls
+i find setinterval is a little cleaner than chaining settimeout calls
+
+shure,statement,little,performance
+and im not shure about this statement javascript likes settimeout more than setinterval which gives a little performance boost
+
+other---------------------------------------------------
+
+cpu,resources,intensive
+i read that settimeout is less cpu resources intensive than setinterval
+
+aesthetic,experience,requestanimationframe
+also in my experience at least settimeout offers a much more aesthetic experience than setinterval or requestanimationframe
+
+bigger,priority
+it seems that settimeout has bigger priority than setinterval which could be delayed
+
+look,appropriate
+also i advise you to take a look at javascript s setinterval since it is more appropriate than settimeout for what you want to do
+
+efficient,schedules,alarm,particular,time,processor,cycles
+keep in mind that using setinterval is less efficient for this case then using settimeout which doesn t require comparing times at all as it schedules the alarm to occur at a particular time as setinterval will use more processor cycles to both schedule a check and then to compare the times
+

@@ -1,8 +1,0 @@
-other---------------------------------------------------
-
-addition,assignment,lower,procedure,operation
-addition subtraction assignment has lower procedure than simply add operation
-
-addition,worse,sequence,first,compiler,operations,independent
-addition and subtraction is worse as these have to be done in sequence of two operations and the second operation requires the first to have completed - this is not the case if the compiler is just producing two add operations on independent data
-

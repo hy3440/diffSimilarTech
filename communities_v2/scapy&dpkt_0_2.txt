@@ -1,8 +1,0 @@
-other---------------------------------------------------
-
-better,performer
-scapy is a better performer than dpkt
-
-slower
-or is it just that scapy is slower than dpkt
-

@@ -1,8 +1,0 @@
-other---------------------------------------------------
-
-better,application
-also is jxtable better than jtable for such an application
-
-swing-x,components,powerful
-use swing-x components there is a jxtable which is more powerful than jtable
-

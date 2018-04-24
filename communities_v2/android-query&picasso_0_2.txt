@@ -1,8 +1,0 @@
-other---------------------------------------------------
-
-better,offline,mode,internet,connectivity,record,form,server,cache
-android-query is better than picasso because while in offline mode no internet connectivity picasso tries to fetch record form server whereas android-query maintains its cache form where it fetched the images
-
-images,rules
-if picasso doesn t satisfy you for any reason you can also try android-query which does much more than picasso it s not only for images but the same rules apply
-

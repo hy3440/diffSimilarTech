@@ -1,5 +1,0 @@
-other---------------------------------------------------
-
-popular,loops,preficates
-the guava library is much more popular than lambdaj and does allow you to avoid for while loops by using preficates and filter methods
-

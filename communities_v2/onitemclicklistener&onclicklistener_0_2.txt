@@ -1,8 +1,0 @@
-other---------------------------------------------------
-
-better
-if you still would love to manage onclicklistener i will tell why onitemclicklistener is much better than onclicklistener
-
-arrayadapter,worse
-is using onclicklistener in arrayadapter worse than onitemclicklistener
-

@@ -1,0 +1,16 @@
+1090158
+as far as when awt may be more useful than swing -
+14627362
+swing works faster
+14627362
+swing occupies less memory space
+14627362
+awt occupies more memory space
+15950286
+awt occupies more memory space
+15950286
+swing occupies less memory space
+16810355
+awt is a thin layer of code on top of the os whereas swing is much larger
+16810355
+awt is more limited in supplying the same functionality on all platforms

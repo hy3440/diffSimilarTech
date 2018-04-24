@@ -1,8 +1,0 @@
-other---------------------------------------------------
-
-faster
-bottle is rather faster than flask
-
-dependency,better,jinja2,werkzeug
-i d totally go with flask unless one dependency bottle is better than three flask jinja2 and werkzeug
-

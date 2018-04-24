@@ -1,8 +1,0 @@
-other---------------------------------------------------
-
-request,response,kind,lightweight
-is it because request response handling on wildfly is kind of more lightweight than the jboss 4.2.3
-
-server,port,eap,standalone.xml,evoluated,stable
-everything is set as default for sure the server is up and listening to port 9990 trying to compare both wildfly and jboss eap standalone.xml but they aren t exactly the same wildfly is more evoluated compared to jboss eap which is more stable
-

@@ -1,8 +1,0 @@
-other---------------------------------------------------
-
-navbar,background,priority,distinct,powerful
-you can refer the bootstrap official document you can find that the default navbar background described as background-image the priority of background-image and background-color distinct the background-image is more powerful than background-color
-
-answers,comments,rgba,faster,efficient,compatibility,friendly
-a lot of answers comments are mentioning that the background-color rgba is faster and more efficient but that background-image is more compatibility friendly
-

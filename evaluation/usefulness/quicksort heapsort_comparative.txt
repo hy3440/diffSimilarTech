@@ -1,0 +1,6 @@
+33943872
+asymptotic analysis reveals order of growth of heapsort in the worst case is big-o n logn which is better than quicksort s big-o n 2 as a worst case
+33943872
+however heapsort is somewhat slower in practice on most machines than a well-implemented quick sort
+33943872
+the reason heapsort is slower in practice than quicksort is due to the better locality of reference in quicksort where data elements are within relatively close storage locations

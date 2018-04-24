@@ -12,12 +12,15 @@ from textblob import TextBlob as tb
 
 
 # Setting
-f = open(os.path.join(os.pardir, "v1", "aspects.pkl"), 'rb')
-aspects = pickle.load(f)
-f.close()
-f = open(os.path.join(os.pardir, "v1", "new_aspects.pkl"), 'rb')
-new_aspects = pickle.load(f)
-f.close()
+# f = open(os.path.join(os.pardir, "v1", "aspects.pkl"), 'rb')
+# aspects = pickle.load(f)
+# f.close()
+# f = open(os.path.join(os.pardir, "v1", "new_aspects.pkl"), 'rb')
+# new_aspects = pickle.load(f)
+# f.close()
+
+aspects = {}
+new_aspects = {}
 query_flag = False
 ver_flag = True
 if ver_flag:
@@ -51,11 +54,11 @@ else:
 # pair = ("rsa", "aes")
 # pair = ("vmware", "virtualbox")
 # pair = pairs[-1]
-# large_pairs = {("chars", "int"), ("double", "int"), ("for-loop", "loops"),
-#                ("google-chrome", "firefox"), ("height", "width"), ("innodb", "myisam"),
-#                ("max", "min"), ("multiplication", "addition"), ("multiplication", "addition"),
-#                ("parent", "children"), ("post", "get")}
-pairs = {("google-chrome", "firefox"), ("post", "get"), ("innodb", "myisam")}
+large_pairs = {("chars", "int"), ("double", "int"), ("for-loop", "loops"),
+               ("height", "width"),
+               ("max", "min"), ("multiplication", "addition"),
+               ("parent", "children")}
+# pairs = {("google-chrome", "firefox"), ("post", "get"), ("innodb", "myisam")}
 
 # Prepare POS tagger
 pos_tag_set = {"JJR", "JJ", "NN", "NNS", "NNP", "NNPS", "RBR", "RBS", "JJS"}
@@ -219,7 +222,7 @@ def main():
                     G.add_edge(i, j)
                     # G.add_edge(i, j, weight=sims[j])
 
-        # out_path = os.path.join(os.pardir, com_dir, "{}_{}_{}.txt".format("&".join(pair), G.number_of_nodes(), l))
+        out_path = os.path.join(os.pardir, "{}_{}_{}.txt".format("&".join(pair), G.number_of_nodes(), l))
         # image_path = os.path.join(os.pardir, com_dir, "{}_{}_{}.png".format("&".join(pair), G.number_of_nodes(), l))
 
         # Draw graph
@@ -270,8 +273,8 @@ def main():
 
         aspects[pair] = set()
         new_aspects[pair] = {}
-        if True:
-        # with open(out_path, "a") as out_file:
+        # if True:
+        with open(out_path, "a") as out_file:
             for i, blob in enumerate(bloblist):
                 # print("Top words in document {}".format(i + 1))
                 scores = {word: tfidf(word, blob, bloblist) for word in blob.words}
@@ -279,7 +282,7 @@ def main():
                 # word_num = 0
                 aspect_keywords = []
                 for word, score in sorted_words[:3]:
-                    # out_file.write(word+", ")
+                    out_file.write(word+", ")
                     aspect_keywords.append(word)
                 new_aspects[pair][" ".join(aspect_keywords)] = set()
                 # for word, score in sorted_words:
@@ -289,16 +292,16 @@ def main():
                 #         word_num += 1
                 #         out_file.write(word+", ")
                 #         print("\tWord: {}, TF-IDF: {}".format(word, round(score, 5)))
-                # out_file.write("---------------------------------------------------\n\n")
+                out_file.write("---------------------------------------------------\n\n")
                 for j in clusters[i]:
                     temp = information[sentences[j]]
                     new_aspects[pair][" ".join(aspect_keywords)].add((temp[0], temp[1], temp[2], temp[3], sentences[j]))
                     aspects[pair].add((temp[0], temp[1], temp[2], " ".join(aspect_keywords), temp[3], sentences[j]))
-                    # out_file.write(",".join(corpus[j])+"\n")
-                    # out_file.write(sentences[j]+"\n")
+                    out_file.write(",".join(corpus[j])+"\n")
+                    out_file.write(sentences[j]+"\n")
                     graph_indices.add(j)
                 num += 1
-            # out_file.write("other---------------------------------------------------\n\n")
+            out_file.write("other---------------------------------------------------\n\n")
             new_aspects[pair]["other"] = set()
             for j in range(len(sentences)):
                 if j not in graph_indices:
@@ -306,49 +309,52 @@ def main():
                     new_aspects[pair]["other"].add((temp[0], temp[1], temp[2], temp[3], sentences[j]))
                     aspects[pair].add((temp[0], temp[1], temp[2], "", temp[3], sentences[j]))
 
-            #         out_file.write(",".join(corpus[j])+"\n")
-            #         out_file.write(sentences[j]+"\n")
+                    out_file.write(",".join(corpus[j])+"\n")
+                    out_file.write(sentences[j]+"\n")
         plt.close('all')
         print(pair)
 
 
-
+# pair = ("testng", "junit")
 # main()
-
-try:
-    for pair in pairs:
+for pair in relations.keys():
+    if len(relations[pair]) > 15 and pair not in large_pairs:
         main()
-# try:
-#     for pair in relations.keys():
-#         if len(relations[pair]) > 2 and pair not in aspects.keys() and pair not in large_pairs:
-#             main()
-finally:
-    print(pair)
-    with open(os.path.join(os.pardir, "aspects.pkl"), "wb") as aspects_file:
-        pickle.dump(aspects, aspects_file)
-    print("no. of pairs: ", len(aspects.keys()))
-    tt = set()
-    for (a, b) in aspects.keys():
-        tt.add(a)
-        tt.add(b)
-    print("no. of different techs: ", len(tt))
-    with open(os.path.join(os.pardir, "aspects.txt"), "a") as recordings_file:
-        recordings_file.write(str(len(aspects))+"\n\n")
-        for key, values in aspects.items():
-            recordings_file.write(key[0]+"\t"+key[1]+"\t"+str(len(values))+"\n")
-            for value in values:
-                # recordings_file.write(" ".join(value)+"\n")
-                recordings_file.write(str(value)+'\n')
-            recordings_file.write("\n")
 
-    with open(os.path.join(os.pardir, "new_aspects.pkl"), "wb") as new_aspects_file:
-        pickle.dump(new_aspects, new_aspects_file)
-    with open(os.path.join(os.pardir, "new_aspects.txt"), "a") as new_recordings_file:
-        new_recordings_file.write(str(len(new_aspects))+"\n\n")
-        for key, values in new_aspects.items():
-            new_recordings_file.write("\t".join(key)+"---------------------------------------------------\n\n")
-            for k, value in values.items():
-                new_recordings_file.write(k+"\n")
-                for v in value:
-                    new_recordings_file.write(str(v)+'\n')
-                new_recordings_file.write("\n")
+# try:
+#     for pair in pairs:
+#         main()
+# # try:
+# #     for pair in relations.keys():
+# #         if len(relations[pair]) > 2 and pair not in aspects.keys() and pair not in large_pairs:
+# #             main()
+# finally:
+#     print(pair)
+#     with open(os.path.join(os.pardir, "aspects.pkl"), "wb") as aspects_file:
+#         pickle.dump(aspects, aspects_file)
+#     print("no. of pairs: ", len(aspects.keys()))
+#     tt = set()
+#     for (a, b) in aspects.keys():
+#         tt.add(a)
+#         tt.add(b)
+#     print("no. of different techs: ", len(tt))
+#     with open(os.path.join(os.pardir, "aspects.txt"), "a") as recordings_file:
+#         recordings_file.write(str(len(aspects))+"\n\n")
+#         for key, values in aspects.items():
+#             recordings_file.write(key[0]+"\t"+key[1]+"\t"+str(len(values))+"\n")
+#             for value in values:
+#                 # recordings_file.write(" ".join(value)+"\n")
+#                 recordings_file.write(str(value)+'\n')
+#             recordings_file.write("\n")
+#
+#     with open(os.path.join(os.pardir, "new_aspects.pkl"), "wb") as new_aspects_file:
+#         pickle.dump(new_aspects, new_aspects_file)
+#     with open(os.path.join(os.pardir, "new_aspects.txt"), "a") as new_recordings_file:
+#         new_recordings_file.write(str(len(new_aspects))+"\n\n")
+#         for key, values in new_aspects.items():
+#             new_recordings_file.write("\t".join(key)+"---------------------------------------------------\n\n")
+#             for k, value in values.items():
+#                 new_recordings_file.write(k+"\n")
+#                 for v in value:
+#                     new_recordings_file.write(str(v)+'\n')
+#                 new_recordings_file.write("\n")

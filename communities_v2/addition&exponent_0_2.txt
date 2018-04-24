@@ -1,8 +1,0 @@
-other---------------------------------------------------
-
-fp,smaller,operand,mantissa,operands,certain,magic
-since fp addition shifts the smaller operand s mantissa until both operands have the same exponent you can add a certain magic number to force it
-
-powers,bitshifting,little,clearer
-in addition for doing powers of two bitshifting is usually a little clearer than doing exponent though choose whatever works for you
-

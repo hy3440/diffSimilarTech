@@ -12,14 +12,15 @@ from textblob import TextBlob as tb
 
 
 # Setting
-# f = open(os.path.join(os.pardir, "aspects.pkl"), 'rb')
+# f = open(os.path.join(os.pardir, "v1", "aspects.pkl"), 'rb')
 # aspects = pickle.load(f)
 # f.close()
-# f = open(os.path.join(os.pardir, "new_aspects.pkl"), 'rb')
+# f = open(os.path.join(os.pardir, "v1", "new_aspects.pkl"), 'rb')
 # new_aspects = pickle.load(f)
 # f.close()
+
+aspects = {}
 new_aspects = {}
-sentences_keywords = {}
 query_flag = False
 ver_flag = True
 if ver_flag:
@@ -55,8 +56,9 @@ else:
 # pair = pairs[-1]
 large_pairs = {("chars", "int"), ("double", "int"), ("for-loop", "loops"),
                ("height", "width"),
-               ("max", "min"), ("multiplication", "addition"),
+               ("max", "min"), ("multiplication", "addition"), ("multiplication", "addition"),
                ("parent", "children")}
+pairs = {("google-chrome", "firefox"), ("post", "get"), ("innodb", "myisam")}
 
 # Prepare POS tagger
 pos_tag_set = {"JJR", "JJ", "NN", "NNS", "NNP", "NNPS", "RBR", "RBS", "JJS"}
@@ -82,7 +84,7 @@ stop_phrases = [["for", "example"], ["in", "terms", "of"], ["keep", "in", "mind"
 # tags = pickle.load(open(os.path.join(os.pardir, "data", "tags.pkl"), 'rb'))
 
 # Prepare sentences
-in_path = os.path.join(os.pardir, "out", "new_pattern1234_pairs.pkl")
+in_path = os.path.join(os.pardir, "data", "relations.pkl")
 relations_file = open(in_path, 'rb')
 relations = pickle.load(relations_file)
 relations_file.close()
@@ -118,8 +120,26 @@ def set_shreshold(a, b):
         return 0.55 - 0.05 ** abs(a - b)
 
 
+def recursive_detector(G, nnodes, part, communities):
+    if G.number_of_nodes() < nnodes * part:
+        communities.append(G.nodes)
+        return communities
+    else:
+        communities_generator = community.girvan_newman(G)
+        temp_communities = next(communities_generator)
+        # communities = sorted(map(sorted, temp_communities))
+        for com in temp_communities:
+            recursive_detector(G.subgraph(com), nnodes, part, communities)
+        return communities
+
+
 def main():
-    sentences = list(relations[pair])
+    information = {}
+    sentences = set()
+    for items in relations[pair]:
+        sentences.add(items[5])
+        information[items[5]] = (items[0], items[1], items[2], items[4])
+    sentences = list(sentences)
     l = len(sentences)
     corpus = []
     topics = []
@@ -173,7 +193,6 @@ def main():
             #     keywords_file.write(",".join(ws)+"\n")
             #     keywords_file.write(sentence+"\n")
             corpus.append(ws)
-            sentences_keywords[sentence] = ws
             topics.append(" ".join(ws))
         else:
             corpus.append([w for w in sentence.split() if w not in stop_words])
@@ -216,7 +235,7 @@ def main():
                     G.add_edge(i, j)
                     # G.add_edge(i, j, weight=sims[j])
 
-        out_path = os.path.join(os.pardir, "v3", "{}_{}_{}.txt".format("&".join(pair), G.number_of_nodes(), l))
+        out_path = os.path.join(os.pardir, "recursive_communities", "{}_{}_{}.txt".format("&".join(pair), G.number_of_nodes(), l))
         # image_path = os.path.join(os.pardir, com_dir, "{}_{}_{}.png".format("&".join(pair), G.number_of_nodes(), l))
 
         # Draw graph
@@ -233,26 +252,19 @@ def main():
         if nnodes < 4:
             communities = []
             communities.append(G.nodes())
+            return
         elif nnodes <= 15:
             communities_generator = community.girvan_newman(G)
             temp_communities = next(communities_generator)
             communities = sorted(map(sorted, temp_communities))
+            return
         else:
             if nnodes < 50:
                 part = 2 / 3
             else:
                 part = 1 / 3
             # Detect communities
-            communities_generator = community.girvan_newman(G)
-            div_flag = True
-            while div_flag:
-                temp_communities = next(communities_generator)
-                communities = sorted(map(sorted, temp_communities))
-                div_flag = False
-                for com in communities:
-                    if len(com) > l * part:
-                        div_flag = True
-                        break
+            communities = recursive_detector(G, nnodes, part, [])
         num = 0
         graph_indices = set()
         bloblist = []
@@ -265,6 +277,7 @@ def main():
                 bloblist.append(tb(doc))
                 clusters.append(com)
 
+        aspects[pair] = set()
         new_aspects[pair] = {}
         # if True:
         with open(out_path, "a") as out_file:
@@ -287,49 +300,67 @@ def main():
                 #         print("\tWord: {}, TF-IDF: {}".format(word, round(score, 5)))
                 out_file.write("---------------------------------------------------\n\n")
                 for j in clusters[i]:
-                    new_aspects[pair][" ".join(aspect_keywords)].add(sentences[j])
+                    temp = information[sentences[j]]
+                    new_aspects[pair][" ".join(aspect_keywords)].add((temp[0], temp[1], temp[2], temp[3], sentences[j]))
+                    aspects[pair].add((temp[0], temp[1], temp[2], " ".join(aspect_keywords), temp[3], sentences[j]))
                     out_file.write(",".join(corpus[j])+"\n")
                     out_file.write(sentences[j]+"\n")
                     graph_indices.add(j)
                 num += 1
-            out_file.write("others---------------------------------------------------\n\n")
-            new_aspects[pair["others"]] = set()
+            out_file.write("other---------------------------------------------------\n\n")
+            new_aspects[pair]["other"] = set()
             for j in range(len(sentences)):
                 if j not in graph_indices:
+                    temp = information[sentences[j]]
+                    new_aspects[pair]["other"].add((temp[0], temp[1], temp[2], temp[3], sentences[j]))
+                    aspects[pair].add((temp[0], temp[1], temp[2], "", temp[3], sentences[j]))
+
                     out_file.write(",".join(corpus[j])+"\n")
                     out_file.write(sentences[j]+"\n")
-                    new_aspects[pair["others"]].add(sentences[j])
         plt.close('all')
+        print(pair)
 
 
+# pair = ("testng", "junit")
 # main()
+for pair in relations.keys():
+    if pair not in large_pairs and len(relations[pair]) >= 100:
+        main()
 
-# for pair in pairs[3:5]:
+# try:
+# for pair in pairs:
 #     main()
-try:
-    for pair in relations.keys():
-        if pair not in large_pairs:
-            print(pair)
-            main()
-finally:
-    print(pair)
-
-    print("no. of pairs: ", len(new_aspects.keys()))
-    tt = set()
-    for (a, b) in new_aspects.keys():
-        tt.add(a)
-        tt.add(b)
-    print("no. of different techs: ", len(tt))
-    with open(os.path.join(os.pardir, "v3", "sentences_keywords.pkl"), "wb") as sk_file:
-        pickle.dump(sentences_keywords, sk_file)
-    with open(os.path.join(os.pardir, "v3", "new_aspects.pkl"), "wb") as new_aspects_file:
-        pickle.dump(new_aspects, new_aspects_file)
-    with open(os.path.join(os.pardir, "v3", "new_aspects.txt"), "a") as new_recordings_file:
-        new_recordings_file.write(str(len(new_aspects))+"\n\n")
-        for key, values in new_aspects.items():
-            new_recordings_file.write("\t".join(key)+"---------------------------------------------------\n\n")
-            for k, value in values.items():
-                new_recordings_file.write(k+"\n")
-                for v in value:
-                    new_recordings_file.write(str(v)+'\n')
-                new_recordings_file.write("\n")
+# # try:
+# #     for pair in relations.keys():
+# #         if len(relations[pair]) > 2 and pair not in aspects.keys() and pair not in large_pairs:
+# #             main()
+# finally:
+#     print(pair)
+#     with open(os.path.join(os.pardir, "aspects.pkl"), "wb") as aspects_file:
+#         pickle.dump(aspects, aspects_file)
+#     print("no. of pairs: ", len(aspects.keys()))
+#     tt = set()
+#     for (a, b) in aspects.keys():
+#         tt.add(a)
+#         tt.add(b)
+#     print("no. of different techs: ", len(tt))
+#     with open(os.path.join(os.pardir, "aspects.txt"), "a") as recordings_file:
+#         recordings_file.write(str(len(aspects))+"\n\n")
+#         for key, values in aspects.items():
+#             recordings_file.write(key[0]+"\t"+key[1]+"\t"+str(len(values))+"\n")
+#             for value in values:
+#                 # recordings_file.write(" ".join(value)+"\n")
+#                 recordings_file.write(str(value)+'\n')
+#             recordings_file.write("\n")
+#
+#     with open(os.path.join(os.pardir, "new_aspects.pkl"), "wb") as new_aspects_file:
+#         pickle.dump(new_aspects, new_aspects_file)
+#     with open(os.path.join(os.pardir, "new_aspects.txt"), "a") as new_recordings_file:
+#         new_recordings_file.write(str(len(new_aspects))+"\n\n")
+#         for key, values in new_aspects.items():
+#             new_recordings_file.write("\t".join(key)+"---------------------------------------------------\n\n")
+#             for k, value in values.items():
+#                 new_recordings_file.write(k+"\n")
+#                 for v in value:
+#                     new_recordings_file.write(str(v)+'\n')
+#                 new_recordings_file.write("\n")

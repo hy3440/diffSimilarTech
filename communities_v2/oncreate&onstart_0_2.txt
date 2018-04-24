@@ -1,8 +1,0 @@
-other---------------------------------------------------
-
-handling,place,earlier
-in my fragments data handling is taking place starting from oncreate which happens earlier than onstart
-
-
-onstart is less commonly used than oncreate
-

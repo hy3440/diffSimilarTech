@@ -1,8 +1,0 @@
-other---------------------------------------------------
-
-appropriate,tricky
-using a profiling is often more appropriate than benchmarking but it seems to be even more tricky
-
-execution,time,higher
-the issue is that the execution time of a benchmarking is much higher about 3 times in case i do not invoke the profiling along with it than the case when the benchmarking is executing with the profiling
-

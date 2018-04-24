@@ -1,5 +1,0 @@
-other---------------------------------------------------
-
-oo,class,abstract,features
-oo class diagram is more abstract and has more features than entity-relationship diagram
-

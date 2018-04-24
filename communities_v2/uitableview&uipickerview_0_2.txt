@@ -1,8 +1,0 @@
-other---------------------------------------------------
-
-customizable
-uitableview is much more customizable than uipickerview
-
-nothing,uiview,background,selector
-the uipickerview is nothing more than a uiview with one or more uitableview and background and selector views
-

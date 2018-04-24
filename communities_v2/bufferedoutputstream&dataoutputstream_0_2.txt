@@ -1,8 +1,0 @@
-other---------------------------------------------------
-
-original,stream,efficient,additional,nice
-it will wrap the original stream in a bufferedoutputstream which is more efficient which is then wrapped into a dataoutputstream which offers additional nice features like writeint writelong and so on
-
-appropriate,imho
-a bufferedoutputstream is more appropriate that a dataoutputstream imho
-

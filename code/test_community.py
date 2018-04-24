@@ -1,25 +1,17 @@
-# import community
+import community
 import gensim, os, pickle
 from gensim.corpora import Dictionary
 from gensim.similarities import WmdSimilarity
 import math
 import matplotlib.pyplot as plt
 import networkx as nx
-from networkx.algorithms import community
 from nltk import pos_tag
 from nltk.tag.stanford import CoreNLPPOSTagger
 from textblob import TextBlob as tb
 
 
-# Setting
-# f = open(os.path.join(os.pardir, "aspects.pkl"), 'rb')
-# aspects = pickle.load(f)
-# f.close()
-# f = open(os.path.join(os.pardir, "new_aspects.pkl"), 'rb')
-# new_aspects = pickle.load(f)
-# f.close()
+aspects = {}
 new_aspects = {}
-sentences_keywords = {}
 query_flag = False
 ver_flag = True
 if ver_flag:
@@ -55,8 +47,9 @@ else:
 # pair = pairs[-1]
 large_pairs = {("chars", "int"), ("double", "int"), ("for-loop", "loops"),
                ("height", "width"),
-               ("max", "min"), ("multiplication", "addition"),
+               ("max", "min"), ("multiplication", "addition"), ("multiplication", "addition"),
                ("parent", "children")}
+# pairs = {("google-chrome", "firefox"), ("post", "get"), ("innodb", "myisam")}
 
 # Prepare POS tagger
 pos_tag_set = {"JJR", "JJ", "NN", "NNS", "NNP", "NNPS", "RBR", "RBS", "JJS"}
@@ -82,11 +75,10 @@ stop_phrases = [["for", "example"], ["in", "terms", "of"], ["keep", "in", "mind"
 # tags = pickle.load(open(os.path.join(os.pardir, "data", "tags.pkl"), 'rb'))
 
 # Prepare sentences
-in_path = os.path.join(os.pardir, "out", "new_pattern1234_pairs.pkl")
+in_path = os.path.join(os.pardir, "data", "relations.pkl")
 relations_file = open(in_path, 'rb')
 relations = pickle.load(relations_file)
-relations_file.close()
-
+relations_file.close() 
 
 # Prepare tf-idf
 def tf(word, blob):
@@ -104,7 +96,6 @@ def idf(word, bloblist):
 def tfidf(word, blob, bloblist):
     return tf(word, blob) * idf(word, bloblist)
 
-
 def set_shreshold(a, b):
     if ver_flag:
         if a == b:
@@ -119,7 +110,12 @@ def set_shreshold(a, b):
 
 
 def main():
-    sentences = list(relations[pair])
+    information = {}
+    sentences = set()
+    for items in relations[pair]:
+        sentences.add(items[5])
+        information[items[5]] = (items[0], items[1], items[2], items[4])
+    sentences = list(sentences)
     l = len(sentences)
     corpus = []
     topics = []
@@ -173,7 +169,6 @@ def main():
             #     keywords_file.write(",".join(ws)+"\n")
             #     keywords_file.write(sentence+"\n")
             corpus.append(ws)
-            sentences_keywords[sentence] = ws
             topics.append(" ".join(ws))
         else:
             corpus.append([w for w in sentence.split() if w not in stop_words])
@@ -195,8 +190,6 @@ def main():
         # bow_corpus = [dictionary.doc2bow(document) for document in corpus]
 
         index = WmdSimilarity(corpus, model)
-
-
         G = nx.Graph()
         for i in range(l - 1):
             sims = index[corpus[i]]
@@ -216,7 +209,7 @@ def main():
                     G.add_edge(i, j)
                     # G.add_edge(i, j, weight=sims[j])
 
-        out_path = os.path.join(os.pardir, "v3", "{}_{}_{}.txt".format("&".join(pair), G.number_of_nodes(), l))
+        out_path = os.path.join(os.pardir, "{}_{}_{}.txt".format("&".join(pair), G.number_of_nodes(), l))
         # image_path = os.path.join(os.pardir, com_dir, "{}_{}_{}.png".format("&".join(pair), G.number_of_nodes(), l))
 
         # Draw graph
@@ -225,111 +218,81 @@ def main():
         plt.axis('off')
         nx.draw_networkx_nodes(G, pos, node_size=50)
         nx.draw_networkx_edges(G, pos, width=0.75)
-        # plt.savefig(image_path)
-        # plt.show()
+    #first compute the best partition
+    communities = []
+    partition = community.best_partition(G)
+    for com in set(partition.values()):
+        list_nodes = [nodes for nodes in partition.keys() if partition[nodes] == com]
+        communities.append(list_nodes)
 
-        nnodes = G.number_of_nodes()
+    num = 0
+    graph_indices = set()
+    bloblist = []
+    clusters = []
+    for com in communities:
+        if len(com) > 1:
+            doc = ""
+            for i in com:
+                doc += topics[i] + " "
+            bloblist.append(tb(doc))
+            clusters.append(com)
 
-        if nnodes < 4:
-            communities = []
-            communities.append(G.nodes())
-        elif nnodes <= 15:
-            communities_generator = community.girvan_newman(G)
-            temp_communities = next(communities_generator)
-            communities = sorted(map(sorted, temp_communities))
-        else:
-            if nnodes < 50:
-                part = 2 / 3
-            else:
-                part = 1 / 3
-            # Detect communities
-            communities_generator = community.girvan_newman(G)
-            div_flag = True
-            while div_flag:
-                temp_communities = next(communities_generator)
-                communities = sorted(map(sorted, temp_communities))
-                div_flag = False
-                for com in communities:
-                    if len(com) > l * part:
-                        div_flag = True
-                        break
-        num = 0
-        graph_indices = set()
-        bloblist = []
-        clusters = []
-        for com in communities:
-            if len(com) > 1:
-                doc = ""
-                for i in com:
-                    doc += topics[i] + " "
-                bloblist.append(tb(doc))
-                clusters.append(com)
+    aspects[pair] = set()
+    new_aspects[pair] = {}
+    # if True:
+    with open(out_path, "a") as out_file:
+        for i, blob in enumerate(bloblist):
+            # print("Top words in document {}".format(i + 1))
+            scores = {word: tfidf(word, blob, bloblist) for word in blob.words}
+            sorted_words = sorted(scores.items(), key=lambda x: x[1], reverse=True)
+            # word_num = 0
+            aspect_keywords = []
+            for word, score in sorted_words[:3]:
+                out_file.write(word+", ")
+                aspect_keywords.append(word)
+            new_aspects[pair][" ".join(aspect_keywords)] = set()
+            # for word, score in sorted_words:
+            #     if word_num == 3:
+            #         break
+            #     if tf(word, blob) >= 0.2:
+            #         word_num += 1
+            #         out_file.write(word+", ")
+            #         print("\tWord: {}, TF-IDF: {}".format(word, round(score, 5)))
+            out_file.write("---------------------------------------------------\n\n")
+            for j in clusters[i]:
+                temp = information[sentences[j]]
+                new_aspects[pair][" ".join(aspect_keywords)].add((temp[0], temp[1], temp[2], temp[3], sentences[j]))
+                aspects[pair].add((temp[0], temp[1], temp[2], " ".join(aspect_keywords), temp[3], sentences[j]))
+                out_file.write(",".join(corpus[j])+"\n")
+                out_file.write(sentences[j]+"\n")
+                graph_indices.add(j)
+            num += 1
+        out_file.write("other---------------------------------------------------\n\n")
+        new_aspects[pair]["other"] = set()
+        for j in range(len(sentences)):
+            if j not in graph_indices:
+                temp = information[sentences[j]]
+                new_aspects[pair]["other"].add((temp[0], temp[1], temp[2], temp[3], sentences[j]))
+                aspects[pair].add((temp[0], temp[1], temp[2], "", temp[3], sentences[j]))
 
-        new_aspects[pair] = {}
-        # if True:
-        with open(out_path, "a") as out_file:
-            for i, blob in enumerate(bloblist):
-                # print("Top words in document {}".format(i + 1))
-                scores = {word: tfidf(word, blob, bloblist) for word in blob.words}
-                sorted_words = sorted(scores.items(), key=lambda x: x[1], reverse=True)
-                # word_num = 0
-                aspect_keywords = []
-                for word, score in sorted_words[:3]:
-                    out_file.write(word+", ")
-                    aspect_keywords.append(word)
-                new_aspects[pair][" ".join(aspect_keywords)] = set()
-                # for word, score in sorted_words:
-                #     if word_num == 3:
-                #         break
-                #     if tf(word, blob) >= 0.2:
-                #         word_num += 1
-                #         out_file.write(word+", ")
-                #         print("\tWord: {}, TF-IDF: {}".format(word, round(score, 5)))
-                out_file.write("---------------------------------------------------\n\n")
-                for j in clusters[i]:
-                    new_aspects[pair][" ".join(aspect_keywords)].add(sentences[j])
-                    out_file.write(",".join(corpus[j])+"\n")
-                    out_file.write(sentences[j]+"\n")
-                    graph_indices.add(j)
-                num += 1
-            out_file.write("others---------------------------------------------------\n\n")
-            new_aspects[pair["others"]] = set()
-            for j in range(len(sentences)):
-                if j not in graph_indices:
-                    out_file.write(",".join(corpus[j])+"\n")
-                    out_file.write(sentences[j]+"\n")
-                    new_aspects[pair["others"]].add(sentences[j])
-        plt.close('all')
-
-
-# main()
-
-# for pair in pairs[3:5]:
-#     main()
-try:
-    for pair in relations.keys():
-        if pair not in large_pairs:
-            print(pair)
-            main()
-finally:
-    print(pair)
-
-    print("no. of pairs: ", len(new_aspects.keys()))
-    tt = set()
-    for (a, b) in new_aspects.keys():
-        tt.add(a)
-        tt.add(b)
-    print("no. of different techs: ", len(tt))
-    with open(os.path.join(os.pardir, "v3", "sentences_keywords.pkl"), "wb") as sk_file:
-        pickle.dump(sentences_keywords, sk_file)
-    with open(os.path.join(os.pardir, "v3", "new_aspects.pkl"), "wb") as new_aspects_file:
-        pickle.dump(new_aspects, new_aspects_file)
-    with open(os.path.join(os.pardir, "v3", "new_aspects.txt"), "a") as new_recordings_file:
-        new_recordings_file.write(str(len(new_aspects))+"\n\n")
-        for key, values in new_aspects.items():
-            new_recordings_file.write("\t".join(key)+"---------------------------------------------------\n\n")
-            for k, value in values.items():
-                new_recordings_file.write(k+"\n")
-                for v in value:
-                    new_recordings_file.write(str(v)+'\n')
-                new_recordings_file.write("\n")
+                out_file.write(",".join(corpus[j])+"\n")
+                out_file.write(sentences[j]+"\n")
+    plt.close('all')
+    # print(pair)
+for pair in relations.keys():
+    if len(relations[pair]) > 15 and pair not in large_pairs:
+        main()
+#drawing
+# size = float(len(set(partition.values())))
+# pos = nx.spring_layout(G)
+# count = 0.
+# for com in set(partition.values()) :
+#     count = count + 1.
+#     list_nodes = [nodes for nodes in partition.keys()
+#                                 if partition[nodes] == com]
+#     nx.draw_networkx_nodes(G, pos, list_nodes, node_size = 20,
+#                                 node_color = str(count / size))
+#
+#
+# nx.draw_networkx_edges(G, pos, alpha=0.5)
+# plt.show()

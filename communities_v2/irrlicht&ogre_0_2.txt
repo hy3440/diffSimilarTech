@@ -1,8 +1,0 @@
-other---------------------------------------------------
-
-cleaner,api,better,platforms,opinion
-irrlicht has a cleaner api lower system requirements and works better across platforms than ogre in my opinion
-
-better,3d
-irrlicht is no way better than ogre 3d or am not trying to prove that
-

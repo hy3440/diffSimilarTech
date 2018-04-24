@@ -1,0 +1,54 @@
+x86_64, platform, width, ---------------------------------------------------
+
+x86_64,platform,width,32-bit
+the x86_64 64bit platform is much more than twice the width of the x86 32-bit
+
+tests,system,anycpu,32-bit,memory
+however my tests have shown that on a 64bit system an anycpu prefer 32-bit application which i confirm runs 32-bit can allocate more memory than an x86 one
+
+amd,later,faster,32-bit,machines
+64bit amd and later intel machines run faster than 32-bit x86 machines because when amd designed the new instruction set they added more cpu registers and made sse math the default
+
+32bits, slower, faster, ---------------------------------------------------
+
+faster,32bits,slower
+faster than on x86 32bits but slower than x64 64bit
+
+faster,slower
+64bit code is not actually faster it is usually a bit slower than x86 code
+
+other---------------------------------------------------
+
+addition,furhter,complicated,manuals,bit,processors,familiar
+in addition x86 is furhter complicated because there are generally separate documentation manuals for 32 bit and 64bit processors i m not familiar enough with arm to comment here
+
+intermediate,calculation,higher,internal,bit,arm
+the difference is in the first number which shows the rounding of the intermediate calculation so the problem happens because x86 has a higher internal precision 80 bit than the arm 64bit
+
+easier,debugging,mode
+x86 allows easier debugging - edit and continue is not supported when running in 64bit mode
+
+32-bit,os,uefi,possible,system,loader,fiddlier
+on arm it is not or rather 32-bit os on 64bit uefi is technically possible only would still require the operating system loader to be 64bit but even fiddlier than on x86
+
+intel,amd,manuals,atomicity,wider,lock,cmpxchg16b
+no intel or amd x86 manuals ever guarantee atomicity of anything wider than 64bit except for lock cmpxchg16b so this talk of sse vector loads stores being atomic on some cpus isn t something that you can reliably take advantage of or detect when it s supported
+
+slower,clocks,function,argument,arguments
+x86 is considerably slower a few clocks plus a clock or so per function argument while 64bit is much less because most function arguments are passed in registers instead of on the stack
+
+aslr,implementation,machines,stronger,linux
+pax s aslr implementation for 64bit x86 machines is much stronger than linux s default 64bit aslr implementation
+
+specific,anycpu,performances,better
+however if you don t have specific reasons to use anycpu then you could still use x86 because in some cases the performances are better than 64bit code
+
+path,appealing,modern,application,operation,necessary
+to me the path without x86 is also more visually appealing and indicates that it s a modern application - adapted for 64bit operation where necessary
+
+support,higher,precision,bits,fp,algorithm
+x86 doesn t support higher precision than 80 bits but if you really need more than 64bit for a fp algorithm most likely you should check your numerics instead of solving the problem with brute force
+
+volatile,word,size,cli
+reason why double can t be declared volatile it s 64bit which makes it more than the word size on x86 which prevents it from being declared volatile in the cli if i remember correctly
+
