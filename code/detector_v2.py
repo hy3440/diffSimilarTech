@@ -293,12 +293,12 @@ def main():
                     graph_indices.add(j)
                 num += 1
             out_file.write("others---------------------------------------------------\n\n")
-            new_aspects[pair["others"]] = set()
+            new_aspects[pair]["others"] = set()
             for j in range(len(sentences)):
                 if j not in graph_indices:
                     out_file.write(",".join(corpus[j])+"\n")
                     out_file.write(sentences[j]+"\n")
-                    new_aspects[pair["others"]].add(sentences[j])
+                    new_aspects[pair]["others"].add(sentences[j])
         plt.close('all')
 
 
