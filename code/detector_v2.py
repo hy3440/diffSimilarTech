@@ -54,8 +54,8 @@ else:
 # pair = ("vmware", "virtualbox")
 # pair = pairs[-1]
 large_pairs = {("int", "chars"), ("int", "double"), ("for-loop", "loops"),
-               ("width", "height"), ('width', 'margin'), ('folder', 'directory')
-               ("min", "max"), ('addition', 'multiplication'), ('versioning', 'upgrade')
+               ("width", "height"), ('width', 'margin'), ('folder', 'directory'),
+               ("min", "max"), ('addition', 'multiplication'), ('versioning', 'upgrade'),
                ('children', 'parent'), ('division', 'multiplication')}
 
 # Prepare POS tagger
