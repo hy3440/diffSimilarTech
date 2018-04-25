@@ -53,10 +53,10 @@ else:
 # pair = ("rsa", "aes")
 # pair = ("vmware", "virtualbox")
 # pair = pairs[-1]
-large_pairs = {("chars", "int"), ("double", "int"), ("for-loop", "loops"),
-               ("height", "width"),
-               ("max", "min"), ("multiplication", "addition"),
-               ("parent", "children")}
+large_pairs = {("int", "chars"), ("int", "double"), ("for-loop", "loops"),
+               ("width", "height"), ('width', 'margin'), ('folder', 'directory')
+               ("min", "max"), ('addition', 'multiplication'), ('versioning', 'upgrade')
+               ('children', 'parent'), ('division', 'multiplication')}
 
 # Prepare POS tagger
 pos_tag_set = {"JJR", "JJ", "NN", "NNS", "NNP", "NNPS", "RBR", "RBS", "JJS"}
@@ -308,7 +308,7 @@ def main():
 #     main()
 try:
     for pair in relations.keys():
-        if pair not in large_pairs:
+        if "width" not in pair:
             print(pair)
             main()
 finally:

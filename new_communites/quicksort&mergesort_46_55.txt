@@ -72,7 +72,6 @@ faster,algorithm
 from what i ve read i was expecting quicksort to be faster than mergesort but on my code it is not so i assume there must be a problem with my quicksort algorithm
 
 smaller,collections,faster,lead,specific
-you can also see that for smaller collections quicksort is faster but then mergesort takes the lead but all of this is case specific so take your time to study all 4 algorithms
 
 specific,faster,first,test
 to be specific the quicksort runs faster than mergesort in the first test case and loses badly in the following 9 tests
