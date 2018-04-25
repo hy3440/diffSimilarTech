@@ -308,7 +308,7 @@ def main():
 #     main()
 try:
     for pair in relations.keys():
-        if "width" not in pair:
+        if pair not in large_pairs:
             print(pair)
             main()
 finally:
