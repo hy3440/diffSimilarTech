@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+current_timestamp,datediff,datename,datepart,isdate,len
+case cast convert current_timestamp dateadd datediff datename datepart getdate isdate left len lower ltrim replace replicate reverse right rtrim space str substring substring expression start length sysdatetime upper
+
+hours,data
+the logic could be a sql agent job that is fired every 24 hours that deletes any data that has a datetime less than dateadd d -1 getdate
+

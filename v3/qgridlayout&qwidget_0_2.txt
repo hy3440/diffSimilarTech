@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+gauge1,bigger,one.i,application,different
+however the qwidget gauge1 is always bigger than the other one.i want to use a qgridlayout because the application has to work on different sizes of a screen
+
+parent,earlier
+in this case parent is the parent qwidget upon which the qgridlayout mentioned earlier is installed
+

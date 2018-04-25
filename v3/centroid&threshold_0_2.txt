@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+points,grid,dense,.i,sparse,cluster,point,cenroid,value,outlier.can
+i want to know if there is way in matlab so that i can find number of points in each grid so that i can classify it as a dense cell or sparse cell.if the number of points in a grid is more than a threshold it can be said to be dense .i need to find distance between each point in a sparse grid and centroid of each cluster to find which point is the outlier.if min distances between a test object o in a sparse grid and cenroid of each cluster threshold value it is outlier.can you suggest a method to implement this in matlab
+
+precision,parameter,amount,change,delta,algorithm
+precision parameter if centroid amount of change is less than a threshold delta stop the algorithm
+

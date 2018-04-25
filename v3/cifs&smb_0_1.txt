@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+packages,os,newer,name,samba
+now if you re intending to use a remote filesystem with ofs which is the primary use-case you have to first install the relevant remote filesystem packages on the os you re using then use for example if we ve got cifs which is the newer name for smb samba
+

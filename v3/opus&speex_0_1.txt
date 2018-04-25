@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+available,better,aspects,users
+it will continue to be available but since opus is better than speex in all aspects users are encouraged to switch
+

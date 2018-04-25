@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+better,solution
+update for our purposes bltoolkit ended up being a better solution than nhibernate
+

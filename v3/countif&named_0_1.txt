@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+columns,regular,counta,formulae,number,countries,column
+the roundabout method i ve employed is to create additional columns with a regular countif and counta formulae - in other words i count the number of countries a named has visited more than x times countif and then use the counta to sum the number of named in that column who have visited x times
+

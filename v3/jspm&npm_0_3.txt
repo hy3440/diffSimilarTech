@@ -1,0 +1,11 @@
+others---------------------------------------------------
+
+webapp,suitable,frontend,dependencies
+assuming that you are building a webapp jspm is more suitable for managing your frontend dependencies than npm
+
+status,server,angular,packages
+lately i have been experiencing that an jspm install more often then not results in a status 500 being returned by the server whenever angular packages are being downloaded via npm
+
+client-side,front-end,libraries,server-side,ones
+jspm is more commonly used to bring in client-side front-end libraries and npm for server-side ones
+

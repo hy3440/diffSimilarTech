@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+comment,possibility,extension,profiling,callgraphs,lighter,able,production
+thanks mikushi for the comment another possibility that i haven t used much is the the xhprof extension it also helps with profiling can generate callgraphs -- but is lighter than xdebug which mean you should be able to install it on a production server
+

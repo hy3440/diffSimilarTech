@@ -1,0 +1,55 @@
+equivalent, security, 1024-bit, ---------------------------------------------------
+
+signature,part,ecdsa,shorter,signatures,bits,security,equivalent,1024-bit
+for the signature part you may want to use dsa or ecdsa they yield much shorter signatures typically 320 bits for a dsa signature of security equivalent to a 1024-bit rsa signature
+
+signature,independent,strength,smaller,equivalent,security
+dsa has signature that is independent of key strength and is much smaller than rsa signature for equivalent security rsa 1024 1568 vs dsa 192
+
+greater, ones, shorter, ---------------------------------------------------
+
+ecdsa,shorter,greater,strength
+dsa and ecdsa both produce shorter signatures with much greater strength that rsa
+
+signatures,shorter,ones
+dsa signatures are signficantly shorter than rsa ones
+
+slower, testing, ---------------------------------------------------
+
+slower
+this is why rsa is much slower than dsa
+
+testing,slower
+i have made some testing and it came out that rsa is lot slower than dsa
+
+faster, generation, expensive, ---------------------------------------------------
+
+signature,generation,faster
+a dsa signature generation could be somewhat faster than a rsa signature generation maybe up to twice faster
+
+faster,client,pair,signature,verification,fast,expensive,generation
+the third operation is made much faster is the client uses a rsa key pair rsa signature verification is very fast whereas dsa signature verification is expensive actually somewhat more expensive than dsa signature generation
+
+others---------------------------------------------------
+
+compact
+use dsa it tends to be more compact than rsa
+
+bigger,deal
+i ve already done the rsa but dsa is bigger deal to me
+
+better,breadth
+rsa is also a better choice than dsa because it has much better breadth of support for signatures still considered secure by nist
+
+older,newer
+i guess rsa is older and dsa is newer
+
+size
+however in this case dsa key size is less than rsa key size
+
+field,elgamal,keys,riskier,1024-bit,successful,attack
+that continued usage of 1024-bit prime field elgamal or dsa keys is much riskier than it is for 1024-bit rsa all are still commonly used because once a successful attack has been conducted against a single well-chosen prime field all users of that prime field may be affected at little additional effort.
+
+verification,10x,slower
+however dsa verification expect verification calls to be 100x issue is about 10x slower than rsa verification
+

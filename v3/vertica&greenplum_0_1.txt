@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+hadoop,cheaper,netezza,like
+the storage costs in hadoop are much cheaper than vertica netezza greenplum and the like
+

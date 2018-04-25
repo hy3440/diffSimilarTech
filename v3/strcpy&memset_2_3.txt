@@ -1,0 +1,13 @@
+strings, simpler, macro, ---------------------------------------------------
+
+macro,memcpy,safer
+your macro with memset and memcpy was not any safer than strcpy
+
+memcpy,strings,simpler
+you could use memcpy memset for strings too but strcpy is simpler
+
+others---------------------------------------------------
+
+difference,memcpy,data,byte,copies,string
+memset behaves like strcpy but the difference is that memcpy copied the data as it is byte but strcpy copies the formatted string as well so takes more time than memcpy to execute
+

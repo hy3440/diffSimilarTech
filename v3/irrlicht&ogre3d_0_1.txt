@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+mature,amount,applications
+ogre3d seems to be more mature than irrlicht judging by the amount of applications and games that is
+

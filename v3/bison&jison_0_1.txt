@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+easy,grammar,file,easier,json,object
+indeed it would be relatively easy to preprocess a bison grammar file but it is easier with jison because you can compute the grammar programmatically and pass it to jison as a json object
+

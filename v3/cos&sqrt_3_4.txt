@@ -1,0 +1,16 @@
+better, approach, 1-sin, ---------------------------------------------------
+
+sin,cheaper,1-sin
+if i want to calculate a sin and a cos is it cheaper to calculate a sin and a cos or calculate a sin then a sqrt 1-sin 2 to get the cos
+
+better,sin,approach,faster
+the jni sincos is better than computing sin and cos but the sqrt approach is still faster
+
+function,constexpr,sin,trickier
+an two for a function like sqrt i could probably write my own constexpr but something like sin or cos would be trickier so is there away around it
+
+others---------------------------------------------------
+
+asin,costly,likely,order,magnitude,slower,square,root
+in term of speed square rooting is easy a few arithmetical operations for some newton-like method but it is not clear what asin does probably quite costly cos is likely to be one order of magnitude slower than sqrt and thus one square root is likely to be quickier than those two transcendental function calls
+

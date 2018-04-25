@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+document.createdocumentfragment,slower,property
+on the other hand passing an element and its attributes like maps to a call to document.createdocumentfragment which is slower than createelement followed by a write to the classname property
+

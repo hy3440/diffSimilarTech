@@ -1,0 +1,121 @@
+values, comparison, bigger, ---------------------------------------------------
+
+javadoc,negative,integer,object,greater
+according to javadoc compareto needs to return a negative integer zero or a positive integer as this object is less than equals to or greater than the specified object
+
+method,negative,integer,object,greater
+compareto method returns a negative integer zero or a positive integer as this object is less than equals to or greater than the specified object
+
+icomparable,method,integer,greater,relationship
+icomparable declares the compareto method which returns an integer that specifies a less than equals to or greater than relationship between two objects of the same type
+
+implementation,int,javadoc,negative,integer,object,greater
+is a generic type at compile time java will require that an instance provide an implementation of int compareto t o which from the javadoc returns a negative integer zero or a positive integer as this object is less than equals to or greater than the specified object
+
+returns,negative,numbers,object,greater
+or is it compareto returns negative numbers 0 and positive numbers respectively indicating whether the calling object is less than equals to or greater than the specified object
+
+interface,method,negative,integer,object,greater
+the interface defines one method compareto that must return a negative integer zero or a positive integer if this object is less than equals to or greater than the other object respectively
+
+negative,int,means,greater
+if compareto returns a negative int it means less than 0 means equals 1 means greater than
+
+date,class,method,call,objects,sooner
+it s not clear to me what you want but i ll mention that the date class also has a compareto method which can be used to determine with one call if two date objects are equals or if they aren t equals which occurs sooner
+
+method,greater
+you should be using compareto method for less than or equals or greater than
+
+significance,return,value,greater
+the only significance of a compareto return value is if it is greater less than or equals to zero
+
+advantage,int,method,corresponding,instance,class,greater
+note that in both cases you can take advantage of the fact that int also implements so you can use its compareto method to determine whether corresponding values in each instance of your class are less than equals to or greater than each other
+
+method,returns,value,greater,lesser
+the compareto method returns 1 0 or -1 depending on whether value a is respectively greater than equals to or lesser than value b
+
+method,fields,comparison,greater
+in the compareto method you can decide which fields are used for the comparison greater less than or equals
+
+method,certain,date,greater,hours
+i am using the compareto method in java to try and check if a certain date is greater than or equals than 24 hours after another date
+
+method,getters,current,object,greater
+in the compareto method you can then write the code which will call the getters for the year month and so on until it figures out whether the current object is less than equals to or greater than the object o being passed into the compareto method
+
+negative,integer,object,greater
+compareto returns a negative integer zero or a positive integer as this object is less than equals to or greater than the specified object
+
+temporary,temporary.compareto,integer,greater,left
+implement compareto in temporary temporary.compareto left such that it returns a negative integer zero or a positive integer as temporary is less than equals to or greater than the left
+
+page,returns,negative,integer,object,greater,object.
+per the page i linked to compareto returns a negative integer zero or a positive integer as this object is less than equals to or greater than the specified object.
+
+interface,method,negative,number,first,object,greater
+this interface defines the method compareto t which will return a negative number zero or a positive number if the first object is less than equals to or greater than the other one respectively
+
+method,bigger,int
+we can call its compareto method to decide whether it is bigger than equals to or less than any int
+
+comparator,int,class,method,integer,object,greater,object.
+with this rather than needing to implement a comparator all you need to implement is the int compareto class o method in the class which returns a negative integer zero or a positive integer as this object is less than equals to or greater than the specified object.
+
+return,negative,integer,object,greater
+compareto return a negative integer zero or a positive integer as this object is less than equals to or greater than the specified object
+
+method,result,integer,greater
+you need to call the compareto method which will indicate the result of the comparison by returning an integer less than greater than or equals to 0
+
+method,class,signifing,greater,operations
+i know that in java there is a compareto method that you can write in a class that will compare two variables and return a value -1 1 or 0 signifing greater than less than and equals to operations
+
+values,returns,int,greater
+compareto compares values and returns an int which tells if the values compare less than equals or greater than
+
+method,argument,greater
+the compareto method returns one of -1 0 1 depending on whether or not the argument is less than equals to or greater than respectively
+
+others---------------------------------------------------
+
+fine-grain,comparison,method,greater-than,less-than,is-equal-or-not
+implementing icomparable is a more fine-grain way of comparison as it provides the compareto method which is a greater-than less-than comparison as opposed to equals which is simply a is-equal-or-not comparison
+
+return,value,grater
+if this works it seems that u are still comparing the strings in your ordered list and u should now check if the return value of compareto is less grater equals to 0
+
+min,value,method,returns,first,string,greater,second
+i am using the min value because i read that the compareto method returns negative 0 or positive whether the first string is less than equals to or greater than the second
+
+prefix,performance,worse,lexicographical,false
+when one of the strings is a prefix of another the performance of compareto is worse as it still needs to determine the lexicographical ordering while equals won t worry any more and return false immediately
+
+greater,logic
+put your greater than equals to and less than logic in compareto
+
+number,greater,first
+compareto returns a number that is less than equals to or greater than zero corresponding to the first string being before the same as or after the second string respectively
+
+efficient
+equals can be more efficient then compareto
+
+element,method,treeset
+and my guess as to why an element is being dropped is your compareto method never returns a 1 in any case so elements are always considered to be less than or equals to other elements which is probably screwing with the treeset
+
+first,comparison
+all i changed was the first compareto comparison to be less than instead of less than or equals to
+
+faster,hashcode,slower
+most likely hashcode will be faster unless for whatever reason calling hashcode + equals once is much slower than calling compareto log n times
+
+methods,easier
+implementing the equals and the compareto methods sounds easier than it sometimes really is
+
+base,student,greater,studenttocompare,criteria
+compareto defines whether your base student is greater than less than or equals to your studenttocompare and you can define these with any criteria you please
+
+note,account,decimal,positions,safer
+note that equals takes into account decimal positions so compareto is safer
+

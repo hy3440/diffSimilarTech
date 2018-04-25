@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+comment,cast,package,simpler
+in response to your comment i believe cast and melt from the reshape package are much simpler for your purpose
+
+base,joran,right,likely,easier
+here it is with reshape in base though joran is right melt is likely easier
+

@@ -1,0 +1,268 @@
+methods, method, access, ---------------------------------------------------
+
+smaller,memory,object
+2 since superclass is smaller than subclassing one should use memory object carefully
+
+flexible,entire,object,methods
+a subclassing is more flexible and is treated as an entire object which responds to all superclass methods plus it s own
+
+static,method,access,hidden
+on the other side when hiding a static method the static method from subclassing that hides the static method from superclass can allow more but not less access than the hidden method
+
+flexibility,methods,class
+this gives you more flexibility than subclassing because with subclassing you are automatically inheriting all the methods in the superclass which is far more restricting than simply using some of the methods of another class
+
+object,data
+first of all wouldn t that relate to it returning an object that is a superclass which contains less data than requested because a superclass is not a subclassing but a subclassing is a superclass
+
+member,fields,memory
+if new member fields are declared in the subclassing then yes a subclassing presumably uses more memory since it has all the fields declared in the superclass plus all the fields declared in the subclassing
+
+android,functionality,method
+many of the libgdx and android classes are designed this way they implement a bit of functionality but expect subclassing to implement more and the subclassing is expected to invoke the superclass method
+
+relations,restrictions,method,acts
+these relations naturally arise when you impose restrictions on what you can handle--then if a subclassing means that the method can handle less acts as a superclass of since can handle everything that the subclassing can handle and more
+
+words,accessible,access,modifier,effect
+in other words if a subclassing is more accessible than its superclass then the access modifier of the superclass loses effect
+
+able,interfacec,method
+shouldn t a subclassing interfaced be able to take in more than the superclass interfacec and use the same method
+
+object,member,integer
+imagine your superclass has an object member but in your subclassing this is now more defined to be an integer
+
+method,access,gonna,getter,setter
+furthermore since at least in java you can only have the access modifier for an overwritten method to allow more but not less access than the superclass method you are still gonna drag either protected member variables or protected getter and setter all the way up in your subclassing
+
+public,methods,longer,visible
+if you cast the subclassing to the superclass then the public methods on the subclassing are no longer visible
+
+bigger,interface,functions,getunixtimestamp
+you can t cast a superclass in a subclassing because the subclassing may have a bigger interface than the superclass means the subclassing can have functions like getunixtimestamp that the superclass doesn t have
+
+b,stuff,methods,wide
+i always think of it as b having more stuff in it then a subclassing often have more methods than superclass hence b gets the wide end of the arrow and a gets the pointy end
+
+convenient,methods
+creating a subclassing should mean more than just a convenient way to call superclass methods
+
+contrary,public,methods,bigger
+on the contrary since a subclassing inherited all public methods of its superclass the subclassing are definitely bigger
+
+method,functionality
+you can override a method in a subclassing to add more functionality to what the superclass has
+
+overridden,method,weaker,access
+the subclassing overridden method cannot have weaker access than superclass method
+
+instances,larger,vector,slot
+in general instances of subclassing may be larger than those of their superclass so you should not expect the subclassing to fit into your vector s slot
+
+methods
+you cannot have a subclassing with less methods than a superclass
+
+firebasemessagingservice,com.google.firebase.iid.zzb,intent,method,private,access,cannot,weaker,reference,wrong
+so i inspected the compiled firebasemessagingservice which was the subclassing of com.google.firebase.iid.zzb and had zzae intent method as private but its subclassing firebasemessagingservice had protected access i know that subclassing cannot have weaker reference than its superclass so i guess there is something wrong with firebasemessagingservice library
+
+narrower,subtype,method,return
+however if the subclassing returns a narrower subtype of the superclass method return this is called a covariant return type and is allowed in java since jdk 1.5
+
+object,method,class
+if we are creating an object of a subclassing and invoking the method of superclass and if subclassing extends more than one class which superclass method should be called
+
+methods,order
+similarly as the subclassing gains more methods it inherited the list of superclass in the order in which they were named that precede it
+
+bigger,second,statement
+in this case superclass is bigger than subclassing that s why the second statement is correct
+
+specific, general, arguments, ---------------------------------------------------
+
+overwritten,overridden,specific,implementation,method,abstract
+when your instructor was talking about methods being overwritten i suspect they actually said overridden - where a subclassing can provide a more specific implementation of a method than a superclass or indeed may provide one where the superclass only has the abstract method declaration
+
+arguments,optional,placeholders
+if you subclassing has less arguments than a superclass and you could make them optional in the superclass just add placeholders in the subclassing
+
+number,general,restricted
+i noticed that often times i do not clearly know whether a superclass of a number of subclassing should be more general or more restricted regarding the attributes
+
+general,features,objects
+superclass defines more general features of the objects of its subclassing
+
+instance,method,general,concept
+it looked weired to me that you are trying to return a subclassing s instance from a superclass s method since superclass usually means a more general concept
+
+sense,realnumber,number
+here having a superclass makes more sense or at least having a realnumber subclassing of number
+
+argument,optional
+subclassing must allow more than the superclass not less and going from an argument being optional to not optional is allowing less
+
+values,behaviour,task,specific
+i know you can add values attributes behaviour that aren t in a superclass to a subclassing to make it more task specific
+
+general,specific
+the general problem is that the subclassing is more specific than the superclass
+
+explicit,fewer,arguments
+with explicit superclass calling your subclassing can accept more or fewer arguments than its superclass and can decide itself what to pass when calling the superclass
+
+round,specific,class,contract,functionality
+the other way round returning a subclassing that is a more specific class does not break the contract because the subclassing has at least the same functionality as the superclass
+
+specific,arguments,__init__,method
+if the subclassing is more specific then it might fill in all by 2 of the arguments to its superclass __init__ method
+
+value,specific
+however you can t use a superclass value where a subclassing is expected because the subclassing is more specific
+
+values,reasonable
+so what this says is that provided your subclassing doesn t have any more values than the superclass used to determine ordering implementing is reasonable
+
+specific,objects
+i then break down that superclass into subclassing that are more specific to the objects they represent
+
+specific,functions,task
+however they are not the same because the subclassing has more specific functions and data members that accomplish a more specific task that the superclass
+
+arguments,specific
+whether one method s declared arguments are more specific than another subclassing are more specific than their superclass
+
+specific
+technically the subclassing tend to be more specific and the superclass are more generalized
+
+specialized, interface, coupling, ---------------------------------------------------
+
+user,interface,specialized,version
+superclass creates an user interface while subclassing should create a more specialized version
+
+specialized,result
+generally subclassing have more specialized purposes than their superclass as a result
+
+approach,specialized,respective
+if you are going for an inherited approach you should keep in mind that subclassing should be more specialized than their respective superclass
+
+tight,coupling,generic,interface
+i believe this solution is superior in general to the forward declaration because you re eliminating some tight coupling between your superclass and your subclassing and making a more generic interface besides
+
+better, variables, structure, ---------------------------------------------------
+
+better,output,appropriate,shape
+better than modifying superclass output would be to modify the superclass so that the subclassing can provide the appropriate shape name
+
+structure,better
+most likely it ll still be tightly linked with implementations generally a bad thing or if not bad it s not especially good but i think a structure like this is better than a superclass figuring out what all of its subclassing are
+
+structure,class,variables
+i have a class structure in java where one class extends another and the subclassing can have more variables than the superclass does
+
+sub-project,good,better,version
+however i don t want to reproduce these classes in every sub-project without a good reason and i can t see how subclassing would make anything better the superclass would still be against the 2.3.3 version of
+
+base,class,better
+base class or superclass vs subclassing are better terms imo
+
+variables,accessible,better,protected
+secondly if you want the superclass variables to be accessible by your subclassing it s better to use protected than public
+
+parent,class,better,nested,fields,private
+if i have a bunch of fields in a parent class that all need to be inherited by subclassing is it better to have the subclassing nested in the superclass make the fields protected rather than private or use protected accessor
+
+specific, type, relationship, ---------------------------------------------------
+
+abstract-class,specific,type,abstract,fruit,apple,strawberries,non-abstract,relationship,dad
+for example you want to use abstract-class in such a case that each of the subclassing is a more specific type of its abstract superclass fruit apple orange banana grape strawberries etc. and you want to use non-abstract superclass in a relationship such as dad and son
+
+class,hierarchy,use,specific,types,ivars,better,ivar,id,type,necessary
+if i have a class hierarchy in which subclassing require use of more specific types than those specified in the superclass ivars is it better to declare the superclass ivar as id or to type it and then cast where necessary in the subclassing
+
+complex, implementation, worst, ---------------------------------------------------
+
+smaller,complex
+for my understanding the superclass is always smaller less complex then the subclassing
+
+complex,state,implementation
+subclassing which implement more complex state should call the superclass s implementation and apply their state to the result if this basic state is to be saved
+
+implementation,changes,worst,unintended
+as you mentioned if superclass implementation changes then subclassing can break or more worst - will do unintended things silently
+
+restrictive, post, func, ---------------------------------------------------
+
+original,post,restrictive
+even in your original post the subclassing is actually more restrictive than the superclass so doing something like
+
+func,type,restrictive
+this issue would make sense if it wasn t a constructor as if it were a regular func you could potentially pass in a type that is expected in the superclass but that has been overridden in the subclassing to be more restrictive
+
+others---------------------------------------------------
+
+longer,instance
+this breaks the inherited and the subclassing is no longer an instance of the superclass
+
+method,sc,compile-time,run-time,better,version
+it turns out as i now think i understand that whatever method is called on sc will be searched for in superclass at both compile-time and run-time unless subclassing has provided a better version of the method
+
+en-,decode,properties,super
+in the subclassing you might need to add code to en- decode the properties of the subclassing and call super to consider also the properties of the superclass
+
+accessible
+no subclassing can be more accessible than its superclass
+
+similar,characteristic,characteristics
+more mathematically you can think of a class a set of all objects with some similar characteristic and then the subclassing surrounds the superclass and has even more characteristics
+
+cannot,lower,visibility
+still you cannot inherited from a as superclass cannot have a lower visibility than subclassing
+
+note,time
+take note of this there is no way to subclassing more than one superclass at a time
+
+selective,new,functionality,light,promises,nothing
+the fact that the subclassing is more selective only actually writes about what it writes is new functionality especially in light of the fact that the superclass promises nothing
+
+ints,simplicity,instance,bytes,variables
+say all instance variables are 32-bit ints for simplicity if the superclass has 3 and the subclassing adds 2 more then each instance of the subclassing will allocate 5 x 4 20 bytes -- 8 for its own instance variables plus 12 for the instance variables of the superclass
+
+collections,dangerous,delegates,effective,p.71
+subclassing collections is dangerous because for example you don t know whether or not addall delegates to add inside the superclass this is explained further in effective java p.71
+
+topographic,map,higher,altitudes
+yes but if you think of your diagram as a topographic map the subclassing have higher altitudes than the superclass
+
+contract,promises
+hence your subclassing is accepting less classes than the superclass contract promises
+
+tons,tool,skeleton,easier
+there are tons of subclassing of a a tool generated the skeleton thus i want to create a superclass to make it easier for me to test
+
+strategy,thing,number,fields,separate,table,secondarytable,primarykeyjoin,annotation,pk,column
+use a singletable strategy and if you thing one of the subclassing has more number of fields and need a separate table then mark that subclassing as a secondarytable using secondarytable annotation and use primarykeyjoin there is an annotation for this to join with superclass on pk column
+
+requirement,constructor,runs,things,simpler
+a requirement that the constructor in the superclass runs before any code in the constructor of the subclassing keeps things simpler
+
+er,modelling,multiple
+in enhanced er modelling subclassing inheriting from more than 1 superclass is called multiple inherited
+
+stock,cocoa,custom,methods,category,behavior
+usually i subclassing the stock cocoa classes customize to my needs and if i need custom methods in more than one subclassing i will declare a category on the superclass rather than relying on inherited to provide my custom behavior
+
+stringent,constraint,blank,false,content,nullable
+the superclass has a more stringent constraint on a property content blank false than the subclassing content nullable true and i am using tableperhierarchy false
+
+jql
+watch out you can t query a superclass if you have more than 1 subclassing then something like in jql
+
+properties
+it not subclassing because subclassing inherited properties of superclass and add some more
+
+type,alternative,relative,weight,b,specific
+here a type gives the alternative subclassing a a relative weight of 1 over the alternative superclass b making a more specific than b
+
+instances
+problem being i have more than one subclassing to my superclass and many instances of each subclassing
+

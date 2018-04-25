@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+loop
+the problem turned out to be a loop in strstr which used strlen more or less as shown above
+

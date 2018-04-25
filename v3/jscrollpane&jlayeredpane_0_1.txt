@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+size,event,smaller,ability
+the problem is that with the code below the jlayeredpane always expands to fit the size of the jscrollpane and in the event that the jscrollpane is smaller than the jlayeredpane it does not provide the scrolling ability
+

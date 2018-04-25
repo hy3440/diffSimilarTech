@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+good,better
+jedit is still pretty good but emacs is quite better
+

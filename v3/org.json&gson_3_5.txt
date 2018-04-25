@@ -1,0 +1,19 @@
+slower, better, jackson, ---------------------------------------------------
+
+jackson,slower
+org.json jackson and gson with gson being 10x slower
+
+jackson,better
+quick takeaway of the benchmark jackson performs 5 to 6 times better than org.json and more than twice better than gson
+
+better,jackson
+or switch from org.json to something that performs better such as gson or jackson
+
+others---------------------------------------------------
+
+usability,odds,easier,alternatives,jackson
+well sometimes performance and usability can be at odds but i ve found gson to be easier to use than alternatives like jackson org.json and others
+
+data,json,good,approach,easy
+for encoding data in json yes gson is a good approach but i think that org.json would be more easy to use
+

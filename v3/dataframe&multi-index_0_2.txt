@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+real,columns
+the real dataframe has more columns in the multi-index
+
+afraid,three-level
+i ve thought about multi-indices but i m already using the index for something else source of data row not shown here and i m afraid a three-level multi-index might make it more complicated for slicing the dataframe later
+

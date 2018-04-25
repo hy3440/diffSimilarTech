@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+top,accessible,charts,powerful,wily
+c3.js sits on top of d3.js to provide more accessible charts because d3.js while powerful is a wily beast to work with for common use-cases
+
+feature,better
+but i don t want to use d3.js because some other feature in c3.js is better
+

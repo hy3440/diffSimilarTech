@@ -1,0 +1,16 @@
+simpler, easier, ---------------------------------------------------
+
+easier
+splinter makes it easier to use selenium plus
+
+simpler
+splinter simpler than selenium
+
+others---------------------------------------------------
+
+worth,look,abstraction,layer,top,easier,tests
+if you do move forward with selenium though it might be worth to take a look at splinter which is an abstraction layer on top of selenium making it easier to write tests
+
+look,simpler,webdriver,api
+consider taking a look at splinter which is a simpler webdriver api than selenium
+

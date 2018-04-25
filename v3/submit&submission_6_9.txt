@@ -1,0 +1,33 @@
+yes, click, am, ---------------------------------------------------
+
+better,function,click....am,yes
+i think it can be better to do form submission through javascript so on submit function can be controlled more wisely to kill popup on more than one submit click....am i right if yes plz guide this way
+
+pre-processing,events,better
+you should treat submit as what happens after you ve done any pre-processing so binding to click events then conditionally raising the submit is better than always submission but conditionally stopping the submit
+
+form, button, server, ---------------------------------------------------
+
+server,script,button,events,form
+the captcha is generated on load and it s checked by another server script which you can call on clicking the submit button but before actually submission explore more events of form submission
+
+form,better,means,button
+in that case binding to the form submit may be better to prevent other means of submission the form which cricumvent the button click
+
+right,form,acceptable,button,data
+i suspect this will submit the right form data but may not be acceptable if your button is calling js and is doing more than submission form data
+
+form,better,onsubmit,event,forms,button
+also note that for form submission it is typically better to use the onsubmit event as opposed to the onclick event since forms can technically be submitted by hitting the enter key as well as clicking the submit button
+
+others---------------------------------------------------
+
+user,request,requests,bog
+if a user submit it once and the request is made i don t want them to keep submission it making more requests otherwise that ll bog down the site
+
+paramaters,ajax,loader,image,file,complete
+i am wondering if i can submit the paramaters to via ajax show a loader image after submission it but once the file is complete return the file for download
+
+form,database,user,little,research
+so i have a form that submit to a database and i want to prevent more than one submission if the user clicks the submit button more than once...with a little research this seems easily enough done however none of the solutions i found worked for me as i am using the jquery validationengine plugin to validate the form client side
+

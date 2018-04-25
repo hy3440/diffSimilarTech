@@ -1,0 +1,22 @@
+new, reinstall, old, ---------------------------------------------------
+
+old,reinstall
+the old upgrade was more an uninstall and a reinstall
+
+new,old
+the upgrade works correctly but if uninstall new build for example build 9 and install an old one example 3 i got an error although nothing currently installed on my machine this versioning is older than installed one
+
+others---------------------------------------------------
+
+test,dummy,real,thing,leftover,data
+i did it an upgrade test on a dummy machine and when i get to the real thing i had to uninstall and remove all leftover db s tfs_configuration you can see migrate data from tfs 2008 to an already working tfs 2012
+
+higher,major,logic,incorrect,definition,older,product
+for example if you tried that and it only installed newer files with higher versioning then your major upgrade logic is incorrect by definition because that will uninstall the older product before installing the newer one
+
+thing,wix,sw,fine,able,older,versioning
+one thing before the problem the upgrade from one wix packaged sw to another wix packaged sw is actually working fine i am able to uninstall the older versioning and install the newer versioning
+
+product,high,lower,fine
+then i tryed following changing upgrade code of product - and make high versioning again then uninstall and install lower versioning - and it worked fine
+

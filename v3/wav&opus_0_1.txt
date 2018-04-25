@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+slower,bigger,size,ogg
+it is even slower since i could only upload wav which is way bigger in size compared with ogg and opus
+

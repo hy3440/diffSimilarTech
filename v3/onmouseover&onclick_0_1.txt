@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+hover
+i would like to combine hover onmouseover with onclick
+

@@ -1,0 +1,48 @@
+memory, instances, tuples, ---------------------------------------------------
+
+instances,memory,tuples,per-instance,faster
+namedtuple instances are just as memory efficient as regular tuples as they do not have per-instance dictionary making them faster than dictionary
+
+better,memory,efficient,variables,set
+but it seems like using a namedtuple would be even better since they are more memory efficient than dictionary and your variables suggest you can use a fixed set of fields
+
+faster,memory,efficient
+namedtuple is faster and significantly more memory efficient than a dictionary
+
+lists, use, overhead, ---------------------------------------------------
+
+better,overhead,lists
+namedtuple should perform better less overhead than dictionary if the lists are long
+
+better,idea
+using a dictionary or a namedtuple would be a better idea because then you wouldn t have to remember what each element in a tuple corresponds to does score come first or does id
+
+use,better
+depending on your use case a dictionary might fit better than a namedtuple
+
+others---------------------------------------------------
+
+system,element,per-item,overhead,bytes,third,sixth,ordereddict,larger
+on my system the three element namedtuple drops the per-item overhead to 72 bytes less than a third that of even the 3.6 dictionary and less than a sixth of a 3.6 ordereddict and three element namedtuple remains 72 bytes on 3.5 where dictionary ordereddict are larger pre-3.6
+
+job
+i believe a namedtuple would be more suited to this job than a dictionary
+
+common,neat
+a dictionary would be a more common choice though and namedtuple is very neat as well
+
+lighter,properties,dot
+2 you probably want a namedtuple - i m pretty sure they re lighter than dictionary and you can access properties using dot notation for which i have an aesthetic preference anyway
+
+lighter
+as namedtuple lighter than dictionary
+
+instance,easier
+creating an instance of the namedtuple is easier than creating a dictionary
+
+class,methods,sense,opinion
+if you re really never defining any class methods a dictionary or a namedtuple make far more sense in my opinion
+
+lower,overhead,keys,item
+namedtuple have a lower overhead than dictionary since the duplicate keys don t have to be stored per item but have the convenience of named access
+

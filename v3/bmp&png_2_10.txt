@@ -1,0 +1,34 @@
+slower, faster, ---------------------------------------------------
+
+slower
+jpg png is slower to draw than a bmp
+
+faster
+i have a sample wpf app here and wondering why bmp is loading faster than png
+
+others---------------------------------------------------
+
+note,format,complex,compression
+note that the png format is much more complex than bmp since it allows compression etc
+
+bitmap,difficult,gdi
+working with a png as opposed to say a bitmap bmp is made somewhat more difficult by the fact that gdi does not natively support pngs
+
+image,backbuffer,copies,lower,resolution
+is not simple scale or crop but to be able to rotate scale and crop every single sprite and draw it in the exactly order to compose the final hight resolution image in a backbuffer then save it in bmp and make some copies in lower resolution as png
+
+gif,image,types,function
+i haven t worked with any more than jpg png and gif so there might be some more image types out there that can fit into this function bmp
+
+amount,memory,streams,smaller
+i feel like if the bitmap class makes data modifications to the stream then it would have to decompress the stream which should make the bitmap class take the same amount of memory working with bmp streams as when it works with png streams despite the fact that the png streams is smaller
+
+files,natural,transparency,smaller
+not only do png files have natural support for transparency they are also smaller than bmp files
+
+transparency,image
+using imagemagick or graphicsmagick would be better idea but if you really want to use sips you could try to remove transparency by converting image to bmp and then back to png again
+
+new,format,in-memory,smaller,current,data
+rebuild a new png format in-memory data which is much more smaller than current bmp data and send the new png format data by socket to remote server
+

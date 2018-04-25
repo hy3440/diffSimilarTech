@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+event,appropriate,tab,active
+also the onfocus event would be more appropriate than onclick because it handles other scenarios such as pressing the tab key to change the active input
+

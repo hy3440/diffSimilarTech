@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+java.nio.channels.filechannel,examples,complex,string
+i saw some java.nio.channels.filechannel s examples but i found filechannel was more complex to read or write string to file compare to filewriter
+

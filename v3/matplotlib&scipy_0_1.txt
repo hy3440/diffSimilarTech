@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+numpy,clan,better
+the scipy numpy matplotlib clan is much better at dealing with huge amounts of volume data than matlab or at least gnu octave in my experience
+

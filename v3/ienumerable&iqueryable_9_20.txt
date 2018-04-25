@@ -1,0 +1,70 @@
+generic, instances, ---------------------------------------------------
+
+generic
+ienumerable is more generic than iqueryable though all
+
+generic,instances
+ienumerable is more generic than iqueryable though all instances of iqueryable implement ienumerable and only defines
+
+entity, framework, objects, ---------------------------------------------------
+
+entity,framework,smaller,sql,linq,objects
+i often use such code with the entity framework and iqueryable to generate smaller sql queries but it works just as well for linq to objects ienumerable
+
+entity,framework,implementation,picky,linq,objects
+entity framework s iqueryable implementation is more picky about creating new objects in objects than regular linq to objects ienumerable
+
+database, quicker, calls, ---------------------------------------------------
+
+suitable,interaction,database
+i d say iqueryable is more suitable for interaction with a database than ienumerable is
+
+calls,database,quicker,place
+with really basic calls to the database iqueryable is way quicker but when do i need to think about using an ienumerable in its place
+
+better, query, types, ---------------------------------------------------
+
+better,types,linq
+or perhaps ienumerable is better since ienumerable types can be cast to iqueryable to be used with linq
+
+better,query
+what i know is using iqueryable is better than ienumerable if another query is going to be performed
+
+others---------------------------------------------------
+
+faster,able,entities,issues
+i assume applying iqueryable will be much faster than the ienumerable not to forget i was able to use iqueryable on the other entities without any issues
+
+familiar,infeasability,blog,post,preferable,access,underlying
+i m not familiar with the infeasability of iqueryable but this blog post seems to indicate that iqueryable is much more preferable to ienumerable because iqueryable allows access to the underlying expression
+
+view,declaration,use,first,result,payload,smaller
+for your view to expect an ienumerable you need to change your view declaration to be also if you really need to perform a find use iqueryable first them return the result as ienumerable since the payload on ienumerable is smaller than iqueryable
+
+linq,lot-,v,fantastic,insight
+there is a very good linq video that i enjoy a lot- it hits more than just ienumerable v iqueryable but it really has some fantastic insight
+
+reading,functionality,linq,simple,column
+in my reading it seemed iqueryable had more functionality for linq to sql but since i am returning a simple two column list then i only need to return an ienumerable or list
+
+words,operations,causes,simple,iteratation,lazy,slower
+in simple words all operations on ienumerable causes simple iteratation over all elements well it s lazy ienumerable really slower than iqueryable
+
+side,linq,heap,better,native
+the ienumerable side of linq which works on in-memory objects that are already in the heap will almost certainly perform better than the iqueryable side which exists to be translated into a native query language like sql
+
+useful,example
+can you provide any useful example that shows ienumerable could be more useful than iqueryable
+
+data,collection,good,database,better,network
+so if you working with only in-memory data collection ienumerable is a good choice but if you want to query data collection which is connected with database iqueryable is a better choice as it reduces network traffic and uses the power of sql language
+
+safer,inherits
+this may be safer as iqueryable inherits from ienumerable
+
+result,type,performance,better,place,memory
+final result will be of type ienumerable and in terms of performance this would be better than iqueryable since here join is taking place between in memory collections
+
+method,seconds,second
+however the method that returns iqueryable takes 15 seconds while the ienumerable takes less than a second
+

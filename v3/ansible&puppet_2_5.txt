@@ -1,0 +1,19 @@
+general, agent, cfengine, ---------------------------------------------------
+
+chef,cfengine,general
+puppet chef ansible cfengine are more general configuration management tools that can be used on almost all linux os-es
+
+chef,agent
+ansible unlike chef and puppet uses agent less run
+
+others---------------------------------------------------
+
+httpd,simple,program,actual,task
+if you just expect puppet to restart httpd simple because you asked it to then you either need to use a program like ansible which is more of an actual task manager or use some kind of inotify thing to see that a certain file has been changed so httpd must be restarted
+
+chef,place,heart,easier
+puppet chef always have a place in my heart stack but ansible is just easier
+
+earlier,stage,chef,tools,community
+ansible is in an earlier stage than chef puppet and other tools out there when it comes to community support
+

@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+elegant,advanced,features
+more generally sml tends to be rather more elegant while ocaml has some more advanced features quirks and users
+
+edit,f#,order,deterministic--unlike,crazy,syntax
+edit for those of you coming later i also learned that like sml in f# the order is specified and deterministic--unlike ocaml which is even more crazy considering how close the two are in syntax
+

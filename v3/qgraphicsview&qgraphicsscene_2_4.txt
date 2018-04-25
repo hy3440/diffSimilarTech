@@ -1,0 +1,16 @@
+pixmap, window, necessary, ---------------------------------------------------
+
+default,larger,necessary,scroll
+by default when you scale a qgraphicsscene larger than the qgraphicsview in which it is displayed it will show the necessary scroll bars
+
+pixmap,larger,window,scrollbars,possible
+if i set a pixmap to a qgraphicsscene that is larger that the window it will add scrollbars so is it possible to get what is displayed in the qgraphicsview
+
+others---------------------------------------------------
+
+nested,widgets,able,qtablewidget,different,widget
+i have a qgraphicsview nested within a few widgets qframe and then in a qtab and i want to be able to drag-and-drop a qtablewidget which is within the qgraphicsscene onto a totally different widget - another qtablewidget which is much higher up in the window but not a parent
+
+better,connection
+generaly qgraphicsscene better using with connection qgraphicsview
+

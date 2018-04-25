@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+thing,similiar,wordprocessingml,file
+the one thing to keep in mind is that spreadsheetml is more similiar to presentationml than it is to wordprocessingml in file structure inside the package for every sheet there is a seperate file
+

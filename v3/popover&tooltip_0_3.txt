@@ -1,0 +1,11 @@
+others---------------------------------------------------
+
+common,popup
+a tooltip has more in common with a popover but they are generally regarded as a popup historically
+
+message,bootstrap,better,modal,user
+you can also use bootstraps modal to display your message but personally i think bootstrap popover would be much better than a modal or you can simply display a tooltip asking user to sign up or sign in
+
+arrow,better
+not having the tooltip arrow of a popover would be better
+

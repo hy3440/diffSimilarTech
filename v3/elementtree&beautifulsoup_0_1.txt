@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+forgiving,well-formed,xml,things,easier
+beautifulsoup is more forgiving in terms of well-formed xml structure see i had to edit the xml a bit to make things work for elementtree and it s actually much easier to work with
+

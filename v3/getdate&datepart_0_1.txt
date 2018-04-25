@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+forms,year,shorter,type,better,yyyy
+i prefer using these short forms because to me year getdate is shorter to type and better to read than datepart yyyy getdate
+

@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+older,versions
+but tesseract based on leptonica uses older versions of these libraries which have incompatible parameters
+

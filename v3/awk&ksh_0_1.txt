@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+aix,bash,cannot,latter,thought,stronger
+4.c i am working on aix so i only have sh and ksh no bash therefore i cannot use the array tools provided by the latter that s why i thought of awk that and the fact that i think awk is probably stronger though i might be probably
+

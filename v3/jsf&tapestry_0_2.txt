@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+elegant,solution,container,powerful
+in my opinion this is a more elegant solution than jsf and i think tapestry s ioc container makes it more powerful than wicket
+
+template,bloated,apache
+one framework that tries to do more in the template while remaining less bloated than jsf which isn t that hard anyway is apache tapestry
+

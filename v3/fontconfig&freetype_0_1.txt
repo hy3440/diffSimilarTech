@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+osx,newer,version
+we updated freetype in osx 10.6.5 and fontconfig which links against freetype wants this newer version
+

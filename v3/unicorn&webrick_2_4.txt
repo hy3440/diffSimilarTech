@@ -1,0 +1,16 @@
+better, performance, development, ---------------------------------------------------
+
+phusion,passenger,better,performance,thin,mongrel
+in production it is much better to use a more sophisticated server like phusion passenger or unicorn since they have better performance than thin mongrel or webrick
+
+personal,experience,faster,development,environment,thin,os
+my personal experience is that webrick is faster in my development environment than unicorn and thin os x in a pretty big rails app lots of gems routes etc
+
+others---------------------------------------------------
+
+faster
+unicorn is supposed to be faster than webrick
+
+faster,production,applications
+i ve also found unicorn to be faster than webrick especially in production applications and apps running on heroku
+

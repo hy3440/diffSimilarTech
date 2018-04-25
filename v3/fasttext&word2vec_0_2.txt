@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+better,semantic,similarity
+fasttext is not better than word2vec as for as semantic similarity is concerned
+
+possible,efficient,text-based,embeddings,glove
+1 is possible then will word2vec be more efficient in text-based plagiarism detection than wordnet or any other word embeddings like glove fasttext etc
+

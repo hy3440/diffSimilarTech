@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+ilist,specialized,interfaces
+idictionary and ilist are more specialized interfaces that extend icollection
+

@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+new,research,compareandset,flexible
+about this time new research into locking and lockless algorithms showed that atomic compareandset was a more flexible primitive to have so more modern cpus have that as an instruction
+

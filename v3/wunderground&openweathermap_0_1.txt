@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+version,higher,tiers,features,free,tier
+i see that the paid version of wunderground has some higher tiers with more features but openweathermap s free tier allows a huge number of uses
+

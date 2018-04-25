@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+cool,easy,data,easier
+i also checked prolog and it seems a pretty cool language easy to do relations between data and easier than lisp but i d like to hear what you think
+

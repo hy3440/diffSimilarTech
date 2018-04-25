@@ -1,0 +1,13 @@
+widespread, features, test, ---------------------------------------------------
+
+nunit,widespread,features,manpower
+nunit is more widespread mbunit has the most features but mstest has more manpower behind it
+
+test,difficult,frameworks,nunit,etc.
+i ve read time and time again that tdd test first is more difficult with mstest than it is with other testing frameworks such as nunit mbunit etc.
+
+others---------------------------------------------------
+
+example,equivalent
+this example is in mstest but mbunit is more or less equivalent
+

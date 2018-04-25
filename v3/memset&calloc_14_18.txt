@@ -1,0 +1,60 @@
+conditions, allocation, efficient, ---------------------------------------------------
+
+optimised,faster
+the pattern above is very likely recognised by your compiler and replaced by highly optimised code which will be as fast if not faster as memset but not calloc
+
+page.,post,better,malloc,+
+it takes a page off of the free_page_list updates mem_map zeroes the page and returns the physical address of the page. here s another post that explains it well and also explains why using calloc is better than malloc + memset
+
+malloc,slower,certain,conditions
+malloc + memset is slower than calloc under certain conditions
+
+malloc,efficient
+one reason to use calloc over malloc plus memset is that calloc may be more efficient
+
+faster,malloc,mmap,pages,pre-zeroed,forces,allocation
+calloc is faster than malloc + memset because calloc knows that the mmap d pages are pre-zeroed and memset forces the allocation of physical ram
+
+extra,work,faster,malloc
+this is an enormous amount of extra work and explains why calloc is faster than malloc and memset
+
+malloc,closer
+actually calling memset after malloc is closer to calling calloc than the option you suggest
+
+speed,likely,faster,malloc,memory
+in terms of speed calloc is likely to be faster than malloc + memset if memory needs to be zeroed out
+
+faster,malloc,zeroed
+this means calloc can potentially be faster than calling malloc followed by memset since it can skip the memset if it knows it will already by zeroed
+
+malloc,slower
+my question is why is malloc + memset so much slower than calloc
+
+malloc,slower
+see also why malloc + memset is slower than calloc
+
+combination,malloc,hand,faster
+and is as far as i know faster than the combination of malloc and memset on the other hand malloc alone is faster than calloc
+
+end, ridiculous, conceivable, ---------------------------------------------------
+
+end,memory,faster,malloc,difference,ridiculous
+if end up using the memory anyway calloc is still faster than malloc and memset but the difference is not quite so ridiculous
+
+conceivable,address,memory,faster,malloc,combo
+it s conceivable that calloc could return address of memory location that is already pre-initialized with zeros thus it may be faster than malloc + memset combo
+
+others---------------------------------------------------
+
+words,type-wise
+in other words calloc is no more type-wise than memset
+
+work
+in some cases calloc will do less work because it can skip memset entirely
+
+platforms,aligned_malloc,pair,inventive
+an aligned calloc would have required more than wrapping on many platforms to offer more than the aligned_malloc + memset pair thus could be considered inventive and thus was left out
+
+returns,address,bits,effect,efficient
+calloc returns tha address of a block of memory initialized to all bits zero which has the same effect as calling memset but is potentially more efficient
+

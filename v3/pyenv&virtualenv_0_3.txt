@@ -1,0 +1,11 @@
+others---------------------------------------------------
+
+wider,scale,register,installations
+pyenv operates on a wider scale than virtualenv - it holds a register of python installations and can be used to install new ones and allows you to configure which version of python to run when you use the python command
+
+tools,top,easier
+there are other tools on top of virtualenv like pyenv which are easier to use
+
+versions,directory,default,root,global
+python versions you install using pyenv go into its directory by default pyenv root is .pyenv so are more global than virtualenv
+

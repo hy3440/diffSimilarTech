@@ -1,0 +1,48 @@
+nirvdrum, worse, superior, ---------------------------------------------------
+
+nirvdrum,easier,kde,superior,flexibility
+even though git-svn or the nirvdrum svn2git is easier to start with here are some further reasons why using the kde svn2git instead of git-svn is superior besides its flexibility
+
+worse,kde,superior
+there are many reasons why git-svn is worse and the kde svn2git is superior
+
+easier,kde,superior,flexibility
+even though git-svn is easier to start with here are some further reasons why using the kde svn2git instead of git-svn is superior besides its flexibility
+
+worse,kde,superior
+you see there are many reasons why git-svn is worse and the kde svn2git is superior
+
+tools, use-case, one-time, ---------------------------------------------------
+
+one-time,conversion,use-case
+it is great if you want to use git as frontend for an existing svn server but for a one-time conversion you should not use git-svn but svn2git which is much more suited for this use-case
+
+one-time,conversions,use-case
+it is a great tool if you want to use git as a frontend for an existing svn server but for one-time conversions you should not use git-svn but svn2git which is much more suited for this use-case
+
+one-time,conversions,use-case
+it is a great tool if you want to use git as frontend for an existing svn server but for one-time conversions you should not use git-svn but svn2git which is much more suited for this use-case
+
+one-time,conversions,use-case,oom
+it is a great tool if you want to use git as frontend for an existing svn server but for one-time conversions you should not use git-svn but svn2git which is much more suited for this use-case and should not suffer from oom error
+
+one-time,conversions,right,use-case
+it is a great tool if you want to use git as frontend for an existing svn server but for one-time conversions you should not use git-svn but the right svn2git which is much more suited for this use-case
+
+one-time,conversions,tools,use-case
+it is a great tool if you want to use git as frontend for an existing svn server but for one-time conversions you should not use git-svn or tools based on it but svn2git which is much more suited for this use-case
+
+one-time,conversions,use-case,proper
+it is a great tool if you want to use git as frontend for an existing svn server but for one-time conversions you should not use git-svn but svn2git which is much more suited for this use-case and also makes proper git tags from the svn tags
+
+others---------------------------------------------------
+
+better
+would svn2git be better that git-svn for this scenario
+
+better,results,tags,branches.
+using svn2git might produce better results than git-svn if you have tags or branches.
+
+easier,kde,superior,flexibility
+even though git-svn or the svn2git you used is easier to start with here are some further reasons why using the kde svn2git instead of git-svn is superior besides its flexibility
+

@@ -1,0 +1,73 @@
+compiler, keyword, function, ---------------------------------------------------
+
+keyword,definition,compiler,hint
+generally speaking the inline keyword is used more now to allow you to violate the one definition rule when you define a function in a header than to give the compiler a hint about inlining
+
+keyword,easier,compiler,function
+the inline keyword makes it easier for the compiler to apply this optimization by allowing the function definition to be visible in multiple translation units but using the keyword doesn t mean the compiler has to inline the function and not using the keyword doesn t forbid the compiler from inlining the function
+
+keyword,compiler,symbol,rule,actual
+the keyword inline is more about telling the compiler that the symbol will be present in more than one object file without violating the one definition rule than about actual inlining which the compiler can decide to do or not to do
+
+compiler,able,better,calls
+if your compiler can do this then writing functions in a way that the compiler is able to inline is better than manually inlining the calls yourself
+
+compiler,ability,function,call
+early inlining is the compiler s ability to inline a function early on when it sees the call costs more than the inline
+
+simple, methods, little, ---------------------------------------------------
+
+little,worse,simple,operations,non-trivial,functions
+while function calls can be a little worse than inline code for very simple operations repeated inlining of non-trivial functions can create arbitrarily worse code bloat
+
+methods,header,struct,simple,method,faster,math
+i have no problem with methods declared inline in a header in some cases - a struct s constructor a simple method where inlining measurably makes it faster we have some math functions like this etc
+
+fatter, tail, call, ---------------------------------------------------
+
+call,better,tail
+we inline the call instead inlining is way better than tail calling and opens the door to many more optimizations
+
+fatter,faster,functions,call
+inlining inlining produces fatter code which is faster the inline functions will not appear in the call stack
+
+size, smaller, limit, ---------------------------------------------------
+
+decision,estimate,smaller,size
+the decision to inline is based on an estimate as to whether inlining will result in smaller code size
+
+longer,savings,smaller,hard,limit,size
+but as the inline code gets longer the savings for inlining become smaller so maybe you could just have a hard limit on the size of the code - any code to be inline must be smaller than the limit
+
+others---------------------------------------------------
+
+similar,argument,functions,faster,big-o,size,tradeoff,program,larger
+a similar argument can be made for inlining functions inline is generally faster but will remain in the same big-o complexity class although there is an additional size tradeoff inlining makes your compiled program larger if the code was being used in many places
+
+bytecodes,method,larger,maxinlinesize,next,level
+callee is too large message is printed by c1 when the size in bytecodes of the method being inline is larger than maxinlinesize 35 multiplied by nestedinliningsizeratio 90 on each next level of inlining
+
+templates,standard,meaning,related,definition,rule,actual
+templates will be inline in the standard meaning of inline which is more related to the one definition rule than to actual code inlining
+
+definitions,functions,templates,header,ones,sense,cpp
+you will probably use both in large projects - put the definitions of the functions that should be inline and templates in the header and put the ones that inlining makes less sense for in the cpp
+
+good,gcc,negative,impact,binary,bigger
+if a function is static thus not exported anyway and only called once within your code and you never use a pointer to the function chances are good that gcc will decide to inline it automatically as it will have no negative impact the binary won t get bigger by inlining it only once
+
+matter,static,rid,warning,functions,benefit
+as a practical matter i can simply change these to static inline to get rid of the warning or turn off the specific warning entirely but i do find it useful from time to time but it seems that large utility functions which won t benefit from inlining 1 are more logically declared static 2
+
+speed,trick,if-then-else,tree,doesnt,faster,generall,function
+as pointed out you cannot inline which is another speed trick but inlining on the if-then-else tree doesnt necessarily make it faster than without inlining and is generall not as fast as the function pointer
+
+aware,compiler,decision,user,non-specified,inline-functions
+i m well aware that inline is more of compiler decision than of user going so far as even to inlining non-specified inline-functions so the user control is almost negligible
+
+version,slower,cpython,jit
+note that just as you wrote this version is significantly slower than the inline one under cpython which of course does no jit inlining
+
+reality,keyword,legal,violation
+in reality the inline keyword has less to do with inlining code and more to do with allowing legal violation of the one definition rule
+

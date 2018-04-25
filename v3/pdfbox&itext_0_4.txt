@@ -1,0 +1,14 @@
+others---------------------------------------------------
+
+faster,page,implicit
+i explored itext and chose it over pdfbox it is perhaps 2-3 times faster than pdfbox and adding page is implicit and automatic
+
+extraction,faster,words,regex,content,longer,time
+i have noticed that content extraction is faster in itext but searching words using regex in the content extracted by itext takes longer time than pdfbox
+
+text,extraction,abilities,better
+start with pdfbox as it s text extraction abilities are better than itext s
+
+downside,mature,features,documentation
+on the downside pdfbox is less mature than itext so it has less features and documentation available
+

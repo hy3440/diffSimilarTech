@@ -1,0 +1,64 @@
+nested, loops, better, ---------------------------------------------------
+
+idea,nth,nested,loop,worse,structural,perspective
+the idea of saying break out of the nth nested loop is worse than a goto from a structural perspective
+
+better,nested,loops
+but goto is better than break when you have nested loops like that
+
+better,statements.
+basically continue and break are better but often just disguised goto statements.
+
+previous,example,better
+in the previous example break is better than goto
+
+better,purpose
+labeled break like in java would be better than goto for this purpose
+
+nested,loop,loops,cleaner,simpler,statements,if-checks
+if you re in a nested loop and need to break out of all loops a goto can make this much cleaner and simpler than break statements and if-checks
+
+labels, restrictive, equivalent, ---------------------------------------------------
+
+equivalent,restrictive,labels,statements
+it is the equivalent of a goto but is more restrictive in that labels may be used only in break or continue statements
+
+statements,older,languages
+those break statements are being used in the same way that goto is used in older languages
+
+end, bad, l, ---------------------------------------------------
+
+bad,end,loop
+the bad we use a break that is little more than a tamed goto something like goto the end of the loop
+
+graceful,l,faster,loop
+there s not really a graceful way to break out of for l although it is much faster than a goto loop
+
+good, programming, solution, ---------------------------------------------------
+
+developer,c-like,better,cleaner,solution
+to any seasoned developer of a c-like language break will both read better as well as provide a cleaner solution than goto
+
+opinion,better,good,programming
+nevertheless in my opinion break is not much better than goto its both not a good programming style
+
+others---------------------------------------------------
+
+note,mention,flexible,bash
+in particular note the mention of break and continue which aren t as flexible as goto but are more flexible in bash than in some languages and may help you achieve what you want
+
+nothing,pleasant,syntax
+continue and break are nothing more than a pleasant syntax for a goto
+
+normal,use,clearer,constructs,look,moreso
+in the cleanup even in normal case scenario i would regard the use of goto as being clearer than the do while 0 constructs among other things because the target labels themselves practically cry out look at me far moreso than the break and do while 0 constructs
+
+pundits,like,point,readability,well-chosen,readable,correct
+there are pundits who don t like break continue and the like but at some point there is a tradeoff to make between rules of thumb and readability and a well-chosen break continue or even goto may become more readable than politically correct code
+
+worse
+but break is no better or worse than goto
+
+resemblance,instructions,comparison
+but actually break has more resemblance to return both instructions jump out of a block of code which is pretty much structured in comparison to goto
+

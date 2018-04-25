@@ -1,0 +1,10 @@
+better, pm2, place, ---------------------------------------------------
+
+pm2,elastic
+i have successfully deploy pm2 on amazon-web-services elastic beanstalk it has more than one way to achieve
+
+elastic,better,place
+maybe the amazon-web-services elastic beanstalk are a better place for your needs
+
+others---------------------------------------------------
+

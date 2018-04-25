@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+second,use,sense,random,data,identical,usage
+as an example of the second option i ll use imshow here because it makes more sense than contourf for random data but contourf would have identical usage other than the interpolation option.
+

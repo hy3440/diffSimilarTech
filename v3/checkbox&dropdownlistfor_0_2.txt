@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+fields,value,attempts,similar,funationality,fruitful
+i have investigated libs cq gui components authoring dialog dropdownshowhide clientlibs dropdownshowhide.js but it s not really fit for purpose given that this is specifically designed for hiding or showing fields based on value of dropdownlistfor and my attempts to modify it to allow similar funationality on a checkbox have been less than fruitful
+
+values,property,radio,button,basis,selection,merged
+so the values can be mapped with each list now by the property of checkbox you can select more than one checkbox unlike radio button so when such case comes the dropdownlistfor that is being populated on the basis of each checkbox selection now comes in a merged format like on selecting option 1 and option 2 both the list contains all the elements mapped to both further on de-selecting it comes back to unmerged state
+

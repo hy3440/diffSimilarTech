@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+pre-generated,maps
+jvectormap comes with more pre-generated maps than jqvmap
+

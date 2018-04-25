@@ -1,0 +1,21 @@
+slower, sizable, different, ---------------------------------------------------
+
+call,slower,bucket,number,hash,different
+it will only really matter if you have lots of hash-collision since then the get key call gets slower than o 1 - it gets o k with k being the number of entries in the same bucket the number of key with same hash code or a different hash code which gets still mapped to the same bucket - this depends on the capacity size and load factor of the map as well
+
+space,larger,sizable,number,target
+but if your key space is vastly larger than the number of targets you ll have a sizable number of hash-collision where you ll have to check if the target stored there is really the key you re looking
+
+better, buckets, worse, ---------------------------------------------------
+
+hash,better,distribution,concerns
+if not md5 would also be suitable for this purpose since you are concatenating the bucket and path and using the hash to provide better key distribution not uniqueness so you have no hash-collision concerns
+
+worse,performance,possible,hash,buckets
+the more hash-collision you have the worse the performance of hash maps because much of the hash maps good performance relies on as few as possible key in the same hash buckets
+
+others---------------------------------------------------
+
+harder
+hash code of key to make hash-collision harder to find
+

@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+search,faster
+btw a case-sensitive search done with removing i is much faster than a case-insensitive search
+
+lookups,programmers,slower,unicode,cpu
+this tiny overhead on add is vastly outweighed by the savings on lookups since all programmers should know and understand that case-insensitive compares are vastly slower than case-sensitive especially with unicode - the cpu can t just do a block compare of data but must check each pair of characters specially even using a table look-up this is vastly slower
+

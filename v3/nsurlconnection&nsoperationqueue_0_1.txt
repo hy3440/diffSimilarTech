@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+class,run,.however,async,efficient
+right now all the photos are downloaded with a custom nsoperation class run on an nsoperationqueue .however i have heard about nsurlconnection async being more efficient and was wondering which is better of this situation
+

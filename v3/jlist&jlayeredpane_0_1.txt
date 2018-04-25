@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+listener,component,successive,slower
+the listener to the jlayeredpane component makes fast successive calls the listener to the jlist calls significantly slower
+

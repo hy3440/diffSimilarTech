@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+look,template,engine,faster,velocity,easier
+probably you can take a look at rythm template engine which is much faster than freemarker and velocity also much easier to use
+

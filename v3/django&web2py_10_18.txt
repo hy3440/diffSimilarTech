@@ -1,0 +1,62 @@
+better, easier, ---------------------------------------------------
+
+easier
+i think you ll find that web2py is even easier to learn and use than rails and django
+
+better
+anything django does web2py does better
+
+appadmin, big, box, ---------------------------------------------------
+
+gae,better,box
+as i understand it web2py supports gae better out of the box than django
+
+better,appadmin,administrators
+django s is better web2py s appadmin is for administrators only
+
+wonderful,framework,better,limited
+django is also a wonderful framework but web2py is just better in my limited experience opinion
+
+admin,better,customizable,appadmin
+django s admin is better and more customizable than web2py s appadmin
+
+big,purpose,webpy,better
+we thought of django but we think that is very big for our purpose and we decided that webpy or web2py is a better option
+
+turbo,gears,better
+django turbo gears web2py which is better for what
+
+mvc, hindsight, conveniences, ---------------------------------------------------
+
+mvc,framework,things,easier
+plus moving from a php mvc framework to web2py or even django would make things easier
+
+conveniences,environment,newer,hindsight,easier
+i prefer web2py because there are more conveniences built into the environment than offered by django but web2py is much newer than django and hindsight always makes it easier make new implementations better
+
+others---------------------------------------------------
+
+faster,ror,shadow
+you will get web2py working faster than either django or ror without a shadow of a doubt
+
+popular,familiar,heavy,complex
+to answer klochner both seems quite popular but ruby is not a language that i am familiar with and django seems more heavy and complex to me than web2py
+
+days
+i have just spent a few days playing around with web2py and really like it and i am wondering if django offers something more that i am missing out on
+
+important,issue,easier,pylons
+anyway the most important issue is that web2py is easier than django pylons php and rails
+
+lower,initial,learning,curve,tool
+having said that web2py has a lower initial learning curve than django as it was specifically designed as a learning tool
+
+lightweight,counts
+and web2py is more lightweight than django rails whatever on pretty much all counts
+
+focus,simple,better,complex,explicit
+web2py has more focus on simple is better than complex but django has more focus on explicit is better than implicit
+
+young,mailing,month,similar,turbogears
+web2py may be young but the mailing list has 2000 messages month which is similar to django and far more than turbogears
+

@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+p
+iterate over the primes already found which are less than the square-root of p
+

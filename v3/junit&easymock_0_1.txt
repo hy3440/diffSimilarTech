@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+better,coverage,tests
+so using easymock with junit should give you better coverage and better tests than junit alone
+

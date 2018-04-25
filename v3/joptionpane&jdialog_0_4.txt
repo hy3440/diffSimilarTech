@@ -1,0 +1,14 @@
+others---------------------------------------------------
+
+flexibility,bunch,static,dialogs
+usually when people want more flexibility than joptionpane offers it s basically a bunch of static factories for a few dialogs they write their own dialogs using jdialog
+
+size,function,getsize,bit,smaller,button
+i m trying to make a jdialog with the size of the joptionpane that contains but function getsize is returning something a little bit smaller than the joptionpane and the button of accept is not seen
+
+part,processing,getwindowforcomponent,argument,general
+as part of the processing joptionpane invokes getwindowforcomponent on the argument before passing it through to the underlying jdialog which is slightly more general
+
+better,number
+using jdialog instead of joptionpane is better to put number of data
+

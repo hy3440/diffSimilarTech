@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+output,resultset
+that is pointless if you are expecting more than one output from your resultset you need something more than a jtextfield maybe a jtable
+

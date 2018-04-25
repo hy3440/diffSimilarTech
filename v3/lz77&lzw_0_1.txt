@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+nature,output,suitable,huffman,compression,method
+if so what is the nature of the output of lz77 that makes it more suitable for huffman compression than lzw or some other method entirely
+

@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+operating,systems,better,intended,equivalent,os
+although if your api can be used on multiple operating systems then win64 may be better assuming that its only intended to be used for windows and there s an equivalent for the other os
+

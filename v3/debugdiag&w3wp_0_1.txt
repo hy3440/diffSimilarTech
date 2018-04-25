@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+link,hook,process,user,mode,info,crash
+use the link below to understand how you can hook your w3wp process it is user mode proces with debugdiag and collect more info about the crash
+

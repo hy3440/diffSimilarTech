@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+current,project,difficult
+but my current project really does require obfuscation to make reverse-engineering more difficult
+

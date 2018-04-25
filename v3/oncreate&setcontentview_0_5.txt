@@ -1,0 +1,17 @@
+others---------------------------------------------------
+
+fragments,little
+an activity that uses fragments is often little more than oncreate calling setcontentview
+
+time,initialization,variables,event,better
+so for one time initialization code like setcontentview or initializing variables the oncreate event is a better place
+
+personal,preference,super.oncreate,rest,method,likely
+my personal preference is to call setcontentview immediately after super.oncreate so that i know the rest of the oncreate method is less likely to break
+
+minimal,project,nothing,super
+i can make this happen with the minimal project where oncreate does nothing more than call super and setcontentview
+
+suer,top,xml
+do the following in your oncreate make suer you have setcontentview on the top which sets your xml containing the splash details
+

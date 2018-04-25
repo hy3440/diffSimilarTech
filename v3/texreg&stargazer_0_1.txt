@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+efficient,easier,xtable
+yet from my point of view texreg is more efficient that stargazer and easier to customize than xtable
+

@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+visual,basic,string
+a cstring is more like a visual basic string or a bstr
+

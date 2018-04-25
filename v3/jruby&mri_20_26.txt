@@ -1,0 +1,88 @@
+rubies, global, efficiency, ---------------------------------------------------
+
+rubies,better,efficiency,gvl,global
+works on some rubies better than others jruby is recommended efficiency on mri is decreased due to gvl global vm lock
+
+practice,good,idea,tests,scripts,yarv,rubinius
+in practice this means that deploying a rails app to jruby is a good idea as is running your integration tests but for developer unit tests and scripts mri yarv or rubinius are better choices
+
+rubies,better,rubinius,efficiency,gvl,global
+works on some rubies better than others jruby and rubinius are recommended efficiency on mri is decreased due to gvl global vm lock
+
+slower, old, matz, ---------------------------------------------------
+
+scales,faster
+and it sounds strange but jruby scales very well and it s faster than mri with java 7
+
+old,adagio,faster
+does this mean that the old adagio about jruby being faster than mri ruby is gone
+
+opposite,2-5x,slower
+so it seems like the opposite - mri 2.3 gets 2-5x slower than jruby 9.1
+
+faster,matz,standard
+jruby is faster than 1.9 mri matz ruby interpreter the standard in certain areas
+
+faster
+mri is faster than jruby
+
+slower
+this really surprised me because i expected mri to be slower than jruby
+
+faster
+mri was faster than jruby
+
+better, processes, warmup, ---------------------------------------------------
+
+faster,right,parameters,warmup,fast,system
+sometimes mri is faster but with the right parameters and warmup jruby was 3 to 3.5 times as fast on my system for this particular
+
+application,rubinius,better
+for longer-running applications like a web application rubinius or jruby will generally perform better than mri
+
+latter,profilers,jvisualvm,better
+if you are set on using ruby you might want to compare mri to jruby from my experience with the latter and profilers like jvisualvm i wouldn t be surprised if jruby fared better
+
+options,better,performance
+with these options jruby on rails gives about the same or better performance than mri
+
+concurrency,better
+i know that rails jruby handles concurrency better than mri but i don t know how to do it
+
+process,better,long,processes,faster
+lastly if you are frequently finding yourself running long running process i advice you to try jruby which is works much better with long running processes due to jvm lot faster than mri
+
+requests, raw, execution, ---------------------------------------------------
+
+gil,faster,requests
+mri has a gil so why is it faster than jruby in handling requests
+
+passenger,faster,puma,rack
+same passenger + mri 2.3.0 is 3 times faster than puma + jruby on same rack app
+
+faster,traditional,scala,raw,cpu
+jvm hosted languages are generally going to be faster than traditional mri ruby and both java and scala are generally faster than jruby when it comes to raw cpu capabilities
+
+requests,performant,raw,execution
+once the jvm has warmed up rails requests under jruby are usually significantly more performant than under mri both in terms of raw execution speed and garbage collection
+
+others---------------------------------------------------
+
+runtime,heavy,heavier
+the jruby runtime alone is already pretty heavy much heavier than mri
+
+command,path,version,higher,priority
+alter your command path so that jruby s version of the ruby command has a higher priority than the mri one
+
+use
+with mri i d use forking with jruby there s more of a case to be made for threading
+
+sensitive,memory,leaks
+i ve noticed however that jruby is more sensitive to memory leaks than mri
+
+windows,rubyspec,tests,meaning,yarv
+in fact on windows jruby passes more rubyspec tests than ruby meaning mri or yarv itself
+
+last,loading,better,short,ad,scripts,process,processes,methods,servers
+the last together with the loading of the jvm makes mri better for short ad hoc scripts jruby better for process hungry longer running processes with methods repeated often so jruby would be better for running servers and services
+

@@ -1,0 +1,10 @@
+plugin, features, rich, ---------------------------------------------------
+
+plugin,slower
+but the plugin gulp-ruby-sass slower than gulp-sass
+
+slower,rich,features
+i ended up using gulp-ruby-sass that while is a bit slower than gulp-sass is rich with features such as loadpath
+
+others---------------------------------------------------
+

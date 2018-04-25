@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+type,equations,onenote,mathtype,feature-rich,editor
+i want to type tex equations in onenote send them to mathtype which converts it to mathml and has a more feature-rich editor and send them back afterwards
+

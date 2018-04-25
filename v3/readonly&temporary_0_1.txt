@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+private,static,hundreds,objects,faster
+is it good idea to make serializer private static readonly to avoid spawning hundreds of temporary objects is it more faster than i did
+

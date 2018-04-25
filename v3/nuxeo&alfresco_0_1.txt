@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+web,interface
+nuxeo is definitely more advanced in this because with its web interface you can customise almost everything but alfresco has other advantages
+

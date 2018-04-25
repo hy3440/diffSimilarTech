@@ -1,0 +1,30 @@
+i7, processing, non-hyper-threading, ---------------------------------------------------
+
+non-hyper-threading,cores,logical
+non-hyper-threading cores each correspond to 1 cpu whereas hyperthreading cores contain more than 1 typically 2 - logical - cpu
+
+i7,cores,threads,processing
+now - your i7 cpu have 4 cores + hyperthreading which results in more threads spawned for processing thus you can get more exceptions because for example 4 things can be processed at the same time when exception occurs
+
+thumb, technology, intel, ---------------------------------------------------
+
+rule,thumb,count,threads,physical,cores,chip,logical,processors,technology,core
+the rule of thumb is that if a cpu is given more than double the count of actively running threads as it has execution units these are the physical cores on a cpu chip and logical processors like hyperthreading technology that splits one core into two then the os will spend more time scheduling threads and switching between them cache-thrashing than it will spend actually running the threads
+
+core,intel,physical,cores,logical,processors
+a quad core intel cpu s with hyperthreading enabled has 4 physical cores yet 8 logical processors hyperthreading creates 4 more logical processors
+
+others---------------------------------------------------
+
+new,core
+almost any new cpu has more than one core or if it has just one it might support hyperthreading and thus pretending it has more than one
+
+multi,statement,cycle
+hyperthreading and multi threading in general allows a cpu to execute more than one statement per cycle
+
+num_threads,programme,resources,best,rare,outlier
+i tried using schedule static num_threads 4 and noticed that my programme always completes in 11.5s to 11.7s always below 12s at about 320 cpu runs more consistently and uses less resources even if the best run is half a second slower than the rare outlier with hyperthreading
+
+reg,virtual,processors,things,multiple,cores,features,higher,layers,present,today
+vcpu reg are virtual cpu registers that exist on many processors that have things like multiple cores hyperthreading or other features that enable higher layers to believe that there is more than one cpu present when there isn t -- such as today s x86s
+

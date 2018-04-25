@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+suspect,direct,new,direct2d,apis
+i suspect that they re bypassing gdi and using something more direct like the new directwrite and or direct2d apis
+

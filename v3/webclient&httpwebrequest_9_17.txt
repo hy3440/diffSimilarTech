@@ -1,0 +1,61 @@
+slower, higher, milliseconds, ---------------------------------------------------
+
+order,milliseconds,slower
+using webclient is potentially slightly on the order of a few milliseconds slower than using httpwebrequest directly
+
+higher,class,slower
+because webclient is higher class of httpwebrequest and its slower
+
+level, lower, bit, ---------------------------------------------------
+
+httpwebresponse,little,bit,lower,level
+httpwebresponse and httpwebrequest are a little bit lower level than webclient
+
+response,lower,level,accomplish
+if httpwebrequest response are lower level then webclient what can i accomplish with httpwebrequest response that i cannot accomplish with webclient
+
+easier, control, powerful, ---------------------------------------------------
+
+easier,flexible,callback
+while webclient may appear to be easier to use than httpwebrequest it is less flexible and will automatically perform it s callback on the ui thread and if you re downloading files in the background you almost certainly don t want this
+
+easier,powerful,control
+webclient is easier but httpwebrequest is more powerful and allows for more control
+
+use, robust, keepalive, ---------------------------------------------------
+
+use,robust
+use httpwebrequest instead of webclient it s just more robust
+
+use,convenient,keepalive
+use httpwebrequest instead of webclient it s slightly less convenient but not by very much and set the keepalive property to false
+
+others---------------------------------------------------
+
+simpler,order,cookiecontainer,protected,getwebrequest
+you can also use webclient which is much simpler than httpwebrequest but in order to set a cookiecontainer you ll need to derive from webclient and override the protected getwebrequest method
+
+
+as far as i understood webclient inherits httpwebrequest providing more simply way to code
+
+reliable
+would using webclient be more reliable or is it the same as using httpwebrequest -something like below
+
+better
+so simply httpwebrequest is better option then webclient
+
+issue,httpwebresponse,reasonable,timeout
+if that is the issue you ll probably need to refactor to use the httpwebrequest and httpwebresponse classes instead on webclient and configure a more reasonable timeout
+
+class,idiomatic,hand,rolling
+also i think the webclient class is more idiomatic these days than hand rolling httpwebrequest
+
+simpler,interface,care,reading
+webclient has a much simpler interface than httpwebrequest and takes care of reading and writing from the streams for you
+
+mvc,limitations,options,fine
+i recently just finished a web app using asp.net mvc 4.0 and i ran into some limitations while using webclient instead i opted for httpwebrequest which gave me more options to fine tune my requests
+
+httpwebresponse
+i d rather use webclient because it requires less code than httpwebrequest httpwebresponse
+

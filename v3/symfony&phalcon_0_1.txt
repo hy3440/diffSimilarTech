@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+new,background,optional,foreign,keys,models
+i am new to phalcon and coming from more of symfony background i just need to know how define optional relationship between foreign keys in phalcon models
+

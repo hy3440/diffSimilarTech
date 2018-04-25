@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+cores
+armadillo doesn t prevent openblas from using more cores
+

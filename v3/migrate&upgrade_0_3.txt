@@ -1,0 +1,11 @@
+others---------------------------------------------------
+
+vsts,things,complicated,rtm,minimum
+however if you are looking to migrate to vsts things are much more complicated and you will need to upgrade to tfs 2017 rtm at a minimum
+
+env,rake,downgrade,smaller,last
+if you overwrite the env versioning the rake db migrate will go downgrade rather than upgrade if versioning is smaller than last known versioning in db schema so please check and avoid similar environment variable
+
+test,dummy,thing,leftover,data
+i did it an upgrade test on a dummy machine and when i get to the real thing i had to uninstall and remove all leftover db s tfs_configuration you can see migrate data from tfs 2008 to an already working tfs 2012
+

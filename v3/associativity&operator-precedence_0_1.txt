@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+higher,precedence,rules,account
+taking java s operator-precedence notably that + has higher precedence than and associativity rules into account the expression is equivalent to
+

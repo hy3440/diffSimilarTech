@@ -1,0 +1,47 @@
+integrated, f5, crappy, ---------------------------------------------------
+
+better,performance,able,f5
+while iis does give us better performance than cassini we would still like to be able to hit f5 to run our application from within visual studio
+
+iisexpress,better,full,use
+granted iisexpress is much better than cassini but if there is no reason to not use full iis then i conitnue to advocate it s use
+
+vista,better,crappy
+you are on vista iis got better 7 cassini stayed crappy
+
+better,integrated,pipeline
+cassini was much better than iis express but doesn t properly support the integrated pipeline
+
+faster, slower, ---------------------------------------------------
+
+faster
+i thought iis should be faster than or at least as fast as cassini
+
+slower
+what could be the reason that makes iis slower than cassini
+
+server, purpose, default, ---------------------------------------------------
+
+server,better,purpose,default
+from this question i found out that iis server is better than cassini for my purpose but i don t know how to check the default server of my website
+
+studio,server,slower
+for my webapp the integrated visual studio server cassini ist much slower than iis
+
+others---------------------------------------------------
+
+access,lighter
+iis express would only be used by people who don t have access to iis or want something that is lighter than iis but more like iis than cassini
+
+web,servers,older,implementations,newer
+by default the visual studio web servers cassini for older implementations iis express for newer implementations do not even bind to your network adapter s ip address instead only binding to localhost
+
+emulation
+cassini is not actually iis it is more of an emulation
+
+studio,sp1,upgrade,real,project,exception
+what i would suggest is to make sure you are using visual studio 2010 sp1 then install iis express which is an upgrade to cassini and is much more like real iis and then switch your project to use iis express and see if you get the same exception
+
+pleasant,experience,replacement
+perhaps you will have a more pleasant experience with iis 7.5 express as a replacement for cassini
+

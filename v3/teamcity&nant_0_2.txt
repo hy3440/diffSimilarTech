@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+source,approach,cruisecontrol,better
+if you are taking a more open source approach such as teamcity cruisecontrol then nant may be better
+
+email,appropriate,centralized
+you could use nant to send email but teamcity is more appropriate as it can provide a centralized place for notifications including emails
+

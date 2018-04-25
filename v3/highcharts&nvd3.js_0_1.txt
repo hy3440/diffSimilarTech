@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+robust,check,d3.js,top
+for something more robust check out highcharts or d3.js or something built on top of d3.js like nvd3.js
+

@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+greater,level,node.js,ecosystem
+this means that arangodb can offer a greater level of compatibility with the node.js ecosystem compared to orientdb
+

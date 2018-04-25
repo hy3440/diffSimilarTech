@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+android,version,limited
+bionic the android version of libc is more slightly more limited not by much
+
+standard,ndk,toolchain
+unless you particularly need to build against a more standard libc than bionic you can just use the ndk s toolchain either by copying the hello-jni example and changing build_shared_library to build_executable in the jni android.mk or using the script to generate a stand alone toolchain
+

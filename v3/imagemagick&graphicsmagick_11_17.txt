@@ -1,0 +1,55 @@
+end, s3, file, ---------------------------------------------------
+
+better
+for me graphicsmagick is performing far better than imagemagick
+
+fork,faster,fewer
+graphicsmagick is a fork of imagemagick that is faster and has fewer bugs this is what flickr uses internally so it should be good enough for you
+
+better,end
+after trying both and finding that imagemagick was better but in the end i choose neither and went with graphicsmagick instead
+
+faster,test,conversion
+graphicsmagick converted much faster than imagemagick although i did not test conversion with cuda processing
+
+faster,better,multitasking
+graphicsmagick also seems to be faster than imagemagick using better multitasking
+
+s3,process,faster
+the origin server would get the images from s3 process them using graphicsmagick since it s much faster than imagemagick then serve them
+
+better
+i do know imagemagick better than graphicsmagick
+
+fork,years,faster
+i keep hearing from some people that graphicsmagick a fork from quite a few years back that branched off from imagemagick is significantly faster than imagemagick
+
+16bit,8bit,speed,faster
+also changing your imagemagick install from a 16bit one to a 8bit may improve speed as i belive that is one reason graphicsmagick is faster
+
+faster,file,sizes,higher
+graphicsmagick is not that much faster -- and the outputted file sizes are significantly higher than imagemagick
+
+others---------------------------------------------------
+
+easier,anthony,thyssen,excellent,examples,capabilities,aside-processing,parentheses
+it would be somewhat easier with imagemagick than graphicsmagick as anthony thyssen has put together some excellent examples - but they rely on imagemagick capabilities such as aside-processing in parentheses which graphicsmagick lacks
+
+q8,slower,secs
+i successfully compiled graphicsmagick with q8 but after all it seems about 30 slower than imagemagick 0.3 secs
+
+leaner,meaner
+i thought graphicsmagick was supposed to be leaner meaner than imagemagick
+
+extensive,api,documentation
+graphicsmagick provides more extensive api documentation than imagemagick
+
+mmmm,developed,respects
+mmmm graphicsmagick is somewhat less developed than imagemagick in many respects
+
+pdf,inaccurate,colors,better,job
+for a pdf that imagemagick was giving inaccurate colors i found that graphicsmagick did a better job
+
+note,powerful,exactimage,fastest,folk,faster
+note that imagemagick is the most powerful exactimage is the fastest and graphicsmagick is a folk of imagemagick which is faster but a little less powerful and has some bugs
+

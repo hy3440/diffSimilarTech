@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+job,frameworks,slim,better,rest
+you can do a good job with php too but i suggest to use frameworks like silex slim or laravel that are better suited to put up a rest api which you will need if you want to use backbone
+

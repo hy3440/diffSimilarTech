@@ -1,0 +1,162 @@
+tricky, higher, testing, ---------------------------------------------------
+
+level,logic,slower,addition
+division is performed by repeated subtraction therefore needs more level of subtract logic making division slower than addition
+
+easy,addition,multiplication,random,tricky
+i found it fairly easy to generate addition subtraction and multiplication questions at random however division is more tricky
+
+grammar,multiplication,operations,lower,tree,addition
+notice that by making the rule for contain the rule for this grammar makes sure all multiplication division operations occur lower in the parse tree than any addition subtraction
+
+operations,faster,multiplication
+subtraction operations and usually significantly faster than multiplication and division
+
+operations,addition,harder,multiplication,slower,transistor
+for floating point operations addition and subtraction are harder than multiplication and division so they may be slower or not again it depends on how much transistor real estate there is dedicated to the fpu
+
+multiplication,higher,precedence,addition,extraneous,parentheses
+finally we all know that multiplication and division have higher precedence than addition and subtraction so we can remove the extraneous parentheses so this turns into
+
+addition,multiplication
+the addition and subtraction are much more than multiplication and division
+
+basics,multiplication,higher,addition,esoteric
+i know the basics division and multiplication higher than addition and subtraction but i would have to look up something more esoteric
+
+intuition,addition,faster,multiplication,correct
+the intuition would say addition subtraction are faster than multiplication division but is that really correct
+
+multiplication,modulo,precedence,addition
+multiplication division and modulo have the same precedence and they all have higher precedence than addition and subtraction
+
+multiplication,remainder,operators,higher,precedence
+remember multiplication division and remainder operators are all higher precedence than subtraction
+
+return,addition,multiplication,testing,easier
+it is also possible to manipulate the inputs so that various parts of the calculation return 0 for addition or subtraction or 1 for multiplication or division to make testing easier but this only gets me so far
+
+multiplication,slower,addition,c#,version
+i don t understand why the division multiplication in c++ is so much slower than addition subtraction where the managed c# version is more reasonable to my expectations
+
+operator,higher,precedence
+that s because the division operator has a higher precedence than the subtraction operator -
+
+multiplication,higher,precedence,addition,parentheses
+division multiplication has higher precedence than addition subtraction and parentheses is required to do addition subtraction before multiplication division
+
+operations,addition,faster,integer,multiplication
+typically operations like addition and subtraction are much faster in integer -- multiplication and division less so
+
+computers,addition,binary,arithmetic,simpler
+knuth writes that fibonacci search is preferable on some computers because it involves only addition and subtraction not division by 2. but almost all computers use binary arithmetic in which division by 2 is simpler than addition and subtraction
+
+multiplication,operators,higher,precedence,addition,scientific,notation
+multiplication and division operators have higher precedence than addition and subtraction in c++ same as in scientific notation
+
+multiplication,higher,priority,addition
+multiplication and division have higher priority than addition and subtraction
+
+operator,higher,precedence
+doesn t get evaluated the way you are expecting the division operator has higher precedence than the subtraction operator
+
+multiplication,higher,precedence,addition
+multiplication and division have a higher precedence than addition and subtraction
+
+precedence,addition,operators,multiplication,higher
+this is happening because the concatenation operator has a higher precedence than the addition or subtraction operators but multiplication and division have a higher precedence then concatenation
+
+multiplication,addition
+apart from that multiplication is addition done more than once and division is subtraction done more than once
+
+precedence,multiplication,greater,addition
+i don t think they have a natural precedence unlike say multiplication and division being of greater precedence than subtraction and addition because they can be built from subtraction and addition
+
+multiplication,precedence,sum
+indicates that multiplication and division have more precedence than sum and subtraction
+
+variation,multiplication,addition
+in general you ll have more variation with multiplication and division than with addition and subtraction
+
+integer,multiplication,modulo,slower,addition
+integer multiplication division and modulo are much slower than integer addition and subtraction
+
+multiplication,higher,precedence,addition
+to start with i need multiplication and division to take higher precedence than addition and subtraction
+
+rule,multiplication,precedence,addition
+nothing follows the rule of multiplication and division having more precedence over addition and subtraction
+
+single-precision,multiplication,longer,addition
+the term is apparently not an exact measurement as it is clear that a double-precision floating-point operation is going to take longer than a single-precision one and multiplication and division are going to take longer than addition and subtraction
+
+operator,higher,precedence
+because the division operator has higher precedence than subtraction
+
+higher,precedence,parenthesis
+in this case division has higher precedence than subtraction parenthesis around the division or not
+
+higher,precedence,addition
+division has a higher precedence than addition or subtraction so it s really this
+
+expensive,multiplication,powers,exponent,addition,range
+it will be much slower i don t have benchmarks but i would guess at least an order of magnitude maybe more decimal will not benefit from any hardware acceleration and arithmetic on it will require relatively expensive multiplication division by powers of 10 which is far more expensive than multiplication and dividion by powers of 2 to match the exponent before addition subtraction and to bring the exponent back into range after multiplication division
+
+root, optimization, cheaper, ---------------------------------------------------
+
+reduction,optimization,stronger,slower,expensive
+this is called a strength reduction optimization because division is stronger slower more expensive than subtraction
+
+operation,tighter,i.e,square,root
+the division operation binds tighter than i.e is evaluated ahead of the subtraction so you are taking a square root of a negative number
+
+reduction,operation,weaker,cheaper
+this is called a strength reduction operation because subtraction is a weaker and cheaper operation than division
+
+others---------------------------------------------------
+
+negative,numbers
+subtraction and maybe negative numbers and division are more complicated so i m omitting them for now
+
+math.exp,b,higher,precedence
+without parentheses math.exp c b is executed first as division has higher precedence than subtraction -
+
+higher,precedence
+division has higher precedence than subtraction
+
+similar,base,type,cross-products,faster,trickier,numbers,long,kid
+subtraction is similar using subtraction of the base type and borrow instead of carry multiplication can be done with repeated additions very slow or cross-products faster and division is trickier but can be done by shifting and subtraction of the numbers involved the long division you would have learned as a kid
+
+faster,method,result
+this is much faster than the division by repeated subtraction method since it converges to the result quadratically instead of linearly
+
+thinking,comparison,easier
+it may not be the most elegant method but when you just need to convert something ad-hoc thinking of it as comparison and subtraction may be easier than division
+
+higher,precedence,first,examples
+division has higher precedence than subtraction so in the first two examples only the second number is being divided
+
+greater,precedence,first,int,i.e,double
+in this since division has greater precedence than subtraction therefore x 10 will execute first and here we are dividing two int irrespective of the fact that the variable where final answer is stored is a double so answer will be an int i.e 5 10 0 and then subtraction of an int and double will be done here int will be promoted to a double
+
+test,platform,slower
+this platform is probably not representative of your microcontroller but the test shows that on this platform the subtraction is considerably slower than the division
+
+pencil,paper,base,efficient,gmp,better
+pencil and paper division in base 2 32 or 2 64 would be a lot more efficient than division by subtraction and i believe that gmp employs a better algorithm than that
+
+floating,point,faster,string
+a floating point subtraction should be faster than converting to a string and back which involves a lot of division
+
+performance,modulo,slower,operations
+i am a bit suspicious of the performance because modulo tends to use division which is slower than your subtraction operations
+
+addition,okay,types,point,arithmetic,brackets,immediate
+the addition and subtraction is okay because the types of a and b force them to be performed using floating point arithmetic - but because division binds more tightly than addition and subtraction it s like using the brackets above only the immediate operands are considered
+
+sort,calculator,multiplication,highest,time,addition,lower,priority
+put each token +- of final command string in a list maybe a binary tree works and sort that list to tell the calculator that division and multiplication has the highest priority in the mean time addition and subtraction has lower priority
+
+operator,higher,preference,first,example,brackets,place
+this is because division operator has higher preference than the subtraction operator - in the first example you use are not using brackets therefore division takes place first you can change your code to
+

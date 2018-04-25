@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+separate,icomparaer,approach,generic,additional,mixed,field,implementation
+using a separate icomparaer comparator approach is a more generic form of using a sortkey field with the additional ordering mixed into the comparator because such a field could be used by such a icomparer implementation
+

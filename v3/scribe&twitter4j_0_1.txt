@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+oauth,libraries,easier,oauth-signpost,realy
+i have an app that uses the public part of the twitter api the on who not requires to login but with the update the login is required so i need to implement oauth i ve seen there are libraries like twitter4j who makes this easier but my app has a lot of code and i don t wanna rewrite it not now so i ve think to use scribe or oauth-signpost but i dont realy know how to
+

@@ -1,0 +1,45 @@
+better, rsa, risk, ---------------------------------------------------
+
+rsa,private,shorter,operations,security,risk,smaller,length
+i must also add that designing the rsa key so that the private exponent is substantially shorter than the modulo to speed up operations is a security risk if the exponent is smaller than 29 of the modulo length then the key can be cracked
+
+private,public
+when i generate rsa key pairs by openssl it seems like private key private exponent is always less than public key modulo
+
+comments,private,smaller
+edit as gregs points out in the comments you cannot be sure that the private exponent of the key you want to encrypt is smaller than the modulo of the key you want to use to encrypt with
+
+public,better,half
+so no choice of the public exponent for this modulo is better than 19 using the public exponent to decrypt will work for at least half of the messages when eâ² 9 16 and in many cases for almost all the messages when eâ² 1 16
+
+rsa,private,shorter
+the rsa private exponent may actually be shorter than the modulo
+
+private,longer
+the private exponent must not be longer than the modulo
+
+note, value, lower, ---------------------------------------------------
+
+bit,private,large,number,lower
+1024 bit private exponent large number lower than the modulo
+
+private,smaller,able,raw
+the private exponent is always smaller than the modulo so you should be able to encrypt it using the raw rsa operation if you make sure to remove the prepended zero
+
+exponentiation,private,result,r,integer,smaller
+in rsa signing a message m means exponentiation with the private exponent d the result r is the smallest integer 0 and smaller than the modulo n so that
+
+note,private,value,bytes,smaller
+note that the private exponent is limited to value of the modulo but may sometimes be up to a few bytes smaller than the modulo
+
+others---------------------------------------------------
+
+keypair,nothing,common
+in the most simple way you can look at rsa one key of a keypair is nothing more than an exponent and a common modulo .
+
+wonder,errors,shorter,size
+little wonder you get errors the exponent is normally shorter than the modulo which is always the same size as the key size
+
+pow,function,value,faster,full,partial,products,decimal,digits,step,values,larger,size,example
+using the pow function and passing a modulo value is faster than computing the full exponent and then taking the modulo because the modulo can be applied to the partial products at each stage of the calculation which stops the value from getting too large 10 6 to the power of 10 6 has 6 million decimal digits with a modulo applied at each step the values never have to grow larger than the size of the modulo - about 13 digits in this example
+

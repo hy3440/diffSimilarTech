@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+haskell,ml,miranda,alice,twelf,coq,rigorous,applications
+haskell ml ocaml miranda alice oz erlang twelf coq prolog all demonstrate more rigorous applications of mathematics to programming
+

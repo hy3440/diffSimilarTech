@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+possible,linux,system,tools,newer,aix,better
+and i do as much work as possible on our linux centos 5 system simply because the tools on it are still newer than anything i can find readily packaged for aix solaris is somewhat better
+
+ip,aliasing,involved,easier,b,familiar
+i would give you more info except a ip aliasing on centos 7 is more involved than i like much easier on solaris and b i m not familiar at all with configuring nginx very easy on apache
+

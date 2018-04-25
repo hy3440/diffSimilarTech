@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+www.eloquera.com,better,licensing
+i think that eloquera www.eloquera.com is better than db4o and additionally has better licensing
+

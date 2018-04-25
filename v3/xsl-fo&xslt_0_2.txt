@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+easier,imo
+xslt + xsl-fo are then easier to handle imo
+
+c#,files,data-processing,data-transformation,html,pdf
+all in all t4 to me is more of a inside vs code-generation tool to quickly create c# or other files while xslt is more of a data-processing data-transformation tool to turn data from xml into another format typically html or pdf using xsl-fo
+

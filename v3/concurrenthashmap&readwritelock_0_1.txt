@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+concurrent,different,mapentries,concurrency
+the other question why not use a concurrenthashmap here since it will provide some concurrent writes to different mapentries and provide more concurrency than readwritelock
+

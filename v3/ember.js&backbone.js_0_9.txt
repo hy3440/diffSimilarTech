@@ -1,0 +1,29 @@
+others---------------------------------------------------
+
+mvvm,pattern,mvc,string
+on a side note if one is starting with a large scale javascript application at present using angular.js may be more suited than knockout.js if you prefer declarative approach dom attribute based data-binding and mvvm pattern and ember.js may be more suited than backbone.js if you prefer mvc and string based handlebars templates
+
+things,simpler
+ember.js would make things even simpler than backbone.js
+
+hand,new,package,complete,imo
+but on the other hand although new the ember.js package is actually more complete imo than backbone.js
+
+resources,internet,projects,fewer
+i checked a lot of resources on the internet on how to go about structuring ember.js projects but compared to backbone.js resources are fewer and the tutorials i do find do not provide an explicit answer
+
+heavy,weight,approach,contrast
+i already know that ember.js is a more heavy weight approach in contrast to backbone.js
+
+complexity,non-ember,flexibility
+the complexity with ember.js happens when you want to do something the non-ember way in which case backbone.js can allow for more flexibility
+
+larger,thanks,cache-control
+ember.js is larger than backbone.js but thanks to expires cache-control this only matters on the the first load
+
+ways,confusing,standard,important,prototyping,wealth,examples,available
+both give you the ability to implement things in a variety of ways which can be confusing but ember.js provides more of the code that you would have to write yourself in backbone.js as standard which for me personally is more important for rapid prototyping than the wealth of backbone.js examples available
+
+organization,knockout.js,magic,control
+there are many options for client-side mvc or mvvm code organization such as knockout.js and ember.js but personnally i prefer backbone.js which has less magic but offers more control
+

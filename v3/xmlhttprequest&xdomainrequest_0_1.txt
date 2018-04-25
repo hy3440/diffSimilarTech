@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+usage,events,onload
+the usage of xdomainrequest has been simplified from xmlhttprequest by having more events thrown with onload perhaps being the most important
+

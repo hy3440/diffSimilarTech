@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+html,better,markup,emails,letters,documentation,pdf
+is html better than odf as a templating markup for generating emails letters documentation for rtf pdf
+

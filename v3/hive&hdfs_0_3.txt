@@ -1,0 +1,11 @@
+others---------------------------------------------------
+
+impala,sql,hadoop
+you should see impala as sql on hdfs while hive is more sql on hadoop
+
+better,new,tables,files
+i know hive may perform better creating new rows from existing tables or from files saved in hdfs but i m trying to avoid this
+
+overhead,costly-,queries,hbase,slower,plain,files
+plus the overhead of doing it is extremely costly- hive queries against hbase are on my cluster at least an order of magnitude slower than against plain hdfs files
+

@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+cli,efficient,pinvoke
+pcap.net uses c++ cli to wrap winpcap which is considered more efficient than pinvoke
+

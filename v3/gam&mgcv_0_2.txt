@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+loess-based,smooths,package,wider,range
+if you want loess-based smooths in the gam try package gam but mgcv has a wider range of penalised regression splines and has a more modern approach to smoothness selection in the individual splines
+
+package,flexible
+i try to fit a gam using the gam package i know mgcv is more flexible but i need to use gam here
+

@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+stream,values,part,suitable
+if further stream will not be used to read values from it it s istream part won t be used ostringstream is more suitable
+

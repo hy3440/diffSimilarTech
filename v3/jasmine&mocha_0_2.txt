@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+answer
+update after the answer it seems as though mocha might work more easily than jasmine
+
+cucumber,yadda,flexible
+i liked cucumber and jasmine too but i think yadda and mocha are more flexible
+

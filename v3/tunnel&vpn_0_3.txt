@@ -1,0 +1,11 @@
+others---------------------------------------------------
+
+hand,secure,remote
+on the other hand the secure tunnel created in a vpn is far more secure than remote desktop
+
+data,nothing,computer,firewall,multiple,servers,cisco
+and between we are just looking to send and receive data over tunnel there is nothing more or need to control computer on the network all we need is to route data through corporate firewall and should support multiple vpn servers such as cisco microsoft etc
+
+network,end,openvpn,good,platforms,reverse,simpler,setup,everytime,access
+if you absolutely must connect to a database hosted on the cellular network end i would suggest you try setting up a vpn openvpn is a good product available on many platforms or using a reverse tunnel it s simpler but you will need to setup the reverse tunnel everytime you want to access remote database
+

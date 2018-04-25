@@ -1,0 +1,14 @@
+others---------------------------------------------------
+
+function,animation,efficient,.wrap,image,div
+ultimate function to also stop animation when mouseout maybe include more efficient coding using .wrap and perhaps pausing the image when mouseover image div
+
+note,better,tooltip,next
+note without the mouseout it works better but tooltip stays until next mouseover
+
+#id-ed,textarea,textareas,css,display
+the id specific hotspots show an area #id-ed textarea at mouseover and then hide the textareas at mouseout note the css display hidden was remarkably faster than hide
+
+time,image,caption,higher,lower
+every time you mouseover the image the caption keeps going higher and every time you mouseout it goes lower and lower
+

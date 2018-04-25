@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+prettier,compact,soto
+with library purrr you can have a prettier more compact form see soto s answer for an even more compact one with dplyr
+
+note,job,better,regular
+note that while you could use purrr for the job it s not particularly better suited than regular dplyr
+

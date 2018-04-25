@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+writer,w,useful,reusable,filereader,r
+for example public static void copy reader r writer w throws ioexception is more useful reusable than public static void copy filereader r filewriter w throws ioexception
+

@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+better,file,direct
+this option is better than simply copying the file as it allows you to overwrite an existing file but you still don t get direct access to the file s properties
+

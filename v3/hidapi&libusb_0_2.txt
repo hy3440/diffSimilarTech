@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+manager,apis,answer,nothing,wrapper
+so you can either use hid manager apis directly or you can use libusb or as the other answer mentions hidapi which are nothing more than wrapper libraries over hid manager apis
+
+controller,better,fit
+also if this controller is an hid the hidapi library might be a better fit than libusb
+

@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+command,line,needs,avrdude,complete,better
+opted to use arduino from command line because it suited my needs so far i know avrdude and avr-gcc is a more complete or better way to compile upload from command line correct me if i m wrong
+
+answer,assumptions,ide,closer
+edit my original answer made some assumptions that arduino ide was closer to avr-gcc than it actually was
+

@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+simpler,powerful
+though flot may be simpler d3.js is definitely more powerful
+

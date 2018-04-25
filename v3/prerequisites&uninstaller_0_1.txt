@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+welcome,screen,condition,failures
+if we try to uninstaller or repair it it would show the install welcome screen and if we go further it would end up with our install condition failures because required prerequisites software is no more there
+

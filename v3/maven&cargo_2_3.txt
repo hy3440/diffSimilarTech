@@ -1,0 +1,13 @@
+overkill, serious, better, ---------------------------------------------------
+
+better,builds,war,serious,overkill
+section 4.13 of better builds with maven describes using cargo to deploy a war specified using maven coordinates but that s serious overkill given that we re using jetty
+
+better,builds,war
+section 4.13 of better builds with maven describes using cargo to deploy a war specified using maven coordinates
+
+others---------------------------------------------------
+
+apache,general,tomcat,plugin
+you could also use apache cargo which is more general than the tomcat maven plugin
+

@@ -1,0 +1,37 @@
+multiple, alternative, use, ---------------------------------------------------
+
+mouseleave,work,better
+it should also be noted that mouseenter and mouseleave work somewhat differently and usually much better than mouseover and mouseout
+
+mouseleave,reliable
+imho mouseenter and mouseleave are much more reliable than mouseover and mouseout which tend to flicker
+
+events,multiple,better
+mouseover events can occur multiple times so mouseenter is a better option for this
+
+mouseleave,better,behaviour
+in this case mouseenter mouseleave has better behaviour and prevents bubbling compared to mouseover mouseout
+
+idea,mouseleave,better,alternative
+i have no idea about the classes but i think mouseenter and mouseleave are better alternative for mouseout and mouseover
+
+use,mouseleave
+because jquery doesn t use mouseover and mouseout it uses mouseenter and mouseleave which are more suited to this scenario
+
+mouseleave,reliable
+also you might want to use mouseenter and mouseleave which are sanitized by jquery and are a little more reliable than mouseover and mouseout
+
+mouseup,mousedown,mouseleave
+this may make for various race conditions and may necessitate using events which give you earlier notification than mouseup mousedown mouseenter mouseleave mouseover mouseout
+
+better,ones,.hover,method
+also instead of mouseover and mouseout use the better ones mouseenter and mouseleave or simply the .hover method
+
+others---------------------------------------------------
+
+event,better
+the mouseenter event is usually a better choice than mouseover
+
+slow,row,picture,faster,hope
+i have a problem with my code i already make a code with mouseover but it was very slow to display per row my picture edit so i read that mouseenter is faster i hope because i have normaly 2000 row
+

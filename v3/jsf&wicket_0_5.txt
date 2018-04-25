@@ -1,0 +1,17 @@
+others---------------------------------------------------
+
+elegant,solution,tapestry,container,powerful
+in my opinion this is a more elegant solution than jsf and i think tapestry s ioc container makes it more powerful than wicket
+
+easy,easier,components
+i would advise you to try wicket it is very easy to learn much easier than jsf and it let s you re-use many existing components as well
+
+test,prototypes,faster
+i m in the hate it part so anything i said is biased plus in our test prototypes developing in wicket was faster than jsf
+
+convenient,stateful,better,stateless
+while this is much less convenient than stateful wicket i still find much better than say stateless jsf or struts
+
+spring,component-based,tapestry
+and beware that in this area there are many much more alternatives or fragmentation than in .net some more oriented to the mvc pattern struts struts2 stripes spring mvc some more component-based jsf tapestry wicket and some others gwt
+

@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+able,easier
+if you re using googletest you may be able to use gmock to make this easier
+
+operation,tests,semantics,mocks,effort,approach,obvious
+i m almost sure you can t somehow automate it and this operation would require rethinking and recompositioning of your tests to follow the googletest semantics if you use something specialized to create your mocks then porting them to gmock would require even more effort simply because gmock s approach is not the obvious one and is actually complicated
+

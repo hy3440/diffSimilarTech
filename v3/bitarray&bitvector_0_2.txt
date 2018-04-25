@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+good,deal,better
+you will probably find that bitvector performs a good deal better than bitarray
+
+structure,efficient
+why is the bitvector 32 structure more efficient than bitarray
+

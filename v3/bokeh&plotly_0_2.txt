@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+issues,interactivity,better
+i can do this in bokeh but i have other issues regarding interactivity which plotly manages better
+
+standalone,htmls,easier
+bokeh allows standalone htmls but plotly will be an easier option for me
+

@@ -1,0 +1,193 @@
+space, value, values, ---------------------------------------------------
+
+array,size,space,variable
+would a boolean array of size 32 take more space than an int variable for example
+
+value,values
+it returns a boolean value true if the elements in the list contains at least one int and no more than six int whose values range between 1 and 6
+
+track,states,harder,easier
+i recommend using an int to keep track of states with more states boolean become harder to manage and it s easier to make mistakes
+
+value,bits,space
+it is saying this because using the int to store the value 32 bits is going to use less space than a boolean 256 as each allocated boolean will take up 8 bits 8 256 2048
+
+logic,objects,time,equivalence,false
+since the logic is the same i thought evaluating boolean objects takes more time than int equivalence true 1 and false 0 therefore i came up with the following benchmark and it turns out that i was correct
+
+example,efficient,relational,database
+one example where an int could be more efficient than a boolean would be in a relational database
+
+values,a.length,time,consuming,comparison
+however the second loop causes the additional task of casting each of the values between a.length and 0 to a boolean which is more time consuming than int comparison
+
+memory,heap
+int occupy more memory than boolean so the heap got corrupted
+
+space
+a boolean takes less space than an int
+
+instance,variable,value,space
+for instance will a variable that has a boolean value take up less space than one that has an int value
+
+values,64bit,matrix
+since your patterns are just 0 and 1 values you can think of them as numeric values long is a 64bit int which is more than enough which can be converted later to a boolean matrix
+
+byte,array,bytes,single,overhead,unused,bits,space
+to hold up to 16 boolean you could use a byte array with two bytes or a single int depending on whether the overhead of an array or the unused bits in the int take up more space
+
+16-bit,easier,false
+since a boolean is stored as a 16-bit int it is easier to toggle between true and false states by simply not ing all of the bits rather than only not ing the least significant of the bits
+
+efficient,value,existence
+i always assumed that boolean were more efficient than int at storing an on off value - considering that s their reason for existence
+
+value,false,meaning,equal
+in language where int that are not 0 represents the boolean value true and 0 false like c i will tend to use because it represents the same meaning as if int whereas represents more the int value being equal to 1 rather than the boolean true
+
+sets, strings, type-safe, ---------------------------------------------------
+
+type-safe,strings,sets
+they are much more type-safe than int strings or sets of boolean
+
+type-safe,strings,sets,flags
+they are much more type-safe than int strings or sets of boolean flags
+
+types, expressions, operands, ---------------------------------------------------
+
+objects,expressions,type,conversion,rank,equal,unsigned,smaller,types
+objects or expressions of an int type whose int conversion rank is less than or equal to the rank of int and unsigned int roughly speaking any smaller int type such as boolean or chars types
+
+types,narrower,expressions,operators,operands
+types narrower than int are widened to int in expressions anyway - so the boolean operators would still work on int operands
+
+values, value, type, ---------------------------------------------------
+
+double,array,value,position,part
+if a value in the double array is less than the int value at the same position of the two dimensional array then in that part of the boolean array the value would is true
+
+value,length,string,greater,sum,float
+if the boolean value is true and the length of the string is greater than the int value print the sum of the float and the int
+
+wider,type,number,flag,value,actual
+so the best approach here is either to use a wider type than int number or pass some flag boolean value to function as well as int to indicate actual value absence
+
+values,false,floor,higher,equal
+the boolean values will be true or false depending on whether the given floor int is higher or equal true to the values in somenumbers i or lower false
+
+type,values,numeric,better,b
+perhaps using int type if values are all numeric would work better than boolean for a and b
+
+number,trues,array,difficult,type,source
+but counting the number of trues in a boolean array is more difficult since the accumulated type int differs from the source type bool
+
+column,visibility,width,double,better
+the tablemodel column visibility boolean and column width int or double had better be somewhere in your model
+
+larger,system.int64,enumeration,class,bunch,values
+if you need more you will have to use a larger int system.int64 create more than one enumeration and chain them together or just create a class with a bunch of boolean values
+
+memory, effieicnt, vector, ---------------------------------------------------
+
+dataset,3-digit,simple,array,memory,effieicnt
+first off if your dataset only consists of 3-digit int then a simple array of 1000 boolean will be much more memory effieicnt than a map
+
+vector,unsigned,bitwise,operation,memory
+i m writing a program for a class where the basic problem is using a vector of unsigned int and bitwise operation to imitate a vector of boolean but use much less memory
+
+mask,arrays,memory,efficient,float
+the mask arrays boolean arrays being much more memory efficient than int or float arrays might bring about more performance boost
+
+able, error, method, ---------------------------------------------------
+
+method,error,able
+you can encode up to 32 boolean in an int as follows the method won t error on more than 32 boolean s but won t be able to unpack correctly
+
+operator,able,bool
+to be able to express what you were trying to do the operator would have to be able to do more than just boolean because right now your has a bool and int around it
+
+bytes, smaller, small, ---------------------------------------------------
+
+smaller,bytes,take
+int can be smaller than 8 bytes and boolean take 0 bytes
+
+small,version,smaller,pieces,bits,bytes
+a handy mnemonic is that the small version of the boolean and works on smaller pieces bits instead of bytes chars int etc
+
+others---------------------------------------------------
+
+data,entry,greater
+in the getvalue flag you convert the value of the flag route data entry to an int and then to a boolean depending if the int is greater than zero
+
+likely,better,performance,formula,engine
+a boolean would most likely not yield better performance than int since the excel formula engine is dynamically typed
+
+liberal,interpretation,context
+keep in mind however that following the robustness principle of be conservative in what you send liberal in what you accept the interpretation of int in the boolean context is somewhat more relaxed
+
+witch,lower
+any data type witch is lower than int except boolean is implicitly converts to int
+
+numbers,able,query,statements,search,arrays,faster
+if i convert these vectors into string with whitespace-separated numbers i would be able to use boolean query with should statements for this search but i think that using arrays of int should be faster
+
+flexibility,offer,limitation
+int allow more flexibility while boolean offer limitation and simplicity
+
+stores,nothing,bytes,special
+as for variables each variable is a reference and will take up 8 bytes of memory even if it stores nothing int will generally only take up 4 bytes and boolean are even more optimized but these are special cases
+
+first,checking,maxx
+what that code is doing is first checking if then casting the resulting boolean to an int will be 0 or 1 and finally checking if that int is less than maxx which it will always be
+
+meaningful
+boolean true is more meaningful than int or chars 1
+
+interchangeable,aliases,meaningful,bool,int32
+from the link which is mentioned in question my question is that microsoft says the c# type keywords and their aliases are interchangeable but why we need aliases from my point of view boolean is more meaningful then bool and int32 is more meaningful then int then why aliases
+
+invalid,cannot
+which is invalid as a boolean cannot be less than an int
+
+operation,longer,float
+so boolean operation is quite longer than for int or float
+
+examples,better,kinda
+also your examples about why int would be better than boolean are kinda flawed
+
+user,input,earlier
+side note number is my string that is the user s input and int is a boolean declared earlier in the code
+
+constant,arrays,array,indexing,longer,last
+but wait it s not really constant for boolean arrays and why does int array indexing take longer last case than boolean array indexing even if it has to process 5 times less elements
+
+easier,processor,fundamental,logic,operations
+no int are not easier on the processor the processor does fundamental boolean logic operations on bits
+
+sense,closer,one-bit,enums
+in that sense boolean are much closer to one-bit int than to enums
+
+byte,work,performance,consideration,faster
+accessing a byte boolean can be more work than accessing an int or long so if performance is the only consideration a int or long can be faster
+
+expressions,shorter
+i sometimes find that using boolean in int expressions make for shorter and simpler code
+
+version,faster
+the int version seems to execute much faster than the boolean one
+
+mindset,exception
+returning boolean or an int is more of a c mindset than a java in java you would just handle the exception one
+
+programming,languages,readability,supportability
+in high-level programming languages the choice between a boolean and an int is really more of code readability supportability than one of efficiency
+
+use,system,space,single,bit,implementation,native,word
+keep in mind that depending on the use and on the system using it while a boolean takes less space because it s just a single bit depending on the implementation an int is the native word size of the hardware
+
+data,types,bits,room,stream
+second other data types like int require more bits to represent so they are going to take up more room in the stream than boolean
+
+test,conversion
+notice that for the test is true and could give 1 the conversion of the true boolean to an int which is less than 10
+

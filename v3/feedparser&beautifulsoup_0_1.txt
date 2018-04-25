@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+better,rss
+you could use beautifulsoup - but feedparser is much better geared towards rss handing
+

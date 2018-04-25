@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+easy,benchmark,faster
+i had the same problem configuring apache until i gave up and change to hiawatha much more easy to configure and according some benchmark is faster than apache
+

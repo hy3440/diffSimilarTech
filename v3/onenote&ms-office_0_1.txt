@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+add-ins,platforms,uservoice
+if you would like to see onenote add-ins supported on more platforms i strongly suggest adding this to the ms-office uservoice
+

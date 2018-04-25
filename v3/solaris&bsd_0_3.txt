@@ -1,0 +1,11 @@
+others---------------------------------------------------
+
+solutions,kqueue,macosx,epoll,dev,poll,better,small
+and platform-specific solutions as kqueue bsd macosx epoll linux dev poll solaris are better if relatively small subset of all descriptors is ready on each cycle
+
+particular,servers,generic,unix,tools,welcome
+my case in particular is with solaris servers but generic unix bsd tools are more than welcome
+
+support,better
+bsd find and gnu find but not solaris find support better units than just c for characters bytes
+

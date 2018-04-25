@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+rtsp,unicast,sender,reports,streaming,multicast
+the strange thing is that when streaming is done via rtsp unicast rtcp generates both sender reports and receiver reports but when streaming is done via rtp multicast only sender reports are generated
+
+profile,timing,feedback
+the f indicates an rtp profile where the timing of rtcp feedback is more relaxed
+

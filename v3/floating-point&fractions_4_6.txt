@@ -1,0 +1,22 @@
+int, single, integer, ---------------------------------------------------
+
+single,precision,format,23-bits,int,type
+therefore ieee 754 single precision floating-point format has 23-bits fractions and int type has 32 bits so if the integer is larger than 2 24-1 the float type can t represent it exactly
+
+format,n-bit,integer,larger
+a floating-point format with a n-bit fractions can t represent the integer which is larger than 2 n+1 -1 because it will lose the precision
+
+others---------------------------------------------------
+
+digits,dot,decimal,representation,numbers,binary
+all other fractions floats have more digits after the dot when expressed in decimal because the representation of floating-point numbers is binary not decimal
+
+division,high,exact,decimal,float,type
+so it seems that python s floating-point division is internally done with high enough precision to know that 1 0.05 that s the float literal 0.05 not the exact decimal fractions 0.05 is actually less than 20 but the float type in itself is incapable of representing the difference
+
+numbers,digits
+the floating-point numbers are rounded to have not more than eight fractions digits
+
+values,realistic,new
+and using floating-point values is more realistic - you need fractions values because when you rotate something the new coordinates will nearly always be non integral
+

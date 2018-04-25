@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+nice,straightforward,signature,uses,factory,functions,complicated
+the simplest thing is probably to define b with a nice straightforward initializer with the same signature as a uses and then additional factory functions defined as class-method to do the more complicated scenarios
+
+static,cleaner,redundant,objects
+static class-method often allow cleaner code and save you from initializer redundant objects
+

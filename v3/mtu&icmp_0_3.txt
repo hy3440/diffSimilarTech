@@ -1,0 +1,11 @@
+others---------------------------------------------------
+
+larger,df,set,error,message
+anything sent larger than the mtu with df set will result in an icmp error message being generated
+
+disabled,router,size,greater,fragments
+what happen when icmp is disabled in an router and when packet size greater than mtu how the router fragments that packet
+
+sender,receiver,smaller,packet,packets,destination,unreachable,message,device
+any device in the path of communication between the sender and receiver whose mtu is smaller than the packet will drop such packets and reply the sender with icmp destination unreachable datagram too big message containing the device s mtu
+

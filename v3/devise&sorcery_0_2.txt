@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+lightweight,obscure
+check out sorcery it s more lightweight and less obscure than devise
+
+easy,gem,easier
+it s easy to use a gem for this such as devise which does a lot or sorcery which does less so may be easier to understand and alter as you like
+

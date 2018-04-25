@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+ideas,matshow,end,use,figure
+any ideas what might be causing this how i could fix it or how i could get around it to use matshow or imshow on a specified subplot the end use case is to have more than 1 subplot in the figure
+

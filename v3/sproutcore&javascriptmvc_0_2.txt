@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+apple,popular,green,website,professional,momentum
+i know sproutcore is backed by apple and looks like it is getting more popular by the day and it has a nice green website whereas javascriptmvc looks less professional with less of a following and less momentum behind it
+
+overkill,mvc,framework,heavyweight,trimpath,junction
+it s probably overkill for what you need but sproutcore is an mvc framework and it doesn t look any more heavyweight than javascriptmvc or trimpath s junction
+

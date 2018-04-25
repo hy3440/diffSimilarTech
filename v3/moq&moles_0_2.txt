@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+better,unmockable,combination,interfaces,framework,externalities
+personally i think moles is much better suited for mocking the unmockable and i prefer a combination of moq for my own interfaces and classes and moq for framework and externalities like file i o gui db connections etc
+
+typemock,set,facilities,rhinomocks,sweet
+moles is more often compared contrasted to typemock in that it offers a set of facilities outside of moq and or rhinomocks sweet spot
+

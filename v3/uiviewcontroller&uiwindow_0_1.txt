@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+applicationâ,changes,orientation
+if more than one uiviewcontroller hangs off the applicationâ s uiwindow only one of these will get the messages for changes in orientation
+

@@ -1,0 +1,286 @@
+page, setting, iframed, ---------------------------------------------------
+
+work,setting,iframed,page
+safari and opera work with the google-chrome setting but firefox and ie display the iframed page larger than google-chrome causing part of the text to be cut off
+
+performant,page,unusable
+ie is less performant than safari google-chrome and firefox when it comes to js - but have you really developed a page that is unusable in ie with js turned on
+
+faster, slower, execution, ---------------------------------------------------
+
+slower,object,property
+on safari everything is slower than on firefox still the object property access is more than two times faster
+
+windows,version,fine,little,slower
+incidentally the scrolling on the windows version of safari is fine albeit a little slower than ie opera and firefox
+
+diff1,faster
+conclusion diff1 is faster in firefox opera and safari diff2 is faster in ie and google-chrome
+
+surprise,faster,bunch
+to my surprise firefox 6 and safari 5 are faster just adding a bunch of strings together than using .join
+
+mac,faster,pc,newer
+google-chrome or safari on a mac could be much faster than firefox on a pc especially with newer apis
+
+dom,level,faster
+in safari we found that the dom level 0 took twice the time off the dom level 2 but was still four times faster than either firefox case
+
+faster,execution
+firefox google-chrome safari all have prioritized faster javascript execution in recent versions whereas ie may show performance in ie9 i hope they do myself. also realize this slideshow will run slow in mobile devices etc
+
+slower,response
+fast clicking on ie has slower response than firefox google-chrome and safari
+
+faster,70x,known
+this makes firefox 50x faster than google-chrome and 70x faster than safari is there any known reason for that
+
+faster,tracemonky,win,xp
+safari 4.0.3 was 2.5x faster than tracemonky in firefox 3.5.3 on win xp
+
+demo,faster,slower
+when i try the demo in google-chrome or safari it is indeed much faster but when i ve tested it in firefox it s consistently slower
+
+background, filter, wider, ---------------------------------------------------
+
+background,menu,wider
+in safari the background of my menu navigation drop-down menu s is much wider than in google-chrome firefox
+
+background,brighter,filter
+firefox renders the video correctly and it matches the background and in safari it s always brighter whether you add the filter or not
+
+explorer, internet, strict, ---------------------------------------------------
+
+issue,strict,implementation
+also i m guessing that firefox ignores this issue and just and compensates for it while safari may be more strict in its implementation of the code so it doesn t compensate
+
+internet,explorer,strict,security
+it seems that google-chrome internet explorer or safari are more strict than firefox on terms of security
+
+issue,auto-updating
+with firefox google-chrome and safari it s less of an issue because those started auto-updating years ago and more than two years ago they stopped blocking methods other than get and post
+
+font,good,internet,explorer,mozilla,darker
+i am using franklin gothic font for website and font looks good on google-chrome and safari but on internet explorer and mozilla firefox it looks darker
+
+internet,explorer,better,options
+firefox internet explorer and safari have better options though
+
+font,sharp,ie8,good,fuzzy
+font looks sharp in google-chrome safari ie8 not as good as other 2 but less fuzzy than firefox
+
+browsers, better, closer, ---------------------------------------------------
+
+closer,proper
+therefore code should be written and tested around firefox google-chrome safari which are much closer to proper standards support than ie8 then conditional tags should be used in ie to work around its bugs
+
+ie7,browsers,better,rendering
+secondly the browsers above ie7 and other browsers like firefox google-chrome and safari have a better rendering engine and intuitively handle buggy markup
+
+test,problems
+please especially test on safari because it has some more problems than firefox and google-chrome
+
+better,error,message
+safari behaves better than firefox but an error message â œone error in opening the pageâ â shows up in the status bar if you remove the iframe during the load event
+
+css,go,better
+whether you use a plugin or write your own code css only is a no go for google-chrome safari and as you said firefox is better at dealing with it
+
+closer,bottom
+in ie and firefox fullscreen_block appears closer to the bottom than in safari and google-chrome
+
+better,web,development
+firefox is just better for web development and i prefer safari overall
+
+major,browsers,better,container
+it s way faster on ie but other major browsers firefox google-chrome safari and opera perform better when using a container and then appending it fragment or div
+
+similar,permission,error,reproducible
+this does not seem to occur in safari or ie and a similar permission error occurs sometimes in firefox but is reproducible more often than not in google-chrome
+
+exponential,rate,better
+after that ie slows down at exponential rate when firefox google-chrome and safari are doing much better
+
+webkit-based,browsers,closer
+all the webkit-based browsers safari google-chrome and opera should be closer in their rendering to each other than firefox or ie 9 separately
+
+problems,browsers
+now i recognized that safari make more problems then the other browsers like google-chrome or firefox
+
+beta,trial,conversion,better
+the service is still in beta trial and firefox conversion is working better than safari one
+
+webkit-based,browsers,testing
+if you are trying to support all users on all browsers then you will certainly need to do testing on those browsers although actively developing on those browsers may not be necessary whereas if you only need to support webkit-based browsers google-chrome safari or webkit-based browsers and firefox that is less testing that you need to do
+
+paint,scroll,worse,better
+i planned on using svgs for the entire site but with only 20-30 svg images of medium to high complexity used in the page and google-chrome already seems to be showing som jank and high paint times for scroll and firefox is even worse though safari seems to do a lot better
+
+resolution, positioning, bigger, ---------------------------------------------------
+
+width,document,smaller,example,screen,resolution,reports
+while the rest of the browsers report the correct width of the document firefox reports a smaller one example at screen resolution of 1920x1080 ie google-chrome and safari reports 1920 while firefox reports 1903
+
+products,contact,1px,margin,bigger
+that i gave to every link in the set of links home about us products contact and it seems that firefox is making that 1px margin much bigger than safari or google-chrome and distorting it
+
+fiddle,positioning,background,image,lower
+open up the fiddle in both firefox google-chrome to see what i m talking about - in firefox the positioning of the background image is much lower than in google-chrome safari
+
+footer,link,text,larger,margins,icons
+this is because in ie and firefox the footer link text is larger than in google-chrome and safari therefore the margins that i ve set up for the icons do not work
+
+lower, greater, pixels, ---------------------------------------------------
+
+greater
+so to specify firefox greater than 20 safari greater than 9.1 and ie greater than 9
+
+several,pixels,higher,lower
+in safari it is several pixels higher up than in firefox and google-chrome and significantly lower in opera
+
+lower
+in firefox it seems that this is 1px lower than in google-chrome and safari
+
+text, middle, space, ---------------------------------------------------
+
+right,text,middle
+to me it looks like safari gets it more right than firefox text is generally more around a middle line
+
+space,text
+it displays ok in google-chrome and safari but in firefox it has more space between the text and the bottom border than between the text and the top border
+
+great, worse, better, ---------------------------------------------------
+
+better
+firefox google-chrome opera and safari all handle it better
+
+great,worse
+it works great in google-chrome and safari haven t tested ie but i m sure it s somehow worse than firefox
+
+fine, assitional, links, ---------------------------------------------------
+
+pc,fine,ie,links,picture,urls
+pc google-chrome and safari are fine ie shows the links like in the picture firefox shows more revealed urls
+
+fine,assitional,css,settings,ribbon,div,higher
+now this works fine in google-chrome and safari and i have had to use assitional css settings for firefox but ie and opera both display my ribbon div about 25px higher than in google-chrome or safari
+
+others---------------------------------------------------
+
+table,border-radius,padding,default
+let s say you wanted a table border-radius of 50 on google-chrome and safari but firefox is adding more padding by default so you d like to tone it down for that browser alone to 45
+
+children,vs,sec,seconds,second
+for example try hiding a dom of of 200+ children in google-chrome vs safari vs firefox you will notice google-chrome takes 20+ sec safari takes 5+ seconds firefox takes less than 1 second
+
+website,www.suezre.com,figcaption,pictures,good,space
+i had created the website www.suezre.com and when viewed in google-chrome or firefox figcaption on the pictures looks good but on safari it takes much more space
+
+memory
+firefox allocates lots of memory during that preloading up to 20-30 times more than google-chrome or safari do and even twice as much as ie
+
+discrepancy,text,element,taller,slight,amount,whitespace,top
+i saw that the discrepancy was because in safari the text element is taller than in firefox and includes a slight amount of whitespace on top that doesn t show up in firefox in firefox the top of the text element is exactly when the text starts
+
+cleaner,memory,complete,hash,tricks,cause,large,array
+but do keep in mind you re optimizing for a particular js engine when you re doing that v8-optimized code might generate cleaner memory in google-chrome and safari but for all you know ie might make a complete hash of things or some of the tricks you ve used cause firefox to slow down more than a fairly large array would have done in the first place
+
+right,thing,0px,closer,standard
+it looks like while google-chrome and safari are trying to do the right thing with 0px firefox is sticking closer to the standard
+
+property,element,webkit,things,center,standards,compliant
+the center align property must be cascading from some other element because it s not only safari google-chrome which also uses webkit but also opera that shows the things center aligned and both safari google-chrome and opera are more standards compliant than ie and even firefox
+
+user,space,etc..,smaller
+i d support both ie still has a big chunk of the user space with firefox and others opera safari etc.. occupying a smaller percentage of the browser market
+
+current,use,macos,anti-alisaing,new,feature
+in particular a font may be rendered quite differently between the various browsers and operating systems in current use - safari and macos use more anti-alisaing than firefox or ie but ie9 has a new feature called cleartype which also affects font rendering
+
+attribute,webkit,info,caniuse.com
+firefox recognizes this attribute but webkit google-chrome safari etc don t more info on caniuse.com
+
+svg,content
+is it possible to adjust rendering of svg content on safari and google-chrome to resemble more firefox rendering
+
+recent,version
+it worked perfectly with google-chrome but safari 5 and firefox implement a more recent version of the websocket protocol and cramp does not so i couldn t get it to work there
+
+cells
+this happens in firefox and also in google-chrome cells shrink less in google-chrome but not in safari
+
+individual,paths,gecko,webkit,browsers,better,job
+fwiw i was able to solve my problem with greensock using tweenmax to animate individual paths inside and this worked in firefox gecko and webkit browsers safari google-chrome it does a better job of calculating the origin not exactly sure how but it worked for me
+
+geolocation,iphone,os,result,interesting,accurate
+i just tested geolocation on firefox 3.6 and iphone safari os 3.1.3 the result is interesting firefox is more accurate than safari
+
+time
+in firefox it takes some more time compared to google-chrome safari
+
+common,related
+firefox for example has a lot in common with google-chrome and safari and google-chrome and safari are even more so closely related
+
+older,ie11,esr,ios,konqueror
+the downside is that you cannot use it for browsers older than ie11 firefox 31 esr safari 7.1 ios 7 konqueror all versions and opera all versions
+
+sloppy,forgiving
+but i haven t yet figured out whether it s me writing sloppy code with firefox perhaps being more forgiving than safari or if it s safari or if it s jquery
+
+blue,bar,matches,smaller
+the height of the blue bar in safari and google-chrome matches but in firefox it is smaller
+
+opinion,top,market,pc
+in my opinion you re already testing far over the top - ie firefox google-chrome safari already corner more than 99 of the market in pc mac form
+
+older,safe,insertadjacenthtml
+well unless you re targeting older than google-chrome 1.0 firefox 8.0 ie 4.0 opera 7.0 or safari 4.0 it s safe to use insertadjacenthtml
+
+browsers,values,reporting,order,numbers,platforms,long,run
+i ve been trying to sum up values over a swipe and see how different browsers report values and they vary a lot with safari reporting order of magnitude bigger numbers on almost all platforms google-chrome reporting quite more like 3 times more than firefox firefox being balanced on the long run but quite different among platforms on small movements on ubuntu gnome nearly only +3 or -3 seems like it sums up smaller events and then send a big +3
+
+third,problematic
+third in my experience going from safari to firefox is usually less problematic than the other way around
+
+cookies
+not really any more than safari having cookies and firefox having cookies are somehow tied
+
+coverage,market,half,huge,strong
+in any case vorbis clearly has the most coverage google-chrome has more of the market than safari now opera is about half of safari and obviously firefox is huge and it doesn t really have the strong opposition that theora has
+
+table,link,edge,compatible,babel
+the compatibility table link shows google-chrome firefox edge and safari are more compatible than babel now
+
+proprietary,extensions,myopic,hard,time,visitors,site,range,devices,broader
+using proprietary extensions from firefox is almost as myopic -- you ll have a hard time convincing all visitors to switch to firefox for your site from ie safari or whatever else they prefer and although the range of devices on which you can install firefox is broader than those on which you can install ie you re still cutting off devices such as iphones and android a segment of the market that s growing much faster than traditional pcs
+
+support,ie10+,flexie
+the only thing is that flexbox is not supported by older browser support by ie10+ google-chrome 20+ safari 3.1+ firefox 2+ read more about support so i probably would need to add the flexie polyfill to support this on older browser
+
+strict
+it seems that ie and firefox are less strict than safari
+
+works,weirdish,blur,hover,smaller,ends
+works in google-chrome firefox a bit weirdish blur effect on hover opera ends look smaller safari ends look smaller
+
+brighter
+in safari it renders significantly brighter than in firefox or google-chrome
+
+likely,straightaway,family,resemblance
+so if something works on safari it s more likely to work straightaway on google-chrome more than it is on firefox - but that s just a family resemblance at the end of the day you ll still have to test each as every webkit browser product and version still uses a different version of webkit
+
+apple,cross,domain,restrictions,files,strict,middle
+apple s safari applies almost no cross domain restrictions to files opened locally but firefox is much more strict about what it permits with google-chrome somewhere in the middle
+
+main.js,main.v8.js,main.nitro.js,main.gecko.js
+i also have .js files being redirected to javascript engines as well for main.js in google-chrome it tries main.v8.js in safari main.nitro.js in firefox main.gecko.js
+
+use,network,development,cross,origin,tool,detailed
+use firefox network in development tools and check your requests sometimes it just sends options request in cross origin i insist on firefox because it s network tool is much more detailed than google-chrome and safari
+
+small,smaller
+small in firefox is smaller then small in safari so never ever use them
+
+stronger,html5
+firefox 4+ and safari 5+ have much stronger html5 support and don t require the above css.
+

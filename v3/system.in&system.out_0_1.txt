@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+mock,fewer,bytes,next,call,approach,use
+you could try to more accurately mock system.in by returning fewer bytes but not indicating the end of the stream until the next call to system.out is detected or change approach and use runtime.exec to spawn a new jvm and capture all output from that process
+

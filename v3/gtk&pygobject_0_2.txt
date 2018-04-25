@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+python-mpdor,pygtk,newer
+it looks like python-mpdor is using gtk 2 which would be pygtk as opposed to newer gtk 3 which is pygobject
+
+use,earlier,old
+to avoid this use pygobject build earlier than 2.90.1 if your gtk is old
+

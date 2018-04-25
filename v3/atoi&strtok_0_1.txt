@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+strtol,better,time,returns,null
+for instance strtol is better than atoi and you should be checking each time whether strtok returns null
+

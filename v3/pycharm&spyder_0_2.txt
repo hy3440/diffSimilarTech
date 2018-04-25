@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+prototype,console
+nevertheless in many occasions i just want to prototype something fast and would like the console in pycharm to behave more like spyder s
+
+auto-complete,feature,slower
+i like the auto-complete feature of pycharm but from my experience it is slower than spyder
+

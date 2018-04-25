@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+class,methods,animations,limited
+the uiview class methods are convenience methods for common animations but are more limited than catransition
+

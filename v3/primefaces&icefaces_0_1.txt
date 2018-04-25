@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+research,richfaces,better,applications
+i did my part of the research and found out that either richfaces or primefaces would be better but most of my applications were developed using icefaces
+

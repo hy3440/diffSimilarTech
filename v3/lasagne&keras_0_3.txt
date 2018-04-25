@@ -1,0 +1,11 @@
+others---------------------------------------------------
+
+correct,better
+if everything is correct why keras perform so much better than lasagne
+
+result,comparison,worse
+as a result of this comparison i see that lasagne is performing so much worse than keras that i m starting to doubt about my code
+
+similar,spirit,high-level,api,main,difference,backend,theano
+it is similar in spirit to keras which is built as a high-level api on top of theano tensorflow cntk although the main difference is that lasagne implements only one backend allowing it to integrate more deeply with theano features
+

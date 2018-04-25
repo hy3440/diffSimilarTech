@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+plain,basic,flexible,nb
+to draw you can use either plain gdk which is more basic or use cairo which is more flexible drawing library nb
+

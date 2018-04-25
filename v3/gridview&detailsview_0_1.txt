@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+form,upper,details,screenshot,personal,data,lower,second
+at the bottom there s a partial code of a form i m trying to build it has only the upper gridview and details view for now but you can see my problem in the screenshot i took the erased row has personal data the gridview and the detailsview drops lower then the second centered subtitle
+

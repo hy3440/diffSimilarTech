@@ -1,0 +1,16 @@
+compressive, codec, likely, ---------------------------------------------------
+
+likely,compressive,codec,mp3
+it is likely that wav is using a more compressive codec such as mp3 or ogg internally
+
+engine,audio,mp3,flac,mod
+it is a high level 2d and 3d cross platform windows mac os x linux sound engine and audio library which plays wav mp3 ogg flac mod xm it s3m and more file formats and is usable in c++ and all .net languages c# visualbasic.net etc
+
+others---------------------------------------------------
+
+slower,bigger,size,opus
+it is even slower since i could only upload wav which is way bigger in size compared with ogg and opus
+
+better
+but better ogg than wav
+

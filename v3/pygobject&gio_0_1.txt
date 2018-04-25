@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+nothing,thin,glue,gobject
+pygobject is nothing more than a thin layer of glue making gobject gio .
+

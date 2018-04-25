@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+system,copying,older,file,newer,mtime
+on a posix system copying over an older file would result in ctime being newer even if mtime is older
+

@@ -1,0 +1,10 @@
+ass, options, features, ---------------------------------------------------
+
+simpler,ass,features,force_style,filter
+srt is simpler than ass but lacks features so you may need to use the force_style option in the subtitle filter
+
+formatting,options,simpler,format,force_style,filter
+ass supports more formatting options but srt is a simpler format and can be modified with the force_style option in the subtitle filter
+
+others---------------------------------------------------
+

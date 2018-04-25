@@ -1,0 +1,19 @@
+base, 64bit, floating-point, ---------------------------------------------------
+
+useful,precision,64bit,floating-point,number,digits
+the third line displays the data with the maximum useful precision - an ieee 754 64bit floating-point number has slightly less than 16 decimal digits of precision so all those digits of the literal in math.h are pointless perhaps they can be seen as future-proofing against a possible future redefinition in a format with more precision
+
+representable,value,binary32,base,number,binary
+the maximum representable value with ieee 754-2008 binary32 is so the base 2 log of a number stored in binary 32 is less than decimal 128
+
+others---------------------------------------------------
+
+point,definition,complex
+double has its ieee floating point definition which is also much more complex than decimal
+
+r,values,place,numbers
+i understand the ieee rounding in r for values that are to one decimal place ie 0.5 becomes 0 1.5 becomes 2 but what about numbers that are to more than one decimal place
+
+types,libraries,cost,slower,point
+decimal types libraries are fantastic for financial applications because we re used to dealing with the style of rounding required in financial stuff but there is the cost that they tend to be slower than ieee floating point
+

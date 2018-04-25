@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+mean,homoiconic
+aside does this mean rebol is more homoiconic than lisp
+

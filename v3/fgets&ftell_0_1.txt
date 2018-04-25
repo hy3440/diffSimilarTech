@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+input,file,reliable,current,size
+reading lines from the input file with fgets would be more reliable than your current method you cannot reliably compute the file size with ftell
+

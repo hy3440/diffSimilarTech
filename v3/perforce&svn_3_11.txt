@@ -1,0 +1,37 @@
+tortoise, checkout, git, ---------------------------------------------------
+
+tortoise-,git,merge,tools,better
+the tortoise- svn git merge tools or that of perforce are way better here
+
+faster,check-outs,server
+perforce is soooo much faster than svn because all the check-outs are stored on the server so it doesn t have to check every file on an update
+
+better,network,server,checkout
+svn works much better when disconnected from the network - with perforce you have to tell the server when you ve done a checkout
+
+others---------------------------------------------------
+
+ericgorr,right,nicer
+if you have the money ericgorr is right perforce is much nicer to work with then svn
+
+easier,intuitive
+if anything i find working with svn easier and more intuitive than perforce
+
+cvs,bamboo,users
+since perforce is less commonly used compared to cvs svn amongst bamboo users we generally get less feedback about it and hear less about existing issues
+
+support,oses,devs,comfortable
+perforce does have support for many other oses but our non-windows devs feel more comfortable with svn too
+
+advanced,capabilities
+perforce offers more advanced branching and merging capabilities than svn
+
+scm,clearcase,maven,integration,community,examples,git
+if you want to a little bit further you can imagine use more powerfull scm clearcase perforce ... but maven integration is fewer not well documented and community provide less examples than svn or git
+
+faster,scalable,commercial,product,rational,clearcase
+and if you just want something faster or more scalable than svn then just buy a commercial product - i ve used both perforce and rational clearcase and they scale up to huge projects without any problems
+
+great,git,free
+while perforce is great svn git are more than ok free and widely supported
+

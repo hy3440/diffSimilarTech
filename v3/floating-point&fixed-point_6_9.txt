@@ -1,0 +1,33 @@
+accuracy, matlab, arithmetic, ---------------------------------------------------
+
+matlab,arithmetic,precision,ieee,types
+it s not necessarily true that the matlab fixed-point arithmetic provides less precision it can be used to provide more precision than ieee floating-point types
+
+integer,accuracy,arithmetic
+if you need more than integer accuracy but want to avoid floating-point consider using fixed-point arithmetic instead
+
+program,faster,integer,arithmetic
+but another added benefit of this approach is that it could make your program run faster since fixed-point integer arithmetic is much faster than floating-point arithmetic
+
+exponents, addition, exact, ---------------------------------------------------
+
+addition,exact,overflow,multiplication
+addition happens to be exact in fixed-point as long as it does not overflow but fixed-point multiplication is no more exact than floating-point multiplication
+
+exact,number,exponents
+fixed-point can be much more exact than floating-point as long as the number s exponents remain in range
+
+others---------------------------------------------------
+
+calculations,expensive,time-wise,popular,microcontrollers
+floating-point calculations are more expensive time-wise than fixed-point which is why fixed-point remains popular in microcontrollers and embedded systems
+
+better,arm,arithmetic,faster,implementations
+armv7 is usually better but for arm fixed-point arithmetic is usually a lot faster than floating-point implementations
+
+0-,lt,fl,compare
+0- less than floating-point less than lt fl for fixed-point compare
+
+anthony,williams,maths,complete,type,faster,target
+anthony williams fixed-point maths library provides a complete analogue of the standard maths library for a fixed data type that is typically around 5 times faster than software floating-point on the same target
+

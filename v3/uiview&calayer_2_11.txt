@@ -1,0 +1,37 @@
+worse, better, performance, ---------------------------------------------------
+
+worse,performance
+i noticed calayer had worse performance than uiview
+
+better,performance
+is calayer better than uiview in terms of performance
+
+others---------------------------------------------------
+
+fancy,wrapper,uiresponder,events
+a uiview is no more than a fancy wrapper for a calayer â bringing uiresponder events animation conveniences among many other things
+
+delegate
+this does not work because the uiview you are subclassing i assume it is a uiview already is the delegate of its own calayer it cannot be the delegate of more than one calayer at once
+
+possible,functionality,layers,lower-level
+this is possible because calayer s expose more drawing functionality than uiview s doâ layers are lower-level than views and designed explicitly for the purpose of highly-configurable drawing within the layout and like many things in cocoa are designed to be used flexibly as a parent class or as a delegator or as a bridge to other drawing systems or just on their own
+
+smaller
+i want to add a calayer inside an uiview and this calayer will be smaller than the uiview
+
+view,larger,lighter,frame,myview
+this is better than using a second view a bit larger as a calayer is lighter than a uiview and you don t have do modify the frame of myview which is good for instance if myview is a uiimageview
+
+corresponding
+in fact each uiview has even more than 1 corresponding calayer
+
+documentation,lighter,hundreds
+i am using calayer s because as suggested in documentation calayer s are lighter than uiview and i have hundreds of them
+
+controller,multiple
+does that mean the the view controller has multiple uiview or that the uiview has more than one calayer
+
+wrapper
+a uiview is no more than a wrapper for an underlying calayer
+

@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+game,c#,ability,null-object,bullet-class,link,new
+i try to make shooter game on c# with sfml.net but i can t imagine how to make an ability to shoot more than 1 bullet because now i have just one null-object of bullet-class and when player presses space key this object gets link to the new bullet
+

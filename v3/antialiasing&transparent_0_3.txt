@@ -1,0 +1,11 @@
+others---------------------------------------------------
+
+fine,better,idea,background,process
+and it seems working fine antialiasing is much better however this beats the idea of a transparent background in the process
+
+pixels
+minus doesn t truly work for antialiasing less than 100 transparent pixels
+
+rectangles,images,vertices,edge,primitives,edges
+primitives such as rectangles and images will be antialiasing by adding more vertices along the edge of the primitives so that the edges fade to transparent
+

@@ -1,0 +1,14 @@
+others---------------------------------------------------
+
+output,format,bigger,capacity,buffer,values.and,file.but
+i find that if i configure the width and height of the output format of the encoder bigger the capacity of both the input and output buffer of the encoder will be bigger too.and they are very near in values.and when i configure the width and height as the orignal video size the input buffer is big enough to hold the raw output buffer of the decoder and i get the output video file.but i want to get a smaller size and smaller bit size video
+
+end,scheme,complex,simpler
+in the end you have a scheme whose encoder is more complex but whose decoder couldn t be simpler
+
+easy,enough,harder
+making an encoder seemed easy enough but i m not sure if this encoder is making it harder to build a decoder
+
+look,ioncube
+what about using more than one encoder to encode my code because if we take a look at ioncube you will see some people can decoder it
+

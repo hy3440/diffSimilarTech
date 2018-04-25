@@ -1,0 +1,16 @@
+looks, framework, attractive, ---------------------------------------------------
+
+easier,hard,attractive,looks
+at least they are much easier to intall even pyqt is hard to code for me and wxpython is less attractive when it comes to looks
+
+easier,tkinter,framework
+wxpython is probably easier than pyqt or tkinter i don t want to start a framework war
+
+others---------------------------------------------------
+
+words,possible,popular,os,portable,tkinter
+two words of warning against wxpython it is not possible to install it via the popular fink package manager on mac os x currently which makes it far less portable than pyqt and tkinter
+
+gui,earlier
+also there s pyqt for gui and wxpython mentioned earlier
+

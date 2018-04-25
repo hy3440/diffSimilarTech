@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+function,likely,predict.glmnet
+the predict function for a glmnet is more than likely just predict.glmnet
+

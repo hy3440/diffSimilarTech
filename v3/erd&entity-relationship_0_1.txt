@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+modeling
+first entity-relationship modeling is more than just an erd
+

@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+features,better
+mbprogresshud has more features than uialertview so it might be better suited and more easily adapted for your purposes
+

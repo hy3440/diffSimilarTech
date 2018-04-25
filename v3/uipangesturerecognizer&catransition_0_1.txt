@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+user,finger,uiswipegesturerecognizer,animatewithduration,better
+if you want to use a continuous gesture that tracks the user s finger you can use uipangesturerecognizer rather than uiswipegesturerecognizer and i think animatewithduration is better than catransition in that case
+

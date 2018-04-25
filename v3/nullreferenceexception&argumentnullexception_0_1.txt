@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+.net,better,null,value,argument
+.net makes this better by separating nullreferenceexception you dereferenced a null value from argumentnullexception you shouldn t have passed in null as an argument - and it was for this parameter
+

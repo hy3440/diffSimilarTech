@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+part,type,quantifier,scope
+because the unification performed as part of type inference transcends quantifier scope you can sometimes end up in a situation where ghc would have to unify a type variable in an outer scope with a quantified type from a nested scope which is how you get compiler errors about escaping types and skolems and whatnot the latter i assume being related to skolem normal form
+

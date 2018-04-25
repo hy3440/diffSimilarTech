@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+flexible,dtypes,conveniences
+i haven t played around with it recently but i think bcolz is more flexible here in terms of mixing dtypes but doesn t give you all the pandas dataframe conveniences obviously
+

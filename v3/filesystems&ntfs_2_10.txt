@@ -1,0 +1,34 @@
+better, fat, simple, ---------------------------------------------------
+
+hard,fat,simple,difficult,complicated,not-so-well
+it s not too hard for the fat filesystems as it s quite simple and well documented but it s more difficult for ntfs as the filesystems is much more complicated and not-so-well documented
+
+performance,hard,better,traditional,unix
+generally the performance of hard filesystems like ntfs is better than that of traditional unix filesystems
+
+others---------------------------------------------------
+
+linux,likely
+it won t work on linux but then linux filesystems are less likely to need defragging than ntfs
+
+actual,trickier,business,fat,ext3
+actual mounting of filesystems is trickier business and really depends on what you are mounting - ntfs fat ext3 xfs nfs cifs webdav etc etc
+
+windows,slower,typical,linux,lookups
+the problem is that windows ntfs is slower than typical linux filesystems for these lookups
+
+unix,better,ext3,bits,corruption,design,choices
+when people say that unix filesystems are better they might mean to be saying oh ext3 stores bits in such as way that corruption happens way less than ntfs but they might also be talking about design choices made at the common layer above
+
+well-defined,fat,tricky,bytes,space,data,file,loads
+if you need to load from a well-defined filesystems fat or ntfs this is more tricky you have only 450 bytes of space because 60 of the 512 bytes are used by the filesystems internally for code that interprets the data of the filesystems finds the file containing the code and loads it into memory
+
+complex,time,nature
+ntfs is much more complex and time consuming due to the more complex nature of this filesystems
+
+prior,experience,simpler,ones,xfs,ext2
+although i myself have prior experience in implementing filesystems much simpler ones than ntfs xfs or ext2 i would not tackle this job
+
+ms,fat32,longer,names,migration,issues
+when ms switched to the fat32 filesystems that used longer names and later to the ntfs this created migration issues
+

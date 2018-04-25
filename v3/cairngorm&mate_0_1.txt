@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+familiar,situation,pop
+i m more familiar with mate than cairngorm but what i do in this situation is to back up my pop up with a model and dispatch the events off of the model
+

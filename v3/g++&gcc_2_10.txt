@@ -1,0 +1,34 @@
+better, ---------------------------------------------------
+
+better
+so using g++ is better than gcc
+
+better
+g++ seems to work better than gcc in my experience
+
+others---------------------------------------------------
+
+-e,earlier
+gcc -e and g++ -e break even earlier
+
+structs,looser,significant,problems
+unfortunately g++ packed the structs significantly looser than gcc which caused significant problems sharing objects between c and c++ code
+
+recognizable,generic
+if it matters i m actually concerned with c++ and g++ but i thought gcc would be more recognizable as a generic compiler
+
+afaik,precise,final,linking
+afaik it uses g++ to be more precise it uses gcc with language set to c++ and of course g++ for final linking
+
+version,little,larger
+the g++ version is a little larger than the gcc version but not 100x larger
+
+compiler,name,parameter,-lstdc++
+probably you ll need to set project type as c++ or set compiler name to g++ instead of gcc or add parameter -lstdc++ to command line eclipse uses for build
+
+compiler,strict
+g++ compiler is more strict then gcc compiler
+
+wrong,compiler,answer,dan,possible,unusual
+outside of calling the wrong compiler using gcc instead of g++ see answer by dan it is possible but unusual to have gcc correctly built but g++ incorrectly built
+

@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+escape,sequences
+fgets of course does not process escape sequences any more than strcpy would
+

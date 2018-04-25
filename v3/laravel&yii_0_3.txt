@@ -1,0 +1,11 @@
+others---------------------------------------------------
+
+experience,easy,pros,cons,framework,projects,better
+according to my experience yii is easy to use but it has some pros and cons too every framework has but i used laravel on some projects and i think laravel is much more better than yii
+
+good,better
+yii is good but laravel can do better than it
+
+developers,community,larger,career,bottleneck,answer
+developers community it might seem that laravel has a larger community of developers but during my career with yii i ve found no bottleneck of having a question without an answer
+

@@ -1,0 +1,14 @@
+others---------------------------------------------------
+
+spaces,main,table
+as varchar n takes spaces much more than tinyint and your main table is table2 so the second scenario is more optimize
+
+table,records,better,data,logic,situations
+the choice of appropriate datatype entirely depends on how you ll be dealing with the table data in your application if any if you re having this table just for storing the records than varchar would be a better option since it ll make your data more verbose but if there s a processing to be done on the table data like filter results on certain criteria long names could be confusing when it comes to comparing them in the application logic and in such situations char or tinyint would be a better option
+
+efficient,aju,john
+using varchar is less efficient than using tinyint like aju john suggested in his comment but unless i m dealing with a really performance-critical or a huge table - i find it easier to deal with
+
+better
+i think tinyint is better than varchar in this case
+

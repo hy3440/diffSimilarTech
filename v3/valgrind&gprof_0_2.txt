@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+available,android,older,version
+so i can use neither gprof which isn t available on android valgrind which requires an older version of the ndk than what i m using nor the android-ndk-profiler which is for dynamic libraries loaded by android activities either java or native not plain executables
+
+important,difference,information,related
+another important difference is that valgrind can report a lot more information than gprof does but that s not specifically related to using it
+

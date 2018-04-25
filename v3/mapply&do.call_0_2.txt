@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+obvious,efficient
+if for some strange reason you can do the obvious do.call would be more efficient than mapply
+
+better
+i don t quite understand why you don t want to use mapply but do.call is probably better anyway
+

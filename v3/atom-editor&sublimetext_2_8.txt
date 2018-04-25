@@ -1,0 +1,28 @@
+packages, performance, better, ---------------------------------------------------
+
+better,performance
+sublimetext has better performance than atom-editor
+
+packages,better
+atom-editor is still missing a lot of packages that sublimetext supports so the question is will atom-editor catch up with sublimetext or become some better
+
+others---------------------------------------------------
+
+beta,stage,native,plugin
+again because atom-editor is still in the beta stage sublimetext has much more native plugin packages
+
+copy,rtf,recent,updates,sublimehightlight
+plus copy as rtf for atom-editor has more recent updates than sublimehightlight for sublimetext
+
+save-session,plugin,current,state
+there s also the save-session plugin which makes atom-editor behave more like sublimetext the current state of each file is remembered across application instances
+
+ui,ux,better,heavy,lifting
+though similar in ui and ux sublimetext performs significantly better than atom-editor especially in heavy lifting like working with large files complex snr or plugins that do heavy processing on files buffers
+
+memory,time,editor
+why atom-editor uses more memory and takes more time to start as compare to sublimetext editor
+
+better,github,support,box,several,git
+atom-editor has better github support out of the box but sublimetext has a several git packages
+

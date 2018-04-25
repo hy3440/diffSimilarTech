@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+easier
+i have used restsharp before but refit is alot easier to get running
+

@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+unique,methods,returns,live,better
+since an id is unique and the methods getelementsbytagename or getelementsbytagname returns a live htmlcollection it s better if you use these elements as unique variables so you won t ask your browser to fetch them many times
+

@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+larger
+des code is 8 times larger than rsa
+
+comparison,section,ciphers,faster,algorithm
+by comparison des see section 3.2 and other block ciphers are much faster than the rsa algorithm
+

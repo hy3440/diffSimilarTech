@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+module,efficient,bundle,size,technique,bits
+es2015 module is more efficient than the other formats and can facilitate the creation of smaller bundle size through tree-shaking technique importing just the bits you need instead of importing the whole thing
+

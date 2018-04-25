@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+results,image,little,bit,blurrier
+the results end up very close but the emgucv image comes out a little bit blurrier than the opencv image
+
+faster,server,c#,slower
+unless you re doing very heavy processing working with a single frame is probably faster than transferring it to the server as far as i know emgucv in c# isn t considerably slower than opencv in c c++
+

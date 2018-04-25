@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+better,compatible,commonjs,safer,bet
+umd is even better supported since it is compatible with commonjs and amd so that would be a safer bet
+

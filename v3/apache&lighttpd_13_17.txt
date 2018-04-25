@@ -1,0 +1,57 @@
+mode, long, traditional, ---------------------------------------------------
+
+features,lighter,faster,nginx
+if you aren t using any of the other features of apache consider using something lighter and faster like lighttpd or nginx
+
+different,server,nginx,easier,configuration
+using a different server such as one apache and one nginx or one apache and one lighttpd will be much easier because their configuration files don t conflict with each other
+
+great,scripts,nginx,comfortable,small
+letâ s encrypt provides great scripts for apache 2 and nginx but not lighttpd which is much more comfortable for small systems like raspberry pi or old boxes
+
+server,nginx,overhead,traditional,setup
+it may even use a different server software say nginx or lighttpd that has less overhead than the traditional apache setup
+
+users,nginx,long
+as such i m assuming that about 96 of our users will being using apache and not lighttpd or nginx which are supposedly more suited for long polling
+
+nginx,fastcgi,mode,ram,concurrent,connections
+nginx or lighttpd in fastcgi mode use less ram than apache and they can handle more concurrent connections
+
+instance,benchmarks,faster,static,resources
+for instance in some benchmarks lighttpd is even faster at serving static resources than apache
+
+webserver,small,raspbery,pi,lighter
+i know how to use apache but since i was hosting the webserver on a small raspbery pi i felt lighttpd would be just more lighter
+
+content,fastcgi,faster
+- if you move towards more static content or go the fastcgi way lighttpd is faster than apache
+
+apps,lighter,example,nginx,configurations,play
+just one tip if only job for the http server will be just proxying the play apps consider using some lighter option than apache for an example nginx or lighttpd you ll find sample configurations for all of them in play s documentation
+
+lower, front, number, ---------------------------------------------------
+
+smaller,footprint,users,site,time,resources
+theoretically because of a smaller footprint lighttpd should allow more users to visit site at the same time using exactly the same resources as apache would
+
+webserver,fewer,resources,bottleneck,ram
+since you ve switched to lighttpd the webserver itself is going to use fewer resources than apache would but apache is rarely the bottleneck unless you ve run out of ram or seriously misconfigured it
+
+site,benefit,front,lower,number
+i have read in a site that another benefit of having lighttpd in front of apache is lower number of child processes
+
+others---------------------------------------------------
+
+benefit,powerful,extensible,power,anyway...,faster,static
+the benefit of both apache is more powerful and extensible useless if you don t need that power but anyway... and lighttpd is faster at static content
+
+first,experience,suitable
+this is my first experience setting up lighttpd as i thought it would be more suitable than apache in this case
+
+proper,server,cpu,usage,http,hits,box
+unlike a proper server like lighttpd whose cpu usage is undetectable the crummy via c7 was serving 100 http hits s and lighttpd used less than 1 cpu apache will kill your box
+
+usable,fast
+i have recently started using lighttpd instead of apache and found it more usable and fast
+

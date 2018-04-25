@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+use,features,future
+it works perfectly when i use datagridcomboboxcolumn but i d like to use datagridtemplatecolumn to add some more features in future
+

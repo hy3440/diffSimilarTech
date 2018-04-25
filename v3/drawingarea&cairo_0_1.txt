@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+approach,context,handler,window,larger
+i found another approach using the cairo context passed to the handler of draw events but it resulted in capturing a region of the parent window that was larger than the drawingarea
+

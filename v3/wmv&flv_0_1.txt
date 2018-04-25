@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+production,better,easier,windows,encoders,good,tool,output
+i found the production of wmv much better and easier than flv because all windows flv encoders i tried are not really good and stable whereas pretty much every tool can natively output wmv
+

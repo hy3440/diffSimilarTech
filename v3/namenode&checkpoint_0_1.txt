@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+name,node,fsimage,recovery,faster
+for efficiency secondary name node periodically does a checkpoint to update the fsimage so that the namenode recovery is faster
+

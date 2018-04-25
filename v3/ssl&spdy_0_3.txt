@@ -1,0 +1,11 @@
+others---------------------------------------------------
+
+tower,signal,connection,worse,modulo,handshake
+if we assume that you live in a poor coverage area and your phone and your tower are constantly dropping the signal then re-establishing a spdy connection is no worse off than re-establishing a tcp connection modulo ssl handshake
+
+common
+plus once spdy becomes more common ssl slow down won t really account for anything much
+
+keep-alive,handshake,initial
+i m using keep-alive so i think the ssl handshake is more or less totally out but i hope to move to spdy soon so i don t really know how that helps after the initial handshake
+

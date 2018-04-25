@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+better,platform,desktop,browsers,best,tool
+sikuli would be a better platform for gui related stuffs other than browser ie for any applications in desktop but regarding browsers selenium would be the best tool rather than sikuli
+
+power.
+or selenium combined with sikuli to have even more power.
+

@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+better,call,tr,selector
+using addclass would be a better call hence we could removeclass from the tr selector before we stripe the table
+

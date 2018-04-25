@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+better,functionality,harder
+cfstring has some slightly better functionality than nsstring but is a bit harder to use
+

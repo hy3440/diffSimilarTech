@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+git,easy-to-use,better,beanstalk
+nobody has ever accused git of being easy-to-use no tortoisegit for example although i hear it s coming so you might be better off with svn beanstalk
+
+dialog,file,git,branches,central,repo
+the compare dialog of tortoisegit is more about file and with git you have to compare two master branches not just two commits of the same branches both pointing to the same svn central repo
+

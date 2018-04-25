@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+favicons,animated,wider,browser
+gif favicons are sometimes used so that they can be animated but ico s have wider browser support
+
+png,webp,svg,map,scss
+jpg jpeg bmp png webp gif svg js map ico css less scss
+

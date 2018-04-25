@@ -1,0 +1,34 @@
+idinfo, boost_1_49_0, map, ---------------------------------------------------
+
+ccnqebjm.o,function,program_options,detail,std,const,bool
+tmp ccnqebjm.o in function boost program_options detail common_config_file_iterator common_config_file_iterator std set std allocator std less std allocator std allocator std allocator const bool
+
+boost_1_49_0,serialization,access.hpp,map,std,idinfo,member
+boost_1_49_0 include boost serialization access.hpp 118 error class std map std allocator std map std allocator std map std allocator idinfo std less std allocator std allocator std allocator idinfo std less std allocator std allocator std allocator std map std allocator idinfo std less std allocator std allocator std allocator idinfo std less std allocator std allocator std allocator std map std allocator std map std allocator idinfo std less std allocator std allocator std allocator idinfo std less std allocator std allocator std allocator std map std allocator idinfo std less std allocator std allocator std allocator idinfo has no member named serialize
+
+serialization,std,__1,const,extended_type_info_typeid,teee-a553d7.o
+boost serialization extended_type_info_typeid std __1 allocator std __1 basic_string std __1 allocator std __1 less std __1 allocator std __1 allocator std __1 allocator const std __1 basic_string std __1 allocator extended_type_info_typeid in teee-a553d7.o
+
+others---------------------------------------------------
+
+intrusive_ptr,better,shared_ptr,second,reference,count
+boost intrusive_ptr performs better than shared_ptr because it doesn t need a second allocator to hold the reference count
+
+dynamic,memory,faster,std,to_string,karma,benchmarks
+the latter doesn t do any dynamic memory allocator and is more than 10 times faster than std to_string on boost karma benchmarks
+
+interprocess,better,use
+using specialized boost interprocess allocator to make better use of the shared memory area
+
+pool,stl,efficient,objects,type,new
+the boost pool library provides stl allocator that are more efficient when allocator objects of the same type as opposed to std allocator which simply uses new and delete
+
+able,std,fast_pool_allocator,method,g++,higher
+to be able to use std allocate_shared with boost fast_pool_allocator as the allocator method using g++ 4.8 or higher with boost 1.56.0
+
+manual
+i think that the boost manual could have explained how the allocator is used more explicitly
+
+version,string_ref,faster,due
+just to goof off a version using boost string_ref is much faster still due the reduced allocator
+

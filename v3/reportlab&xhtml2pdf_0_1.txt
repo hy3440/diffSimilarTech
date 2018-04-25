@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+bad,time,sake,interested,better
+this isn t to say that xhtml2pdf is bad just that it s going to take time for it to be as good as rendering in a browser and if pdf output for its own sake is what you really are interested in i think using reportlab directly is a better choice
+

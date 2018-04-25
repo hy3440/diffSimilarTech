@@ -1,0 +1,11 @@
+others---------------------------------------------------
+
+substitution,similar,deeper,nesting
+running with debug option -x seems to imply that command substitution is similar to subshell since bash outputs a deeper nesting for it
+
+efficient,better,tools,3rd,party
+when working in bash it is generally more efficient and better suited to use the tools that bash provides rather than spawning subshell calling 3rd party tools like grep and cut
+
+read,usage,efficient,approaches
+moreover because read is built into bash and this usage requires no subshell it s significantly more efficient than approaches involving subprocesses such as head or awk
+

@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+methods,easier
+using completionhandler -based methods of nsurlsession is much easier
+

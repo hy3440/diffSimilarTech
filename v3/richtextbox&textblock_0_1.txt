@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+end,bindable,useful,simpler
+good advice but in the end i decided a bindable textblock was more useful and simpler than a richtextbox
+

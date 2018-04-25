@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+alternatives,xmlserializer,xmloutputter,direct
+other alternatives such as xerces xmlserializer or jdom xmloutputter are more direct methods less code but they are framework-specific
+

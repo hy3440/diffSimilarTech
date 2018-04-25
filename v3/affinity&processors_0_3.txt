@@ -1,0 +1,11 @@
+others---------------------------------------------------
+
+system,cores,smp-enabled,cpu,processes,guarantee
+on a system with more than one processors or processors cores you can normally assuming you do have a smp-enabled system cpu affinity doesn t prevent it expect those two processes to use both processors but you do not strictly have a guarantee
+
+c#.now,cpu,application.i
+i have created a window application in c#.now i want to set the cpu affinity for this application.i may have 2 processors 4 processors 8 processors or may be more than 8 processors
+
+difference,thread,level,load,threads
+so the difference between the two is that if you assign affinity at the thread level you can assign them to more than one processors and spread the load more than with all threads assigned to one processors
+

@@ -1,0 +1,34 @@
+cause, requirement, results, ---------------------------------------------------
+
+better,results
+instead of using uilabel using uitextview gets better results
+
+similar,requirement,better
+i too had a similar requirement initially i used uilabel and then i realized that uitextview is better
+
+better,cause,contentview
+try to use uitextview rather than uilabel could be better cause uitextview use a contentview that maybe won t be resized immediatly
+
+others---------------------------------------------------
+
+nsattributedstring,priority,interesting,custom,kind,object
+using a category on nsattributedstring in priority before uilabel could be more interesting in case you wanted to use the custom nsattributedstring for others kind of object like a uitextview
+
+uitextfield
+you would have to use a uitextfield or a uitextview - uitextview being more like a uilabel than a uitextfield
+
+complicated
+my problem is uitextview is more complicated than uilabel
+
+easier,objects,uiscrollview
+or even easier rather than adding uilabel objects to a uiscrollview you could just use a uitextview
+
+padding,right,bigger
+i think the problem happened because the padding left right of uitextview is bigger than uilabel
+
+aware,suitable,uitextinput,bug,ios
+i m aware that uitextview is much more suitable for this as it implements uitextinput protocol which has all the methods i need but due to a bug in ios i m limited to uilabel
+
+need,information,longer,slower
+also consider using uilabel instead of uitextview if you don t need to edit information inside since uitextview take longer to allocate and init and are generally slower than uilabel
+

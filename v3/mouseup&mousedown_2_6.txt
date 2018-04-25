@@ -1,0 +1,22 @@
+faster, better, ---------------------------------------------------
+
+faster,better
+is there any reason mousedown should be inherently faster better than mouseup
+
+better
+first off consider whether you really want to override mousedown or whether overriding mouseup might be a better option
+
+others---------------------------------------------------
+
+position
+something like if mousedown position is more than 10px away from mouseup position
+
+date,stuff,button,self
+as you ve already done you can set a date on mousedown and do stuff until mouseup then do something more based on how long the button was held down for hopefully the following is self explanatory
+
+mouse,keydown,keyup,sense
+logic to handle enter + mouse click is placed on keydown and mousedown it could be moved to keyup and mouseup if makes more sense
+
+events,slower,press,screen
+when testing both cases it seems that mouseup events are slower and less reliable sometimes the button press is missed or the screen hangs slightly before responding than mousedown
+

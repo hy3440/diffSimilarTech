@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+xcb,older,graphical,toolkits,qt,fox,etc..,source,free
+you might use a low level x11 library like xcb -or the older xlib - it is used by graphical toolkits like qt or gtk or fox etc.. which are both free software toolkits so you could study their source code and xlib xcb are also free software
+

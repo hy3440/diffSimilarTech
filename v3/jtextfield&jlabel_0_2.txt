@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+copying,text,easier,note,focusable
+because copying text result from jtextfield is always easier than retyping it from jlabel note that jlabel is not focusable
+
+line,height,left,side
+jtextfield is more than 1 line height and jlabel is not in left side
+

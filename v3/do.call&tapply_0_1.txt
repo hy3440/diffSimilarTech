@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+slower
+or is the do.call with by just typically much slower than tapply
+

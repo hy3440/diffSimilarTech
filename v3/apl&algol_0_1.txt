@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+classic,syntax,family,languages,weird
+as far as the syntax goes i guess it s a bit different from the more classic syntax of the algol family languages but it s no more and possibly less weird than apl
+

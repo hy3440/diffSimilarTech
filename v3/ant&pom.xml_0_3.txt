@@ -1,0 +1,11 @@
+others---------------------------------------------------
+
+downsides-,actual,difficult,flexibility
+it has some downsides- namely working with both ant and maven so the actual pom.xml is more difficult to comprehend but it does allow for more flexibility than is otherwise possible with maven
+
+project,files,substantial,file
+but even when your project s pom.xml files become more substantial they hold an entirely different kind of information from the build file of a similarly sized project using ant
+
+basic,maven,filds,specific,stuff,scripts,system
+it will depend on the complexity of your builds if you have basic java builds then maven might be more suited as the pom.xml files maven build filds are pretty simple but if you need to do a lot of custom specific stuff you may well end up having ant scripts to perform also if you already have one system in place there isnt necessarily a huge advantage of swapping
+

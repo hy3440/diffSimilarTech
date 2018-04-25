@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+encrypted,connection,server,smtp_ssl,class,shorter
+you can still have an encrypted connection with the smtps server by using the smtp_ssl class without needing the starttls call shorter
+

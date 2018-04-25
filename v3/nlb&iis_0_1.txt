@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+difficulties,modern,legacy,flexible,web-centric
+i ve got arr in front of a client s ssrs setup right now no difficulties reported and it s 100 modern iis rather than legacy nlb which is less flexible when it comes to web-centric activities
+

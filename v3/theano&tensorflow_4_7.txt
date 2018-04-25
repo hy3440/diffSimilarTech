@@ -1,0 +1,25 @@
+long-time, graph, computational, ---------------------------------------------------
+
+better,computational,graph,visualizations,torch
+tensorflow has better computational graph visualizations than theano and torch
+
+better,long-time,market,torch
+tensorflow is better at marketing itself than long-time players of the open-source market like torch and theano
+
+others---------------------------------------------------
+
+testing,slow-down,ranges,slower,performance,application
+in my testing the slow-down from using tensorflow ranges from about 1.5-3.0 times slower than using theano but its performance will depend on your application
+
+faster
+it theano runs much faster than tensorflow
+
+frameworks,farther,deterministic,operations
+i believe some other frameworks such as theano go farther than tensorflow in proposing deterministic operations
+
+faster,respects,wider
+theano is still faster than tensorflow in many respects and supports a wider range of operations
+
+backend,19x,slower
+should i be surprised that the keras theano backend is about 18x - 19x slower than the keras tensorflow backend
+

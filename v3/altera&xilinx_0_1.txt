@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+tools,raw,silicon,better
+xilinx tools suck but their raw silicon is better than altera
+

@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+algorithm,arithmetic,schã,nhageâ,faster
+i think karatsuba algorithm is best to perform arithmetic operations on large numbers.for sufficiently large n another generalization the schã nhageâ strassen algorithm is even faster
+

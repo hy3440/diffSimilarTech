@@ -1,0 +1,46 @@
+support, linux, rendermonkey, ---------------------------------------------------
+
+better,tools,rendermonkey
+the reason i ask is that it seems like nvidia has way better tools and ati seems to have cancelled rendermonkey
+
+better,driver,support,linux
+nvidia provide much better driver support in linux than ati do
+
+others---------------------------------------------------
+
+cards,float4,performance,penalty,better,scalar
+for example on ati cards you ll want to manually vectorize code using float4 int4 data types or accept a nearly 4x performance penalty while nvidia works better with scalar data types
+
+
+ati seems to tell more than nvidia
+
+driver,issue,better,opengl,directx,implementation,amd,versions
+there is almost always some driver issue between them but in general nvidia is better for opengl has bugs in directx implementation and ati amd versions only is better for directx has bugs in opengl implementation
+
+couple,faster,paper,mature,platform
+i decided on nvidia for a couple of reasons while ati might be faster on paper nvidia has a more mature platform and more documentation so it will be possible to get closer to the peak performance on this platform
+
+cuda,technology,easier,flexible,brook+
+4 is nvidia cuda technology is easier more flexible than ati brook+ language
+
+hpc,system,builders,systems,huge,push,computing,amd
+another reason to choose nvidia is because that s what the hpc system builders have been building systems with since nvidia made a huge push for gpgpu computing where as it s less backed by amd ati
+
+permissive,float4,warning,error
+nvidia is more permissive for example nvidia lets you cast wrongly ie float4 to float only making it a warning ati won t error
+
+wont,modern,hardware,identical,older,laptop,card
+i m having an issue where my glsl 130 code wont run properly on my somewhat modern ati 5850 hardware while the identical code runs perfectly fine on an older laptop with a nvidia card i have
+
+community,free,sdk,useful,stuff
+the development tools a debugger and a profiler plus an entire online development community that come for free with the nvidia sdk are way more useful than anything that comes with the ati stuff
+
+useful
+more useful with nvidia than ati for example
+
+glsl,compiler,picky,shader,fine
+for example i ve noticed nvidia s glsl compiler is a little more picky than ati s and rejects some shader code that otherwise works fine
+
+fewer,issues,card,home,drivers,monthly
+a co-worker says there s fewer issues with an ati card at home than with nvidia but i ve been updating my video drivers pretty much monthly for the past few months and it s still not resolved so we can t just release our product and just tell our customers that some day the driver manufacturers may get around to fixing this
+

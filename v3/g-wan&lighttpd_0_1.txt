@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+nginx,pre-compiled,slower,scripts
+even lighttpd or nginx with natively pre-compiled c++ is slower than g-wan s c scripts
+

@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+test,image,complicated
+why don t you do a simple test that tries to read and display an image in a jlabel first since using a jtable is more complicated than using a jlabel
+
+jpanel,easier,data
+i want to use a jpanel and then put jlabel if using jtable is easier then i will use that please tell me which will display the data
+

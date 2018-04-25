@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+absolutestring,method,better,urls
+if you need the result as a string you can use the absolutestring method of nsurl it s typically better to use nsurl instead of nsstring for urls though
+
+issue,space,efficient,specific,data
+a lot of the time it doesn t seem to be an issue of space storing an nsstring would be more efficient if the nsurl wouldn t contain any other specific data but not to the point of making a difference in most applications
+

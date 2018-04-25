@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+younger,final,draft
+jax-rs is much younger than jax-ws jax-ws had a final draft in 2006 jax-rs came out in 2008-9
+
+easier,modern,approach,build-in,type-safety
+people typically find jax-rs easier to start with and the more modern approach although jax-ws has more build-in type-safety features which is also exactly where most of its complexity comes from
+

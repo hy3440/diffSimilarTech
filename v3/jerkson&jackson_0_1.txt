@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+official,useful,extension,modules
+this is not to say this is more official than jerkson just that there are many useful jackson extension modules that many developers are not familiar with
+

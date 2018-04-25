@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+intrusive,mouse,position
+mousemove is more intrusive than mouseenter but it tracks your mouse position all the time so that the tooltip moves accordingly
+
+event,earlier
+problably the problem is that mousemove event may fire earlier than mouseenter in some cases
+

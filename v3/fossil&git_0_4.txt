@@ -1,0 +1,14 @@
+others---------------------------------------------------
+
+article,database
+from the article it sounds like fossil isn t a database any more than git is a database
+
+merge,options,workflow,likely
+4 fewer merge options than in git though the fossil workflow makes merging less likely to occur in the first place.
+
+system,rcs,mercurial,subversion
+as the comments already mention if you are starting out with version control you would be well advised to choose a newer system than rcs git mercurial fossil subversion ...
+
+easy,easier,sqlite,file
+fossil is another one that s easy to use i would say easier than git to learn but it uses an sqlite file to store your code and i m not sure if it scales to really big projects
+

@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+average,faster,kefir,fast,slower,most.js
+on average faster than rxjs 4 kefir bacon.js as fast as rxjs 5 and slower than most.js
+

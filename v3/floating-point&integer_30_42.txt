@@ -1,0 +1,136 @@
+faster, slower, math, ---------------------------------------------------
+
+math,faster,function,major
+integer math is often much faster than floating-point so such a function could be a major performance win
+
+individual,division,instruction,longer
+an individual floating-point division instruction will take longer than an integer one
+
+slower,arithmetic
+historically floating-point could be much slower than integer arithmetic
+
+slower
+historically floating-point could be much slower than integer
+
+context,faster,slower
+depending on context floating-point code may be as fast as or faster than integer code or it may be four times slower
+
+time,unlikely,division,multiplication,faster
+if all the values vary each time then it seems unlikely that the floating-point division to compute the 1.25 followed by floating-point multiplication is going to be any faster than the integer multiplication followed by integer division
+
+arithmetic,simpler
+but integer arithmetic arguably is inherently simpler than floating-point
+
+division,faster,cpu
+floating-point division is typically faster than integer division on the cpu
+
+rule,thumb,2x,slower
+as a rule of thumb floating-point is about 2x slower than integer on
+
+division,coarser
+you re performing integer division which is coarser than floating-point division
+
+possible,pong,arithmetic,likely,faster,difference,unlikely
+it s even possible that you could implement pong using only integer arithmetic which is likely to be faster than floating-point -- but the difference is unlikely to be critical
+
+combinations,32b,faster,cpu,gpu
+there are lots of cpu gpu combinations where a 32b integer multiply is faster than a 32b floating-point multiply on cpu and vice-versa on gpu
+
+slower
+floating-point may be somewhat slower than integer but it s generally
+
+accuracy,fixed-point,arithmetic
+if you need more than integer accuracy but want to avoid floating-point consider using fixed-point arithmetic instead
+
+math,faster
+generally integer math is faster than floating-point math
+
+today,units,faster,unit
+today s floating-point units are pretty fast and may actually divide faster than an integer unit
+
+divide,faster,fewer,bits,cpu,unit
+floating-point divide is faster than integer fewer bits to divide assuming your cpu has floating-point unit
+
+arithmetic,faster,equivalent,likely,type
+which uses all integer arithmetic is usually faster than its floating-point equivalent likely significantly faster in the case of a floating-point type equivalent to t-sql s decimal type
+
+arithmetics,complicated
+floating-point arithmetics is by far more complicated than integer arithmetics
+
+space,math,slower
+they take up more space and floating-point math is slower than integer math
+
+advisable,unsigned,int,bits,encodings
+note that it is usually advisable to use an unsigned integer rather than an int to access the bits of floating-point encodings because unsigned integers are less prone to certain issues such as sign issues with bit shifts
+
+faster,fixed-point,arithmetic
+but another added benefit of this approach is that it could make your program run faster since fixed-point integer arithmetic is much faster than floating-point arithmetic
+
+math,theory,representation,bits
+i was wondering about some of the math or theory of whether a signed integer or signed floating-point representation in n bits encodes more granularity between its min and max values or if the two encode the same granularity
+
+largest, root, smallest, ---------------------------------------------------
+
+conversion,number,value,trsq,root,largest,smaller,square
+note that your program may report some numbers as prime if their largest prime factor is very close to their square root if the number is the square of a prime because the conversion of number to a floating-point value may round it down so trsq may end up being less than the square root even less than the largest integer that is smaller than the square root
+
+largest,smallest,greater,lower,digit,limitation,variable
+i know c++ have functions that return largest or smallest integer that is greater or lower than a like ceil or floor.is there a function that implement digit limitation of floating-point variable
+
+larger, format, general, ---------------------------------------------------
+
+general,real,larger,maximum,integers,representable
+floating-point solves the more general problem of representing some real numbers that aren t integers and some real numbers that are larger than the maximum integer up to which all integers are representable here 16777216 all with a nearly uniform relative accuracy at least 1 2 precision
+
+single,precision,format,23-bits,type,bits,larger,float
+therefore ieee 754 single precision floating-point format has 23-bits fractions and int type has 32 bits so if the integer is larger than 2 24-1 the float type can t represent it exactly
+
+format,n-bit,fractions,larger,n+1
+a floating-point format with a n-bit fractions can t represent the integer which is larger than 2 n+1 -1 because it will lose the precision
+
+types, matlab, nsdecimalnumber, ---------------------------------------------------
+
+nsdecimalnumber,types,able,bigger,numbers,precision
+nsdecimalnumber and the floating-point types may be able to store bigger numbers than the integer types though with decreasing precision
+
+types,uint8,arithmetic,matlab,precision
+because integer types like uint8 have saturated arithmetic in matlab plus floating-point types have more precision when doing certain operations
+
+others---------------------------------------------------
+
+unpredictable,precision,issues,little,exact
+however due to unpredictable floating-point precision issues it is sometimes little less than exact integer and in this case it is rounded down too much
+
+types,larger,range
+floating-point types have a larger range than the integer types so
+
+value,higher,rank,float
+because the floating-point value is of a higher rank than an integer it will promote the integer to a float
+
+difference,number,corresponding,equal
+the difference between each floating-point number and its corresponding integer is less than 1 or equal to 1 if you really must
+
+instructions,ports,counterparts,ops
+on intel cpus before skylake packed-integer instructions can always run on more ports than their floating-point counterparts so prefer integer ops
+
+operations,32-bit,64-bit
+this feature allows the processor to execute several arithmetic operations simultaneously often four 32-bit integer operations or four 32-bit floating-point operations sometimes more operations with narrower integers sometimes fewer operations with 64-bit floating-point
+
+values,easier
+integer values are easier to deal with than floating-point
+
+representation,memory,third,link,variables,ones
+floating-point representation in memory can t add third link - because floating-point variables is much more strange than integer ones
+
+value,thanks,part
+since the floating-point value is slightly less than the integer you rounded to thanks to .nextdown the integer part is going to be one less than that integer
+
+scipy.ndimage,domain,better,results,image,processing
+i did this very successfully with scipy.ndimage in the floating-point domain way better results than integer image processing like this
+
+cell,phones,slower,order,magnitude,better,hardware,available
+on somewhat limited processors like those in high-end cell phones floating-point may be somewhat slower than integer but it s generally within an order of magnitude or better so long as there is hardware floating-point available
+
+processors,vector,load,data,operation,time
+there exist processors on which using an integer vector load movdqa to load data that is consumed by a floating-point operation requires more time than using a floating-point load to get data for a floating-point operation and vice-versa
+

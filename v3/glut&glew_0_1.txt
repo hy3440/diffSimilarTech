@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+context,libs,glfw,load,gl,extension
+if you are a noob then i don t think that starting with mesa running on any kind of vm is a good idea.mesa setup is pretty complex in general.also mesa opengl is outdated.it supports up to 3.2 version atm.if you want to get started with opengl the right and clean way you should better setup context with libs like glut or glfw and load gl extension with glew there are more
+

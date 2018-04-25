@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+faster,performance
+puremvc is generally much faster than robotlegs in terms of performance
+
+carnigorm,good,choices,personal,opinion,easier
+carnigorm and puremvc are good choices but my personal opinion is that robotlegs is far easier to work with
+

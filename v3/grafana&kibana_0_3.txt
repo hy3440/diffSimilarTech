@@ -1,0 +1,11 @@
+others---------------------------------------------------
+
+elasticsearch,opentsdb,support,functionality,regard
+if you would like a unified front-end for elasticsearch and opentsdb you could consider grafana which has support for both elasticsearch and opentsdb but less functionality than kibana in regard to elasticsearch
+
+visualization,logs,right
+grafana is more of visualization only while kibana is for searching the logs is that right
+
+logs,adhoc,search,dashboards,time
+kibana focuses more on logs and adhoc search while grafana focuses more on creating dashboards for visualizing time series data
+

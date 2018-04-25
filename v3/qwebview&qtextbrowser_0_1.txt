@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+flash,css,faster,free
+unless you need javascript flash css or something like that you can replace qwebview with qtextbrowser which is both faster and free of static leaks
+

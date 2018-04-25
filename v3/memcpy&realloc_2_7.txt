@@ -1,0 +1,25 @@
+malloc, memalloc, tests, ---------------------------------------------------
+
+tests,faster,memalloc,free
+as you can see from the above tests realloc is consistently faster compared to memalloc memcpy and free
+
+faster,malloc,free
+a realloc can occur significantly faster than a malloc memcpy and free
+
+others---------------------------------------------------
+
+copying,slower,malloc,new,data,allocation,address,size
+as we can see copying manually with memcpy is always slower than realloc because in this scenario malloc is guaranteed to allocate new memory and you re forced to copy the data in every allocation which shows us that realloc is indeed reusing the same address and enlarging the block size in some cases
+
+pair,costs,internal,hidden
+in the case of overflow a free malloc pair costs less than realloc because of its internal hidden memcpy
+
+necessary,size,larger
+it wouldn t do a memcpy -- that s only necessary when the realloc size is larger and there s no room to expand
+
+clever,implementation,faster,brute,new,array
+hunch a clever implementation of realloc should execute faster than a brute memcpy to a new array
+
+memory,request,end,previous
+for example realloc may be allocating more memory than you actually request or allocating contiguous memory just after the end of the previous block so your code is doing more memcpy s than realloc
+

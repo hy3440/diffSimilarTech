@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+routine,magma_gemm,higher,performance
+magma routine magma_gemm has higher performance than cublas in some cases
+

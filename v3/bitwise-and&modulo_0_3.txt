@@ -1,0 +1,11 @@
+others---------------------------------------------------
+
+particular,operation,machine,division
+in this particular case you concluded that a bitwise-and operation of c++ language must be implemented by a bitwise-and machine operation while a modulo must somehow involve machine division which is allegedly slower
+
+couple,blogs,reminder,operator,slower
+i read in couple of blogs that in java modulo reminder operator is slower than bitwise-and
+
+large,numbers,operation,efficient,number,odd
+for large numbers would using a bitwise-and operation be more efficient for determining the parity of a number whether it is even or odd than using the modulo
+

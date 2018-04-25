@@ -1,0 +1,14 @@
+others---------------------------------------------------
+
+easier,box
+i would go with kohana over symfony because kohana is much easier to understand out of the box and doesn t require any special setup to work with
+
+domdocument,needs,better,zend,zend_dom_query,sfwebbrowser,querys
+i would use xpath with simplexml or domdocument depending on my needs although kohana might offer something better like zend does with zend_dom_query or symfony does with sfwebbrowser both of which let you use a querys similar to jquery s css selectors
+
+community,simple,powerful,codeigniter,first,version
+the documentation sucks but it s very lightweight there s a good community even on so it s more simple than symfony and more powerful than codeigniter the first version of kohana was based on codeigniter
+
+ones,codeigniter,zend,cake,newer
+of the big ones codeigniter kohana zend cake symfony i think the newer zend has the best support for restful webservices but earlier versions of zend framework had woefully lacking rest controllers
+

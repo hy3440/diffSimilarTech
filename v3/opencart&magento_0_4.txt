@@ -1,0 +1,14 @@
+others---------------------------------------------------
+
+larger,extensions
+magento is way ahead and has larger extensions than opencart
+
+better,good,developer,easier
+magento is much better if you can find a good magento developer to customize it for you but opencart is easier to use
+
+first,site,things,bit,different,new,harder,thing
+i m working on my first magento site and things are a little bit different than for example opencart but just trying to learn new things i decided to go with magento and try harder however there s one thing that i git stuck and is this i m calling my shopping cart elements using this
+
+cscart,features,time,cost,setup,run
+i d have to say i d personally go for either prestashop or cscart as they do have a lot more features than opencart and at the same time also don t cost anywhere near magento to setup and run
+

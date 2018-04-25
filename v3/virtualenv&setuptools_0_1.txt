@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+deployment,easier,combination,pip
+development and deployment of python code is made much easier by setuptools in combination with virtualenv and pip
+

@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+enterbutton,appropriate,confusion
+something like enterbutton for the iboutlet and enterpressed for the ibaction would be more appropriate and prevent confusion or a naming conflict
+

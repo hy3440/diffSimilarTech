@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+top,text,baseline,image,column,taller
+in a two column table where both columns are set to valign top and the text is set to text-align baseline if an image exists in the first row of the second column and the image height is taller than the text itself the text in both columns is not aligned
+

@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+free,alternative,better,support
+- you can also consider using webm which is a free alternative to h.264 and has better support on some platforms than fragmented mp4
+

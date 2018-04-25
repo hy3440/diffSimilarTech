@@ -1,0 +1,11 @@
+others---------------------------------------------------
+
+python3,higher
+in python3 range can go much higher though not to infinity
+
+value,exponent,wider,floating-point,result
+in the default to-nearest rounding mode the mathematical result of the addition would have to be above the middle point between double.maxvalue and the next floating-point value that could be represented if the exponent range was wider for the floating-point result to round up to infinity
+
+interpolation,polynomial,data
+splines interpolation is probably more useful for you than polynomial interpolation if you fit a polynomial it must inevitably head off to + - infinity outside your data range
+

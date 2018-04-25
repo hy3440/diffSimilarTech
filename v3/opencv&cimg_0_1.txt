@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+simpler,raspberry,pi,space,hour,single,header-only
+i believe it is significantly simpler than opencv which on a raspberry pi for example takes around 1gb of space and over an hour to build whereas cimg is a single header-only file that you include in your code with no libraries needing to be installed which can do what you ask
+

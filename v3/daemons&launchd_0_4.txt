@@ -1,0 +1,14 @@
+others---------------------------------------------------
+
+thread,earlier
+that code is all being launchd from a daemons thread created earlier
+
+launchagent,path,bin,file,argument,mongod,launchctl
+what i thought is that if i can configure launchagent or daemons then i will provide path to mongod of bin directory of mongodb folder and provide --config and path for .conf file as argument and then i need to just launchd mongod using launchctl with name mongod and it will start
+
+easier,agent,session,different,corner
+maybe it is but it is much easier than launchd agent in other session from daemons when implemented right with different corner cases support
+
+control,background,processes,host,things,gem
+if you want more control over launchd background processes from ruby including properly detaching ttys and a host of other things check out the daemons gem
+

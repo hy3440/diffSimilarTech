@@ -1,0 +1,11 @@
+others---------------------------------------------------
+
+practical,matter,simpler,value,straight,complex,cadr,car
+as a practical matter a cons is simpler than a list so you can get the value with a straight cdr rather than the conceptually more complex cadr the car of the cdr
+
+first,element,rest,head
+when dealing with lists think of car as the first element of the list and cdr as the rest of the elements and cons adds one more element at the head of the list - that element can be anything including another list
+
+hons,slower,attempt,car
+hons generally runs slower than cons because in creating a hons an attempt is made to see whether a hons already exists with the same car and cdr
+

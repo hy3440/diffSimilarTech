@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+file,nothing,listing,format,digital
+an m3u file is nothing more than a text file listing mp3 and or other format digital audio files to be interpreted by player software as a series of audio files to be played in succession
+

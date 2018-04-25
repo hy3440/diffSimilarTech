@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+5.1.x,little,functional,easier,nice,support
+i d strongly recommend to go with allegro 5.1.x it s a little bit more difficult than sfml but very functional and easier than sdl it s got nice support and it s compatible with plenty of os
+

@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+look,closer,semantics,asp.net
+i d suggest having a look at openrasta which is much closer to http semantics than asp.net asp.net-mvc is
+

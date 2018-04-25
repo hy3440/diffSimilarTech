@@ -1,0 +1,89 @@
+package, larger, datagram, ---------------------------------------------------
+
+package,larger
+what would happen if my udp package is larger than mtu
+
+datagram,bigger
+they are easily generated for udp simply by making the datagram bigger than the mtu
+
+size, packets, smaller, ---------------------------------------------------
+
+packets,greater,size,network
+udp packets greater than the mtu size of the network that carries them will be automatically split up into multiple packets and then reassembled by the recipient
+
+datagram,larger,size,last,fragment,destination
+when send a udp datagram larger than the mtu size only the last fragment of the udp datagram is putted out to the destination
+
+real,life,packets,size,equal
+in real life udp packets size usually is equal or less than mtu size
+
+packets,larger,ip,fragmentation
+basically while sending udp packets larger than mtu ip fragmentation can occur if it s supported on your platform but not all platforms support it
+
+lwip,packets,pc,larger
+my lwip can send udp packets to pc but my pc would fail to reassemble when the udp packets are larger than mtu
+
+payload,size,bigger,segment,packet
+if udp payload size is bigger than mtu size udp will silently segment the packet
+
+message,bigger,header,ip,size,datagram
+in addition to the suppositions in question 4 supposing that my message is no bigger than the mtu - udp header - ip header size is the udp datagram that results guaranteed to fit into 1 ip packet on my local network at least
+
+traffic,profiling,message,size,larger
+if there is network congestion rate limiting or traffic profiling or if the udp message size is larger than the mtu
+
+data,size,smaller,ppp,error
+when udp data size is smaller 1452 than ppp mtu no error
+
+note,packets,bigger,hope,hosts
+note that udp packets bigger than the mtu s at every hope between your hosts will be split by ip
+
+frames,smaller,architecture,bytes
+ideally your udp frames are smaller than the mtu for your architecture say 1500 bytes so the messages won t get chopped up in transit
+
+size,smaller,sendto,call,socket,tcp,packet
+my another question is if i put the data size smaller than mtu into sendto then i can guarantee call sendto once socket only sends one tcp udp packet
+
+datagram,larger,fragmented
+if you send a udp datagram larger than the mtu it will be fragmented
+
+packets,smaller,fragmented,factors,ip
+udp packets smaller than the mtu will not be fragmented but the mtu depends on more factors such as ip options and vlan headers so it may not be greater than 1500
+
+ip,datagram,larger,segment
+ever since i did sockets programming on a pdp 11 it s been the case that ip fragmentation will take care of the case where an ip datagram such as a udp datagram is larger than the mtu for the segment allows
+
+bigger,max,message,size,limit
+3 you are sending messages that are bigger than the udp max message size 4 each device in your network has a max message size mtu so you might be exceeding a limit there
+
+size,smaller,sendto,call,socket,tcp,packet
+my another question is if i put the data size smaller than mtu into sendto then i can gurantee call sendto once socket only sends one tcp udp packet
+
+datagrams,chunks,size,bigger,different,story
+udp uses datagrams chunks of data which are received whole on the other side unless the size is bigger than the mtu but that s a different story
+
+byte, faster, ethernet, ---------------------------------------------------
+
+ethernet,byte,tcp,faster
+i read in a case where a stream of 300 byte packets was being sent over ethernet 1500 byte mtu and tcp was 50 faster than udp
+
+ethernet,byte,tcp,faster
+for example i read an experiment in which a stream of 300 byte packets was being sent over ethernet 1500 byte mtu and tcp was 50 faster than udp
+
+others---------------------------------------------------
+
+packet,ethernet,packets,bytes,headers,amount,user-data-space,available,smaller
+so for example if you send a 63k udp packet and it goes over ethernet it will get broken up into 47+ smaller fragment packets because ethernet s mtu is 1500 bytes but some of those are used for udp headers etc so the amount of user-data-space available in a udp packet is smaller than that
+
+payloaded,buffer,packet,network,smaller,payload,property
+in practice each payloaded buffer will represent 1 udp packet unless your network mtu is smaller then what you have configured on the payload see mtu property
+
+closer
+the mtu is closer to 1500 and this applies to tcp not udp
+
+socket,programming,application,data,value
+i am working on udp socket programming and i have to stop the transmission in application if requested data is more than mtu value
+
+blocks,data,pieces,smaller,network,segment
+to send large blocks of data via udp you need to chop them up into pieces smaller than the mtu for the network segment across which you re transmitting them
+

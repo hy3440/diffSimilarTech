@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+smaller,symbol,better,results,api,final
+the smaller the dash symbol is the better results you will get the existing api code doesn t seem to cut off the symbol at the final vertex of a polyline segment and doesn t seem to account for the section of the symbol that went past the polyline after the vertex
+

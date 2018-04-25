@@ -1,0 +1,17 @@
+others---------------------------------------------------
+
+web,ui,framework,general,application,conversational,contexts
+jsf is a web ui framework whereas seam is a more general web application framework that integrates not just jsf but conversational contexts workflow jbpm and object persistance preferably ejb3
+
+security,fine,cdi,weld,ee
+spring security is fine too but if you plan to use jsf 2 you probably also use cdi provided by seam weld which is integrated into the java ee 6 profile from glassfish and jboss it is easier to use shiro as spring heavily relies on its own dependency injection methods although spring security does not need that much injected classes but you should stick to one way of doing things
+
+powerful,richfaces,icefaces,html,components
+seam is more powerful with jsf but not necessarily richfaces or icefaces for they mostly just extend the component set which is anyway fall down to standard html components when rendered by jsf
+
+cdi,mature,bijection,easier,kind,application,development,fun
+cdi is so much more mature than seam 2 bijection jsf 2 is so much easier than jsf 1.2 that any kind of application development will simply be much more fun with seam 3
+
+better,plain,link,damo
+seam certainly is far better than using plain jsf refer the link posted by damo a couple of answers above
+

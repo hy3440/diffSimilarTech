@@ -1,0 +1,72 @@
+fonts, obs, string, ---------------------------------------------------
+
+text,element,bigger,container,decrease,value
+if width of text element is bigger than width of container decrease font-size by some value for example by 0.1px and go to step 3
+
+span,greater,useable,input,element
+determine if the span s width is greater than the useable width of the input element and update the font-size accordingly
+
+body,tag,smaller,height
+the only font-size is on the body tag but what happens is that the div is square but the button has a smaller height than its width
+
+device,increase,height,fonts,bigger,respect
+as it fit for device but as font-size increase in both width and height so fonts and elements were messing up because font-size was bigger with respect to width
+
+text,larger,noisy,lines
+as you can see the font-size of the text is bit larger than the width of the noisy lines
+
+obs,dynamic,text,height,container,larger,smaller
+obs the font-size must be dynamic having text height limited by container height when container width is larger than text width and limited by container width when container width is smaller then text width
+
+height,worse,attributes,inline
+i ve also experimented with the line-height also when decreasing both height and line-height to 1 px the added height gets worse and font-size i ve put the height and width as attributes instead of inline css a div inside the td etc
+
+viewport,units,problematic,smaller,font
+that being said using viewport units for font-size in the above way is problematic because when the viewport width is much smaller - say 320px - then the rendered font size will become 0.03 x 320 9.6px which is very too small
+
+part,string,line,wider,increases
+from there on the width slowly increases again as the part of the string still on line 1 linearly gets wider as the font-size increases
+
+clone,equal,input,element
+once the clone s width is less than or equal to the input element s width we delete the clone element and set the input s font-size
+
+proportions,image,larger,height,text,container
+if you dont want to crop the image at all or use javascript i think your only choice is to force the text element to have the same proportions as the image with width approximately being 50 larger than height and then adjust the font-size text elements to fit the container
+
+value,increment,string,wider,element
+i initialize the loop with this value and increment the font-size with 1 until the string is wider than the width of the containing element
+
+margin-left,smaller,16px,effect
+you can remove the transform s and the margin-left and add a width set as 0 here smaller than the font-size 16px here to the get the effect
+
+total, exact, time, ---------------------------------------------------
+
+total,equal
+that is repeatedly reduce the font-size by 5 until the total width is less than or equal to 800px
+
+text,greater,equal
+you can then check if the width of the text is greater than 800px and reduce the font-size until the width is less than or equal to
+
+greater
+if the width is greater than the fixed width bump the font-size down and then check the width again
+
+fittext,time,greater,exact
+when you are using fittext at that time if the font-size is greater than 100px than you have to set the exact width as per your font-size
+
+others---------------------------------------------------
+
+span
+keep on lowering the font-size until the span s width is less than the fixed width
+
+query,screen,h2,item,class,3rem,red
+the first media query says that if the screen width is less than 992px the h2 in the item class should have a font-size of 3rem should be red and should have an underline
+
+comparable,height
+this means that font-size is more comparable to height than it is to width
+
+paragraph,p,col-xs-3,screen,lower,typical,xs,suffix
+in this way you force font-size for all elements containing a paragraph p inside a generic col-xs class col-xs-6 col-xs-3 specifically an only when screen width is lower than typical screen width used by xs suffix of bootstrap classes
+
+date,fit,screen,change,string,changes,wider,jul
+in order to keep the date nicely fit across the width of the screen i decided to dynamically let the font-size change whenever the string changes in width may is wider than jul
+

@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+better,available
+i recently moved from autotest to guard for a reason it works better than autotest and it has a lot of available guard
+
+words,generic,framework,file,change,restricted,tests
+in other words guard is more a generic framework for every process which needs to do something triggered by a file change autotest is restricted to running tests
+

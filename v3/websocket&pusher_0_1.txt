@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+technology,bidirectional,info,pub,sub
+the underlying websocket technology is bidirectional more info here but pusher s pub sub model is unidirectional
+

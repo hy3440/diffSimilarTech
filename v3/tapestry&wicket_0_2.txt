@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+solution,jsf,container,powerful
+in my opinion this is a more elegant solution than jsf and i think tapestry s ioc container makes it more powerful than wicket
+
+goal,static,fullest,extent,lines
+wicket s goal is to support static typing to the fullest extent whereas tapestry is more about saving lines of code
+

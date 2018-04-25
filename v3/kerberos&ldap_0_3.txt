@@ -1,0 +1,11 @@
+others---------------------------------------------------
+
+active,directory,least,need,dns,srv
+active directory is far more than ldap - at the very least you d need kerberos but it also tightly integrates with dns both srv and a records which d require significant trickiness to fake over an ssl connection
+
+one,access,server
+one might want to define kerberos access to more than one ldap server
+
+authentication,protocol,secure,box,servers
+in short as an authentication protocol kerberos is far more secure out of the box is de-centralized and will put less load on your directory authentication servers than ldap will
+

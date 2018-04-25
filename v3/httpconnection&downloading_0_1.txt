@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+size,use,speed,faster
+since the buffer size of inputstream depends on the byte size i assigned when i use httpconnection the downloading speed is faster since it spends less time at writing the buffer data to file
+

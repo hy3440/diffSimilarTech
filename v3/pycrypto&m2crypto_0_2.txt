@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+pyopenssl,popular,well-maintained
+i chose to rely only on pycrypto and pyopenssl since m2crypto is less popular and not well-maintained which is a hazard from both compatibility pypy and security perspectives
+
+little,better
+what little i ve used pycrypto i ve found m2crypto to be a better library overall -- you might want to try it out
+

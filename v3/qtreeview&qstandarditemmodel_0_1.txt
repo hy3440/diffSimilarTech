@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+performance,slower,project,qsqlquerymodel,amount,data
+tried comboboxes with qsqlquerymodel without threading to improve performance but experienced it works much slower than qstandarditemmodel in our project qsqlquerymodel works very fast with such amount of data with qtreeview for example
+

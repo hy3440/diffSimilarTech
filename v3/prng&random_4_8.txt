@@ -1,0 +1,30 @@
+reflection, structure, good, ---------------------------------------------------
+
+non-random,behaviour,reflection,quality,rand,good
+the non-random random behaviour is more a reflection on the quality of the rand prng â it is often not very good
+
+seed,good,non-cryptographic,output,structure
+then you use it as seed in random which is less good that one is a non-cryptographic prng and its output may exhibit some structure which will not register in a statistical measurement tool but might be exploited by an intelligent attacker
+
+pseudorandom, numbers, source, ---------------------------------------------------
+
+usage,seed,numbers
+would it maybe be wise to use this somewhat dynamic memory usage as a seed for a prng to generate more quickly random numbers
+
+seed,source,numbers,pseudorandom
+if you seed a prng from a truly random source and then just keep calling the prng to get more numbers then you will just have a pseudorandom sequence of numbers albeit well seeded
+
+others---------------------------------------------------
+
+dev,entropy,indiv,comments,seed,seeds
+to avoid having to do so many reads from dev random which can run out of entropy you can instead do as indiv suggested in the comments seed a prng to generate more seeds
+
+article,gamma,variables,sophisticated,generating,methods,multiple,calls
+however the wikipedia article on gamma random variables suggest that more sophisticated methods are used in generating gamma random variables methods which involve multiple calls to the underlying prng
+
+proper,faster,division,trade-off,performance,source
+a proper prng should be much faster than division on big integers so this should be a better trade-off -- but this really depends on the performance of the random source and since it is a question of performance it cannot be fully answered without trying
+
+large,period,memory,internal,state,time,number,complex
+but a large period prng takes up more memory for maintaining the internal state and also takes more time for generating a random number due to complex transitions and post processing
+

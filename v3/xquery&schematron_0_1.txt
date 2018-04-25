@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+use,xml,values
+but xquery will be more than schematron and i use xquery heavily to validate xml values and i should be able to produce html reports well
+

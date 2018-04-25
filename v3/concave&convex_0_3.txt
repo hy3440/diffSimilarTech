@@ -1,0 +1,11 @@
+others---------------------------------------------------
+
+kinds,shapes,easiest,harder
+the exact algorithm you choose will depend on a combination of how fast you need it to run and what kinds of shapes you want to support convex are the easiest concave is harder shapes with holes are harder too
+
+check,polygons,triangle,simpler,ones,first
+the check for convex polygons your triangle is simpler than for concave ones see first linked article
+
+hull,difficult
+but determining a concave hull is far more difficult than a convex hull
+

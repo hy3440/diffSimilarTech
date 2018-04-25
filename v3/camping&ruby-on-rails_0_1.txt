@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+lighter,framework,sinatra,ramaze,able,shared,libraries,form,plugins
+i would like to use a lighter framework than ruby-on-rails sinatra ramaze camping but am concerned that by doing so i will not be able to use a lot of shared libraries that have been tailored to ruby-on-rails in the form of plugins
+

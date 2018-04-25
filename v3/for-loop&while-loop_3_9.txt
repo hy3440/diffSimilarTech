@@ -1,0 +1,31 @@
+cleaner, faster, ---------------------------------------------------
+
+cleaner
+edit just realized a while-loop may well be a lot cleaner than a for-loop for this
+
+faster
+i have also found that a while-loop is faster than a for-loop
+
+faster
+and now we know that for-loop is faster than while-loop
+
+others---------------------------------------------------
+
+greater,cost,compiler
+also it seems like a for-loop is of greater cost to the compiler than a while-loop
+
+loops,point,prone,endless
+if you re just going to loops through point use a for-loop as while-loop is more prone to dropping into an endless loops if you forgot to increment counter or doing wrongly or do it in multiple places
+
+second,slower,cheaper,equivalent,iterations
+the reason for the second case much slower on sorted data is that a while-loop is cheaper than the equivalent for-loop when there are zero iterations
+
+compact
+you can think of the for-loop being a more compact way of writing the while-loop
+
+logic,better
+ok i think i may have fixed my problem i changed the logic and so i m now using a for-loop i could have still used a while-loop but i think a for-loop is better
+
+curiosity,solution,appropriate,first
+i searched a lot and discovered nice approaches of others that do solve my problem but out of curiosity i would love to know if there is solution to my problem that keeps the while-loop despite a for-loop would be more appropriate in the first place as i know the range but the day will come when i will need a while loops
+

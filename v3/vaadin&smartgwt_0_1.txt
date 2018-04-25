@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+suitable,intranet,time,better,complex
+thus i think vaadin is more suitable for intranet and takes less time to develop your app while smartgwt is better for more complex gui or unstable connections where additional roundtrips matter
+

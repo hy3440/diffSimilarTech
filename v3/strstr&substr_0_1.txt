@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+plain,better,standard,string.h,function
+if you only want to search for plain substr you are much better off using the standard c string.h function strstr
+

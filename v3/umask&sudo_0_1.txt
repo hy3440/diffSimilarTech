@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+default,restrictive,non-
+if you forget to use this and your default umask is more restrictive or less restrictive then you will need to re-run the non- sudo
+

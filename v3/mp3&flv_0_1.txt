@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+formats,vs,mp4,data,h.264,aac,audio
+both formats flv vs mp4 can contain exact same data h.264 video with mp3 or aac audio but mp4 is supported in more devices software
+

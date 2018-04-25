@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+likely,implements,not--the,earlier
+most likely for the same reason that implements idisposable but ienumerator does not--the earlier version was written before the authors thought of circumstances where one an a implementation might need cleanup but a factory returning such an implementation might not know about such need
+
+manual,ways
+due to ienumerator not implementing idisposable more manual ways of doing it end up being a bit fiddly.
+

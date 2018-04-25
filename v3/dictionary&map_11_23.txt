@@ -1,0 +1,81 @@
+faster, 5-40ã, setting, ---------------------------------------------------
+
+5-40ã,faster,similar,setting
+shows a dictionary running 5-40ã faster than a map in the very similar setting of counting the frequencies on ints as a function of the number of unique keys
+
+faster,slower,loop
+if it was any other language i feel like using a map would be faster but because it s javascript initializing a dictionary and then evaluating seems like it ll be slower than just doing a o n 2 loop
+
+value, reverse, common, ---------------------------------------------------
+
+value,several,values
+a dictionary might have more than one key map to one value or one key map to several values like chaining in a hasthtable eg twitter hashtag searches
+
+reverse,functionality,common,value
+data structure to implement reverse functionality of a dictionary that is more than one key map to a common value using python
+
+std, worse, user, ---------------------------------------------------
+
+std,operations,slower,size,large
+std map though is actually implemented in a way that many operations are slower than dictionary as its size gets large
+
+use,std,worse,algorithmic,optimisations,user
+i definitely wouldn t try introducing a new general-purpose type for use in python based on std map which has worse algorithmic complexity in time for many important operations andâ in at least some implementationsâ leaves some optimisations to the user that dictionary already has
+
+array, method, pairs, ---------------------------------------------------
+
+implementation,copy,method,array
+note my implementation of map on dictionary returns a copy of the dictionary to be more like the map method of array
+
+difference,vector,array,value,pairs
+the difference between a map and vector is a like an array while a map is more a dictionary of key value pairs
+
+better, fields, word, ---------------------------------------------------
+
+fields,better
+since you want to map some fields to others using a dictionary is a better choice than using a list
+
+word,better
+if what you are making is a map from one word to another you might be better off with a dictionary
+
+others---------------------------------------------------
+
+lists,zip,version,slower,functional
+for lists containing 1000 elements the dictionary zip version is the fastest the generator and the list comprehension versions are virtually identical and they are 1.5 times slower and the functional map reversed is considerably slower
+
+better,shared,entries,inconsistent
+map is slightly better because the shared dictionary has around 480 entries instead of around 450 but it s still inconsistent and not all 500 as expected
+
+std,defaultdict
+c++ std map behaves more like a python defaultdict than dictionary
+
+immutable,implementation,faster,pure,usage
+the immutable dictionary implementation is faster but no less pure in usage than the map implementation
+
+hint,fixmap,data,type,c#,key-value,pairs
+using this hint we can try to guess that a fixmap must correspond to a dictionary data type in c# since a map is more or less like a dictionary of key-value pairs
+
+data,structure,similar,c#
+i know this question is a bit older but in es2015 there is a new data structure called map that is much more similar to a dictionary that you would use in c#
+
+generator,expressions,constructor,canonical
+generator expressions are generally preferred to map and using the dictionary constructor is more canonical than dict.fromkeys
+
+easier,object,ids
+but lastly unless i m missing something this would be easier with a map or an object used as a dictionary of ids
+
+large,examples,constant,factor,slower,std,operations,lookup
+for suitably large examples of each dictionary overcomes the constant factor by which it s slower than std map and will actually do operations like lookup insertion etc
+
+substantial,portion,method,efficient
+though if you are going to eventually fill a substantial portion of the map the dictionary method is much less efficient
+
+thread,pool,raw,function,tuples,lists,elaborate,parallelism
+is there a way to handle this simply with a thread pool and map or do i have to do everything in terms of raw function calls and tuples lists dictionary or get more elaborate with multiprocessing or some other parallelism library
+
+point,pre-built,mapping,types,methods,faster,linear
+there also comes a point where assuming that the map is pre-built mapping types to methods with a dictionary will be faster than traversing a linear list of types which is essentially what using a bunch of if blocks gets you
+
+data,string,lookup,better
+for example if you want to index your data using a string like a dictionary lookup then the map will perform better
+

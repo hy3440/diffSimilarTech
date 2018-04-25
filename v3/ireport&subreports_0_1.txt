@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+report,better,approach,quicker,easier
+if your report is complicated and have many subreports and subdatasets its better to go this approach since ireport will make it quicker and easier for you to design and maintain later
+

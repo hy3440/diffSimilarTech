@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+xml,module,faster
+jackson xml module faster than xstream
+

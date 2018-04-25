@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+unnecessary,things,better,qprogressbar
+qlabel has no any other unnecessary things so it is better than qlineedit or qprogressbar
+

@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+point,file,certificate
+i resolved the problem the point is that a pkcs#12 file as a pfx contains more then 1 certificate so it must be loaded in this way
+

@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+mockito,tests,runner,powermockrunner
+i am going to need to use powermockito - mockito to create some more tests but before i start writing those tests i am just switching the junit runner to powermockrunner
+
+little,easier,testng
+powermockito might integrate a little easier with testng but i have never used it with junit
+

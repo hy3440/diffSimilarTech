@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+oses,trouble-free
+in my experience ubuntu and other debian-based oses are much more trouble-free developer environments for almost everything except c# and .net stuff
+

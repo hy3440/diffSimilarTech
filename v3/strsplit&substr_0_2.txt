@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+duffy,blog,efficient
+joe duffy s blog implies using substr is more efficient than strsplit
+
+string,parts,easier,solution
+usually you use strsplit to break a string in parts but with substr there s an easier solution for your problem
+

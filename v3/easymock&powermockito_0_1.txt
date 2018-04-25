@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+extension,frameworks,mockito,powerful,capabilities
+powermockito is an extension of other mocking frameworks like mockito or easymock that comes with more powerful capabilities
+

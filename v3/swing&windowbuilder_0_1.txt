@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+opinion,easier,tools,eclipse,application,graphical,great,improvements,css,skins
+in my opinion swing is easier to start because there are tools like the eclipse windowbuilder which enables you to create your application in a graphical interface but javafx is more likely to be used in the future because it has some great improvements over swing like css skins etc.
+

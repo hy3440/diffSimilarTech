@@ -1,0 +1,11 @@
+others---------------------------------------------------
+
+better,order,runtime,method,decoration
+i think this is better done with a metaclass in order to handle both runtime and subclassing method decoration
+
+easier
+you could then wrap this up in a metaclass to make it easier for people who are subclassing
+
+little,magic
+it s a little less magic than metaclass but it also means you re going to have to remember to decorate each subclassing
+

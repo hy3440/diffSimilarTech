@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+commercial,profiler,larger,memory
+one option is to use visualvm however a commercial profiler like yourkit may handle larger memory sizes better
+
+easier
+i prefer yourkit as i find it easier than visualvm
+

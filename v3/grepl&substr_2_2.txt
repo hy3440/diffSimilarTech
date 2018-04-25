@@ -1,0 +1,10 @@
+answer, vectorised, test, ---------------------------------------------------
+
+benchmark,test,operation,better,sapply,vectorised
+finally i also made a benchmark test which shows that substr operation is slightly better than sapply grepl and significantly better than vectorised grepl alone
+
+david,arenburg,answer,sapply,sixiang.hu,better
+therefore vectorized substr by david arenburg is the best answer while sapply grepl by sixiang.hu and significantly better than grepl by david arenburg
+
+others---------------------------------------------------
+

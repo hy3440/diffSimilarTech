@@ -1,0 +1,56 @@
+result, bits, lower, ---------------------------------------------------
+
+issue,result,bigger,bits,negative,number
+i was thinking that there could be an issue if the result from the addition is bigger than what 15 bits can represent 32767 or if i get a negative number in the subtraction
+
+result,lower,bits,original
+by the way the result of this addition taking its lower 8 bits discarding the carry bit is the result of the original subtraction
+
+slower, logic, level, ---------------------------------------------------
+
+division,level,logic,slower
+division is performed by repeated subtraction therefore needs more level of subtract logic making division slower than addition
+
+mess,things,slower,unlikely
+it s possible though that software could mess things up by making subtraction slower than addition - but that s unlikely
+
+chip,architecture,slower
+this is a hold over from older compilers and interpreters on old chip architecture that would do addition slightly slower than subtraction
+
+faster
+since addition can be faster then subtraction we add the offset instead of subtract it from 31
+
+conceivable,slower
+here it is conceivable that subtraction is slower than addition
+
+bignum,little,slower
+but i d think bignum subtraction is a little slower than bignum addition
+
+multiplication, simple, powers, ---------------------------------------------------
+
+operations,simple,multiplication,division,powers
+the operations are always algebraically simple never involving anything more than addition multiplication subtraction division and taking powers
+
+multiplication,division
+apart from that multiplication is addition done more than once and division is subtraction done more than once
+
+higher,precedence,multiplication
+the only way it would be broken up differently would be if addition had a higher precedence than subtraction like multiplication does
+
+others---------------------------------------------------
+
+work
+the subtraction case is going to require a little more work than addition in this code
+
+a111,equal,better
+a111 addition is equal or better than subtraction
+
+functions,work,iteration
+of course the relative overhead will be smaller for functions that do more work than one addition and one subtraction per iteration
+
+strict,rare,common,image
+strict addition is rare but subtraction is more common like when you subtract one image from its filtered one
+
+script,test,faster,operation
+re-order your script so the subtraction test is timed first then the addition and suddenly addition becomes the faster operation again
+

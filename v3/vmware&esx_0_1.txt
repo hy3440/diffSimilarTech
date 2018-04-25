@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+real,keys,servers,vms
+edit we use vmware here and the reason we can t use real keys is that our esx servers are running more vms than they have real usb ports and sharing is not acceptible
+

@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+text,bigger,available,auto,split
+try with 1 column-count and as text get bigger than available height it will auto split in to second column - columns 1 150px
+
+fixed,columns,scroll
+the problem is that when there is some fixed height opera generates more columns than specified in column-count instead of adding scroll
+

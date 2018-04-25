@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+use,animation
+use clutter which is much more suited to animation and integrates with gtk
+

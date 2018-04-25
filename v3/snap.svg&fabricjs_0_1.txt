@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+svg,faster
+my speed test claims that svg is significantly faster than canvas at least snap.svg seems to be significantly faster than fabricjs
+

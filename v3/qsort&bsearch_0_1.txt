@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+faster,relative,work,sort,front
+one of the reasons i argued so strongly above that bsearch would be faster is because it cheats relative to other associative data structures by doing the work of the sort via qsort up front
+

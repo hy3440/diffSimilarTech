@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+issue,fullreport
+it turns out there is an issue with the fullreport with ncover 3 and teamcity 7 read more about it below
+

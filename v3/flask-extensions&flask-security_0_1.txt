@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+several,view,template,pure,infrastructure,flask-login,etc.
+seems like this will be the case with several flask-extensions that involve more view template code than pure infrastructure like flask-security flask-login etc.
+

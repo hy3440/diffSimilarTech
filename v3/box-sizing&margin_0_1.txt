@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+images,widths,padding,use,attribute
+note that in addition to changing the images widths i also changed the margin to padding and made use of the box-sizing attribute read more about it here
+

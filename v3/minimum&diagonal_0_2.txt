@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+lesser,global,argsort
+one way would be to fill the diagonal elements with something lesser than global minimum and then use argsort -
+
+draw,area,shorter,pixels,value,flatness,square,sine
+even with 32 levels of recusions it will never explode in a rectangular draw area whose diagonal is shorter than 2 32 pixels the limit would be reached only if you are splitting a virtual bezier in a virtually infinite space with floating-point coordinates but you don t intend to draw it directly because you won t have the 1 2 pixel limitation in such space and only if you have set an extreme value for the flatness such that your minimum square sine constant parameter is 1 2 32 or lower
+

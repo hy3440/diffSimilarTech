@@ -1,0 +1,99 @@
+gnu, cs, distro, ---------------------------------------------------
+
+gnu,distribution,easier,device
+under a gnu linux distribution like ubuntu everything is much more easier and you can just plug in your device without installing anything you just have to set the right permissions for the device once
+
+adobe,cs,distro,easier,quiet
+although if you aren t interested in using adobe cs you can use ubuntu distro which is easier than other linux distro and quiet popular so you won t have any problem finding solution
+
+windows, ecosystem, baremetal, ---------------------------------------------------
+
+windows,faster,baremetal,slow
+i can understand windows 10 performing faster than linux on vm but why is the baremetal ubuntu so slow
+
+ecosystem,faster,distributions
+while ruby and rails don t change as often as they did a few years ago the dev ecosystem still evolves faster than linux distributions like ubuntu can keep up with
+
+system,faster
+i m working with both ubuntu mac but i like staying with the linux system feels faster and more stable for me
+
+others---------------------------------------------------
+
+user-friendly,server
+if you do mind using linux you can use ubuntu which is more user-friendly but not really recommended as a server at least for the default version
+
+gedit,ease
+if you are on linux eg ubuntu you may try gedit for ease of use with some plug-ins but to handle very large files you re better off with vim
+
+dual,boot,easier,opencl,cli,fashion
+also i would recommend doing a dual boot to ubuntu it s much easier to work with opencl in a linux cli fashion
+
+project,amazon,ami,server,familiar,difference
+i am new at a firm and i was given a project that was on amazon linux ami now we need to transfer project on another server and because i am more familiar with ubuntu than with amazon linux ami i was wondering if there much difference and will project work perfectly
+
+os,precise
+edit i am using a linux os ubuntu to be more precise
+
+original,version,similar,recompilation,gcc,faster,results
+the original linux version obtained similar speeds to windows but recompilation with gcc 4.8.2 under ubuntu 14.04 provided much faster results but not as good as qpar
+
+arch,slower,machine
+i don t know why arch linux is slower than ubuntu on your machine
+
+centos,amazon,things,worse,long
+also very particular that this should be done on centos or amazon linux which makes things worse for me as i have been on ubuntu for long
+
+alpine,docker,image,light,better,centos
+you can use alpine linux docker image it is very light and is better than both ubuntu and centos image to be used as the docker
+
+ext4,filesystem,kernel,older
+seek_hole support in the ext4 filesystem was added to linux in the 3.8 kernel ubuntu 12.04 uses an older kernel than that - your kernel version is 3.2.0-45
+
+better,help,related
+and in the future i think you will get better help by posting ubuntu related questions to unix and linux stack or to dedicated to ubuntu
+
+problems,windows,built-in,programs
+in my opinion windows is not the best for development i have so much problems using windows and had the same problem later i ve switched to ubuntu just learn more linux and c - it has so much built-in programs so you don t have to install it by yourself and you won t have any problems with that little problems and get even more knowledge
+
+forgiving,filesystem,sensitive,dev,version,default
+linux however is less forgiving and has a filesystem that is case sensitive at least my dev ubuntu version does but i guess it is the default for linux
+
+bash,msys,box,bigger,livecd
+here is a bash script that can use after you installed bash from msys or you can sort it with a linux box - ubuntu is no bigger than 800mb and can run as livecd without interfering your current windows system and the livecd can double as a system saver when needed
+
+distribution,operating,single,name,line,system,kernel,standard,kde,environments,gray
+sometimes a linux distribution contains far more than an operating system but is informally referred to by a single name such as ubuntu and so the line between what the operating system is the linux kernel and standard libraries perhaps and the applications that merely ship with that operating system the gnome and kde environments on linux is pretty gray
+
+inkscape,amazon,better,renderer
+i already have everything working on ubuntu but i can t seem to get inkscape installed on amazon linux to have a better renderer
+
+fun,command,line,programs,access,cygwin,smaller
+if you just want the fun of linux command line programs without access to all of ubuntu cygwin is smaller and might be faster
+
+pretend,better,environment
+however linux pretend i said ubuntu is even better environment for ruby on rails development and it installs great in vm
+
+laptop,gnu,system,better,user,unix
+questions about using a desktop or laptop gnu linux system are better directed towards super user unix linux or ask ubuntu
+
+cores,ram,hyper,v
+i am running a windows 10 pc - i7-6700 3.4ghz 4 cores - hyperthreaded - so 8 logical cores 32gb ram and have a linux vm ubuntu 16.04 using hyper v
+
+easier,precompiled,apt,r-cran-rgl,appropriate,cran
+even if you re on linux it s much easier to get a precompiled version sudo apt install r-cran-rgl on ubuntu if you have the appropriate cran repositories set up
+
+r,fine,windows,uses,disc,space,gb,ram,lower
+base r seems to work fine in linux windows 10 uses 20gb of disc space whereas ubuntu only needs a few gb the ram needed with ubuntu is slightly lower
+
+call,colleague,box,older,version,fine
+my call is not working but if i have a colleague run the php on his linux box running an older version of ubuntu php it works fine
+
+closer,numerous,things,grandmothers,world
+ubuntu is getting closer but there are still numerous things with linux that will keep the grandmothers of the world from using it
+
+distro,shortcut,instructions,simpler,shortcuts
+see but if you are using a linux distro there may be shortcut instructions that make it simpler under ubuntu for example there are shortcuts in
+
+fuser,-n,process,distro,centos
+one one ubuntu distro fuser -n tcp 3000 will report a process if i own the process yet on another linux distro i think centos it won t report the process even if i own it
+

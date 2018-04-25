@@ -1,0 +1,11 @@
+others---------------------------------------------------
+
+large,files,better,vim,legacy,syntax,parsers
+textmate isn t known to perform well on large files but sublimetext supposedly performs better than vim on large files and yet supports legacy textmate syntax parsers
+
+features,tm,v2
+but i ve found that sublimetext 2 has some features i like more than textmate and also tm v2 which is in beta
+
+macvim,thicker,slicker,sophisticated
+macvim sublimetext is much thicker whereas textmate is slicker and sophisticated
+

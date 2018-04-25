@@ -1,0 +1,113 @@
+package, accessible, control, ---------------------------------------------------
+
+safer,setter,control,values,private
+if you don t need it to be public it s often safer not to due to getter setter allowing better control over what values can be assigned then you should declare if protected or private
+
+possibility,access,package,private,restrictive
+otherwise there is still the possibility to change a public access to a protected or package private access which will be much more restrictive than public
+
+default,private,worse,package
+using default no protected private public is even worse as it allows classes in the same package or subclasses to access the logger
+
+package,members,better,access,specifier,restrictive
+for your first problem make sure that both the classes are in the same package and the members are declared either public not recommended or protected better or don t specify any access specifier which is a bit more restrictive than protected
+
+accessible,better,private,read
+change it to public to make it more accessible or perhaps better protected to make it less accessible than public but more than private read more about that here
+
+package,accessible,accessibility,foo
+since package protected is less accessible than public the code is reducing the accessibility of the foo method
+
+constructor, sense, class, ---------------------------------------------------
+
+developers,convention,sense
+many developers have established a coding convention instead and used public for those cases where protected may have made more sense
+
+constructor,types,sense
+therefore the only types that should have access to a constructor are its derived types and hence protected makes much more sense than public
+
+changes,change,class,new
+i did not make any changes more than change protected to public but i add another class in a new package to print the rules by these following codes
+
+constructor,access
+oh i see you need a constructor that has more access than protected but less than public
+
+someone,class,access
+the theory is that someone extending your class with protected access knows more about what they are doing than someone who is merely using it with public access
+
+difference,constructor,clearer,indication
+there ll be no functional difference between the constructor being public or being protected but making it protected gives a clearer indication of the intended use
+
+closer, method, programming, ---------------------------------------------------
+
+perfect,method,parameters,better
+it s not perfect but i guess that a protected method that does not check parameters is better than a public method that does not do it
+
+private,good,programming
+also using private and protected instead of public is more about good programming design than security and i recommend you read about it as well as polymorphism and inheritance
+
+private,better,..
+that means private is better than protected protected is better than public etc ..
+
+restrictive
+protected is more restrictive than public
+
+restrictive,private
+so a protected is more restrictive than public and private is more restrictive than protected
+
+subclassing,better
+secondly if you want the superclass variables to be accessible by your subclassing it s better to use protected than public
+
+closer,private
+protected is closer to public than private
+
+closer,private
+furthermore protected is actually closer to public than to private
+
+others---------------------------------------------------
+
+commenter,reflection,ie,variables,private
+i think that as a commenter suggested reflection is the way to go - you can get more than the public ie protected variables but still apparently can t get private ones
+
+functions,weaker,invariant,call
+protected functions maintain a weaker invariant than the public one before and after each call
+
+members,need,boolean,corresponding,user,better,functions,bjarne
+from this point of view if a class has members which don t need to be protected for example a boolean which its corresponding get set functions can be freely changed by the user is better to put that attributes as public and remove the get set functions more or less these are the bjarne stroustrup words
+
+view,function,users,limited,exposure,private
+from a software engineering point of view as soon as you make a function protected you expose it to other users of course much more limited than public exposure but still much more exposed than private and you create expectation about some stability of the api
+
+work,scope,restrictive,property,scoping,level
+doesn t work either due to the public scope being less restrictive than the overall property scope of protected and moreover not of the same scoping level as defined on the base class s abstract property declaration
+
+better,hibernate,performance,web,private,accessor,methods,fields
+reason i once heard that protected is better for hibernate performance but all i can find on the web is hibernate can access public private and protected accessor methods as well as public private and protected fields directly
+
+overload,weaker
+if you overload it you must also define it as protected or define it as public which is weaker
+
+note,variable,scope,sutable
+note that this will work when the variable is public but it is best to limit the scope as much as you can so protected is more sutable here
+
+rationale,private,stuff,life,programmer,easier
+what is the true rationale behind all the private and protected stuff when we can just make our life as a programmer easier by using public for everything
+
+novice,coders,limited
+and you really limit yourself by using public most novice coders look at protected as being more limited
+
+solutions,constructor,fine,thr,interface,better
+the solutions using a public constructor are fine too but as the constructor cannot be called directly on thr interface i think protected is better
+
+complicated,clear,base,class
+this approach seems more complicated and possibly less clear than inheriting protected and then using into public the base class members your child class actually needs to expose
+
+higher
+public is higher than protected so there s no problem
+
+objects,nothing,limit
+so only letting what are used for other classes and objects nothing more than that public for those where other classes would use too protected for those limit only for extending classes
+
+regex,modifier,private,returntype,return
+in my regex replace modifier with public private protected replace returntype with the return type and replace methodname with the method name.
+

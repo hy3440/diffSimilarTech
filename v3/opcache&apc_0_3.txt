@@ -1,0 +1,11 @@
+others---------------------------------------------------
+
+faster
+i don t want to use apc because opcache is around 10 faster than apc
+
+zend,performant,reliable
+zend opcache appears to be more performant than apc more fully featured and more reliable
+
+yii,longer,part,php5.5
+i am using yii 1.1.12 and recently upgraded my php from 5.3 to 5.5 and have found that apc is no longer to be used because opcache has been made part of php5.5
+

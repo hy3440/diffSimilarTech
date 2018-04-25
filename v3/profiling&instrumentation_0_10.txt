@@ -1,0 +1,32 @@
+others---------------------------------------------------
+
+addition,apps,xamarin,insights,alive
+in addition to instrumentation which i also use heavily to profiling my apps is the xamarin profiling to gain more insights of what is still alive and keeps some references
+
+slower,accurate,program,process,bugs
+tracing profiling are slower but more accurate they also require that the program be changed the instrumentation process which could potentially introduce bugs not that i have heard of it happening.
+
+detail,button
+you need to profiling your app in instrumentation to get more detail - there s a button right there in your screenshot
+
+iphone,faster
+in my experience normal execution on iphone is much faster than profiling with instrumentation
+
+permissions
+i guess profiling might need more permissions so it can reflect instrumentation
+
+shark,useful,time
+personally i find shark more useful than instrumentation for profiling my code and finding out what s taking up time when it matters
+
+helped--the,time,template,better,system,trace
+paulw11 s comment helped--the time profiling template is better suited for this task than the system trace instrumentation
+
+memory,leaks,tools,info,root,cause
+so my question is beyond instrumentation and the profiling using memory leaks which tells you the location of creation of the leaky object but not the root cause are there any other tools i could run that could give me any more info than instrumentation re tracking down the root cause point
+
+need,track,invocations,ability,methods,overhead,larger
+this is due to the fact that profiling need to instrumentation the code to keep track of invocations - this can interfere with the jit s ability to inline those methods and the instrumentation overhead becomes significantly larger than the time spent actually executing the methods body
+
+mac,opengl,tool,better
+if you re writing a mac app the opengl profiling tool profiling opengl code better than instrumentation
+

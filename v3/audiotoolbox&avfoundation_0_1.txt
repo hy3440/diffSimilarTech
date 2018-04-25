@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+someone,better
+can someone if i should use the avfoundation or whether the audiotoolbox library is better
+

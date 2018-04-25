@@ -1,0 +1,13 @@
+interfaces, idictionary, interface, ---------------------------------------------------
+
+specialized,interface
+ilist is a more specialized interface that extend icollection
+
+idictionary,specialized,interfaces
+idictionary and ilist are more specialized interfaces that extend icollection
+
+others---------------------------------------------------
+
+counting,richer,functionality
+icollection adds counting and ilist then gives richer functionality including find add and remove elements by index or via lambda expressions
+

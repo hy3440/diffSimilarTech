@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+better,performance,search,indexing
+stemming gives better performance than fuzzy search because it is done when indexing and the actual search can be performed as exact match
+

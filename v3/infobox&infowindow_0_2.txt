@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+becouse,styling
+is there any way to change infowindow with infobox becouse i need more styling than basic infowindows.
+
+html,content
+if you want to get more out of infowindow and put html content in them i would recommend trying infobox
+

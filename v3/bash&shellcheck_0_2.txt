@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+explicit
+shellcheck tends to be more explicit than bash
+
+helpful,site,potential,pitfalls,uniquenesses,syntax
+remember it will be helpful for you to use a site like shellcheck to learn more about potential pitfalls or the uniquenesses of bash syntax
+

@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+read,operation,write,operations,use,fetch-and-add,etc.
+i don t need more than atomic read operation and atomic write operations i have no use for fetch-and-add compare-and-swap etc.
+

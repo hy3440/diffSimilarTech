@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+documentation,better
+i am not sure but by reading the documentation i think you need to download the pyodbc it seems to be better supported than adodbapi
+

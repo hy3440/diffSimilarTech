@@ -1,0 +1,108 @@
+contionuous, values, max, ---------------------------------------------------
+
+serialnum,earlier,date
+if there is a run for a particular serialnum earlier than the minimum date of the range it won t be excluded
+
+maximum,salary,smaller,alot
+but my problem is that the maximum and minimum salary are not known or if the range are smaller then i had to write alot of codes to get the result
+
+point,expression,greater,value,lesser
+the reductive point here is the expression can actually be simplified to just the range that has the greater minimum value and the lesser maximum value
+
+necessary,exponent,straightforward,max,corresponding,binary,maximum
+figuring out the necessary exponent range is much more straightforward if you can describe the max and min possible absolute values of your input you can easily find suitable corresponding binary minimum and maximum exponent
+
+maximum,length,abc,opq,sub-lists,lengths
+the maximum length is only one more than the minimum length abc de fgh i jkl mn opq has seven sub-lists as well but the range of lengths is two here
+
+limit,higher,operating,sensor
+for this reason you need to either try and be smarter than just setting a limit or set you limit a bit higher than the minimum operating range of the sensor
+
+low,end,high,greater,equal
+for each low end of the range find the minimum high end of a range that is greater than or equal to the low end or in sql
+
+date,greater,lesser,larger
+to date is greater than the minimum date lesser than the larger date but not in range
+
+integer,values,predicate,value,greater,maximum
+how about for integer values you specify a range and a predicate that specifies the value must be greater than minimum less than maximum instead
+
+products,variants,price,greater,value
+now you can see in the product.rb i want to fetch the product based on the price so that in the with_min_range the result will be the products whose variants minimum price range will be greater than the value of min
+
+numeric,value,number,bits,maximum,lower,representable
+the cause for an integer overflow is when an arithmetic operation attempts to create a numeric value that is outside of the range that can be represented with a given number of bits either larger than the maximum or lower than the minimum representable value
+
+head,value,second,argument,last,greater,max_val
+what i can t seem to wrap my head around is how to determine the minimum value for the second argument to range that can guarantee the last value in the range is greater than max_val
+
+different,numbers,maximum,initial,contradictory
+to get the same difference with two different numbers one of them has to be either less than the minimum or more than the maximum of the initial range which is contradictory
+
+contionuous,interpolation,first,second,derivatives,monotonic
+the objective function is guaranteed to be finite and contionuous in the interpolation range along with its first and second derivatives and has no more than one minimum in this range if it has no minimum it is monotonic
+
+set,hyperparameters,closer,response,maximum
+for any particular set of hyperparameters this range is much closer to the minimum response than to the maximum
+
+contiguous,value,smaller,bigger,maximum,gap
+a range is contiguous when there is no value one smaller than the minimum and no value one bigger than the maximum and there is no gap within the range
+
+criteria,row,higher,maximum
+basically the result is to find a criteria in row and then in other range find minimum higher than 0 and maximum value
+
+value,lower,instance,scores
+you may initialize both scores to an value lower than the minimum for instance if scores range from 0 to 10 you may initialize them in -1
+
+32-bit,float,larger,-1..1,maximum,values,samples,int16
+if the 32-bit float range is larger than -1..1 then you need to find the minimum and maximum values and calculate a scale factor that gets the samples within the int16 range
+
+analysis,common,depth,values,greater,maximum
+i have hinted at my analysis of the problem finding the common range of depth values across all datasets and you should be able to track through how i have implemented this in excel to cater for cases where some datasets might contain depth values which are less than the minimum of the common range or which are greater than its maximum or possibly both
+
+negative,value,error,greater,exponent,number
+the smallest most negative value that does not cause a range error is the one greater than the minimum exponent minus the number of bits of mantissa
+
+circle, half, numberlowexception, ---------------------------------------------------
+
+half,circle,value
+the unfortunate side effect is that half your circle will be cut off as it extends into the range that is less than your minimum value
+
+argument
+the -7 argument is less than the minimum allowed range of 0
+
+value,numberlowexception
+if the value is less than the minimum value of the range it should throw a numberlowexception
+
+others---------------------------------------------------
+
+maximum,inclusion
+minimum 1.6.0 is not less then range maximum 1.0.0 inclusion is
+
+random,number
+how to get random number between given range in java if minimum is more than 1
+
+representation,larger,size,size_t,virtue,equivalent
+therefore there is no hard guarantee saying that the size of long must be equal to or greater than that of size_t but by current implementation standards say 2 s complement representation long will always be larger than the minimum size of size_t by virtue of having to store a larger range than that which is currently equivalent to that which can be stored by size_t minimally
+
+required,big,loop
+but even with the minimum required range it s more than big enough for your loop
+
+compression,distance,device,5m,longer
+if you use the range compression consider setting the required distance at least as large as the expected rms error for the gps device likly to be about 5m minimum use a longer distance if you can stand it
+
+better,mediump,ints,source
+this is slightly better than the minimum allowed for mediump as it can represent all of the ints in the range -2048 to 2048 source not the -1024 to 1024 that you re worrying about
+
+difference,b,w,maximum,respect,equal
+i want to combine range where the difference b w minimum and maximum of another range with respect to the considered range is less than or equal to 300 i e
+
+time,t1,t2,longer
+to summarize the problem given time range t1 and t2 on day d how can i determine the remaining time left in d that is longer than the minimum time block m
+
+
+this obviously means that range is less than its minimum of 1
+
+birds,argument,error
+but if there are less birds than the minimum spawns to wait for an argument out of range error would be thrown
+

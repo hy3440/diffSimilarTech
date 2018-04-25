@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+package,faster,straightforward,tm
+the quanteda package is faster and more straightforward than tm and works nicely with tidytext as well
+

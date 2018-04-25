@@ -1,0 +1,14 @@
+others---------------------------------------------------
+
+approach,efficient,simplicity,understanding,promises,simple
+the youtube approach seems much more efficient as far as amount of code and simplicity of understanding which makes me wonder why vimeo would use promises in this simple fast case
+
+professional,site,offers,h.264
+while vimeo is more of a professional site youtube offers html5 h.264 video playback support for all videos so they ll play on iphone
+
+miles
+in terms of interacting with javascript youtube is miles ahead of vimeo and performs much more reliably
+
+fewer,users,user,experience
+vimeo will always have fewer users than youtube because the user experience is poor for low bitrate users
+

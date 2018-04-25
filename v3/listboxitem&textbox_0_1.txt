@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+autosizes,content,drag,wider
+textbox autosizes to its content that s ok but when drag apperas the listboxitem becomes wider and move other items it s not ok
+

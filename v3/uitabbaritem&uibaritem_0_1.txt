@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+subclass,painful,uiview
+uitabbaritem is a subclass of uibaritem everything is more painful because uibaritem doesn t subclass uiview
+

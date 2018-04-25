@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+point,article,easier,place
+i guess the point that the article is trying to make here is that a facade is easier to implement when you already have this command-pattern in place
+

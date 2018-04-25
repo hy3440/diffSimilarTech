@@ -1,0 +1,19 @@
+best, opinion, easier, ---------------------------------------------------
+
+easier
+i found simpletest was even easier than phpunit to set up
+
+easier,best,opinion
+simpletest is slightly easier to grasp but phpunit is the best in my opinion at least so if you want to start learning and using a framework start with the one you re going to use when you ll be a master in tdd
+
+others---------------------------------------------------
+
+subjective,nicer,coverage,reports
+subjective phpunit provides much nicer code coverage reports than simpletest
+
+popular,date,new,release,webforms,useful,good,support
+phpunit is more popular and up to date as simpletest hasn t had a new release for some time though for testing webforms it s still very useful as phpunit does not have good support for that
+
+framework,simpler,command,line
+is there any easy php testing framework and may be simpler than simpletest and not command line based like phpunit
+

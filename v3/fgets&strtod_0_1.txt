@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+worthy,exercise,sscanf,better
+reading a line of numbers spaced with white-space except n and then finally terminated with n is possible with scanf and ungetc but not worthy of coding except as an exercise as using fgets and sscanf strtod is far better
+

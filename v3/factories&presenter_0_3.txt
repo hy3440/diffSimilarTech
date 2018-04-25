@@ -1,0 +1,11 @@
+others---------------------------------------------------
+
+web,client,easier,current,set,new
+more specifically - use an objectcontainerdatasource from the web client software factories to make it easier to bridge between the current ui and a set of new presenter classes
+
+thing,sub-factories,lighter,views,services
+which is basically the same thing as the factories then depend on sub-factories but at least they are lighter than presenter views services and they don t need to load the sub-factories until they are needed
+
+better,kind,view,supplier,gwt,instantiate
+a presenter is better to accept some kind of a view factories or a supplier in general as we can already hold an existing view especially in a gwt case and let the presenter decide when instantiate or accept the view
+

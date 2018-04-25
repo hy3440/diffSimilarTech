@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+likely,false,object
+more than likely prepare failed and is false instead on a pdostatement object
+

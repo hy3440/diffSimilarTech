@@ -1,0 +1,11 @@
+others---------------------------------------------------
+
+cleaner,api,better,platforms,opinion
+irrlicht has a cleaner api lower system requirements and works better across platforms than ogre in my opinion
+
+matrix,irrlich-engine,nicer,object
+i then exported the recognized camera-parameters and transformed them to fit the matrix s used by the irrlich-engine i also tried ogre but irrlicht seemed nicer to me and then rendered my object with it onto the image
+
+better,3d
+irrlicht is no way better than ogre 3d or am not trying to prove that
+

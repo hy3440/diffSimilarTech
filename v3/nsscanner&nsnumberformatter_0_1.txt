@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+easier,entire,string
+i was originally using nsscanner because it was easier than nsnumberformatter to use but i ran into the same problem it doesn t parse the entire string just the first number in the string
+

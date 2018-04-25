@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+setfixedsize,layout,size,owning,smaller
+instead i chose qlayout setfixedsize which made the layout adjust the fixed size of the owning qwidget effectively making it smaller when it needed to be
+
+qt,form,kind,quickest
+when you put more than one qwidget on a qt form you should always use some kind of qlayout the quickest way to fix your problem is to select all items in your form and click on the grid layout button the one with 3 x 3 small squares on top of the designer box
+

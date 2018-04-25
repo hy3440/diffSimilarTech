@@ -1,0 +1,13 @@
+slower, performance, usage, ---------------------------------------------------
+
+disk,usage,compression,faster,myisam
+from my personal use i experienced about 5 - 10 times less disk usage due to tokudb s compression and it s much much faster than myisam or innodb
+
+insert,performance,slower,myisam
+at the beginning the insert performance of innodb is almost 50 times slower than myisam and tokudb is 40 times slower than myisam
+
+others---------------------------------------------------
+
+use,tables,rows,nothing,faster,random,inserts
+i use tokudb on tables of up to 18 billion rows and nothing else comes close it s at least 100 times faster than innodb for random inserts on big tables
+

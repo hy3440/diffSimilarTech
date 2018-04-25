@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+pointers,standard,whereas,limited,subset
+if you don t need to serialize raw pointers to things and instead either use c++11 style smart pointers or no pointers at all i d recommend using cereal as it supports pretty much everything in the standard library whereas boost has a more limited subset
+

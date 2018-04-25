@@ -1,0 +1,66 @@
+sensitive, current, little, ---------------------------------------------------
+
+timings,sensitive,faster
+this shows that the timings are sensitive to buffering and that aes is faster than des
+
+faster,result
+aes will indeed yield a considerably faster result than des
+
+faster,cpu,aes-ni
+aes can be even much faster than des or 3des when the cpu supports aes-ni
+
+slower,modern,hardware
+des is usually substantially slower than aes on modern hardware and has keys that are far too short for modern use
+
+faster,3des,default
+if aes is negotiated it s faster than des and 3des used by default by older applications
+
+little,faster,smaller
+using des assuming it s a little faster than aes and requires a smaller key and
+
+slower,current,requirements
+des turned out to be even slower than aes but for my current requirements a much simpler algorythm rc4 is sufficient
+
+better, effective, example, ---------------------------------------------------
+
+analysis,rijndael-128,fast,bigger,size
+according to this analysis aes rijndael-128 is more than twice as fast as des 3des with a bigger key size more secure
+
+least,secure,3des,better
+des is the least secure 3des is better but i d go for the aes
+
+better,speedup,observations
+if you used aes then you might see a better speedup over the des 3des observations
+
+secure,triple,example
+i ve read that aes encryption is more secure than the triple des encryption ms is using in their example above
+
+example,flawed,algorithm,3des,better
+you re using des in your example which is a flawed and obsolete algorithm alternatively use 3des so i suggest moving to aes which provides better encryption
+
+care,secure,up-to-date,method
+i know you said you don t care about how secure it is but if you chose des you might as well take aes it is the more up-to-date encryption method
+
+effective,size,larger,triple
+note that the effective key size of aes is larger than triple des
+
+others---------------------------------------------------
+
+original,designers,genius,effort,cryptographers,greater
+the original des designers were genius but one could say that the aggregate effort of cryptographers for the aes has been far greater
+
+hardware,failure,power,ones,antenna
+turns out this was a hardware failure the aes commands need more power than the des crypto1 ones 50 more which the antenna failed to deliver at the reading range i was testing with
+
+api,old,encrypted,text,3des,better,safer
+how ever if you insist to use some api in java i have to say that des is really old way to encrypted text 3des desede or aes will be better and safer both of them have already been supported since java6
+
+secure
+also see why aes is more secure than des
+
+steps,vulnerable
+which steps of aes encryption makes it less vulnerable than des
+
+unrelated,actual,slower,small,better
+though it s unrelated to your actual question des is generally slower than aes at least in software so unless you really need to keep the key small aes is almost certainly a better choice
+

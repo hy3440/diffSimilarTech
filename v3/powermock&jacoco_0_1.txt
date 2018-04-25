@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+earlier,versions,offline,instrumentation
+on other cases earlier versions of powermock already worked with earlier versions of jacoco using offline instrumentation
+

@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+findsize,parent,sense
+put a group of controls for which you would later call findsize ... under the same parent a panel for example or a groupbox whichever makes more sense to you
+
+containers,panels,buttons
+if you have other containers like panels or groupbox inside that panel that contain more buttons these buttons are not enumerated this way
+

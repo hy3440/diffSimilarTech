@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+vertical,position,view,reliable
+vertical position altitude needs one more satellite in view at least 4 so is not always reliable if gps sees only 3 satelites
+
+third,link,error,greater,system
+quote from the third link - the altitude error is much greater because it is a satellite based system
+

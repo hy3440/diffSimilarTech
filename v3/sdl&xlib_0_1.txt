@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+mit-shm,extension,faster,surfaces,optimal
+in my experience xlib via mit-shm extension was significantly faster than sdl surfaces not sure i used sdl in the most optimal way though
+

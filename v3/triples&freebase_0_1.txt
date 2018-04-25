@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+api,raw,dump,distinct,entities
+since the api has been deprecated i m working with raw freebase dump which is now a list of 3.1 billion triples containing more than 500 million distinct entities subject object and i d like to reduce this number
+

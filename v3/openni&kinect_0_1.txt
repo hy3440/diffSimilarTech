@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+sensor,better,options
+another camera that i am thinking to use is the asus movement sensor but i dont know if this is better than kinect more options i know that both uses openni or if both are the same
+

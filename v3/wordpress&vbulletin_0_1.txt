@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+settings,page,admin,panel,easier,tutorials
+i searched a lot about a tutorial or even a documentation describing how to add custom settings fields to general settings page in vbulletin admin panel but no way unlike the wordpress which is much easier to get tutorials to
+

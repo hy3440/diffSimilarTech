@@ -1,0 +1,26 @@
+others---------------------------------------------------
+
+cheaper,sqrt,1-sin
+if i want to calculate a sin and a cos is it cheaper to calculate a sin and a cos or calculate a sin then a sqrt 1-sin 2 to get the cos
+
+small,values,integer,value,larger
+your conversion function results in very small values which for sin may not change the integer value of y and for cos result in larger values for x
+
+machine,faster
+or maybe flip them on my machine sin seems faster than cos
+
+taylor,expansions,x,longer
+the taylor expansions of sin x and cos x takes longer to converge as x increases
+
+smaller,pi,bigger,little
+3.14 is pretty close but a little smaller than pi and sin 3.14 is thus pretty close but a little bigger than 0 cos 3.14 is thus pretty close but a little smaller in absolute terms than -1 so tan 3.14 is a little less than 0
+
+tick,better,distinction,sign
+cos itself seems to be consistently a tick 0 01 better than sin but the case distinction to reconstruct the sign has an extra test
+
+closer
+in this case sin will be much closer to 1 and cos much closer to 0
+
+computing,theta,matrix,addition,faster,power,series
+this requires computing cos theta and sin theta just once and then each update is given by a matrix multiplication of a 2x2 matrix with a 2-d vector and then a simple addition which is faster than computing sin using the power series expansion
+

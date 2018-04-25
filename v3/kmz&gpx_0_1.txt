@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+loads,quicker,google,kml
+kmz loads much quicker than gpx and can be integrated with the google maps api as a kml layer
+

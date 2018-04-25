@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+game,box2d,physics,new,version,features
+now started porting game from cocos2d-x to sprite-kit as cocos2d-x not offers box2d physics and new version of cocos2d-x 3.0 has less features
+

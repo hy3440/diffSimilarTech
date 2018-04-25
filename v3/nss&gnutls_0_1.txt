@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+strict,openssl
+nss is more strict than either openssl or gnutls
+

@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+basic,older,version
+i have a basic python daemons created using older version of python-daemon and this code
+

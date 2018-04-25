@@ -1,0 +1,13 @@
+time-efficient, faster, linkedlist, ---------------------------------------------------
+
+faster,linkedlist
+i think that insertion-sort would be much faster then quicksort when sorting a linkedlist
+
+time-efficient,linkedlist
+it seems that when sorting insertion-sort would be more time-efficient then quicksort when sorting a linkedlist
+
+others---------------------------------------------------
+
+cs,better,merge-sort
+in cs insertion-sort is less commonly used because we have much better algorithms quicksort and merge-sort come to mind
+

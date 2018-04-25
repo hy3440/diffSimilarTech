@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+ways,features,bigger,following
+in some ways the jquery-week-calendar has more features at the moment but fullcalendar has a bigger following and is closing the gap on features
+

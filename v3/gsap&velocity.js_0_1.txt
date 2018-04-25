@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+outlets,use,better,management,animations
+i ve researched about the use of liquid fire and its fine but i don t quite like to have to use different syntax for the outlets and be tied down to the use of velocity.js i find better the use of gsap for the management of animations in terms of control and performance so i m wondering what kind of mechanism could i use to animate outlet transitions and above all deletion of models some kind of hook that i can make wait before the record deletion
+

@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+linker,equivalent,strings,total,parts,sections
+i m pretty sure the linker will coalesce equivalent strings so the total will be less than the sum of the parts for these sections but i guess typically not by much
+

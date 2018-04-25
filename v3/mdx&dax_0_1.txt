@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+calculation,improvement,horrible,functions
+the calculation language is dax which is an improvement on the horrible mdx - dax reads more like excel functions
+

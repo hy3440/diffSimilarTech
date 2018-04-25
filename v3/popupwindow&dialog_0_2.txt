@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+use,tests,better,problems
+i give up using popupwindow and use dialog instead after some tests i found dialog is far better than popupwindow there are quite a few problems with popupwindow
+
+time,front,fragment,popup.i,higher,priority,view,back.bringtofront
+every time i want to show popupwindow in front of dialog fragment the dialog is in front of the popup.i assume that dialog have higher priority in view tree.is there any option to bring my popupwindow to the front or send dialog to back.bringtofront is not working when it s called on view detailslayout
+

@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+greater,flexibility
+window media player uses directshow which gives you better performance and greater flexibility than playsound under mci
+

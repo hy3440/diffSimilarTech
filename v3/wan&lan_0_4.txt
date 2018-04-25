@@ -1,0 +1,14 @@
+others---------------------------------------------------
+
+stable
+wan is less stable than lan
+
+client,traffic,capacity
+even if all the traffic resides on the same network the client traffic will have been throttled by your wan capacity which is always less than your lan capacity
+
+stable,network,issues
+lan is more or less stable wan can be with network issues like
+
+things,faster,time,xfer,reverse
+i find that on a lan things are faster without compression compression takes more time than xfer and on a wan it s the reverse
+

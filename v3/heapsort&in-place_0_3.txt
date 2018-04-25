@@ -1,0 +1,11 @@
+others---------------------------------------------------
+
+worst,quadratic
+heapsort can sort in-place and doesn t have the worst case quadratic behavior but on average is slower than quicksort in most cases
+
+average,slower,standard,quicksort
+but heapsort is assumed to be on average somewhat slower than standard in-place quicksort
+
+faster,insert,sort,reversal
+dr your heapsort is not faster because it isn t actually a heapsort it s a backwards insert sort followed by an in-place ordering reversal
+

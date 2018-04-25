@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+various,tool,valgrind,cpu,google-perfutils,symbols,useless
+nevertheless various profiling callgrind tool in valgrind cpu profiling google-perfutils and perf doesn t find those debugging symbols resulting in more or less useless output
+

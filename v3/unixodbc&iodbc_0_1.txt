@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+os,x,better,luck,past
+the iodbc included with os x has some things that are listed as deprecated and i ve had better luck with unixodbc in the past
+

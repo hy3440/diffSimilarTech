@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+marcus,faster
+marcus yes memmove is faster than strcpy and faster than python but why
+

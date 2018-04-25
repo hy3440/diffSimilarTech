@@ -1,0 +1,29 @@
+powers, little, clearer, ---------------------------------------------------
+
+powers,bitshifting,little,clearer
+in addition for doing powers of two bitshifting is usually a little clearer than doing exponent though choose whatever works for you
+
+dividion,powers,subtraction,range,multiplication
+it will be much slower i don t have benchmarks but i would guess at least an order of magnitude maybe more decimal will not benefit from any hardware acceleration and arithmetic on it will require relatively expensive multiplication division by powers of 10 which is far more expensive than multiplication and dividion by powers of 2 to match the exponent before addition subtraction and to bring the exponent back into range after multiplication division
+
+instance, largerexp-smallerexp, mathematica, ---------------------------------------------------
+
+instance,larger,value,smaller,largerexp-smallerexp
+for instance to achieve addition you would scale the larger value to have the same exponent as the smaller one by multiplying it by 10 largerexp-smallerexp then adding the two values and rescaling
+
+coefficients,positive,qth,mathematica,larger,multiplication
+in addition since all my coefficients are positive and i only want the x qth one is there a way to get mathematica to discard all exponent that are larger than that and not do all the multiplication with those
+
+result, mantissa, operands, ---------------------------------------------------
+
+different,size,mantissa,subtraction,number,larger,result,bits
+if the exponent are more different than the size of the mantissa then addition or subtraction you get the number with the larger exponent as the result all the bits of the smaller number have shifted off into the bit bucket n + 0 n - 0
+
+fp,smaller,operand,mantissa,operands,certain,magic
+since fp addition shifts the smaller operand s mantissa until both operands have the same exponent you can add a certain magic number to force it
+
+mathematical,result,middle,point,floating-point,value,range,wider
+in the default to-nearest rounding mode the mathematical result of the addition would have to be above the middle point between double.maxvalue and the next floating-point value that could be represented if the exponent range was wider for the floating-point result to round up to infinity
+
+others---------------------------------------------------
+

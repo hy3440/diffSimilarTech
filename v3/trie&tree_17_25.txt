@@ -1,0 +1,81 @@
+wiki, dummy, dictionary, ---------------------------------------------------
+
+radix,better,memory,strings,regular,common
+a radix tree will provide a better memory usage for strings than a regular trie if you have a lot of strings with common roots prefixes which is probably the case for a dictionary words with many forms - although that would probably depend on the language
+
+efficient,sort,dictionary,binary,ternary
+most likely a trie is more efficient and you didn t sort your dictionary and it doesn t use a binary tree or ternary tree
+
+binary,search,similar,character,alphabet
+recursive is usually used for traversal and binary search tree but this tree is more similar to trie of only 2 character in alphabet
+
+suffix,dummy,nodes
+a suffix tree has less dummy nodes than the suffix trie
+
+article,better,binary,string,length,time
+the article says that a trie is better than binary tree as for a string of length m for trie it takes o m time and for binary tree it takes o m logn time
+
+suffix,advanced,substrings
+a suffix tree is more or less an advanced trie here you can also search for any substrings in o c as for the trie
+
+note,specific,keys,binary,search,general
+note that while a trie works for the specific case of keys which are strings a binary search tree is much more general and only requires that the keys can be ordered
+
+efficient,binary,hashmap,word
+as suggested a trie would be more efficient than a binary tree but you can use a hashmap and hash each word
+
+redix,suffix,better,kind
+also you can use redix trie or suffix tree these are far better suited for this kind of operations and much faster but they require a pre-processing of the data and might require more processing power
+
+better,kind,thing,symbols,values
+a trie is better suited to this kind of thing because it lets you store your symbols as a tree and quickly parse it to match values or reject them
+
+suffix,lighter,faster,index,dna
+the suffix tree is lighter and faster than the trie and is used to index dna or optimize some large web search engines
+
+radix,wiki,performance.the,memory,efficient
+use a radix tree wiki or trie wiki if you are concerned about performance.the radix tree is more memory efficient compared to a trie
+
+better,binary,search
+a trie is better than a binary search tree for searching elements
+
+general,easier,specialized,radix,requirements,space
+in this case a general trie might be easier to deal than the more specialized radix tree but the requirements in space are a bit higher
+
+children, dawg, representation, ---------------------------------------------------
+
+patricia,radix,space,efficient,table,strings,lookup,computational
+for example the patricia trie or the radix tree that is far more space efficient than an hash table for strings but of course being a tree lookup computational complexity is o log n and building it is o n log n
+
+space,overhead,patricia,representation,efficient,pointers,dawg
+however that space overhead can be reduced by compressing the trie using the patricia tree representation using a more efficient data structure to store child pointers or building a dawg from the trie
+
+node,children,space,efficient,ternary,search
+for cases where each node in the trie has most of its children used the trie is substantially more space efficient and time efficient than th ternary search tree
+
+others---------------------------------------------------
+
+n-ary,specific,method,vector
+i ve implemented a n-ary tree to be more specific a trie and i was wondering if there s a method to represent and traverse it as a vector
+
+ps,faster,compact,side,effects,tables,significant
+ps radix tree is usually faster and more compact then trie but suffers from the same side effects of trie comparing to hash tables though less significant of course
+
+b+,difficult,red-black,level,complexity
+finally b+ tree is admittedly more difficult to implement than a trie it s more on a red-black tree level of complexity
+
+van,emde,boas,better,bet
+a trie or perhaps a van emde boas tree might be a better bet for creating a space efficient set of integers with lookup time bring constant against the number of objects in the data structure assuming that even std bitset would be too large
+
+project,good,avl,woud,efficient,phonebook
+should i change my project to trie or is there any other good reasons where avl tree woud be more efficient than trie in case of phonebook
+
+use,levels,depth,complex,performance
+in my use case i don t anticipate the trie to grow more than 2-3 levels in depth so if your tree gets very complex you might want to analyze performance issues and see if the additional lookups will cause too much overheads
+
+deletions,array,expensive,tha,b
+another suggested reason is that deletions from a array mapped trie are more expensive tha from a b tree
+
+point,earlier,ternary,better,options
+instead there comes a point much earlier where a trie or a ternary tree become better options
+

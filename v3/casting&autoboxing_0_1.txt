@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+long,int,optimizations,cheaper,hashmap,operations
+is that casting from long to int plus sparsearray optimizations are going to be cheaper than autoboxing long to long for my hashmap operations
+

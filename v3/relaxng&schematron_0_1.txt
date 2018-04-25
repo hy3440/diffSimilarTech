@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+options,flexible,powerful,xml,schema,sort,validation
+other options to check are relaxng which is more flexible and powerful than xml schema or schematron which allows for exactly this sort of validation that needs to go deeper than structure and simple type-checks
+

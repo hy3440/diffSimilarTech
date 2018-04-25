@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+good,better,p
+i have tried with sublimetext 2 and it work very very good better than gedit p
+

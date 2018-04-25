@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+possible,better,macros
+it possible to do this a bit better by using variadic macros to do the stringification
+

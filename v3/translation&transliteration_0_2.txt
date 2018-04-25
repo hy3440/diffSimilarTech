@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+removal,better,tool,tr,characters
+for removal and transliteration there is a better tool called tr translation or delete characters
+
+issue,automatic,sql,linq,examples
+the issue here is that an automatic translation from sql to linq will often have to perform more transliteration than translation - generating examples of how not to write linq queries
+

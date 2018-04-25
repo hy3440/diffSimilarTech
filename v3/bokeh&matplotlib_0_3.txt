@@ -1,0 +1,11 @@
+others---------------------------------------------------
+
+imagergba,similar,afraid
+my guess is that imagergba in bokeh might be more similar to matplotlib s imshow but i m afraid i don t know
+
+pure,advanced,plot,show,mpl.to_bokeh
+i m sure it can be accomplished with pure bokeh but i m looking to do a more advanced plot with bokeh which relies on matplotlib so i m looking to use show mpl.to_bokeh
+
+use,standard,commands,large,datasets,useful
+they have quite different approaches mpl3d enables the use of standard matplotlib plotting commands but with large datasets bokeh may be more useful
+

@@ -1,0 +1,13 @@
+requests, wrapper, kinds, ---------------------------------------------------
+
+new,package,wrapper,easier,kinds
+the new package httr provides a wrapper around rcurl to make it easier to scrape all kinds of pages
+
+package,nicer,http,requests
+the httr package is a bit nicer than rcurl for making http requests in my opinion and it sets a user-agent string by default
+
+others---------------------------------------------------
+
+parallelization,better,alternative
+besides parallelization i also read that httr might be a better alternative to rcurl
+

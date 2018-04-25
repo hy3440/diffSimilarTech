@@ -1,0 +1,31 @@
+disclaimer, idiomatic, ---------------------------------------------------
+
+disclaimer,idiomatic
+disclaimer all this would be needed just to throw an illegalargumentexception which is less idiomatic than a nullpointerexception
+
+idiomatic
+arguably throwing a nullpointerexception would be more idiomatic than throwing an illegalargumentexception though
+
+others---------------------------------------------------
+
+mind,specific,argument,method
+in my mind illegalargumentexception seems more specific than using a nullpointerexception since it s telling me that the problem was with an argument i passed to the method and not with a value that may have been generated while performing the method
+
+sense,string,blank
+also throwing illegalargumentexception makes more sense instead of nullpointerexception when string has blank empty or null values
+
+longer,filepath
+decoding nullpointerexception is going to take a bit longer than illegalargumentexception filepath must be supplied or whatever
+
+implementations,methods,argument,null,wrong,implementation,sense
+there are some instances of implementations that i have seen for some methods that throw nullpointerexception if argument is null but that is wrong implementation in those cases illegalargumentexception makes much more sense
+
+communicative
+as others have said illegalargumentexception is an option but i think nullpointerexception is more communicative
+
+abstraction,level,better
+since it s an exported method clients should get an exception on their abstraction level so illegalargumentexception is better than nullpointerexception
+
+use,line
+notice my use of illegalargumentexception instead of nullpointerexception - the illegalargumentexception is more in line with what you re hoping to achieve
+

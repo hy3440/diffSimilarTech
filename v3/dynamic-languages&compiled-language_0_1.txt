@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+likely,better,error,free
+because you can determine what code in a compiled-language is likely to do better than a dynamic-languages it has been determined more error free to use a compiled perspective for more things so as you can see with the availability of offset-management and lookup compiled behavior given to you in core perl there is no reason to mess with the symbol table if you don t have to
+

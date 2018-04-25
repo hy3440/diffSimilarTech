@@ -1,0 +1,17 @@
+others---------------------------------------------------
+
+containers,jails,better
+linux containers and freebsd jails are a better alternative to chroot
+
+bourne,shell,capable
+be aware that the bourne shell in freebsd is more capable than on linux
+
+stable,least,release,s11e
+i d expect that freebsd would be more stable least changing from release to release than either linux or s11e
+
+flag,available,cygwin,macos,x,netbsd,better
+tail -f that is capital -f as opposed to lowercase -f is a non-standard flag available on linux cygwin macos x freebsd and netbsd that works better for watching log files which may be rotated occasionally
+
+personal,experience,better,low-end,hardware,modern,distro
+just a tip but from personal experience i ve found that freebsd works much better on low-end hardware than a modern linux distro does
+

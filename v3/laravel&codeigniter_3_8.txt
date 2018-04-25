@@ -1,0 +1,28 @@
+simpler, features, better, ---------------------------------------------------
+
+better,features
+before i am using codeigniter but i found out that laravel is much better than codeigniter and it has a lot of features
+
+simpler
+like laravel i see has lot of classes while codeigniter has much less classes and looks simpler to read follow extend
+
+better
+if you ve been using laravel then you already know it is better than codeigniter
+
+others---------------------------------------------------
+
+hot,time-effective
+i understand that laravel is what s hot right now but i ve never played with it and am not sure if learning laravel is more time-effective vs using codeigniter which i know pretty well but just doesn t excite me any more
+
+new,good,faster
+i am new to laravel it s good for coding but it is not much faster than codeigniter
+
+cooler,lightweigh,free
+edit 2 what i would suggest you do is either to try to learn laravel getting cooler or codeigniter lightweigh if you have some free time
+
+web,site,older
+unfortunately i m pretty sure you ll not find any packages or projects that migrates a joomla web site to laravel or maybe codeigniter which is much older than laravel
+
+personal,benchmarks,faster,lazy,loading
+in my personal benchmarks laravel is undeniably faster than codeigniter due to lazy loading
+

@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+center,widget,qvboxlayout,stuff
+the center widget is a qdockwidget containing a qwidget with a qvboxlayout containing more stuff
+

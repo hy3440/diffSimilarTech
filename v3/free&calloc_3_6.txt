@@ -1,0 +1,22 @@
+thereâ, memory, earlier, ---------------------------------------------------
+
+malloc,harder,thereâ,realloc
+malloc free is harder because thereâ s also calloc and realloc
+
+memory,earlier,malloc
+how does free know how much memory to be free d which was earlier allocated by malloc or calloc
+
+notice,program,function,malloc
+secondly i notice that when i run my program i m seeing the free function call more often than the malloc calloc calls 98 to 16
+
+others---------------------------------------------------
+
+context,store,different,heap,new,simpler,quicker,malloc,realloc,huge
+in this context free store is different and incompatible with heap because the new delete free store library is simpler and quicker than the malloc free realloc calloc heap library and thus provides huge memory usage gains to the c++ embedded programmer in a context where you have only 512 bytes of ram
+
+better,guarantees,smaller,allocations,page,malloc,os,zero-ed
+if you want better guarantees about zeroing or to get free zeroing on smaller allocations though it s more wasteful the closer to one page you get you can just explicitly do what malloc calloc do implicitly and use the os provided zero-ed memory replace
+
+time,new,complex,allocation,dozen,call,several
+it takes extra time because new or calloc are much more complex than the allocation on the stack in typical machines allocating space on the stack takes 1-2 instructions above and beyond the same function with no variables at all where a call to new or can be half a dozen just for the call and the same again for delete or free and several dozen to a few thousand instructions inside those library functions - how long the code is depends largely on how it is implemented and whether the runtime has some memory available or a call into the os is required to get some more memory as well
+

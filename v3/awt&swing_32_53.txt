@@ -1,0 +1,171 @@
+better, components, advanced, ---------------------------------------------------
+
+better,advanced
+as already mentioned by others better to use swing over awt since swing is more advanced
+
+richer,out-of-the-box,components
+well swing is richer in terms of out-of-the-box components than awt
+
+javafx,better
+swing or javafx would be better than awt
+
+web,old,newer,possible
+you can read all over the web that awt is old and deprecated and swing is old but newer than awt and should be preferred over awt whenever possible
+
+better,obsolete
+swing is far better than the obsolete awt library
+
+better,performance,old,heavyweight
+consider using swing which has much better performance over the old heavyweight awt
+
+program,frame,better,restricted
+i have a program an awt frame yes i know that swing is better but i am restricted from using it that has 2 moving objects
+
+easier,listeners
+i find that the swing library is easier to use than awt although you do still have to use awt for listeners
+
+functionality,advanced,better,features
+it has functionality the same as a canvas but swing is more advanced and has better features than awt
+
+newer,better,api
+yes swing has newer and better api s than awt
+
+better,gui
+i haven t worked with awt much but swing is much better from the gui developer s point of view
+
+features,components
+in swing has more features than the awt components
+
+better,components
+swing is better and few people remember how to use awt components
+
+better,functionality
+i personally would just skip using awt and move to swing which provides better built in functionality for this type of thing
+
+efficient,advanced
+generally swing is more efficient and advanced than awt
+
+assignment,better
+it seems unfortunately i am stuck using awt to do this assignment seeing as swing would be better
+
+faster,platform,component
+its was said that awt is faster than swing as it uses the platform component but due the arrival of faster processor etc ..
+
+better,gui-based,first
+swing is far better then awt and should be educated to people who is writing gui-based java for the first time
+
+engine,easier
+the only problem is that we don t know what to use our very own engine with awt or if we could use swing to make it easier
+
+newer,better,api
+swing has newer and better api s than awt
+
+nobody,better
+nobody uses awt anymore because swing is much better
+
+javafx, alternative, stylish, ---------------------------------------------------
+
+javafx,stylish,difficulty,alternative,filledoval
+i m doing a project at university which i decided to do in javafx as it is more stylish than swing but i m having difficulty to find an alternative to the filledoval library for the canvas awt as i can t use the canvas awt in javafx
+
+date,experience,days,javafx
+awt is really out of date people have more experience with swing no days and even javafx
+
+level, bindings, lower, ---------------------------------------------------
+
+general,tip,bindings,lower,level
+as a general tip for swing typically use key bindings over the awt based lower level keylistener
+
+bindings,lower,level
+for swing typically use key bindings over the awt based lower level keylistener
+
+flexible, robust, gui, ---------------------------------------------------
+
+possible,robust,flexible
+i suggest if possible that you not code in awt but rather code with swing which is much more robust and flexible
+
+ditch,hero,gui
+if you want to ditch the zero awt and get with the hero swing read more at creating gui with swing
+
+application,apps,flexible
+consider creating a swing application not an awt application since swing apps are more flexible powerful and robust
+
+money,gui,robust,flexible
+also for my money i d create a swing gui not an awt gui as swing is much more robust and flexible
+
+gui,powerful,flexible
+use a swing gui not an awt gui since swing is much more powerful and flexible than awt
+
+useful, ---------------------------------------------------
+
+useful
+are there any cases where awt is more useful advised to use than swing or vice-versa
+
+useful
+as far as when awt may be more useful than swing -
+
+others---------------------------------------------------
+
+light,weight,components,memory
+i mean by light weight i thought maybe the swing components occupy less memory than the awt components
+
+layer,primitive,foundation,swings,advanced
+i imagine this is caused by the awt layer which i understand is a primitive foundation for swing not understand swings more advanced events
+
+jframe,frame
+swing has more or less deprecated awt so you should extend jframe instead of frame
+
+use,threading,rules,likely,onerous
+use swing follow the threading rules which are hardly likely to be more onerous than awt and enjoy
+
+lightweight,framework,native,libraries
+swing is a lightweight framework provided by java while awt relies more on native libraries and is considered heavyweight
+
+older,interface,days,general,listener
+the keylistener is an older interface from the awt days its still ok to use it with swing but is more of a general listener
+
+alternate,older,worse,technology,use,flowlayout
+alternate way is to use awt - which is an older and worse technology than swing and in that case you can t use flowlayout - it puts all the components into one row
+
+advantage,components,available,extensible,graphics-rich,applications
+the advantage of swing is that it has many more components available such as jtable and jlist which are more graphical and extensible than the components provided in awt allowing for more graphics-rich applications to be developed
+
+light-weight,jcomponent
+also you re mixing up awt with swing - use more light-weight jcomponent instead of component
+
+thin,layer,top,os,larger
+awt is a thin layer of code on top of the os whereas swing is much larger
+
+up-to-date,means,client,jframe,application
+instead of awt consider a more up-to-date means of representing your client such as swing and also deploy as a jframe based application on java web start
+
+first,try,ui,better,alternative,flexible,maintainable
+awt was the first try on ui for java later swing provided a better alternative because they use light components the component draw the ui them selves instead of relaying on native code and those light components were way lot flexible and maintainable then awt
+
+greater,power,flexibility,age
+in general avoid awt for swing which has much greater power and flexibility although it too is showing its age just less so than awt
+
+portable
+the swing library is much more portable than the awt library
+
+approach,closer,jdk,improvements,pipeline,java2d
+the awt approach seems closer to bare metal but since jdk 6 brought a lot of improvements in swing rendering pipeline i would go the swing java2d approach
+
+combobox,item,jcombobox,better
+note first there is no combobox item in awt there is jcombobox in swing which is better to use than choice of awt
+
+similar,capabilities,simplest,form
+swing is relatively similar to awt apart from the fact that swing has more capabilities awt is probably the simplest form to start out with and has most if not all of the tools to complete your project hope this helps
+
+capable,modern,components,rich,text,apis
+either is capable of doing it but swing is more modern and supports components jtree jtable .. and functionality double-buffering built-in key bindings plafs support for rich text that is missing from the awt apis
+
+time,components,native,compilation
+swing will save your more time than awt as all the code of components of swing are purely written in java whereas of awt code of components are written in native language that is other than java thus compilation time of awt is more than swing
+
+use,comfortable
+i know you re thinking why did i use awt instead of swing but at the moment i am more comfortable with awt
+
+performance,components,slower,buggier,pure,issues
+performance swing components are generally slower and buggier than awt due to both the fact that they are pure java and to video issues on various platforms
+

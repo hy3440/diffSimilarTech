@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+plan,mobiles,better
+if you don t plan to move to mobiles later tkinter or pyqt may be a better choice than kivy
+

@@ -1,0 +1,11 @@
+others---------------------------------------------------
+
+nxm,matrix,singular
+thus if the rank of an nxm matrix is less than min n m then the matrix is singular
+
+simple,indices,array,arr,greater,value
+a simple way to get the indices of a rank 1 array arr for elements greater than value min is
+
+user,score,higher
+i tried this but sometimes user by min score got higher rank
+

@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+component,algorithm,efficient,iteration,graph,graphx,version
+connected component algorithm on graphframes either run a more efficient algorithm and reduce number of iteration or convert the graph to an rdd and then run graphx version
+

@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+winforms,difficult
+however integrating cefglue into your winforms or wpf app may be more difficult than cefsharp
+

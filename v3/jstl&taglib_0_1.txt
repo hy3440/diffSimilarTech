@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+sql,slower,result
+generally i noted that jstl sql taglib is much slower than java code because it put all the result set into an hashmap
+

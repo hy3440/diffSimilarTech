@@ -1,0 +1,11 @@
+others---------------------------------------------------
+
+team,smaller
+also i believe the ironruby team is smaller than the ironpython team
+
+time,performance,improvements,significant
+ironpython has had more time to focus on performance improvements but ironruby has made significant performance improvements as of late
+
+things,mature,better,performance
+however as things stand right now ironpython is much more mature and has much better performance than ironruby so you may prefer to use that
+

@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+v1,fit,v4,table,id,time,stamp
+in fact v1 uuid is more fit than v4 if you use the uuid just as a table id - because it uses mac-address and time stamp to prevent clashes
+

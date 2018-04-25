@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+path,directory,appropriate,folder
+assuming your solution is winforms and your user is selecting a directory i m not sure how to interpret your use of path -- the file s path or a path to a directory a folderbrowserdialog might be more appropriate than a openfiledialog as it allows you to choose the folder directly
+

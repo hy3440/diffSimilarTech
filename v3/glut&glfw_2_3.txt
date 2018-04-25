@@ -1,0 +1,13 @@
+opengl, menus, posters, ---------------------------------------------------
+
+opengl,better,menus
+or if you re really focused on only doing opengl i may suggest using glfw which is the better glut but you ll have to draw the menus yourself using opengl
+
+posters,better
+edit explained as i m guessing you are somehow forced to use glut but i agree with other posters glfw is a better option if you can choose
+
+others---------------------------------------------------
+
+closer,character,small
+between these glfw is much closer to glut in character -- a small toolkit for abstracting away most of the os-dependent parts so you can produce opengl programs with relatively little hassle
+

@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+conflict,datalab,version,greater,equal
+based on the output in this example one conflict is that datalab currently has oauth2client version 1.4.12 installed and the google-api-python-client library requires a version of oauth2client that is greater than or equal to 2.0.0
+
+newer,version,google,analytics,scripts,older
+there s a known bug that when you install the googleads library using pip it will install a newer version of the oauth2client library which will break my google analytics api scripts because the google-api-python-client uses an older version of oauth2client
+

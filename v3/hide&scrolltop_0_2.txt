@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+scroll,function,cart,button,height,navigation
+the scroll function hide the cart button if scrolltop is less than the height of the navigation bar
+
+div
+when scrolltop is less than 300 show the div otherwise hide it
+

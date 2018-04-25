@@ -1,0 +1,17 @@
+others---------------------------------------------------
+
+easier,office,infrastructure,familar,whole,idea
+the comaddin base class makes it a bit easier to create an office add-in and reduce infrastructure code to be more familar with vsto - thats the whole idea
+
+.net,route,express,xldna,limitations
+if you want to go the visual studio .net route i would recommend you look at add-in express or xldna rather than vsto both of these have less limitations than vsto
+
+users,features,stop,apparent
+however since i know that the add-in is more or less working as is for all users some of whom use excel 2010 and some of whom use excel 2013 and some of whom may explicitly have vsto installed and some of whom may not i d like to be sure that i m not setting myself up for a bruising later on when some features of the add-in stop working for no apparent reason due to changing the setting
+
+sheet,faster,wcf,data
+if you spreadsheet file has to be downloaded from server you can use epplus on server to generate spread sheet it will be much faster than vsto than you can use wcf from add-in in excel app to upload the data
+
+vba,troublesome
+vba add-in are a bit troublesome to deploy but vsto is even more so
+

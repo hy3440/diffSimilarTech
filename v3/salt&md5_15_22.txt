@@ -1,0 +1,74 @@
+fancy, good, answers, ---------------------------------------------------
+
+passwords
+passwords stored as md5 without a salt are much more easily cracked
+
+passwords,fancy
+decode the passwords yourself and re-encode them with a salt i recommend something a little more fancy than md5
+
+better
+it is not better than md5 plus salt
+
+passwords,better
+this uses pdo and prepared statements which patches the sql injection vulnerability in the most elegant way possible not mysql_real_escape_string and also uses bcrypt for hashing passwords which is infinitely better than one md5 with no salt
+
+good,answers,better
+for the password hashing there are lots of discussions about this out also good answers on so you should probably move away from md5 and use a better salt
+
+sha256, secure, ---------------------------------------------------
+
+sha256,secure
+using sha256 with a salt will be much more secure than md5
+
+secure
+4 md5 can be made more secure by using a salt
+
+password, algorithm, random, ---------------------------------------------------
+
+sha-256,passwords,md4,longer,secure
+now personally i generally use a salt sha-256 hash on my passwords because i thought that md4 and md5 were no longer secure and that hashing a password multiple times would just put too much strain on a server for no practical benefit
+
+strong,password,average,better,usual
+so md5 + strong password + average salt is better than usual password + phpass
+
+algorithm,protection,secret,value,sensitive
+hashing with sha md5 or any other algorithm solves the problem of key protection because you don t need to keep any secret value other than salt but salt is significantly less sensitive than encryption key
+
+strong,password,average,better,usual
+so md5 + strong password + average salt is better than usual password + super-extra-cool_hash and quite enough
+
+encrypted,password,random,difficult,dictionary
+an md5 encrypted password usually includes a random salt to make it more difficult to perform dictionary attacks
+
+algorithm,random,common,opinionï¼š,sha-256,stronger
+encrypt the passwords with one-way encryption algorithm with a random salt like the common opinionï¼š sha-256 is stronger than md5
+
+secure,password,slow,slower
+bcrypt is considered the most secure way to implement password hashing with salt because it is slow - much slower than an md5
+
+better,security,ip,secret,date,parameter
+you can md5 or encrypt for better security the client ip using a secret salt + date and pass this as a parameter in iframe src url
+
+others---------------------------------------------------
+
+sha1,cycles,unhash,use,rainbow
+i think i understand the purpose of using sha1 as it s supposed to require more cycles than md5 to hash unhash and the salt is supposed to prevent the use of rainbow tables
+
+encypted,method,safer,good,step,past
+using a encypted method with a salt would be even safer but this would be a good next step past just using a md5 hash
+
+better,secure,todays,perspective,risk,rainbow
+please do not just a md5 better use something more secure from todays perspective and salt it properly to minimize the risk of rainbow attacks
+
+use,complicated,string,form
+if you care about your user s passwords at all use something more complicated than md5 and ideally you should have a salt string of some form
+
+passwords,simple,user,login,end,system,secure
+actually you can insert the passwords as a simple md5 hash it will still work for letting the user login though it is recommended to then change the password through the front end system as the salt passwords are more secure
+
+installation,old,hash,better,two-encrypted
+if your php installation is too old even salt hash with md5 are better than two-encrypted password
+
+construction,answer,||,concatenation
+a construction with a salt may be md5 answer || salt where || denotes concatenation
+

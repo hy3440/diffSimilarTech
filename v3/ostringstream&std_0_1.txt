@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+ideone,slower,copy,back_inserter,vector
+on ideone the ostringstream is about 3 times slower than std copy + back_inserter + std vector and about 15 times slower than memcpy into a raw buffer
+

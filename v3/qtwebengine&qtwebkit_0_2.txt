@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+worse,poorer,qt,facilities
+unfortunately qtwebengine has much worse and poorer integration with the rest of qt facilities than qtwebkit
+
+faster,stable,old,widgets
+i ve also noticed that qtwebengine is significantly faster and more stable that the old qtwebkit based widgets
+

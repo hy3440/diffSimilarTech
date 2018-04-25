@@ -1,0 +1,54 @@
+version, values, papi, ---------------------------------------------------
+
+single,threaded,operations,faster
+single threaded sse operations are faster than single threaded avx operations
+
+version,faster,original
+so the avx version does indeed appear to faster than the sse version both for the original implementations and the optimised implementations
+
+scalar,faster,speed,matrix
+the question is avx scalar is 2.7x faster than sse when i vectorized it the speed up is 3x matrix size is 128x128 for this question
+
+faster,smaller,values,fast
+now for sse is clearly faster and for the smaller values it s nearlly as fast as avx
+
+performance,better,faster,papi,total
+as expected the performance got better with both and avx 2 faster than sse 4.2 but when i profiled the code with papi i found out that the total number of misses mainly l1 and l2 increased a lot
+
+thing,version,slower
+i have code that does the same thing but the avx version is considerably slower than the sse version
+
+math, routines, cpus, ---------------------------------------------------
+
+l1d,cache,faster,cpus,haswell
+for small buffers hot in l1d cache avx can copy significantly faster than sse on cpus like haswell where 256b loads stores really do use a 256b data path to l1d cache instead of splitting into two 128b operations
+
+routine,runs,faster,math,routines,slower
+before the avx routine runs all the tests are around 80-130 faster then fpu math as can be seen here after the avx routine runs the sse routines are much slower
+
+congratulations,back,routine,third,faster,haswell
+so congratulations - you can pat yourself on the back your avx routine is indeed about a third faster than the sse routine tested on haswell i7 here
+
+others---------------------------------------------------
+
+sse3,older,versions,sse2
+when i can use sse3 or avx are then older sse versions as sse2 or mmx available -
+
+newer,faster,number,function,important,argument,answer
+also note that the fact that the avx are a newer than sse doesn t make the avx faster whatever you are planning to use the number of cycles taken by an function is probably more important than the avx vs sse argument for example see this answer
+
+new,instruction,set,extension,wider,vector
+you should look into avx the new instruction set extension that evolves sse to support wider vector units
+
+speedup,ivb
+i think you re saying that avx was less of a speedup over sse on your ivb
+
+underlying,various,limitations,execution,units,side,instructions,boundary
+the underlying reason for this and various other avx limitations is that architecturally avx is little more than two sse execution units side by side - you will notice that virtually no avx instructions operate horizontally across the boundary between the two 128 bit halves of a vector which is particularly annoying in the case of vpalignr
+
+faster
+i expected avx to be about 1.5x faster than sse
+
+core,slower,ultimate,fast,popcount,comparison,irrelevant
+i know this does not answer your core question why avx is slower but since your ultimate goal is fast popcount the avx - sse comparison is irrelevant as both are inferior to the builtin popcount
+

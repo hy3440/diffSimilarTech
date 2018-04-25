@@ -1,0 +1,13 @@
+border, border-radius, border-color, ---------------------------------------------------
+
+border-radius,circle,color
+you just set the div with border-radius so that it is a circle and background-color is the more transparency color in the circle
+
+10px,border,border-color
+still if you don t want the elements background-color to span more 10px because of the transparency border and you do not want to set the border-color to match the background color you can use css content property like this
+
+others---------------------------------------------------
+
+element,black...rather
+for example setting the background-color on a transparency element turns it black...rather than the intended color.
+

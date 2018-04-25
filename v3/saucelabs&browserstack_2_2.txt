@@ -1,0 +1,10 @@
+better, cheaper, manual, ---------------------------------------------------
+
+testing,look,cheaper,unlimited
+i ve been looking at services and the two most comparable for grid testing look to be saucelabs as mentioned above and also browserstack which offers a cheaper unlimited package i believe
+
+better,manual,testing
+edit i just came across saucelabs which seems to be even better than browserstack for manual testing and they also cover many web browsers tablet mobile devices
+
+others---------------------------------------------------
+

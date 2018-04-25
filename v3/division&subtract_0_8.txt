@@ -1,0 +1,26 @@
+others---------------------------------------------------
+
+radix2,shift,faster,easier
+radix2 division shift and subtract would be much faster and easier to implement
+
+result,expression,interesting,multiplication
+however if the result a is added to or subtract from another expression and not reused then starting with the division may be more interesting since you can group the multiplication with the following addition by using a fma thus with a single rounding
+
+subtraction,level,logic,slower,addition
+division is performed by repeated subtraction therefore needs more level of subtract logic making division slower than addition
+
+result,larger,results,array,current,wattage
+if division result is larger than 1 push the current transformer to the results array and subtract the current wattage from the total wattage
+
+calculation,type,int,part
+one way to check whether or not a double is a whole number without knowing the calculation type this works for more than just division would be to subtract the int part to get the fractions part and compare to zero
+
+multiplication,trouble,long,version,point,numbers
+i d think the the multiplication division would give you more trouble but nevertheless in the long version you are still subtract two floating point numbers
+
+version,safer,remainders
+version 2 is safer as it subtract remainders before division
+
+harder,subtractions,remainder,oodles
+division is much harder to calculate with subtractions can t go too far find remainder - if a float then calculate fraction from remainder which in itself is oodles of add multiplying and subtract
+

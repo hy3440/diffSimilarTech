@@ -1,0 +1,55 @@
+specific, functions, ---------------------------------------------------
+
+specific
+ienumerable is less specific than ilist
+
+specific,functions
+ienumerable is less specific than an ilist that is ilist has functions that ienumerable does not
+
+functionality, nhibernate, interface, ---------------------------------------------------
+
+thing,nhibernate,functionality
+another thing that bothers me is why in nhibernate always it is being used ilist and not ienumerable which has less functionality
+
+tolist,interface,functionality
+you need to use tolist to convert it from ienumerable because the ilist interface supports more functionality than the ienumerable interface
+
+better, good, iqueryable, ---------------------------------------------------
+
+icollection,better,large
+compared to ienumerable and icollection ilist performs much better for large or dynamic lists because it provides an indexer allowing us quick random access
+
+iqueryable,better,generic,good
+generally ienumerable and iqueryable are even better than ilist as they re more generic unless you want to limit this with good reason of course
+
+abstract, possible, collections, ---------------------------------------------------
+
+abstract,possible
+ienumerable is more abstract and is generally preferred to list or ilist if possible
+
+method,collections,abstract
+another suggestion change you to because you can keep an extension method for more collections because the ienumerable is more abstract than ilist
+
+others---------------------------------------------------
+
+work,specialized
+the reason why this doesn t work specifically is because ilist is more specialized than ienumerable
+
+stronger,guarantees
+ilist is stronger in that it makes more guarantees than ienumerable
+
+specific
+an ienumerable is less specific than an ilist
+
+methods,base,larger,selection
+basically the methods will range from a base of ienumerable all the way up to ilist which has a larger selection available
+
+specific,implements,.count,delete,use
+ienumerable is less specific than ilist ilist implements ienumerable so unless you want something specific from ilist such as .count as you suggest or perhaps add delete etc i d use ienumerable
+
+able
+thus ilist is more than ienumerable and you won t be able to get away with it
+
+lighter,situations,approach
+yes i understand that ienumerable is much more lighter rather than ilist but anyway there is a lot situations where we need to have ilist instead of ienumerable and in this approach we need to cast ienumerable to ilist isn t it
+

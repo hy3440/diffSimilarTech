@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+example,resources,security,possible,access
+this example will move the resources folder into web-inf hereby ensuring more security it is now not possible anymore to access those resources independently from the facesservlet
+

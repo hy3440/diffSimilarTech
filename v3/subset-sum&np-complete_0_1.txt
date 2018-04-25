@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+variant,decision,np-hard
+the subset-sum problem is hard more precisely it s np-complete which means that your variant is hard too it s not np-complete because it s not a decision problem but it is np-hard
+

@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+scanf,better,output,char,array,character
+read the number in a char array a with scanf s a or better with fgets and output the char array reversed by outputting each character starting from strlen a - 1 to 0
+
+input,newline,.hence,parameter,original,number
+the fgets function accepts the input when a newline character enter key when using stdin is encountered and the newline character n is considered a valid character by the function and included in the string copied to your str2 .hence when you pass it as a parameter to strlen it gives one more than the original number of characters in your string to account for the additional n character
+

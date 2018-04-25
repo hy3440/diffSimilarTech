@@ -1,0 +1,11 @@
+others---------------------------------------------------
+
+faster,part
+also we see hadoop s sqoop is much faster than spark for this part but it writes to hdfs which will needs a lot of work to be converted to dataset for spark uses
+
+details,oracle,connectors,better
+can anyone give some details about oracle hadoop connectors will it perform better than sqoop
+
+older,functional,mature,project,bits
+sqoop 1 is older fully functional and mature project supporting hadoop 0.20 1.x 0.23 and 2.0.x you can download the bits from here
+

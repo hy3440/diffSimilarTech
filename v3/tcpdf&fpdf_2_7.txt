@@ -1,0 +1,25 @@
+look, past, better, ---------------------------------------------------
+
+look,better
+i suggest you to give a look to tcpdf which is far better than fpdf also because it is actively developed
+
+past,better
+i ve used tcpdf in the past and found it a lot better than fpdf
+
+others---------------------------------------------------
+
+good,news,better,utf8,modern
+somewhat good news you could move to tcpdf which is much better at handling utf8 and is more modern in general than fpdf
+
+demonstration,presentation,in-built,capabilities
+the demonstration of tcpdf i saw at the following presentation showed that tcpdf may have more in-built capabilities the fpdf
+
+side,note,fork,better,supports
+on a side note i d recommend using tcpdf instead - it s a fork of fpdf that has better supports for utf8 among some other improvements
+
+slower
+tcpdf was always slower than fpdf
+
+information,things,faster,confirmation,slower
+if anyone has some information on this problem i d really appreciate it - either things you did to make tcpdf faster or just confirmation that it runs slower than fpdf so i can forget about it and just stick with fpdf
+

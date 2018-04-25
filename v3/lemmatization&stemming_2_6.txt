@@ -1,0 +1,22 @@
+2, user, consider, ---------------------------------------------------
+
+2-,consider,stemmers,simpler
+2- consider stemming instead of lemmatization stemmers are much simpler smaller and usually faster than lemmatizers and for many applications their results are good enough
+
+user,simpler,version
+you can also user a stemming which is a simpler version of lemmatization
+
+others---------------------------------------------------
+
+thing,porter,algorithm,better,cause.
+p the second thing is porter stemming algorithm but then i realized lemmatization is much better for my cause.
+
+better,results,source
+lemmatization should lead to better results than stemming source
+
+valid,operation,better,solution,faster
+if you require that the words are still valid after this operation lemmatization will be a better solution otherwise stemming might be better because it is way faster to execute
+
+harder,ready
+lemmatization is relatively more complicated as compare to stemming that is why it s harder to find some ready and free solution
+

@@ -1,0 +1,13 @@
+appealing, syntax, compatible, ---------------------------------------------------
+
+coco,appealing,syntax
+livescript derived from coco which itself was derived from coffeescript it has the more appealing syntax to me it even has my beloved pipeline | operator from f#
+
+coco,compatible,functional,feature
+livescript is coco but much more compatible with coffeescript more functional and more feature rich
+
+others---------------------------------------------------
+
+coco,npm,github,space,sensitive
+coco and livescript on npm or github both are derived from coffeescript and are more space sensitive which allows you to do
+

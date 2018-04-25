@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+faster,protocol,simpler,alternative
+androidviewclient while not faster because it relies on the same protocol as hierarchyviewer may provide a simpler alternative to write tests
+

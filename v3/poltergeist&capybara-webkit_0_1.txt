@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+screen,dependencies
+capybara-webkit was more complicated to set up than poltergeist because it requires a screen and it has many dependencies
+

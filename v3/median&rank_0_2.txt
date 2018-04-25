@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+step,insertion,b
+this step works because all elements less than the median in a would intersect only with those elements before the insertion rank of a s median in b
+
+ave,greater,group
+we use ave to see which rank are greater than the median for each group and we select where those are true
+

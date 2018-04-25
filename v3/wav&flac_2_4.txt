@@ -1,0 +1,16 @@
+comment, better, ogg, ---------------------------------------------------
+
+better,ogg
+i also know that it can deal with flac better than wav and ogg
+
+comment,better,ogg
+regearding your comment i also know that it can deal with flac better than wav and ogg that is not really the case
+
+others---------------------------------------------------
+
+engine,audio,mp3,ogg,mod,s3m
+it is a high level 2d and 3d cross platform windows mac os x linux sound engine and audio library which plays wav mp3 ogg flac mod xm it s3m and more file formats and is usable in c++ and all .net languages c# visualbasic.net etc
+
+smaller
+flac is smaller than wav
+

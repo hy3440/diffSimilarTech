@@ -1,0 +1,10 @@
+headline, newer, powerful, ---------------------------------------------------
+
+newer,powerful
+since qqmlapplicationengine is newer than qquickview one would naturally assume that it is more powerful
+
+headline,newer,powerful
+headline qqmlapplicationengine is newer and more powerful than qquickview
+
+others---------------------------------------------------
+

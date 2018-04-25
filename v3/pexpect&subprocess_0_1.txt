@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+task,easier,third-party,module,keyboard,interaction
+you may find this task easier with pexpect which is a third-party module for automating subprocess keyboard interaction
+

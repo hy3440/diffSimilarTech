@@ -1,0 +1,19 @@
+symfony, template, cleaner, ---------------------------------------------------
+
+market,engine,new,symfony,better
+if your in the market for a templating engine twig a new templating engine used by symfony is much better than smarty imho
+
+experience,functionality,syntax,cleaner,template,engine
+either way i intend to use smarty partly because i have lots of experience with it and partly because its much more well documented and has much more functionality than blade and to me the syntax is slightly cleaner than twig although the template engine is not the point of this question really
+
+others---------------------------------------------------
+
+django,html5,node.js,tcl
+supports javascript mason xbl xul rhtml scss python html ruby python3 xml sass xslt django html5 perl css twig less smarty node.js tcl templatetoolkit php
+
+years,old,v3,practical,html5
+then again smarty 2 is years old v3 has been with us for years and twig is far more practical in the html5 age
+
+better,self-restraint+plain,ide
+if you use twig which i like better than smarty - although i still prefer self-restraint+plain php most ide s that support django templating should work with it since the syntax is nearly the same
+

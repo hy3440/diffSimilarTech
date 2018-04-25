@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+side,product,better,performance,easier
+this server side product was openfire but you could use ejabberd for even better performance - openfire is easier to set up and maintain though
+
+prosody,better,alternatives
+we are currently using ejabberd but prosody or openfire are perhaps better alternatives
+

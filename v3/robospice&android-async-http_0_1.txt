@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+api,better,libraries
+while i like the api of android-async-http better it seems like robospice was more recently developed and supports better libraries
+

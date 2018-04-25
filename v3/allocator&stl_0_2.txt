@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+map,faster,implementation,slower,specific,drawbacks,standard,portability
+i ve tried it with std map and found the seems to be faster indeed but my question is how can be the stl implementation be so slower than a specific allocator and what are the drawbacks of another allocator than the standard in terms of both portability and robustness
+
+author,memory,knowledge,size,objects,pool,general,purpose
+since the author of the specialized memory allocator has more knowledge on the size of the objects allocated from the pool and how those allocator occur the allocator can use the memory more efficiently than a general purpose allocator such as the one provided by the stl
+

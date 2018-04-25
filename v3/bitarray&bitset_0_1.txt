@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+better,plain,longs,bits,average,sparsity
+1 might not yet be sparse enough to make this better compared to just a plain bitarray assuming longs storing 64 bits each it doesn t take more than 2 longs to have more than one bitset on average but if the sparsity increases beyond that the space and time savings will show
+

@@ -1,0 +1,23 @@
+others---------------------------------------------------
+
+machine,clearer
+hex or maybe octal depending on the machine being emulated will be clearer than using decimal since similar opcodes tend to vary in bits not digits
+
+
+hex is used much more often than octal
+
+popular,users,18-bit,architectures,word,digits
+from what i understand octal was more popular than hex among users of 18-bit architectures since a word would be exactly 6 octal digits
+
+easy,easier,thing
+hex is easy octal is even easier to convert to and you dont need to do the backward thing for a quick check can reverse it by hand after you see the result
+
+format,popular
+apparently octal format was more popular than hex format
+
+mechanism,error-prone
+the octal encoding mechanism is less error-prone than hex so i ll demonstrate using octal
+
+compact,octal.
+of course you could do the same with octal but hex is even more compact than octal.
+

@@ -1,0 +1,11 @@
+others---------------------------------------------------
+
+things,complicated,rtm,minimum
+however if you are looking to migrate to vsts things are much more complicated and you will need to upgrade to tfs 2017 rtm at a minimum
+
+basic,pro,version,explorer,top,specific,client-side
+unless something has changed a lot with 2010 the basic vsts install is more or less the same as the pro version of vs - and then you install the team explorer on top to gain the tfs specific client-side extensions
+
+developers,better
+however we don t want to interrupt developers for whom using vsts will be better choice then tfs
+

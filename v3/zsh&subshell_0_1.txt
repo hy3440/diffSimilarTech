@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+simple,function,jobs,lock,files
+simple function in zsh to parallelize jobs in not more than 4 subshell using lock files in tmp
+

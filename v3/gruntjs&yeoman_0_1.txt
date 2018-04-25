@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+easier,customizable,tasks
+all this will be much easier with yeoman 1.0 which will be more customizable and will let you use whatever gruntjs tasks you want
+

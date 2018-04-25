@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+access,getter,setter,opinion,easier,interfaces,public
+why the access modifiers for the getter setter is more restrictive has in my opinion something to do with easier implements interfaces which always have implicitly public properties
+

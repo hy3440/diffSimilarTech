@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+mvvm-framework,catel,mvvmlight,better,prism
+imho any modern mvvm-framework like catel caliburn.micro mvvmlight reactiveui is much better than prism
+

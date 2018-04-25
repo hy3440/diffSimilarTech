@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+note,mongoose-auth,fine,flexibility,concept,passport,integration,better
+note that mongoose-auth is built on everyauth and they will work fine but i like the flexibility of the strategies concept from passport and the express integration is better
+

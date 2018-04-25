@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+bmp,characters,latest,version,points
+according to wikipedia the bmp of the ucs has 65536 characters the latest version of unicode contains more than 107000 characters and the ucs has more than one million code points
+

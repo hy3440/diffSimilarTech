@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+lightweight,approach,module
+a more lightweight approach than pandas is to use the prettytable module
+

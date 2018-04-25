@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+look,info,single,responsibility,concept
+if you re interested look up some info on srp single responsibility principles to get more info on this concept
+
+dry
+there is another principles which i like even more than srp - dry
+

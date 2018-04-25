@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+flexible,unclear,direct,full,multiindex
+pytables seems more flexible but i am unclear about what the most direct way of using it to save a full pandas dataframe with multiindex and all
+

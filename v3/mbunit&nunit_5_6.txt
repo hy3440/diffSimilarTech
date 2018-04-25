@@ -1,0 +1,22 @@
+mstest, data, offers, ---------------------------------------------------
+
+compatible,syntax,features,data
+mbunit has compatible syntax with nunit but has more features especially data driven tests
+
+popular,articles,advanced,features,offers
+nunit is more popular because it was there first therefore more articles about it on the web and better tooling and because most programmers don t care about or need the advanced features that mbunit offers
+
+widespread,features,mstest
+nunit is more widespread mbunit has the most features but mstest has more manpower behind it
+
+popular,features,feature-rich
+even though nunit now includes the most popular mbunit advanced features mbunit is still more feature-rich for example
+
+others---------------------------------------------------
+
+popular
+from what i have read on here i here that nunit is more popular over mbunit
+
+box,options,plug-ins,testing,xunit,features
+what i ended up discovering is that out of the box nunit offered more options and plug-ins such as pnunit for parallel testing and another plug-in for performance testing where xunit mbunit lacked all or some of these features
+

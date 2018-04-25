@@ -1,0 +1,19 @@
+bit, smaller, depth, ---------------------------------------------------
+
+compression,file,size,larger
+the resulting png compression may produce a file size larger than your tiff compression
+
+file,approach,smaller,size,better
+the resulting file from this png approach is smaller in size than a tiff file and i guess may rescale better
+
+bit,depth,sink,better
+tiff â any bit depth any compression lossy or lossless everything including the kitchen sink â and no better than png
+
+others---------------------------------------------------
+
+smaller
+jpg or png should get you smaller than tiff
+
+today,popular,files,data,store,common,need
+today png is much more popular than tiff so if you re writing files outside of your own data store png would be a more common choice and you d need to work through nsimagerep to get there
+

@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+compatible,easier
+you can also use jersey-client it is gae compatible and much easier than httpclient
+

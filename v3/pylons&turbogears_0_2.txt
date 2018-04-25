@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+top,box,things
+you may want to look at turbogears which is built on top of pylons and has more out of the box things for you to use
+
+difference,pyramid,repoze.bfg,api,resources
+the difference between pylons and pyramid are the merge of repoze.bfg and turbogears which brings more api resources
+

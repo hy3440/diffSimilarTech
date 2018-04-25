@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+gdi,faster,draw,bitmap,result,form
+the thing is that gdi is still faster than direct2d if i draw to a bitmap and after it s done i bitblt the result back to the form it paints at 35ms and with the same graphics quality
+

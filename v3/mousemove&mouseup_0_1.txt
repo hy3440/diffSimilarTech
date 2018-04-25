@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+handler,distance,mousedown,value
+how can i change the handler so it only fires when the distance of mousemove between mousedown and mouseup is less than a fixed value
+

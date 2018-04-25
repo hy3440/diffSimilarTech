@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+comment,quandary,license,mit,agpl
+as noted in the comment by quandary the pdfsharp library offers a more relaxed license mit compared to the commercial or agpl license offered by itext
+

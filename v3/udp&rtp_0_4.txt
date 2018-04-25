@@ -1,0 +1,14 @@
+others---------------------------------------------------
+
+packets,ports,earlier,contents
+for those packets that are udp and between the two rtp ports grabbed earlier fuzz the rtp contents
+
+rtsp,servers,multimedia,streaming
+http streaming servers will in most cases use tcp as their network transport rtsp servers usually offer rtp over udp which is more suited to multimedia streaming where some errors packet loss can be tolerated with the benefit of lower latency and less network overheads
+
+resistant,packets
+so that your rtp over udp becomes more resistant towards packets losses
+
+media,higher-layer,protocols,real-time,transport
+media goes over udp using higher-layer protocols like rtp real-time transport protocol and this part of communication typically goes peer-to-peer
+

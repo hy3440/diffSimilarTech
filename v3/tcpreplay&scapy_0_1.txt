@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+better,performances
+if you need better performances than what scapy can offer you should probably use tcpreplay
+

@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+solution,performance,problems,use,faster,tweaking
+since my solution with nullif had performance problems and your use of coalesce was much faster i wonder if you could try tweaking that solution to deal with the issue of -1
+

@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+appropriate,game,content
+in xna when is it appropriate to render your game content using more than one spritebatch
+

@@ -1,0 +1,40 @@
+luck, better, ---------------------------------------------------
+
+better
+if you don t want to use it in either a uitableview or a uicollectionview you re probably better of without it
+
+better
+first i thought to use uitableview but i have read that uicollectionview would be better
+
+better,luck
+you might have better luck with a uicollectionview instead of a uitableview
+
+others---------------------------------------------------
+
+second,thoughts,better,candidate
+on second thoughts in your case uicollectionview is surely a better candidate than uitableview
+
+similar,control,cells
+a uicollectionview works very similar to a uitableview but gives you more control over how the cells should be displayed and aligned
+
+better,performance,worthwhile,possible
+i also read somewhere that uicollectionview has much better performance in displaying variable-sized content would it be worthwhile possible to try configuring a uicollectionview to display the messages and somehow make it look like a uitableview
+
+future,projects,adaptable
+in fact i m seriously considering replacing all uitableview in my future projects with uicollectionview which are far more adaptable
+
+visual,flexibility,sort,generalization
+finally you might want to look into uicollectionview which provides a lot more visual flexibility than uitableview and can be seen as a sort of generalization of the latter
+
+older
+i think it is older than the uicollectionview and therfore explains it for uitableview
+
+ios,application,contacts,ipod,difficult,grid
+you can see uitableview in almost every ios application for example contacts or ipod while uicollectionview are more difficult to see the grid in photos but also the coverflow in ipod
+
+generic,custom,thing
+uicollectionview is more generic than uitableview and you can custom almost thing on it
+
+instance
+instead of using a uitableview in this instance perhaps you might consider using a uicollectionview - they are built for something like you describe more than a uitableview
+

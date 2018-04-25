@@ -1,0 +1,11 @@
+others---------------------------------------------------
+
+look,lower,overhead,forms
+also take a look at silex as this has lower overhead than symfony and works with symfony forms
+
+right,box,speed,components,faster
+in my case i needed speed right out of the box and silex provided me with the speed and although i am using most of the symfony components it is a lot faster than symfony out of the box
+
+better,sugar
+that is for symfony so not sure if silex has some better sugar
+

@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+module,script,numpy,python2
+i m using the module graphlab in my python script and many more such as pandas and numpy etc graphlab module only works on python2 not for python3
+

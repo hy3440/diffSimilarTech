@@ -1,0 +1,82 @@
+point, long, branch, ---------------------------------------------------
+
+weird,point,negative,branch,slower,machines
+modulo is a bit weird for floating point - it returns negative for negative so you still have to have a branch and it involves a division which is slower on some machines as in i ve not found a machine where is significantly less expensive than going round a loop with a couple of subtractions two or three times
+
+simple,feel,slower,computers,long,stepwise,fashion
+so in simple terms this should give you a feel for why division and hence modulo is slower computers still have to do long division in the same stepwise fashion tha you did in grade school
+
+faster, machine, side, ---------------------------------------------------
+
+wise,operations,slow,type,faster
+since bit wise operations can be done very fast and division operations are relatively slow this type of modulo is much faster than doing a division
+
+machine,operation,slower
+in this particular case you concluded that a bitwise-and operation of c++ language must be implemented by a bitwise-and machine operation while a modulo must somehow involve machine division which is allegedly slower
+
+table,lookup,root,machine,faster
+division and a table lookup versus a square root on your machine using this modulo might be faster
+
+suspicious,performance,slower,subtraction
+i am a bit suspicious of the performance because modulo tends to use division which is slower than your subtraction operations
+
+side,effect,routines,faster
+a side effect of many division routines is the modulo - so in few cases should division actually be faster than modulo
+
+power,bitwise,simpler,faster
+if you compute modulo a power of two using bitwise and is simpler and generally faster than performing division
+
+number, better, easy, ---------------------------------------------------
+
+remainder,better,straight,situations,number
+modulo gives you a remainder which is why it s better than straight division in situations where you re number of elements can change
+
+number,bits,harder,hard
+programmers like to use this property to speed up programs because it s easy to chop off some number of bits but performing a modulo is much harder it s about as hard as doing a division
+
+length,number,remainder,operations,important
+then you can process any length number using very few division remainder modulo operations which is important because they are much slower than addition
+
+multiplication,costly,addition,easy,underflow,operations
+implementing multiplication and division might be more costly than you would like but at least addition is easy modulo protecting against over underflow and you claim to not need any operations so even better
+
+priority, higher, lower, ---------------------------------------------------
+
+parentheses,redundant,multiplication,priority,higher,precedence
+note parentheses are redundant as division and multiplication have the same priority and modulo has higher precedence over addition
+
+remainder,lower,byte
+taking the remainder of the division by 256 through the modulo effectively extracts the lower byte since the result will be 256 by definition
+
+lower,precedence,multiplication
+it appears that you consider modulo to have lower precedence than multiplication and division when in fact it does not
+
+higher,priority
+is the same as because division has higher priority than modulo
+
+others---------------------------------------------------
+
+first,condition,number,larger,false
+the first condition is if the modulo of the number and division is larger than 2 then return false
+
+leftover
+is a leftover after the division which corresponds to result of the modulo
+
+negative,result,integer
+in those cases the modulo will be negative and the result of integer division will be one more than you want
+
+variable,costly,resulting,time,better,constant
+using an extra variable to avoid the costly division and the resulting time was 18.9s so significantly better than the modulo with a statically known constant
+
+mathematical,remainder,common,integer,old,fortran
+modulo is more mathematical if you like while the remainder in the c-family is consistent with the common integer division satisfying and this is adopted from old fortran
+
+definition,programming,reaminder,operator
+python respects this definition whereas in most other programming language the modulo is really more like a reaminder after division operator
+
+inverse,time,seconde,sub,multiplication,core
+inverse modulo for 300 time take 1.422 seconde more than executing division sub and multiplication 10k time even the core of inverse modulo is build with same division and sub and multiplication functions and for this number it just do 150 time inside while help plz why
+
+high,word,safe
+for instance if the high word is less than the modulo then it is safe to perform the division like this
+

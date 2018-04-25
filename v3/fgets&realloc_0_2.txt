@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+posix-ish,platform,whole,line,space,initial
+if you re not on a sufficiently posix-ish platform then you ll need to use fgets with checking to find whether you actually read a whole line â using realloc to allocate more space if your initial line isn t long enough
+
+buffers,buffer
+whether you use realloc or a linked list of buffers it comes down to reading usually through fgets reading some more and so on until the buffer you ve just read contains a n
+

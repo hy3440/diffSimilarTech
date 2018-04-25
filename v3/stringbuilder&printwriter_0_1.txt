@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+older,stringbuffer,better
+btw unless you are using java 1.4 or older you can use stringbuilder instead of stringbuffer although in this case printwriter would be even better
+

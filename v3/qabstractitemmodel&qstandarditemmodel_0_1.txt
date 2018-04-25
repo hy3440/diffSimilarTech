@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+implementation,useful
+do need implementation of qabstractitemmodel that can be more useful than qstandarditemmodel
+

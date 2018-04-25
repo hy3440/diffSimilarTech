@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+controls,height,bigger,scrollbar,content
+when i expand the widgets on the left pane by clicking on the controls and the height of the qwidget of the qscrollarea is bigger than then height of the qscrollarea itself the scrollbar appears as expected but it s overlapping the content of the qscrollarea
+

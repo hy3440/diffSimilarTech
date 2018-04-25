@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+similar,solutions,better,data,sets
+greenplum and other similar solutions should work a bit better than postgresql depending on your data sets and use cases
+
+gather,documentation,sequence
+according to the postgresql which i gather greenplum is based on documentation for sequence manipulation functions it should return the value most recently returned by nextval in the current session.
+

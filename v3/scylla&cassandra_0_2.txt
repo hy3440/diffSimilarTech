@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+clone,efficient,similar,issues,huge,partitions,large,file,format,arbitrary-sized
+scylla a cassandra clone which is generally more efficient than cassandra also has similar issues with huge partitions as in cassandra moderately large partitions are fine but these issues are actively being worked on including re-designing the file format so eventually scylla should support arbitrary-sized partitions
+
+sstable,format,site,efficient,re-implementation
+i wrote a detailed description of the sstable format on scylla s site scylla is a more efficient c++ re-implementation of cassandra to which i contribute
+

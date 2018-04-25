@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+constant,speed,game,turns,objects
+i am trying to move away from dispatchertimer to stopwatch to get a more constant speed of the game as dispatchertimer skips turns if there are too many objects in the game
+

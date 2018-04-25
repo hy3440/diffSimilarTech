@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+note,information,specific,error
+a note on the runtimeexception re if you catch a nullpointerexception nullpointerexception and throw a re you are actually losing information since nullpointerexception is a more specific error rather than re
+
+exception,invocations
+you probably had an exception possibly a runtimeexception such as a nullpointerexception which stopped further invocations
+

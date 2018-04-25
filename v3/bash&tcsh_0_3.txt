@@ -1,0 +1,11 @@
+others---------------------------------------------------
+
+scripts,sh,better,interactive,use.
+i used to write csh scripts myself but i ve found that sh and bash are much better for programming though tcsh still has a few advantages for interactive use.
+
+better
+i want to do this in tcsh i know bash is better to use but i have to use tcsh
+
+csh,aliases,powerful,lacks,functions,anyway.
+csh and tcsh aliases are more powerful but csh lacks functions -- and you re using bash anyway.
+

@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+greater,current,file,smaller
+it could be the fseek you read is greater than the current ftell which would indicate the file is smaller than it was but that would not cover all eventualities
+

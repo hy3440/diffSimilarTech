@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+little,aspect,worse
+this is little strange to me why if-statement is in this aspect treated worse than for-loop
+

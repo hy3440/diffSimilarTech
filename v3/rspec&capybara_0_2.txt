@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+better,solution
+using capybara instead of rspec is a better solution for request intergration tests
+
+levels
+i can t work out how to make capybara with rspec handle anything more than two levels before my expects
+

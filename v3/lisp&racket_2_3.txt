@@ -1,0 +1,13 @@
+common, implementations, side, ---------------------------------------------------
+
+macros,advanced,scheme,common
+do racket macros have more advanced functionality than those found in scheme or common lisp
+
+side,macros,advanced,scheme,implementations
+on the side of using macros racket has always been more advanced than other scheme and lisp implementations
+
+others---------------------------------------------------
+
+closer,scheme,common,toes,family,speed
+racket is closer to scheme than to common lisp but you could dip your toes into the lisp family without the speed bump of the emacs style of development
+

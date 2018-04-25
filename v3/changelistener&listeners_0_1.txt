@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+time,mapchangelistener,setchangelistener,property
+if you have more than 1 changelistener and at the same time no mapchangelistener setchangelistener registered on your property the listeners wont be executed
+

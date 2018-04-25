@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+simpler,limited,strong
+openpgp is simpler than x509 but more limited especially if you wish to have a strong legal meaning behind the certificates
+

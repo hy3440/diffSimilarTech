@@ -1,0 +1,20 @@
+others---------------------------------------------------
+
+que,easy,longer
+also you might fill the que really easy with the cron which might lead to jobs being executed longer
+
+scheduling,sophisticated
+i would suggest scheduling your jobs using something more sophisticated than cron
+
+quartz,scheduler,web,complicated,plumbing
+check out the quartz scheduler it does what cron does and more is easily integrated in a web app and allows you to call jobs written in java without any complicated plumbing
+
+idea,new,better,small,load,balancing
+edit btw the idea using cron for checking for new jobs to execute is better but only if you have a small website and you don t need to do load balancing for the jobs
+
+job,scheduler
+if you can predict more than one cron job to be executed you can try or any other library like this where you can config jobs scheduler in php
+
+better,absolute
+btw for cron at jobs is better to use absolute directory pathes not relative
+

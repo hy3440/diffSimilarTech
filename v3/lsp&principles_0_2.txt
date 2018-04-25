@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+misunderstand,bigger,type,subclassed,method
+you didn t misunderstand lsp allowing a bigger type in a subclassed method doesn t violate the principles
+
+ol,languages,inheritance
+the ol principles open closed and lsp are more oriented towards languages based upon inheritance as a core software engineering concept
+

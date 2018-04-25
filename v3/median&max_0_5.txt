@@ -1,0 +1,17 @@
+others---------------------------------------------------
+
+mean,min,faster,lattice
+i also microbenchmarked and the mean median min and max were all faster for the lattice plotting function compared to the high charts rcharts plotting function
+
+components,array,right,selection,phase,left,greater
+to find the median and left right you probably want to call it to find the median and then just do the max of the components of the array to the left and the min of the components to the right because you know once the median selection phase is done that all elements to the left of the median will be less than it and to the right will be greater or equal
+
+part,equation,segment,numbers,larger,smaller,medians..
+so the t 7n 10 is the part of continuing the equation with the max segment of numbers that is larger smaller than the median of medians..
+
+first,k,heap,min,greater,pointers,heapify
+so after calculating median of first k elements delete the first element directly from heap min or max according to whether it is greater or less than median using pointers and then use heapify at that position
+
+number,greater
+therefore the max number of elements you could have that are greater than or less than the median of median is 3 10 + 2 10 + 2 10 7 10
+

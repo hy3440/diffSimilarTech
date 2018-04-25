@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+faster,solution
+but bfg-repo-cleaner is a much faster solution than git-filter-branch
+

@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+possible,page
+unlike the ng-view it s possible that there are more than one ng-controller in the same page
+

@@ -1,0 +1,16 @@
+convenient, memcpy, strcpy, ---------------------------------------------------
+
+malloc,memcpy
+because of the above replace strdup with strlen malloc memcpy memcpy is slightly faster than strcpy
+
+convenient,malloc,strcpy
+additionally if you have strdup then it is much more convenient than strlen + malloc + strcpy with identical result including the same obligation to free the allocated storage when you no longer need it
+
+others---------------------------------------------------
+
+separate,original,simpler,malloc,call
+you can use either to create a new memory block which is separate from the original but naturally strdup is simpler since it doesn t require a separate malloc strlen call
+
+willing,posix,cleaner,malloc,semantics
+as i noted in comments however if you re willing to rely on posix s strdup then that s cleaner than strlen + malloc + and has the same semantics you take responsibility for freeing the memory allocated for the copy
+

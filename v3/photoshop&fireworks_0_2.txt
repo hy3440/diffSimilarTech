@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+easier,time,class,objects,combination,vector
+i find fireworks has an easier time dealing with vectors because they re first class objects while in photoshop they re actually a combination of a vector mask and a colour fill
+
+cs3,windows,familiar
+i have fireworks 8 as well as photoshop cs3 on my windows pc but i m more familiar with fireworks
+

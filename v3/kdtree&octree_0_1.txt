@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+memory,faster
+kdtree needs less memory than octree and sometimes is even faster
+

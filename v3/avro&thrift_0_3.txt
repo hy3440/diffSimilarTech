@@ -1,0 +1,11 @@
+others---------------------------------------------------
+
+need,writables,serialization,entity,so-called,genericrecord
+but avro offers far more than just doing away with the need for your own writables although that is in my view a considerable plus it offers fairly efficient serialization the choice between serializing against generated entity classes like thrift requires or using a so-called genericrecord structure instead and not having to have tagged data
+
+api,powerful,rest
+if you are developing your hbase application in java i recommend using the raw hbase api - that is more powerful than thrift rest avro etc
+
+worth,protobuf,solutions,market
+also it is worth mentioning that besides thrift protobuf and avro there are some more solutions on the market such as capt n proto or bolt
+

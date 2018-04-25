@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+enum,version,pattern,object,class
+however when using the enum version of the singleton pattern would the multiton not allow for more than one object of the class to be created
+

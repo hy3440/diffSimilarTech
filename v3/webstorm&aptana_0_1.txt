@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+pure,client,excellent,html,ide,better
+if you re focussing on pure client code then i find webstorm to be an excellent javascript html ide - even better than aptana
+

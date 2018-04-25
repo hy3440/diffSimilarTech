@@ -1,0 +1,37 @@
+versions, libraries, rhel, ---------------------------------------------------
+
+system,newer,libraries
+this is because your ubuntu system has newer system libraries than your centos one
+
+newer,rhel,compilers,versions
+newer rhel centos have newer compilers but i d actually recommend ubuntu s lts versions
+
+others---------------------------------------------------
+
+nature,conservative,support,fedora,better,options
+centos by its nature is quite a conservative distro - so if you are after the latest codecs media support then fedora or ubuntu may be better options
+
+obvious,sfphpview-,render,run,slower
+is there anything obvious in ubuntu that would otherwise be making sfphpview- render run slower than centos
+
+better,easier,setup
+i believe that ubuntu is better than centos when it comes to mono as it is much easier to setup and seems to be better supported
+
+particular,amazon,linux,things,worse,long
+also very particular that this should be done on centos or amazon linux which makes things worse for me as i have been on ubuntu for long
+
+default
+i don t know if it s activated by default on centos but it might be considering it is on ubuntu which is less entreprise oriented
+
+dnf,zint,work
+on centos dnf install zint ubuntu takes more work
+
+consistent,reliable,enterprise,desktops,personal
+centos is more consistent and reliable because it is enterprise while ubuntu is geared towards desktops and personal computers
+
+fuser,-n,linux,distro,report,process
+one one ubuntu distro fuser -n tcp 3000 will report a process if i own the process yet on another linux distro i think centos it won t report the process even if i own it
+
+respect,desirable,server,rhel,mature,versions
+in this respect ubuntu is less desirable on a server than rhel or centos which stick to more mature versions
+

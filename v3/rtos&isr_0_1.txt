@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+trap,usage,safe,call,specific,error
+an rtos could equally trap the usage of a non-isr safe call in an isr and run a more specific error handler if it does not bother to do so then the resulting behaviour might trigger a usage fault
+

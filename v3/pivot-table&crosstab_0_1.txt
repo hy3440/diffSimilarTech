@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+use,faster
+use crosstab for the pivot-table to make that faster yet
+

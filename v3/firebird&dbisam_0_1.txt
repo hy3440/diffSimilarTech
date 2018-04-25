@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+proprietary,add-on,single,complex,fulltext,criteria
+something like textolution s proprietary add-on for firebird looks like it could accommodate constructing single complex nested query that would apply both regular and fulltext criteria but dbisam does it more elegantly
+

@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+data,lower,upper
+i have entitydatasource with gridview is there any way to make the data in entitydatasource to be lower or upper case
+

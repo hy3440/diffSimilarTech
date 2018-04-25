@@ -1,0 +1,25 @@
+note, xiaomi, samsung, ---------------------------------------------------
+
+note,gs3,delay,nexus,asus,xiaomi
+so for example a galaxy note 1 calling a gs3 experiences more delay than a galaxy note 1 calling nexus 7 tablet asus and galaxy note 1 calling a xiaomi mi-2 phone
+
+larger,displays,iphone,samsung,nexus
+tablet have larger displays but the pixel density is not as high as on for example the iphone 4 samsung galaxy nexus etc
+
+others---------------------------------------------------
+
+target,devices,tab,fares,better
+minor differences between two identical target devices samsung galaxy tab 10.1 one tablet always performs fares better
+
+devices,nexus,bigger,version,folder,generic,mdpi,ace,phone
+i ve tested this on a few devices a nexus 10 tablet which gets the bigger version of the file from the xhdpi folder a generic tablet using mdpi a galaxy ace phone mdpi again and everything works ok
+
+nexus,32mb,64mb
+nexus one has 32mb galaxy nexus - 64mb tablet can have even more
+
+size,devices,note,huge,higher,resolution,dpi
+i can t use screens size because of devices like galaxy note with huge screens and some phones have higher resolution than some tablet same with dpi i think
+
+256heap,size,tab,type,entities,loop
+i ve tested this on an emulator running with haxm 2gbram 256heap size and a galaxy tab of which i don t know the type anymore both having the same problem altough the tablet can handle more entities before the loop begins
+

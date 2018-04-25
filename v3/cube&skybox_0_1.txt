@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+first,thing,skydome,polygons,generated,.dds
+i recently switched from unity to unreal and the first thing i wanted to do is create a skybox but the only thing it seems to support is a skydome which has far more polygons than a cube and the generated .dds cubemap files are far too huge to be used in webgl projects
+

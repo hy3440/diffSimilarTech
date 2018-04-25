@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+use,replay,interface,number,packets,different
+i use tcpreplay to replay it on an interface but the problem is that the number of attempted packets in tcpreplay is different less with number of packets showing in wireshark
+

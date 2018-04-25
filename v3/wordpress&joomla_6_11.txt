@@ -1,0 +1,39 @@
+menu, better, ---------------------------------------------------
+
+better
+imho wordpress is better do work and customize than joomla
+
+menu,better
+if that will solved later than wordpress menu is better than joomla
+
+common, good, file, ---------------------------------------------------
+
+bigger,better,drupal,common
+bigger better than wordpress you re typically looking at joomla or drupal there are others these are just the most common ones
+
+cms,drupal,better,file
+looking into cms s like wordpress drupal or joomla would be a better option as compared to have it on file system although i would like to point out that those cms s are capable for more than just serving static pages
+
+good,knowledge,drupal
+i am good at wordpress and have far more knowledge then i have regarding drupal or joomla
+
+others---------------------------------------------------
+
+great,simplicity,better,flexible,huge
+while wordpress is great the simplicity of it gets the better of it joomla is far more flexible and has a huge support network and extensions library
+
+big,system,good,regular,projects,simplier
+me too don t get any advantages for joomla it s big system and it just as good as wordpress for regular projects just wordpress is much simplier
+
+example,hard,website,oop,easier,quicker
+yes but if joomla is any example of how hard it is to implement a complex custom website with oop then wordpress is far easier and quicker and time is money
+
+time,html
+yes joomla takes more time in cooking the resulting html when compared to wordpress
+
+impression,popular
+i seem to be getting the impression that wordpress is more popular than joomla nowadays
+
+templates,easier,cms,typo,modx,parts,static,version,tags,menu
+imho creating templates for joomla is the easier than most other cms i know typo wordpress modx as you simply have to replace parts of the static version with joomla tags menu content etc. it still needs some time to get used to the system but its not that hard
+

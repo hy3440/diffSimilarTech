@@ -1,0 +1,14 @@
+others---------------------------------------------------
+
+data,body,larger
+but like mattias said you d probably want some data in the body as well so you d want the content-type and the data as well plus content-length would be larger
+
+byte,request,application,x-www-form-urlencoded,header,url-encoded
+in addition if you have few data to send using get will url-encode the data this means that the number of generated sent bytes will be higher than the data size itself while post will consume more byte in general because the request will additionally contain a content-type application x-www-form-urlencoded header likely a content-length header plus the same url-encoded data as get
+
+default,responses,default_compressables,greater,characters
+by default it compresses responses whose content-type belongs to default_compressables and whose content-length is greater than 200 characters
+
+web,api,greater,header,hence
+...web api relies on system.net.http library for getting request headers and this library gives a null for httprequestmessage s content.headers.contenttype in this case and web api sees that content-length is greater than 0 but no content-type header and hence returns a 415 unsupported media type
+

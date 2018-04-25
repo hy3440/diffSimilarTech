@@ -1,0 +1,22 @@
+position, job, starynkevitch, ---------------------------------------------------
+
+basile,starynkevitch,better,job,character
+edit basile starynkevitch mentions that strtod is better than atof for this job as it gives the ending character
+
+better,idea,character,position
+you can actually switch to strtod always a much better idea than atof and ask it to give you the character position that caused it to stop parsing
+
+others---------------------------------------------------
+
+form,newer,favor
+the second form is recommended for newer code as atof is deprecated in favor of strtod .
+
+note,similar,functions,strings,int,better,error
+note atof and similar functions don t detect overflows and return zero on error so there s no way to know if it failed not sure if it sets errno see also keith s comments about undefined behaviour for certain values so the point is you should use strtol for converting from strings to int and strtod for converting to double those have much better error handling
+
+better,purpose,error-checking,simpler
+it would be better to use strtod for this purpose as it allows for error-checking but atof is simpler to use and so is used here
+
+faster,platform,slower
+atof may be faster than strtod on one platform and slower on another
+

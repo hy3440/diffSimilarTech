@@ -1,0 +1,14 @@
+others---------------------------------------------------
+
+components,combobox,available
+primefaces has more components but lack combobox available in richfaces
+
+jsf,application,documentation,better
+i haven t tried any of these in a jsf 2 application but i would recommend using the primefaces one at least the documentation is better than richfaces
+
+trips,core,earlier,versions,rerender,attribute
+one that always trips me up is that core uses render primefaces uses update and earlier versions of richfaces used rerender as the attribute to specify which other elements were the target of the ajax response
+
+developed,rf
+richfaces is more developed and tested generally since primefaces came out later than rf
+

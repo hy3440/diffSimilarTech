@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+ffmpeg,better
+occasionally ffmpeg or libav might be better suited but for most cases go with handbrake
+

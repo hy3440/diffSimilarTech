@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+faster,things,equal
+evidently though mod-alias can be somewhat faster than mod-rewrite all other things being equal of course
+

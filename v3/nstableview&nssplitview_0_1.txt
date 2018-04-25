@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+pattern,use,shorter,buttons,bottom
+a pattern i also use is to make the nstableview slightly shorter than the nssplitview and have buttons at the bottom add delete etc
+

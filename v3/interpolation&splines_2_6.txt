@@ -1,0 +1,22 @@
+order, fit, lower, ---------------------------------------------------
+
+lower,order,better,advantage,cubic
+with a lower order splines that works better but then you lose the advantage of cubic interpolation
+
+linear,trapezodial,better,fit
+whether splines or linear trapezodial interpolation is a better fit will depend heavily on your problem
+
+others---------------------------------------------------
+
+points,guassian,elimination,scales,technique,likely
+if you are doing more than three points however i would strongly recommend using interpolation as using guassian elimination scales incredibly poorly o n 3 and splines or another interpolation technique are less likely to fail
+
+routine,gsl_interp_cspline_periodic,periodic,conditions,table,errors,comparison,linear,points
+edit2 you can try to make a coarse sin grid and use gsl routine gsl_interp_cspline_periodic for splines with periodic conditions to splines that table the splines will reduce the errors in comparison to a linear interpolation you need less points on your table less cache miss
+
+smoother,curvature,continuity
+splines are used for smoother interpolation that ensures curvature continuity
+
+fancier,next,step
+of course you could do fancier interpolation with a splines being the next step
+

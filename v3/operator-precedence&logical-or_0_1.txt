@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+mdn,logical-and,higher,precidence,suggesting,condition
+according to the mdn operator-precedence logical-and has a higher precidence over logical-or suggesting that the condition is evaluated as if were a single statement which then moves on to determine the boolean condition of false || true which is then true
+

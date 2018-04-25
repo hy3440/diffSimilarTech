@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+text,field,wary,actionlistener,suitable,hay
+create the text field and register the documentlistener to it...although i d be wary about using a documentlistener personally maybe a actionlistener and or focuslistener might be more suitable but hay
+

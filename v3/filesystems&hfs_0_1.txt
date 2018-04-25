@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+larger,files,addresses,32-bit,folders,objects
+hfs+ supports much larger files than hfs block addresses are 32-bit length instead of 16-bit and uses unicode utf-16 encoding to name files folders and other filesystems objects
+

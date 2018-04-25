@@ -1,0 +1,10 @@
+routines, native, linux, ---------------------------------------------------
+
+routines,slower,native,blas
+it seems that openblas routines are slower than native blas and lapack
+
+linux,blas,repo,likely,slower
+if you are on linux and have chosen blas and lapack from a repo it is very likely that they are much slower than openblas
+
+others---------------------------------------------------
+

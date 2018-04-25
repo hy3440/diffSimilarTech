@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+familiar,internals,end,goal,visualisations
+i didn t try it because i m more familiar with kivy s internals and because my end goal was more of a kivy app containing vispy visualisations rather than the other way around
+

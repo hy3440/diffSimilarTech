@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+time,animation,delay,longer
+more detail set the amount of time the animation will take for fadeout and use a delay for the fadein animation that is longer than the fadeout animation time
+

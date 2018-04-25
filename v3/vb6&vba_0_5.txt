@@ -1,0 +1,17 @@
+others---------------------------------------------------
+
+faster,concatenation
+in vb6 at least so i assume it s true in vba replace is faster than concatenation
+
+superset,subset,functionality
+vba is in fact a superset of vb6 not a subset -- vba has more functionality built in than vb6 itself
+
+vbide,methods,vb,projects,version
+fortunately the vbide for vb6 has more classes and methods for working with vb projects than the vba version of vbide
+
+better,results,exact,thing
+you can often get better results by searching vb6 which is almost the exact same thing as vba
+
+whole
+vba being a whole lot less than vb6
+

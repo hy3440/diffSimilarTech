@@ -1,0 +1,16 @@
+better, 1-sin, function, ---------------------------------------------------
+
+sincos,better,cos,approach,faster
+the jni sincos is better than computing sin and cos but the sqrt approach is still faster
+
+cos,cheaper,1-sin
+if i want to calculate a sin and a cos is it cheaper to calculate a sin and a cos or calculate a sin then a sqrt 1-sin 2 to get the cos
+
+function,constexpr,cos,trickier
+an two for a function like sqrt i could probably write my own constexpr but something like sin or cos would be trickier so is there away around it
+
+others---------------------------------------------------
+
+faster
+it s like asking whether sin is faster than sqrt
+

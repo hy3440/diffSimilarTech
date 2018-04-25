@@ -1,0 +1,40 @@
+bit, sense, harder, ---------------------------------------------------
+
+little,reading,sense
+my codebase is front-end only so after doing a little reading i thought bower would make more sense than npm
+
+package,little,bit,harder
+using npm package is a little bit harder than using bower package
+
+others---------------------------------------------------
+
+wider,user,base
+what i meant to ask is it can be argued that npm has a wider user base than bower some even argue that we should stop using bower altogether like here and here
+
+project,dependencies,available,versions
+on the project i m using bower to manage dependencies because i found that it has way more available versions than npm does
+
+browser,libraries,css,server-sided,stuff
+bower is more focused on browser libraries and css while npm is more for server-sided stuff using node.js
+
+info,package,view,numerous,packages,farther,older
+i ve been using bower info package and npm view package to see which package manager has more versions of numerous packages and have found that bower goes much farther back to older versions of the packages
+
+file,bower.json,package.json,things,cleaner,installation
+perhaps write a config file for them bower.json for bower and package.json for npm that makes things cleaner and you can ensure installation by running npm install
+
+better,fit,asp,.net,files,recommended
+is bower a better fit than npm for asp .net 5 projects with separation of source and build files and if not what s the recommended way of doing it purely with npm
+
+packages,simpler,equivalents,subfolders
+bower packages are simpler than npm equivalents and don t have subfolders with module dependencies
+
+similar,component
+bower is more similar to npm than to component
+
+time,result
+after trying npm install one more time with the same result i tried bower install
+
+better,purpose,deep
+even if you can handle them with npm it s better to use bower since it s optimized for this purpose no deep dependencies among other things
+

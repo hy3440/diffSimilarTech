@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+place,easy
+and to use printwriter in place of bufferedreader would be more easy here
+

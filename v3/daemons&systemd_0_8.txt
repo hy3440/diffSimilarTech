@@ -1,0 +1,26 @@
+others---------------------------------------------------
+
+thing,helpful,track,timers
+in my case i have the daemons doing more than 1 thing so it s very helpful to have systemd keep track of all the timers for me so that i can effectively poll stream_select for the xmpp connection
+
+friend,small,monitor,better,fun,sections,command,line,section,great,particular,directory
+so me and a friend are coding a small systemd monitor learn better fun the code has 2 sections the daemons and the command line interface for now when i compile the cli section all went great the daemons is particular one because when i compile and i execute it in the compile directory it works without error
+
+newbie,programmer,easier,init.d
+as a new newbie programmer i find that making daemons over systemd is much easier than over init.d
+
+error,response,cannot,start,container,mesos-master
+error response from daemons cannot start container d13b8aa28d383a3ca54b39ce74f5a81d80030a2ad0dde52966293ced9ef26663 8 systemd error exec mesos-master executable file not found in path
+
+use,mode,wsgi,changes,safer,single,change
+use daemons mode and then simply touching the wsgi script file when an atomic set of changes have been completed isn t that hard and certainly safer than a systemd which restarts arbitrarily when it detects any single change
+
+modern,unix-based,better,timers,time,protocol
+modern unix-based systemd have better timers clock_gettime than gettimeofday that are not subject to changes made by the network time protocol daemons
+
+web,apache,ports
+on my systemd i have more than one web daemons running one of them is apache which is listening on ports 80 and 443
+
+verbose,resort,line,detailed,binary,startup
+if you can t get it to work try get your daemons to provide more verbose logging about why it s not starting or resort to adding usr bin strace to the beginning of your line to get detailed logging of the systemd calls that the binary is making during startup
+

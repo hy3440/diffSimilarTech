@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+high,level,naming
+jtextpane is more high level as jeditorpane strange naming
+

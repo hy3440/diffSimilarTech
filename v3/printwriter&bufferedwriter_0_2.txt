@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+richer,api
+printwriter is a richer api compared to bufferedwriter
+
+
+i like to use bufferedwriter more than printwriter and its working with the bufferedwriter
+

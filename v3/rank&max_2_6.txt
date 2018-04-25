@@ -1,0 +1,22 @@
+root, new, table, ---------------------------------------------------
+
+lower,number,table,query
+if no rank is lower than its number there are no gaps in the table the query returns the max number + 1
+
+time,larger,number,new,root
+every time a rank finds a larger number than that stored have it send its new max to the root rank
+
+others---------------------------------------------------
+
+use,clause,date,id,faster
+while i think gbn s answer is probably sufficient i m wondering whether use of an over clause to establish a max date per id attribute with which to reduce the select in a where clause wouldn t be faster than a rank
+
+part
+if your rank is less than 4 it takes 0 instead it s the max part
+
+empty,values,column
+i would like to return those where column clickedairbnb contains empty values and the max on the column rank is less than 2
+
+second,set,value,greater,first
+so i want to generate rank for second set of values but starting with value greater than max from first set
+

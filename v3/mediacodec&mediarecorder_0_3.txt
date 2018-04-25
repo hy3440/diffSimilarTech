@@ -1,0 +1,11 @@
+others---------------------------------------------------
+
+data,camera,low-level,faster
+i d like to use mediacodec to encode the data coming from the camera reason it s more low-level so hopefully faster than using mediarecorder
+
+gles,examples,idea,simpler
+the gles recording examples uses mediacodec rather than mediarecorder but the idea is the same and it should be much simpler with mediarecorder
+
+surface,input,convenient
+android 5.0 api 21 allows surface input to mediarecorder which is often much more convenient than mediacodec
+

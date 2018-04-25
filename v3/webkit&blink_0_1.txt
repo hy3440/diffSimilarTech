@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+css,variables,developers,google,performance
+i had heard that webkit safari ditched its css variables implementation and this was confirmed with the following two posts email page and webkit.bugs.org feature removed css variables - this was due to bad initial implementation code as well as the css variables webkit developers focusing more on google s blink performance
+

@@ -1,0 +1,19 @@
+method, simpler, cleaner, ---------------------------------------------------
+
+method,simpler
+i find this method simpler than using clearinterval to pause and setinterval again to restart
+
+cleaner
+this is perhaps a bit cleaner with a setinterval instead of a clearinterval
+
+others---------------------------------------------------
+
+script,additional,top,line
+my solution was to increase the settimeout to create a bigger delay before the next part of the script commenced but also to add an additional clearinterval as the top line of the script running within the setinterval
+
+straightforward
+but with setinterval combined with clearinterval it is more straightforward
+
+settimeout,simpler,need,end,array
+as for me settimeout is simpler than setinterval in this case as you won t need to clearinterval in the end of the array
+

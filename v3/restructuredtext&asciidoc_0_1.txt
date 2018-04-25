@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+markdown,powerful
+beside markdown and restructuredtext there exists also asciidoc which is more powerful than markdown there are f.ex
+

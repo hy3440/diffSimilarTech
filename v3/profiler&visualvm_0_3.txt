@@ -1,0 +1,11 @@
+others---------------------------------------------------
+
+better,chronon
+you might be better off with a profiler like visualvm or chronon
+
+granular,view
+i recommend using a profiler such as visualvm to get a more granular view on what s going on
+
+commercial,yourkit,larger
+one option is to use visualvm however a commercial profiler like yourkit may handle larger memory sizes better
+

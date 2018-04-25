@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+single,server,better,performance
+for single server metrics ingest i would expect prometheus to have better performance although we ve done no testing here and have no numbers because of their more constrained data model and because they don t append writes to disk before writing out the index
+

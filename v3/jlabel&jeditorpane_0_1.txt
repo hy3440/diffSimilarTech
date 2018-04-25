@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+length,whole,window,larger
+however if i put a jeditorpane below this and have it span the length of the whole window the jlabel becomes larger and grows if i enlarge the window
+

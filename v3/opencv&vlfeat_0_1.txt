@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+look,surf,good,implementation,hog,smaller
+have a look at sift and surf and at vlfeat which has a good sift implementation and also implements mser and hog and is much smaller than opencv
+

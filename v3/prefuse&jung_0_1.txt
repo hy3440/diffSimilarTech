@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+layout,better,rendering,implementation
+somehow the layout algorithms in prefuse seem to display a better layout than in jung rendering is also better i think though most of the layout algorithms in prefuse are based on jung implementation
+

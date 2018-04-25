@@ -1,0 +1,46 @@
+note, quicker, deserializing, ---------------------------------------------------
+
+note,slower
+note that while serializable is now optimized deserialization is doubly slower because i deserialize to object to then reserialize to string
+
+quicker,slower,deserializing
+the serializable seems quicker but deserialization much slower and the app is doing more deserializing than serializing
+
+others---------------------------------------------------
+
+counterpart
+i ve reworked it slightly so that the deserialization code looks more like its serializable counterpart
+
+attribute,property,faster
+if the taskproperty class is decorated with datacontract attribute and with datamember attribute for each property the deserialization is much faster than when it is decorated with serializable attribute
+
+strict,extra,class,null,old,version
+is there a serializable library or some way that i can have deserialization be less strict like if there is an extra field added to the class then it just fills that with null upon deserialization of the old version of the class
+
+issue,c#,.net,stream,multiple,longer,equal
+i have an issue with serializable in c# .net where if i serializable in one stream multiple references to a same object these references are no longer equal after deserialization
+
+check-out,json.net,options,better,control,process
+side note check-out the json.net serializable which gives more options and better control over the deserialization process
+
+bson,critical,to_json,method,date,time
+instead of bson deserialization i see more critical how the to_json method handles the serializable of date and time ruby object
+
+tricky,straightforward
+here s code demonstrating how to serializable like you want however deserialization will be more tricky because it s not straightforward to deserialize into an existing instance see how to use xmlserializer to deserialize into an existing instance
+
+register,multiple,logic,implementations
+if i understood your need correctly i believe you have two options - register multiple de serializable or put more logic into your deserialization implementations
+
+experience,faster,normal
+i don t have any experience with serializable but i was expecting deserialization to be faster than normal processing at least for the cpickle module
+
+davidxxx,right,number,greater
+davidxxx was indeed right that deserialization was only failing when the serializable number was greater than long.max_value
+
+harder
+deserialization is harder than serializable
+
+externalizable,control,process
+you ll need to implement serializable to have java handle the serializable or externalizable if you need more control over the deserialization process
+

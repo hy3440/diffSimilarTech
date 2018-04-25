@@ -1,0 +1,69 @@
+better, readers, simplications, ---------------------------------------------------
+
+better,git,mercurial
+svn is much better then cvs and git or mercurial are even better again
+
+better
+svn is better than cvs
+
+company,dislikes,better
+so what is with svn that your company dislikes so much and cvs does better
+
+better,mature,tools
+svn in much better than cvs and have lot of mature tools for every platform
+
+better,aspects
+many say that svn was build to be a better cvs and in almost all aspects svn is better and is widely used
+
+better,areas,work
+svn was supposed to be better than cvs but in some areas that didn t work well
+
+downvote,readers,better,system,git
+i can only guess at the reasons and i don t worry much about the occasional downvote but perhaps some readers think i m advocating cvs as a better system than svn or git
+
+better,respect,new,project
+that being said i think svn is better in every other respect and you probably shouldn t start a new project with cvs
+
+better,thing,simplications
+svn is better than cvs because it was designed to be - it s roughly the same thing with some simplications and new features
+
+okay,binary,files,better
+if you use svn then it still okay because svn handles binary files much better than cvs
+
+part, point, means, ---------------------------------------------------
+
+part,point,use,branches,easier
+part of the point of svn was to make the use of branches and merging much easier than in cvs
+
+branches,easier,means,pain-free
+managing changes that need to be made across these branches is a lot easier with svn than it was with cvs but it s by no means pain-free
+
+others---------------------------------------------------
+
+git,similar
+based on what you quoted it appears that git and svn are actually more similar than either is to cvs for example
+
+earlier,projects
+i ve used svn not cvs as stated earlier for a while and have some projects in git
+
+file,size,time,smaller,compression,web,bigger
+in this case i converted the cvs to svn and found the file size on the hard drive it was on my own laptop at the time but it was much smaller in svn than in cvs but there could have been some compression applied i dont know but everything on the web said svn would actually be bigger than cvs
+
+tools,faster,slow,hell,useful,features,new,feature,years
+the other distributed tools are a lot faster svn is slow as hell even cvs can be faster sometimes have much more useful features than svn are developing rapidly while seeing any new feature in svn takes years
+
+stores,binaries,efficient,info,svn-faq
+in fact svn does stores binaries a lot more efficient than cvs for more info see the svn-faq
+
+addition,coworker,popular
+in addition another coworker said cvs was a lot more popular than svn
+
+first,+ssh,comparable,format,protocol
+the first one can be solved by using svn +ssh which is the more comparable format as cvs uses its own protocol as well
+
+comment,better,enviroment,vss,weird
+for all the reasons linked in the comment and elsewhere svn tends to be a much better enviroment than cvs or vss unless you have some weird requirements - so if you can successfully import your history and save the company money i wouldn t see why the bosses wouldn t go for it
+
+disk,space
+wondering mainly if svn uses less disk space or more than the same in cvs
+

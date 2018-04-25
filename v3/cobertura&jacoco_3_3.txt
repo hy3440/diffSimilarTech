@@ -1,0 +1,13 @@
+answer, better, easier, ---------------------------------------------------
+
+answer,easier
+the other answer mentions cobertura but jacoco may be easier to set up
+
+better
+you are better off with jacoco than cobertura
+
+easier
+similarly you might find using jacoco easier than cobertura
+
+others---------------------------------------------------
+

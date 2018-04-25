@@ -1,0 +1,223 @@
+recursive, base, calls, ---------------------------------------------------
+
+recursive,calls
+quicksort consistently has less recursive calls than mergesort
+
+recursive,base,quicker
+that way quicksort can reach recursive base case more quicker than mergesort
+
+faster, algorithm, heapsort, ---------------------------------------------------
+
+slower,heapsort,assumption,comparisons
+typically mergesort is slower than heapsort and quicksort but that s usually under the assumption that comparisons are fast
+
+faster,heapsort
+normally quicksort is faster than mergesort which is faster than heapsort
+
+faster,circumstances,quadratic
+quicksort generally runs faster than mergesort but under some circumstances it can degrade to quadratic running time
+
+algorithm,faster,sequence,objects
+the quicksort algorithm is faster than mergesort which is what sorted will get you when called on a sequence of objects via java.util.arrays.sort
+
+standard,parallel,algorithm,slower
+i have been testing the practicality of openmp gnu parallel sort algorithms in the c++ standard library and have found the parallel quicksort algorithm to be significantly slower than the mergesort algorithm
+
+faster,algorithm
+from what i ve read i was expecting quicksort to be faster than mergesort but on my code it is not so i assume there must be a problem with my quicksort algorithm
+
+slower,susceptibility,pathological
+mergesort is slightly slower than quicksort but it does not have quicksort s susceptibility to pathological cases
+
+quadratic,time,linear-log,faster,practice
+although quicksort runs in quadratic time as compared to mergesort which runs in linear-log time quicksort is usually faster in practice
+
+faster,easier,tight
+quicksort is usually faster than mergesort just because it s easier to code a tight implementation and the operations it does can go faster
+
+faster,smaller,data,sets,quicker,algorithm
+i ran the two and while the quicksort was faster for smaller data sets 100 elements and i did verify that it works the mergesort became the quicker algorithm fairly quickly
+
+worst,worse,heapsort,faster,average
+worst case for quicksort is actually worse than heapsort and mergesort but quicksort is faster on average
+
+faster,practise,hidden
+i have read that quicksort is much faster than mergesort in practise and the reason for this is the hidden constant
+
+faster,place,memory
+mergesort - in general mergesort is consistently faster than quicksort however quicksort is done in place and doesn t require allocating memory unlike mergesort
+
+sorting,algorithm,difference,speed,faster
+quicksort is a partitioning sorting algorithm you might refer to mergesort which also is a partitioning sorting algorithm the biggest difference is probably the speed quicksort is faster even though both of them are o n log n
+
+tests,results,faster
+for the 10 tests on the same list the results should be quite the same at least all showing that quicksort is faster than mergesort or vice vesa
+
+faster,locality,reference
+depending on where i look people say quicksort is faster than mergesort due to its locality of reference cache hits etc
+
+int,sizes,slower,faster
+however on smaller int sizes quicksort gets slower and mergesort gets faster
+
+ints,memory,worse,heapsort
+for 5 000 000 ints still stored in memory quicksort becomes suddenly worse then heapsort and mergesort
+
+average,performance,faster
+as many people have noted the average case performance for quicksort is faster than mergesort
+
+faster,random,data
+quicksort is approximately 40 faster than mergesort on random data because of fewer data movements
+
+specific,faster,first,test
+to be specific the quicksort runs faster than mergesort in the first test case and loses badly in the following 9 tests
+
+helpful,faster,clear,winner
+it might be helpful to see why quicksort is usually faster than mergesort since if you understand the reasons you can pretty quickly find some cases where mergesort is a clear winner
+
+faster,worst-case,execution
+in most cases quicksort will run faster than mergesort even though the worst-case execution time is longer
+
+better, worst, complexity, ---------------------------------------------------
+
+better,stable,worst
+i know mergesort is better since it is stable and doesn t have n 2 as worst case but i required to implement quicksort
+
+worse,complexity,worst,case.
+quicksort is worse complexity than mergesort in the worst case.
+
+better,different,kind,application
+quicksort is not better it is well suited for a different kind of application than mergesort
+
+likelihood,worst,time,complexity,selection,pivot,worse,pathological
+given that it is possible to vastly reduce the likelihood of the worst case of quicksort s time complexity via random selection of the pivot for example i think one could argue that mergesort is worse in all but the pathological case of quicksort
+
+better,time-behavior,worst,average
+technically mergesort has a better time-behavior î nlogn worst and average cases than quicksort î n 2 worst case î nlogn average case
+
+instance,better,worst
+for instance quicksort can outperform mergesort although mergesort is provably better than quicksort in the worst case
+
+cache,hits,better
+for example locality of references has influence on cache hits or misses which is the reason why quicksort performs better than mergesort
+
+interesting,answer,better
+an interesting answer about this can be found at why is quicksort better than mergesort
+
+clue,size,better,worst,arrays
+furthermore you ll have no clue which size it is above which mergesort will perform better on quicksort s worst case arrays as this depends on implementation issues for example one compiler may compile your code in a way that the delete operation in sort4 is very costly in terms of time and so for most reasonably sized arrays sort3 might turn out to be always faster
+
+space,better,linkedlists
+mergesort may use more space than quicksort i m not entirely sure and merge may be better for linkedlists
+
+better, simpler, parallelizing, ---------------------------------------------------
+
+better
+previously discussed on so why is quicksort better than mergesort
+
+faster
+quicksort is implemented well it is typically 2-3 times faster than mergesort or
+
+simpler,in-place
+parallelizing mergesort is simpler than quicksort in-place
+
+better
+i ve looked at the question at why is quicksort better than mergesort
+
+simpler,parallelizing
+i would say that the quicksort is simpler for parallelizing than the mergesort
+
+better
+is quicksort always better than mergesort
+
+better
+why is quicksort better than mergesort
+
+better
+quicksort is not better than mergesort
+
+faster
+it s because that quicksort is generally faster that people use it instead of mergesort
+
+worse
+scenarios when quicksort is worse than mergesort
+
+better
+quicksort usually is better than mergesort for two reasons
+
+implementation, bit, odd, ---------------------------------------------------
+
+callback,function,libc,implementation,slower,random,input
+when comparison function is a callback function like in quicksort libc implementation quicksort is slower than mergesort by 15 on random input and 30 for already sorted array for 64 bit integers
+
+implementation,std,compiler,odd,pattern,bit,integers,faster
+when comparing my quicksort implementation with std sort on my compiler and my implementation of mergesort i noticed an odd pattern on large data sets when operating on 64 bit integers quicksort is consistently faster than mergesort
+
+practice, typical, variants, ---------------------------------------------------
+
+practice,longer,variants,real,world
+in practice it ll take longer than quicksort which is why quicksort variants are favored over mergesort in the real world
+
+smaller,collections,faster,lead,specific
+you can also see that for smaller collections quicksort is faster but then mergesort takes the lead but all of this is case specific so take your time to study all 4 algorithms
+
+bad,worst,typical,implementations,faster,practice
+quicksort has a bad worst case while mergesort is always o n log n guaranteed but typical quicksort implementations are faster than mergesort in practice
+
+comparisons, number, efficient, ---------------------------------------------------
+
+number,comparisons,efficient
+purely in terms of the number of comparisons performed is mergesort always more efficient than quicksort
+
+comparisons,average
+interestingly quicksort performs more comparisons on average than mergesort - 1.44 n lg n expected for quicksort versus n lg n for mergesort
+
+comparisons
+mergesort uses about 30 less comparisons than quicksort
+
+others---------------------------------------------------
+
+complicated,solid,implementation
+quicksort is also more complicated than mergesort especially if you want to write a really solid implementation and so if you re aiming for simplicity and maintainability merge sort becomes a promising alternative with very little performance loss
+
+benefit,time,worse,event
+the benefit of mergesort is the guaranteed o n log n run time where as quicksort can be much worse in the event of poor pivot point sampling
+
+factor,larger
+also depending on radix sort s radix size its constant factor may be larger than quicksort s mergesort s log factor
+
+optimal,advantage,primitives
+also note that quicksort is generally more optimal than mergesort see this as well which explains why it s taken advantage of when sorting primitives
+
+version,single-linked,interesting,puzzle,easier,lists
+one can implement a version of quicksort for a single-linked list but normally this is only interesting as a puzzle since mergesort is much easier to implement and works equally well or better for sorting linked lists
+
+sensitive,input,sortedness,positive
+quicksort is more sensitive to input sortedness in a positive way than mergesort
+
+natural,lists
+mergesort is more natural to implement for linked lists but you can do quicksort very nicely
+
+quicker,debate,topic
+i had been taught that quicksort is almost always quicker than mergesort and i understand that there is some debate on this topic but i at least expected it to be closer than this
+
+mutable,useful,functional,setting,better
+quicksort is generally regarded as mutable and may therefore be less useful in a functional setting but mergesort is generally better suited for a functional setting
+
+swaps,stackoverflow,discussion,sort
+i do know though that quicksort has more compares but less swaps than mergesort which i learned from another stackoverflow discussion quicksort vs merge sort
+
+comparisons,cheap,little,faster,time,pointers
+it turns out that if comparisons are cheap mergesort tends to run a little faster because quicksort spends more time fiddling with pointers
+
+biggest,difference,detriment,lists,number,ties,better,great
+the biggest difference that can be produced between the two of them will always be to quicksort s detriment and it involves lists that are already largely sorted or contain a large number of ties when quicksort does better than mergesort the difference will not be nearly so great
+
+better,locality,reference,accesses,faster,corresponding
+quicksort has better locality of reference than mergesort which means that the accesses performed in quicksort are usually faster than the corresponding accesses in mergesort
+
+sorts,insertion,sort,worse,kinds,data
+this means that while the two underlying sorts it uses mergesort and insertion sort are both worse than quicksort for many kinds of data timsort only uses them when it is advantageous to do so
+
+hard,worst,log2n,-n+1,+,best,equals,k,.if,infinite.so,better
+that s hard to say.the worst of mergesort is n log2n -n+1 which is accurate if n equals 2 k i have already proved this .and for any n it s between n lg n - n + 1 and n lg n + n + o lg n .but for quicksort its best is nlog2n also n equals 2 k .if you divide mergesort by quicksort it equals one when n is infinite.so it s as if the worst case of mergesort is better than the best case of quicksort why do we use quicksort
+

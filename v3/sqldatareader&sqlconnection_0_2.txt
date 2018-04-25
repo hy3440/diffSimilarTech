@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+able
+once you have this you should be able to have more than one sqldatareader shared on the same sqlconnection in your code and use them independently of one another
+
+exception,cause,earlier,program
+the exception may be thrown from the code you are displaying but i would suspect that the cause is because of an sqldatareader associated with the same sqlconnection used earlier in the program execution that has not been disposed
+

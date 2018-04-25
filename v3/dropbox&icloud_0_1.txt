@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+value,store,solution,reliable,important,full
+instead of dropbox i could use key value store as rest web service which i want to do later but have no time for this for now in my opinion my solution is more reliable than icloud and which is very important i have full control on how itâ s working mainly because itâ s my own code
+

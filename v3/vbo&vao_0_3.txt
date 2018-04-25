@@ -1,0 +1,11 @@
+others---------------------------------------------------
+
+offsets,main,shader,switches
+then sort entities by shader mapping and render using offsets in the main vbo thus minimizing shader and vao switches
+
+possible
+is it possible to use the same vbo with more than one vao like this
+
+issue,big,vertices,uint,maximum
+i have issue with drawing big vbo with vao because the vbo has more than 65536 vertices and my vao is just uint that has maximum 65536
+

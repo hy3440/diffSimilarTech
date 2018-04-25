@@ -1,0 +1,13 @@
+simplier, easier, hard, ---------------------------------------------------
+
+easier
+so maybe a gridbaglayout will be easier to use than the grouplayout
+
+hard,simplier
+i recommend you not to use grouplayout is really hard instead of you can try to use gridbaglayout it s simplier
+
+others---------------------------------------------------
+
+fine,hand,harder,favorite,tools
+i find grouplayout to be fine to code by hand certainly no harder than gridbaglayout though i can certainly see why it would be a favorite for tools to use
+

@@ -1,0 +1,76 @@
+ui, anchor, instance, ---------------------------------------------------
+
+system,section,instance,ui
+but i dont like system pop-up and think more userfriendly will be customized pop-up section for instance jquery ui dialog
+
+ui,page,id,anchor
+i am using jquery ui dialog to show more than one pop-up on one page each pop-up will have its own id and it will be triggered by an anchor with a attribute
+
+window, larger, contents, ---------------------------------------------------
+
+window,scrolling,larger
+is there a way to allow the pop-up window to expand beyond the dialog but be bounded by the window and thus provide scrolling when the pop-up is larger than the window
+
+flexibility,easier
+this will allow it to pop-up like a dialog but give you more flexibility and easier to manipulate imho
+
+z-index,bubble,higher,window
+i realize this is an older post but we just ran into the same issue and resolved it by setting the z-index of the bubble pop-up to something higher than the dialog window
+
+page,smaller
+the issue i m having is that when the height of the page is smaller than the pop-up it opens a dialog instead of a pop-up
+
+particular,image,window,larger,version
+when a user clicks on a particular image a dialog window is supposed to pop-up and display a larger version of said image
+
+easier,window,contents
+dialog makes it easier for you to create a pop-up window with customized contents
+
+windows, box, boxes, ---------------------------------------------------
+
+datebox,z-index,box,panel
+because of datebox pop-up z-index is less then your box mean dialog box s z-index it shows behind pop-up panel
+
+alternative,startling,boxes,intrusive,windows
+from a practice standpoint - excluding accessibility - modal windows provide an alternative that are less startling as say dialog boxes and feel less intrusive than pop-up windows
+
+box,autocomplete,bigger,space,modal
+when typing in the text box the autocomplete pop-up but is bigger than the remaining space in the modal dialog
+
+windows,easy,modal,boxes,easier
+the pop-up windows are very easy to implement and the modal dialog boxes are even easier
+
+better, login, main, ---------------------------------------------------
+
+better,login,main,page
+generally a pop-up is a better option for a login dialog and a pop-up would allow you to easily navigate to the main page
+
+divs,modal,better
+use floating divs instead which looks like a modal dialog but are better than the pop-up
+
+others---------------------------------------------------
+
+idea,div,middle,website,chance,smaller,annoying
+i think it s a better idea to show a div as dialog in the middle of your website because the chance that this is pop-up blocked is smaller and it s imo less annoying
+
+interactive,where-as,toast
+dialog is designed for more interactive pop-up where-as a toast is really designed to display a quick text message
+
+purpose,parameter,setting,thatâ,smaller,full
+the purpose of this parameter is to tell the dialog what setting it will be shown in â and if thatâ s pop-up then the dialog elements are rendered smaller than they would be in the full page version
+
+println,useful,final
+of course the println would pop-up a dialog or do something more useful to the final user
+
+preview,print,options,browsers
+when you press print in calendar print preview the print dialog that pop-up has more options cross browsers
+
+preview,button,info,intended
+one of the button as you can see in the code below is a preview button where if clicked another dialog will pop-up to display more info about the intended operation consequences
+
+feed,intrusive,sense,facebook,window
+feed dialog is more intrusive in the sense that it has a facebook pop-up window
+
+look,mobile,widget,different
+i encourage you to upgrade jquery mobile to 1.3.x and take a look at jquery mobile 1.3 s pop-up widget which is different from the dialog and works more like what you want than dialog does
+

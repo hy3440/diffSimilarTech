@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+better,32bit,framework
+you can do it with qtkit but works better in 32bit quicktime framework
+

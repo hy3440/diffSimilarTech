@@ -1,0 +1,71 @@
+framework, smaller, community, ---------------------------------------------------
+
+great,smaller,community,extensions
+flask has a really great albeit smaller than django community and there are a lot of extensions available for common web-app extensions in the extensions directory
+
+framework,simpler,look,jinja2,default
+if you are looking for a web framework simpler than django look at flask flask uses jinja2 as the default template engine
+
+amazing,gonna,smaller,framework
+i would suggest furthering your knowledge of python it s an amazing language so it s gonna be fun and then go back to django or maybe start with a smaller framework like flask which does less magic
+
+latter,micro,framework,smaller
+if you are looking for the latter then flask is a micro framework that is considerably smaller than django
+
+bottle, comfortable, batteries, ---------------------------------------------------
+
+approach,better,bottle
+in this approach you won t get much from django you are better of with bottle flask
+
+heavy,bottle
+if you re looking for something less heavy than django perhaps try flask or bottle
+
+bottle,preference,faster,lightweight
+either will do the trick but bottle or in my preference flask will be faster as it is much more lightweight than django
+
+application,bottle,comfortable,batteries
+i m building an application in both bottle and flask to see which i am more comfortable with as django is too much batteries included
+
+integration, mongodb, first, ---------------------------------------------------
+
+features,integration,work,argument,better,beginners
+now you can get all those same features with flask if you re prepared to do some integration work but the argument can just as easily be made that django is better for beginners precisely because it does come with all those things built-in
+
+use,mongodb,first,place,better,integration,mongoengine
+but if the use of mongodb is a must then i suggest that you reconsider using django in the first place because mongodb has a better integration with flask through mongoengine
+
+others---------------------------------------------------
+
+friend,simpler,complicated
+but a friend told me to begin with flask as it s simpler and will help me when i start learning django as django is more complicated than flask
+
+team,use,frame,light,template.
+our team use django as our frame before but now we use flask as our frame because it is more light than django but we still use django template.
+
+comfortable,fun
+also as soon as you re comfortable with flask you can easily move to django and have more fun while playing with it thereafter
+
+frameworks,easy,easier,imo,authentication,layer
+both frameworks are fairly easy to implement flask is much easier than django imo although django has a built in authentication layer that you can use albeit more difficult to implement in a client server scenario like you need
+
+all-in-one,package,pyramid,flexibility
+django is an all-in-one package while pyramid and flask give you more flexibility
+
+things,better
+i can think of two relatively straightforward things you can do without ditching php though i have to mention that php doesn t have much to recommend it and you would likely be better off with python django python flask or ruby rails
+
+batteries,meaning,out-of-the-box,large,part
+django is very batteries included meaning that it comes with much more out-of-the-box than say flask and to me a large part of that the user auth system
+
+current,task,smaller,simplier
+current task looks like flask is ok for it since it is smaller and simplier than django
+
+application,earlier
+i am trying re-write an application in django which was earlier in written in flask
+
+simplicity,functionality
+flask is more focused on simplicity instead of functionality while django has more functionality
+
+beginner,better,educational,time,oscar
+i read that flask for beginner is better than django because educational reasons at the same time django have django oscar
+

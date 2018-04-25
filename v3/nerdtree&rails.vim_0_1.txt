@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+vim,plugins,aware,great,files,graphical,tree
+if you want a recommendation i would say vim with three plugins - rails.vim make vim more aware of rails and its structure command-t great for jumping around between files quickly and nerdtree - a graphical tree based file browser
+

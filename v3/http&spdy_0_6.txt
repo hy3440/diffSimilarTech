@@ -1,0 +1,20 @@
+others---------------------------------------------------
+
+rest,communication,header,compression
+the main benefits that you will get for soap rest communication are the fact that spdy can do http header compression reducing bandwidth and multiplexing - that is being able to send multiple requests on the same physical connection
+
+google,proposal,efficient,wire,protocol,semantics,request
+spdy a google initiated proposal to extend http using a more efficient wire protocol but maintaining all http semantics request response cookies encoding
+
+equivalent,implementation,detail
+anything that you do with http is more or less equivalent with spdy and neither is really anything but an implementation detail of your soa work
+
+optimizations,tls-secured,connection,better,plain
+in fact with optimizations like spdy you might find that a tls-secured connection actually performs better than plain http
+
+efficient,protocol
+spdy is a more efficient protocol than http
+
+better,article,use
+http 2 is even better than spdy and check this article for a use case regarding spdy
+

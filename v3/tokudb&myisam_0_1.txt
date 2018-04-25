@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+disk,usage,compression,faster,innodb
+from my personal use i experienced about 5 - 10 times less disk usage due to tokudb s compression and it s much much faster than myisam or innodb
+

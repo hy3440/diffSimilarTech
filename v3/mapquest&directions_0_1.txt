@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+accuracy,north,carolina,accurate
+as accuracy goes i ve noticed that for directions here in north carolina mapquest is slightly more accurate
+

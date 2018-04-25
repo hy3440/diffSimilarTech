@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+defference,awe6,platforms,ios,adnroid,html5,flash
+the main defference between these two is that awe6 is using openfl to target platforms such as ios and adnroid while flambe is focused more on html5 and flash games
+

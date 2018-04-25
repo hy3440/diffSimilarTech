@@ -1,0 +1,29 @@
+others---------------------------------------------------
+
+setup,easier,macport,port,install,+ssl,ssl-breaking,bug,suffers
+i actually found the setup of nginx much easier than lighttpd not to mention that you can install a macport of nginx port install nginx +ssl that does not contain the ssl-breaking bug that lighttpd suffers from here
+
+fastcgi,better,perception
+i was also going to recommend nginx + fastcgi as i prefer nginx to lighttpd it s better mantained or at least that s been my perception the last few years
+
+server,apache,easier,configuration
+using a different server such as one apache and one nginx or one apache and one lighttpd will be much easier because their configuration files don t conflict with each other
+
+scripts,apache,comfortable,small
+letâ s encrypt provides great scripts for apache 2 and nginx but not lighttpd which is much more comfortable for small systems like raspberry pi or old boxes
+
+benchmark,little,bit,better,bigger,static,contents,good
+according to this benchmark nginx is a little bit better than lighttpd for serving bigger static contents so nginx would be a good choice for static flv video contents
+
+certain,paths,different,port,data,resources
+you could do something like configure a reverse proxy for certain paths in lighttpd to go to a different port which nginx owns but this will still push all the data through lighttpd and just use more resources than having lighttpd serve it directly
+
+webserver,majority,able,faster
+nginx seems to be the webserver getting the majority of the buzz lately it may be able to serve faster than lighttpd maybe not
+
+simple,lightweight
+it s simple and nginx is even more ridiculously fast and lightweight than lighttpd
+
+cherrypy,fast,memcached,faster
+shortly put running some benchmarks on a page doing some database operations and serving static dynamic content has shown that plain cherrypy was twice as fast than nginx and memcached and about half faster than lighttpd
+

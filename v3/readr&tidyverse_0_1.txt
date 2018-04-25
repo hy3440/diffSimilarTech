@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+extract,tidyr,number,parse_number,greater,equal
+we can use tidyverse extract from tidyr to split group into group and decision then replace the group value to 1 if the percentage extracted the number with parse_number from readr is greater than or equal to 90
+

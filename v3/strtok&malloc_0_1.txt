@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+memory,call,nothing,seg
+i ve also tried malloc -ing more memory after every call to strtok but nothing seems to fix the seg fault
+

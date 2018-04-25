@@ -1,0 +1,11 @@
+others---------------------------------------------------
+
+manipulation,easier,bwplot
+viewport manipulation is easier with lattice than ggplot2 that s why i choose a bwplot
+
+easier
+i know it is much easier by using ggplot2 but i need to get it done by lattice
+
+plot,dotchart,thicker,grid
+how can i plot a dotchart like lattice s dotchart in ggplot2 that has thicker grid lines and only horizontal grid lines ie remove the vertical grid lines kind of like this
+

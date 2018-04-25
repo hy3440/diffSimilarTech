@@ -1,0 +1,31 @@
+slower, priority, integer, ---------------------------------------------------
+
+lower,precedence,addition,operations
+it might seem unintuitive but it has a lower precedence than multiplication addition and modulo operations
+
+redundant,division,priority,higher,precedence
+note parentheses are redundant as division and multiplication have the same priority and modulo has higher precedence over addition
+
+division,precedence,higher
+multiplication division and modulo have the same precedence and they all have higher precedence than addition and subtraction
+
+lower,precedence,division
+it appears that you consider modulo to have lower precedence than multiplication and division when in fact it does not
+
+integer,division,slower
+integer multiplication division and modulo are much slower than integer addition and subtraction
+
+others---------------------------------------------------
+
+division,costly,addition,easy,underflow,operations
+implementing multiplication and division might be more costly than you would like but at least addition is easy modulo protecting against over underflow and you claim to not need any operations so even better
+
+method,larger,number,modular,inverse
+this has some advantages over the original method when n is larger than the modulo divided by 2 since we can reduce the number of multiplication by solving for the modular inverse
+
+equivalent,faster,slower
+note that is equivalent to i 10 but much faster since modulo is around 10 times slower than multiplication
+
+inverse,time,seconde,division,sub,10k,core,functions,number
+inverse modulo for 300 time take 1.422 seconde more than executing division sub and multiplication 10k time even the core of inverse modulo is build with same division and sub and multiplication functions and for this number it just do 150 time inside while help plz why
+

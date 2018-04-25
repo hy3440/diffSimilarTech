@@ -1,0 +1,75 @@
+buffer, platforms, strlen, ---------------------------------------------------
+
+faster,longer,strings
+memcpy is usually faster than strcpy for longer strings
+
+information,use,faster
+information - use memcpy as it s faster than strcpy and we know
+
+amounts,data,large,slower
+for example for small amounts of data an memcpy optimised for large amounts of data may be significantly slower than a strcpy that wasn t optimised for large amounts of data
+
+strlen,malloc,faster
+because of the above replace strdup with strlen malloc memcpy memcpy is slightly faster than strcpy
+
+notice,faster,source,string
+notice that memcpy is faster than strcpy unless the source string is much smaller than the buffer s size which is rarely the case with ip addesses.
+
+variable,string,faster,check
+we keep track of what cmd s length ought to be in a variable and copy the string with memcpy which is slightly faster than strcpy and does neither check string length nor copy the extra zero at end of string
+
+slower,strncpy,faster
+memcpy is rarely slower than strcpy or strncpy and often significantly faster
+
+x86,faster
+so i feel that on x86 memcpy is faster than strcpy
+
+memset,strings,simpler
+you could use memcpy memset for strings too but strcpy is simpler
+
+faster,strncpy,byte
+memcpy can be faster than strcpy and strncpy because it does not have to compare each copied byte with 0 and because it already knows the length of the copied object
+
+platform,faster,number,bytes
+on almost any platform memcpy is going to be faster than strcpy when copying the same number of bytes
+
+faster,real,platforms
+is memcpy usually faster than strcpy on most real platforms
+
+faster,blocks,memory
+but sometimes memcpy performs faster than strcpy because it moves blocks of memory at a time which allows it to perform some optimization i will not go into details here
+
+slower
+memcpy is not really any slower than strcpy
+
+faster,buffer,size
+memcpy is faster than strcpy and also enforces you to specify a buffer size
+
+performance, difference, efficient, ---------------------------------------------------
+
+performance,difference,efficient,data,copies
+performance difference memcpy is usually more efficient than strcpy which must scan the data it copies
+
+memset,difference,data,byte,copies,string,time
+memset behaves like strcpy but the difference is that memcpy copied the data as it is byte but strcpy copies the formatted string as well so takes more time than memcpy to execute
+
+others---------------------------------------------------
+
+non-naive,implementation,faster,profit,cpu
+if size is known normally a non-naive implementation of memcpy is faster than strcpy since it takes profit of the cpu s data bus size
+
+structures,newbie,programmers,structure,overuse,appropriate
+structures are also memcpy ied by some newbie programmers because they either confuse structure assignment with the assignment of a pointer of a structure - or they simply overuse memcpy they often also use memcpy where strcpy would be more appropriate
+
+constant,strings,string,complicated,beneficial,inline
+the reason for not having strcpy i m guessing is that strcpy can be replaced more efficiently with memcpy for constant strings and if the string is not constant strcpy is a bit more complicated than memcpy anyway so not as beneficial to make inline optimisations for
+
+macro,memset,safer
+your macro with memset and memcpy was not any safer than strcpy
+
+efficient,rep,movs
+memcpy can be more efficient than strcpy since rep movs is highly optimized on intel cpus esp
+
+proper,strings,strcpy_s,windows,difference,faster,situations
+the proper way to copy strings is using strcpy or strcpy_s on windows the difference is memcpy is faster and used in other situations such as pointers buffer management
+

@@ -1,0 +1,11 @@
+others---------------------------------------------------
+
+data,shader,texture,coords,colours
+g_vertex_buffer_data and g_color_buffer_data are the arrays of data to use you will likely need to set up some shader code and the render code still has to be added but this is how to have more than one vbo texture coords colours normals etc
+
+interleaved,routine,vertices,right
+when using interleaved vbo s the normals routine is that the same vertices and normals will be written more than once right
+
+perfect,switch,model,worse,vertex
+when i use vertex array model looks perfect but when i switch to vbo model looks worse because of vertex normals
+

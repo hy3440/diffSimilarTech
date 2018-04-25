@@ -1,0 +1,36 @@
+slower, performance, suspicious, ---------------------------------------------------
+
+suspicious,performance,division,slower,operations
+i am a bit suspicious of the performance because modulo tends to use division which is slower than your subtraction operations
+
+multiplication,division,slower,integer,addition
+integer multiplication division and modulo are much slower than integer addition and subtraction
+
+binary, equivalent, negative, ---------------------------------------------------
+
+negative,higher,binary,calculation,equivalent
+with regard to implementation it also takes advantage of a bit of a non-obvious property of r precedence rules actually this is true of other languages as well such as c c++ and java namely that unary negative is higher than modulo which is higher than binary subtraction thus the calculation for is equivalent to
+
+multiplication,division,precedence,higher,addition
+multiplication division and modulo have the same precedence and they all have higher precedence than addition and subtraction
+
+higher,precedence,addition
+and keep in mind that the modulo has a higher precedence than addition and subtraction
+
+others---------------------------------------------------
+
+conditional,test,expensive,sum,mod
+the conditional test and subtraction is typically less expensive than a modulo especially if the sum does not frequently exceed mod
+
+order,magnitude,slower
+as you can see modulo is about an order of magnitude slower than subtraction
+
+special,faster,division-based
+that is essentially the one case in which repeated subtraction 0 or 1 times a special case of repeated subtraction can be and commonly is but not necessarily faster than division-based modulo
+
+speed,environment,expensive,simple,benchmark,certain
+as i said this may increase the speed especially in an environment where modulo is more expensive than simple subtraction but you would want to actually benchmark it to be certain
+
+slower
+the reason is that the modulo is slower than subtraction
+

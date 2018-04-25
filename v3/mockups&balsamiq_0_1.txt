@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+powerful,moqups,infragisticsâ,indigo,studio,static,interactive,protoshare
+if you are looking for something not as complex as axure justinmind but more powerful than moqups balsamiq you could also consider infragisticsâ indigo studio which can import static mockups from balsamiq and make them interactive and protoshare
+

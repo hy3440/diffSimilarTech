@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+file,parallel,faster,benchmarks
+see the referred post for an example that reads a single file in parallel with fileinputstream which should be significantly faster than using bufferedreader according to these benchmarks
+
+useful,large,streams,file,read,method,character,scene,data,buffer
+bufferedreader is useful when is used with large streams such as a file fileinputstream and in all cases the read method returns one character while behind the scene bufferedreader reads more data depends on buffer size from related inputstream and caches it to improve performance
+

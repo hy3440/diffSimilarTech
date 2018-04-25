@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+good,set,headers,footers,better,components
+i have used sitemesh and it is good for wrapping a set of pages in standard headers and footers but tapestry is better for creating components which are used on many pages possibly many times per page
+

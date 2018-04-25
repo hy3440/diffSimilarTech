@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+research,good,practice,better,solution,idea
+i did some research and read that singleton aren t exactly good practice and dependency-injection would be a better solution however i have no idea how to achieve this with dependency-injection
+

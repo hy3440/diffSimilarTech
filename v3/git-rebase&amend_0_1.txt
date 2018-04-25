@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+interactive,stead,earlier
+you can use an interactive git-rebase in stead of an amend and edit an earlier commit
+

@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+better,upload,goal
+instead of maven-antrun-plugin it is better to use upload goal of maven-wagon-plugin
+

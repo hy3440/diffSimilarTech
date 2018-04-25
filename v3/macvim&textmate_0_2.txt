@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+style
+is there any way to get macvim to scroll more smoothly textmate style
+
+sublimetext,thicker,slicker,sophisticated
+macvim sublimetext is much thicker whereas textmate is slicker and sophisticated
+

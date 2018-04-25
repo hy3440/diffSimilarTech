@@ -1,0 +1,54 @@
+resources, jboss, empty, ---------------------------------------------------
+
+jsf,resource,higher,precedence
+when a jsf resource is found in war instead of jar then those in war will have higher loading precedence over those in jars
+
+resources,higher,precedence,empty,file
+resources in war have higher classloading precedence than those in jar so the empty file would be loaded instead
+
+resources,higher,precedence
+resources in war have higher loading precedence than those in jar
+
+version,lower,jboss,higher
+like remove the jar s from your war in case the version of your jar is same or lower than that of jboss s or replace the jar s of jboss and remove that jar s from your war in case the version of your jar is higher than that of jboss s
+
+common, better, files, ---------------------------------------------------
+
+file,runnable,executable,common,files
+5 a war file can be runnable executable though this is more common with jar files
+
+embedded,better,file
+is embedded jar better than embedded war file
+
+resource,larger,file,web-inf
+i have the jersey resource classes bundled within a larger war as jar file which is now residing underneath web-inf lib folder on websphere application server
+
+others---------------------------------------------------
+
+client,thinner,interfaces,reference,access,ejb
+if your client jar is really thinner for example only the interfaces having the war s reference the client jar effectively disallows them to access to ejb implementations which is always a good idea
+
+practice,easier
+so in my practice using war app easier than jar to manage and re-configure
+
+project,packaging
+i set up a maven multi module project one with packaging war two more with packaging jar
+
+spring,boot
+you linked to a question about a war vs a jar while spring boot s jar is indeed a jar it contains more than what you usually put inside a jar
+
+transitive,dependency,thicker,superfluous,webapp,classloader
+while impact in compilation is minimal the impact in deployment can be bad i ve just came across an unused import that required a separate library witch became a maven dependency a further transitive dependency problem was not found hopefully but the war was thicker for no reason add to that a superfluous jar in the webapp classloader
+
+tomcat,windows,jars,class,definitions,web-inf,lib
+i recently got this error with tomcat 7.0.21 on windows 7 when a war contained jars which had duplicate class definitions a class was defined in more than 1 jar within the war s web-inf lib directory
+
+logic,ejb,ear,different
+keeping your business logic in ejb jar will pay off when you ll need more than one war in your ear different security realms etc.
+
+things
+but including this jar in my war only broke more things
+
+module,scope,file,longer,tests,impl
+i tried to do it in server s pom.xml file and i set the impl module to provided scope so the jar file is not longer contained in war but now the tests are failing as after unpacking the war file used for running the tests does not contain the impl jar file which is required for that
+

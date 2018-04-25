@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+xlwt,useful
+i m using python and can t decide which of xlrd xlwt or pandas would be more useful
+

@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+larger,amount
+basically what is happening is that when i expand one of the expander items and that itemscontrol contains a larger amount of items 25 the rendering of the list appears to be truncated
+

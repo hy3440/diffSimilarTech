@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+low-level,comfortable,good
+lapack is very low-level library and gsl may be more comfortable to use but speaking of good performance -- blas-based library it is
+

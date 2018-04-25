@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+good,integration,assertions,module,easier,spy
+sinon has good integration with chai for making assertions and i wrote a module to integrate sinon with mocha to allow for easier spy stub cleanup to avoid test pollution.
+
+things,chai,easier,testing
+there are also things like chai and sinon that work well with mocha to allow for easier testing
+

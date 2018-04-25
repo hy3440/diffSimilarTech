@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+accounts,better,project
+i was thinking of using the accounts app but django-userena seems better so i created a project zero with pinax and tried to integrate django-userena with it
+

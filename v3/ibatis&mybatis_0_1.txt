@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+mapper,tool,flexibility
+a data mapper tool like ibatis now mybatis will give you more flexibility
+

@@ -1,0 +1,48 @@
+greater, int, convenient, ---------------------------------------------------
+
+int,sizeof,longer,convenient
+most machines now end up with sizeof int sizeof long because 16-bit is no longer convenient but we have long long to get 64bit if needed
+
+number,bigger,multiplication,unsigned,short
+a number bigger than 64bit can never occur in a multiplication because c is an unsigned integer of 32 bits and k is a unsigned short of 16-bit
+
+int,larger,long,safe
+the standard only requires that int be larger than 16-bit and no larger than a long so it s not 64bit safe
+
+int,platforms,greater
+how many chars you can pack into it depends on the size of int which varies across platforms typically one of 16 32 or 64bit but it could be anything else greater than 16-bit
+
+systems,int,wide,larger,range
+on today s desktop systems an int is usually 32 or 64bit wide for a correspondingly much larger range than the 16-bit 32767 32768 you are talking of
+
+32-bit, integer, efficient, ---------------------------------------------------
+
+processors,32-bit,operations,efficient,8-bit
+in fact for x86 64 processors performing 32-bit or 16-bit operations are less efficient than 64bit or 8-bit operations due to the operand prefix byte that has to be decoded
+
+integers,operations,clock,modern,32-bit,x86,processors
+some older 32-bit x86 cpus also worked internally with 32-bit integers and operations on 16-bit integers required more clock cycles due to translation to from 32-bit this is not true with more modern 32-bit or 64bit x86 processors as they allow copying 16-bit integers to from 32-bit registers and operating on them with fewer such penalties
+
+mantissa,large,32-bit,addition,slower
+since a 53-bit mantissa is too large to fit in less than four 16-bit registers or two 32-bit registers performing an addition with a 64bit mantissa isn t any slower than using a 53-bit mantissa so using extended-precision math offers faster computation with no downside in a language which supports a proper type to hold temporary results
+
+integer,faster,32-bit,cpu,data,fast
+it logically follows that 64bit integer is faster than 32-bit and when it comes to 64bit cpu s using a 16-bit data as fast as possible int_fast16_t would have int_fast16_min defined to int64_min instead of the int32_min specified in stdint.h
+
+others---------------------------------------------------
+
+days,bits,common,unicode,combinations,char,locations
+any char can be to the compiler various lengths depending on the compiler settings including 7 bits rare these days 8 bits what most people think it is 16-bit getting more common especially with unicode i have even come across machine compiler combinations that would store each char in a 64bit locations
+
+32-bit,variable,memory,bits,apprpriate,whole,register
+sometimes when a less than 32-bit 64bit variable is accesses from memory the processor will read 32 bits set the apprpriate 8 or 16-bit then write back the whole register
+
+int
+that s obviously quite a bit more than the 16-bit that s mandated for an int but equally obviously less than the 64bit mandated for a long long
+
+register,smaller,32-bit,compiler,processor
+in that case the answer is basically both. normally int won t be bigger than a processor register unless that s smaller than 16-bit but it could be smaller a 32-bit compiler running on a 64bit processor
+
+4-bits,8-bits,chance,means,32-bits
+fixed length different settings best explained with an example - the first 4 bits indicate the length 00 means there are 2-bits following to indicate the distance 01 means 4-bits 10 means 8-bits 11 means 16-bit if there s a chance of more than 16-bit you may want to do something like - 110 means 16-bit 1110 means 32-bits 11110 means 64bit etc
+

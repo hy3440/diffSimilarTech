@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+addclass,show,better,control
+i would use addclass removeclass instead of show hide to get better control
+

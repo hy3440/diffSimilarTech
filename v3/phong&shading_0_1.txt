@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+nuanced,model,hacky
+phong is a more nuanced shading model albeit a more hacky one which says that light is composed of ambient + diffuse + specular components
+

@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+better,works,initial,signature
+using iequalitycomparer which is better because works without altering initial idictionary signature
+

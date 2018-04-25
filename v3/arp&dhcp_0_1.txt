@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+multiple,client,dhtest.however,help,script,clients,requests
+i would like to simulate multiple dhcp client using dhtest.however the below script is not working as expected.can someone help to fix the problem or provide any script which can simulate dhcp clients and also bind to respond for arp requests
+

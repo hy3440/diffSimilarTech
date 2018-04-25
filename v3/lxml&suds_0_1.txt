@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+xml,lib,dedicated,soap,easier
+but it s probably easier to at least use an xml lib such as lxml or a dedicated soap library such as suds to make this easier
+

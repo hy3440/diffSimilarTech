@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+better,append,parameter,constructors,default,charset
+usually better than filewriter already suggested is to use fileoutputstream which also like filewriter has an append parameter in one of its constructors and which unlike filewriter does not silently assume the default charset encoding slightly bad practice imo
+
+printstream,better,printwriter
+you need to create a fileoutputstream and decorates it with printstream or better filewriter with printwriter
+

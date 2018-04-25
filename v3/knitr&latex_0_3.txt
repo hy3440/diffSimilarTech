@@ -1,0 +1,11 @@
+others---------------------------------------------------
+
+r,markdown,easier,zhaoy
+you might want to use r markdown and knitr which is easier than using latex and r as also zhaoy suggested
+
+editors,support,.rnw,clunkier,pure,.tex,files
+even when latex editors support knitr their support makes working with .rnw files much clunkier than pure latex .tex files
+
+chunk,hook,better
+you may want to see how the default chunk hook for latex is defined in knitr to know better how the chunk hook works
+

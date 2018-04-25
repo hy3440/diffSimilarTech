@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+lists,hassle,powerful,robust
+even without having to deal with linked lists it s quite a hassle but ctypes are vastly more powerful and robust that f2py
+

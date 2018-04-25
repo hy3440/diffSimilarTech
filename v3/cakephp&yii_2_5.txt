@@ -1,0 +1,19 @@
+smaller, higher, frameworks, ---------------------------------------------------
+
+higher,learning,curve,codeigniter
+yii has a higher learning curve than say codeigniter and cakephp
+
+frameworks,codeigniter,smaller,learning
+if you employ php frameworks like codeigniter yii maybe even cakephp which have comparatively smaller learning curves you will find your path wellpaved for you in php
+
+others---------------------------------------------------
+
+complex,codeigniter,informative,understandable
+i am currently looking at yii and while its more complex than codeigniter the documentation is much more informative and therefore understandable than cakephp s
+
+sweet,things,advanced
+cakephp is sweet too but yii have more things and is more advanced
+
+clearer
+tried cakephp but yii seems much clearer
+

@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+mozilla,xul,xbl.,depend,technologies,tendency,bootstrapped,lower,level,sdk,webextension
+mozilla has stated that they plan to deprecate add-on that depend on xul xpcom and xbl. while not all bootstrapped add-on depend on these technologies there is a tendency for for bootstrapped add-on to operate at a lower level than add-on sdk and webextension add-on
+
+regular,dll,better,approach,interfaces,ff,multiple,dlls,versions
+you could try using c-types with ff which is a regular dll being called by javascript in your add-on this is way better approach that using xpcom because if the interfaces you use in there can change in each ff version indeed you will have to do multiple dlls each for your add-on supported ff versions
+

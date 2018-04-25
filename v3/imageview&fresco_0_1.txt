@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+docs,drawees,definition,customizable
+the fresco docs explain how to use drawees and you can see right from their xml definition that they are much more customizable than imageview
+

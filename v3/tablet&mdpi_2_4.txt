@@ -1,0 +1,16 @@
+density, images, android, ---------------------------------------------------
+
+high,resolutions,larger,screens
+the reason those two really high resolutions exist in mdpi is because they are only used on tablet which have a larger screens size...so the dpi rating works out to still be in the midrange
+
+screens,density,smaller,android,images,folder,bigger,ones
+owing to the fact that the screens density on the tablet is smaller android therefore uses the images in the mdpi folder for the tablet and the slightly bigger ones in the hdpi folder for the phone
+
+others---------------------------------------------------
+
+devices,nexus,bigger,version,folder,generic,galaxy,ace,phone,works
+i ve tested this on a few devices a nexus 10 tablet which gets the bigger version of the file from the xhdpi folder a generic tablet using mdpi a galaxy ace phone mdpi again and everything works ok
+
+analysis,inches
+and in my analysis the tablet must be more than 7 inches xlarge starting at mdpi
+

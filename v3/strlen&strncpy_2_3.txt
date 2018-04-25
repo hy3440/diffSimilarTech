@@ -1,0 +1,13 @@
+bytes, first, last, ---------------------------------------------------
+
+greater,last,argument
+this is the case here because strlen hello is greater than 3 your last strncpy argument
+
+source,greater,first,bytes
+however if strlen source is greater than n then strncpy will simply copy the first n bytes and will not terminate the string dest with a null byte because there is no space for it
+
+others---------------------------------------------------
+
+matter,initial,safety,slower,check
+but for the example you give it doesn t matter - if it s going to fail it will be in the initial strlen so strncpy doesn t buy you anything in terms of safety and presumbly strncpy is slower as it has to both check bounds and for nul and any difference between memcpy and strcpy isn t worth changing code for speculatively
+

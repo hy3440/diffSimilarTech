@@ -1,0 +1,14 @@
+others---------------------------------------------------
+
+reasoning,parameters,nicer,member,variables
+i believe the reasoning behind it is that it allows the parameters to be named nicer by preventing shadowing of member variables
+
+flexible,object,changes
+when you re not worrying about shadowing this is more flexible if the named of the object changes
+
+common,practice,confusion
+not using the same named is a more common practice to avoid confusion and shadowing
+
+variable,strlen,standard,function,little,confusing
+note that naming a local variable strlen thus shadowing the standard function of that named is going to more than a little confusing for someone who looks at your code later
+

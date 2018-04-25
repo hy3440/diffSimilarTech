@@ -1,0 +1,10 @@
+subtraction, powers, expensive, ---------------------------------------------------
+
+note,operator,higher,precedence,multiplication,mathematics
+note that the exponent operator has a higher precedence than multiplication and division just like in mathematics
+
+expensive,multiplication,powers,dividion,addition,subtraction,range
+it will be much slower i don t have benchmarks but i would guess at least an order of magnitude maybe more decimal will not benefit from any hardware acceleration and arithmetic on it will require relatively expensive multiplication division by powers of 10 which is far more expensive than multiplication and dividion by powers of 2 to match the exponent before addition subtraction and to bring the exponent back into range after multiplication division
+
+others---------------------------------------------------
+

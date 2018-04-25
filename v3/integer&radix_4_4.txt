@@ -1,0 +1,16 @@
+equal, decimal, value, ---------------------------------------------------
+
+string,decimal,equal,value,base
+integer.parseint takes string as a signed decimal integer and that integer must be less than and not equal radix value base
+
+search,tree,hash,string
+a radix search tree trie might be more suitable than a hash if you re mapping from string to integer
+
+others---------------------------------------------------
+
+sort,algorithm,better
+if this is not the case a standard comparison-based sort algorithm or even an integer sorting algorithm like radix sort is asymptotically better
+
+sort,longest,shorter,array
+so when using radix sort make sure the longest integer is shorter than the array size or vice versa
+

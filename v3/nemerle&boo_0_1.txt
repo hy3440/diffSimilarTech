@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+service,powerful
+i read somewhere that nemerle s macro service is more powerful than boo s
+

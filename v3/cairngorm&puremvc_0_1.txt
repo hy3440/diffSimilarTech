@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+invasive,meaning,dependent,framework,interfaces
+puremvc is more invasive than cairngorm meaning that your code is heavily dependent on the framework you have to subclass implement the framework classes interfaces but that doesn t mean that cairngorm isn t
+

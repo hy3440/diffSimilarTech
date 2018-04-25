@@ -1,0 +1,16 @@
+query, luck, similar, ---------------------------------------------------
+
+query,better
+edit i found out that piston was proposing query throttling but everywhere people say that tastypie is better than piston
+
+similar,better,luck
+- similar to piston but i ve had better luck with tastypie
+
+others---------------------------------------------------
+
+look,nicer,things,api
+i recommend to take a look on tastypie which turned out to work even nicer than piston it helps you also with things like versioning your api and mamange multiple endpoints nicly
+
+methods,resource
+tastypie is more tightly coupled to the orm than piston but there are methods that you can define in a tastypie resource to specify how to handle create read update delete
+

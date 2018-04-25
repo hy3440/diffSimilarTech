@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+control,nicer
+from what i ve read the gridview control plays a lot nicer with the objectdatasource
+

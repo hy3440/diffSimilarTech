@@ -1,0 +1,48 @@
+authors, wound, easier, ---------------------------------------------------
+
+wound,better
+i wound up going with redmine and it s way better than trac
+
+better,easier
+we found redmine to be a better than trac simply because it is easier to use
+
+better
+redmine was written to be a better trac than trac
+
+authors,better
+the authors of redmine are trying to create a better trac than trac
+
+multiple, box, projects, ---------------------------------------------------
+
+multiple,projects,box,nicer
+redmine handles multiple projects and sub-projects right out of the box and overall seems nicer than trac
+
+open,source,projects,better,easier
+redmine is an open source ruby on rails application that supports multiple projects much better than trac and seems to be much easier to administer
+
+others---------------------------------------------------
+
+clone,retrospectiva
+i understand redmine is more of a trac clone but retrospectiva seem to support agile methodologies via a nice plugin
+
+intuitive,flexible
+we have previously used trac but have found redmine to be much more intuitive flexible and user-friendly
+
+multiple,projects,nicer
+redmine handles multiple projects and sub projects far nicer than trac
+
+next,projects,clean,hipe
+for next projects i m going to try redmine seems more clean and hipe than trac
+
+work,wiki,functionality
+we ve recently switched from trac to redmine where i work and i think i like it a little more than trac and use the wiki functionality almost everyday
+
+posters,complete
+i d recommend redmine like the other posters as it is more complete than trac
+
+installation,process,easy,complex
+redmine s installation process is not easy but trac installation became also more complex these days so manual database creation etc
+
+popular,particular
+redmine is definitely much more popular but trac is getting more popular in particular as 1.0 version is around the corner
+

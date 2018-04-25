@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+monogame,performance,lower,platforms
+xna + monogame --- monogame s performance seems only slightly lower than libgdx can build to most platforms
+
+popular,tutorials
+xna is more popular and has more tutorials then libgdx
+

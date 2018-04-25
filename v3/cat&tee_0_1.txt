@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+data,pipe
+tee then writes more data t and tries to read from the pipe then goes to sleep until cat writes more data
+

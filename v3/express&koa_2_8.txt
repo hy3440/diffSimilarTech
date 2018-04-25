@@ -1,0 +1,28 @@
+restify, application, faster, ---------------------------------------------------
+
+faster,framework,restify
+it shows that koa is faster then other framework but as this question is about express and restify express is faster than restify
+
+application,framework,sails
+it is very common to use a web application framework like express sails hapi or koa there are many more
+
+others---------------------------------------------------
+
+middleware,simpler,hacky
+koa middleware is much simpler and less hacky than express middleware due to the way middleware flows in a stack-like manner
+
+tj,best,framework,simple,concept
+personally i would recommand using express.js framework written by tj but i would not say it s the best one you might have heard koa framework but i think express would be more simple concept than it. like es6 generator function etc.
+
+blog,request,better
+see this blog when you have 10000 request koa performs better than express
+
+familiar,entry,server.js
+i am more familiar with express than koa but could also see it going in the entry server.js file
+
+kind,thing,low,level
+koa doesn t provide this kind of thing out of the box - it s designed to be a little more low level than express
+
+ctx.request.get,authorization,req.header,routes
+i should also say that i have the token at ctx.request.get authorization koa based i think it s something like req.header authorization with express in all routes
+

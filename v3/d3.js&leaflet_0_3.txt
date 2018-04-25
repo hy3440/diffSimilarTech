@@ -1,0 +1,11 @@
+others---------------------------------------------------
+
+tiles,openlayers,display,data,combination,visualization,easier,tool
+i was thinking of generating tiles to serve to openlayers or leaflet for display but my data has a graph structure that i would like to take advantage of and i think using neo4j possibly in combination with a visualization library like d3.js may be an easier way to build my tool
+
+better,quick,panning,first,slick,zoom
+i think d3.js looks so much better than leaflet but for quick zooming panning functionality my first question is is this better off in leaflet or can d3.js handle slick zoom pan even though it s not tile-based
+
+wrong,data,incorrect,lenient
+d3.js is not wrong the data is incorrect and leaflet is more lenient
+

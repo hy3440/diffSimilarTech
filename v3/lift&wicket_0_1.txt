@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+support,verbose
+lift s ajax support is far less verbose than wicket s
+

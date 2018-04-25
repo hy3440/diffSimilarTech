@@ -1,0 +1,16 @@
+relationship, method, compareto, ---------------------------------------------------
+
+interface,instances,class,greater
+icomparable is an interface that defines that two instances of the implementing class can be seen as greater than less than or equals to one another
+
+compareto,method,integer,greater,relationship
+icomparable declares the compareto method which returns an integer that specifies a less than equals to or greater than relationship between two objects of the same type
+
+others---------------------------------------------------
+
+fine-grain,comparison,less-than,is-equal-or-not
+implementing icomparable is a more fine-grain way of comparison as it provides the compareto method which is a greater-than less-than comparison as opposed to equals which is simply a is-equal-or-not comparison
+
+object,greater
+no - icomparable is for seeing if one object is greater than equals to or less than another
+

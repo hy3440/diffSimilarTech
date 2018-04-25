@@ -1,0 +1,11 @@
+others---------------------------------------------------
+
+clicks,computer
+from vbscript s help same as vb6 s help but less clicks to get to on my computer
+
+vba,little,better,similar,issues
+vb6 vba though a little better than vbscript in general still has many similar issues where for their domain they require much more boiler plate to do simple tasks than what i would like and have seen in other scripting languages
+
+convenient,activex,c#,vb.net
+vbscript is much more convenient than creating an activex on vb6 or c# vb.net
+

@@ -1,0 +1,19 @@
+powerful, easier, general, ---------------------------------------------------
+
+environments,general,powerful
+conda environments are more general and powerful than those provided by virtualenv
+
+environments,easier,opinion
+conda environments are easier to manage than virtualenv environments in my opinion
+
+others---------------------------------------------------
+
+anaconda,better,alternative,packages
+if you are using anaconda conda is a better alternative to virtualenv as it manages conda packages which are not limited to just python packages
+
+better,pain
+i am using conda i thought using conda should be better than setting up via virtualenv but looks like this is really a pain
+
+additional,bonus,better,package,manager
+an additional bonus i find that conda works better as a package manager than virtualenv
+

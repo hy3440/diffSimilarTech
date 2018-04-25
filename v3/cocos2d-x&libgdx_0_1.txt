@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+copters,game,ram,ios,device,apportable,android
+performance i did some test with simple game similar to swing copters and found that game created with libgdx consumes 15-20 more ram on ios device that the same game created with cocos2d-x but then i used apportable to run cocos2d-x game on my android device and found it almost not playable
+

@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+telephony,sip,rtcp,on-device,audio
+internet telephony is a lot more than sip - rtp rtcp sdp on-device audio handling etc.
+

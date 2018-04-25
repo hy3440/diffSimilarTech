@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+central,location,faster,windows,command,-s
+push log files to a central location ftp is faster than smb the windows ftp command can be automated with -s scriptfile
+

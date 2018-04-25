@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+right,better,protocol
+you are right that using tcp is probably better to use for something like this or even an existing protocol like tftp
+

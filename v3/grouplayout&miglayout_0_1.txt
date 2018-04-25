@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+better,harder,heads,party,days
+you could also use grouplayout which i like better but which is harder for some to wrap their heads around...but if you re not opposed to adding a 3rd party library i m using miglayout for most everything these days
+

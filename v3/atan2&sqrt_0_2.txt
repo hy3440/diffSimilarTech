@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+modern,hardware,faster
+with typical libraries on common modern hardware sqrt is faster than atan2
+
+better
+indeed sqrt is better than atan2 and 1 sqrt is better than sqrt
+

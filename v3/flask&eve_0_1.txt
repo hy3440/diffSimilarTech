@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+configuration,variable,name,server,table,docs
+eve s server_name seems to be based on the configuration variable by the same name from flask see more on server name below the table in the flask configuration docs
+

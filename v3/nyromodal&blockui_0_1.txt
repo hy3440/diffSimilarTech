@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+old,companion,flexibility,extensive,users,topup,closer,rest
+after some research and lot of quick prototyping i feel like my old companion nyromodal is the only option left for me which gives me flexibility of controlling it using its extensive api i went through other options given by the users and topup and blockui came closer rest of them are also good but doesn t meet my needs
+

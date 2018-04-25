@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+audio,wav,ogg,mod,s3m
+it is a high level 2d and 3d cross platform windows mac os x linux sound engine and audio library which plays wav mp3 ogg flac mod xm it s3m and more file formats and is usable in c++ and all .net languages c# visualbasic.net etc
+
+file,newer,corresponding,bunch,commands,tags
+if a flac file is newer than the corresponding mp3 file or the corresponding mp3 file doesn t exist then i want to run a bunch of commands to convert the flac file to an mp3 file and copy the tags across
+

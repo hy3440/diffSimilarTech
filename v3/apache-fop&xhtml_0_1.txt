@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+stronger,syntax,html,easier
+xhtml has a stronger syntax than html and is easier to convert to apache-fop this way
+

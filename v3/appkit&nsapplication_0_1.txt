@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+deactivate,method,call,better,stuff
+the documentation for deactivate method for nsapplication says that i shouldn t call this method directly since appkit knows better how to deactivate stuff
+

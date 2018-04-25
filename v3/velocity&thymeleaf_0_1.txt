@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+engine,apache,slideshare,presentation,faster,page,big,template,html5
+i m working in a spring mvc project and i want to use a template engine i originally choose apache velocity because a slideshare presentation that says it was two times faster than thymeleaf page 41 and since i m working with big tables i need to use a fast template engine does apache velocity supports html5 if not is there other template engine that supports html5 that is not thymeleaf
+

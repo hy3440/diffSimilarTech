@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+nawk,sort,superior
+nawk alas aix don t have sort and unix sort is far more superior then any hand-made sort in awk
+
+windows,systems,exotic,platforms,zlinux,solaris
+it is compiled on windows and unix systems including somewhat more exotic platforms like aix zlinux solaris and hpux
+

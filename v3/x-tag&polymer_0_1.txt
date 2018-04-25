@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+polyfills,better,worth
+x-tag 2 is now using the polymer polyfills so it may not be much better than polymer but worth considering
+

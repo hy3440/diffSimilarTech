@@ -1,0 +1,19 @@
+production, change, heroku, ---------------------------------------------------
+
+nginx,better,options
+as other already suggested nginx + gunicorn or better nginx + uwsgi are better options than apache + mod_python to serve your django app
+
+production,heroku,year,better
+i ve been using uwsgi in production on heroku for over a year and it seems to handle everything a lot better than gunicorn
+
+benchmarks,better,performance,change
+according to many benchmarks uwsgi seems to provides better performance than gunicorn and if the performance doesn t change significantly you ll be able to focus your investigation on nginx or ec2 configurations
+
+others---------------------------------------------------
+
+easier,simple
+i always used uwsgi but realized that gunicorn is easier for simple projects like mine
+
+ambitious,project,sys,admin,easier,common
+i sure would like to use uwsgi as it is an ambitious project but at the end of the day i am a developer and not a sys admin and gunicorn is much easier to just get working in the common use cases
+

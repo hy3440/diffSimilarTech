@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+losswise,plugin,easier,nice,extra
+you should check out losswise it has a plugin for keras that s easier to use than tensorboard and has some nice extra features
+

@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+result,accurate,sin,-m_pi,+m_pi
+and my test result show it s more accurate than math.h s sin cos at -m_pi angle +m_pi range
+

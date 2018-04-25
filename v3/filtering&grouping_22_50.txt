@@ -1,0 +1,160 @@
+entry, pmin, pmax, ---------------------------------------------------
+
+use,clause,fkey
+use having clause to filtering the grouping which is having more than fkey
+
+pmin,pmax,entry
+you can also use pmin and pmax to assist with grouping and then filtering on all grouping having more than one entry
+
+clause,entry
+the having clause indicates that we want to filtering after the grouping to only show the grouping which have more than one entry
+
+results, select, row, ---------------------------------------------------
+
+reference,results,rows,empty,string,select,row
+if rows with same reference should go together in results then you should filtering out rows with reference equal to empty string then grouping all rows by reference and select only those grouping which have more than one row
+
+reviews,results,name,item,select
+you can use selectmany to get a flat sequence of all of the reviews from all of the results you can grouping those by name filtering out the grouping that have more than one item select out all of the items after the first and then remove all of those reviews from their result
+
+greater, count, number, ---------------------------------------------------
+
+acct,count,result,greater,clause
+grouping that by acct to do the count by acct and when the result is greater than 1 filtering it using a having clause
+
+groupby,tickets,dataframe,records,count,ticket,greater
+i am using groupby on tickets then filtering my dataframe to those records where the count in that ticket grouping is greater than 1 using filtering
+
+phone,number,count,greater
+you can grouping by phone number and filtering those having count greater than 5
+
+observations,x,number,rows
+if you want to filtering the grouping having less than 2 observations we can grouping by x and then filtering the number of rows n less than 2
+
+nrows,greater
+we grouping by a filtering the grouping that have nrows greater than 1
+
+amt,year,greater
+i am wanting to sum the amt by year and grouping and then filtering where the summed amt for any given grouping is greater than 100
+
+sum,othervalue,rows,greater
+this filtering will return only those grouping where the sum of othervalue of the rows in this grouping is greater than zero
+
+topn_rank,column,top,rows
+filtering by topn_rank column to get the top n rows for each grouping prohibiting more than 3 per grouping
+
+count,aggregate,distinct,values
+instead of in count aggregate use distinct column_name in count aggregate to filtering the grouping which is having more than one distinct values
+
+query, element, item, ---------------------------------------------------
+
+extra,clause,query,records.to,look
+extra grouping by clause in query 2 filtering records.to know more look at below example
+
+query,able,item
+for the life of me i can t figure out how to work with the values returned by the linq query to be able to then filtering all of the grouping that were returned so that i only have the grouping that have more than one item in them
+
+duplicates,query,identifier,member
+an easy way to find duplicates is to write a query that grouping by the identifier and then filtering for grouping that have more than one member
+
+element
+filtering the grouping by grouping that have more than 1 element
+
+item,index,value,object
+you can create an object from each item containing it s index then grouping on the value and filtering out the grouping containing more than one object
+
+item,single
+then you filtering the grouping by taking only the grouping that have more than one item and thus remove the grouping that have a single item
+
+element
+then you filtering the grouping that have more than one element
+
+courseinfoid,item
+what you ll want to do is grouping by courseinfoid then filtering on grouping that have more than 1 item which will get you all of the duplicate items
+
+others---------------------------------------------------
+
+collapsingqparser,post,performant,field,number,distinct,result,set
+solr - the collapsingqparser is really a post filtering that provides more performant field collapsing than solr s standard approach when the number of distinct grouping in the result set is high
+
+nested,easier
+or could you restructure into nested grouping to make it easier to filtering
+
+link1,link2,users
+2 i used link1 and link2 to filtering out duplicate users existing in more than one grouping
+
+query,amount,cross,fewer,types
+already to filtering by the elements of grouping 2 i need to use another query reducing the amount of cross join because grouping 2 has fewer types only types 4 and 5
+
+easier,single,date,given,year,data,month
+this is easier done by filtering for a single date but because you said that companies might cease to exist at a given year i grouping data by month first
+
+better,first,result,tree,node-set,similar,muenchian,earlier
+as for your latest edit i think it is better to first filtering the elements into a result tree fragment convert that into a node-set using exsl node-set or similar and then grouping using muenchian grouping as suggested earlier
+
+new,method,succinct,straightforward
+if you upgrade to pandas 0.12 you can use the new filtering method on grouping which makes this more succinct and straightforward
+
+stock,data,respective,transaction
+i m playing around with stock data and i m trying to filtering the grouping that have more buys than sells with respective to transaction values
+
+collapse,faster
+from my experience collapse filtering is much faster than grouping
+
+number,rows,larger,first,unknown,whole,unkown
+2 filtering per grouping make sure the number of rows for the grouping is larger than 1 and then either the first gene starts with unknown which means the whole grouping contains unknown since unkown has been sorted to the end or take the first row
+
+fine,company
+this works perfectly fine but our company has more than 1000 grouping that would be imported if i don t set a filtering for grouping
+
+client,worse,method
+you query all and filtering on the client the more grouping you have the worse this method will be
+
+related,contact
+i want to filtering and only get grouping that have more than 1 related contact
+
+collision,category,specific,bodies
+you can even specify if they are in the same collision category grouping using filtering to be more specific about which bodies collide with each other
+
+data,processing-intensive
+filtering on the grouping data is more processing-intensive because the grouping must be completed first
+
+efficient,amount
+filtering before the grouping by is usually more efficient because it reduces the amount of data needed to process the aggregation
+
+nodes,scenario_id,property,selection,edge
+when i select one or more nodes by grouping and try to filtering by one or more scenario_id property of the edge i would like to see all the dependent nodes of a certain depth ..n that depend on my selection and edge filtering
+
+possible,openldap,object,multiple,unique,dn
+unfortunately this not possible using openldap because your filtering is returning more than 1 object multiple grouping each with a unique dn
+
+nan,values
+so this will filtering out the grouping that have more than 1 nan values
+
+events,location,name,entries,non-reliable
+in order to accomplish this what i ve done is created a sql query where i join the events for each location and then grouping by the location name and only use location grouping having more than 10 entries that filtering out the somewhat non-reliable entries but i still end up with some very different spellings and entries resulting in duplicate properties locations
+
+user,efficient,results,keyword,group_id
+if a user belongs to more than x grouping it may be more efficient to retrieve all results matching the keyword and then filtering them by group_id
+
+values,group_by,constant,variable,boolean,member,relevant
+you could do this with dplyr using mutate to convert missing boolean values to 0 group_by to compute grouping with constant values of variable boolean filtering to limit to grouping where boolean was set to 1 and where the grouping had more than one member and then summarize to grab the relevant summary information
+
+simpler,process,set
+you can do all grouping and use a simpler process to do it by using filtering and creating a simpler set of data arrays for comparisons
+
+words,string,length
+we then filtering all words from the given string if the length of any of the grouping is more than two
+
+columns,entry,export,csv
+grouping by those columns filtering for grouping that have more than 1 entry expand those grouping export to csv
+
+result,row,phase,single,row.
+my question is if the grouping by only has a result of 1 row per grouping how is the having phase using that single grouping row to filtering out any grouping that have more than 1 row.
+
+rdd,productid,length,larger,threshold
+you can grouping the rdd by productid and then filtering it based on if the length of the grouping is larger than the threshold 1 here
+
+files,complex,node,values,new,ids,attributes
+another reason to consider this route is if parsing xml files is more complex than filtering off node values grouping elements assigning new ids filtering by attributes
+

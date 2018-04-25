@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+approach,teamcity,better
+if you are taking a more open source approach such as teamcity cruisecontrol then nant may be better
+
+bug,reports,svn
+think about project management bug reports and it all adds up to something more than just cruisecontrol svn and nant
+

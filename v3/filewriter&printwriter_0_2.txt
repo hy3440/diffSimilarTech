@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+effective,multiples,for-loop
+printwriter is more effective than filewriter and filewriter is needed anyhow but this will work also if you want to do multiples people then just for-loop it and dont forget to close
+
+printstream,better
+you need to create a fileoutputstream and decorates it with printstream or better filewriter with printwriter
+

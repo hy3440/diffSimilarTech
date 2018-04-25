@@ -1,0 +1,32 @@
+others---------------------------------------------------
+
+single,pass,derivatives,quicker,loc
+languages that can be compiled in a single pass eg pascal derivatives like delphi compile far quicker 10 6 loc in seconds
+
+pov,object,paradigm,fpc,dialect,default,advanced,lightweight,interface-based,plumbing,xe2,compiler
+from my pov the object pascal paradigm used with fpc object pascal dialect which can coexist with the default object pascal code is more advanced lightweight and integrated than the interface-based plumbing of delphi xe2 compiler with on-the-fly marshalling using rtti
+
+centered,readability
+pascal and also delphi is more centered on readability than the c syntax languages which are more centered on character power as much information per character as possible
+
+users,free,paralel,implementation,libchm,solution,easier
+delphi users might want to look at free pascal s paralel implementation of libchm since a pascal solution makes it easier embeddable
+
+tp,dialect,free,better
+if you prefer tp delphi dialect free pascal is the better choice
+
+large,amounts,android,applications,efficient
+i have large amounts of pascal code that i need to compile into android applications and i would like to know how to make delphi generate more efficient code
+
+application,dll,precise,compatible,lazarus,ide,free,linux,stdcall
+for my application i need to create a dll from delphi to be more precise delphi compatible code written within lazarus ide compiled by free pascal under linux using stdcall
+
+earlier,programming,books
+you probably don t want to go back to anything earlier than delphi 3 but some pascal programming books can be helpful
+
+mac,linux,portable
+there is the mono project that aims to allow .net code to run on mac and linux but between the two delphi being pascal is somewhat more portable
+
+free,turbo,file,handling,easier,assignfile,close
+in free and turbo pascal file handling is much more easier than in delphi in pascal we have assign instead of assignfile and close instead of closefile
+

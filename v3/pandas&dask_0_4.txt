@@ -1,0 +1,14 @@
+others---------------------------------------------------
+
+hdf5,familiar
+this may help those confused by dask and hdf5 but more familiar with pandas like myself
+
+slower,smaller,datasets
+1 i guess dask will be slower than pandas for smaller datasets
+
+flexible,data,parts,dataframes,memory
+pandas is far more flexible for working with data so i often bring parts of dask dataframes into memory manipulate columns and create new ones
+
+storage,.csv,dataframes,faster,hdf5,slower,csv
+when hdf5 storage can be accessed fast than .csv and when dask creates dataframes faster than pandas why is dask from hdf5 slower than dask from csv
+

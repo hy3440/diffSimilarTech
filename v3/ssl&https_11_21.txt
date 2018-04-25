@@ -1,0 +1,73 @@
+handshake, anybody, bandwidth, ---------------------------------------------------
+
+applicable,protocol,tls,rfc,http
+this being said the rfc 6125 guidelines meant to be applicable to any protocol that uses ssl tls are more or less the same as those for https which are defined in rfc 2818 http over tls section 3.1
+
+http,performant,handshake,anybody
+http is slightly more performant than https as the ssl handshake doesn t need to happen however anybody hackers can see everything that your users can see
+
+handshake,overhead,bandwidth
+the ssl handshake overhead associated with https is more than 50 of the bandwidth currently
+
+host, ip, virtual, ---------------------------------------------------
+
+virtual,host,port,ip
+there is a limitation on creating virtual hosts for name based virtual host while using ssl 443 port so if you want to have more than one https port enabled you will need ip based virtual hosting
+
+cannot,configure,virtual,host,hosting
+as far as i know you cannot configure more than one https virtual host for each ip that s it name based virtual hosting is limited to only one ssl virtual host
+
+load,balancer,proxy,certificate,ip
+it could be a sni problem if you use any kind of load balancer https proxy or more than 1 ssl certificate on the same ip
+
+better, tls, ---------------------------------------------------
+
+tls
+always use tls which is ssl which is https more or less
+
+tls,better
+ssl tls provide better encryption decryption over https
+
+http, switch, page, ---------------------------------------------------
+
+http,client,version,page
+you can optionally handle http 403.4 code ssl required more gracefully by automatically redirecting the client to the https version of the page
+
+http,websites,resource,slower,handshakes
+you could always use https that will work both on http and https websites but loading a https resource is slower than loading a http resource because of the encryption and ssl handshakes
+
+security,issues,safer,switch,registry,http
+as last resort resolution i don t suggest this for security issues using ssl is always safer switch your registry to use http instead of https
+
+others---------------------------------------------------
+
+type,http,requests,details,godaddy,full
+you can handle it on your server side by using your hosting cpanel plesk etc.simply change all request the type on both http and https if you want to enable only https requests then configure it on only https .for more details how to configure and enable ssl on godaddy kindly view full details on the given link
+
+slow,connection,number,packets,higher
+https can be quite slow over a 3g connection as the overhead in terms of number of packets to setup an ssl connection is higher than a plain tcp connection.
+
+flexible,application,level
+https is more flexible than ssl an application can configure the level of security it needs
+
+practice,tls,stop,please,refrain,-only,comments,hosting,provider,happy
+i already understand that just encrypting form data is an extremely weak practice compared to using tls ssl and won t stop people who are determined to break the encryption from doing it so please refrain from any you should be using https -only comments though if you know a free hosting provider that allows https i d be more than happy too hear about them
+
+states,linear
+ssl the s in https has more states but since it follows a fairly linear progression does not really have any kind of complex diagram
+
+basic,authentication,easier,workarounds,site,change,auth
+for basic authentication over ssl there are some easier workarounds if it is possible to have the web site change to allow https and basic auth that would be easiest
+
+application,better,certificate,traffic,server
+-security concerns if this is a web application which i think it is as you mentioned lightweight you re better off with a ssl certificate which encrypts all traffic to from your server by using https
+
+testing,checking,better,port,default
+if you are using the standard port testing for will also work but of course checking if https is used is better than testing if the port is the default ssl port
+
+binding,error,site
+if i try to add more than 1 ssl binding i get the error at least one other site is using the same https binding and the binding is configured with a different certificate ...
+
+certificate,secure
+i m assuming using https without a ssl certificate is atleast more secure than doing the exact same connection over plain http since atleast it s encrypted and an evildoer would have to make a much larger effort to intercept en decrypt the information
+

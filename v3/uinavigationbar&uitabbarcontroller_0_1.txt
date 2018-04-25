@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+specific,view,controller
+in specific i would like the uinavigationbar in the uitabbarcontroller s more view controller to be an instance of my class
+

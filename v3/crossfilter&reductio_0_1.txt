@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+easier,raw
+i think reductio will make this easier but with raw crossfilter this would look something like
+

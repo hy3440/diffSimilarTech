@@ -1,0 +1,16 @@
+uiviewcontroller, read-only, current, ---------------------------------------------------
+
+actual,current,uiviewcontroller,morenavigationcontroller,property
+basically if the user is on a view under the more tab the actual current uinavigationcontroller you want to use to push a uiviewcontroller onto is the uitabbarcontroller s morenavigationcontroller property
+
+read-only,property,morenavigationcontroller
+there is only a read-only property of the uitabbarcontroller called morenavigationcontroller that points to a uinavigationcontroller
+
+others---------------------------------------------------
+
+uiviewcontroller
+add one more uinavigationcontroller between uitabbarcontroller and uiviewcontroller
+
+viewcontrollers,corresponding
+i am writing an app based on uitabbarcontroller which has more than 10 viewcontrollers with corresponding uinavigationcontroller
+

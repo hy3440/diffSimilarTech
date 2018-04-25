@@ -1,0 +1,11 @@
+others---------------------------------------------------
+
+small,words,shorter,function,unroll,loops
+using options such as -os for the compiler to tell it to make the code small in other words don t inline-functions unless the code is shorter by inlining than by calling the function and don t unroll loops etc etc - but do inline-functions called only once as that does make the code shorter
+
+compilers,better,use,function,contemporary,calls
+compilers are getting better with inlining the use of function pointers where the function is actually known but contemporary compilers certainly don t always inline-functions calls through function pointers even if all the context would be there
+
+decision,user,non-specified,control
+i m well aware that inline is more of compiler decision than of user going so far as even to inlining non-specified inline-functions so the user control is almost negligible
+

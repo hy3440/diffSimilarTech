@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+note,smaller,panel,size,enclosed
+note that the jsplitpane will become no smaller than the panel s minimum size managed by the enclosed jlabel
+

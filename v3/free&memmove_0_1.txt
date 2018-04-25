@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+compiler,method,efficient
+the compiler is free to choose a method that is more efficient than memmove
+

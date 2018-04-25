@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+solution,nstable,work,single,column
+building a reverse column order solution as recommended for nstable here for the nsmatrix require some more work since i use a single column nsmatrix with nsbuttoncell
+

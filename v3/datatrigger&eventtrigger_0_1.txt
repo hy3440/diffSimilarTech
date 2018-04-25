@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+suitable,type
+i think datatrigger instead of eventtrigger is more suitable and you need to use x type to specify the bound data to the item
+

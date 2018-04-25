@@ -1,0 +1,11 @@
+others---------------------------------------------------
+
+hyperactive
+you might want to use onchange instead of onkeyup to make it less hyperactive
+
+oninput,mohamedrias,event,suitable
+using onkeyup or oninput suggest by mohamedrias rather than onchange event is more suitable in your case
+
+work,onblur,sane
+also onchange won t work you ll need to use onkeyup although onblur is probably more sane
+

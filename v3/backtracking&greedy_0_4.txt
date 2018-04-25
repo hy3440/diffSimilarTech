@@ -1,0 +1,14 @@
+others---------------------------------------------------
+
+first,pattern
+the capturing group 1 in the first pattern is greedy it first matches everything and takes as less as it backtracking
+
+regex,matches,search,end
+but this is not a good regex because matches zero or more times with greedy for every search it will go to the end then it will backtracking to match the
+
+next,number,steps,fewer,matching
+since the next is not far the number of backtracking steps is much fewer than with greedy matching
+
+spirit,print_p
+for your code to work spirit would need to recognize that the greedy print_p matched too much and then backtracking to allow matching less
+

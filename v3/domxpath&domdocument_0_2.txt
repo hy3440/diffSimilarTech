@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+better,loadhtml
+you re better off with domdocument s loadhtml and domxpath
+
+task,document,suitable
+for this kind of task reading the document into a domdocument and using domxpath is probably more suitable
+

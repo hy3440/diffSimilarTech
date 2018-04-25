@@ -1,0 +1,19 @@
+base, convenient, constants, ---------------------------------------------------
+
+easier,hexadecimal,convenient
+bitshifts just go easier with hexadecimal than decimal and is often more convenient to read than octal
+
+conversion,binary,hex,easier
+the conversion between binary and either octal or hex is even easier than decimal
+
+binary,base,constants,useful
+you ll need to convert binary to another base here i use decimal when writing this code because c doesn t have binary constants which would be ten times more useful than octal constants
+
+others---------------------------------------------------
+
+buffer,number,representation,digits
+this means the buffer is enough for printing the number in octal and since decimal representation uses no more digits than octal it will be enough for decimal representation too
+
+hex,machine,clearer,similar,opcodes
+hex or maybe octal depending on the machine being emulated will be clearer than using decimal since similar opcodes tend to vary in bits not digits
+

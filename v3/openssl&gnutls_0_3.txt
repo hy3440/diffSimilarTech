@@ -1,0 +1,11 @@
+others---------------------------------------------------
+
+usability,api,time,preferable
+speaking about usability personally i would prefer gnutls api but at the time openssl looks more preferable to use
+
+similar,gutmann,cryptlib,gnu
+openssl is more similar to peter gutmann s cryptlib and gnu s gnutls
+
+newer,better
+i ve generally gone with openssl though gnutls is newer perhaps better
+

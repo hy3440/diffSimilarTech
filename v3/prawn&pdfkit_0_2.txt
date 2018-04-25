@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+full,week,hours
+i would have spent at least a full week using prawn and i got pdfkit working in less than a few hours
+
+options,wicked,pdf,pdfs,native,situation
+some options like pdfkit above and also wicked pdf will rely on an external tool like wkhtmltopdf to render existing html pages as pdfs whereas other options like prawn are more ruby native so it really depends on your situation which path your should take in your application
+

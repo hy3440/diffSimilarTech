@@ -1,0 +1,20 @@
+others---------------------------------------------------
+
+do-while-loop,better,next,condition,okay
+try to simplify your code and use do-while-loop instead while-loop should produce a better code do while will at least do one loops and then inspect the next condition before do the next loops but while will inspect the condition first if it is okay it will do loops
+
+point,for-loop,prone,endless,increment,counter
+if you re just going to loops through point use a for-loop as while-loop is more prone to dropping into an endless loops if you forgot to increment counter or doing wrongly or do it in multiple places
+
+likely,slower,modern,clever,compiler,conditions,change
+it is quite likely that having an if inside a while-loop will run slower but modern compilers are quite clever and i have certainly seen cases where the compiler hoists such a choice out of loops in cases where the conditions don t change
+
+opinion,whole,better,moment,different,approach,work
+also i made this two days ago mostly as a draft to get started with and there are likely other things that can be better so excuses if anything seems somewhat sloppy in my opinion the whole while-loop could be done better but at that moment i chose it because a different approach to loops through didn t work can t really remember what exactly it was anymore
+
+curiosity,solution,for-loop,appropriate,range,day
+i searched a lot and discovered nice approaches of others that do solve my problem but out of curiosity i would love to know if there is solution to my problem that keeps the while-loop despite a for-loop would be more appropriate in the first place as i know the range but the day will come when i will need a while loops
+
+time,do-while,better,style,normal
+is there any time that a do-while loops would be a better style of coding than a normal while-loop
+

@@ -1,0 +1,16 @@
+small, different, collections, ---------------------------------------------------
+
+faster,slower,small,collections
+i tested orika and it was a lot faster but was slower than dozer with small collections
+
+jmapper,great,reflection,different,slower
+i know that orika and jmapper are great libraries from google and they use reflection in a different way than for example dozer which is much slower they se reflection to generete code somehow
+
+faster,close,manual
+orika is way faster than dozer and quite close to manual mapping
+
+others---------------------------------------------------
+
+application,use,better,mapping,reflection
+performance will depends on your application use cases basically orika perform better than dozer or other mapping reflection based frameworks because it use bytecode generation behind the scenes
+

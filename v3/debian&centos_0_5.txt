@@ -1,0 +1,17 @@
+others---------------------------------------------------
+
+note,versions,older,opensuse,newer
+note that centos software versions are older than debian s but versions of opensuse software are newer than debian s versions
+
+ubuntu,lightweight,base
+debian ubuntu and centos these are less of the lightweight base images each coming in around 50m give or take
+
+familiar
+he says he uses debian and is less familiar with centos and so i am posting here
+
+redmine,server,ror,environment,performance,better
+we recently have migrated redmine from a server which was running under centos 5.5 with the same ror environment the same load the performance was a way better than on debian 7
+
+libraries
+i am more acquainted with debian than centos and i know the libraries i need are
+

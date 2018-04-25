@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+faster,solution,performance,additional,parallelization
+however for the other question making svm run faster in python this solution is not likely to enhance performance either as it involves additional cross-validation and does not support parallelization
+

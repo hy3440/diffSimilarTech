@@ -1,0 +1,34 @@
+sort, error, use, ---------------------------------------------------
+
+supply,better,error
+if you didn t implement comparable and didn t supply a comparator it is much better to error out than to just silently sort your list in semi-random order
+
+class,better,use
+a comparator class is better since use of comparable would mean using
+
+standard,sort,rows,better
+that said using a standard sort with either comparable rows or a comparator is much better than mixing up the sort logic and the comparison logic
+
+others---------------------------------------------------
+
+solution,cleaner,dto,needs
+this solution is cleaner than implementing comparable by your dto because you can create and use many comparator acording to your needs
+
+logic,flexibility,order
+using comparator instead of putting all the logic directly in the comparable gives you more flexibility in the order that things are compared in
+
+appropriate,latter,natural
+your case sounds like one where creating a comparator would be more appropriate than implementing comparable the latter is specifically for modelling a natural order of instances of the class
+
+conceptual,sense,comparison,operator,logic,greater,lesser
+in conceptual sense a comparator is the comparison operator the logic used to determine whether a comparable is greater lesser than another comparable
+
+
+comparator does everything that comparable does plus more
+
+string,ã³,equal
+very comparable as a string comparator that accepts o and o and ã³ to be equal
+
+keyfn,return,value,requirements,easier
+using just the keyfn return a comparable value that matches your requirements is much easier than implementing comparator
+

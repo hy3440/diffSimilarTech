@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+bundles,perlomni.vim,ftplugin,research,better
+also i tried installing pathogen and that worked for some bundles but would not work for perlomni.vim because it was an ftplugin and pathogen was not appending the bundles correctly and after research i saw most people saying vundle was better than pathogen
+

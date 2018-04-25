@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+site,cms,documentation,mature,newer
+however if i d built a new site with a cms on java i d probably go with magnolia cms because the documentation and community is more mature despite that it s newer than opencms
+

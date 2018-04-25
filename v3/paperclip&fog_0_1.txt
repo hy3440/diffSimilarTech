@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+asset_sync,gem,aws-s3,trouble,s3
+i have found though that since i started using the asset_sync gem which uses fog instead of aws-s3 gem i don t have any more trouble with paperclip and s3
+

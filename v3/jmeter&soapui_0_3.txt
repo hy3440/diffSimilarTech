@@ -1,0 +1,11 @@
+others---------------------------------------------------
+
+reliable,loadui
+i have found jmeter to be more reliable than soapui or loadui
+
+better,data,csv
+actually it is much better than soapui because with jmeter you can easily read the data from csv and parameterize it
+
+personal,experience,reliable,performance,testing,ws
+speaking from personal experience i have found jmeter to be more reliable for performance testing ws than soapui
+

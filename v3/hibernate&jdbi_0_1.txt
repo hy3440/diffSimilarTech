@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+useful,pieces,database,access,simpler,full,orms
+other useful pieces would be jdbi for database access much simpler than hibernate or other full orms async-httpclient for doing calls to other web services
+

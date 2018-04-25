@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+better,solution,part,string,method,file
+i wanted to ask if there is a better solution than using stringbuilder to cut some part of a string which is parsed from a method through bufferedwriter to a file
+

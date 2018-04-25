@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+straightforward,solution
+is there a more straightforward solution with scalaz maybe with an existing combinators
+

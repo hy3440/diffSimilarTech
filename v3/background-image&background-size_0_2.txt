@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+ulkit,larger
+however for some reason ulkit is making a background-size larger than my background-image
+
+chrome,cover,xpos
+in chrome when you use background-size cover if the xpos of background-image is no less than 50 you will meet that problem
+

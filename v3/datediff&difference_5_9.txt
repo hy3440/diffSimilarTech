@@ -1,0 +1,33 @@
+greater, period, dates, ---------------------------------------------------
+
+narrow,period,days
+generally you can use datediff to specify more narrow period if you would like this difference to be less than 10 days you could use
+
+dates,greater,days
+how to calculate datediff between two dates if difference is greater than 35 days
+
+end, difficult, minutes, ---------------------------------------------------
+
+end,time,hour,actual,minutes
+for example if the start time was 8 55 and the end time 9 05 datediff hour ... would return 1 although the actual difference is much less just 10 minutes
+
+difficult,dateparts,minutes,seconds
+datediff becomes more difficult to use as you have more dateparts in your difference in your case looks like minutes and seconds
+
+others---------------------------------------------------
+
+diffseconds,overflow,larger,int32.maxvalue,error,function
+note that diffseconds can cause an overflow when the difference becomes larger than int32.maxvalue error the datediff function resulted in an overflow
+
+statement,flag,new,login,greater,threshold
+you can then add datediff and a case statement to flag a new login where the difference is greater than your threshold
+
+datepart,better,month
+for me testing with a data set of 2508 records with dates evenly spread through a single year and joining the table to itself datepart performed significantly better than datediff the difference between datepart and month was negligable though datepart was typically 1ms faster
+
+column,date,lines
+you can use datediff between the column date and your current date and retrieve only the lines where the difference is less than 7 like
+
+method,b,dates,output,time,day
+i ve using the datediff method to get the difference b w two dates obtained using the date yyyy mm dd hh mm ss function but getting the output 0 every time even when the difference is more than 1 day
+

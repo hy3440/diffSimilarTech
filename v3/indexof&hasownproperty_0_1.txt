@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+object,faster
+however i ve seen that object s hasownproperty is much faster than indexof
+

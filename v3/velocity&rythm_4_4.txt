@@ -1,0 +1,16 @@
+high, pure, page, ---------------------------------------------------
+
+benchmark,faster,normal,page
+the benchmark shows rythm is 2 to 3 times faster than velocity on a normal page
+
+high,performance,faster,pure,template
+rythm is a high performance 2 to 3 times faster than velocity pure java template which use razor like syntax
+
+strong,template,performance,faster
+rythm is a strong typed java template engine using razor like syntax with high performance 2 to 3 times faster than velocity and fm
+
+others---------------------------------------------------
+
+look,template,engine,faster,freemarker,easier
+probably you can take a look at rythm template engine which is much faster than freemarker and velocity also much easier to use
+

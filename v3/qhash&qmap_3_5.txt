@@ -1,0 +1,19 @@
+lookups, values, wirelessapdata, ---------------------------------------------------
+
+faster,values
+qhash is faster but qmap values are sorted by key if you iterate through them
+
+faster,lookups
+qhash provides faster lookups than qmap
+
+faster,wirelessapdata
+also i have changed the qmap to qhash to make it faster and wirelessapdata is just a struct
+
+others---------------------------------------------------
+
+dimension,use,efficient
+also with this method you could use different container for different dimensions like if you need one dimension to be sorted use qmap which is sorted by key for that and qhash which is more efficient for the dimension which doesn t need sorting
+
+reasonable,neox
+using qmap instead of qhash seems more reasonable as neox recommended on his comment
+

@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+integration,validate,cleaner
+however lately i ve been using tooltipster instead because its integration with jquery validate is somewhat cleaner
+

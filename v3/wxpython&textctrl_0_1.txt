@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+simple,project,small,road
+i have been working on a simple textctrl project to get more acquainted with wxpython and i have hit a small road block
+

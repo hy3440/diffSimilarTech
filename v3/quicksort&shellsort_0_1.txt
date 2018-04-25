@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+extra,memory,slower
+if you use shellsort no extra memory is needed at all though shellsort will be much slower than quicksort
+

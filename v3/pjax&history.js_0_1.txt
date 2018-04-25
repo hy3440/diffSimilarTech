@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+better,need
+history.js does everything pjax does and better so no need to mix the two
+

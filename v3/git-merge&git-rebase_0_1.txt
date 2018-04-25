@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+tidier,history,complex,graph
+git-rebase creates a tidier history while git-merge back and forth may create a complex commit graph in the end
+

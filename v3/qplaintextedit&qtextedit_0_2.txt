@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+qscrollbars,maximum,smaller
+i have tried connecting the qscrollbars but the maximum of the qplaintextedit is smaller than the qtextedit s
+
+text,widget,better
+if you want to display your file as plain text the widget qplaintextedit is better then qtextedit
+

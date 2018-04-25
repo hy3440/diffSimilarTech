@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+qpushbutton,qtableview,names,higher
+i m trying to force the qlabel qpushbutton and qtableview marked by trailing underscores in their names be two times higher than qtextbrowser having below
+

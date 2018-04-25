@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+little,easier,linux,likely
+wxhaskell is probably a little easier to build if you are not on linux gtk2hs is likely easier if you are linux hosted but both are pretty complex to build to be honest as there are a significant number of dependencies in both cases
+
+management,issues,possible,area,better,reference,counting
+in practice i ve never had resource management issues with wxhaskell although i agree that it s possible and is an area handled better by gtk2hs which uses reference counting in the underlying library
+

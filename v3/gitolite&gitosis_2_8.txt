@@ -1,0 +1,28 @@
+best, better, ---------------------------------------------------
+
+best,better
+for this the best option is gitolite better than gitosis
+
+better
+i know gitolite better than gitosis
+
+others---------------------------------------------------
+
+complete,recent,blog
+that being said i find gitolite much more complete than gitosis like all those recent blog posts illustrate
+
+longer,active,development,answer,stores,public,keys,.ssh,authorized_keys
+gitosis which is no longer in active development and you should be using gitolite but this answer applies to both of them stores each user s public keys in in your case gitosis .ssh authorized_keys
+
+advanced,easy,workstation
+gitolite is far more advanced than gitosis and is quite easy to install directly from your workstation based on ssh communication with your git repository server
+
+easier,up-to-date,programs,work
+either way gitolite is easier to maintain and more up-to-date than gitosis see how do programs like gitolite work
+
+dozen,author,emails
+gitolite is maintained has a dozen features more than gitosis and the author actually responds to emails
+
+obsolete,years,richer,works
+gitosis which is obsolete for a few years now gitolite is much richer works with bare repos repos without a working tree
+

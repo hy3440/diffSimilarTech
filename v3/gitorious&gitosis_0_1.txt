@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+stuff,git,gitolite,details
+if you have some product-specific stuff git could be installed with gitosis gitolite gitorious provide more details as to how you ve done it
+

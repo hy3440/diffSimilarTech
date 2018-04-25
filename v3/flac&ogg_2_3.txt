@@ -1,0 +1,13 @@
+comment, better, wav, ---------------------------------------------------
+
+better,wav
+i also know that it can deal with flac better than wav and ogg
+
+comment,better,wav
+regearding your comment i also know that it can deal with flac better than wav and ogg that is not really the case
+
+others---------------------------------------------------
+
+computational,demands,decoding,dsp,excited
+i suspect the computational demands of flac decoding are probably considerably less than ogg and if dsp gets you excited taking the time to figure all this stuff out is 100 worth it even if the flash route possibly leads to disappointment
+

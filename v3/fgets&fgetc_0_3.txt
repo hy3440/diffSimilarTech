@@ -1,0 +1,11 @@
+others---------------------------------------------------
+
+stream,answer,realtime,access
+i used fleshgrinder s filter class to replace r with n in the stream see accepted answer and replaced fgets with fgetc to get more realtime access to contents of stdout
+
+function,single,char,simpler
+fgetc is a function to read a single char simpler than using fgets
+
+multiple,calls,faster,overhead,latter
+if not multiple fgets calls will still be faster than multiple fgetc calls because the overhead of the latter will be greater
+

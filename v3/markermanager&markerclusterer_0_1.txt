@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+involved,setup,customization
+the markermanager has a more involved setup than the markerclusterer but it does allow for more customization of what and where it displays
+

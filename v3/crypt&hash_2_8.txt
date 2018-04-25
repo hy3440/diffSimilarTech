@@ -1,0 +1,28 @@
+recoverable, addition, unrecoverable, ---------------------------------------------------
+
+recoverable,unrecoverable,md5,better
+my sense is that encode and decode are probably good solutions when you want the data to be recoverable but that unrecoverable hash using crypt md5 is a better approach for stored passwords
+
+addition,password,better
+in addition using crypt to hash password is better
+
+others---------------------------------------------------
+
+newer,alogrithms
+hash is newer and seems to support more hashing alogrithms than crypt
+
+nothing,salt,earlier
+that accepts either nothing a salt or a hash that crypt made earlier which has the salt to make the hash embedded in it
+
+second,function,variants
+the second hashing function is hash which supports many more algorithms and variants than crypt but does not support some algorithms that crypt does
+
+expensive,md5
+crypt with hash is simply more expensive than md5
+
+llvm,gcc,fuction,junk,proven,breakable,worse
+mac os x llvm gcc based crypt fuction is borked junk hardwired to only use des a proven breakable hash worse than md5
+
+salt,password,secure,output,hackers,passwords
+so when i see that the salt is stored in the hash password and that you use that hash password as salt i think crypt + salt is not more secure against a brute force on output hackers who managed to steal hash passwords
+

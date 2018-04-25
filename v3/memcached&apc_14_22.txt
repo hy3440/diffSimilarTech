@@ -1,0 +1,74 @@
+faster, single, slower, ---------------------------------------------------
+
+faster,single,server
+apc is faster on a single server - but memcached is distributed
+
+functionality,environments,single,servers
+memcached has more functionality but is intended for distributed environments while apc works on single servers only
+
+slower,single,process
+memcached around 4-5 times slower than apc but run as a single process that can be touched everywhere in my environment
+
+access,faster,local,network
+apc access is a bit faster something like 5 times faster than memcached if i remember correctly as it s only local -- no network involved
+
+slower,faster,redis
+it s slower than apc but it s faster than memcached redis etc
+
+experience,faster
+my experience say that apc is nearly 7-8 times faster than memcached
+
+quick,googling,faster
+a quick googling says that apc is 5 times faster than memcached
+
+faster,keys,single
+as you know apc is much more faster than memcached if we re fetching keys from a single server
+
+faster
+in my case apc is 59 times faster than memcached
+
+in-memory,slower
+memcached is in-memory too and a bit slower than apc
+
+better, setup, results, ---------------------------------------------------
+
+server,setup,better
+on a single server setup i am assuming apc would be better then memcached for this
+
+better,results,nature
+if you site is located on single box you will get much better results with apc which unlike memcached is not distributed by nature
+
+caching, database, memory, ---------------------------------------------------
+
+opcode,caching,memory,database,altough
+apc is more an opcode caching system than a key value memory database like memcached altough it can be greatly used for both purposes
+
+caching,database,performance,regard
+memcached is more for caching database queries and improving performance in that regard while apc is more for improving performance of php code
+
+others---------------------------------------------------
+
+functionality
+apc gives you some more functionality than memcached
+
+feature,needs
+apc have less feature than memcached and is easly to use and optimize but this depends on your needs
+
+better,use,apache,server,faster,need,tcp,ip,call
+better use apc on apache server it will be much faster than memcached because you don t need to make a tcp ip call to connect to memcached
+
+lines,object,cache,xcache,stores
+memcached is more along the lines of a distributed object cache vs something like apc or xcache which stores php bytecode in memory so you avoid having to parse it each time
+
+big,caveat,memory,available,though.,default,adavantage
+the big caveat here is that apc generally has less memory available for storage though. default being 32mb memcached s big adavantage is that while still fast it s distributed so if you have multiple servers running they could share this data
+
+faster,zend_cache,backend,extension,development
+memcached is faster than apc as zend_cache backend but you still need apc extension installed even in development mode to get a great speedup of your code
+
+mention,suitable,direct,replacement,apc_fetch,calls,faster,purpose
+please don t mention memcached i am already using it but it is not suitable as direct replacement of apc because i am doing many apc_fetch calls because apc is much faster than memcached for this purpose
+
+overhead,tcp,function,call,xcache,objects
+memcached has more overhead since you have to use a tcp connection to access it versus just a function call for apc xcache shared objects
+

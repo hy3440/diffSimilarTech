@@ -1,0 +1,285 @@
+width, height, mode, ---------------------------------------------------
+
+width,viewport,mode,switch
+if you resize your browser window to still have a viewport with a with equal or less than 1024px but have an height greater than your width the viewport is no longer considered to be in landscape mode but switch to portrait mode
+
+height,smaller,value
+because in landscape your height is smaller than in portrait you need to have a value smaller than 1.0
+
+image,ideal,larger,width
+such that a landscape image would have an ideal height of 300 or slightly larger with a width 400 and a portrait image would have an ideal width of 400 or slightly larger with a height 300
+
+width,lower,min-width,container
+if you set the width to lower than the portrait width and set the min-width to 100 then you sill get width 100 but this time a version that actually works and now the iframe takes the actual container width and not the landscape width
+
+smaller,height,opposite,square
+if you think about a moment this is exactly what you want - to know if width is smaller than height portrait the opposite landscape or if they are the same square
+
+larger,height,largest,dimension,width
+the third url works fine when the image width is larger than the height landscape but when the height is the largest dimension portrait it resizes the height correctly but the width dimension does not get padded to fill the 600px width but instead becomes whatever size is calculated to maintain the aspect ratio
+
+bigger,width
+or continuously check the stage width height in onenterframe update and if height is bigger than width portrait else landscape
+
+width,screen,mode
+if the height is longer than the width the screen is in portrait mode otherwise it is landscape
+
+screen,dimension,i.e,width
+take screenshot of rotated screen and while uploading turn the dimension to portrait if their dimension is landscape i.e width is greater than height
+
+width,wider,mode
+the bug occurs if the input has a width that makes it wider than the portrait width when in landscape mode
+
+images,height,greater,width
+so in the case if i upload 2 images i want to check if the images are portrait height is greater the width or landscape and need to show the images accordingly
+
+issue,height,mode,lower
+you have this issue because height in landscape mode is lower then in portrait
+
+width,screen,bigger
+you are using the screen size to generate your placeholder image and the width of the screen in landscape is bigger than portrait
+
+topbar,height,bigger,iphone
+topbar portrait height is bigger than topbar landscape height everywhere except iphone 6 plus
+
+mode,height,width,phone
+and i want to show the video in the landscape mode if the height is greater then the width of the phone otherwise to show the video in the portrait mode
+
+phone,width,images
+the following works perfectly with my phone in portrait the width fits but when i flip to landscape the width still fits perfectly but the images are longer than the height
+
+greater,height
+it s a bold meaning that its width is greater than its height which makes its portrait view a landscape
+
+screen,width,smaller
+but the screen always gets rotated to landscape instead of being set to portrait when the width is smaller than the height
+
+images,orientation,larger,size
+some images are portrait orientation some are landscape all are larger than the desired render size
+
+height,screen,mode
+its because the height of the screen in portrait mode is more when compared to height of the screen in landscape mode
+
+frame,height,mode,suitable
+it will adapt the video frame height to landscape mode and it will play the video in the landscape mode whether or not a portrait mode is more suitable
+
+height,size,format,page
+i have report with width size is bigger than height size like landscape but set to portrait in format - page format ireport
+
+image,width,greater,height,interchange
+it works as as desired for landscape image width greater than height however for portrait it automatically rotates image and interchange width and height without any flag to get if any rotation has been done
+
+window,width,orientation
+if window height is bigger then window width the we have a portrait or in any other case we have a landscape orientation
+
+uiimageview,size,greater,height,width,mode
+this gave the uiimageview a portrait size greater height than width even though the app is locked in landscape mode
+
+narrower,height,view,example
+also your css for .character has the width 170 narrower than the height 245 which would be a portrait view but your example shows a landscape view
+
+wether,screen,width,larger,height
+however if you want to redesign your layout or make adjustments based on wether the screen is in landscape width is larger than height or portrait height is larger than width mode you can definitely use css media queries
+
+width,greater,mode,label,height
+the program s label changes dynamically so when the width is greater landscape mode it s label has a different text then when the height is greater portrait mode
+
+width,650px
+then you can write separate css for width less than 650px portrait more than 650 landscape
+
+higher,width
+if the height is higher than the width then you can say it s portrait or else landscape
+
+lesser, space, fitting, ---------------------------------------------------
+
+complete,layout,space,fitting,lesser
+i guess you are able to see the complete layout in portrait just because portrait layout is having more space and your complete layout is fitting well but landscape is having lesser space
+
+lesser,space,able,top
+as landscape has lesser space than portrait you are able to view only top scrollview so only that portion would be scrollable
+
+change, orientation, keyobard, ---------------------------------------------------
+
+change,orientation
+i have this doubt i have a menu in which i run a javascript code or another depending on whether its width is greater or less than its height works me well the first time the screen resolution is detected but if there is a change of resolution or a change of orientation does not detect it and despite for example of having changed to portrait orientation still executing the landscape orientation code
+
+interesting,view,keyobard,change,orientation
+it is quite interesting since you are in portrait view but when keyobard is shown width of the available screen is higher than height and that change orientation to landscape
+
+demo,change,css,orientation
+this demo illustrate the change from landscape to portrait using css orientation when the window height is higher than its width
+
+ones, photos, taller, ---------------------------------------------------
+
+bottom,photos,narrower,ones,top
+as you can see the bottom two photos landscape so have been rotated are narrower than the portrait ones at the top
+
+css,nothing,images,taller,ones
+i am trying to make all a row of 4 images all have the same height size i already tried to play around with the width and height using css but nothing seems to work the portrait images always end up taller than the landscape ones here s the code
+
+order, math, parameter, ---------------------------------------------------
+
+bigger,order,math,parameter
+i would recommend to check which of width or height is bigger in order to know if you are in portrait or in landscape and adapt your math to this parameter
+
+order,cells,webview,higher
+you may try to listen to uideviceorientationdidchangenotification within your subclass cell to rotate the webview and within your view controller with the table view and run a -reloaddata on your table view in order to properly resize the cells assuming the landscape webview is way higher than the portrait webview
+
+others---------------------------------------------------
+
+doubt,mode,width,itemtemplate,listbox,able,data
+now my doubt is when i rotate it to portrait mode from landscape mode since the width of the textblocks present inside the itemtemplate of listbox is already defined when i rotate the it to portrait i am not able to see all the data present it cuts off since the width of the portrait mode is less when compared to landscape mode
+
+spacing,decent,mode,graphs,bigger,space,possible
+in portrait the spacing is decent but in landscape mode i feel like the graphs should be bigger and take up more space than in portrait mode which is simply not possible with the tab bar and navigation bar
+
+layout,content.when,informations
+the differences between layout is the content.when i am in landscape i display more informations than i am in portrait
+
+uiview,graphics.in,mode,size,viewgraph,larger
+i had an outlet of a viewgraph which was a subclass of uiview in which i drew some graphics.in landscape mode the size of the viewgraph is larger than in portrait mode
+
+action,icons,mode,toolbar,higher
+the action icons are centered in portrait mode whereas the toolbar in landscape mode is higher and the icons are not centered
+
+height,meaning,images,horizontal,space,ones
+i want all of the images to fit inside the width of the text area which will change dynamically with the window size and i want them all to be the same height meaning of course that landscape images take up more horizontal space than portrait ones etc
+
+tableview,view,vertical,room
+or the tableview is covering it up because the landscape view has less vertical room than the portrait view
+
+tablets,graphics,smaller,bigger
+everything works ok on almost all phones and tablets graphics on landscape are smaller and when i back to portrait graphics are again bigger
+
+height,page,value,dictionary
+one page is a page of which the width is smaller than the height sounds like it s a page in portrait but as there s a rotate value of 90 added to the page dictionary it is shown in landscape
+
+mode,phone,smaller,screen_is_narrow,tablet
+in portrait mode your phone screens is smaller than that so screen_is_narrow is true whereas in landscape mode and on tablet it is wider and thus screen_is_narrow becomes false
+
+content
+i would have hoped to see that the landscape can fit more content than the portrait but this is not the case see below that is all it allows me to add
+
+mode,rows
+portrait mode can display more rows than in landscape mode
+
+buttons,addition,mode
+in landscape it has more buttons in addition to what is there in portrait mode
+
+orientation,devices,better,phones
+currently i m using only the portrait orientation for all devices but the portrait orientation looks better on phones meanwhile landscape orientation looks better on tablets
+
+phone,configuration,options,menu
+changing your phone s configuration from portrait to landscape would mean more options menu items could be displayed on the action bar thus items present in the overflow menu could now be moved to the action bar itself
+
+normal,mode
+there may be a better way to do this but a quick and dirty method would be to inspect the display s width and height with display.getsize point point - if the width is greater than the height then normal mode is landscape otherwise portrait
+
+device,mode,larger,ytplayerview
+when i change device mode to landscape i want larger ytplayerview then in portrait mode
+
+queries,ipad,forces,smaller,layout
+the only problem with that is that it over-rides the 980px to 1024px media queries designed for ipad landscape and forces ipad landscape to display the smaller layout i designed for ipad portrait the 768px to 979px layout
+
+table,cells,width,view,higher,wide
+the table cells in portrait took up the width of the view and in landscape were made somewhat higher but less wide
+
+aspect,ratio,greater
+portrait has an aspect ratio greater than 1 1 and landscape is less
+
+calculation,fine,mode,switch,distance,button,bigger
+my problem with this is that the calculation works fine in the portrait mode but as soon as i switch to landscape mode the distance between bottom and button is bigger than in portrait mode
+
+right,uiview,mode,greater,distance,bottom
+the amount of spacing to the right of the uiview when in portrait mode is greater than i want for landscape mode and the distance from the bottom is less than i want for landscape mode
+
+content,area,iframe,smaller
+obviously i want in portrait view the content area of this iframe to be smaller than in landscape
+
+rest,barcode,mode,time,orient,screen,faster
+and the rest depends on you you can scan barcode in portrait mode but it take time longer or you have to change orient of screen to landscape to get result faster
+
+mode,smaller,side,height,sets,larger
+portrait mode sets the smaller side as the width and larger side as height for example 9 16 landscape the sets the larger side as the width and smaller side as height 16 9
+
+basic,folders,orientation,folder,layout-land,drawable-land,layout,xml
+by default new android project have basic folders for portrait orientation .create a folder layout-land and drawable-land for landscape screen.put your layout xml file in layout-land and required image for that screen in drawable-land
+
+taller,wider
+portrait is taller landscape is wider
+
+imageview,smaller
+your imageview in landscape is smaller than portrait
+
+element,screen,longer,visible
+i encounter the same issue and notice the crash happens if the original shared element is no longer visible on the previous screen when you go back probably it is the last element on screen in portrait but once switched to landscape it s no longer visible and thus the transition has nowhere to put back the shared element
+
+phone,mode,lines,keyboard.however,line
+when phone is in portrait mode entering more than 10 lines does not hide the button behind the keyboard.however when phone is in landscape mode entering around 3-4 line hides the button behind the keyboard.can anyone help me explain why this is happneing
+
+android,devices,wider,ipad,collisions,device
+i m trying to shy away from using max-width because some android devices in landscape are wider than an ipad in portrait and i was getting collisions where a device would incorrectly identify as an ipad based on a set width
+
+pages,ways,rotation,degrees,page
+landscape pages can be created in 2 ways set a width larger than the height or set the page rotation to 90 or 270 degrees for a portrait page
+
+tablet,ipad,width,mobile,phone,height
+this is a conflict on tablet ipad portrait width 768 and mobile phone landscape width 768 but height is smaller around 400 only in which cutting the height of images co z i need to keep the images width 100
+
+devices,screen,size,greater,limit
+because in some devices it may possible that portrait screen size is less than 1024 and landscape have greater than this limit
+
+thing,activity,rectangle,smaller,dimensions,camera
+but the only thing i get is that the activity is still in landscape but the rectangle now is smaller with the portrait dimensions and the camera becomes weird because the image is rotated 90 degrees and moves down when i move the phone left and up when moving the phone right
+
+query,device,mode
+if uiscreen mainscreen knows that i really want the height to be greater than the width whether or not i actually do how can i either query the actual dimensions or query whether the device is in portrait mode or landscape
+
+orientation,lower,right,point,gl
+without more detail it s hard to say why your approach doesn t work but my guess is that you are seeing the sprite positioning you describe as a result of the fact that if you don t change orientation the lower left in portrait is the lower right in landscape when rotated left it s the same point in gl space 0 0
+
+phone,bigger
+i noticed that when i flip my phone from portrait to landscape everything gets bigger
+
+1em,p,bigger
+i have to set it to 4em to make the h2 approximately twice the size of the 1em p in portrait but in landscape it is much bigger
+
+iphone,compact,mode,status,bar,height
+on an iphone compact in landscape mode the status bar is hidden and the navigation bar height is less than in portrait
+
+4ã,page,height,width,prints,mode
+in crystal report if i set a user defined size as 4ã 6 it sets the page landscape as height is less than width due to this printer prints page on landscape mode i want it in portrait
+
+collection,view
+for example when rotating from portrait to landscape the collection view bounds value still has its height greater than the width
+
+issue,email
+issue you re experiencing with a video working in landscape but not portrait sounds more like an issue with the email client than your code
+
+wider,taller,viceversa,image
+as long as landscape means wider than taller and portrait viceversa it means to read the image into memory and check width and height
+
+height,picture,alert,users,pictures
+i would advice to check if the width is bigger than the height of the picture taken landscape picture and if that is the case show an alert to the users to explain that just portrait pictures are supported
+
+page,orientation,gesture
+and then while loading each page i am checking orientation if it is portrait then adding two more gesture up and down gesture if landscape then removing up and down gesture
+
+printer,rotation,report,viewer,width,greater
+the printer sees and feeds them as portrait no rotation but the report viewer prints them landscape because the width is greater than the height
+
+orientation,width,window,css,account,point
+it s because you re using and orientation portrait so once the width of the window has a higher value than the height none of your css will be taken into account because it s considered landscape orientation at that point
+
+large,area,cell,wider,shorter
+the difference between a min and max dimension can be very large as the given area covered by a landscape cell is much wider and shorter than a portrait cell
+
+happends,space
+or what happends if we swap from portrait to landscape we have much more space yet it won t be used since we hardcoded 300.0
+
+photo,area,photos,importance
+this results in each landscape photo occupying less than half the area as the portrait photos and basically treating them with less importance
+
+android,fine,mode,switch,diamond
+when i draw a 3d cube in opengl es for android it seems to look fine as long as i m in portrait mode but when i switch to landscape it looks more like a diamond
+

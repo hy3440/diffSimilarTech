@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+rows,columns,control,grid,width,height,column
+you can use gridbaglayout instead of gridlayout to divide the components in rows and columns just like tablelayout that gives you more control on grid width height margins padding column rows etc
+

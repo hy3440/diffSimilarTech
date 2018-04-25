@@ -1,0 +1,13 @@
+built-in, easier, ---------------------------------------------------
+
+easier
+i ve heard that configobj is easier to work with than configparser
+
+easier,built-in
+i have heard that configobj is easier to use than configparser even though it is not a built-in library
+
+others---------------------------------------------------
+
+slickest,method,flexible
+check out configobj its the slickest method i ve found so far and definitely more flexible than configparser
+

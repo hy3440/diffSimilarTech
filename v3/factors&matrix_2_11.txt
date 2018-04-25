@@ -1,0 +1,37 @@
+x, x.getrow, size, ---------------------------------------------------
+
+worse,x,x.getrow
+however that is much worse by a factors of 10000 than what i am currently doing which is for matrix x for putting and x.getrow idx .todense for taking
+
+worse,size
+however it still performs worse by initially a factors of 3 but as the matrix size increases asymptotically worse by a factors of exactly 2
+
+others---------------------------------------------------
+
+model,nonlinear,bs,smaller
+consider a model with lots of factors or nonlinear terms like bs ns or poly the model frame is much smaller compared with model matrix
+
+acp,sub,extract,composition,cluster
+after that you can use acp on sub matrix to extract factors and understand more the composition of each cluster
+
+triangle,input,lower,triangular
+finally note that by default ichol references the lower triangle of the input matrix and returns a lower triangular factors
+
+character,names,data,frames,confusing,behaviour
+perhaps in the same vein and i had a problem of this sort with some of my other data trying to convert character names in matrix and data frames into factors results in more confusing behaviour
+
+better,correlation
+which matrix will be better in defining the correlation between the factors
+
+factorization,decomposition,general,ways,approximate,simpler,loss,info
+matrix factorization sometimes referred to as matrix decomposition is a general term in ml there are many ways to approximate a matrix using simpler factors sometimes with loss of info
+
+vector,rows,object,slower,normal,distance
+i measured the time it takes to calculate the distance between a vector and the rows of a matrix when they are in the object and it work slower by a factors of 3 then the normal distance function
+
+multiplication,ten,old
+in the code below i use block multiplication to speed up your code for a 1024x1204 matrix by more than a factors of ten 7.1 s with old code and 0.6s with new using only a single thread without using sse avx
+
+advance,number,complicated,mistaken,two-dimensional
+eta to answer your question in more general terms let s say we had the number of subjects and levels set up in advance increasing the number of factors is more complicated unless i m mistaken because then it would no longer be a two-dimensional matrix
+

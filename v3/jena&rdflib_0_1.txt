@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+useful,real,conversion
+since you tagged this with python you might find rdflib more useful than jena but the real question here should be about how to do the conversion not the library request since library requests are off topic for stack overflow
+

@@ -1,0 +1,74 @@
+screens, larger, image, ---------------------------------------------------
+
+pixel,sizes,smaller,images
+images in these different folders should have different physical pixel sizes mdpi has smaller images than hdpi but the images pixel densities aren t used
+
+ldpi,image,screens,smaller
+a ldpi image on a hdpi screens would appear smaller than the same image on a mdpi or ldpi screens
+
+images,folder,appearance,smaller,ldpi
+when you put images into hdpi folder their appearance is smaller than from mdpi and ldpi
+
+dp,unit,device,larger
+example if using dp unit hdpi device will have 1.5 240 160 times larger than mdpi
+
+screens,taller
+proportionally the hdpi screens is slightly taller than the mdpi screens
+
+devices,fall,range,ldpi,popular
+now a days most of the devices at least fall under hdpi range mdpi ldpi are being less popular now
+
+image,folder,larger
+and you know your image at hdpi folder so its 1.5 larger than the mdpi
+
+pixels,50px,screens,larger
+if in java code the values would be in pixels so 50px on mdpi screens will look larger than on hdpi screens
+
+screens,smaller
+ldpi assets will look bad on high density screens but are exponentially smaller than mdpi which is exponentially smaller than hdpi etc
+
+screens,type,ldpi,horizontal,scroll
+in my android app i have a background image which is longer than the screens width for all the three types of screens.this implies that i have got 3 drawables each for different screens type mdpi ldpi hdpi and hence i have included a horizontal scroll bar in my app
+
+device,density,ldpi,tablet
+each device has a density like hdpi ldpi and mdpi tablet have even more
+
+normal,image,ldpi,smaller,120dpi,larger
+your normal sized image should be optimized for mdpi 160dpi while the ldpi image is 25 smaller 120dpi and the hdpi image is 50 larger 240dpi
+
+images,res,screens,bigger,xhdpi
+try placing youre images in res mdpi they will be streched to fit screens which are bigger hdpi xhdpi
+
+graphic, 72x72, 48x48, ---------------------------------------------------
+
+ldpi,48x48,72x72
+if the screens density is less than xhdpi i load smaller sampled sizes of the 96x96 image - as 36x36 for ldpi 48x48 for mdpi 72x72 for hdpi
+
+graphic,ldpi,size
+first of all if you anyhow provide a hdpi graphic adding an mdpi and ldpi graphic which both are less than the hdpi graphic in size there is approximately 3 4 6 scaling ratio will increase the size but far from triple it more close to double
+
+android, layout-sw320dp-land, layout-sw720dp-land, ---------------------------------------------------
+
+android,images,folder,tablet,bigger,ones,phone
+owing to the fact that the screens density on the tablet is smaller android therefore uses the images in the mdpi folder for the tablet and the slightly bigger ones in the hdpi folder for the phone
+
+layout-sw320dp-land,drawable,folder,layout-sw720dp-land,device,drawables,smaller
+layout-sw320dp-land will pick up drawable from hdpi folder whereas layout-sw720dp-land is mdpi device so it will pick up drawables from mdpi folder which will be smaller than hdpi
+
+others---------------------------------------------------
+
+values,folder
+as mdpi is less than hdpi so it will take the values from the folder which is least below it in you case it is values which is applicable to all
+
+computer,monitor,resources,larger
+for example mdpi is basically 72dpi as your computer monitor hdpi resources should be around 1.5 times larger than mdpi resources and so forth
+
+version,button,bigger,baseline
+ideally the hdpi version of your button should be 1.5 times bigger than the mdpi baseline version
+
+closest,match,closer
+the system will pick the closest match and mdpi is closer to hdpi than to xxhdpi
+
+screens,resolution
+so as i said - mdpi also doesn t means that your screens resolution is less than hdpi screens resolution
+

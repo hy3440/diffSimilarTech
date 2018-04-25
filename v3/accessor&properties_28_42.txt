@@ -1,0 +1,136 @@
+restrictive, modifier, indexer, ---------------------------------------------------
+
+restrictive,indexer
+accessor must be more restrictive than the properties or indexer
+
+accessibility,level,getter,setter,restrictive,entire
+if you want to specify extra accessibility level keyword you can only do it on one of the accessor getter setter and that level of the accessor must be more restrictive than the accessibility of the entire properties
+
+accessibility,modifier,restrictive,indexer
+i know of the error the accessibility modifier of the set accessor must be more restrictive than the properties or indexer
+
+restrictive
+accessor must be more restrictive than the properties .
+
+modifier,usercontrol1.controls.set,restrictive,indexer,usercontrol1.controls
+this too won t compile error the accessibility modifier of the usercontrol1.controls.set accessor must be more restrictive than the properties or indexer usercontrol1.controls
+
+modifier,myeventsource.listener.set,restrictive,indexer,myeventsource.listener
+error 26 the accessibility modifier of the myeventsource.listener.set accessor must be more restrictive than the properties or indexer myeventsource.listener
+
+restrictive,accessibility
+auto-properties can have different accessibilities for setter and getter by specifying a more restrictive accessibility for the accessor for which the accessibility differs from the properties s accessibility
+
+modifier,arp_tll.dataaccess.chromosomeaddedeventargs.newchromosome.set,restrictive,arp_tll.dataaccess.chromosomeaddedeventargs.newchromosome
+the accessibility modifier of the arp_tll.dataaccess.chromosomeaddedeventargs.newchromosome.set accessor must be more restrictive than the properties or indexer arp_tll.dataaccess.chromosomeaddedeventargs.newchromosome
+
+restrictive,indexer,main
+i am trying to fix it with this accessor must be more restrictive than the properties or indexer but in my case the main problem is get not set i try to change get into public but still get this error
+
+accessibility,level,restrictive
+the accessibility level on the accessor must be more restrictive than the accessibility level on the properties
+
+accessibility,modifier,restrictive
+the accessibility modifier of the accessor must be more restrictive than the properties connection1.connectionstring
+
+array,length,slower,internal
+note that i m caching the length value as the array s length properties is actually an accessor which is marginally slower than an internal variable
+
+errors,restrictive,modifiers
+the following code errors telling me that the accessor must be more restrictive than the properties and that i can t specify modifiers for bother accessor
+
+modifier,set,accessible
+you only need to specify a private access modifier for your set accessor when the properties is more accessible
+
+restrictions,individual,restrictive,accessibility,level
+any restrictions placed on an individual accessor must be more restrictive than the accessibility level of the properties itself not less
+
+modifier,abstractpolygon.polygon.length.set,restrictive,indexer,abstractpolygon.polygon.length
+the accessibility modifier of the abstractpolygon.polygon.length.set accessor must be more restrictive than the properties or indexer abstractpolygon.polygon.length
+
+modifier,framework.oracleprovider.db.set,restrictive,indexer,framework.oracleprovider.db
+error 11 the accessibility modifier of the framework.oracleprovider.db.set accessor must be more restrictive than the properties or indexer framework.oracleprovider.db
+
+accessibility,modifier,restrictive,indexer,internal
+error the accessibility modifier of the set accessor must be more restrictive than the properties or indexer and why is internal protected not more restrictive than internal
+
+methods, pair, aspect, ---------------------------------------------------
+
+pair,methods
+it means a declared properties is more than a pair of accessor methods getter setter
+
+aspect,pair,methods,static
+that suggests another aspect where a declared properties is more than a pair of accessor methods that is more static type checking although it is undesirable here
+
+faster, high, self, ---------------------------------------------------
+
+slower,functions,high
+will properties be any slower than the above accessor functions in a high performance application
+
+willeke,faster,self
+edit as willeke has pointed out accessing a properties directly is technically faster than doing so via an accessor via self
+
+threadsafeness,non-atomic,faster,atomic
+in addition to what s already been said about threadsafeness non-atomic properties are faster than atomic accessor
+
+better, needs, implementation, ---------------------------------------------------
+
+getter,data,better
+if it s only an accessor getter giving back some data than a properties fits better
+
+access,static,better,class
+even if you need access to the list via a static accessor you are better having a static properties on the same class which you re using to read the db
+
+simple,syntax,better
+for simple accessor like these properties syntax is better than methods
+
+special,needs,specific,implementation,better
+however if you have special needs regarding properties such as specific get accessor implementation needs then better define a function which gets the value as you need it
+
+others---------------------------------------------------
+
+nicer,syntax,setter,aka,set,methods
+properties just offer a nicer syntax for getter and setter aka accessor and indeed a properties just wraps set and get methods under the hood
+
+access,faster,version,temporary,array,message,new
+there s not much to recommend one over the other except that the direct ivar access is slightly faster the properties version creates a temporary array and sends an accessor message to make the new condition create its copy of that array
+
+opcode.call,static,poorer,performance
+will emitting opcode.call for the static properties s accessor have poorer performance than ldsfld bear in mind this is across tens of thousands of invocations since every method in the assembly is woven
+
+ivar,easier,memory
+if an ivar is going to be changed frequently declaring a properties and always using the accessor will make it easier to avoid memory management errors
+
+optional,lower,simpler
+you can use optional properties with the accessor defined lower to make that simpler
+
+situations,set,restricted,access
+in some situations the set accessor for a properties can have more restricted access than the get accessor
+
+thread,safe,verbose,smart
+if you need getter and setter to expose some instance variables or you want some automatic retain release memory management or thread safe accessor then properties are a less verbose way to automatically create these smart getter and setter
+
+nonatomic,use,locks,ivar,faster,call
+nonatomic properties don t use locks but direct ivar is faster because it skips the accessor call
+
+iphone,tutorials,easier,new,handy,appropriate,hand,time
+my guess is that iphone tutorials use properties to make it easier for new developers to jump through memory management even though it s handy to generate appropriate accessor with properties rather than implement them by hand every time
+
+easier
+properties just made it easier to write accessor
+
+nothing,syntactic,shorthand
+a properties is nothing more than syntactic shorthand for a get set accessor
+
+additional,operations,harder,compiler
+i would assume that properties where additional operations are performed in the accessor are harder for the compiler to optimize and that those that only modify a backing field are more likely to be optimized but would like some more concrete rules
+
+flexibility,key-value-observing,possible
+using the properties and the accessor allows for more flexibility for example key-value-observing is only possible using the accessor
+
+annotation,method,cleaner
+you can use the accessor annotation to specify a method to be used when serializing a properties which is a cleaner way of doing it
+
+data
+data is not an accessor for properties it s both more and less than that
+

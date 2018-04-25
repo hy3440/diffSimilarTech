@@ -1,0 +1,31 @@
+errors, fallacy, intial, ---------------------------------------------------
+
+intial,hypothesis,faster,logical,fallacy
+your intial hypothesis of toupper being faster than tolower has a logical fallacy
+
+null,hypothesis,faster,experiment,errors
+so you can t reject the null hypothesis that tolower is as faster as toupper and thus your experiment has got errors
+
+others---------------------------------------------------
+
+side,note,efficient
+as a side note using toupper is more efficient than using tolower so toupper would be the way to go
+
+string.isnullorempty,method,accurate
+you can use string.isnullorempty and toupper method is in general more accurate than tolower
+
+next,characters,character,lower
+we uppercase this with toupper then we add on the next 3 characters of the string starting at the 4th character which we force in to lower case with tolower
+
+c#,efficient,microsoft,argument,vs
+it is suggested in this so post that c# is more efficient with toupper because microsoft optimized it that way. but i ve also read this argument that converting tolower vs
+
+reliable
+so yes - toupper is more reliable than tolower
+
+comparisons,better
+and if you have to convert to the same case to make comparisons toupper is better than tolower
+
+better
+toupper is better to use than tolower but i forget why
+

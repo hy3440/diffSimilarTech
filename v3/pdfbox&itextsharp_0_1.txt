@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+march,worth,better,text,extraction,bespoke,strategy,tet,expensive
+edit 31 march 2014 for what it s worth i have found that pdfbox is much better at text extraction than itextsharp notwithstanding a bespoke strategy implementation and pdflib tet is slightly better than pdfbox but it s quite expensive
+

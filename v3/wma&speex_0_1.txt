@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+speech,better,mp3,audio
+speex is designed for speech and should perform better than wma mp3 or other audio codecs that are designed to handle music if you are just encoding speech which i assume since you are grabbing from the mic
+

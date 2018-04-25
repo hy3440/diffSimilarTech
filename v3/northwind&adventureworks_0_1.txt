@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+sql,server,better
+talk about sql server 2005 adventureworks is better than northwind
+

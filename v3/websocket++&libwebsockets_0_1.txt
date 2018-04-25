@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+demands,websockets,simple,#include
+fastcgi++ is everything i could hope for for the ajax demands but it doesn t have websockets and i chose websocket++ over libwebsockets since websocket++ is more or less a simple #include so i assumed that i could incorporate it into fastcgi++
+

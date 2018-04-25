@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+contents,manifest,file,jar,folder
+so the solution for you would be to have static contents contents of apk like its manifest file jar file dex file res folder etc ready in a folder create a copy as a temp folder modify resources contents and not names as per user needs then finally create zip of this temp folder and sign it to have the desired .apk file no need for java complier then
+

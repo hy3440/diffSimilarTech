@@ -1,0 +1,13 @@
+latter, files, docx, ---------------------------------------------------
+
+docx,files,easier
+i can help you for docx files rtf files are easier and doc files are quite the same as docx but less well organised
+
+latter,easier,format
+if the latter is what you want you could use rtf which is somewhat easier than the doc format
+
+others---------------------------------------------------
+
+emitters,output,microsoft,format,word,concise
+there s a post on the subject on the birt world blog here specifically relating to xls emitters although the tribix emitters mentioned should also enable output to rtf a microsoft format readable by word that is much more concise than doc
+

@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+faster,huge,training
+crfsuite is faster than crf++ and it can deal with a huge training data
+

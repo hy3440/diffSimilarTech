@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+developer,express
+i have used the .net s griddataview without any problems using the virtual mode while trying to show over 10000 rows but there are good products out there that are also very good in loading tons of data like developer express xtragrid and telerik s radgridview
+

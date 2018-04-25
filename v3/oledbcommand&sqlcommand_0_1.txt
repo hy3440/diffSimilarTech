@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+
+as shown in sample below for sqlcommand which is more or less same as oledbcommand
+

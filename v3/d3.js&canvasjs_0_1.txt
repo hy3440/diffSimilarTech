@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+charts,element,html5,svg
+canvasjs is more of creating charts using canvas element of html5 and d3.js uses svg
+

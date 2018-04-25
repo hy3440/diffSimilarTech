@@ -1,0 +1,22 @@
+lower, upper, ---------------------------------------------------
+
+upper,lower
+where extends is an upper bound super is a lower bound
+
+lower,upper
+super is a lower bound and extends is an upper bound
+
+others---------------------------------------------------
+
+class
+no java prevents a class from directly extends more than one super class
+
+class,better,raw
+also if all your classes extends class super it s better to write instead of raw class
+
+useful,common
+it s useful to know that extends bound is much more common than super
+
+length,item,duper,labels,multiple,content
+here the content for the length item is this is a super duper long snippet because we need to see how labels behave when they more than barely extends onto multiple lines. the content for the power cycle item is have you tried turning it off and back on again
+

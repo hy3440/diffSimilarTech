@@ -1,0 +1,17 @@
+others---------------------------------------------------
+
+dependency,managers,oy,maven,ant
+you get the same mechanism for other dependency managers like ivy oy gradle maven ivy ant gradle are more than just dependency managers but it s not the point here
+
+better
+ivy but gradle does it better
+
+time,maven,repositories
+if you are looking for a more flexible build than ant or maven but at the same time utilize maven or ivy repositories you should consider gradle
+
+today,full-fledged,dependency,implementation,longer,traces,compatibility
+today gradle comes with a full-fledged dependency management implementation that no longer builds upon ivy except for some traces that haven t been removed yet for backwards compatibility reasons
+
+simpler,nice,gritty,maven,stuff,scripts
+if you were to do that gradle would be simpler as it provides a nice abstraction on top of the nitty gritty maven ivy stuff once you are to write your scripts
+

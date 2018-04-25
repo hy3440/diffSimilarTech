@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+struct,sockaddr_storage,platforms,linux,longer,structure
+the platforms that use struct sockaddr inside struct ifreq also have an ipv6 friendly version struct lifreq that uses struct sockaddr_storage instead for example solaris other platforms such as linux and aix already use the longer structure
+
+exotic,platforms,zlinux,hpux
+it is compiled on windows and unix systems including somewhat more exotic platforms like aix zlinux solaris and hpux
+

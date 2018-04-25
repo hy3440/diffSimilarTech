@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+math,libraries,avx
+and simd math libraries for sse and avx however they seem to be more sse than avx2
+
+bit,instructions,faster,setting,slower
+currently compiling using the 128 bit sse instructions this is faster than all s but using the 256 bit avx2 setting was slower even with all s
+

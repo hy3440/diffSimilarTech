@@ -1,0 +1,140 @@
+point, diffrent, speed, ---------------------------------------------------
+
+google,better,performance,plan,project,diffrent
+after searched in google found that jackson has better performance than gson i plan to replace gson with jackson in my project but i got a diffrent result when run test code
+
+internet,point,better,parsing,performance,neighborhood,speed
+multiple posts on the internet point toward jackson as having better parsing performance than gson granting somewhere in the neighborhood of 20-30 speed improvement
+
+faster, slower, parser, ---------------------------------------------------
+
+metrics,slower
+i looked at gson metrics and it seems slower than jackson
+
+large,objects,faster,simple,json
+large objects google gson performs faster than jackson and simple json
+
+benchmarks,faster
+personally i prefer jackson as according to test benchmarks it s faster than gson
+
+faster,features,performances,lightweight
+actually genson is faster and has more features than gson and has performances close to jackson but its a lot more lightweight see
+
+google,better,json,parsing
+also i want to know if google gson is better than jackson for json parsing
+
+suitable,complex,json,tree,temporary,objects
+jackson is more suitable if you have a complex deep json tree because gson creates a lot of temporary objects which leads to stop the world gcs
+
+look,json,parser,android,faster,streaming
+take a look at the jackson json parser it s faster than the one in android and faster than gson and supports streaming
+
+gson.tojson,myobject,slower
+according to the performance results at for serialization with databind with strings gson.tojson myobject gson is over 10x slower than jackson
+
+correct,worst,slower
+code looks correct and even at its worst jackson should be no slower than gson
+
+general,consensus,faster
+i ve seen questions like this come up before and the general consensus is that jackson is much faster than gson
+
+conditions,faster,jsonp,json.simple
+under some conditions gson has proven to be a lot faster than jackson there also exists jsonp and json.simple
+
+object,google,faster,simple,json
+very small object google gson performs faster than jackson and simple json
+
+performance,similar,9x,slower,fastjson,faster
+deserialization performance is similar with gson over 9x slower than jackson and fastjson about 0.5 faster than jackson
+
+faster,smaller,documents,large
+gson is faster with smaller documents and jackson is faster with large documents
+
+faster,json
+further more gson really seems to be faster than jackson json
+
+faster,better,performance
+all in all jackson is considered to be faster but i ve also read that gson gives better performance when working with large objects
+
+low-level,streaming,parser,faster
+gson 1.6 now includes a low-level streaming api and a new parser which is actually faster than jackson
+
+little,faster,default,serialization
+in my case i found jackson little faster than gson i used default serialization because so far i don t have a need to customize serialization
+
+faster,api,complex
+jackson is faster but the api is 37x more complex than the gson api
+
+simpler,faster
+gson is simpler jackson is faster
+
+easy, benchmark, genson, ---------------------------------------------------
+
+type,safety,better
+jackson type safety is way better than gson
+
+lib,better,performance,packages
+also it seems jackson lib has better performance than other packages such as gson which i haven t tried personally
+
+binder,better,json,genson
+also please suggest me an open source json binder better than gson could be jackson json genson or if any other which could help me to develop fully fledged application in which application continuously hit to restful services and receives the response from the same
+
+easy,better,performance
+gson is very easy to use while jackson has better performance
+
+application,safer,better
+we plan to use gson extensively in the application as it seems safer and better than jackson
+
+takeaway,benchmark,better,org.json
+quick takeaway of the benchmark jackson performs 5 to 6 times better than org.json and more than twice better than gson
+
+better,performance,project
+i found jackson better than gson performance project activity better docs ...
+
+performance,better
+performance of jackson is better than gson
+
+parsing,better,results
+i m using gson for the parsing and i know jackson might give me better results
+
+performance,answer
+you can parse it like what you are using or you can do the same with more less code and more performance by using gson as described in this answer or you can use jackson as described here
+
+others---------------------------------------------------
+
+familiar,aspects,complete,support,apologies,feature
+since i am more familiar with jackson here are some aspects where i think jackson has more complete support than gson apologies if i miss a gson feature
+
+nexttoken,skipvalue,flexible
+although jackson s nexttoken will work like skipvalue gson seems more flexible to me
+
+hate,featureful,lead
+no hate against gson but in my experience jackson has been more featureful and the lead dev is very good about addressing bugs feature requests
+
+faster,average,time,2ms,16ms,mistake
+it seems gson is more faster than jackson the average time of gson is about 2ms while jackson is about 16ms does i make mistake when using jackson
+
+user,friendly,powerful
+going to go ahead and say that gson is a lot more user friendly albeit less powerful than jackson
+
+fast,binary,serializers,2-4x,faster,situations,10-20x
+gson is not particularly fast but the jackson library can almost compete with most binary serializers jackson is 2-4x faster than gson in most situations and 10-20x faster on utf-8 because it has special code for utf-8
+
+lib,good,server,side,slow,android,test
+try this lib that s a good one with the jackson we use only in the server side because jackson is more slow in the android than gson at least in our test
+
+small,memory,parsing,16k,bigger
+i recommend gson as this has small memory footpring just pull parsing is about 16k jackson is way bigger
+
+popular,performant,alternative
+gson is a popular choice for solving this problem however we find jackson to be more performant since it supports alternative ways of processing json streaming in-memory tree model and traditional json-pojo data binding
+
+usability,odds,easier,alternatives,org.json
+well sometimes performance and usability can be at odds but i ve found gson to be easier to use than alternatives like jackson org.json and others
+
+note,features,box,genson
+note also that gson comes with less features out of the box than genson or jackson
+
+larger,65k,methods
+keep in mind though that jackson is a larger library than gson so depending on your case you might prefer gson to avoid 65k methods limitation
+

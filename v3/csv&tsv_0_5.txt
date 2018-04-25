@@ -1,0 +1,17 @@
+others---------------------------------------------------
+
+careful,second,column,comma,better
+be careful with writing as csv because your second column now has comma in it so tsv may be better
+
+format
+i think that generally csv are supported more often than the tsv format
+
+tab,separated,values,built-in,module,data
+tsv tab separated values so the built-in csv module is more than enough to export your data
+
+easier,columns
+it seems you could use tsv instead of csv to produce easier to visualise columns separated by tab
+
+tab,comma
+also your csv looks more like a tsv tab separated instead of comma separated
+

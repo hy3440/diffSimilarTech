@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+hash,function,slower,fifth,number,operations,opposite
+at best it is a computationally expensive hash function like whirlpool that for example is five times slower than md5 and thus allows only a fifth of the number of hash operations in opposite to md5
+

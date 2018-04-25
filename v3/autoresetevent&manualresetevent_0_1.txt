@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+slim,version,wait,longer,appropriate,busy
+edit this is why autoresetevent does not have a slim version - basically it s because the wait times of autoresetevent are typically longer than manualresetevent so it isn t appropriate to use busy spinning
+

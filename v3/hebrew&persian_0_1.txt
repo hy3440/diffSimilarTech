@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+test,slower
+i am not sure it can satisfy you but hebrew test is 4 times slower than persian
+

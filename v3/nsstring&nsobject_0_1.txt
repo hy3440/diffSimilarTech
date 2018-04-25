@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+higher,level,form,const,effect
+nsstring has a higher level it also inherited form nsobject const on it should have no effect in fact not the same meaning about the no effect on immutable object
+

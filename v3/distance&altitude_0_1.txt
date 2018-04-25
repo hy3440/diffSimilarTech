@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+negative,verticalaccuracy,invalid,smaller,value,precise,vertical,discussion,measure
+a negative verticalaccuracy signifies that altitude is invalid whereas normally a smaller but positive value of verticalaccuracy actually means that altitude is more precise since it s the vertical distance that it may be off by - i ll leave the discussion as to why this measure is called verticalaccuracy and not verticalinaccuracy for some other time
+

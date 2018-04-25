@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+rhinomocks,older,expectation,style,act,approach
+this is another reason why i d prefer rhinomocks and moq over nmock nmock uses the older expectation style whereas rhinomocks and moq both support the arrange act assert approach where you specify you expected interactions as assertions at the end of the test like this
+

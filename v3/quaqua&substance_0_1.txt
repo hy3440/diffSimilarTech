@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+swing,sysnthetica,theme,memory
+comparative to other themes of swing sysnthetica substance etc. quaqua theme takes more memory
+

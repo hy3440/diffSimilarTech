@@ -1,0 +1,11 @@
+others---------------------------------------------------
+
+benchmark,cntk,implementation
+finally i don t expect to learn many meaningful lessons from this benchmark both cntk and theano are calling the same cudnn implementation the advantages of cntk are more around higher level things such as a comes with a high-level library b the user doesn t have to worry about the batch and sequence axes except for a few specialized operations c efficient recurrent networks d efficient i o e easy distributed training
+
+python2.7,dist-packages,sandbox,cuda,init,version,recent,supports
+usr local lib python2.7 dist-packages theano sandbox cuda init .py 600 userwarning your cudnn version is more recent than the one theano officially supports
+
+version,recent
+userwarning your cudnn version is more recent than the one theano
+

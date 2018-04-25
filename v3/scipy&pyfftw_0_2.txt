@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+fft,faster,fftw,bindings
+i found that numpy s 2d fft was significantly faster than scipy s but fftw was faster than both using the pyfftw bindings
+
+recent,better,job,closer,output
+edit more recent scipy does a better job of not always padding to powers of 2 length so is closer in output to the pyfftw case
+

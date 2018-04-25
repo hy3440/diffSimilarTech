@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+files,tree,column,qcheckbox
+i need show files from qfilesystemmodel in qtreeview and customize that tree to show one more column with qcheckbox so user can pick 0..n files from that qtreeview
+

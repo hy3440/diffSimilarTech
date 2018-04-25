@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+time,seconds,responsive
+also with refresh time of 5 seconds canvasjs rendering was allot more responsive then highcharts
+

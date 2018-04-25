@@ -1,0 +1,74 @@
+32-bit, x86_64, machines, ---------------------------------------------------
+
+types,programs,faster,32-bit,x64
+for other types of programs though 64bit can be faster than 32-bit at least on x86 x64
+
+processors,32-bit,operations,efficient,8-bit
+in fact for x86 64 processors performing 32-bit or 16-bit operations are less efficient than 64bit or 8-bit operations due to the operand prefix byte that has to be decoded
+
+amd,later,faster,32-bit,machines
+64bit amd and later intel machines run faster than 32-bit x86 machines because when amd designed the new instruction set they added more cpu registers and made sse math the default
+
+x86_64,platform,width,32-bit
+the x86_64 64bit platform is much more than twice the width of the x86 32-bit
+
+slower, 32bits, faster, ---------------------------------------------------
+
+faster,32bits,slower
+faster than on x86 32bits but slower than x64 64bit
+
+faster,slower
+64bit code is not actually faster it is usually a bit slower than x86 code
+
+better, performances, luck, ---------------------------------------------------
+
+specific,anycpu,performances,better
+however if you don t have specific reasons to use anycpu then you could still use x86 because in some cases the performances are better than 64bit code
+
+better,luck,version
+i had better luck with the x86 one than the 64bit version in win 7
+
+others---------------------------------------------------
+
+32-bit,os,uefi,possible,system,loader,fiddlier
+on arm it is not or rather 32-bit os on 64bit uefi is technically possible only would still require the operating system loader to be 64bit but even fiddlier than on x86
+
+amd64,cpus,larger,bit
+amd64 64bit cpus have larger registers and more of them compared with x86 32 bit cpus
+
+capable,cpu,worse
+a 64bit capable x86 cpu is no worse at running 32-bit code
+
+intermediate,calculation,higher,internal,bit,arm
+the difference is in the first number which shows the rounding of the intermediate calculation so the problem happens because x86 has a higher internal precision 80 bit than the arm 64bit
+
+easier,debugging,mode
+x86 allows easier debugging - edit and continue is not supported when running in 64bit mode
+
+tests,system,anycpu,32-bit,memory
+however my tests have shown that on a 64bit system an anycpu prefer 32-bit application which i confirm runs 32-bit can allocate more memory than an x86 one
+
+addition,furhter,complicated,manuals,bit,processors,familiar
+in addition x86 is furhter complicated because there are generally separate documentation manuals for 32 bit and 64bit processors i m not familiar enough with arm to comment here
+
+recent,book,32b,mode,easier,graphics
+although maybe you should instead find some 32 64bit recent book for your os as the 32b protected mode on x86 is much easier to learn only the graphics output is not as straightforward as it was back in dos era but if you will mix your asm files with c++ loader which would for example initialize some window surface as argb memory array you can pass that pointer down to the asm routines and toy around with pixels in the same simple way how the old 320x200 mode 13h in dos worked
+
+path,appealing,modern,application,operation,necessary
+to me the path without x86 is also more visually appealing and indicates that it s a modern application - adapted for 64bit operation where necessary
+
+support,higher,precision,bits,fp,algorithm
+x86 doesn t support higher precision than 80 bits but if you really need more than 64bit for a fp algorithm most likely you should check your numerics instead of solving the problem with brute force
+
+volatile,word,size,cli
+reason why double can t be declared volatile it s 64bit which makes it more than the word size on x86 which prevents it from being declared volatile in the cli if i remember correctly
+
+slower,clocks,function,argument,arguments
+x86 is considerably slower a few clocks plus a clock or so per function argument while 64bit is much less because most function arguments are passed in registers instead of on the stack
+
+intel,amd,manuals,atomicity,wider,lock,cmpxchg16b
+no intel or amd x86 manuals ever guarantee atomicity of anything wider than 64bit except for lock cmpxchg16b so this talk of sse vector loads stores being atomic on some cpus isn t something that you can reliably take advantage of or detect when it s supported
+
+spilling,cheap,cpus,fast,register,tricks,costly,access
+register spilling is pretty cheap on x86 cpus due to fast l1 caches and register shadowing and other tricks and the 64bit only registers are more costly to access in terms of larger instructions so it may just be that gcc s version is as fast or faster than the one you want
+

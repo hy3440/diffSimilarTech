@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+process,simpler,object
+the nstextview process is much simpler as you only need to attach the nstextstorage object
+

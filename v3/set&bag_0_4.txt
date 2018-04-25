@@ -1,0 +1,14 @@
+others---------------------------------------------------
+
+suspect,semantics,appropriate,employee.team
+i d also add that i suspect set semantics instead of bag would be more appropriate for the employee.team and team.employee properties
+
+actual,details,thread,knapsack,algorithm,value
+returning the actual set is explained with more details in the thread how to find which elements are in the bag using knapsack algorithm and not only the bag s value
+
+disabled,useful,fetchmode.subselect
+take into account that lazy mappings will be disabled so it may be useful to evaluate what will be need to be set to fetchtype.eager with fetchmode.subselect if more than 1 bag is needed to be initialized with it
+
+inverse,item,faster,uniqueness
+the inverse is adding an item to a bag can be faster than using a set because uniqueness does not have to be enforced
+

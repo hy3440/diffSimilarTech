@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+easier,unit,frameworks,nunit,vs,tools
+one option is to install testdriven.net which makes it easier to run unit tests on any of the major unit testing .net frameworks nunit xunit.net vs tools etc
+

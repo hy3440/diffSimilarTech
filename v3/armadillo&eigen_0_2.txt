@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+cumbersome,numerical,numpy,matlab
+i find eigen s syntax more cumbersome than the other numerical linear algebra libraries i ve worked with numpy matlab and armadillo
+
+version,benchmark,simple,matrix,product,slower,mkl
+i have recently started to use eigen version 3.3.1 running a benchmark against armadillo on a simple matrix operation at the core of an ols regression that is computing the inverse of the product of a matrix by itself i noticed that eigen was running slower when compiled with mkl library than without it for this kind of operation
+

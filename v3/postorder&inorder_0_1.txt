@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+trickier,nodes,process
+postorder is trickier because the stack has to store nodes to visit and nodes to process and they aren t always simply related like they are in the inorder case
+

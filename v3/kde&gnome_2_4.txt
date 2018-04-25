@@ -1,0 +1,16 @@
+fonts, tools, larger, ---------------------------------------------------
+
+tools,fonts,bigger,font,size
+i am trying to explore kde a bit but many of the tools i rely on have fonts that appear so much bigger under kde than gnome even though the chosen font size is the same and the resolution is the same 1920x1200
+
+font,size,larger
+the motivation is that font size 12 under kde seems to be much larger than under gnome
+
+others---------------------------------------------------
+
+aptana,quicker,best
+on kde aptana ran perfectly quicker than on gnome at the best of times
+
+gtk+,native,whereas,qt
+on gnome gtk+ can be seen as more native whereas on kde qt is more native
+

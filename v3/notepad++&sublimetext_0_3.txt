@@ -1,0 +1,11 @@
+others---------------------------------------------------
+
+broken,good
+notepad++ which is often recommended are even more broken than sublimetext 2 which i find to be pretty good actually
+
+customizable,great,options
+i prefer sublimetext because it s a little more customizable than notepad++ but they re both great options and lighter than dreamweaver
+
+better
+i prefer sublimetext 2 but notepad++ or scite might suit you better
+

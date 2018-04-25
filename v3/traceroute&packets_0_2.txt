@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+proceeds,connection,route
+traceroute proceeds unless all three sent packets are lost more than twice then the connection is lost and the route cannot be evaluated
+
+hop,small,complete
+that will give you the average rtt for each hop small sample obviously you would want to adjust traceroute to send more packets to each hop for more complete average
+

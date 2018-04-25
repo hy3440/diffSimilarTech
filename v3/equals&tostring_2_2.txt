@@ -1,0 +1,10 @@
+inefficient, map, result, ---------------------------------------------------
+
+iterator,inefficient,approach
+tostring itself uses an iterator just like equals but is a more inefficient approach
+
+result,map,intuitive,approach
+the same result can be obtained also by comparing tostring of each map as you suggested but using equals is a more intuitive approach
+
+others---------------------------------------------------
+

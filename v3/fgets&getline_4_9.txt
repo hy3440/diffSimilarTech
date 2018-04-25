@@ -1,0 +1,31 @@
+example, line, read, ---------------------------------------------------
+
+line,time,better
+while this is fine in some cases where flexibility is needed reading a line at a time with getline of fgets is the better choice
+
+example,read,loop,better
+since i provided a getline example above your read loop can be much better written with fgets as follows
+
+others---------------------------------------------------
+
+line-oriented,function,posix,prone,subtle
+when taking user input a line-oriented function like fgets or posix getline are much less prone to causing subtle errors you just need to remember to trim the trailing n included by each in the buffer they fill
+
+flexible,allocation,space
+getline is far more flexible handling the allocation of space for you with fgets it is up to you
+
+former,latter,easier
+your code is trying to do the former but you probably meant to do the latter in which case getline may be easier to use than mucking about with fgets
+
+things,easier
+you should use getline instead of fgets to make things easier
+
+use,harder,doubt
+if you cannot tolerate that use getline it s harder to use so use fgets if in doubt
+
+edit,comments,safer,buffer,size
+one more edit if you want to use getline instead which you asked about in the comments - and it s even safer than fgets since it will increase the buffer size as needed you would change to change the code a little bit
+
+line-based,input,earlier,answer,mine,string,char,array
+i should also mention that there are probably better way to get line-based input in both c fgets or see an earlier answer of mine and c++ such as the string getline and the char array getline
+

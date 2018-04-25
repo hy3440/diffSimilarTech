@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+webmap,toolkit,popular,easy,powerful
+webmap toolkit leaflet became popular and easy to use while openlayers is more powerful
+
+lightweight,mature,proj
+while leaflet aims to be more lightweight than openlayers openlayers is by far the more mature proj
+

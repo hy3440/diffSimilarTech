@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+sort,functionality,bundle,route
+in studio 3 much of this sort of functionality is still coming as aptana is going more of a textmate bundle route for a great deal of their features which i think is really cool
+

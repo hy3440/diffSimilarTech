@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+object,nothing,objects,runtime,checks
+calling suppressfinalize on an object implementing a finalizer does nothing more than set a bit in the objects header which the runtime checks when calling finalizer which will suppress your finalizer from running
+

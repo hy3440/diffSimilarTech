@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+better,decimal,number
+in persian it s better to say farsi a decimal number like 32.98 is written 32 98 slash is used instead of point
+

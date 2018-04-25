@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+parameters,mybatis,point,parameter,pl,sql
+your problem is that your procedure has more parameters then you pass to it on mybatis call so at any point after the missing parameter you should have your ora-06502 pl sql numeric or value error error since the following paramters doesn t have the same type on the order you are passing it
+

@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+faster,scalable,version,views,level,memcached,server,sophisticated
+i d like to add that couchbase is a faster and more scalable option than couchdb the 2.0 version introduces views at a high level it s a distributed memcached membase server merged with couchdb but of course more sophisticated than just mashing them together
+
+consistent,replication,brings,nothing,clustering,ui,important
+the benefits of map-reduce and indexing as well as eventually consistent replication that couchdb brings are nothing less than huge for membase...and the benefits of low-latency clustering and ui that membase brings to couchdb are arguably just as important
+

@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+custom,bad,idea,type,place,cleaner,timeout,exceptions,student
+normally custom runtimeexception are a bad idea because they can result in leaky abstractions but here a custom type in place of illegalstateexception may make it cleaner for you to distinguish your timeout exceptions from runtimeexception raised by the student s code
+

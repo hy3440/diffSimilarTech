@@ -1,0 +1,48 @@
+exceptions, better, mfc, ---------------------------------------------------
+
+learning,parts,better
+once you re past the basics with c++ learning how to use parts of stl and then how it works will be better than tackling boost
+
+better
+maybe this would have all been better with boost but i m still learning stl and didn t go that way
+
+project,better,exceptions
+i ve used both for the same project boost is better integrated with the stl and especially c++ exceptions
+
+better,huge
+c++ s stl is getting better and better yet it s not nearly as huge as boost and is not intended to
+
+better,cleaner,mfc
+.net library support is way better and cleaner than stl mfc and boost
+
+template, www.boost.org, libraries, ---------------------------------------------------
+
+standard,template,richer,www.boost.org,libraries
+as for not reinventing the wheel like many have said already make sure to first explore the possibilities in the standard template library stl which is much richer than you might think and then look at boost www.boost.org which has libraries for a lot of diverse purposes and they are extremely high quality and some are just works of art like spirit proto lambda and mpl
+
+libraries,mature,standard
+boost libraries are generally less mature and less standard than stl
+
+others---------------------------------------------------
+
+io,stream,better,solution
+boost s io stream might be a better solution than stl s own stream
+
+exercise,greater,mastery
+i don t want to use boost because that s a library i haven t used extensively yet and i m doing this partly as an exercise to gain greater mastery over the stl
+
+pool,allocator,efficient
+the boost pool library provides stl allocator that are more efficient when allocator objects of the same type as opposed to std allocator which simply uses new and delete
+
+years,notion,good,use,environment,projects.i,libraries,powerful,error,.also,claims,heavy,final,compilable,entire
+i am a c++ programmer and over the years have been subjected to hearing the notion that stl is not good for use in embedded environments and hence usually prohibited in usage for embedded environment based projects.i believe stl libraries like boost are far more powerful and provide a much more faster less error prone means of development ofcourse the syntax is little intimidating but once past that i think it s a real treasure .also i find the claims that stl is heavy and increases final footprint of code absurd because since it is templatized one is only going to get compilable code which he asked for and not the entire stl
+
+modern,harder,experience,deep,knowledge,difficult
+while boost is more modern c++ it also harder to use for non trivial tasks - and without a modern c++ experience and deep stl knowledge it is difficult to use correctly
+
+easy,diehards,stream,operators,harder,bad
+for example using classes and class methods and function overloading which are usually easy for even c diehards to cope with but not the stl stream operators and boost which are harder to learn and can have bad memory characteristics
+
+verbose,worse,ranges
+too bad that find calls often end up verbose â it s even worse with stl than with boost ranges
+

@@ -1,0 +1,14 @@
+others---------------------------------------------------
+
+newer,gem,flexible
+carrierwave is a newer gem than paperclip and it looks a lot more flexible
+
+popularity
+carrierwave seems to be gaining more popularity than paperclip but most people seem to be on paperclip
+
+object
+seems like paperclip is more file oriented and carrierwave is more object oriented
+
+new,better
+new to carrierwave already loving it so much better than paperclip
+

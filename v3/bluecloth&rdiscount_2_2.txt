@@ -1,0 +1,10 @@
+better, reliable, faster, ---------------------------------------------------
+
+faster,reliable
+rdiscount seems to be much faster and more reliable than bluecloth
+
+faster,better
+consider rdiscount which substitutes for bluecloth but is faster and better maintained
+
+others---------------------------------------------------
+

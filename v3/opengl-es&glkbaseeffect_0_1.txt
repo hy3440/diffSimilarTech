@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+template,creation,shader,functionality,order,able
+among other things the apple template code will include creation of a glkbaseeffect which provides some shader functionality that seems to be required in order to be able to draw with opengl-es 2.0
+

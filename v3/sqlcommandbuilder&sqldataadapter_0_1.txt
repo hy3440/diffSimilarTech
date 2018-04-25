@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+insert,commands,simpler
+since i have several gridcontrols that work like this with different data i am trying to not generate select insert update and delete commands for sqldataadapter myself instead of that i m using sqlcommandbuilder to keep it simpler
+

@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+generic
+uiview is more generic than uiwindow and should be preferred
+

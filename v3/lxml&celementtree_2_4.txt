@@ -1,0 +1,16 @@
+xml, world, elementtree, ---------------------------------------------------
+
+world,standard,elementtree,faster
+while celementtree is fast the world standard lxml library which also implements the elementtree is faster still
+
+faster,parsing,un-parsing,xml,certain
+the lxml library is proven much faster for parsing and un-parsing xml but celementtree is much faster for certain kinds of manipulation
+
+others---------------------------------------------------
+
+parent,traversal,slower
+as a side-effect of implementing proper parent traversal lxml is a bit slower than celementtree for parsing
+
+fastest,faster
+instead doing it with lxml which i found to be the fastest somehow even faster than celementtree
+

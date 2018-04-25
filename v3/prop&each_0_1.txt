@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+needless,product,producthas,table
+needless to say each product has more than one prop which is kept in the producthas table
+

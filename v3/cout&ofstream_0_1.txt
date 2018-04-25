@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+slighlty,faster,yor,libc++
+ofstream might be slighlty faster than cout depending on yor libc++ implementation different buffer sizes thread synchronization ...
+

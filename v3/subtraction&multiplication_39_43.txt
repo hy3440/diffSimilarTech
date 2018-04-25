@@ -1,0 +1,133 @@
+greater, return, nothing, ---------------------------------------------------
+
+addition,rectangular,calculation,cheaper
+addition subtraction for the rectangular bound calculation is cheaper than multiplication
+
+operations,faster,division
+subtraction operations and usually significantly faster than multiplication and division
+
+operations,addition,harder,division,slower
+for floating point operations addition and subtraction are harder than multiplication and division so they may be slower or not again it depends on how much transistor real estate there is dedicated to the fpu
+
+division,higher,precedence,addition,extraneous,parentheses
+finally we all know that multiplication and division have higher precedence than addition and subtraction so we can remove the extraneous parentheses so this turns into
+
+addition,division
+the addition and subtraction are much more than multiplication and division
+
+basics,division,higher,addition,esoteric
+i know the basics division and multiplication higher than addition and subtraction but i would have to look up something more esoteric
+
+intuition,addition,faster,division,correct
+the intuition would say addition subtraction are faster than multiplication division but is that really correct
+
+division,modulo,precedence,addition
+multiplication division and modulo have the same precedence and they all have higher precedence than addition and subtraction
+
+division,remainder,higher,precedence
+remember multiplication division and remainder operators are all higher precedence than subtraction
+
+return,addition,division,testing
+it is also possible to manipulate the inputs so that various parts of the calculation return 0 for addition or subtraction or 1 for multiplication or division to make testing easier but this only gets me so far
+
+division,slower,addition,c#,version
+i don t understand why the division multiplication in c++ is so much slower than addition subtraction where the managed c# version is more reasonable to my expectations
+
+higher,precedence,addition
+multiplication has higher precedence than addition subtraction
+
+division,higher,precedence,addition,parentheses
+division multiplication has higher precedence than addition subtraction and parentheses is required to do addition subtraction before multiplication division
+
+operations,addition,faster,integer,division
+typically operations like addition and subtraction are much faster in integer -- multiplication and division less so
+
+division,operators,precedence,addition,scientific,notation
+multiplication and division operators have higher precedence than addition and subtraction in c++ same as in scientific notation
+
+division,higher,priority,addition
+multiplication and division have higher priority than addition and subtraction
+
+division,higher,precedence,addition
+multiplication and division have a higher precedence than addition and subtraction
+
+precedence,addition,operators,division,higher
+this is happening because the concatenation operator has a higher precedence than the addition or subtraction operators but multiplication and division have a higher precedence then concatenation
+
+expensive,addition,division
+multiplication is more expensive than addition subtraction and division is more expensive still
+
+addition,division
+apart from that multiplication is addition done more than once and division is subtraction done more than once
+
+natural,precedence,division,greater,addition
+i don t think they have a natural precedence unlike say multiplication and division being of greater precedence than subtraction and addition because they can be built from subtraction and addition
+
+division,precedence,sum
+indicates that multiplication and division have more precedence than sum and subtraction
+
+variation,division,addition
+in general you ll have more variation with multiplication and division than with addition and subtraction
+
+integer,division,modulo,addition
+integer multiplication division and modulo are much slower than integer addition and subtraction
+
+division,higher,precedence,addition
+to start with i need multiplication and division to take higher precedence than addition and subtraction
+
+nothing,rule,division,precedence,addition
+nothing follows the rule of multiplication and division having more precedence over addition and subtraction
+
+longer,single-precision,division,addition
+the term is apparently not an exact measurement as it is clear that a double-precision floating-point operation is going to take longer than a single-precision one and multiplication and division are going to take longer than addition and subtraction
+
+numeric,expression,higher,precedence,addition
+either way your example with the numeric expression would multiplying by 3 first because multiplication has higher precedence than addition or subtraction
+
+others---------------------------------------------------
+
+unary,priority,lower
+in t-sql unary minus is made to be the same priority as subtraction which is lower than multiplication
+
+rule,grammar,division,operations,tree,addition
+notice that by making the rule for contain the rule for this grammar makes sure all multiplication division operations occur lower in the parse tree than any addition subtraction
+
+similar,base,type,additions,slow,division,trickier,numbers,long
+subtraction is similar using subtraction of the base type and borrow instead of carry multiplication can be done with repeated additions very slow or cross-products faster and division is trickier but can be done by shifting and subtraction of the numbers involved the long division you would have learned as a kid
+
+matrix,algorithm,efficient
+after much fuddling with the sparse matrix algorithm i realized that distributing the multiplication over the subtraction was dramatically more efficient
+
+higher,precedence,digit,character
+since multiplication has a higher precedence than subtraction you should subtract 0 to your digit character before multiplying it
+
+costlier,right
+in general multiplication is more costlier than subtraction right
+
+complex,addition
+i don t know how it works but it s much more complex than addition subtraction or even multiplication
+
+title,faster,example
+as in title why is multiplication much faster than subtraction in this example
+
+addition,lower,latency
+addition and subtraction are slightly lower latency multiplication is the same
+
+calculator,division,highest,priority,time,addition,lower
+put each token +- of final command string in a list maybe a binary tree works and sort that list to tell the calculator that division and multiplication has the highest priority in the mean time addition and subtraction has lower priority
+
+higher,values
+while multiplication normally works subtraction fails for higher values
+
+operator,second,higher,precedence
+this subtraction operator occurs within the second brackets and so has a higher precedence than the multiplication
+
+slower
+multiplication is slower than subtraction
+
+arithmetic,expensive,division,powers,dividion,exponent,addition,range
+it will be much slower i don t have benchmarks but i would guess at least an order of magnitude maybe more decimal will not benefit from any hardware acceleration and arithmetic on it will require relatively expensive multiplication division by powers of 10 which is far more expensive than multiplication and dividion by powers of 2 to match the exponent before addition subtraction and to bring the exponent back into range after multiplication division
+
+higher,precedence
+the only way it would be broken up differently would be if addition had a higher precedence than subtraction like multiplication does
+

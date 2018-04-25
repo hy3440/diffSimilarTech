@@ -1,0 +1,11 @@
+others---------------------------------------------------
+
+
+onstart is less commonly used than oncreate
+
+methods,appropriate,activity,first
+instead you use other lifecycle methods that are more appropriate such as onstart which will be called both after oncreate when the activity is first created and when the activity is returning to the foreground from having been in the background
+
+handling,place,earlier
+in my fragments data handling is taking place starting from oncreate which happens earlier than onstart
+

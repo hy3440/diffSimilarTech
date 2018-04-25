@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+nanosleep,advantage,signals,standardized,higher,timing
+compared to sleep 3 and usleep 3 nanosleep has the advantage of not affecting any signals it is standardized by pthreads it provides higher timing resolution and it allows to continue a sleep that has been interrupted by a signal more easily
+

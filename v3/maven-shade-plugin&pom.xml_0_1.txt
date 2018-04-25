@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+better,nothing
+this is a lot more pom.xml code but i like it better than the maven-shade-plugin because it does just what i want and nothing more
+

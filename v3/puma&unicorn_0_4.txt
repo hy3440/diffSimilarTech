@@ -1,0 +1,14 @@
+others---------------------------------------------------
+
+switching,things,rubinius,version,concurrency,easier
+something where the app is about serving different pages you want low memory and good context switching things like preforking unicorn or running on the rubinius version of ruby with puma that makes concurrency easier to code because it will perform well with threading as opposed to something like mri with a global interpreter lock
+
+better,heroku
+for example it looks like unicorn is a better choice on heroku than puma
+
+threads,performance,worse,pure,cpu,better
+puma will tend to optimize itself by spawning more threads and its performance should range from no worse than unicorn in the pure cpu case to being vastly better than unicorn in the case of an app that sleeps a lot
+
+resources,requirements,better,thread-safe,threaded,server
+it uses less resources than unicorn but has more requirements to your code it better be thread-safe because puma is a threaded server
+

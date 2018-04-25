@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+primitive,method,nsarray,nspropertylistserialization,conjunction,options,better
+rather than using the quite primitive writetofile method of nsarray i d recommend to use nspropertylistserialization in conjunction with nsdata s writetofile options error still better writetourl.
+

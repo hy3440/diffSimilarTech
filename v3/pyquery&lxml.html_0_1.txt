@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+project,faster,speed,comparasion
+there is a project pyquery that is much faster as it uses lxml.html library speed comparasion can be found here
+

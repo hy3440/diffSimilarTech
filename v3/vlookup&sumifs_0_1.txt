@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+mind,index,first,value,day,better,side
+bear in mind that index is the same as vlookup in that it will only return the first value if two tenders finished on the same day it will only return the first it comes across if you have more than one maybe sumifs would work better maybe along side countif to show how many there were
+

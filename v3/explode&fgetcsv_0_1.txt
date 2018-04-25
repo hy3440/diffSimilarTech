@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+built-in,easier,accurate,manual,strategy
+you will probably find that php s built-in fgetcsv will be easier and more accurate than a manual explode based strategy
+

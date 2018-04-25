@@ -1,0 +1,14 @@
+others---------------------------------------------------
+
+sound,elaborate,function
+it doesn t sound as if you need anything more elaborate than a countif function and a sumifs function
+
+day,first,better,side
+bear in mind that index is the same as vlookup in that it will only return the first value if two tenders finished on the same day it will only return the first it comes across if you have more than one maybe sumifs would work better maybe along side countif to show how many there were
+
+basic,formula
+you could also use sumifs with countif it s a more basic formula not as powerful as filter but just as funcitonal
+
+
+i really need countif to work more like sumifs
+

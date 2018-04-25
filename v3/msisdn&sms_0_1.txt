@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+secure,sim-card,change,cant,fool,different,real,sim,card
+if you want to be more secure you can send the sms s more often however there is a way to understand sim-card change this is for t-mobile and europe use i guess from within the app so that the user cant fool you by enetering sms for a different msisdn and then change to his her real msisdn sim card
+

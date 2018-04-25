@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+
+unless you know exactly what you are doing do not use the same layoutparams for more than one viewgroup
+

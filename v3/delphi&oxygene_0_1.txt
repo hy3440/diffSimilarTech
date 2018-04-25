@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+better,broader,platform,features,.net
+right now oxygene is much better as it supports a broader set of language and platform features than delphi .net ever did
+

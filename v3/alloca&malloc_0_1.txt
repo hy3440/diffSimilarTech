@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+automatic,de-allocation,smaller,resource,heap
+while alloca gives you automatic de-allocation on function exit the stack is usually a smaller resource than the malloc heap and if you exhaust the heap it gives you back null
+

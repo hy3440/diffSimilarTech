@@ -1,0 +1,263 @@
+better, radio, appropriate, ---------------------------------------------------
+
+activex,radio,possible,control,layout
+i know we could use activex radio button but we d prefer to avoid activex if possible plus with checkbox we have more control over the layout
+
+time,radio,better,fine
+if you only want one to be checked at a time then radio button would seem a better choice although if you want one or zero at a time then checkbox are fine
+
+better,extra,class
+perhaps checkbox would be better but by using the button and a an extra checked class
+
+better,control,regular
+well actually you would be better off with checkbox control and you can make it look just like regular button
+
+colour,radio,better,idea
+if it s only one colour you want selecting you can use a radio button instead which would be a better idea than a checkbox
+
+better,autopostback,set
+everything is better than a checkbox or a button with autopostback set to true nowadays in year 2011 2012 soon
+
+note,radio,easier
+note there may be a way to do this with checkbox but radio button were easier to toggle between
+
+radio,correct,toggle
+essentially radio button are a more semantically correct way of styling a toggle and they can be styling to look like a toggle just like checkbox could too
+
+radio
+some checkbox are shown under more than one radio button
+
+none,radio,appropriate,common
+edit since you say you can t add a none option and want to use a checkbox even though i strongly disagree on checkbox where a radio button is more appropriate - a common ui error .
+
+better,fit
+checkbox may be a better fit than button here
+
+onclick,better,radio,onchange
+note that onclick is better supported with checkbox and radio button than is onchange
+
+note,radio,page,appropriate
+side note if you only have one radio button on the page maybe a checkbox would be more appropriate
+
+group,radio
+when there is more than 1 checkbox s they do not work as a group like radio button such that only one 1 radio button can be selected when there is more than 1
+
+select,radio
+one more thing i also want select only one radio button when i have selected more than 2 checkbox
+
+note,radio,better,needs,definite,answer
+on a side note are your sure radio button wouldn t be better suited to your needs you will be able to see the definite answer for each questions whereas checkbox are more for submitted only the selected checkbox
+
+toggle,radio
+you want your toggle button to behave more like radio rather than checkbox so why not just convert them all to radio
+
+form,radio,better,field
+i have noticed that in your form you are using checkbox where radio button would fit better like for field mobile
+
+radio,names,different,false,better
+actually i found out why using two radio button with same names and different values true and false is better than checkbox
+
+dropdown,radio,suitable
+if you want the users to select only one option perhaps a dropdown or radio button list is more suitable rather than checkbox
+
+radio,user,select,none
+unlike radio button the user can select more than one checkbox at once or select none of them at all
+
+radio,earlier
+checkbox and radio button were working well earlier
+
+validation,better,radio,default,pre-selected
+i would suggest adding some validation to make sure at least one of your checkbox is checked or better still change them to radio button with your default pre-selected
+
+radio,better,style
+anyway as stated by other a radio button would be better you can style it as a checkbox if that s what you need
+
+radio,better,solution
+as such creating a radio button rather than checkbox is a better solution
+
+icheck,plugin,radio,better
+i am using icheck plugin to make my checkbox and radio button looks better
+
+uncheck,better,radio
+using checkbox to check uncheck is better than radio button
+
+select, box, alert, ---------------------------------------------------
+
+page,status,select,error,index
+i have an asp page where the status of a list is approved by selecting checkbox and then pressing approve button however when i select more than one checkbox it throws the error index was out of range
+
+validation,user,select,script,check,box
+on a button click javascript validation should be if a user select one checkbox it should allow to process further to any script but when user selects more than one checkbox it should prompt that you can select only one check box
+
+user,asp.net,event,select,alert,box
+how to restrict user to select not more than 10 asp.net checkbox on button click event if user select more than 10 checkbox then alert box will pop up that you can not select more than 10 checkbox
+
+user,checks,radio,users,able
+what i want to do is if a user checks the more than 1 checkbox all radio button must turn into checkbox and users must be able to check more options
+
+implicit,false,point,radio,user,active
+i agree that checkbox have more of an implicit true false meaning another point is that for radio button you can force the user to make an active choice by having neither option selected
+
+data,checkbox.my,update.php,page,alert,message,select
+here i am retriving data from database and i am doing insert update and delete of data using checkbox.my problem is when i click more than two checkbox than also i am moving to update.php page but what i actually want is that when i click on update button first it will check that only one checkbox is selected from list if not than alert message should display like select only one checkbox
+
+row, next, value, ---------------------------------------------------
+
+project,row,exact
+in my project on click of checkbox and add more button i am trying to add one row and on click of remove button remove exact row
+
+able,column,need,row
+currently i am able to generate checkbox in column what i need is one more column with button same as checkbox in each row
+
+value,disable,disabled.after,able
+initially the value of button is disable because value of button is true so the button is disabled.after selecting the checkbox now the button should be able to click
+
+row,time
+if i ticked more than one checkbox only one row is deleted each time i clicked delete button
+
+value,next,myproperty
+i can verify that by unchecking the checkbox it does flip the value because i enable disable the next button depending on the myproperty value - i have more than one checkbox btw
+
+image,next
+as image shows below i want to make next button enabled only if more than one checkbox get checked
+
+instance, options, side, ---------------------------------------------------
+
+side,note,user,time,instance,radio,better,ui
+side note the checkbox you have there imply that the user should only be choosing one of them something can t simultaneously be on time and late for instance - radio button would be a better ui choice here
+
+idea,radio,options,exclusion,functionality,better,solution
+my initial idea was to use radio button for the options because of its exclusion functionality but maybe using checkbox provides a better solution
+
+values, custom, property, ---------------------------------------------------
+
+values,property,radio,dropdownlistfor,basis,selection,merged
+so the values can be mapped with each list now by the property of checkbox you can select more than one checkbox unlike radio button so when such case comes the dropdownlistfor that is being populated on the basis of each checkbox selection now comes in a merged format like on selecting option 1 and option 2 both the list contains all the elements mapped to both further on de-selecting it comes back to unmerged state
+
+custom,better,hidden,field,onclick,functions,value
+so i think a custom checkbox is the better choice here but if you really want to use a button i would use a hidden checkbox field and apply onclick functions to the button to change the value of a hidden checkbox field
+
+multiple,radio,value,property,weird,better,values,work
+you ll want to have multiple radio button each with it s own value to set some property to although this is weird for a yes no you are better off with a checkbox but if you had multiple values this is how radio button work
+
+settings,tag,custom,dimension,left,field
+create a universal analytics tag click the enable overriding settings in this tag checkbox go to more settings custom dimensions click the add custom dimension button enter in the left field the numeric index as obtained via the ga property settings and in the right field your value variable
+
+table, visible, column, ---------------------------------------------------
+
+table,column
+the table contains a checkbox column and a button column button column may contains more than 1 button
+
+table,visible
+i have a table and it has checkbox what i want is when more than two checkbox are selected my button should be visible and vice versa
+
+others---------------------------------------------------
+
+script,user,disabled
+i ve got a script for ensuring the user doesn t check more than 4 checkbox but i can t find a way to ensure that the submit button is disabled if they have selected less than 4 items
+
+server,jsfiddle,inline,text,higher,tick
+on the server off jsfiddle the submit button sits inline with the checkbox and tick text and the checkbox sits higher than the tick text rather than inline
+
+group,li,tag,query,result,text
+i have group of checkbox each of this checkbox associated to a li tag which contain a query result i have also button so i want when i check more than one checkbox and after that click on button i want to display text of li tag for each selected checkobox
+
+small,bigger,width,space
+in both cases plus minus same except in case where is the small checkbox the button is bigger on width maybe it is related with space for checkbox
+
+snippet,static,bootstrap
+running the snippet you can see a static checkbox bootstrap rendered and a button to add more checkbox
+
+box,addclass,removeclass
+i ve got a box with checkbox and i wanted that button submit appear only if one checkbox was marked when more than one box is checked the button submit must disappear i ve tried code it using addclass and removeclass provides by jquery here s my code for now
+
+bottom,hyperlinks,easier
+then you can see a few checkbox and at the bottom there are two button you can also use hyperlinks but button are easier to work with
+
+application,textviews,row,listview.what,click,able,state,thing,xml,file.i
+i have an application with three textviews and one checkbox in each row of a listview.what i want that on a click of a button i will be able to get the state of each checkbox and the row corresponding to ischecked checkbox get deleted.one more thing my checkbox are hardcoded in an xml file.i have searched a lot but couldn t find anything specific.thanks in advance.here is my code.
+
+group
+so if more than 2 checkbox are selected then a button named group appears
+
+time,form,changehandler,next,function,functional,submit,cannot
+each time a checkbox is changed and less than 2 in the form are checked changehandler calls the next function to make sure that the checkbox are fully functional and disables the submit button so that the form cannot be submitted
+
+show,better,experience,state,first
+since you want more of a show hide button i think a better experience is to have a checkbox that indicates what state you re going to set it to instead of relying on the first item
+
+rectangle,middle,hover
+see the red rectangle you can click the middle button and checked hover checkbox then you will find the reason
+
+appropriate
+a button may be more appropriate for clearing the checkbox
+
+groups,group,alert,pop
+newly created groups click more than 2 checkbox then a group button will appear now click the group button then an alert pop will appear asking you to enter group name.enter some name and click ok.then that name will now appear on the right side group table.now clcik the group name then those members will be selected.i want to the same from existing groups also.please tell me how
+
+difficult
+we replaced the button and now they work but the checkbox would be more difficult to replace so i was hoping there was a way to fix them
+
+tri-state,intuitive,drop-down,set,radio,approchable,inclined
+for example tri-state checkbox aren t particularly intuitive and providing a drop-down or set of three radio button is more approchable for those less technically inclined
+
+row,event,info,multiple,easier
+i have put a button for each row which i want to create on click event for it to get the id of that row and be able to send user to second page to edit that row info but i have problem with checking this multiple button if it were checkbox it was easier
+
+plugins,radio,figure,single,experience
+i ve been trying to apply icheck plugins to my radio and checkbox and i just cannot figure out why my radio button keep selecting more than a single option with no experience in jquery i think i might need help with this
+
+images,larger,text,line
+what i d like to do is make the button images slightly larger than the checkbox and have the text checkbox and both button on the same line
+
+spot,specific,progressbar,icon,progress,bar,full,toggle,state,controls
+what i want to do is place two controls at the same position spot to be specific a button that contains a progressbar inside of it and a button that contains a icon once the progress bar is full i want to switch it to the button which has the icon like a checkbox toggle button it has more than one state when i change it it changes the controls
+
+form,simpler,solution
+since you are creating a submit button for each form but you seem to want to trigger the submit when the checkbox is changed a simpler solution might be
+
+html,pages,select,more.because,becuase,mobile,check,jsfiddle.net
+when i reload my html pages its button select and checkbox are goes added more and more.because all the html data fetch from a data base and after added new things in the page i store all the html of the page in data base and when i display this page agiain becuase of jquery mobile its button select and checkbox are increased check here visit jsfiddle.net sharma9853 gbe6p 7
+
+
+showing button when items selected by checkbox are more than one
+
+form,multiple,script,sum,values,greater,box,appears.the,sweetalert,last
+i have created a php form with multiple checkbox and there is a script that controls if the sum sum of all checkbox values is greater than a specific number.if yes a sweetalert box appears.the problem is that when i click the ok button on the sweetalert i want to remove the last checked attribute and to remove that value from the sum to execute the script again and display the right results.i cannot figure this out..any ideas will be helpful
+
+uncheckall,single
+checkall and uncheckall on single button is worked if there is more than one checkbox present.but it will not worked for single checkbox
+
+extra,clearer,user
+a checkbox or an extra button would be clearer for the user
+
+
+the problem is that if i have more than one checkbox checked and i want to uncheck one the button disables
+
+earlier,certain,name,a1,value,a2
+since i have many checkbox as mentioned earlier i want that when i write a certain controls name in a1 when i click the button that control will take the value in a2
+
+user,start,emails,information,dynamic,table
+the user will check a few more than 1 checkbox and hit the start button which will send out emails with information on checkbox selected in the dynamic table
+
+simpler
+you need two button one for up and one for down or you could use one button and a checkbox for up or down but i think two button is simpler
+
+preupdate,hook,edit,action,nicer
+one option is to use the preupdate hook and add a checkbox to the edit action but a button would be much nicer
+
+checkable
+what i want to do is if you try to select more than 6 checkbox it will automatically disable all the button however if you tap the even one of the checked checkbox it will make all the checkbox checkable
+
+useful,multiple,objects
+i saw he used checkbox which to seems much more useful than button since you can take multiple objects out at a time
+
+show,functionality,sense
+obviously for something like show hide functionality a checkbox makes more sense than a button
+
+form,multiple,default,disable,active
+i have a form with multiple checkbox and a button by default the button will be disable but after checking at least 2 or more than 2 checkbox the button should become active
+
+fine
+but works fine if more than 6 checkbox are selected then reduced to 6 with more than one button click
+

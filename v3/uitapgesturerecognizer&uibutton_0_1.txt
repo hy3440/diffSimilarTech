@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+image,text,flexible
+the first thought is that you could build a uiview showing image and text then attach a uitapgesturerecognizer to it which would be more flexible than uibutton
+

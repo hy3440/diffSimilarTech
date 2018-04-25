@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+existence,prior,collections,nsarray
+when nsorderedset was added much more recently it had to deal with the existence of prior collections - primarily nsarray and nsset
+
+faster
+is nsorderedset faster than nsset
+

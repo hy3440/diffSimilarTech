@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+effective,sufficient,students
+cppcheck may be less effective then coverity but it s sufficient for students assignments
+

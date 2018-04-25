@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+familar,api,success,objective-c
+i m not familar with the facebook api but the fbconnect success looks more like an objective-c selector instead of a url
+

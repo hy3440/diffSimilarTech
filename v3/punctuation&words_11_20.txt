@@ -1,0 +1,70 @@
+characters, longer, spaces, ---------------------------------------------------
+
+entries,longer,characters,spaces,html
+entries with words that are longer than x characters in this case 25 with no punctuation or spaces will cause the html on a printed a4 page to not wrap properly and therefore not to confrom to certain sizes correctly pushing the margins off
+
+note,characters,hyphens,single,longer,formatting
+note there are some cases you will have to handle here you may have to split at punctuation characters and hyphens and you may have to cope with a single words that is longer than the formatting width
+
+letter,whitespace,longer,characters
+in text files for example it is much more probable to have a small letter after a letter than a whitespace or punctuation after a letter since words typically are longer than 2 characters
+
+data, etc, numbers, ---------------------------------------------------
+
+able,lower,numbers,whitespaces,data
+and i need to be able to remove all of the punctuation convert to lower cases remove numbers stop words whitespaces from the data frame tweets without having to convert it into a corpus or something
+
+data,nltk,stop,lower,etc.
+did pre-processing of the train data using nltk punctuation stop words removal lower case stemming etc.
+
+lower, strings, array, ---------------------------------------------------
+
+array,strings,lower
+i have a string array containing strings words with no punctuation marks all lower case
+
+cat,singular,lower
+the was removed stopword cat is now singular stemming punctuation is gone and the words are lower cased
+
+lower,cameroon
+you might also want to consider sripping punctuation from words and calling lower if you consider cameroon and cameroon to be the same
+
+first, w, use, ---------------------------------------------------
+
+note,whitespace,use,w+
+note that in case your words are separated with more than whitespace punctuation for example use w+
+
+note,space,first
+alternatively you could accept a-za-z0-9 0 4000 note the space which should get you more than one words but probably not anything after the first punctuation
+
+others---------------------------------------------------
+
+letters,thing,capitalization
+i need to replace all words with 3 or more letters with the words thing while retaining capitalization and punctuation
+
+file,strip,lower,total,number,unique,instance,text,frequency
+i am attempting to read a text file strip the punctuation make everything lower case then print the total number of words the total number of unique words meaning that a for instance if it is in the text 20 times will only be counted once then print the most frequently occuring words along with their frequency a 20
+
+redundancy,characters,common,certain,likely,grammar,structure
+for example english text has a particular kind of redundancy with some characters repeated more than others words that are repeated and more common than others certain words that are more likely to follow certain other words grammar punctuation structure etc
+
+last,part,delimiter,spaces,etc.
+the pattern in scanner is supposed to be a regular expression that describes all the characters you don t want included in a token repeated one or more times this last part is because the words may be delimiter by more than one spaces punctuation etc.
+
+file,lower,upper,white,spaces
+tonight i m attempting to parse words from a file and i d like to remove all punctuation while preserving lower and upper case words as well as white spaces
+
+arbitary,limit,abbreviations,characters
+i put an arbitary limit of 10 because i don t know of any words or abbreviations that contain punctuation and are more than a few characters
+
+various,symbols,means,space,liking,bold-ing
+allow various punctuation symbols between words change the + to something like means space - are allowed between words -- add more to your liking but don t put . in to prevent the bold-ing from going over full stops
+
+simple,decomposition,white-space,prosaic,solution
+given the relatively simple decomposition words separated by white-space or punctuation i think a more prosaic solution may be necessary
+
+white,space,meaning,cities,names,longer,work
+now i have it so that the line is split into an array of strings using the .split method however it splits on white space and punctuation meaning that cities with names longer than one words won t work
+
+data,strip,advanced,isolation,break
+depending on how you want to treat the data you might also want to strip punctuation or go for more advanced words isolation with a break iterator - see the java.text package or the icu project
+

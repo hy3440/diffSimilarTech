@@ -1,0 +1,10 @@
+average, slower, queries, ---------------------------------------------------
+
+queries,slower
+the ipb which has less queries runs slower than mybb with more queries
+
+queries,average,slower
+the ipb one has less queries used only 14 on average but it runs slower than mybb with more queries used average on 20
+
+others---------------------------------------------------
+

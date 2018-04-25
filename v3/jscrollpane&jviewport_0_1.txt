@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+bigger,knobs,scroll
+even when it s bigger than my jscrollpane s jviewport the knobs will not appear on the scroll bars and i cannot scroll down on the canvas
+

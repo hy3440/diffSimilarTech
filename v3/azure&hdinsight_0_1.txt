@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+batch,.net,cheaper,custom,activity,cluster
+running with azure batch is also an option as the .net will work well and azure batch is cheaper if the custom activity is the only reason for having a hdinsight cluster
+

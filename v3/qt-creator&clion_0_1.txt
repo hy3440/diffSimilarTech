@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+alternative,jetbrains,closed-source,nicer,features,resource-heavy
+another alternative that people might mention is clion which is from jetbrains but its closed-source not well supported and whilst it might look nicer than qt-creator it has more or less the same features but is much more resource-heavy and laggy so i d pass on that
+

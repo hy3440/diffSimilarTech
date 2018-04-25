@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+java-8,flexible,memory
+in java-8 permgen was replaced with metaspace which is more flexible in terms of memory usage so you rarely need to tune its size explicitly
+

@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+better,close,compiler,class,normal
+you d be better off with memcpy which is probably close to what your compiler gives you for free if you just write the class the normal naive way with no std array and no pointer gymnastics
+
+overflow,malloc,pair,internal,hidden
+in the case of overflow a free malloc pair costs less than realloc because of its internal hidden memcpy
+

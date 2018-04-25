@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+ppm,files,simpler,portable
+i used ppm pgm files as they are simpler to write and more portable than bmp
+

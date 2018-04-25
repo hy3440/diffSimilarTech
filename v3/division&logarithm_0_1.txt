@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+performance,slower,small
+the reason to go with logarithm instead of repeated division is performance while log is slower than division it is slower by a small fixed multiple
+

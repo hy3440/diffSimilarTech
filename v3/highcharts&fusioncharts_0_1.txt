@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+variety,animations,customizable,charts
+customization and variety of animations highcharts has more customizable animations when compared to fusioncharts javascript charts
+

@@ -1,0 +1,17 @@
+others---------------------------------------------------
+
+animation,correct,support,animated,transitions
+finally i haven t done much with animation but i think you re entirely correct - d3.js provides more animation support than protovis especially in terms of animated transitions
+
+result,little,lower-level,syntax,things
+the result is that using d3.js can feel a little lower-level - you have more control but you have to be pretty familiar with svg syntax to do some of the things protovis does much more easily
+
+new,development,newer
+i m new to protovis although it is no longer under development and d3.js is the newer software
+
+team,better
+the team behind protovis has since created d3.js so this is likely a better option than protovis
+
+semantic,notice,faster
+for semantic zooming you ll notice that d3.js is significantly faster than protovis
+

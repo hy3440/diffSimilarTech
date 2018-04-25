@@ -1,0 +1,19 @@
+image, map, vector, ---------------------------------------------------
+
+jpeg,png,standard,vector
+gif jpeg png bmp are more standard than any vector format where usually adobe has the market
+
+jpeg,png,webp,svg,map
+jpg jpeg bmp png webp gif svg js map ico css less scss
+
+png,image,types,function
+i haven t worked with any more than jpg png and gif so there might be some more image types out there that can fit into this function bmp
+
+others---------------------------------------------------
+
+transparent,simple,jpeg,bitmap,tricks,ico,easier
+there are a couple of options where you can set one color as transparent then load a simple bmp jpeg and do some bitmap tricks however using ico gif will be far easier for this
+
+place,larger,file
+you could also use bmp in place of gif and get a larger file size
+

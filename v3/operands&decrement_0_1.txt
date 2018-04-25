@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+numerator,greater,denominator,undersampling,small
+i need to group the primes number partially to perform changes to frequency reducing the stages assuring the increment or numerator is greater than decrement or denominator to avoid the undersampling problem preferred small operands
+

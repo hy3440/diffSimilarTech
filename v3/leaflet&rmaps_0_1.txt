@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+original,ramnath,rcharts,better,shiny
+possibly part of the reason of my problems is that the original code from ramnath uses rmaps while i m using rcharts also developed by ramnath as it is more developed better integrated with shiny and of course includes leaflet
+

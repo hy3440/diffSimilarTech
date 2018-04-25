@@ -1,0 +1,11 @@
+others---------------------------------------------------
+
+ones,master,interactive,rebase
+i see ones i merge master to feature branch i can not squash he commits any more using interactive rebase
+
+visible,local,head,reference,commit,merge,git,earlier,detailed
+if you really need to be the only one to whom your work-in-progress history is visible you could create a local branch pointed at the head of your local work-in-progress to preserve a named reference to the commit and then perform a squash merge git merge --squash which will still create a merge commit but will collapse your work-in-progress commits down to a single commit the local branch you created earlier will still point to the true detailed history however
+
+issue,simpler,git
+if you will have only yours commits on your branch issue is much simpler you can do squash those git squash
+

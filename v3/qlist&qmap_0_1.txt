@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+qt,containers,larger
+this relates to another question i asked a while back at size of qt containers is qmap much larger than qlist
+

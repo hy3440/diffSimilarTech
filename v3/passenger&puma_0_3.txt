@@ -1,0 +1,11 @@
+others---------------------------------------------------
+
+phusion,enterprise,features,rainbows,band
+phusion passenger 4 enterprise bring many advantages over has more features than puma and rainbows for example it has out of band garbage collection can dynamically adjust the number of processes based on traffic completely automates rolling restarts so you don t need scripting etc
+
+unicorn,nginx,easier,setup
+sergio suggested nginx + unicorn or nginx + puma but nginx + passenger which replaces unicorn puma is much easier to setup performs great uses less memory works better and has more features
+
+mri,faster,jruby,rack
+same passenger + mri 2.3.0 is 3 times faster than puma + jruby on same rack app
+

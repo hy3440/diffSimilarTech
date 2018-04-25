@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+fgets,faster,multiple,calls,buffer,little
+using fgets and fputs is faster than multiple calls to getc and putc all you need is a buffer a little buffer in this case to store the current line
+

@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+shared,component,styles,parent
+basically i have a shared component that is used across the app and accepts a classname as a prop to get more styles on the parent basic
+

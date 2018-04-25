@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+transition,initial,event,first,obvious,device
+however the transition from the initial touchesbegan event to the first touchesmoved is less obvious sometimes the device waits a while
+
+duration,greater,player,actions,different,x-position
+for some reason when the duration of touchesbegan is greater than the duration of touchesmoved my player will complete the touchesmoved actions first even though touchesbegan had to come first and then jump to a different x-position and then move with duration 4 to complete the touchesbegan
+

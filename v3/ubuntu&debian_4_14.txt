@@ -1,0 +1,46 @@
+better, stable, team, ---------------------------------------------------
+
+stable,server,rare
+as for debian being more stable than ubuntu for using as server it can be true in very rare occasions where the package is very obscure
+
+team,experience,better,server
+but if your team has ubuntu experience maybe debian would be better choice for server infrastructure if you do not need the bleeding edge set of applications
+
+others---------------------------------------------------
+
+packages,user,friendly
+both use debian packages and ubuntu is based on debian but is more user friendly
+
+kernels,harder,tools
+recompiling ubuntu kernels is harder -- it will require working with debian build tools
+
+official,package
+i have installed these two tools with the official package of ubuntu and also with the package of debian that seems more updated
+
+newer,squeeze
+since ubuntu 10.10 is newer than debian squeeze if you can do it on squeeze you can certainly do it on ubuntu
+
+conservative,closer,bleeding
+ubuntu is far less conservative than debian so you will get closer to the bleeding edge
+
+smaller,wheezy
+i believe ubuntu is smaller debian wheezy smaller still or even alpine for tiny start point
+
+main,advantage,image,smaller,mb
+the main advantage of the debian image is the smaller size â it clocks in at around 85.1 mb compared to around 200 mb for ubuntu
+
+newer,version,libstdc++,available
+this is because ubuntu 15.10 uses a newer version of libc and libstdc++ which is not available on debian 8
+
+wheezy,recent
+i m in debian wheezy which is much more recent than ubuntu 10.04
+
+distro
+on my debian should be more or less the same on any debian based distro like ubuntu
+
+nicer,frontend,windows,emigrants,backend,guys
+ubuntu has nicer frontend and could be more suitable for windows emigrants while debian is more for backend guys
+
+scripting,resources
+ubuntu heavily relies on python scripting and generally consumes more resources than debian
+

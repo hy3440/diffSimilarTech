@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+information,different,possible,error,errors,unexpected
+nserror is generally used to pass information between different code interfaces that are expecting a possible error where as nsexception is more so for errors that are unexpected or caused by the developer and thus should be handled during development
+
+best,practices,robust,caller
+aside from obejctive-c convention and best practices nserror is much more robust and flexibly than nsexception and allows the caller to effectively ignore the problem if they want to
+

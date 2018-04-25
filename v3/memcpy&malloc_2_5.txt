@@ -1,0 +1,19 @@
+loop-and-copy, better, copying, ---------------------------------------------------
+
+new,pointer,operation,loop-and-copy,better
+the function then allocates space to a new pointer with malloc and does a memcpy operation or loop-and-copy although memcpy is probably better
+
+copying,slower,realloc,new,memory
+as we can see copying manually with memcpy is always slower than realloc because in this scenario malloc is guaranteed to allocate new memory and you re forced to copy the data in every allocation which shows us that realloc is indeed reusing the same address and enlarging the block size in some cases
+
+others---------------------------------------------------
+
+assignment,operator,call
+this allows you to use the assignment operator instead of memcpy and requires 1 less call to malloc - the one you make
+
+afaik,slower
+afaik malloc is not slower than memcpy
+
+overflow,free,pair,costs,internal,hidden
+in the case of overflow a free malloc pair costs less than realloc because of its internal hidden memcpy
+

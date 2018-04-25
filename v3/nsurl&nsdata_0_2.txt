@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+path,new,image,bytes,greater
+so if i modify the nsurl path with a new image because nsdata bytes is already greater than 0 i don t make the additional call to fetch the new image
+
+sound,file,faster
+1 it seems loading the sound file through nsdata rather than nsurl works faster later in playing
+

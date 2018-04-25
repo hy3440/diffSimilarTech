@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+ferror,data
+you should call feof or ferror to determine why fgetc is returning no more data
+
+stream,eof,return,value,nicer
+you could instead check say with if feof stream to see if you are at eof but i think just checking the return value of fgetc is nicer
+

@@ -1,0 +1,10 @@
+performance, work, extra, ---------------------------------------------------
+
+performance,faster,optimizations
+plus the performance was much faster than on qwidget because of qgraphicsview optimizations
+
+painting,faster,extra,work
+i ve read that painting to a qwidget is sometimes faster than qgraphicsview but it would by a lot of extra work for the mouse handling i think
+
+others---------------------------------------------------
+

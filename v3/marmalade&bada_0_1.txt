@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+cocos2d-x,cocos2d,game,symbian,webos,rim,qnx,check
+cocos2d-x already works with marmalade so if you want to take your cocos2d game to ios android symbian webos bada rim qnx and more check out marmalade
+

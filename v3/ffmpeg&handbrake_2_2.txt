@@ -1,0 +1,10 @@
+encoder, simpler, libav, ---------------------------------------------------
+
+simpler,encoder
+you may also use handbrake which is a simpler encoder than ffmpeg
+
+libav,better
+occasionally ffmpeg or libav might be better suited but for most cases go with handbrake
+
+others---------------------------------------------------
+

@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+easy,easier,god,forbid,straightforward,bits
+it s easy much easier than installing freebsd or god forbid opensolaris pretty straightforward and the perl and python will be 64 bits out of the box and part of default installation
+

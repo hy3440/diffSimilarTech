@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+insights,extra,4g,wikipedia,powervr,sgx
+i will be happy to hear more insights regarding what causes the extra time to elapse - 10msec sounds as eternity for a modern cpu - though i am not familiar with the specs of the ipod cpu it s ipod 4g and wikipedia says the cup is powervr sgx gpu 535 200 mhz
+

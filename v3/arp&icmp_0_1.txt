@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+addition,slower,mean,deprioritized---it,bandwidth
+in addition seeing arp being slower than icmp doesn t necessarily mean icmp isn t deprioritized---it might mean bandwidth is insufficient to hit the limiting threshold
+

@@ -1,0 +1,43 @@
+penultimate, konqueror, version, ---------------------------------------------------
+
+ie11,esr,ios,konqueror,versions
+the downside is that you cannot use it for browsers older than ie11 firefox 31 esr safari 7.1 ios 7 konqueror all versions and opera all versions
+
+previous,versions,penultimate,version,ios
+for comparison 0.68 usage means this outdated google-chrome release is more popular than the current and previous versions of opera the penultimate version of safari on ios and ie 9 or 10
+
+others---------------------------------------------------
+
+older,safe,insertadjacenthtml
+well unless you re targeting older than google-chrome 1.0 firefox 8.0 ie 4.0 opera 7.0 or safari 4.0 it s safe to use insertadjacenthtml
+
+browsers,newer,versions
+all my other browsers safari google-chrome and opera have newer javascript versions
+
+effect,hover,smaller,ends
+works in google-chrome firefox a bit weirdish blur effect on hover opera ends look smaller safari ends look smaller
+
+fine,assitional,css,settings,ribbon,div,higher
+now this works fine in google-chrome and safari and i have had to use assitional css settings for firefox but ie and opera both display my ribbon div about 25px higher than in google-chrome or safari
+
+windows,version,fine,little,slower
+incidentally the scrolling on the windows version of safari is fine albeit a little slower than ie opera and firefox
+
+market,html5
+firefox safari google-chrome and opera make up more than 30 of the market and they support many html5 standards
+
+specific,browser,webkit,devs,knowledgeable
+usually you want to avoid solutions from browser-vendor as they ll cater toward that specific browser but opera webkit google-chrome safari firefox devs are usually more knowledgeable in terms of cross-browser solutions and compliance with the standards than m ones
+
+several,pixels,higher,lower
+in safari it is several pixels higher up than in firefox and google-chrome and significantly lower in opera
+
+webkit-based,browsers,closer
+all the webkit-based browsers safari google-chrome and opera should be closer in their rendering to each other than firefox or ie 9 separately
+
+property,element,webkit,things,center,standards,compliant
+the center align property must be cascading from some other element because it s not only safari google-chrome which also uses webkit but also opera that shows the things center aligned and both safari google-chrome and opera are more standards compliant than ie and even firefox
+
+coverage,market,half,huge,strong
+in any case vorbis clearly has the most coverage google-chrome has more of the market than safari now opera is about half of safari and obviously firefox is huge and it doesn t really have the strong opposition that theora has
+

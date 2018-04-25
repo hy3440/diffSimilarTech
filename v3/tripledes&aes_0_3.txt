@@ -1,0 +1,11 @@
+others---------------------------------------------------
+
+older,weaker
+but tripledes is older and weaker than aes
+
+better,security
+tripledes is generally not recommended because aes gives better security more efficiently you might like to see some comparative timings of block ciphers that i took in java to see just how bad it is
+
+lighter,secure,algorithm
+i personally would use aes for my encryption as it is lighter and more secure than tripledes in fact i think it is the de facto algorithm at the moment
+

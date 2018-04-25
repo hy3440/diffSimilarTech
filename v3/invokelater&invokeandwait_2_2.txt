@@ -1,0 +1,10 @@
+components, bet, thread, ---------------------------------------------------
+
+thread,greenfoot,better,bet
+you can use eventqueue.invokelater to switch to the swing thread and back greenfoot isn t designed to support this but it should work anyway -- invokelater is a better bet than invokeandwait
+
+futuretask,executor,necessary,components,better
+you can simply create a new thread runnable or futuretask to run on an executor and call invokeandwait only when necessary to update components but if you can get away with it invokelater is better
+
+others---------------------------------------------------
+

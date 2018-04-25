@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+membership,concrete,good,useful,lies
+the fact that checking with isinstance the membership in a concrete type is not so good while checking the membership in an abc is more often useful lies in a principle that the gang of 4 expressed clearly and intensely in the first part of their wonderful book design patterns in a mostly c++ context but it really applies much more widely than that
+

@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+best,tool,text,free,powerful,skills
+textedit is not the best tool to search and replace styled text for example the free textwrangler has more powerful skills to do that
+

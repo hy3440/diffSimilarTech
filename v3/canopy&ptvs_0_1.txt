@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+release,couple,complete,integration,visual,studio,need,default,environment
+the upcoming canopy 1.2 release in a couple of weeks will include more complete integration with ptvs and visual studio that will automate this and remove the need for canopy to be the default python environment
+

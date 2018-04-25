@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+package,bootstrapper,issue
+so my question is is there a way to make burn install more than one package as a prerequisites for the managed bootstrapper or is there any other way to solve this issue
+

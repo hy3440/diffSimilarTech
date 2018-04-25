@@ -1,0 +1,11 @@
+others---------------------------------------------------
+
+coregraphics,implementation,sense,png,files,objects,corners
+i think that either a coregraphics implementation or this cashapelayer implementation make more sense than png files or uiview objects with rounded corners
+
+drawrect,inefficiencies,mask,interesting,color
+by doing this not only do i avoid drawrect inefficiencies but one could theoretically also change how you use this cashapelayer use it as a mask for some uiview revealing some more interesting color gradation or other image behind it
+
+path,custom,w,drawrect,easier,curvature,control
+you can use a bezier path either in a custom uiview w drawrect or easier with a cashapelayer whose curvature can be controlled via its control points
+

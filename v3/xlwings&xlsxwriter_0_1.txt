@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+faster,functionality,border
+i know that xlsxwriter is way faster than xlwings and have functionality to add border but it is just a writer it can t update already existing spreadsheet
+

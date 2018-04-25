@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+network,square,faster,better
+if you re using retrofit and okhttp to perform the network calls i suggest you use moshi as it s also from square and claimed to work faster and better than gson
+

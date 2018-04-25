@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+stable,results,drastic
+the libsvm results seems much more stable but scikit-learn results have some drastic fluctuation
+
+liblinear,scalable,memory,efficients,linear,models
+you can also try sklearn.linear_model.logisticregression and sklearn.svm.linearsvc both implemented using liblinear that is more scalable than libsvm albeit less memory efficients than other linear models in scikit-learn
+

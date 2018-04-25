@@ -1,0 +1,17 @@
+others---------------------------------------------------
+
+execution,time,higher
+the issue is that the execution time of a benchmarking is much higher about 3 times in case i do not invoke the profiling along with it than the case when the benchmarking is executing with the profiling
+
+svick,better,program,hot,spots,concrete
+as svick said it s no better way than profiling your program identifying hot spots and optimizing them using concrete benchmarking
+
+appropriate,tricky
+using a profiling is often more appropriate than benchmarking but it seems to be even more tricky
+
+system,minitest,performance
+minitest has much more than most people know for example minitest spec has bdd matchers akin to rspec minitest mock is a mocking system and minitest benchmarking is for performance profiling
+
+query,need
+to get a more reliable timing of the query you d need to use profiling or some other way of benchmarking that works more directly with the query
+

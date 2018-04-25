@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+nicer
+i hear oursql is nicer the mysql-python
+
+.executemany,proficient,sql,statement
+at least for .executemany oursql seems to be more proficient than mysql-python as the sql statement is only prepared once for all submitted values
+

@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+sapi,simple,better,wheel,implementation,great,category,able
+microsoft has the microsoft speech api sapi however if you want simple ivr it is better not to reinvent the wheel and customize an asterisk implementation which i guess falls under the great ivr library for c++ category it s c not c++ but if you know c++ you should be able to understand the c . using asterisknow you may not even need to write any custom code it may do what you want already
+

@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+note,cmath,program,ambiguous,call,better,condition
+note if we replace math.h by cmath the program does not compile with a warning of ambiguous call to pow seems a better condition
+

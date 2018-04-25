@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+community,smaller,project,active
+the community is smaller than grails but the project is supported by springsource who is quite active in the community
+

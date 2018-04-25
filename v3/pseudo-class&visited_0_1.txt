@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+active,hover,link,|
+active pseudo-class should go after hover otherwise the hover overwrites the order for the link-relates pseudo-clasess is link | visited | hover | active .
+

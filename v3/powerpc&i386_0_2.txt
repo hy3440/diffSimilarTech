@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+cxxflags,-arch,wrapper,universal
+to facilitate building of universal binaries we ve modified the cflags and cxxflags to include -arch i386 -arch powerpc when compiling wrapper code ogre3d itself already seems to be an universal binary
+
+dyld,stub,faster,equivalent,extra
+on i386 the dyld stub is much faster than the powerpc equivalent so we didnâ t bother doing extra work to bypass it
+

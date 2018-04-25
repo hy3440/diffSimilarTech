@@ -1,0 +1,66 @@
+khmarbaise, plugin, setup, ---------------------------------------------------
+
+khmarbaise,versions-maven-plugin,release,plugin,versions,script,file,jenkins
+i agree with khmarbaise above the versions-maven-plugin will do just this or you could move to the maven release plugin if you want a much heftier approach to managing your versions but you could also just run a script to sed the pom.xml file using jenkins build_number environment variable which is a quicker and dirtier approach
+
+thn,setup,plugin,connectors,dialog,file,errors
+but thn i get presented with a setup maven plugin connectors dialog and the pom.xml file shows more errors
+
+downloads, comfortable, dependency, ---------------------------------------------------
+
+thing,file,downloads,dependency
+one more thing as in maven we can update or if we save the pom.xml file maven downloads all those dependency automatically
+
+comfortable,dependency,file
+for those who are more comfortable with maven you could add this dependency to your pom.xml file
+
+others---------------------------------------------------
+
+local,repo,target,project,newer,snapshot
+so i looked in the local maven repo and realized i had not updated by target project pom.xml to use the newer snapshot version of the connector project
+
+curve,easier,build.xml
+sure there is a learning curve with maven but reading a pom.xml is far easier than reading a build.xml
+
+builds,basic,filds,simple
+it will depend on the complexity of your builds if you have basic java builds then maven might be more suited as the pom.xml files maven build filds are pretty simple but if you need to do a lot of custom specific stuff you may well end up having ant scripts to perform also if you already have one system in place there isnt necessarily a huge advantage of swapping
+
+project,file,standard,directory
+keep in mind that a maven project is more than just the pom.xml file it also conforms to the maven standard directory layout and more but that should get you started
+
+plugin,higher
+i add the plugin to my pom.xml like so you will need to upgrade maven to v3.1 or higher to use the plugin
+
+single,module,artifact,bad,idea,type
+since having a single maven module produce more than one artifact is generally a bad idea it would be best if you isolate this in a maven module of type pom.xml so that this would be its only artifact
+
+config,parent,super,higher,hierarchy
+assume this plugin config is in a parent pom.xml only maven super pom.xml is higher up in the hierarchy
+
+set,projects,parsing,files,extensions
+once the set of projects has been validated maven now does some more parsing of those pom.xml files to construct the list of build extensions if any and the list of plugins
+
+deeper,normal
+when maven is going deeper it falls back to normal pom.xml
+
+fundamental,problems,namespaces,unit,relation,actual
+that doesn t cover some of the more fundamental problems with maven such as its namespaces breaking java namespaces and xml namespaces it s build unit the pom.xml having no relation to anything in the actual deployment environment think about it when you separate via poms what are you actually accomplishing in the finished product
+
+downsides-,ant,actual,difficult,flexibility,possible
+it has some downsides- namely working with both ant and maven so the actual pom.xml is more difficult to comprehend but it does allow for more flexibility than is otherwise possible with maven
+
+projects,configurations,possible
+also find projects that are utilizing maven and look into their pom.xml configurations learn more about what is possible with maven
+
+classifier,construct,artefacts,content,jdk1.6
+maven uses the classifier construct for artefacts build from the same pom.xml but differing in there content for example one for jdk1.6 or jdk1.7
+
+general,reuse,properties
+this is a more general problem with maven 2 it doesn t allow any pom.xml code reuse expect properties and custom plugins
+
+work,official,wizard,full,configuration,eclipse
+converting to maven requires more work -- afaik there is no official tool or wizard that allows you to generate a full pom.xml configuration from an existing eclipse project
+
+clean,magnicompcommon,model,easier,root
+you would be able to circumvent this by first running mvn clean install on magnicompcommon s pom.xml then on model pom.xml but this is much easier done by invoking maven directly on the root pom.xml
+

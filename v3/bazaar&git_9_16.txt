@@ -1,0 +1,54 @@
+stuff, perforce, balling, ---------------------------------------------------
+
+balling,numbers,2-4x,slower,mercurial,use
+an incredibly rough eye balling of the numbers they posted showed bazaar to be 2-4x slower than either git or mercurial in the use cases tested
+
+look,better,site,superiority,mercurial,subversion,perforce
+you may also want to take a look at why git is better than x a site that attempts to convince you of the superiority of git over mercurial bazaar subversion and perforce
+
+articles,slower,mercurial
+a lot of articles about bazaar will tell you it is a lot slower than git or mercurial
+
+mercurial,faster,slower,smaller,difference
+mercurial is significantly faster than bazaar it s slower than git though by a much smaller difference
+
+subversion,mercurial,better,choices
+subversion git mercurial or bazaar would be better choices
+
+stuff,slower
+i hear all this stuff about bazaar being slower than git
+
+control, systems, hg, ---------------------------------------------------
+
+control,systems,hg,easier,possible
+some version control systems bazaar hg git make this easier than others but it s possible on most
+
+type,flexibility,popular,faster
+this type of flexibility is what draws me to bazaar despite the fact that git is wildly more popular and faster
+
+control,systems,mercurial,better,type
+but distributed version control systems like git mercurial and bazaar are much better suited for your type of environment than subversion
+
+others---------------------------------------------------
+
+easier,api,unix
+bazaar is easier to extend in an api way git is easier to extend in a unix way pipes
+
+note,hg,powerful,stuff
+note most recently i have been using bazaar and hg with fully powerful regexps so may be looking for stuff more powerful than git provides
+
+fine,needs,better,usability,user,friendly,explorer,practical,experience,best,similar
+it works fine and fits all my needs but recently i found that git works better than bazaar so i decided to use it but i face a problem with git usability because most git s gui not user friendly as bazaar explorer so i want your advice based on a practical experience which best git s gui user friendly or which one is most similar to bazaar explorer
+
+index,staging,area,better,ui
+in git you can do the same with playing around in the index staging area but bazaar has a better ui for it
+
+easier
+bazaar is imho easier to learn than git
+
+version,tool,imo,simpler
+bazaar is a distributed version tool just like git but is imo simpler to setup and use
+
+discoverable,tool,user,able
+bazaar is more discoverable if you are given the tool wo any documentation any semi-competent user will be able to use bazaar that s not so true with git
+

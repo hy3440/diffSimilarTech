@@ -1,0 +1,20 @@
+others---------------------------------------------------
+
+neo4j,faster,effect,queries,issue,implementation
+neo4j and cypher is still faster and obviously this has no effect on the gremlin queries on neo4j but that might be just a issue with the gremlin implementation for neo4j
+
+approach,best,better,traversal,order
+in this case a traversal-oriented approach is best maybe gremlin is better since cypher doesn t allow you to specify traversal order
+
+union,possible,powerful
+but i read in this post that group by on union are not possible yet it mean that cypher is less powerful than gremlin
+
+tad,bit,pattern,matching,natural,lmk
+translating this to gremlin is a tad bit tedious pattern matching in cypher is more natural but lmk if this is in the right direction and i ll do it
+
+clear,guys,neo4j
+cypher seems much more clear to me than gremlin and in general it seems that the guys in neo4j are going with cypher
+
+queries,faster
+recently we noticed that cypher queries run faster than gremlin so we decided to convert our queries
+

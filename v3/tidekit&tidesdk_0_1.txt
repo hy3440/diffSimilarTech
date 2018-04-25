@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+post,comparison,better
+here is the blog post about the comparison how tidekit would be better than tidesdk
+

@@ -1,0 +1,11 @@
+others---------------------------------------------------
+
+testing,possible,better,framework
+performing this asynchronous testing is actually possible in qunit but is handled better in another javascript testing framework jasmine js
+
+great,suggestion,better,new
+aviran made a great suggestion with qunit but i think jasmine is better suited for new developers because of its readability and bdd -ness
+
+bdd,tests,behavior-oriented
+jasmine is clearly more bdd focused than qunit although i could see doing bdd with qunit by describing the tests in a behavior-oriented way
+

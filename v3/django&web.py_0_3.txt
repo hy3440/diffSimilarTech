@@ -1,0 +1,11 @@
+others---------------------------------------------------
+
+low-level
+web.py is more low-level comparing with django
+
+sever-side,programming.some,suitable,beginners
+i m new to sever-side programming.some people told me that web.py is more suitable for beginners like me than django
+
+templating,easier
+web.py has a templating language of it s own it looks easier than django s
+

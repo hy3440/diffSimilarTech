@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+nicer,templating,tool,cross
+qweb is nicer templating tool and it was created by odoo and its designed to work cross language originally which can be forked from git - qweb
+

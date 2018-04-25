@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+transactional,access,session
+you ll have to use jta if you need transactional access to more than one jms session
+

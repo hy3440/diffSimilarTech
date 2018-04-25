@@ -1,0 +1,136 @@
+faster, better, syntax, ---------------------------------------------------
+
+suitable,html,parsing
+beautifulsoup is more suitable for html parsing than lxml
+
+syntax,faster,parsing,work
+it provides similar css selector syntax as jquery does and it s much faster than beautifulsoup because it relies on lxml to do the parsing work
+
+better
+i ve been trying to do this with beautifulsoup though it looks like lxml might work better
+
+things,better,support,proper
+one of the things that makes lxml better than beautifulsoup is support for proper css-like class selection or even supports full css selectors if you want to use them
+
+faster,efficient
+lxml is supposed to be much faster and efficient and can do much more than beautifulsoup
+
+syntax,natural,better,unknown
+i prefer the beautifulsoup syntax as i find it more natural but i find that lxml is better when i m trying to parse unknown quantities on the fly based on variables-- generating xpath strings that include variable values which i will then use to extract specific elements from varying pages
+
+fast,faster
+speed isn t important here but in other applications it is good to know that regexes are very fast 100 times faster than lxml and 1000 faster than beautifulsoup
+
+better
+i prefer to use beautifulsoup better than lxml
+
+faster,better,functionality
+lxml is faster than beautifulsoup i think and has much better functionality while remaining relatively easy to use
+
+faster,fastest,parser
+lxml is much faster than beautifulsoup and probably the fastest parser available for python
+
+note,parser,slower,default
+note that using the beautifulsoup parser is a lot slower than lxml s default parser
+
+faster,ref
+it s generally accepted that lxml is faster than beautifulsoup ref
+
+faster,documents,size
+i ve found that even if lxml is faster than beautifulsoup for documents that size it s usually best to try to reduce the size to a few kb via regex or direct stripping and load that into bs as you are doing now
+
+faster
+lxml is also much much faster than beautifulsoup
+
+website,fastest,slower,accounts
+from reading this website it seems lxml is the most commonly used and fastest while beautifulsoup is slower but accounts for more errors and variation
+
+posts,experience,faster
+according to the above posts and my own experience lxml is definitely faster than beautifulsoup
+
+order,preserved.with,simple,faster
+how can i find all div and span tags with order preserved.with beautifulsoup it is very simple but i switched recently to lxml since it is much faster than beautifulsoup
+
+harder,faster
+i prefere lxml it s a harder to understand but much faster than beautifulsoup
+
+module,faster
+alternatively you can use lxml module which is lot faster than beautifulsoup
+
+direct,manner,faster
+since you re using lxml why not use it in a more direct manner lxml is believed to be faster than beautifulsoup
+
+faster
+it uses lxml underneath and is much faster than beautifulsoup
+
+faster,uses,easy,typical
+you ll probably find that lxml runs faster than beautifulsoup but in my uses beautifulsoup was very easy to learn and use and handled typical crappy html as found in the wild well enough that i don t have need for anything else
+
+benchmark,tests,faster
+according to some benchmark tests lxml is nearly 100 times faster than beautifulsoup
+
+pyquery,faster
+pyquery is based on lxml so it s also much faster than beautifulsoup
+
+html,work,faster
+edit don t use this for html work use the lxml library it s python based and much faster than beautifulsoup
+
+robust, powerful, experienced, ---------------------------------------------------
+
+powerful,robust,experienced,opinion
+lxml is significantly more powerful and robust than beautifulsoup in my experienced opinion
+
+efficient,consistent,robust
+i found lxml to be more efficient consistent to use and even robust than beautifulsoup
+
+broken, task, html, ---------------------------------------------------
+
+task,html,files,better
+the reason for using lxml for such a task is that it cleans html files better than beautifulsoup do
+
+html,simple,faster,orders,magnitude
+i would recommend lxml for html parsing it s simple and considerably faster than beautifulsoup can be as much as two orders of magnitude
+
+note,better,kind,task,author
+note that lxml is probably a better option than beautifulsoup for this kind of task nowadays for the reasons given by beautifulsoup s author
+
+faster,broken,html,better,claim,fame,vocal
+it s much much faster than beautifulsoup and it even handles broken html better than beautifulsoup their claim to fame - lxml just isn t as vocal about it
+
+package,broken,html,faster,high
+beautifulsoup is a python package that parses broken html while lxml does so faster but with high quality html xml
+
+easier, xpath, end, ---------------------------------------------------
+
+solution,beautifulsoup-where-are-you-putting-my-html,easier
+i found a solution to this problem using beautifulsoup at beautifulsoup-where-are-you-putting-my-html because i think it is easier than lxml
+
+easier,end,pleasant
+so if you are just starting out beautifulsoup may be easier to use instantly but in the end i believe lxml is more pleasant to work with
+
+xpath,painful,interface
+lxml will let you use xpath here which i think will be less painful than beautifulsoup s interface
+
+bare,easier
+i think beautifulsoup or even bare lxml would be easier
+
+xpath,easier
+lxml enables you to search for elements using xpath which i think is easier than using beautifulsoup s api
+
+others---------------------------------------------------
+
+starters,longer,author,alternatives
+for starters beautifulsoup is no longer actively maintained and the author even recommends alternatives such as lxml
+
+house,project,control,html
+we used beautifulsoup in house for a project and found going to lxml gave us more control over the html parsing we were doing as well as less odd issues
+
+features
+lxml also has more features and offers beautifulsoup too
+
+stricter
+i do understand that traditionally they are saying that lxml are stricter than beautifulsoup however what i do not get is the following
+
+ian,bicking,better,soups,reference
+ian bicking once wrote that surprisingly lxml could be better at parsing soups than beautifulsoup just mentioning for reference haven t tried that personally
+

@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+qevents,faster,signal-slot,marshalling,construction
+posting qevents to qobject is faster than using signal-slot invocations because there are no copy constructors called and there s no marshalling done except directly by you upon construction of a qevent
+

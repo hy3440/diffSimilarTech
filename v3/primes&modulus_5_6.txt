@@ -1,0 +1,24 @@
+factors, rsa, different, ---------------------------------------------------
+
+powers,different,p,smallest,larger
+hypothesis the first n powers of two each have a different modulus when divided by p where p is the smallest primes that is larger than n
+
+possible,rsa,factors,p
+it is perfectly possible to use rsa with a modulus n that is composed of more than two primes factors p and q but two things have to be noted
+
+better, convincing, collision, ---------------------------------------------------
+
+better,large,collision
+it would be better to use a large primes as the modulus and get much better collision resistance
+
+convincing,argument,better,bit-swapping
+someone else in this thread makes a somewhat convincing argument that modulus a primes is better for detecting bit-swapping
+
+others---------------------------------------------------
+
+strong,factorisation,newer
+however strong primes do not protect against modulus factorisation using newer algorithms such as lenstra elliptic curve factorization and number field sieve algorithm
+
+values,greater,value,rsa
+some of the random values that you are encrypting are greater than the modulus of the key the modulus is the value of the 2 primes in the rsa key multiplied together which means values wrap-around if you set you will see that input and output always match
+

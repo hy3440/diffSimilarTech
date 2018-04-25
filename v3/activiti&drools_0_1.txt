@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+process,simpler,jbpm
+i have implemented it using process library and my own java code however i m wondering can it be done in simpler way with activiti jbpm and drools
+

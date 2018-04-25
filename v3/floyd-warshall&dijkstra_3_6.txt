@@ -1,0 +1,22 @@
+better, complexity, v, ---------------------------------------------------
+
+algorithm,worst,performance,|v|3,worse
+the floyd-warshall algorithm has a worst case performance of o |v|3 where as dijkstra s has a worse case performance of o |e| + |v|log |v|
+
+algorithm,worst,performance,|v|,worse
+the floyd-warshall algorithm has a worst case performance of o |v| 3 where as dijkstra s has a worse case performance of o |e| + |v|log |v|
+
+algorithm,better,complexity,higher,time
+indeed floyd-warshall s algorithm is better than dijkstra s in this case the complexity for dijkstra is o m n 2 and in this problem m is much much higher than n so the o n 3 time complexity of floyd-warshall is better
+
+others---------------------------------------------------
+
+short,answer,best,bet,shortest,paths,algorithm,better
+short answer dijkstra s is your best bet if you want just a few shortest paths and the floyd-warshall algorithm is better if you want to find the shortest paths between every pair of nodes
+
+short,answer,efficient,naive,application
+short answer floyd-warshall is more efficient in this case than naive application of dijkstra s
+
+faster,pair,shortest
+no practically floyd-warshall is faster than dijkstra s for all pair shortest path generally
+

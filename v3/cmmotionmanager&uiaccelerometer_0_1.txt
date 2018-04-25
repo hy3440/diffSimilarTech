@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+larger,slower
+basically it seems like cmmotionmanager is much larger and slower than uiaccelerometer is
+

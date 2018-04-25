@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+test,single,faster,œforcedâ,thread,setthreadaffinitymask,getcurrentprocessornumber
+running the test on a single cpu was significantly faster â œforcedâ by setting thread affinity with setthreadaffinitymask and checked with getcurrentprocessornumber
+
+available,cores,mask,task,manager,utilization
+while it would be highly unfeasible to create a test that would exercise every possible code path in tpl you can certainly setup a test that would benefit from many available cores set the affinity mask to 1 cpu and observe through task manager that the affinity never changes and cpu utilization is never more than 1 n where n is the # of cores present
+

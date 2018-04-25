@@ -1,0 +1,13 @@
+jqpl, works, superset, ---------------------------------------------------
+
+superset,works
+because hql is more or less superset of jpql it of course works also in hql
+
+jqpl,superset
+one way to query those is following jqpl hql being more or less superset of jpql
+
+others---------------------------------------------------
+
+difference,stuff,exotic,feature
+there are not much difference apart from hql knowing more stuff than jpql or exotic feature
+

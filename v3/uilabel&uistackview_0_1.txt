@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+dynamic,sense,text,bigger,separators
+in this way your uistackview would be dynamic in the sense that when the text in your uilabel gets bigger the separators on both sides would shrink
+

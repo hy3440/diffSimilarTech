@@ -1,0 +1,16 @@
+implementation, accurate, fast, ---------------------------------------------------
+
+x,faster,accurate
+first of all sqrt x should be faster and more accurate than pow x 0.5 why do you think it s in the library
+
+fast,implementation,faster,x
+my question is is fast implementation of pow x 0.5f faster than fast sqrt x
+
+others---------------------------------------------------
+
+correct,answer,function,time
+using sqrt gives the correct answer plus using pow function takes more time
+
+tom,karzes,better,square,roots
+and as tom karzes mentioned sqrt is also better than using pow for calculating square roots
+

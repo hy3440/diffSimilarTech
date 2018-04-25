@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+slow,likely,slower,local,area
+the reason why the vpn is slow is well because your vpn is likely 50 to 100 times slower than your lan local area network
+

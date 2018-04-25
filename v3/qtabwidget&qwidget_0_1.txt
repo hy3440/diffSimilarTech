@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+toogle,button,wider
+meanwhile in another form i have a toogle button to hide qwidget so my qtabwidget get wider
+

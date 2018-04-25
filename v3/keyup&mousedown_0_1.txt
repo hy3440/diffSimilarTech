@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+mouse,keydown,mouseup,sense
+logic to handle enter + mouse click is placed on keydown and mousedown it could be moved to keyup and mouseup if makes more sense
+

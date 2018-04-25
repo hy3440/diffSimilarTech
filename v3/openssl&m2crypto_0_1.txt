@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+longer,maintained,work,newer
+m2crypto is no longer maintained and doesn t work with openssl 1.0 and newer
+

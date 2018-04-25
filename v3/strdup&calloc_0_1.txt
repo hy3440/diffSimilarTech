@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+better,work,function,malloc,able
+he cried. will save the string on the static storage and you will not be able to do most of the function on them you better work with strdup in your function or malloc and calloc to be able to use all the function
+

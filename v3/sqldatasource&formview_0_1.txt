@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+dev,gridview,problems
+particularly with the dev stack i am using its seems the less controls formview gridview sqldatasource i use he less problems i run into
+

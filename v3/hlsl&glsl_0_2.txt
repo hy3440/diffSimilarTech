@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+systems,higher,cg,states,necessary
+generally speaking passes in higher-level shader material systems yes higher than glsl cg hlsl like this one are a way of setting up states necessary for multi-pass rendering
+
+selection,platforms,better,assembly
+opengl is better for playing around and experimenting because you can easily draw triangle without messing with hardware buffers available on larger selection of platforms plus glsl is better than hlsl because it doesn t compile into assembly
+

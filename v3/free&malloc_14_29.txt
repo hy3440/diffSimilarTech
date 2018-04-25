@@ -1,0 +1,93 @@
+values, dosomething, earlier, ---------------------------------------------------
+
+values,heap,memory,earlier
+now if you free some values on the heap and allocate more with malloc you may be given back some of that dirtied memory that you scribbed on earlier
+
+memory,error,call,dosomething
+allocating more memory with malloc does not prevent the memory error if the free call inside the dosomething method is incommented
+
+notice,program,function,calloc
+secondly i notice that when i run my program i m seeing the free function call more often than the malloc calloc calls 98 to 16
+
+interesting,experiment,memory,pointer
+one interesting experiment you can try is to try and malloc more memory after you free d that pointer
+
+bytes
+malloc finds 10 more free bytes and marks them as used
+
+original,pointer,impossible,memory,longer
+you should know that strdup allocates more memory and returns its pointer which you then overwrite the original pointer returned by malloc so it will be impossible to free that memory since you no longer have the pointers
+
+char,p,bytes,memory
+suppose char p malloc n assigns more than n say n bytes of memory are allocated and free p is used to free the memory allocated to p
+
+memory,earlier,calloc
+how does free know how much memory to be free d which was earlier allocated by malloc or calloc
+
+operations, track, os, ---------------------------------------------------
+
+new,realloc,memory,os
+generally new delete and malloc realloc free arrange for more memory from the os using sbrk or os-specific-equivalent and divide the pages up however they like to satisfy the program s allocation requests
+
+realloc,faster,memcpy
+a realloc can occur significantly faster than a malloc memcpy and free
+
+data,realloc,bigger,new,older,chunk
+you could have some initial guess for maxsize 8 and grow when needed your data perhaps by using realloc or just by malloc -ing a bigger new chunk copying the older chunk inside then free -ing that older chunk
+
+memory,realloc
+in c you would use malloc to get memory realloc to get more memory and free to release memory
+
+faster,2nd,manual,copy
+the justification of realloc is that it s faster than 2nd malloc manual copy free
+
+operations,new,memory,system,track
+you know -- operations such as new or malloc actually consume more memory than they allocate -- the system uses their own tree structures to keep track of where memory is free and where it is not
+
+others---------------------------------------------------
+
+better,guarantees,smaller,allocations,closer,page,calloc,os
+if you want better guarantees about zeroing or to get free zeroing on smaller allocations though it s more wasteful the closer to one page you get you can just explicitly do what malloc calloc do implicitly and use the os provided zero-ed memory replace
+
+structs,track,appropriate,harder
+but as programs grow and structs deepen keeping track of what s been malloc d where and what s appropriate to free gets harder and harder
+
+likely,memory,so-called,bytes,metadata,later
+most likely malloc allocates more memory and puts so-called guard values that happen to contain null bytes or it puts some metadata to be used by free later and this metadata happens to contain a null byte right at that position
+
+actual,usage
+i m not totally sure what you are asking malloc minus free is less than the actual usage because of the memory fragmentation if you really need that number you have to use custom allocators which are tiny wrappers around existing ones everywhere in your code which is going to be painful
+
+convenient,strlen,strcpy,identical,result,obligation,storage,longer
+additionally if you have strdup then it is much more convenient than strlen + malloc + strcpy with identical result including the same obligation to free the allocated storage when you no longer need it
+
+pointers,family,functions
+further you are passing pointers to free which are no more returned by malloc family functions
+
+easier
+malloc is much easier to implement if there is no free
+
+returns,null,special,pointer,better
+passing 0 to malloc either returns null or special pointer which can be used to call free it is better to make it initialize simply with null or better an empty string with a 0 character
+
+different,array,earlier,part,space,standar
+there is no garentee that an access out of bounds of an array will produce a seg fault as it could be part of a different array that was malloc ed earlier or part of free space that the standar library is keeping track of for future allocations and therefore will not segfault
+
+expensive,action,costs
+remember malloc is quite expensive action and free costs even much more than malloc
+
+solution,call,bigger,buffer,later
+here is a solution which encapsulates the call to malloc allocates a bigger buffer for alignment purpose and stores the original allocated address just before the aligned buffer for a later call to free
+
+unsafe,opinion,safer,function,inconsistent
+in addition to the previous answers the strncpy char pointer which seems unsafe for my opinion and the malloc which is safer but you need to remember to free it outside of the function and its inconsistent with the hierarchy of the program you can do the following
+
+fread,smaller,number
+as long as malloc can allocate it you can fill it up with fread although fread is free to read a smaller number of elements
+
+mac,bigger,boundaries,pointer,correct,wrong
+presumably the mac malloc aligns to bigger boundaries and so it s spotting the pointer you re passing to free can t be correct since it has the wrong alignment
+
+linux,systems,implementation,musl,libc,common,gnu,complex
+on linux these syscalls are often mmap 2 perhaps with sbrk 2 and since linux systems are mostly free software you could actually study and improve the implementation of malloc musl libc implementation of malloc the more common gnu libc malloc implementation is perhaps more complex to understand
+

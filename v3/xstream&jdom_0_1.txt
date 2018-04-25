@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+larger,bean
+i already create the xml for some beans inside the larger bean with xstream and append them as elements to the jdom
+

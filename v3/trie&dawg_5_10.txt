@@ -1,0 +1,36 @@
+memory, structure, values, ---------------------------------------------------
+
+string,values,structure,patricia,better,memory,word,graph
+i would suggest that given your desire to also search through the stored string values you should consider whether either a trie structure such as a patricia trie or for even better memory amortisation a directed acyclic word graph refered to affctionalty as a dawg would work better
+
+data,structure,acyclic,word,graph,similar,memory
+if you re interested there is another data structure called a dawg directed acyclic word graph that is similar to the trie but uses substantially less memory
+
+waste, efficiency, space, ---------------------------------------------------
+
+efficient,space,waste
+use a dawg which is more efficient than a trie in terms of space waste
+
+efficiency,special,space,efficient
+it combines efficiency of a trie trie can be seen as a special case of dawg but is much more space efficient
+
+others---------------------------------------------------
+
+better,memory,expensive,difficult
+a dawg has better memory performance if the strings have many common suffixes but they are more expensive and difficult to build and update so start with a trie
+
+ideal,simpler,decent
+a dawg is ideal but a trie is simpler and a decent starting point
+
+space
+using a dawg could save you more space as compared to a trie
+
+space,overhead,patricia,tree,child,pointers
+however that space overhead can be reduced by compressing the trie using the patricia tree representation using a more efficient data structure to store child pointers or building a dawg from the trie
+
+similar,space-efficient,efficient,prefixes
+it is a structure similar to but twice as space-efficient as the dawg that is more efficient than the trie which only compresses prefixes
+
+number,sense,radix,thing
+if you have a large number of items in your ignore list and need to lookup the list often it would make more sense to put your ignored items in a trie or a radix trie or a dawg these are more or less the same thing
+

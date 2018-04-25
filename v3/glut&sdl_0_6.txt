@@ -1,0 +1,20 @@
+others---------------------------------------------------
+
+demo,mechanism,better,care,details
+if you re building a simple demo of a rendering mechanism glut is way better than sdl it takes care of a lot of the details that sdl would otherwise require
+
+better
+i have never used glut but i know that many people will say sdl is better
+
+control,main
+recently i migrated over to sdl from glut to get more control over the main loop
+
+serious,application,likely,tool,abstracts,real
+however if you re developing a serious application sdl is more likely to be the tool you need to use as glut abstracts more than a real application would normally want to
+
+example,examples,repo,older,fixed-function
+unfortunately there is no shader driven opengl example that i can refer to the provided examples on the glut repo and sdl only use older fixed-function rendering and don t use any shaders that i can see
+
+easier,sfml,flexible,feature-full
+glut is much more easier while many of people use sdl or sfml they re more flexible and feature-full than glut
+

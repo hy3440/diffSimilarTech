@@ -1,0 +1,11 @@
+others---------------------------------------------------
+
+thing,better
+for all thing with boolean is better tinyint 1 or enum y n
+
+mysql,space
+does tinyint in mysql take up more space than boolean
+
+view,index,field,smaller
+2 from an indexing point of view you could argue that an index on a boolean well tinyint field is smaller than indexing a datetime field
+

@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+vehicledataprovider,life,cylcle
+and you should not access vehicledataprovider before onresume in the life cylcle and no more after onpause
+

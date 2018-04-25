@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+thing,better
+this is the one thing i think sublimetext does better than emacs
+
+similar,differences,close,monokai
+though it is more or less similar to sublimetext 2 s monokai there are some differences which i want to correct so as get my emacs monokai more close to sublimetext s monokai
+

@@ -1,0 +1,42 @@
+window, queries, neighbours, ---------------------------------------------------
+
+faster,window,queries
+r-tree are substantially faster than quadtree for window queries like inside contains covers etc
+
+faster,nearest,neighbours
+r-tree are much faster than quadtree for nearest neighbours queries
+
+indexes,faster
+quadtree indexes are created faster than r-tree
+
+easier, fast, faster, ---------------------------------------------------
+
+easier,fast
+quadtree are easier to implement r-tree can be twice as fast than quadtree
+
+faster
+maybe a r-tree or a quadtree can be faster
+
+others---------------------------------------------------
+
+better,perfomance
+you can also try a quadtree it has some better perfomance over a r-tree
+
+better,kd-trees,r,trees,faster,updates
+there are other multidimensional trees that are usually better than kd-trees quadtree r trees like r-tree but much faster for updates or ph-tree
+
+wikipedia,article,mapping,k-d,tree
+on the other hand the wikipedia article on r-tree seems more specifically targeted towards mapping than the k-d tree or quadtree
+
+use,super,flexible
+i use quadtree more than r-tree and find them super flexible
+
+simpler,data,structure
+a quadtree is a simpler data structure than the r-tree
+
+objects,sparse,related,data,structure,etc.,better
+if your objects are sparse then a quadtree or related data structure r-tree etc. is probably better
+
+point,effective,need
+i believe instead of r-tree a point quadtree would be more effective for your need
+

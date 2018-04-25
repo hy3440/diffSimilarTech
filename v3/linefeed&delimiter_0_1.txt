@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+example,character,string,longer,undersirable,effects
+i ve taken the example of two linefeed here but the same is true for any character string i could subvert the problem by maybe taking a longer string as the delimiter but that would have two undersirable effects
+

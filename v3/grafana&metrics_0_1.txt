@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+dashboards,combination,dimensions,challenge
+we do create lot of dashboards in grafana which are more or less combination of few metrics and dimensions but that s becoming challenge as we need to setup two processes one for rt and other for batch due to ttl limitation on real-time index 15 days ttl was finalised after considering es health in mind
+

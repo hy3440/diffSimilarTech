@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+api,sdk,better,songs,player,anyways,good,goodluck
+i used soundcloud api and sdk and it is better than the grooveshark api which till now i don t know how to embed songs and use my own player anyways soundcloud is good just try it goodluck
+

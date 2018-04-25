@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+nginx,applications,best,comet,streaming,better
+nginx - does not start applications at all however for fastcgi currently not the best for comet streaming because of buffering so scgi would be better with nginx assuming you are using latest nginx version
+
+simpler
+you can also use scgi it is a lot simpler than fastcgi
+

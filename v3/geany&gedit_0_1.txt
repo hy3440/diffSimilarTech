@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+text,editor,thing,fully-featured,execution
+if you re fine with moving to another text editor then i would strongly recommend geany which does the same thing as gedit but is more fully-featured and can allow for execution of code in the same application
+

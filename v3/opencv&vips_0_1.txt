@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+large,image,better,job
+this is done on an extremely large image and i feel vips might do a better job than opencv on this
+

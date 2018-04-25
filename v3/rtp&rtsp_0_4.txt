@@ -1,0 +1,14 @@
+others---------------------------------------------------
+
+network,transport,servers,udp,multimedia
+http streaming servers will in most cases use tcp as their network transport rtsp servers usually offer rtp over udp which is more suited to multimedia streaming where some errors packet loss can be tolerated with the benefit of lower latency and less network overheads
+
+thing,streaming,unicast,rtcp,reports,multicast,sender
+the strange thing is that when streaming is done via rtsp unicast rtcp generates both sender reports and receiver reports but when streaming is done via rtp multicast only sender reports are generated
+
+confusing,http,info
+i think you re confusing rtp over http with rtsp over http and therefore rtp too see for more info
+
+handshake,server,actual,stream
+rtsp is more of a handshake done with the server while rtp is the actual stream coming in once the handshake is done and you start streaming
+

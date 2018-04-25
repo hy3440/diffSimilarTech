@@ -1,0 +1,14 @@
+others---------------------------------------------------
+
+item,pathlistbox,website,photogalley,ke,data,xap,bigger
+ä tryed all the ways ä know but its not work i want image show pictures when ä click item of pathlistbox in silverlight here is my website you can see what ä am trying click to photogalley than left lower corner picture click on it than storyboard will show pictures ä want click on images of pathlistbox and bind it to image source than ä can see big picture here tutorial of create carosel pathlistbox but when i do lä ke they do sample data create in expression-blend xap getting bigger ä didnt create sample data ä load images from images folder in client bin folder here my website http forum.websayfaci.net
+
+advanced,visual,designer
+expression-blend has much more advanced wpf silverlight visual designer than visual studio including wysiwyg animation editor etc
+
+quicker,animation,binding,charts,toolkit,part,mature,tools,visual,studio
+silverlight will be quicker to develop - as animation data binding and charts via the silverlight toolkit are part of the platform - and there are mature tools for designing and developing it expression-blend and visual studio
+
+years,easier,support,vs2010,leverage,base
+i can see silverlight being utilised more in the coming years for a few reasons it is easier to deploy than activex it has excellent tool support vs2010 expression-blend and you can leverage your existing code base
+

@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+next,characters
+we uppercase this with toupper then we add on the next 3 characters of the string starting at the 4th character which we force in to lower case with tolower
+

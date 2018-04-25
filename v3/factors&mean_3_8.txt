@@ -1,0 +1,28 @@
+growth, allocations, smaller, ---------------------------------------------------
+
+growth,larger,golden
+if your growth factors is larger than the golden mean that can t happen
+
+smaller,golden,previous,allocations
+if the factors is smaller than the golden mean 1.6 and the previous allocations are contiguous with each other they ll eventually add up to a chunk that can satisfy a later requirement
+
+larger,golden
+if the factors is larger than the golden mean they never will
+
+others---------------------------------------------------
+
+different,rate,higher,numbers,uglier,picture
+try a different rate factors -crf 30 higher numbers mean uglier picture quality but also smaller file size
+
+note,largest,prime,sqrt,greater
+note that this does not mean that the largest prime factors is less than sqrt n but that if there is a prime factors greater than sqrt n there is only one such prime factors
+
+possible,big-o,faster,better,constant
+additionally the lowest possible big-o doesn t necessarily mean there aren t faster algorithms with better constant factors
+
+zoom,scrollbars,richtextbox,content,visible
+the problem is that when the zoom factors is increased to more than 1 the scrollbars are lost on richtextbox but the content is getting edited but not visible i mean the content is below the visible screen once the zoom is set back to normal i can see the content and scroll bars again could you please suggest what i am required to do to get the things right
+
+scale,number,length
+you can normalize data that is already normally distributed for example take data for average length of human beings 180 centimeter and scale every number by a factors so that the mean becomes less than 1 multiply every length by 1 180
+

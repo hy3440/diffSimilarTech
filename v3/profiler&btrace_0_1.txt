@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+overhead,noticeable,activity,execution
+in my experience btrace overhead is far less noticeable than any profiler depending on activity of course - if you want to trace execution of all methods this will be expensive no matter what
+

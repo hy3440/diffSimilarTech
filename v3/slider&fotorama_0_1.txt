@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+success,fotogram,images,initialization
+call to instagram on success of which you call fotogram to initialize your slider but the problem is that since you re loading many images fotorama initialization gets run more than once on each success .after first initialization any further attempt would only mess up the slider.note that if you put it outside 2 foreach that wouldn t work either because at this point even the first request would be in pending state
+

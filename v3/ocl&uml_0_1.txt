@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+stronger,ui,ocl2java,generator,embedded,ecore,acceptable,executable
+eclipse ocl provides a much stronger ui and an ocl2java code generator so that ocl embedded in ecore uml provides much more acceptable executable code
+

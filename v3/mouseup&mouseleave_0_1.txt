@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+earlier,notification,mousedown,mouseover
+this may make for various race conditions and may necessitate using events which give you earlier notification than mouseup mousedown mouseenter mouseleave mouseover mouseout
+

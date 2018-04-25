@@ -1,0 +1,10 @@
+existence, likely, checks, ---------------------------------------------------
+
+providers,spam,checks,spf,existence
+4 some email providers might mark that email as spam however most spam checks are based on spf and dkim checks more than email existence checks
+
+spf,record,likely,spam
+other advice is to ensure that you have done as much as possible to avoid being flagged as spam such as setup spf record and dkim and also read up on how to create email that are less likely to be treated as spam
+
+others---------------------------------------------------
+

@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+part,snap,issue,features
+for the most part i think the choice of snap vs yesod vs happstack is less an issue of features and more one of personal taste
+

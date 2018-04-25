@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+timeout,value,earlier,sleep
+wait with a timeout value can wakeup upon timeout value elapsed or notify whichever is earlier or interrupt as well whereas a sleep wakes up on timeout value elapsed or interrupt whichever is earlier
+

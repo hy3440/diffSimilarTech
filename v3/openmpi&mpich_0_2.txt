@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+better,support,ranks,slurm,trivial,cluster,setup,hesitant
+it seems openmpi has better support for assigning ranks than mpich but setting up slurm and mpich wasn t trivial due to the cluster setup so i m hesitant to start over with openmpi
+
+connection,protocols,infiniband-enabled,version,mvapich
+while openmpi supports more connection protocols there is an infiniband-enabled version of mpich called mvapich
+

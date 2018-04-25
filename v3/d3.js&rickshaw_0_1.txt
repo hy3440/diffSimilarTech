@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+graph,time,series,framework,functionality
+rickshaw is a graph library focused on time series whereas d3.js is more of a framework so it gives you much more functionality
+

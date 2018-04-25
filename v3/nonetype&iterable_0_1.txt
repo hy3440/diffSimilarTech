@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+filter,none,sense
+since the definition of filter is to return a list of elements in which the function returns true wouldn t filter not none iterable make more sense for filtering to a list that only includes items that aren t nonetype
+

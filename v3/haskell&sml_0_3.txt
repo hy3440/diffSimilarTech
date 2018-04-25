@@ -1,0 +1,11 @@
+others---------------------------------------------------
+
+execution,model,printf,better
+because sml is eagerly evaluated the execution model is far easier to comprehend and debugging via printf works a lot better than in haskell
+
+edison,nothing,implementation,functional,sense,port,book,thesis
+i haven t read the paper on edison but if it s nothing more than the haskell implementation of purely functional data structures doesn t it make more sense to port the sml code that s in the book thesis
+
+stricter,precedence,rules
+also sml has stricter precedence rules than haskell
+

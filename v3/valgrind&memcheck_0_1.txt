@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+errors,tools,help
+by simple i mean setting up some compiler flags -wall doesn t show any errors or using such tools as valgrind used it with memcheck that didn t help much
+

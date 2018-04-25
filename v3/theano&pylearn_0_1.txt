@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+nns,pure,side,research,montreal,development
+and using keras or lasagne is way simpler to develop nns then pure theano which was just side research project in montreal to support development of pylearn
+

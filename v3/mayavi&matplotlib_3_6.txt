@@ -1,0 +1,22 @@
+patch, performance, stuff, ---------------------------------------------------
+
+patch,objects,patches,3d,easier,better
+you could do this in matplotlib probably using patch objects to build up a cube and colour the patches as needed however for 3d plotting mayavi is generally easier better
+
+past,performance,better,3d,scatter
+personally i ve used mayavi in the past and found the performance much better than matplotlib for 3d scatter plotting though the python bindings are somewhat in question moving forward i think
+
+3d,stuff,better
+anyway if you re willing to do advanced 3d stuff mayavi is way better than matplotlib
+
+others---------------------------------------------------
+
+easier,data,professional
+mayavi makes it easier to visualize the data but matplotlib looks more professional
+
+options,camera,axis,complex
+mayavi has more options for moving the camera than matplotlib but it doesn t seem to have a way to rotate around the y axis so i m guessing i ll need to perform some complex calculations on the azimuth and elevation to achieve the same result - but i m at a loss as to where to start i m new to working in 3d space and my brain doesn t think that way yet
+
+better
+mayavi might be better but i haven t tried this as i wanted to stick with matplotlib
+

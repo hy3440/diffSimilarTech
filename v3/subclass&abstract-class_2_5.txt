@@ -1,0 +1,19 @@
+interfaces, minimal, interface, ---------------------------------------------------
+
+implementation,minimal,nothing,interface
+write the application differently - create a matching interface and write the service provider implementation against it testing that and also write a minimal subclass of the abstract-class that does nothing more than forward calls to the interface
+
+interfaces,implementation,concrete
+but unless you re using such excellent testing practices and patterns i d be suspicious of abstractions that have a single concrete example -- interfaces with just one implementation no less than abstract-class with just one concrete subclass
+
+others---------------------------------------------------
+
+static,string,tag,element,interface,functionality
+i ended up defining an static string in each subclass holding the tag of the element so i decided to turn the interface into an abstract-class and give it more functionality
+
+mind
+making abstract-class before i had more than one subclass in mind for them
+
+image,real,efficient,program
+image is an abstract-class so i think the real question is which subclass is more efficient for your program
+

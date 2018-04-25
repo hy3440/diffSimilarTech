@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+generation,nicer,xtext,infrastructure
+please consider also to use xtend for code generation that s much nicer than stringtemplate and integrates smoothly with xtext infrastructure
+

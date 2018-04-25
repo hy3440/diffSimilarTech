@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+older,features
+mockito s a much older library than jmockit so you could expect that it would have many more features
+
+comparison,better
+comparison between mockito vs jmockit - why is mockito voted better than jmockit
+

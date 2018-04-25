@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+newer,version,enum
+however it may be that maven-jaxb2-plugin uses a newer version of xjc than you re using with enum
+

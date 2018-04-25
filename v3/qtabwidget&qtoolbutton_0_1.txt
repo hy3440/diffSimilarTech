@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+tabs,button,simpler,closable,settabsclosable,bool
+note that instead of using one of the tabs as your + button i have used qtoolbutton thereby making it simpler to make tabs closable with qtabwidget settabsclosable bool
+

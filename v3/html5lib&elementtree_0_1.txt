@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+wrapper,lib,pure,object,faster,invalid,html,real,browsers
+if for some reason you want to use an implementation that does not give you a full parse tree then i would suggest parsing the resulting html using lxml a python wrapper of the c lib or html5lib pure python both of which can return an elementtree object and are much faster especially lxml and more forgiving of invalid html especially html5lib which acts more like real browsers in the real world
+

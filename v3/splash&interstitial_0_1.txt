@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+ads,admob,screen,user,friendly
+i am showing interstitial ads inside my app and admob wants me to show a splash screen before showing interstitial to make it more user friendly
+

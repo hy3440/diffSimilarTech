@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+files,filereader,filewriter,computation
+i have coded a routine to compute the cartesian product of different tables as in a database with the only exception that the tables are stored as files in my case and for computing the cartesian product i am using file i o for reading files i am using filereader coupled with bufferedreader and for writing files i am using filewriter coupled with bufferedwriter now as i am performing every computation externally in files i.e i compute the product as follows i take a row from file-1 which is table-1 in my case and concatenate it with every other row in file-2 which is table-2 in my case and write it to an external file which holds the result
+

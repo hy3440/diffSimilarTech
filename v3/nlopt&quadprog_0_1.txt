@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+ipopt,powerful,solver
+for quadprog ipopt would be a much more powerful solver than nlopt
+

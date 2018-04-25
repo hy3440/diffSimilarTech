@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+command,binding,event,general,micro
+how can i connect a method and not a command with a binding from the viewmodel to an attached event to ask in a more general way with caliburn micro
+
+easier,property,selecteditem
+with caliburn it is even easier since you just need to bind a property on your viewmodel to selecteditem
+

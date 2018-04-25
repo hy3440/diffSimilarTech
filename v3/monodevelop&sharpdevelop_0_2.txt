@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+ide,better,compiler,latest
+i like the monodevelop ide even better than sharpdevelop but i m not sold on installing and using mono s compiler just yet nor do i know if it can even handle the latest vb.net c# language features
+
+replacement,ide,visual,studio
+monodevelop is more of a replacement of an ide for mac and linux in windows the recommended thing is to use visual studio or sharpdevelop
+

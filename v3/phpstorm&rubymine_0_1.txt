@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+webstorm,pycharm,fair,features,radrails
+webstorm + pycharm + rubymine + phpstorm though to be fair rubymine has more features than radrails atm
+

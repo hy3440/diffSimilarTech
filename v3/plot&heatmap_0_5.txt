@@ -1,0 +1,17 @@
+others---------------------------------------------------
+
+correlation,statistical,analysis,luck,seaborn
+for heatmap and correlation statistical analysis based plot i have had more luck with seaborn than with matplotlib
+
+points,visual
+i success in plotting distance with points but i need more visual plot with heatmap
+
+data,worse,large
+i tried to do this with a heatmap but the data plot was worse that way due to the large gaps between samples
+
+note,image,latter,offsets,difficult,text
+note that this relies on image rather than heatmap as the latter offsets the plot making it more difficult to put text in the correct position
+
+mode,typical
+it also allows you to use an interpolated shading mode which will make your plot look more like a typical heatmap
+

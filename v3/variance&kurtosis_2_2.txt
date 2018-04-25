@@ -1,0 +1,10 @@
+image, measure, infrequent, ---------------------------------------------------
+
+higher,image,result
+higher kurtosis means more of the variance in the image is the result of infrequent extreme deviations as opposed to frequent modestly sized deviations
+
+measure,higher,result,infrequent
+for this measure higher kurtosis means more of the variance is the result of infrequent extreme deviations as opposed to frequent modestly sized deviations
+
+others---------------------------------------------------
+

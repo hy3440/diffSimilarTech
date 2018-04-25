@@ -1,0 +1,14 @@
+others---------------------------------------------------
+
+single,area,stronger
+variety of supporting widgets is probably the single area in which archetypes is still stronger than dexterity
+
+better,documentation,plone.org,products,book,professional
+dexterity arguably has more better documentation than archetypes see plone.org products dexterity as well as my book professional plone 4 development
+
+good,news,content,types,lightweight
+the good news is that dexterity content types are more lightweight than archetypes content types and doing raw listing by iterating over folder.contentitems in your template should not be that expensive
+
+plugins,zopeskel,heavy,boilerplate
+admittedly mrbob doesn t yet have the number of plugins that zopeskel does but since archetypes has been overtaken by dexterity there is less heavy boilerplate code to generate
+

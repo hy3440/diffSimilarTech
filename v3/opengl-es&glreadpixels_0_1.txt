@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+extract,images,frame,faster,texture,caches
+take a look at the gpuimagefilter class for how i extract images from an opengl-es frame including a faster method using texture caches instead of glreadpixels
+

@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+servlets,beans,jsf
+i want to use cdi with these servlets but it only works for the facesservlet to be more precisely for the beans the jsf actions are routed to
+

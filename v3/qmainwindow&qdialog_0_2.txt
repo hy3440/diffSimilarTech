@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+shape,window,better
+i m creating a program which has a settings menu in the shape of another window this used to be a qmainwindow but i read that a qdialog would work better for this so i manually converted the qmainwindow into a qdialog window
+
+docking,area,functionality,sensible,base
+if you re not using qmainwindow s docking area functionality a qdialog would be a more sensible base class to use
+

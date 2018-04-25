@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+higher,level,qhttp,sockets,connection
+qnetworkaccessmanager is higher level than qhttp and qtcpsocket so they have abstracted away the sockets connection state
+

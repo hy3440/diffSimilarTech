@@ -1,0 +1,22 @@
+better, webui, context, ---------------------------------------------------
+
+webui,better,high
+as kibana is the webui for elasticsearch it is better make it high availability
+
+high,level,context
+this is too high level to implement this on kibana lets make it more in elasticsearch context
+
+others---------------------------------------------------
+
+odd,tolerant
+odd that elasticsearch is more tolerant than kibana
+
+front-end,opentsdb,grafana,support,functionality,regard
+if you would like a unified front-end for elasticsearch and opentsdb you could consider grafana which has support for both elasticsearch and opentsdb but less functionality than kibana in regard to elasticsearch
+
+name,company,open,source,logstash
+the new name is meant to clarify that the company is more than just elasticsearch such as the open source logstash and kibana
+
+documentation,tutorials,logstash,information,servers
+while i have found plenty of documentation and tutorials about how to actually install and configure elasticsearch logstash and kibana i have found less information about how i should set up the software across my servers to maximize performance
+

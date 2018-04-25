@@ -1,0 +1,180 @@
+server, method, multiple, ---------------------------------------------------
+
+user,thing,filter,textfiled,server,method,safer
+both get post user can put any thing in it and you must filter any input that user make it in your form example the value in textfiled sent to server by post method and that don t make it safer than get method the difference between them that the textfiled value doesn t visible in url
+
+socket,mail,server,framework,multiple,batch,boundaries,method
+put seems like socket to socket connection such as telnet mail server so using post may provide more of an underlying framework to uploading multiple files in a single batch as you already have the boundaries built in my the post method
+
+new, resource, better, ---------------------------------------------------
+
+database,updates,new,entities,better
+put is preferred for database updates and post to create new entities so post is better on this case
+
+new,resource,uri,appropriate,method
+while this means that a post can create a new resource and is certainly the best way to do so when it is the server that will give that new resource its uri with put being the more appropriate method when the client dictates the new uri it is can also be used for cases that delete objects though again if it s a deletion of a single resource identifiable by a uri then delete is far more appropriate both create and delete objects change multiple objects it can mean that your kitchen light turns on but that the response is the same whether that worked or failed because the communication from the webserver to the kitchen light doesn t allow for feedback about success
+
+appropriate
+more importantly in this case i think post is more appropriate than put
+
+better,restful,resource,use
+post is better but if you want it to be truly restful you should ensure that the uri uniquely identifies the resource and use put
+
+subscribers,http,time,new,message,queue
+true fifo message ordering longer delays and so on but sadly smaller message sizes. push queue allow you to set up push subscribers which then receive an http post any time a new message is put onto the queue
+
+new,resource,blog,safer,article-uri,http
+typically you would not allow a http client to determine the uri of a new resource so a post to blog would be safer than a put to blog article-uri although http does cater for appropriate responses should the server be unable to honour the intended uri
+
+partial,updates,full,new
+post is also more commonly used for partial updates as put generally implies sending a full new representation of the resource
+
+place,holders,images,blog,better
+i would really like to put some place holders in the text for images - you know to make the blog post look better some interspersed images that relate to the content
+
+better,currenttextid,table,revision,easier,queries
+you d probably be better off in this case to put a currenttextid on your post table to avoid having to figure out which revision is current an alternative would be a flag on revision but i think a currenttextid on the post will give you easier queries
+
+appropriate,new
+i think that in that case the put verb is more appropriate because post really means i want to create something new
+
+new,customer,restful,resource
+side note if you are attempting to create a new customer you may want to use post instead as it may be considered more restful as put s are generally for updating an existing resource but this is up to you
+
+gps,location,answer,new,things,cleaner
+i decide to put the gps location recording answer into a new post to make things cleaner
+
+file, simpler, multipart, ---------------------------------------------------
+
+api,message,outcome,game,acceptable,better,idempotency
+put to the api a message describing the outcome of the game post is acceptable put is better for idempotency
+
+binary,data,faster,logic,multipart,form-data,support,limited,requests
+to send binary data put will be faster than post based on the same logic and because post will use multipart form-data encoding headers but browser support is more limited for put requests
+
+side,note,form,file,docs,complex
+side note it looks like you re using the post form of file upload which as the docs say is considerably more complex than put
+
+http,secure,uploaded,files
+http put isn t inherently any more secure than http post if you re allowing the uploaded files to be exceuted on your server
+
+docs,link,request,simpler,file,advantage,disadvanatges
+on the php docs link above they say a put request is much simpler than a post request when uploading file along with this advantage what other advantages disadvanatges do the put has got compared to the post
+
+file,api,request,simpler,multipart,data
+to receive a file in your api i would use a put request simpler than post multipart and fetch the data from the stream php input
+
+requests,simpler,file,upload
+put requests are much simpler than a file upload using post requests and they look something like this
+
+file,moreso,multipart,upload
+put is designed for file uploads moreso than post which requires doing a multipart upload but then it comes down to what your server can do as to which is more convenient for you to implement
+
+secure, data, appropriate, ---------------------------------------------------
+
+button,backend,appropriate,data
+wrap your update button in a and make it post to your backend in fact put would be more appropriate here as you are updating existing data
+
+html,json,appropriate,ways
+bowler is pretty much scalatra + scalate with some enforcing nudging of the developer towards good restful practices such as proper use of content-type and accept http headers for responding and emitting html and json and dealing with get post delete and put in appropriate ways and making bad uses of get and delete harder
+
+data,get.if,form,secure
+data should be in post or get.if you dont put your data in your form then you will have to use get which is less secure than post
+
+processing,safe,secure
+words like arbitrary processing and neither not safe make post sounds less secure than put when there is a choice
+
+show, individual, word, ---------------------------------------------------
+
+word,button,show,message,full
+after few word i put a read more button when i click read more it s show full message it s ok but it s show all my post s full message
+
+number,characters,link,show,individual,blog
+i d like to limit the content that is shown to a certain number of characters and then put a read more link to go to the show page for that individual blog post
+
+others---------------------------------------------------
+
+suitable,inserts
+where 404 may be suitable for get and put update but less suitable for post inserts
+
+client,scores,highscore,problems,simple
+the client post scores and fetches highscore lists from the server and everything seemed to be working perfectly we had been testing it for a month with no problems and the code is really simple with not much more than a put get
+
+get,delete...
+you could manage more than get or post like put delete...
+
+long,several,convenient,place
+i m very sorry for the long question but i thought instead of dividing the question into several post it is more convenient if they are put into one place
+
+noop,sense,second,connection
+if noop a put may make more sense than a post which would imply creating a second connection
+
+braces,better
+i think you forgot to put closing braces better you post your code
+
+content,modifications
+post is usually intended for creating content put is more modifications
+
+get,list+search,page,swagger
+i resorted to split the two in swagger list-without-search as get and list+search as post just to put the page in the swagger documentation also if the latter actually works also as get
+
+radical,first,notices,newer,updates
+ironjs has undergone a radical rewrite since my first post so i have put notices on those post directing to newer updates
+
+record,user,correct
+put is used for updating a record and so unless you are specifically storing the fact that a user is not following another user post would be more correct
+
+self-promote,blog,detail,aforementioned
+without wanting to self-promote i ve also put together a blog post that goes into more detail on the aforementioned answer that should be of some use
+
+prior,easier
+i put the prior code in this post to make it easier for you to visualize it
+
+spec,body,representation,url,general,purpose
+if you want to follow the spec then put says that the body is a representation of the url you put to while post is more general purpose
+
+method,url,action,parameter,form,password,information
+this method also allows you to put the url within the action parameter of the form and uses post which is more secured for transferring password information
+
+cplayer,fields,relevant
+class cplayer has a lot more fields than i put here but they are not relevant to this post
+
+public,website,effort,potential,security
+i think to safely use put on a public website requires even more effort than using post and is less commonly done due to potential security issues
+
+css,mysql,property,animation,date.....,hover,work,first,new,latest
+i have a website with html css js php mysql i have jquery code i put it for the post i mean i change the css property and animation for the post read more date..... on hover mouse the problem is the code work only in the first post if i create a new post it will work only in this latest post and when i hover on an other post the code work in the first code thanx in advance and excuse me for my english am not good
+
+insert
+put does not mean update any more than post means insert
+
+screen,solution,height,space,link,bottom,part,user
+what about the question how many items to put on the screen you can give a solution like this for each post give fixed x height and if it requires more space put read more link on the bottom of the post which will reveal missing part when user clicks
+
+http,backend,method,x-http-method-override,header,standard,rest
+anyway http 405 is telling you that your backend does not support the put method and probably it s expecting a post method with the x-http-method-override put http header since post is more standard method in rest than put
+
+common,server
+get and post are relatively common put is less common so may not be covered in your server implementation
+
+first,id,radio,buttons,confused
+at first i thought i need to put an id to the radio buttons but later when i went through other post i got more and more confused
+
+hold,technically-oriented,general-purpose
+but that post is currently put on hold as my post question is more technically-oriented rather than just a general-purpose question
+
+frequent
+you got at least put and delete although they are used much less frequent than get and post as in hardly ever
+
+client,url,nicer
+also you can send a text only to given client determined by the url it can be post but put looks nicer
+
+amount,sense,main,creation,operation,common,things
+if the model being presented to the user was of a file system having the user supply the resource name makes a huge amount of sense and put becomes the main creation operation and post becomes delegated to less common things like making an empty directory and so on
+
+q1.i,better,name-value,pair,parameters,url
+q1.i know that post is better than put for name-value pair parameters as the get exposes it in url and post doesn t
+
+zilch,someone,.parse,function,newer,days
+i basically know zilch of java but i m hoping someone can help me put something into that .parse function that would get me post that have dateupdated newer than 5 days
+

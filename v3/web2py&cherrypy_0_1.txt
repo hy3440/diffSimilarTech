@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+frameworks,flask,pyramid,easier,ones
+frameworks like flask cherrypy pyramid or even web2py might be the easier ones to start with
+

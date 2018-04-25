@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+simpler,flexibility
+alternatively zen-cart looks simpler than magento but without some of the flexibility
+

@@ -1,0 +1,11 @@
+others---------------------------------------------------
+
+conclusion,days,common,rest,camel,cxf,similar,easy,migration
+my conclusion now a days wadl is more common that rest and integration frameworks like camel cxf already supports wadl generate and consume because it is similar to wsdl therefore most easy to understand in this migration process soap to rest
+
+somebody,better,ws,soap,service
+and when somebody needs wadl may be then better to use ws soap service + wsdl
+
+rest,lightweight,easier
+like the rest of rest wadl is lightweight easier to understand and easier to write than wsdl
+

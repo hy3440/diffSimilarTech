@@ -1,0 +1,11 @@
+others---------------------------------------------------
+
+easier,combination
+in general parfor with matlabpool is an easier combination to use than dfeval
+
+workers,ready,overhead,body,loop
+also when you open a matlabpool the workers are launched and ready so the overhead of parfor is much less but still not zero as the body of the loop needs to be sent to the workers
+
+batch,time,open,worker
+if you want to batch and parfor at the same time open one less worker with matlabpool than you otherwise would
+

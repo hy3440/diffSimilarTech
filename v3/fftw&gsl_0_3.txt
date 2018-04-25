@@ -1,0 +1,11 @@
+others---------------------------------------------------
+
+accuracy,benchmark,similar,accurate,degradation
+on the accuracy front this accuracy benchmark from fftw suggests that they have similar accuracy for most case with fftw being slightly more accurate but that gsl tend to exhibit accuracy degradation for real data and larger transform sizes
+
+performance,benchmark,slower
+you can have a look at this speed performance benchmark from fftw which suggests that gsl is about 3-4 times slower than fftw 3
+
+fft,better
+gsl can do fft s but fftw is better at doing that
+

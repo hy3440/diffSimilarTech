@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+autocompletion,part,rope,slower
+if it s too slow i would ditch the autocompletion part of python-mode because it uses rope which is slower than jedi
+

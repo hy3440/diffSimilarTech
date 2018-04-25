@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+item,additional,file,more.plist,located,xcode
+on this screen you can see on the left site the root.plist with the childnode item for the additional plist file called more.plist which is located within the settings.bundle in xcode
+

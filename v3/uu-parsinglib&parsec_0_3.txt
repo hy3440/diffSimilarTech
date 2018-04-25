@@ -1,0 +1,11 @@
+others---------------------------------------------------
+
+worth,time,familiar,first,better
+uu-parsinglib is definitely worth the time to explore but i would suggest that getting familiar with parsec first is the better course for these reasons
+
+list-like,combinators,familiar,folding,result
+looking briefly at the list-like combinators for uu-parsinglib i m more familiar with parsec i think you can solve this by folding over the result of the psome combinator
+
+idea,declarative,pure
+it seems that the idea of uu-parsinglib it to be more declarative than parsec so you just have pure
+

@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+media,queries,lower,resolution,use,pixel-ratio,specific,modern
+just use media queries targeting a screens with lower resolution and use pixel-ratio and pixel-density to be more specific targetting modern mobile devices
+

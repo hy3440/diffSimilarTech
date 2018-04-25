@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+new,version,underbelly,consistent,framework
+hadley wickham released a fundamentally new version of dplyr with a new underbelly called rlang which provides a more consistent framework for non-standard evaluation
+

@@ -1,0 +1,17 @@
+others---------------------------------------------------
+
+html,common,attributes
+that said this is html so double-quotes are actually more common for attributes than single-quotes
+
+back-slashes,apostrophes,easier
+escaping the quotes with back-slashes works hi there you but embedding apostrophes single-quotes within double-quotes is often easier
+
+work
+first you can use double-quotes or q it just takes more work than single-quotes or q
+
+side,note,xpath,string,tidier,imo
+another side note single-quotes inside xpath string looks a bit tidier than escaped double-quotes imo
+
+habit,languages,willing,compelling,better,date
+i tend to use double-quotes just out of habit from other languages but i don t have a strong preference i m willing to change if i hear of a compelling reason why single-quotes are better but to date i ve not even heard a good reason let alone a compelling reason
+

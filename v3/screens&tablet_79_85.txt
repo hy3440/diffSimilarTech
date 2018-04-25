@@ -1,0 +1,275 @@
+larger, program, handset, ---------------------------------------------------
+
+smaller
+the screens is much smaller so you can not present your app the same way as you can on a tablet
+
+larger
+not all tablet will have a larger screens after all
+
+wider
+however i also need to support tablet which have wider screens
+
+program,bigger,right
+but tablet program screens will be bigger right
+
+mobile,smaller
+correct me if im wrong but i think the apk for mobile can be used to install the app in tablet.your problem would be in the ui coz mobile has smaller screens than tablet
+
+larger,handset
+because a tablet s screens is much larger than that of a handset there s more room to combine and interchange ui components
+
+greater,resolutions,smartphones
+i beleive tablet have greater screens resolutions than smartphones
+
+larger,phone
+the tablet s screens must be larger than the phone s screens
+
+larger
+because a tablet s screens is much larger than that of a
+
+size,bigger
+on tablet the screens size is much bigger and there is enough space for most of the action items that s why your menu is placed on top
+
+res, reasonable, ones, ---------------------------------------------------
+
+different,ones,size,reasonable,bigger,margins,mix,res
+having different ones based upon screens size is reasonable bigger margins on tablet though the mix then would be something like res values dimens.xml and res values-sw720dp values.xml
+
+aware,size,categories,documentation,xlarge,larger,large
+just be aware that screens size categories like xlarge for example aren t tied to a hard number like 10 inches. instead official documentation uses terms like an xlarge screens is defined as a screens that is significantly larger than a large screens such as a tablet or something larger ...
+
+width, smaller, desktop, ---------------------------------------------------
+
+larger,phone,new
+to ensure all tablet excluding any larger screens phone will use the new layout how should i name my layout folder
+
+smaller,width,640px,range,960px
+like most screens being no smaller than 320px width most mobile sizes in the 320â 640px range tablet usually around 960px
+
+text,left,smaller,phone
+inside the container i have a panel with the text set to left but when the screens gets smaller then a tablet to something like a phone i want the text in the panel to center
+
+youll,dimensions,mobile,hard,bigger,smartphone.
+youll want to choose which screens dimensions you consider as mobile might be hard as some tablet are barely bigger than some smartphone.
+
+desktop,version,fine,smaller,smartphone
+the desktop tablet version is working fine its when the screens gets smaller and the smartphone version loads the image doesn t work as it should
+
+splitactionbar,phones,size,smaller,space,bottom
+splitactionbar works only on phones because the screens size is much smaller than tablet and it takes space at the bottom for extra space for your action items
+
+number,giant,smaller,small,laptops
+however the number of people using these giant tablet is much smaller than the number of people with small screens laptops
+
+layout,bigger,240dpi
+i m trying use a grid layout but my problem is the layout showing bigger than my screens on the 240dpi tablet 1 5 times bigger
+
+phone,width,viewport
+on a tablet or phone which may have less than 750px screens width it will go off the viewport
+
+desktop,devices,phones,width,page
+i have been working on this page that works fine in desktop devices and tablet but not on phones because the width of the page is more than the screens width i need to make this width responsive to have the page with height-only scroll
+
+wider,responsive,smaller,size
+when viewed on a screens wider than a tablet to be responsive according to the smaller screens size like this
+
+landscape,view,larger,certain
+if the app is running on a tablet or in a landscape view where the screens is larger than certain width i d like the listviews to have the data-inset property set to true and be rendered with rounded corners and borders
+
+size,smaller,mobile,example
+for example when the screens size becomes smaller to a tablet or mobile you could do this as an example
+
+layout,phone,large,larger
+it s hard to explain but just imagine that i move this layout to 300px x then on the phone it works because the screens isn t that large but on tablet it will probably not work because the screens is larger
+
+links,mobile,size,bigger,desktop
+my aim is to use a bootstrap 3 dropdown to display links at mobile screens size and use a list to display the same links when the screens is bigger desktop and tablet size
+
+smartphones,smaller,higher,resolutions,bigger
+if i try to distinguish based on resolutions it wouldn t work right since some high end smartphones have smaller screens but higher screens resolutions while some tablet have bigger screens but smaller resolutions
+
+resolutions,mdpi,larger,dpi,rating
+the reason those two really high resolutions exist in mdpi is because they are only used on tablet which have a larger screens size...so the dpi rating works out to still be in the midrange
+
+larger,devices,width
+another layout for larger devices like tablet where the screens width is larger than your image
+
+apps,layout,mode,large,bigger
+also a tablet might be more suited since it runs apps in tablet layout mode versus a phone layout with everything being too large on a bigger screens
+
+width,smaller,version,mobile
+this will only be added if the screens width is smaller than 480px else the tablet version would show the mobile version
+
+large,devices,larger,width,height
+it is quite possible that those large devices tablet have much larger screens width and height than a typical phone
+
+properties,mobile,wider,desktop,css
+you could make your css mobile-first meaning that all properties are optimized for mobile then as the screens gets wider you apply tablet and desktop optimized css for elements
+
+mode,phone,smaller,screen_is_narrow,landscape,wider
+in portrait mode your phone screens is smaller than that so screen_is_narrow is true whereas in landscape mode and on tablet it is wider and thus screen_is_narrow becomes false
+
+platforms,larger,affix,disabled
+in mobile platforms except larger screens as on tablet the affix would be disabled entirely and the page would only rely on the responsiveness of the grid
+
+issue,size,bigger,videoview
+on a tablet i don t have this issue because the screens size is bigger and i make videoview always on screens
+
+height,width,dpi,low
+this way you get if the screens height or width is greater than 960px and the dpi is low probably you re on a tablet
+
+title,tabs,smaller,iphone
+what i would like to do is use css media queries to have the title be above the tabs when the screens gets smaller or on a tablet or iphone
+
+screensizes,wide,smaller,smartphone,open
+twitter desktop accomodates screensizes from around 1048px wide when you are on a screens that is smaller then that you are probably on a tablet or smartphone and if you open twitter from a browser on your phone you are instantly redirected to and prompted to download the twitter app
+
+room, available, space, ---------------------------------------------------
+
+fragments,room,activity
+if my app runs on tablet i put more fragments on the screens as there s room for this and i got just one activity in which i replace fragments when needed
+
+space,available,room,developers
+it simply comes down to the space available a tablet gives more room to developers thus allowing developers to put more on one screens
+
+fonts,space,available
+you will also notice that the fonts are not scaling as the 7 tablet simply has more screens space available vs the 4 phone
+
+pixels, resolution, higher, ---------------------------------------------------
+
+screenshot,big,resolution,higher
+a bitmap of a screenshot can get really big on a tablet since the screens resolution is likely higher
+
+lower,density,pixels
+this is because that tablet often has a lower density of screens pixels
+
+higher,resolution,phone,pixels,dots,dpi
+i know that obviously a tablet has a higher screens resolution than a phone because it has more pixels dots on the screens from what ive been reading tablet also have a higher dpi dots per inch than phones as well
+
+higher,resolution,pixels,right
+the tablet had a higher resolution 1920 x 1080 pixels - found by checking the screens resolution through a right click on the desktop than the machine i had initially run the program on 1366 x 768 pixels
+
+smartphones,higher,dpi
+incidentally many smartphones and tablet do have higher dpi screens
+
+resolution,higher,i.e,col-md
+screens resolution i.e higher than tablet i.e col-md and col-lg in bootstrap language should only cover 11 grid with offset of 1
+
+use, diagonal, criteria, ---------------------------------------------------
+
+xlarge,larger,large,special,use,system
+an xlarge screens is defined as a screens that is significantly larger than a large screens such as a tablet or something larger and may require special care on the application s part to make good use of it though it may rely on resizing by the system to fill the screens
+
+device,mobile,use,criteria,diagonal,greater,iches
+to determine device is tablet or mobile i use criteria if device s screens diagonal is greater than 7 iches the device is tablet
+
+resolution, phones, higher, ---------------------------------------------------
+
+size,devices,note,huge,phones,higher,resolution,dpi
+i can t use screens size because of devices like galaxy note with huge screens and some phones have higher resolution than some tablet same with dpi i think
+
+grid,width,resolution,population,media,queries,size,smaller,phones
+basically my layout has 1200px grid width but i figured that there will be a problem with 1024px screens resolution 20 of the population bla bla so i created media queries when the screens size is smaller than 1199px the grid to change its width to 960px and so on for tablet phones etc..
+
+contrast,nexus,higher,actual,resolution,ipad,page,smaller,size
+by contrast a nexus 7 tablet has higher actual screens resolution than an ipad mini but it reports to your web page a smaller screens size
+
+pop-up, computer, website, ---------------------------------------------------
+
+ipad,bigger,phone,image,pop-up,visible
+since the screens of an ipad or other tablet is bigger than a phone s display and that would leave me with a bunch of open space i was wondering if there is something in codename one to have an image pop-up on a tablet but that it is not visible on a phone s display
+
+computer,full,mode,smaller,phone,size,divs
+this only happens when the window is on a computer in full screens mode but when the screens is made smaller to a phone tablet size the divs function how they should
+
+website,page,size,logo,perfect,ratio,bigger
+i ve come across this website and when you scale the page down to tablet size the logo which is ethan marcotte is in perfect ratio when the screens size gets bigger and smaller
+
+different, data, sizes, ---------------------------------------------------
+
+layouts,different,sizes,possibility,data,phone
+you do not have to provide different layouts for different screens sizes however the possibility of say a tablet displaying more data over a phone is there - so you may want to give the user more options or show the navigation constantly
+
+desktops,full,detailed,data,experience,mobile,different
+desktops when in full screens have a more detailed data entry experience whereas mobile tablet have a different experience because of device real estate is smaller
+
+run,troubles,multiple,sizes,different
+in the long run you ll have less troubles with supporting tablet multiple screens sizes and you can easily re-use them in different contexts
+
+others---------------------------------------------------
+
+issue,phone,height,landscape,mode,pc
+the issue is that the phone screens height in landscape mode is likely much less than a tablet or pc
+
+worse,new,high,dpi,100px,smaller,mid,spec
+using px as a measurement would actually be worse - as new tablet have high dpi screens meaning 100px is going to be visually smaller on a tablet than it would on a mid spec phone
+
+location,pc,accurate,corresponding,operation,phone
+is there a reason why getting a location from a pc screens could be more accurate than the corresponding operation on a tablet or phone
+
+small,tableth,centimeter,pone
+they are for example too big in a phone and too small in a tableth because the screens of tablet has more centimeter than the pone screens
+
+settings,smaller,regular,phone,device,small,compatibility,zoom
+i know that when it does the whole configuration settings are representing a much smaller screens than the tablet s screens but how can i tell if this is a regular phone device with a small screens or a tablet running compatibility zoom mode
+
+display,none,width,larger,size,time
+in my actual code i ve set the display to none if the screens width is larger than tablet size because that s the only time i feel like i need the button
+
+size,android,qvga
+there is more than one screens size in android and what fits on a qvga 2.8 screens and what fits on a 10 tablet will not be the same
+
+space
+tablet have more screens space
+
+practice,bigger,wide
+in practice this would be a tablet sized screens bigger than 320px wide when it is in portrait
+
+new,big,bigger
+suppose you were to choose a new tablet and you wanted it to have 1 a big screens and 2 a screens that is bigger than 20cm
+
+content,longer,card
+the content is longer than the screens of my tablet so i need to scroll vertically on a card
+
+phones,devices,sizes,inch.how,visible,play,store
+i would like to make my app available only on phones i.e devices whose screens sizes are less than 5.5 inch.how do i limit my app from being visible on tablet on play store
+
+things,smaller,stuff
+a lower dpi makes things smaller and allows this tablet to show more stuff on the screens at once
+
+larger,standard,detachable,keyboards,space,browsers,users,sites
+in fact when a tablet has a larger than standard screens size the tablet with detachable keyboards available these days mobile versions of the site can look over-optimised for space which is the reason why browsers allow tablet users to opt to display sites in desktop mode
+
+client,twebbrowser,a4,aspect
+it s like the measurements aren t the same and even if i use align client the twebbrowser won t fill the screens of the 7 tablet which is more or less the a4 aspect ratio
+
+600dp,larger,copy,advantage,real,estate,located,bin,width,qualifier
+any devices 600dp and larger tablet have a larger copy of the image to take advantage of the larger screens real estate while all other phones use a smaller copy located in the bin with no screens width qualifier
+
+local,phablets,mobile,large,density
+the first time i run this on a device i realized that i was on a wrong track for some of the local phablets tablet mobile that have large screens has less screens density
+
+bigger,child,views
+this tablet has a bigger screens yet is still showing only 2 child views in the row
+
+density,smaller,android,mdpi,folder,bigger,ones
+owing to the fact that the screens density on the tablet is smaller android therefore uses the images in the mdpi folder for the tablet and the slightly bigger ones in the hdpi folder for the phone
+
+space,phone
+a tablet offers more screens space than a phone
+
+example,android,stock,player,feature,full
+as an example my android tablet s stock video player app has a feature that allows it to be less than full screens
+
+col-md-4,class,medium,size,ipad,responsiveness
+here in your example col-md-4 class is been used that means if you will shrink your screens more than medium screens size ipad or tablet it will starts responsiveness
+
+mean,default,wider,tall.
+tablet mean that the default is that the screens is wider than it is tall.
+
+avds,bigger,slower,unusable,machine
+you will see that mostly the avds with the bigger screens are way slower tablet are unusable on my machine hvga is almost like a real device
+
+width,higher,landscape,layout,applicable,mode,phones
+if the width of the screens is higher than 768px use the landscape layout split the screens into 2 applicable in landscape mode for phones and tablet
+

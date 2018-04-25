@@ -1,0 +1,43 @@
+problems, fork, modules, ---------------------------------------------------
+
+better,problems
+i searched a bit and found that dill can perform better than pickle with classes but i am having problems to implement it
+
+fork,better,serialization
+the fork uses dill instead of pickle to provide better serialization
+
+support,objects,better
+cloudpickle might be a good idea for your problem as well it has better support in pickling objects than pickle not per see better than dill and you can pickle code easily as well
+
+better,serialization
+i think you can do exactly what you want with dill which provides better serialization than pickle
+
+module,standard,better
+the dill module which is not in the standard library extends pickle to do even better
+
+modules,better,job
+modules such as dill are doing a better job than pickle
+
+better,serializer,socket,objects
+dill has a better serializer that can pickle socket objects on any os and thus sending the socket object with multiprocess works in either case
+
+others---------------------------------------------------
+
+stable
+you use pickle might fail dill is more stable
+
+better,serializationâ,class,instances
+where i ve used dill to give you better serializationâ essentially dill can pickle class instances easily -- as well as most python objects
+
+bigger
+the pickle from dill will be bigger however
+
+look
+you may also want to have a look at dill which covers slightly more cases than pickle
+
+dynamic,approach
+however it also breaks pickle maybe not dill and is less dynamic then this approach
+
+class,method,additional,functions,wider,variety
+dill serializes the class method because there s additional functions that have been registered to dill that know how to pickle and unpickle a wider variety of objects -- you can see them in the disassembled code they start with dill.dill
+

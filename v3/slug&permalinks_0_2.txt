@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+accessable
+i want my permalinks to be accessable via more than one slug
+
+better,different
+slug will work too but permalinks would be better i want to set it to a different domain
+

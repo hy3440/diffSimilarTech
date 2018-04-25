@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+second,top,parent,better,result
+second you don t need a qmainwindow as top parent a qwidget give a better result
+
+main,window,noticeable,difference,ur,application,important
+qmainwindow is basically same as qwidget when used as a guess what main window the noticeable difference is that qwidget expects you to have only 1 window in ur application while qmainwindow is more about serving as the most important window which will control all the rest like alert message boxes for example
+

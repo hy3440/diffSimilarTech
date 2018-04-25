@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+internal,debatable,violation,worse
+if they are internal then it s debatable whether it violates ocp or not but the violation of srp is even worse anyway
+

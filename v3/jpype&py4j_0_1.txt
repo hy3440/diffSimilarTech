@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+performance,bigger,overhead,solutions,jython,sockets
+in terms of performance py4j has a bigger overhead than both of the previous solutions jython and jpype because it relies on sockets but if performance is critical to your application accessing java objects from python programs might not be the best idea
+

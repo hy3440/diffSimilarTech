@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+appropriate,documentation,object
+i think the argumentexception is more appropriate because the invalidoperationexception documentation says that the object itself on what the method is called has to be in an invalid state right
+

@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+wish,control,smaller
+i wish expanding any expander make my treeview control resize to smaller size
+

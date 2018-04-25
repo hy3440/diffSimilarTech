@@ -1,0 +1,11 @@
+others---------------------------------------------------
+
+llvm,gcc,fuction,junk,hash,worse
+mac os x llvm gcc based crypt fuction is borked junk hardwired to only use des a proven breakable hash worse than md5
+
+built-in,better,solution
+i should also mention that crypt has this built-in and may be a better solution than md5
+
+hash,expensive
+crypt with hash is simply more expensive than md5
+

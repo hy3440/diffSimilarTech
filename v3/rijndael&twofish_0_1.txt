@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+blowfish,better,aes
+twofish was much more scrutinized than blowfish so even for symmetric encryption you should not use blowfish but twofish or better yet use the aes aka rijndael which was preferred over twofish
+

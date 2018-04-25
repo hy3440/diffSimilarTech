@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+ones,master,branch,interactive,rebase
+i see ones i merge master to feature branch i can not squash he commits any more using interactive rebase
+

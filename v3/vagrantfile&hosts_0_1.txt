@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+config,files,os
+aside from that you can also edit the vagrantfile to include more config files depending on hosts os
+

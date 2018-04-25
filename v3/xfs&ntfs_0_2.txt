@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+extfs4,faster,refs,optimization
+extfs4 or xfs are between 25 and 40 faster than ntfs or refs depending on the optimization
+
+trickier,business,fat,ext3,nfs,cifs
+actual mounting of filesystems is trickier business and really depends on what you are mounting - ntfs fat ext3 xfs nfs cifs webdav etc etc
+

@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+libraries,top,interesting
+porting runtime libraries to work on top of bionic instead of glibc may be more interesting
+
+libraries,pnacl,form,compiler,runtime
+note that there s much more than llvm and clang these compilers also rely on c++ standard libraries both have libc++ libc++abi mostly unchanged pnacl used to support libstdc++ c standard libraries both have musl pnacl also has newlib bionic some form of glibc compiler runtime compiler-rt linker and general user libraries such as sdl part of emscripten and for pnacl in webports
+

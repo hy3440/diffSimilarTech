@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+full-blown,gui,toolkits,built-in,emulation,last,time,better
+fltk is really a full-blown gui toolkit though rather small as gui toolkits go that has a built-in glut emulation that at least the last time i played with it seemed considerably better implemented than glut itself
+

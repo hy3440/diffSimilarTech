@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+years,short,time,databases,aware,recent
+firebird was forked + - 18 years ago from interbase 6 which was opensourced for a short time since then it has diverged and firebird can no longer read interbase databases nor can interbase - as far as i am aware - read firebird databases more recent than firebird 1 or maybe 1.5
+

@@ -1,0 +1,16 @@
+requirement, single, variant, ---------------------------------------------------
+
+requirement,slower,bytes
+there is no requirement that fgetc be any slower at retrieving a block of bytes than fread
+
+things,successive,slower,single,bytes
+doing things like 1000 successive fgetc is much slower than doing one single fread of 1000 bytes
+
+loop,variant,slower
+the fgetc loop variant was consistently 45x slower than the fread loop
+
+others---------------------------------------------------
+
+version,simpler
+you might have even noticed the fgetc version is simpler than the fread version
+

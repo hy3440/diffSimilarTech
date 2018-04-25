@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+faster,realtime,metal,path,performance
+measure how much faster than realtime avassetreader can decode at replace avplayer with your own metal + avassetreader path if you think that some performance has gotten lost in transit
+

@@ -1,0 +1,31 @@
+best, better, simpler, ---------------------------------------------------
+
+best,better
+also note that velocity is not the best option going forward freemarker would be a better way to go
+
+simpler
+velocity is simpler than freemarker
+
+others---------------------------------------------------
+
+worse,stringtemplate,issues
+velocity is worse than freemarker and stringtemplate has got its own issues
+
+advanced,little,complex
+freemarker is more advanced but a little complex as compared to apache velocity
+
+template,engine,better,imo
+i suggest using a template engine such as freemarker for this or velocity but freemarker is better imo
+
+little,bit,simpler,powerful
+from my experience of both i would suggest that velocity is a little bit simpler but freemarker is more powerful
+
+template,knoledge
+i m trying to create a template in velocity since i have more knoledge than freemarker
+
+better,native,whitespace,recent,releases,interesting
+freemarker provides much better native whitespace handling recent velocity releases provide more interesting content controls #define #evaluate # literal block #
+
+powerful
+freemarker is more powerful than velocity
+

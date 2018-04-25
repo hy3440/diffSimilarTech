@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+try,lower,level,control,jmf
+apart from that you might want to give xuggle a try - it works on a much lower level than vlcj but this should give you much more control over what s happening and unlike jmf it s a good actively maintained project.
+

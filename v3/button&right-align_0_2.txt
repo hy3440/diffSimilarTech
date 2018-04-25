@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+fixed,width,better
+a right-align fixed width button looks better imho
+
+positions,image,easier,anchorpoint,position,images,screen,width
+instead of figuring out the individual positions for each image button it is easier to simply right-align them by modifying the anchorpoint to 1.0f 0.5f and then position the images button at exactly the screen width and variable screen height position screen width 100
+

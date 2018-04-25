@@ -1,0 +1,32 @@
+others---------------------------------------------------
+
+similar,highlightings,ubuntu
+how can you get similar highlightings to zsh s less than bash s less in ubuntu
+
+shell,ksh,safer,easier
+if your shell is bash or ksh or zsh it s much safer and easier to build up a command with an array rather than a string
+
+setopt,nonomatch,glob,pattern
+my stackoverflow search indicates that it can be turned off by setting setopt nonomatch then zsh behaves more like bash glob the pattern and pass it to the program if no match is found
+
+syntax,ksh,escape,sequences
+the syntax is used in bash and ksh and zsh i believe to more easily allow for embedding escape sequences in strings
+
+configurable,complicated
+it seems that zsh is more configurable than bash but also more complicated
+
+
+can i configure zsh to behave more like bash on that
+
+big,surprise,better
+so no big surprise zsh being better than bash
+
+extensible,greater,focus,completion
+zsh is more extensible and has a much greater focus on searching and completion than bash
+
+implementation,builtin,compctl,simpler
+update turns out that zsh implementation based on builtin compctl is much simpler than the bash implementation based on builtin complete
+
+useful,interactive,features,better
+however bash has useful interactive features dash does not zsh is still better imho
+

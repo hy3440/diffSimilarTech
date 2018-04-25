@@ -1,0 +1,28 @@
+root, results, access, ---------------------------------------------------
+
+root,access,better
+this goes in your root .htaccess but if you have access to httpd.conf that is better
+
+better,results
+instead of mucking with httpd.conf you might get better results with .htaccess
+
+others---------------------------------------------------
+
+limitrequestbody,directive,file,local,higher
+ask your hosting company to set the limitrequestbody directive in either your httpd.conf file or a local .htaccess to be higher
+
+best,easier
+the best way will be to use httpd.conf even if .htaccess seems easier
+
+changes,better,later,runtime
+i have read that setting changes in httpd.conf are much better as compared to making changes in .htaccess as the later one is parsed at runtime while .conf is parsed at the time of starting apache
+
+apaches,faster,small,overheadâ
+using apaches httpd.conf is faster since accessing the .htaccess adds a small overheadâ apache checks every directoryâ and parent directoryâ for the file and it will be loaded for every request
+
+lines,root,level,configuration,main,complex,sets
+these two lines are in the .htaccess at root level of the site - the configuration in the main httpd.conf is considerably more complex but just that sets particular options for the ssl within the admin area and doesn t affect non-admin areas so i know this works whether it will for you i cannot say
+
+mode_rewrite,efficient,script
+doing it via mode_rewrite in httpd.conf or in .htaccess will be more efficient than doing it via a php script
+

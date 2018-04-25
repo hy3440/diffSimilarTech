@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+shader,corner,texture,pre
+then either use a shader with a uniform to select which corner of the texture to display or else make a quad for each corner with pre baked uvs to select which part of the video to display
+

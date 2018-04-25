@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+finite,set,first-order,logic,limited
+while relational-model can express any finite set of facts since it s equivalent to first-order logic the entity-relationship-model is more limited
+

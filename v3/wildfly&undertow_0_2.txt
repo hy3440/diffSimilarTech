@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+console,subsystem,requests
+from the wildfly console i understand that the undertow subsystem is receiving more or less 20 requests per second and using the application in chrome i see the requests pending for more than 30 seconds
+
+swarm,project,version,files,bigger,default,bytes
+i m working on a wildfly swarm project using wildfly swarm version 2017.8.1 maven 3.5.0 openjdk 1.8.0_141 where users will often upload files way bigger than undertow s default 10485760 bytes 10mb max-post-size setting
+

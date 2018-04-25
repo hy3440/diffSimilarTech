@@ -1,0 +1,5 @@
+others---------------------------------------------------
+
+commercial,devices,cheaper,pic
+i see that the microcontroller used in commercial devices are much cheaper than the avr or pic
+

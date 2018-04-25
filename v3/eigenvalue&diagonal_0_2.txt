@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+band,structure,dominant,bands,row,opposite,sign,sum,entry,positive,definite,eigenvectors,cg,iccg
+i don t know what you anticipate your matrix band structure to look like but if it is symmetric and either diagonal dominant off diagonal bands along each row and column are opposite sign of diagonal and their sum is less than the diagonal entry or positive definite no eigenvectors with an eigenvalue of 0. then cg and iccg should be useful
+
+last,element,multiplicity,larger
+because is singular t can be constructed such that the last element on the diagonal or even more diagonal elements if the multiplicity of the eigenvalue is larger than one is zero
+

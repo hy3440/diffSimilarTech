@@ -1,0 +1,10 @@
+overhead, speed, gwt, ---------------------------------------------------
+
+overhead,libraries,gwt-ext,project,speed
+if the added overhead of all the extjs libraries are too much for you in gwt-ext then the gxt project from extjs may be more your speed
+
+flavors,gwt,libraries,time
+i have worked pretty heavily with both flavors of the gwt extjs libraries though i ve spent more time with gxt recently
+
+others---------------------------------------------------
+

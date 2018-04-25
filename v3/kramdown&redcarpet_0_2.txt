@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+easy,easier
+not too easy extending redcarpet this way maybe kramdown is easier
+
+pygments,longer,available,rouge,_config.yaml
+also redcarpet and pygments were no longer available so they must be replaced by kramdown and rouge in _config.yaml
+

@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+posts,logical,newer,spec,jsr268,portlet
+the posts you see seem to be logical as jsr286 is a newer spec and there are some features that make jsr268 portlet not a jsr168 portlet
+
+poster,easier,portlets,wef,standard,impossible,limited,version
+as the previous poster points out this would be easier with jsr286 portlets wef and non-wef as the eventing is standard but it s not impossible with jsr168 if you re limited to that version in the short term
+

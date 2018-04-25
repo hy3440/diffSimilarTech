@@ -1,0 +1,8 @@
+others---------------------------------------------------
+
+outlook.com,closer,results
+in outlook.com hotmail it looks closer to the results shown with gmail
+
+rules,spam,filter,strict,self-learning,system,message
+i know for a fact hotmail is using a rules based spam filter which is quite strict and gmail uses more like a self-learning system which could explain why gmail accepts your message and hotmail doesn t
+
