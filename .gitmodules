@@ -1,0 +1,3 @@
+[submodule "diffTech"]
+	path = diffTech
+	url = https://github.com/hy3440/diffTech
