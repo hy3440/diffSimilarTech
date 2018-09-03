@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-floatvalue,method,powerful,flexible
-use the floatvalue nsstring method or a nsscanner which is more powerful and flexible
-
-number,easier,substring,long,string,method,integervalue
-of course you might be able to make the first step from long string to number easier by using nsscanner or by taking a substring of your long string cutting out everything except for the number itself and then using the nsstring method integervalue or doublevalue
-

@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-media,queries,scss
-i would suggest kicking bootstrap and using plain media queries optionally using whatever css-preprocessor you like like stylus sass scss less ...
-

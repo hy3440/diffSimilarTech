@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-better,built-in,int,errcode
-they describe intent better than built-in typename do typedef int errcode
-

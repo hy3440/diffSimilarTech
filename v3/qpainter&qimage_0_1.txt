@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-painting,textantialiasing,likely
-try painting via a qimage -- the qpainter textantialiasing is more likely to be honoured that way
-

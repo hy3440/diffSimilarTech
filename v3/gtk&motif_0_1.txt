@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-qt,common,ones,days,older,look
-gtk and qt are two of the most common ones these days but there are others such as motif which is older and doesn t look as nice
-

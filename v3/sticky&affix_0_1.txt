@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-bootstrap,easier,custom,navigation
-so instead of playing with the bootstrap affix it was easier to create a custom sticky navigation
-

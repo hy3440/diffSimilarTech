@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-integer,time,file,integers
-so here fgets is reading more than one integer at a time from file so atoi is not getting the integers in file too
-

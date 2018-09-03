@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-better
-agreed that using odp.net is better than deprecated system.data.oracleclient
-

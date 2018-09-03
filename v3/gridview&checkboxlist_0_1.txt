@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-multiple,columns,control,better,alternative
-since you re presenting multiple columns a gridview control is a better alternative to checkboxlist
-

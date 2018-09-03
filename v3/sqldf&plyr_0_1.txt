@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-first,example,3x,slower,200x,faster,data.table
-in the first example sqldf is 3x slower than data.table and in the second its 200x faster than plyr and 100 times faster than data.table
-

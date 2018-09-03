@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-page,div,image,thumbnails,thumbnail,images,bigger,ajax,content
-i have a div for displaying images placed at the center of a page and below that div i ve added slider displaying image thumbnails using jcarousel clicking on thumbnail images from the slider displays the bigger image inside a div positioned just above the slider and this is done using ajax i mean i m just changing the content of div to display selected image but whenever i click on thumbnail in slider for loading image the page gets scrolled and image is displayed what could be the problem pls suggest
-
-skeleton,example
-i am using jcarousel to display more slider at once as it can be seen in the skeleton example
-

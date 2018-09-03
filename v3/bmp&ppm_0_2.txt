@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-pgm,files,simpler,portable
-i used ppm pgm files as they are simpler to write and more portable than bmp
-
-thing,format,easier
-the only thing i can suggest is that you use ppm format which is even easier than bmp for you to read from
-

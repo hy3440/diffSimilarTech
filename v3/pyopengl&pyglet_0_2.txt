@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-strict
-pyglet is more strict the pyopengl so i m now learning it
-
-
-i d say that pyglet is actually more evolved than pyopengl
-

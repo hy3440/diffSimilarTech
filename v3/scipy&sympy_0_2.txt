@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-versions,numpy,matplotlib,pandas,sci-kits
-another even simpler option than canopy and anaconda is just to download spyder s dmg which comes with the latest versions of numpy scipy matplotlib pandas sympy and the sci-kits
-
-complexity,expressions,better
-first of all if it was not for the relative complexity of the expressions here scipy would have been definitely the better option over sympy
-

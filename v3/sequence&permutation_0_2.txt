@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-result,function,length,potential,short,vast,number
-the result of the above function will give you a list of sequence that are all less than the length which is key when considering potential permutation 100 is fairly short so there is a vast number of permutation that can be readily discarded
-
-happy
-if you are happy with this sequence of permutation there is little more to do
-

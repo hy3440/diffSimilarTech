@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-format,flexible
-the c format is the same as is used by ctime but strftime is more flexible
-

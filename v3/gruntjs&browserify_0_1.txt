@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-gulp,popular,automation,file,webpack,better,module
-while gulp gruntjs is very popular for build automation which includes bundling all dependent javascript in file and minifying them in to one file webpack browserify is a better option as it supports module import
-

@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-lengths,strings,sensible,faster,nulls
-if you know the lengths of the strings memmove is a sensible choice - and nominally faster than strncpy because it does not have to check for nulls as it goes
-

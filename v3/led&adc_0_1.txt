@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-value,half
-it should turn on a led if the adc value is more than half of max
-

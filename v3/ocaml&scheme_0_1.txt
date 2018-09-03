@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-better,basic,haskell,common,clojure,scala
-i personally believe that it is not worth the effort because basic is a nearly dead language and there are lots of languages better than basic ocaml haskell common lisp clojure scala scheme go d ...
-

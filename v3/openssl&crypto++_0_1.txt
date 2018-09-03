@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-day,avail,easier,error.
-tried all day with crypto++ to no avail openssl was much easier just hung up on this one error.
-

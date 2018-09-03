@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-thing,simpler,drag,drop
-one thing you could look into is using tablesorter - which is much simpler than datatables - with a drag and drop plugin like sortable for jquery ui or this
-

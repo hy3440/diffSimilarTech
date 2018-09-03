@@ -1,0 +1,112 @@
+access, method, weaker, ---------------------------------------------------
+
+firebasemessagingservice,com.google.firebase.iid.zzb,intent,method,private,access,cannot,weaker,reference,wrong
+so i inspected the compiled firebasemessagingservice which was the subclassing of com.google.firebase.iid.zzb and had zzae intent method as private but its subclassing firebasemessagingservice had protected access i know that subclassing cannot have weaker reference than its superclass so i guess there is something wrong with firebasemessagingservice library
+
+overridden,method,weaker,access
+the subclassing overridden method cannot have weaker access than superclass method
+
+words,accessible,access,modifier,effect
+in other words if a subclassing is more accessible than its superclass then the access modifier of the superclass loses effect
+
+object,method,class
+if we are creating an object of a subclassing and invoking the method of superclass and if subclassing extends more than one class which superclass method should be called
+
+narrower,subtype,method,return
+however if the subclassing returns a narrower subtype of the superclass method return this is called a covariant return type and is allowed in java since jdk 1.5
+
+able,interfacec,method
+shouldn t a subclassing interfaced be able to take in more than the superclass interfacec and use the same method
+
+relations,restrictions,method,acts
+these relations naturally arise when you impose restrictions on what you can handle--then if a subclassing means that the method can handle less acts as a superclass of since can handle everything that the subclassing can handle and more
+
+general, functions, bigger, ---------------------------------------------------
+
+general,specific
+the general problem is that the subclassing is more specific than the superclass
+
+general,features,objects
+superclass defines more general features of the objects of its subclassing
+
+specific,functions,task
+however they are not the same because the subclassing has more specific functions and data members that accomplish a more specific task that the superclass
+
+bigger,interface,functions,getunixtimestamp
+you can t cast a superclass in a subclassing because the subclassing may have a bigger interface than the superclass means the subclassing can have functions like getunixtimestamp that the superclass doesn t have
+
+bigger,second,statement
+in this case superclass is bigger than subclassing that s why the second statement is correct
+
+arguments, optional, init, ---------------------------------------------------
+
+specific,arguments,__init__,method
+if the subclassing is more specific then it might fill in all by 2 of the arguments to its superclass __init__ method
+
+arguments,optional,placeholders
+if you subclassing has less arguments than a superclass and you could make them optional in the superclass just add placeholders in the subclassing
+
+argument,optional
+subclassing must allow more than the superclass not less and going from an argument being optional to not optional is allowing less
+
+explicit,fewer,arguments
+with explicit superclass calling your subclassing can accept more or fewer arguments than its superclass and can decide itself what to pass when calling the superclass
+
+smaller, memory, flexible, ---------------------------------------------------
+
+flexible,entire,object,methods
+a subclassing is more flexible and is treated as an entire object which responds to all superclass methods plus it s own
+
+smaller,memory,object
+2 since superclass is smaller than subclassing one should use memory object carefully
+
+smaller,complex
+for my understanding the superclass is always smaller less complex then the subclassing
+
+member,fields,memory
+if new member fields are declared in the subclassing then yes a subclassing presumably uses more memory since it has all the fields declared in the superclass plus all the fields declared in the subclassing
+
+other---------------------------------------------------
+
+methods
+you cannot have a subclassing with less methods than a superclass
+
+original,post,restrictive
+even in your original post the subclassing is actually more restrictive than the superclass so doing something like
+
+sense,realnumber,number
+here having a superclass makes more sense or at least having a realnumber subclassing of number
+
+contract,promises
+hence your subclassing is accepting less classes than the superclass contract promises
+
+longer,instance
+this breaks the inherited and the subclassing is no longer an instance of the superclass
+
+cannot,lower,visibility
+still you cannot inherited from a as superclass cannot have a lower visibility than subclassing
+
+topographic,map,higher,altitudes
+yes but if you think of your diagram as a topographic map the subclassing have higher altitudes than the superclass
+
+stringent,constraint,blank,false,content,nullable
+the superclass has a more stringent constraint on a property content blank false than the subclassing content nullable true and i am using tableperhierarchy false
+
+selective,new,functionality,light,promises,nothing
+the fact that the subclassing is more selective only actually writes about what it writes is new functionality especially in light of the fact that the superclass promises nothing
+
+values,reasonable
+so what this says is that provided your subclassing doesn t have any more values than the superclass used to determine ordering implementing is reasonable
+
+note,time
+take note of this there is no way to subclassing more than one superclass at a time
+
+jql
+watch out you can t query a superclass if you have more than 1 subclassing then something like in jql
+
+abstract-class,specific,type,abstract,fruit,apple,strawberries,non-abstract,relationship,dad
+for example you want to use abstract-class in such a case that each of the subclassing is a more specific type of its abstract superclass fruit apple orange banana grape strawberries etc. and you want to use non-abstract superclass in a relationship such as dad and son
+
+er,modelling,multiple
+in enhanced er modelling subclassing inheriting from more than 1 superclass is called multiple inherited
+

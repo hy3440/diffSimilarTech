@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-general,subclasses,different,places,specific,string
-ostream is more general subclasses support writing to different places ostringstream is a specific one writing to a string
-

@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-last,doc,render,in-line,page,word,.xls,client
-the last two doc and xls don t render in-line on the page it downloads the word .doc or .xls to the client computer
-

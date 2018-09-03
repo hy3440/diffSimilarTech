@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-iife,approach,function,call,method,disadvantages
-despite the fact that using the iife approach would let you do more than just one function call in the anonymous method are there any disadvantages to swapping it out for the curry approach
-

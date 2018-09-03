@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-mapping,easier,haskellers
-my guess is that scalacheck being initially written as a 1-1 mapping of quickcheck makes it easier for haskellers to jump into scala
-
-api,richer
-scalacheck s api is also a bit richer than quickcheck s api
-

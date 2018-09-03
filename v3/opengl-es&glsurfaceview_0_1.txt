@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-textureview,flexible,normal,layout
-textureview will display opengl-es rendering but is much more flexible than glsurfaceview and will follow the normal layout hierarchy in android which allows views to be moved on the display
-

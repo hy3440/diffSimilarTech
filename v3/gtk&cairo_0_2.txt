@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-common,jeff,foster
-with gtk it s more common to use cairo already mentioned by jeff foster
-
-larger,area
-the problem is that the canvas drawn by cairo is larger than the area of gtk s scrolled_window
-

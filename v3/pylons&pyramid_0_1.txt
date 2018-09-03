@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-better
-but pyramid would be a better choice to learn right now as pylons is not actively developed
-

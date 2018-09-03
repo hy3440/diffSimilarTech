@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-freetds,older,windows,sql,server,authentication,mechanism
-both freetds and jtds support an older windows authentication scheme named ntlm while current versions of microsoft s jdbc driver for sql server mssql-jdbc no longer support that authentication mechanism
-

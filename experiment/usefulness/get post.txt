@@ -1,0 +1,4 @@
+504981
+as mark noted post is more secure
+24430127
+get is basically for just getting retrieving data a get should not have a body so aside from cookies the only place to pass info is in the url and urls are limited in length get is less secure compared to post because data sent is part of the url

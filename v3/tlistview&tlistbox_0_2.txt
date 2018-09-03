@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-use,data,property,icons,better
-i know tlistbox renders like this but i require the use of tlistview for the data property also the tlistview handles icons better via a timagelist
-
-needs,multi-column,vsreport,mode,better
-depending on your actual needs which you did not explain a multi-column tlistview in vsreport mode may be a better choice than a tlistbox
-

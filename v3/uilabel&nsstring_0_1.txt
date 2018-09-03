@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-text,label,size
-but the problem i am facing if text is doted inside the label it calculates nsstring size less than uilabel size in the below code
-

@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-libxml2,api,expensive
-also since lxml is based on libxml2 and libxslt you ll need less calls into the c api which can be quite expensive in my experience
-
-libxml2,lower-level,bindings,straightforward,pythonic
-libxml2 libxslt also come with their own much lower-level python bindings but lxml is much more straightforward and pythonic and it seems to have great performance as well
-

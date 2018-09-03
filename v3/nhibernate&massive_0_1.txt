@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-ef,slower,petapoco,ado.net
-i have noticed that ef is slower than linq2sql massive petapoco ado.net and possibly nhibernate
-

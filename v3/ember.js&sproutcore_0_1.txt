@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-post,better,differences,widget,support
-i have seen a lot of post where they are claiming that ember.js is much better than sproutcore but looking at the differences i have seen that the widget support is not there in ember.js
-

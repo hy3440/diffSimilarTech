@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-machine,cable,connectivity,adaptor,choise
-if you are working on physical machine that has cable and wireless connectivity then you will have more than one ethernet adaptor choise
-

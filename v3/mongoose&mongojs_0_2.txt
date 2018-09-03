@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-mongo,app.i,complex,data.i,difficult.with,mongodb,queries,simple,schema,better
-i would like to use mongo js and mongoose in the same app.i require mongo js as i don t want write schema for a specific functionality of the app as it includes nested and complex data.i tried mongoose but that just makes it more difficult.with mongojs i could directly write mongodb queries and execute.whereas for other functionalities like validation and simple schema mongoose would be better so can i use both
-
-tiny,amount,likely,slower,meaningful
-in either case mongoose is going to add a tiny amount of overhead so it s likely to be technically slower than mongojs but not by any meaningful amount like it takes 5.1 seconds to insert 20k records vs 5.0 seconds
-

@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-possibility,piping
-one possibility is to use dplyr piping and tidyr see more about them here and here
-
-appropriate,level,short,form,longer,id
-now use dplyr to grab the appropriate level from levels data.frame then spread this back out to short form using tidyr and delete no longer needed id
-

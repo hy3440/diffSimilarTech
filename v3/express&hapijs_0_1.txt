@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-smaller,services,kind
-we started experimenting with hapijs on smaller services and kind of like it more than express
-

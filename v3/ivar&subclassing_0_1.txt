@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-class,hierarchy,use,specific,better,superclass,id,type,necessary
-if i have a class hierarchy in which subclassing require use of more specific types than those specified in the superclass ivars is it better to declare the superclass ivar as id or to type it and then cast where necessary in the subclassing
-

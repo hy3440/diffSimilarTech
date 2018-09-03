@@ -1,0 +1,98 @@
+faster, rm, rf, ---------------------------------------------------
+
+rm,-rf,faster,files
+rm -rf directory also works faster for billion of files in one folder
+
+ls,head,files,execution,faster,tail
+if i run ls folder | head in a directory with a lot of files the execution time is about 50 times faster than ls folder | tail
+
+different, second, lower, ---------------------------------------------------
+
+files,different,second
+i have tested on mp3 files in different directory it takes less than one second with over 6000 files stored in different folder
+
+file,lower,files
+i created a php file which deals with file deleting and uploading but i this file is one directory lower than the folder for files
+
+bunch,files
+this folder has way more than 1 directory and has a bunch of files so apparently it snot reading something correctly
+
+file,higher,target
+file must be in the same or higher directory as target folder
+
+deep, ftp, common, ---------------------------------------------------
+
+ftp,files,deep
+i am using the bash ftp command to ftp files however i have a problem where i try to create a directory that is more than 2 folder deep
+
+common,files,solution,file,deep
+i would recommend placing the common files in the same directory as the solution file or no more than 1 folder deep
+
+base,deep
+i m starting in the base directory and i know that the the directory goes no more than 1 folder deep past the base directory
+
+other---------------------------------------------------
+
+varargs,home,sub
+test code updated so you can see that both it works identically whether using varargs or not will fail if your home directory has less than 5 sub folder
+
+structure,lib,mypackage
+but my directory structure is more organized its more like app lib mypackage folder
+
+calls,call,deeper,directoryinfo.getdirectories
+if you really need to enter the sub-directory however you can create recursive calls and in the call you can check if the directory has further deeper folder by using directoryinfo.getdirectories
+
+top,mail,sa44-3,larger,level,8gb,new
+i need to make sure that each of these top mail directory sa44-3 is not larger then 8gb so the script should calculate the size of each top level folder and if its over 8gb create a new one called eg
+
+dropbox,longer,user,r,cannot
+the problem is that the dropbox folder is no longer in my user directory so r cannot find the directory.
+
+
+i have a directory containing more than 1000 folder
+
+users,b,e,f,number,.html,files
+to navigate to f you must go to c users folder a b c d e f within each directory there are a number of .html files and potentially more than one folder also
+
+better,entire,stata8,copying,time
+and before copying the directory it is better to zip the entire stata8 folder - that will significantly reduce copying time since there are plenty of small-sized files
+
+git,repository,.git,bigger
+unfortunately the directory also is a git repository and has a .git folder in it which is much bigger than the directory itself
+
+subfolders....i,need,name,final,level..
+i have a directory that contains more than 5000 subfolders....i need to get the name of the folder in the final level..
+
+first,easy,tedious,multiple,windows,object,target,copying,files
+the first option is easy with one directory but becomes much more tedious with multiple folder not to mention that windows will likely create an object in the target directory before it has finished copying and i am compressing files potentially over 10 gb so that solution won t work
+
+.mke,windows,install,clause,exception
+i have makefile .mke on windows and i need to count directory in a folder which start with install and then make if clause to throw an exception if there are more than one directory like this
+
+file,systems,network,drive,ioexception
+on windows xp however it works fine on local file systems but when watching folder on a mapped network drive it throws an ioexception when trying to watch more than 50 directory
+
+file,names,depths,greater,real,standard
+the genisoimage man page suggests using -r or -r which has better defaults for ownership in addition since the rock ridge standard supports 255 byte file names and folder depths greater than 8 directory and is a real standard unlike joliet
+
+new,resource,nothing,build.gradle
+actually adding a new resource folder does nothing more then adding it as a resource directory in build.gradle
+
+user,youruser,.m2
+go to your user directory c profiles youruser there should be a folder called .m2 may be hidden
+
+virtual,system,solution,explorer,nothing,tree,real
+so now i just want to forget this virtual directory system and make the solution explorer to be nothing more than a folder tree as it is in real just like a windows explorer
+
+
+i have a directory which has more than 10 folder
+
+macro,files,older,months,old,sub
+i need help in a vba macro that ll delete files in a directory that contains more than 2 _ and is older than 3 months old however there are some folder sub folder in the directory that must not be touched or modified
+
+cache,session,systems,safer,important,system,application
+i find the best way is to create a cache session folder in your systems directory is more safer i put important things like logs and cache in system rather than application folder
+
+explorer,subset,worse,duplicated,worth
+btw microsoft azure storage explorer in my case showed only some subset of folder which is much worse than displaying duplicated directory so i switched to azure explorer mentioned above and it s worth recommending
+

@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-tutorial,bitwise,operators,information,related,shift,right
-the official tutorial on bitwise and bit-shift operators has more information about other related operators and xor left shift right shift
-

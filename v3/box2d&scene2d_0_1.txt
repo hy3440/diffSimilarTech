@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-objects,application
-so basically when box2d is more about how objects will behave themselves during application running the scene2d is more about how you write your code before application running
-

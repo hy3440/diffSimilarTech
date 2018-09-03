@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-returns,check,ferror,end-of-file,error,number
-if fread returns 0 check feof and ferror to find out if you got to the end-of-file or got an error both cause fread to return less than the number requested
-

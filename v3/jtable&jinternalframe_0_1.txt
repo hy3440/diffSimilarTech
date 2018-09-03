@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-jscrollpane,nested,issues,scrolling,larger
-i ve found that in my jtable which is in a jscrollpane nested in a jinternalframe there can be issues with scrolling and resizing when the jtable was larger than the jscrollpane
-

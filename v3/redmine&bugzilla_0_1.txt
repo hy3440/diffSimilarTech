@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-team,mantis
-i think you ll find that your team will like either trac or redmine more than bugzilla or mantis
-

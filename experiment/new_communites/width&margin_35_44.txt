@@ -1,0 +1,146 @@
+left, right, greater, ---------------------------------------------------
+
+left,right,larger
+by giving the middle indicators div a left and right margin slightly larger than the width of the left and right button divs you allow it to float up between the two and take up as much space as possible
+
+content,table,left,right,auto
+if the content leads to a width that is less than 100 of the table s containing block then setting the left right margin to auto will center the table within the containing block
+
+div,left,greater,image
+the title goes in a h1 for example and the text in a p or div so set these two elements to have a left margin greater than the width of image a
+
+large,left,wider,column
+another option is not to float the main content column but instead assuming it s the right column to give it a large left margin that is slightly wider than the width of the left column
+
+screen,left,view,right
+but if the screen width is less than 200 then it will be from left view edge margin to right view edge margin.
+
+row,+15px,right,bigger,window
+the reason why your website is x-scrollable on all devices is that you forgot to add to and the row inside it has 100 +15px left margin +15px right margin which is bigger than window width
+
+right,column,equal,greater,fixed-width
+a common solution is to float your fixed-width column left or right and give the other column a margin equal or greater than the width of the fixed-width column
+
+bigger, little, larger, ---------------------------------------------------
+
+content,div,larger,sidebar
+the the main content div needs to have left margin larger than the width of your sidebar
+
+work,bigger,real,auto,content
+but in general this wouldn t work because of the specified width is bigger than the real one and exceed it so there s no margin to auto it and center the content which found in div
+
+div,article,little,bigger,usual
+aside of the left floated div i have another div article with a margin a little bigger than the width of the floating div just usual for a two column layout
+
+box,small,adjacent,div,bigger,ul
+the box is never too small infact the margin of the adjacent div is bigger than the width of ul div
+
+value,little,bigger,image,specific
+anyway i just set the margin to a value a little bigger than the width of the image and overlap is eliminated only in the very specific case we want
+
+screen,larger,contents,media,query
+when the screen width becomes larger than 500px the contents of the media query are ignored and the margin becomes 20
+
+huge,distance,bigger,screen,stackoverflow
+when i launch it with firefox or internet explorer the box gets immediately to a huge distance from the margin much bigger than the width of the screen and now i noticed that if i run it with stackoverflow s snippet function the box does not move
+
+point,text,bigger,figure
+what i do not understand is why the size of the point and the text is not the same and why the margin can be bigger than the width of the figure
+
+greater, element, div2, ---------------------------------------------------
+
+left,div2,greater,div1
+i just made the left margin of div2 greater than the width of div1 and it worked for me
+
+additional,element,greater
+you have given width of 50 with additional margin of 5 to each of the element which is greater than 100 width
+
+negative,equal,greater,element,effect
+once the negative margin is equal or greater than the width of that element further negative margin has no effect
+
+div,right,greater,right-floated,element
+give the sample text div a right margin greater than the width of the right-floated element
+
+drawer,open,greater
+on release the drawer should slide open if its margin is greater than half its width and should close if its less
+
+total,greater,separate
+adding margin adds more width making the total width of the two elements and their margin greater than 100 pushing the elements onto separate lines
+
+divs,style,greater,equal,image,50px
+you can try giving an id to each one of the divs or style them for margin that is greater than or equal to the image width.assuming you image width is 50px this code shall work
+
+inner,div,lesser,sidebar,class
+one way of doing this is checking if left margin of the inner div is lesser than the width of sidebar and then only add class adjust
+
+column,pixels,size,greater,content,area,siblings
+the first-child column has 10 pixels or whatever the margin size is greater content area width than it s siblings
+
+container, side, next, ---------------------------------------------------
+
+side,div,width.one,auto
+how to place 2 div side by side one div is of 75 width and the other is 25 width.one more div with margin 0 auto
+
+auto,better,container,centre
+first one margin auto is better if you can know width of container list and you don t want centre content of this container
+
+div,higher,maximum,main,container
+now if the div with has margin 660px from the left it should be hidden because it s margin is higher than the maximum width of the main container
+
+next,padding,total
+and if they aren t next to eachother that means your padding and margin is more than the 5 width of total width so reduce them
+
+total,object,padding,border,columns,container
+just so you know you want the total width object width + padding + margin + border of both columns to be less than the width of the container
+
+consideration,side,large,container
+you have to take into consideration that borders take up width and that the margin of 1 of either side of the large container means that it can only be less than 100 width
+
+float,next,combined,border,padding,blocks,equal,container
+this means they won t float next to one another unless you set the width of each so that the combined width + margin + border + padding of both blocks is equal to or less than the width of the container
+
+viewport, iphone, body, ---------------------------------------------------
+
+negative,viewport,iphone,view
+you re negative margin is more than half the viewport width of an iphone therefore it is dragging it out of view
+
+viewport,body,default
+the elements are sized relative to the entire viewport but the body width is less than this because of the default margin on body
+
+padding, notice, arrow, ---------------------------------------------------
+
+notice,arrow,px,carousal,padding
+i notice that when the arrow block is rendered when width is less than 296 px inside the carousal there is some space between the left border of the carousal and the arrow block even though i did not add padding or margin
+
+css,height,directives,images,nicer,padding
+edit someone else suggested css and i believe that using the height and width directives from css will give you the same result as using the same attributes of the tag but doesn t limit you strictly to images and a will play nicer with any margin or padding directives you might use
+
+other---------------------------------------------------
+
+percent,work,browsers,flex,related,viewport,css,calc,equal
+margin using percent doesn t work cross browsers on flex items so if your margin s is more related to the viewport use viewport units vh or vw else you can combine px with css calc width calc 33.333 - 20px to match an equal gutter between the items
+
+20px,x
+instead of the reaching 100 width the margin is causing less width for them due to the 20px x 12
+
+window,total,open,windows,greater,first,chat
+i m using the function window .resize to detect if the total width of all open windows plus some margin is greater than the window s width then hide the first chat window or show the last one if there s space for more windows
+
+browser,110px
+if browser width is more than 768px then set a 110px margin
+
+animation,longer
+my guess is that they are technically happening simultaneously but that the margin animation takes longer to complete than the width animation
+
+textblock,columns,clipping,earlier
+so it would also be possible to have all three textblock columns starsized but that means width clipping does occur earlier and there is more margin
+
+difficult,outside,box
+but the margin is more difficult to include in the width because it is on the outside of the box
+
+images,image
+50 width is more than enough for the images to fit even with the image margin
+
+window,re-sized,810px,css,styling,top,infinity
+essentially my logic is when the window is re-sized and the width is less than 810px then remove all css styling and add margin top items 2 through infinity
+

@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-b,slower,sequential
-b magma runs always slower than lapack sequential around 10 times slower
-

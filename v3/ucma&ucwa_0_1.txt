@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-thread,server-side,easier,application,lync
-old thread but in my experience writing server-side code with ucma is somewhat easier than trying to use ucwa - and all that ucwa really is is a ucma application sitting on your lync s4b server with a rest wrapper
-

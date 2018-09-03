@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-tableview,cellforrowatindexpath,indexpath,lower,image
-then in the function tableview tableview uitableview cellforrowatindexpath indexpath nsindexpath i got the lower image in the first row and the upper image in the last row invisible
-

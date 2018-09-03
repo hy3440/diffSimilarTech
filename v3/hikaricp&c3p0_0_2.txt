@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-database,connection,pool,suspect,better,broken
-while you are at it you might want to try the hikaricp database connection pool instead of c3p0 i suspect hikaricp is better at recovering from broken database connections
-
-better
-i would also recommend you to check hikaricp as its way much better than c3p0
-

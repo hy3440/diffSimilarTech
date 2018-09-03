@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-modern,active,nicer,reports
-however cobertura looks more modern active last update from 2010 instead of 2005 and generates nicer reports so i would prefer it over emma
-
-code-coverage,job,better,stable,last
-if you re going to stick with maven and want a plugin for maven that will do the code-coverage job i think cobertura is a better choice as emma stable last build is from 2005
-

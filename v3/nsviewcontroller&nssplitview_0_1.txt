@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-changes,nssplitviewcontroller,parameters,luck
-i ve tried a great deal of configuration changes i ve tried using an nssplitviewcontroller vs just dropping an nssplitview into an nsviewcontroller to adjust more parameters programmatically but i m not having any luck
-

@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-strlen,malloc,identical,result,obligation,storage,longer
-additionally if you have strdup then it is much more convenient than strlen + malloc + strcpy with identical result including the same obligation to free the allocated storage when you no longer need it
-

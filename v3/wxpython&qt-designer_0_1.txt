@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-powerful,counterpart,boa
-as far as i can tell qt-designer is more powerful than any wxpython counterpart like boa constructor and pyglade
-

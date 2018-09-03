@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-inevitable,experience,desire,cmake,imake,ant
-edit i was hoping not to turn this into another flame war but i guess that s inevitable so i will just say that i have considerably more experience with autotools and no desire to learn cmake or scons or imake or ant although i seem pretty much stuck with the latter when working with java these days or whatever new tool is invented next year or the year after
-

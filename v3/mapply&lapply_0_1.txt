@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-map,functions,natural,multiple,lists
-the map or mapply functions are more natural to use than lapply when you have multiple lists of corresponding objects
-

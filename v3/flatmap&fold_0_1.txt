@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-map,aggregate,selectmany,filter,withfilter
-in .net they have a little bit weird names whereas in scala they have the same standard names they have in other languages select is map aggregate is reduce or fold selectmany is flatmap where is filter or withfilter orderby is sort or sortby or sortwith and there are zip take and takewhile and so on
-

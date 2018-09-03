@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-model,dom,better,data,binding,jaxb
-but if convenience is more important than efficiency yes you probably should consider a tree model not dom necessarily xom is better for example or data binding jaxb or xstream
-

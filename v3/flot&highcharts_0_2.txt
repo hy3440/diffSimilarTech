@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-steeper,learning,curve,rgraph
-i have found highcharts to have a steeper learning curve than flot or rgraph imho
-
-svg,dynamic,graphs,css
-highcharts is svg and as such it is much more dynamic than flot you can restyle graphs with css attach events perform animations etc..
-

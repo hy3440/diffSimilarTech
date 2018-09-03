@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-newer,qt,documentation,states
-qstyleditemdelegate is newer and the qt documentation about qitemdelegate states that
-

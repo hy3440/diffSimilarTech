@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-25th,75th,simpler,first
-in the end i will add a band that displays 25th - 75th percentile but i figured working with the median would be simpler first
-
-someone,top,productive,useful,programmers
-as one good programmer can be more productive than two average programmers i vaguely remember an old ibm study concluding someone in the top percentile was 27x more productive than median it s useful to see the same programmers doing it both ways
-

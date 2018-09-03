@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-idea,capable,scrapy
-i have no idea about appfog but heroku is more than capable for running scrapy
-

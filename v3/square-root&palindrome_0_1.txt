@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-possible,larger,factor
-the mathematical reason for this is that once the solution 906609 is found it will no longer be possible to find a larger palindrome where the larger factor is less than the square-root of 906609 which is 952.160.
-

@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-window,widget,bigger,smaller,positions
-if i resize the window and a widget with a highcharts is bigger than the window i want to resize it to make it smaller and gridster should recalculate the positions of the others
-

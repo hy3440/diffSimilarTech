@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-classic,faster
-knuth-morris-pratt which is classic or boyer-moore which is sometimes faster
-

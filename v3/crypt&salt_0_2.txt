@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-hash,password,secure,brute
-so when i see that the salt is stored in the hash password and that you use that hash password as salt i think crypt + salt is not more secure against a brute force on output hackers who managed to steal hash passwords
-
-nothing,hash,earlier
-that accepts either nothing a salt or a hash that crypt made earlier which has the salt to make the hash embedded in it
-

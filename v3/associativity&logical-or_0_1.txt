@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-operator,higher,right-to-left
-i looked it up and the logical-or operator has a higher precedence than the conditional operator and the conditional operator has right-to-left associativity
-

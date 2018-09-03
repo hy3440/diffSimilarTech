@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-larger,number,gui,superior
-phpmyadmin also shows the larger number however i have switched to heidisql since i find it s gui is superior for my local development
-

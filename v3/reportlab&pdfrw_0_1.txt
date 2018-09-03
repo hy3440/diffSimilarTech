@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-better,path,conjunction,import,pdf,similar,image
-you can use a similar but perhaps slightly better path with pdfrw -- you can run pdfrw in conjunction with reportlab and import the pdf you exported from pydot and use it as a form xobject similar to an image on the reportlab canvas
-

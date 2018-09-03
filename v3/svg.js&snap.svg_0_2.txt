@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-syntax,concise,readable
-the snap.svg syntax is a bit more concise the svg.js code is more readable
-
-svg,raphaels,younger,shares,codebase
-if you definitely need svg and want to only use existing elements you may want to look at snap.svg which is raphaels younger sister and shares a lot of the same codebase or another like svg.js
-

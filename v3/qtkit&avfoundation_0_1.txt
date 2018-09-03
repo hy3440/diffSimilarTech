@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-apple,prores,flavors
-since apple has decided that qtkit is no more and avfoundation appears to only support prores 4444 and 422 flavors how are developers supposed to write modern software that can handle 4444xq 422lt and 422 proxy
-

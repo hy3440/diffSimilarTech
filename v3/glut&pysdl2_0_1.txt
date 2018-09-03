@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-flexible,alternative,pygame,pyqt,context
-i would suggest if you are not forced to use glut to use a more flexible alternative such as pygame pysdl2 or pyqt to create your context instead
-

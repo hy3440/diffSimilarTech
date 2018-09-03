@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-faster
-i ve read that carrierwave is much faster without using fog
-
-example,gem,heroku,configuration,amazon,s3
-one more example with gem fog and heroku configuration for carrierwave with amazon s3 hosted on heroku
-

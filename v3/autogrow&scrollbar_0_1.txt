@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-autogrow.js,height,textarea,fine
-i am trying to stop a textarea with autogrow.js from growing after 300px height and then destroying autogrow textarea so that it has scrollbar although the code i have used to do this is working fine i can stop the textarea from growing after 300px but when that happens the textarea becomes smaller than 300px suddenly
-

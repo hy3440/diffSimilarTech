@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-padding,thing,attribute,better,browser
-if all you want is to include a padding then you can achieve the same thing with the box-sizing attribute set to border-box that has far better browser support
-
-good,demonstration,works,sense
-jeff kaufman has a good demonstration of how box-sizing works and why border-box makes more sense
-

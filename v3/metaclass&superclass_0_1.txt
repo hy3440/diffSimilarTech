@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-inheritance,similar,purpose,powerful
-from what i ve learned so far metaclass and inheritance from superclass in python serve a very similar purpose but superclass inheritance is more powerful
-

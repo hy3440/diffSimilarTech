@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-subclassing,nested,fields,private,protected
-if i have a bunch of fields in a parent class that all need to be inherited by subclassing is it better to have the subclassing nested in the superclass make the fields protected rather than private or use protected accessor
-

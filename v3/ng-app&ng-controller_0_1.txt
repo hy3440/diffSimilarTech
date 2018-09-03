@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-
-a ng-app can have more than 1 ng-controller
-

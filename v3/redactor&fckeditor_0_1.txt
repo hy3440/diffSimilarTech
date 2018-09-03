@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-django-ckeditor,simple,free,flexible,configuration
-try django-ckeditor redactor it s more simple but redactor itself isn t free and i think fckeditor is more flexible in the configuration
-

@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-ides,ubuntu,lightweight,os
-i tried a few ides on ubuntu and it just didn t seem right - gedit is lightweight and i actually enjoy using it more than textmate on os x
-

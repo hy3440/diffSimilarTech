@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-switches,select,row
-but when more than on switching in accessory is on - if three switches are on and i turn off one switching then the did select row works
-

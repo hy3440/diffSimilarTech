@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-use,scanf,safer
-also i d use fgets rather than scanf as it is inherently safer for the same reason that printf is safer than printf
-

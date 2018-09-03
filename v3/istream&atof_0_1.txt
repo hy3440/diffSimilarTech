@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-better,floating,point,values
-atof is indeed better in reading floating point values than istream
-

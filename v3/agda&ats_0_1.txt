@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-dependently-typed,low-level,programming,elegant
-ats is a dependently-typed language that is designed for low-level programming though it s somewhat less elegant than agda
-

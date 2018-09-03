@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-tc,command,machine,specific
-i applied some delay 100ms to loopback interface using netem tc command on a ubuntu machine mint to be more specific
-

@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-afreechart,port,android,awesome,features
-android plot and other free chart solutions mentioned here doesn t support annotations the only one is afreechart which is a port of jfreechart for android i am currently using it and it is awesome and has much more features than achartengine
-

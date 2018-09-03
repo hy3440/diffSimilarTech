@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-detailed,information,problems
-a profiler gives you more detailed information which can help to diagnose and fix perf problems
-

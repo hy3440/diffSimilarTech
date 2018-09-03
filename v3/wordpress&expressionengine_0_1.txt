@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-opinion,sites,better
-but in my opinion for most sites expressionengine is a better choice than wordpress
-

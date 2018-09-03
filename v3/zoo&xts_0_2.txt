@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-better,starting
-xts extends this further but zoo is a better starting point
-
-ts,faster
-however there are many others ts xts which is generally faster than zoo .
-

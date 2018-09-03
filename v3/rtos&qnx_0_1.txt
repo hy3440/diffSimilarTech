@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-os,gpos,sense
-an rtos such as os 9 or qnx would be more suited as these can operate more like a gpos in the sense of loading and executing independently linked executables
-

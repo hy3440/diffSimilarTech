@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-runtime,error
-if i create the same cclabelttf once then i can t add it to more than one ccmenuitem because it will give runtime error about label already added
-

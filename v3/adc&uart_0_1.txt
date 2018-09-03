@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-mcu,data,transmission,interrupt,higher,priority,reading,sampling
-the only problem is that when the mcu is transmitting data uart transmission interrupt has higher priority than the adc reading interrupt the adc is not sampling data hence there will be data loss sample rate is around 500 samples sec
-

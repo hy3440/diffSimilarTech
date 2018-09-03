@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-extensive,support
-in 2009 for example freertos was downloaded more than 77500 times and ecos has extensive support for file-systems and networking etc
-

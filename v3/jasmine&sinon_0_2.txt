@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-thing,better,spies,capable
-the thing that makes sinon a better choice than jasmine spies is that it is capable of programming spies expectations withargs ... .called.
-
-features,smart,stubs,spies
-it should be mentioned that sinon provides many more features for smart stubs spies than jasmine so both can be used together
-

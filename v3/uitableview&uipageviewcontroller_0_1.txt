@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-rootpageviewcontroller,detailpageviewcontroller,childview
-in my app i have a rootpageviewcontroller which contains the uipageviewcontroller and one or more detailpageviewcontroller with a uitableview as a childview
-

@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-default,z-index,basez,higher
-one item to note be aware the default z-index for jqmodal is below default for blockui so using them together requires you set blockui basez option higher than jqmodal s default 3000.
-

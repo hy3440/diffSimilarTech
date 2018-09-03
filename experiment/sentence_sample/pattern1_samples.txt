@@ -1,0 +1,200 @@
+ yes 
+innodb	myisam
+myisam will be quicker definitely because it s losing the acid-compliance that is inherent in innodb
+
+ yes 
+int	boolean
+so boolean operation is quite longer than for int or float
+
+ yes 
+highcharts	flotr
+you should be able to do this in flotr which has a better license than highcharts by just throwing what they showed in this blog post on its side
+
+ yes 
+org.json	jackson
+in this case jackson performs better than nashorn which performs much better than org.json
+
+ yes 
+coalesce	isnull
+on the subject of performance on sql server isnull often performs better than coalesce but the latter is ansi compliant if that is important to you
+
+ yes 
+udp	tcp
+udp packets are easier structured than tcp packets but sacrifice security for their size
+
+ yes 
+recvfrom	datagram
+the datagram is larger than your buffer so it gets trucated you get an error return from recvfrom and getlasterror returns  wsaemsgsize
+
+ yes 
+trie	dawg
+a dawg has better memory performance if the strings have many common suffixes but they are more expensive and difficult to build and update so start with a trie
+
+ yes 
+ant	maven
+the quotation you brought up just claim that maven does more than ant so that it s not fair to compare the two
+
+ yes 
+symfony	silex
+that is for symfony so not sure if silex has some better sugar
+
+ yes 
+post	get
+i noticed once the length of a get parameter is longer than  bytes or  bytes for a post parameter g-wan returns  error
+
+ yes 
+apache	nginx
+further than that i wouldn t use apache at all if i needed to optimize things nginx is much better as a server it s even faster than node.js for serving static files for example
+
+ yes 
+uitableview	uisearchbar
+uitableview is reporting a bigger contentsize than expected when using a uisearchbar
+
+ yes 
+drawimage	putimagedata
+using the clipping version of drawimage will be faster than putimagedata
+
+ yes 
+post	get
+generally when passing lots of data to the server to be processed or stored using post is a good idea since get has a lower limit than that of post
+
+ yes 
+postgresql	mysql
+postgresql specifically has gotten easier to manage while mysql has lost some of the simplicity that gave it an advantage without picking up enough features that really matter
+
+ yes 
+google-chrome	firefox
+now the problem is the css animations which we have are not getting rendered smoothly in the webkit browser provided by javafx but same code in firefox or google-chrome is quite smoother
+
+ yes 
+apache	lighttpd
+unlike a proper server like lighttpd whose cpu usage is undetectable the crummy via c was serving  http hits s and lighttpd used less than  cpu apache will kill your box
+
+ yes 
+sse	avx
+also note that the fact that the avx are a newer than sse doesn t make the avx faster whatever you are planning to use the number of cycles taken by an function is probably more important than the avx vs sse argument for example see this answer
+
+ yes
+sdl	xlib
+in my experience xlib via mit-shm extension was significantly faster than sdl surfaces not sure i used sdl in the most optimal way though
+
+ yes 
+youtube	vimeo
+while vimeo is more of a professional site youtube offers html h. video playback support for all videos so they ll play on iphone
+
+ yes 
+express	koa
+koa middleware is much simpler and less hacky than express middleware due to the way middleware flows in a stack-like manner
+
+ yes
+division	subtraction
+division has higher precedence than subtraction so in the first two examples only the second number is being divided
+
+ yes
+flask	django
+django is very batteries included meaning that it comes with much more out-of-the-box than say flask and to me a large part of that the user auth system
+
+ yes 
+mako	genshi
+mako jinja genshi all offer a more flexible alternative to django templates
+
+ yes 
+google-chrome	firefox
+until people have more experience with google-chrome i would think firefox is a better choice
+
+ yes 
+apache	nginx
+if you have long-running requests i think the performance will be pretty bad because apache use one thread per connection nginx performs much better
+
+ yes 
+google-chrome	firefox
+google-chrome does not check revocation in most cases and firefox might use a shorter timeout and ignore failures
+
+ no 
+avro	thrift
+also it is worth mentioning that besides thrift protobuf and avro there are some more solutions on the market such as capt n proto or bolt
+
+ no 
+opera	google-chrome
+this code to date is only supported by a couple of the major browsers namely google-chrome  and opera  see more details here
+
+ yes 
+for-loop	loops
+the for-loop is slightly slower than the foreach loops
+
+ yes 
+getter	setter
+what i find strange is that the getter for distance depends on status and the setter acts more like a setter for status
+
+ yes 
+post	get
+supply more data upon post and receive less data upon get
+
+ yes 
+textview	imageview
+assuming the imageview is always bigger than the textview it ll drive the parent height
+
+ no 
+expandablelistview	spinner
+you cannot directly use an expandablelistview for the spinner popup any more than you can directly use a listview for the spinner popup
+
+ no 
+profiler	visualvm
+i suggest you try increasing your maximum to just under half your main memory and attach a profiler visualvm is better than nothing and see if where objects are being retained
+
+ yes 
+ecj	javac
+however i think that ecj is even better than javac my opinion .
+
+ no 
+mocha	sinon
+there are also things like chai and sinon that work well with mocha to allow for easier testing
+
+ yes 
+arcrandom	srand
+results are quite stable srand and  iterations of rand takes around  s while arcrandom takes much longer around  s
+
+ yes 
+post	get
+post gives you more options and dosn t have a limit on parameter query string length like get the only negative is post is slower by a couple of milliseconds to create the request
+
+ no 
+xslt	xquery
+using xslt or xquery would be much better
+
+ yes 
+strtol	atoi
+the c function strtol is much better make it a habit to prefer that one to atoi
+
+ no 
+filesystems	btrfs
+i now run my lxc containers on a btrfs filesystems to make it simpler to take a snapshot of the running containers
+
+ yes 
+innodb	myisam
+innodb seems slightly faster than myisam but this is really marginal
+
+ yes 
+freebsd	solaris
+both systems have large suites of available software packages available freebsd is likely larger and there s a better chance something may have been ported to freebsd over solaris depending on the niche of the package of course
+
+ yes 
+postgresql	mysql
+what is nice about cast is that it works exactly the same on most sql engines sql server postgresql mysql and is much easier to remember how to use it
+
+ yes 
+interpreted-language	compiled-language
+java seeks to find a compromise between a purely compiled-language with no portability and a purely interpreted-language that is significantly slower
+
+ yes 
+rubygems	rvm
+something else simpler you could try is to force rvm to reinstall the older version of rubygems and then update it again if required
+
+ yes 
+vbo	vao
+i have issue with drawing big vbo with vao because the vbo has more than  vertices and my vao is just uint that has maximum 
+
+ yes 
+mongodb	bson
+if your requirement is to store a key with value as json then mongodb is a better fit in this scenario as by default mongodb stores data in bson which is json + additional data types
+

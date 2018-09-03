@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-better,fit
-an argumentnullexception would be misleading so argumentexception is a better fit
-
-argumentoutofrangeexception,explicit,detail
-usually you get something like argumentnullexception or argumentoutofrangeexception which derive from argumentexception and give more explicit detail about what s actually wrong with the argument
-

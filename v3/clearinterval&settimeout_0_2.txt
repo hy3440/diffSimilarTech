@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-solution,bigger,delay,script,additional,top,line
-my solution was to increase the settimeout to create a bigger delay before the next part of the script commenced but also to add an additional clearinterval as the top line of the script running within the setinterval
-
-simpler,setinterval,need,end,array
-as for me settimeout is simpler than setinterval in this case as you won t need to clearinterval in the end of the array
-

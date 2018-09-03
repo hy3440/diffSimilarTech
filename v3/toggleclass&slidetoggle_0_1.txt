@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-class,easier
-toggleclass can accept more than one class and it would be easier to use slidetoggle than animate -
-

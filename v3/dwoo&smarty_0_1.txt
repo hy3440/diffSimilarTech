@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-faster,compatibility,layer,developers,years,application
-so far it has proven to be faster than smarty and it provides a compatibility layer to allow developers that have been using smarty for years to switch their application over to dwoo progressively
-

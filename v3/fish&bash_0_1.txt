@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-gnu,zsh,features,complex
-gnu bash zsh fish have more features so are more complex
-

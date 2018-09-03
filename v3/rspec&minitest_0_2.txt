@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-check,class,line,diameterizableinterfacetest.,lines
-in minitest i could add this check for each class with 1 line include diameterizableinterfacetest. in rspec it takes 4 more lines
-
-fixtures,cleaner,familiar,factory,girl
-since im using fixtures would this maybe be a db cleaner issue im not using it right now as im only using pre-created fixtures currently i ve never used db cleaner with minitest as im only familiar with using it with rspec and factory girl
-

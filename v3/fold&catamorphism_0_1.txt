@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-interface,form,willing,higher-order,style,harder,layer
-you can give clients a type-safe interface in the form of fold but they have to be willing to write all their code in a higher-order style and since fold is a catamorphism it becomes harder to look at more than one layer at a time
-

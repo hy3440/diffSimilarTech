@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-troubles,jscrollpane,redispatching,mouse,event,swing,tutorial,mousedragged
-glasspane only added more troubles to me because i could not scroll jscrollpane which is under glasspane and redispatching mouse event suggested in glasspane swing tutorial did not help at all because mouselistener on glasspane did not receive mousedragged
-

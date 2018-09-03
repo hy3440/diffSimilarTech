@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-low,level,protocol,internet,layer,complex
-ping is just low level icmp protocol defined in internet layer whereas tcp is more complex protocol defined in transport layer
-

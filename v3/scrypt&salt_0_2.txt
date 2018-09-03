@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-simplest,form,user,passphrase,256-bit,hash,harder
-the simplest form of this is to add a salt to the user s passphrase and then feed it into sha-2 to get a 256-bit hash but ideally you want to use something like scrypt to make it harder to brute-force the passphrase
-
-derivation,functions,bcrypt,better,#2,plain,sha-1,sha-2
-as a side note from what i ve read key derivation functions pbkdf2 scrypt bcrypt are considered better more secure #1 #2 than plain salt sha-1 sha-2 hash by crypto people
-

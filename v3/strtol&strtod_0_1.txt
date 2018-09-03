@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-values,point,strings,int,better,error
-note atof and similar functions don t detect overflows and return zero on error so there s no way to know if it failed not sure if it sets errno see also keith s comments about undefined behaviour for certain values so the point is you should use strtol for converting from strings to int and strtod for converting to double those have much better error handling
-

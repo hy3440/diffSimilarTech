@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-nice,powerful,packages,plugins,elegant
-but although atom-editor looks so nice and powerful compared to simple editors with realy huuuge number of available packages plugins lighttable is more elegant
-

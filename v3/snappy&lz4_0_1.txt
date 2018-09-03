@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-better,google,protobufs
-lz4 is probably better though snappy was developed by google with protobufs in mind so you might want to test both on your data set.
-

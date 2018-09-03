@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-udp,smaller,mtu,ip,options,headers,greater
-udp packets smaller than the mtu will not be fragmented but the mtu depends on more factors such as ip options and vlan headers so it may not be greater than 1500
-

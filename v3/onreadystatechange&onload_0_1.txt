@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-function,modern,old,result
-it looks like the onload function is a more modern convenience method and the old way of checking the result is using onreadystatechange instead
-

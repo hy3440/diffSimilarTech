@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-faster,embedded,function,environment,rt-lab
-my c s-function is faster than my embedded matlab function block in matlab environment but when i use it in rt-lab the embedded is faster
-

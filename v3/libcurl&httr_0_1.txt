@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-better,package,deal
-however httr would be a better choice since it and the libcurl package it uses deal with web server interaction and content in a more thorough way
-

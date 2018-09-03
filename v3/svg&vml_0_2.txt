@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-raphael,things,hairy
-classes in svg aren t quite the same as classes in everything else - and in raphael which deals with svg and ie s vml things get even more hairy
-
-slower,browser
-ie s vml is slower than other browser s svg
-

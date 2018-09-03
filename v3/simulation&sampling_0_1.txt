@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-higher,frequency
-by decoupling simulation from rendering you can render at a higher frequency than your simulation does for sampling
-

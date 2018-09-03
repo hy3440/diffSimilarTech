@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-string,equal,better,strtol
-once you ve done that you can use strcmp to see if the string is equal to stop and if not then call atoi or better yet strtol which has better error checking to get the numerical value
-

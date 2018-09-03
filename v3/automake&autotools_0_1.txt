@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-complicated,everybody,autoconf,system
-in the case of autotools it is slightly more complicated because not everybody who compiles the software would need automake and autoconf installed only those that need to change the build system adding new files counts as changing the build system
-

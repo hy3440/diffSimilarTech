@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-child,process,flexible
-i got it to work by using a child process from pexpect which is much more flexible than telnetlib
-

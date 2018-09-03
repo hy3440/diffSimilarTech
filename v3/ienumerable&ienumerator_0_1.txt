@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-skeet,answer,appropriate,once-only-
-while i generally agree with jon skeet s answer i have also come across a very few cases where working with ienumerator indeed seemed more appropriate than wrapping them in a once-only- ienumerable
-

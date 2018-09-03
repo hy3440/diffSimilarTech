@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-author,arseny,kapoulkine,work,inspiration,project,faster,fastest,xml,parser,version
-quoting rapidxml s author i would like to thank arseny kapoulkine for his work on pugixml which was an inspiration for this project and 5 - 30 faster than pugixml the fastest xml parser i know of he had tested against version 0.3 of pugixml which has reached recently version 0.42
-

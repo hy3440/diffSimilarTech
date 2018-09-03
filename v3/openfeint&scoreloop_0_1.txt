@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-score,user,functionality,quicker
-further to this i m still opting for scoreloop and i can confirm this behaves the same regarding one score per user but it offers a lot more functionality and does seem to respond much quicker than openfeint did for me
-

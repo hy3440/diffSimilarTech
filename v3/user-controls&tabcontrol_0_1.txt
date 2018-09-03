@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-larger,template,contentpresenter
-some user-controls s are larger than the tabcontrol and got clipped so i modified its template by wrapping the contentpresenter in a scrollviewer with horizontalscrollbarvisibility and verticalscrollbarvisibility set to auto
-

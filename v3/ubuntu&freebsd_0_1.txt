@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-aspect,better,aspects,performance
-some aspect of ubuntu are better and some aspects of freebsd are better in terms of performance numbers
-

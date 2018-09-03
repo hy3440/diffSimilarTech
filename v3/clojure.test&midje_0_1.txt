@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-purer,taste
-i used midje for a while but found clojure.test felt purer but that was down to taste
-

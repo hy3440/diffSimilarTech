@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-similar,pouchdb
-rethinkdb is more similar to pouchdb couchdb
-

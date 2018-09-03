@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-circle,lower,multiplicity,bellow
-the circle in erd denotes the lower multiplicity bound of 0 see diagram bellow
-

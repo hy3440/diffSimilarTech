@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-default,storage,training,data,minute,simple
-i initially was using chatterbot s default storage adapter and after training with all data the bots took more than a minute to respond to simple message like hello
-

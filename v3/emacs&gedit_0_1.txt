@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-powerful,feel,vim
-i don t know anything about except that it s more powerful than gedit but doesn t have the same feel as vim emacs
-

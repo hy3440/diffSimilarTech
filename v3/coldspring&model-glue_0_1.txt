@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-tight,integration,popular,bean,container,cfml,easier,beans,controllers
-fortunately model-glue has tight integration with coldspring a popular bean container for cfml and model-glue 3 makes it easier than ever to use coldspring beans in your controllers
-

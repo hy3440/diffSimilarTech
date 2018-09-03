@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-
-lately i have used notepad++ a bit more than vim
-
-placeholders,splits,hard,time,work
-in vim they re more of a placeholders for splits so my guess is you ll have a hard time working with them if you mean to just copy your notepad++ s way of work to vim
-

@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-version,earlier,sdk,latest,pre-merged,link,location
-if you re unsure which version you have or you are targeting a version earlier than air sdk 3.2 you can download the latest air sdk pre-merged with flex sdk from adobe s gaming site download the adobeâ airâ sdk save it to disk and link its location to flashdevelop
-

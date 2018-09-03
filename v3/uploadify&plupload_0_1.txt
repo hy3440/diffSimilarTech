@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-whole,day,better
-ok after a whole day of trying to get this to work i ve abandoned uploadify and am now using plupload which seems much better
-

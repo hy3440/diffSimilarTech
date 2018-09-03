@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-steeper,learning,curve,flot
-i have found highcharts to have a steeper learning curve than flot or rgraph imho
-

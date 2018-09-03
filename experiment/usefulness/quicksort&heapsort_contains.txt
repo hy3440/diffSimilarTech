@@ -1,0 +1,14 @@
+2467760
+quicksort is heapsort
+2467763
+heapsort has the benefit of having a worst running case of o n log n so in cases where quicksort is likely to be performing poorly mostly sorted data sets generally heapsort is much preferred
+7631217
+for situations where you do want max speed in most cases quicksort may be preferred over heapsort but neither may be the right answer
+28522840
+heapsort is o n log n guaranted what is much better than worst case in quicksort
+33943872
+asymptotic analysis reveals order of growth of heapsort in the worst case is big-o n logn which is better than quicksort s big-o n 2 as a worst case
+33943872
+the reason heapsort is slower in practice than quicksort is due to the better locality of reference in quicksort where data elements are within relatively close storage locations
+36658677
+to me there is a very fundamental difference between heapsort and quicksort the latter uses a recursion

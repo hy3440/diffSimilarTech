@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-full-featured,touch,swipe,commands,upvoted,answer
-hammer.js is a more full-featured touch library has many swipe commands than fastclick.js most upvoted answer
-

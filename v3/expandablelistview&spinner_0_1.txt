@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-listview,popup
-you cannot directly use an expandablelistview for the spinner popup any more than you can directly use a listview for the spinner popup
-

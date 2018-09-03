@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-thanks,issue,better,uptime,guarantees
-thanks for raising this issue we definitely want stackage to have better uptime guarantees than hackage
-

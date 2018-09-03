@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-change,extra,div
-please don t change code like using ng-hide instead of ng-show and add more extra div
-

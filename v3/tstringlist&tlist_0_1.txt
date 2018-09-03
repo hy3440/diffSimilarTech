@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-faster,descendant
-i believe it is much much faster than using tlist descendant or tstringlist
-

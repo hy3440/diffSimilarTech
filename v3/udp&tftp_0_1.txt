@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-simpler,smaller
-tftp is used because it uses udp which is simpler and had a smaller footprint than a full tcp-based ftp server
-

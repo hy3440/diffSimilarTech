@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-api,codepack,wrapper,directx,wrapper++,directx9
-i m working on deciding between managed directx through ms api codepack slimdx library managed wrapper for directx xna managed wrapper++ for directx9 only or unmanaged directx 20 + extra development time
-
-windows,love,support,apps,sellable,store,better,side,xbox
-considering the lack of windows 8 love that xna is getting support being dropped apps won t be sellable on the app store -- i d go with slimdx -- it s better than xna anyway -- the only down side is that you can t make xbox apps with it
-

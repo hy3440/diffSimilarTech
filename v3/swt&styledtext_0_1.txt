@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-class,package,harder,....,copy,easy,call,methods,strict
-but adding a class to swt package seems harder first because there is different jars depending on the operating system used org.eclipse.swt.cocoa org.eclipse.swt.gtk .... and also because copy pasting the code of styledtext is not that easy since there is call to external methods waiting for a strict styledtext
-

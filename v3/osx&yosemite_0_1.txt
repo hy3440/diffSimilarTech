@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-compatibility,earlier,memory,graphics
-it s true that the yosemite compatibility exists but i ve found that earlier mac machines does not have the propper hardware and you experience some lacks in memory and graphics when upgrading more than one osx
-

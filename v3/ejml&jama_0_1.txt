@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-good,faster,data.
-ejml looks really good it works almost 2x faster than jama on my data.
-

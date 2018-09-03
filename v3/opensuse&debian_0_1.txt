@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-versions,older,newer
-note that centos software versions are older than debian s but versions of opensuse software are newer than debian s versions
-

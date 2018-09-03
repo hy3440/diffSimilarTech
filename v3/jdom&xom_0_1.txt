@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-libraries,xml,dom4j,easier,raw
-there are libraries that build on the xml apis jdom dom4j or xom which are easier to use than the raw apis
-

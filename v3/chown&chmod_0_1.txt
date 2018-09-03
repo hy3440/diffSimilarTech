@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-umask,better,root-access
-but changing the chmod maybe even working with umask is better than dealing with root-access and using chown
-

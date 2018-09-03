@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-cache,image,http,response,faster
-sdwebimage claims that afnetworking doesn t cache the image itself but just the http response so sdwebimage is faster in recalling the image from cache and presenting it
-
-better
-so i think afnetworking would a better choice than sdwebimage
-

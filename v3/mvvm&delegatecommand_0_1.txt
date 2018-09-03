@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-relaycommand,better,fit
-for mvvm scenarios a relaycommand or delegatecommand is a better fit than the routedcommand which is provided with wpf
-

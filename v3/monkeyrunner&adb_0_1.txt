@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-reliable,feedback,exceptions
-adb is more reliable since you get the feedback immediately unlike monkeyrunner which does not provide reliable exceptions in case of any failure in triggering the event
-

@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-lightweight,openlayers,mature
-while leaflet aims to be more lightweight than openlayers openlayers is by far the more mature proj
-

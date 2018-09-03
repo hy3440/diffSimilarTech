@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-functional
-this one is more for bigloo - is it more functional than ecl
-

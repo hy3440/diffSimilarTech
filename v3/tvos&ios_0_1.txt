@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-similar,watchos,similarities
-tvos is more similar to ios than it is to watchos although they all have some similarities
-

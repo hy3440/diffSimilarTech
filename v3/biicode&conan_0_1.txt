@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-direct,easier,dependencies,management,binary,packages
-conan uses a more direct and easier approach to library dependencies management than biicode supporting both binary packages as building from source
-

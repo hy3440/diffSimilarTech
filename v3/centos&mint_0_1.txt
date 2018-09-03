@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-suggestion,right,distribution,lamp,distributions,better
-my suggestion is to reason if mint is the right distribution for a lamp stack or if other distributions centos fit better
-

@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-dependency,manager,popular,swift
-i m currently using carthage as a dependency manager and i know cocoapods is more popular and maybe swift package manager will be something in the near future - so i d like to be able to publish the extensions so people using any of these package managers can easily add them to their projects
-

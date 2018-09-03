@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-wider,scope,opengl,directsound,directplay
-directx has a wider scope than opengl in that directx is composed of directsound directplay and direct3d etc
-

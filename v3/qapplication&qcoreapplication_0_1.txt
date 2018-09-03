@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-application,reimplemented,details,qt,docs
-if you need to detect key events globally in the whole application then you can catch and process them in reimplemented qapplication notify for more details how to use qcoreapplication notify see qt docs on that
-

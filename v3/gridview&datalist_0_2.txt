@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-appropriate,success
-i am trying to bind it with a gridview or a datalist whatever is more appropriate without success
-
-bells,whistles
-gridview has much more bells and whistles than datalist
-

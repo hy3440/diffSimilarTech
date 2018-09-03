@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-hotfixes,simpler,development,default,branch
-this will work for hotfixes and it is simpler than cherry-pick your development changeset from your default branch
-
-pointed,broader,meaning
-while others have rightfully pointed you to git cherry-pick you should understand that the changeset might have broader meaning that you might originally maintain
-

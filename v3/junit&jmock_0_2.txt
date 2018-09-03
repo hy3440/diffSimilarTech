@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-later,version,things,easier,lifecycle,runner
-the later version of jmock makes things easier by integrating with the junit lifecycle as a runner
-
-dependency,hamcrest-core,maven,older,closer,systemtest,revision,org.junit.runner.notification.runlistener
-first there was a transitive dependency problem namely that of hamcrest-core 1.1 - jmock 1.1.0 - junit 3.8.1 where in maven s dependency-tree the older junit was closer to the systemtest module which was inheriting the version dependency and revision 3.8.1 of junit doesn t have contain org.junit.runner.notification.runlistener
-

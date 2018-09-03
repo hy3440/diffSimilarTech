@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-mel-frequency,cepstrum,relevant,information
-the most commonly used is called mfcc mel-frequency cepstrum which you can think of as a improved spectrogram retaining more relevant information to discriminate between classes
-

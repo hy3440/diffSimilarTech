@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-method,integer
-icomparable declares the compareto method which returns an integer that specifies a less than equals to or greater than relationship between two objects of the same type
-
-fine-grain,comparison,method,greater-than
-implementing icomparable is a more fine-grain way of comparison as it provides the compareto method which is a greater-than less-than comparison as opposed to equals which is simply a is-equal-or-not comparison
-

@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-note,careful,strncat,easier
-when ever you do string copying do not allow destination buffer overflow make it impossible to happen one way or another note be careful if you use strncpy it is not guaranteed to add terminating n so strncat or printf may be easier to use
-

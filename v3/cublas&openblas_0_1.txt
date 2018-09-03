@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-cpu,time,fermi,gpu,18ms,implementation,slower,maxwell
-first of them works quite good on cpu intel i7 and on fermi gpu gf 540m cpu time is near to openblas and fermi gpu time is near to cublas about 18ms but this implementation works 10x slower than cublas on maxwell gpu titanx - 5 ms vs 0.4 ms
-

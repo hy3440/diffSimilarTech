@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-numeric,value,efficient,bunch,overhead,curly,braces
-for formatting a single numeric value tostring is marginally more efficient than string.format because string.format has a bunch of overhead to parse the format string out of the curly braces and then pass it to tostring
-

@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-better,dumber
-you d be better off using mktime for this as it s dumber than strtotime
-

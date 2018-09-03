@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-complete,coverage,lines,branches,tools,climate
-istanbul has more complete coverage stats not just lines - branches etc and can export to lcov for tools like code climate
-

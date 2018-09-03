@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-ios,core,location,lower,map,kit
-in ios 5.0 and later you can use clgeocoder of core location framework as for ios lower than 5.0 mkreversegeocoder of map kit framework
-

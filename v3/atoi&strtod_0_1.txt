@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-better,alternative
-also strtod is a better alternative to atoi
-

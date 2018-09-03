@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-minutes,project,longer
-phpstorm takes a few minutes to synchronize the project and aptana takes even longer to rebulild the project
-

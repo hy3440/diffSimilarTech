@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-better,check,heavier
-for more complex xml reading writing you better check xerces which is heavier than tinyxml
-

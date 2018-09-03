@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-
-the code you presented will never pass more than one uiviewcontroller to the uipageviewcontroller
-

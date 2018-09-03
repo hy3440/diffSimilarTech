@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-recent,distributions,linux
-not to be confused ffmpeg is more recent and libav was used in some distributions of linux
-
-ubuntu,ships,fork,version,compatible,later,versions
-ubuntu 12.04 ships with the ffmpeg fork libav in version 0.8 which is more compatible with ffmpeg 1.0+ or even later ffmpeg versions iirc
-

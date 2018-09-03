@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-large,data,compulsory,appropriate
-use an in-memory dataset clientdataset as teran suggested in the question comment thread you can still present your large data to a tstringgrid if using it is compulsory but a tdbgrid is more appropriate
-

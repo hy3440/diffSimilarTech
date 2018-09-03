@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-function,understandable
-or break it up into two function calls lapply and then do.call to make it more understandable what s going on
-

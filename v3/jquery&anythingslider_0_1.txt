@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-documentation,reference,older,libraries,place,old,versions
-in the anythingslider documentation there is a reference to getting anythingslider to work with older jquery libraries but i can t find any place to download old versions of anythingslider
-

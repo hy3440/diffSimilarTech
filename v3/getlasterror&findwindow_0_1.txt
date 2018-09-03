@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-call,information
-if findwindow fails a call to getlasterror after the call to findwindow may give you more information
-

@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-revealcontroller.frontviewcontroller,animated
-if it s a navigationcontroller just call revealcontroller.frontviewcontroller pushviewcontroller animated
-

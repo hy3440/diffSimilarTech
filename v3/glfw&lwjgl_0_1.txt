@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-windows,better
-so glfw is just a library for creating windows in a better way than lwjgl did before
-

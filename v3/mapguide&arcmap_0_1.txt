@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-bit,work,clients,engineering,departments,cad
-i mostly work with esri software though i ve had a little bit of work with mapguide mostly for clients whose engineering departments are using cad more than arcmap
-

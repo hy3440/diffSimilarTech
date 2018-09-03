@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-forms,prism,better,ground,easy
-it s very heavyweight and not fully featured for forms so prism or freshmvvm works better as these are designed for forms from the ground up but if you do use mvvmcross for forms its easy to go native if you need
-

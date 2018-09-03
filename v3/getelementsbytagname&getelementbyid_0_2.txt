@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-closer,form,simple,index
-it would be slightly more sensible to bind the click to an element closer to the form and if you use getelementbyid rather than getelementsbytagname it s more simple since you don t have to worry about the index of the number you re binding to
-
-different,element
-getelementsbytagname is slightly different from getelementbyid as getelementbyid will only return one element if it exists whereas getelementsbytagname can return more than one element
-

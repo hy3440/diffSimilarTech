@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-performance,problems,faster,effort,new
-template engines are rarely the cause of performance problems even if chameleon is slightly faster than jinja2 i doubt the effort of learning a new template language etc
-

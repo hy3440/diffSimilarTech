@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-response,comment,better
-edit in response to the comment armadillo does not require lapack but works better with it and better still with tuned blas
-

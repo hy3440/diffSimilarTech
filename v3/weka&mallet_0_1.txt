@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-smarter,aspect
-i have tried weka too but mallet is smarter than weka on this aspect
-

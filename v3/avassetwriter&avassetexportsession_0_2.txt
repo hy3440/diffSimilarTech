@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-performant,avassetreader,straight,forward
-in my experience avassetexportsession is slightly more performant than using avassetreader and avassetwriter for a straight forward format a - format b type conversion however that said it s probably not by enough to be too concerned about
-
-easier,specific,requirement
-this will work directly with avassetexportsession which is much easier than playing with avassetwriter unless you have a very specific requirement typically you need to manipulate the actual video frames
-

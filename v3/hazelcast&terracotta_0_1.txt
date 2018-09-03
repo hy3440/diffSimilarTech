@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-ehcache,server,array,well-known,bigger,community,support
-we started with ehcache terracotta server array cause it s well-known backed by terracotta and has bigger community support than hazelcast
-

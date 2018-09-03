@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-background,second,row,better
-i have a gridview and on rowdatabound i use this code to change the background of every second row so the gridview can be read better
-

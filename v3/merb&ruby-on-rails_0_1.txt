@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-onerous,agnostic
-this will be made less onerous by ruby-on-rails 3 which is intended to be orm agnostic after the merge with merb
-

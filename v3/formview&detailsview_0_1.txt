@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-free,data,box,tweaks
-the same as for detailsview but keep in mind that with formview you are more free of how to present your data out of the box detailsview need some tweaks to behave the same
-

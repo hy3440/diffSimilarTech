@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-itâ,tricky,pkcs7,little,supports,nopadding
-regarding the padding itâ s more tricky as cryptojs does not list pkcs#5 as supported and java does not list pkcs7 in fact it lists very little so it might be implementation depended which padding algorithms the aes provider supports but at least nopadding is supported by both java and cryptojs
-

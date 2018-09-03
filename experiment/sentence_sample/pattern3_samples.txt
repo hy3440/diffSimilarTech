@@ -1,0 +1,202 @@
+ no 
+ng-app	ng-controller
+a ng-app can have more than 1 ng-controller
+
+ yes 
+sdl	xlib
+in my experience xlib via mit-shm extension was significantly faster than sdl surfaces not sure i used sdl in the most optimal way though
+
+ yes 
+uicollectionview	uitableview
+instead of using a uitableview in this instance perhaps you might consider using a uicollectionview - they are built for something like you describe more than a uitableview
+
+ no 
+mdpi	hdpi
+try reading this link also for more study over hdpi and mdpi concept
+
+ yes 
+division	subtraction
+division has higher precedence than subtraction so in the first two examples only the second number is being divided
+
+ yes 
+flask	django
+django is very batteries included meaning that it comes with much more out-of-the-box than say flask and to me a large part of that the user auth system
+
+ yes 
+trie	tree
+the article says that a trie is better than binary tree as for a string of length m for trie it takes o m time and for binary tree it takes o m logn time
+
+ yes 
+memcmp	strcmp
+memcmp is simpler than strcmp and can be implemented even more efficiently in places where the strings are known to be properly aligned
+
+ no 
+vxworks	qnx
+in the non open-source world choices are wider such as qnx neutrino and vxworks
+
+ no 
+opera	firefox	opera	google-chrome	google-chrome	firefox
+the idea is that if they are using ie then they must install google-chrome frame and if they are using less than firefox 4 or opera 11.5 then they must upgrade their browser not not sure if the way i am doing that is correct
+
+ yes 
+int	chars
+if i remember correctly int take up less storage than chars so you should go with int
+
+ yes 
+coalesce	isnull
+on the subject of performance on sql server isnull often performs better than coalesce but the latter is ansi compliant if that is important to you
+
+
+ yes 
+uitableview	uisearchbar
+uitableview is reporting a bigger contentsize than expected when using a uisearchbar
+
+
+ yes 
+post	get
+generally when passing lots of data to the server to be processed or stored using post is a good idea since get has a lower limit than that of post
+
+ no 
+button	checkbox
+the problem is that if i have more than one checkbox checked and i want to uncheck one the button disables
+
+ yes 
+apache	lighttpd
+unlike a proper server like lighttpd whose cpu usage is undetectable the crummy via c was serving  http hits s and lighttpd used less than  cpu apache will kill your box
+
+ yes 
+floating-point	integer
+it s even possible that you could implement pong using only integer arithmetic which is likely to be faster than floating-point -- but the difference is unlikely to be critical
+
+ yes 
+haskell	ocaml
+the reason i wanted to investigate this was because both c and ocaml were significantly faster than haskell for this program
+
+ yes 
+udp	tcp
+i was going through internet and so and understood that web sockets are encapsulations to tcp which by itself is slower than udp ofcourse at the cost of reliability but i couldnt find much info if websockets or udp would be ideal to implement such a server
+
+ yes 
+mp4	webm
+i tried mp4 and webm and sometimes the file size after i convert to mp4 is smaller than webm but it is also sometimes larger than the original file size
+
+ yes 
+qlist	qvector
+qvector will usually give better performance than qlist because qvector always stores its items sequentially in memory where qlist will allocate its items on the heap unless sizeof t sizeof void and t has been declared to be either a q_movable_type or a q_primitive_type using q_declare_typeinfo
+
+ yes 
+lxml	beautifulsoup
+according to the above posts and my own experience lxml is definitely faster than beautifulsoup
+
+ yes 
+innodb	myisam
+i am trying to compare the myisam and innodb write read performance but i am suprised that the myisam s read is much more slower than innodb while its write is much more faster this is totally opposite compared to what i have learned
+
+ yes 
+quicksort	heapsort
+it is a variant of heapsort which is particularly suitable for the sorting of very large amounts of data if a relatively high cost per compare operation is needed and on average better than quicksort
+
+ yes 
+libsvm	liblinear
+and how do the differences make liblinear faster than libsvm
+
+ yes 
+addition	multiplication
+and the value of this expression evaluated according to the precedence rules is 62 because multiplication has higher precedence than addition
+
+ yes 
+innodb	myisam
+after all innodb shouldn t be slower than myisam when using count + where but that s exactly what is happening here
+
+ yes 
+boost	stl
+boost s io stream might be a better solution than stl s own stream
+
+ yes 
+move	drag
+i got a draggable object done with jquery ui and when i drag it it s way slower than i move my mouse
+
+ no 
+uilabel	uitextview
+textcontainer s height need to be set depending on the content height for it to work and that is no better than using uitextview or uilabel
+
+ no 
+google-chrome	firefox
+ie handles updates better than google-chrome and firefox
+
+ yes 
+ati	nvidia
+i m having an issue where my glsl 130 code wont run properly on my somewhat modern ati 5850 hardware while the identical code runs perfectly fine on an older laptop with a nvidia card i have
+
+ yes 
+orientdb	neo4j
+using orientdb that is supposed ti be faster than neo4j for depth i m seeing a slow performance
+
+ yes 
+int	chars
+in order for this to work reliably c should have type and unsigned int should be strictly wider than unsigned chars
+
+ yes 
+implements	extends
+i have read that implements runnable is better than extends thread but i have no idea of how
+
+ yes 
+innodb	myisam
+myisam is better than innodb when you don t need those advanced features and storage speed is more important than other concerns
+
+ no 
+postgresql	mysql
+mongodb is fun to toy with and i ve built a few apps using it myself for that reason but it s almost never a better choice than postgresql mysql sql server etc
+
+ yes 
+google-chrome	firefox
+in my experience google-chrome will be a lot faster than firefox to debug huge js files
+
+ yes 
+coalesce	isnull
+you can use isnull also in place of coalesce as isnull is comparatively faster than coalesce
+
+ yes 
+mdpi	hdpi
+and you know your image at hdpi folder so its 1.5 larger than the mdpi
+
+ yes 
+bower	npm
+using npm package is a little bit harder than using bower package
+
+ yes 
+avplayer	avassetreader
+measure how much faster than realtime avassetreader can decode at replace avplayer with your own metal + avassetreader path if you think that some performance has gotten lost in transit
+
+ yes 
+firefox	safari
+in safari we found that the dom level 0 took twice the time off the dom level 2 but was still four times faster than either firefox case
+
+ yes 
+for-loop	loops
+a loops using a callback function like the standard foreach was approximately 10 times slower than the for-loop
+
+ yes 
+yslow	pagespeed
+in my testing so far google s pagespeed addon is far and above much better than yslow
+
+ yes 
+division	multiplication
+on most processors division is slower than multiplication for the same data types
+
+ yes 
+jmeter	blazemeter
+blazemeter is better than jmeter
+
+ yes 
+postgresql	mysql
+given postgresql s reputation for doing things better than mysql or at least as good as i daresay that postgresql would demonstrate similar performance if properly used
+
+ yes 
+implements	extends
+mvc is the most extensible and if you are familiar with how things work under the covers you ll probably be better off than implements a hard to extends ms thing like odata and wcf
+
+ yes 
+translation	localization
+is the best solution to add a new column called engmaterial and add the english translation there or is it possible to solve this in a better way with localization in .net
+

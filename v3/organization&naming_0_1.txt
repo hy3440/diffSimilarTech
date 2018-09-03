@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-specific,simpler,interface,programmers,project
-code with specific organization providing a simpler interface for different tasks and making it easier to integrate programmers in a project just by naming it
-

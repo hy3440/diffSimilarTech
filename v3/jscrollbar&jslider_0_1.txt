@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-natural,value,adjustment
-aside you should probably look into using a jslider which seems more natural than using a jscrollbar for value adjustment
-

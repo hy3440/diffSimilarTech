@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-proxy,theory,nothing,tunnel,property
-since socks proxy is in theory nothing more than a ssl tunnel i thought i could give that property another try
-
-better,control,cert,validation,use,proxies
-anyevent http resolved several issues i had with my program locking up and also offered better control over ssl cert validation and use of proxies including socks proxies
-

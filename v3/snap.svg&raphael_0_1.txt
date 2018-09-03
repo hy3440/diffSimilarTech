@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-possible,aware,compatible,older,browsers,brother
-this should be possible maybe be aware snap.svg isn t so compatible with older browsers in which case you could look at raphael which is snaps older brother d3.js is very well established as well
-

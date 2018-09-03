@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-call,big,numbers,smaller,increments
-you probably only need one call to calloc when you pass it that big numbers whereas realloc can accept smaller increments
-

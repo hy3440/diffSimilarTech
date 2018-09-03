@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-efficient,paging,simple
-objectdatasource also allows for more efficient paging than a simple sqldatasource i m assuming that s what you re using
-

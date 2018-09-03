@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-better
-i prefer sublimetext 2 but notepad++ or scite might suit you better
-
-time,several,seconds,file,pre-evaluation
-sublimetext 3 needs much more time several seconds more then scite before the opened file shows up and i suppose it is because sublimetext does some pre-evaluation of the file content like detecting areas suitable for folding there are fold triangles available depending on indentation of non-white characters in the file
-

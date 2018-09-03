@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-better,vehicle,ideas,programming,practical
-i d recommend agda as the better vehicle for getting to grips with the ideas behind dependently typed programming but idris is the more practical option
-

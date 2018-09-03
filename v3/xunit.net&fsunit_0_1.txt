@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-fstest,tests,natural,oo,style
-i d rather use fsunit or fstest to write tests in f# it feels more natural than oo xunit.net style tests
-

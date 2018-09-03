@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-genre,mp3,file,utility,information
-i simply want to get the genre id3-tag of an mp3 file but the id3v2 utility returns more information than i require and i don t understand what this data represents
-

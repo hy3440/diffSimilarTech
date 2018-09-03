@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-better,random,rand,seed
-from what i can gather arc4random generates much better random numbers than rand does however i haven t seen a way to seed it and i would like to just like using srand
-
-results,stable,iterations,rand,longer
-results are quite stable srand and 999999999 iterations of rand takes around 6 s while arc4random takes much longer around 30 s
-

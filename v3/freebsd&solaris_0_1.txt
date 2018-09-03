@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-packages,available,likely,larger,better,chance,niche,package
-both systems have large suites of available software packages available freebsd is likely larger and there s a better chance something may have been ported to freebsd over solaris depending on the niche of the package of course
-

@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-mind,std,unique_ptr,deterministic,signal,deferred,release,deletelater,prone
-mind that qscopedpointer or std unique_ptr will always work deterministic but qobject destroyed signal doing deferred release via qobject deletelater is more prone to surprises starting from when exactly the object gets released
-

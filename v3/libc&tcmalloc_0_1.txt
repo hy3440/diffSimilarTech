@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-application,performance,threaded,applications,better,malloc,implementation
-the tcmalloc library for example can be easily inserted into an application to evaluate performance gains in heavily threaded applications where tcmalloc tends to perform a lot better than libc s malloc implementation
-

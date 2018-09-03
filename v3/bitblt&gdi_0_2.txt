@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-thing,faster,draw,bitmap,result,form
-the thing is that gdi is still faster than direct2d if i draw to a bitmap and after it s done i bitblt the result back to the form it paints at 35ms and with the same graphics quality
-
-images,native,alot,better,graphics,bitmap
-when drawing images i found the native bitblt to perform alot better than using .net graphics you could use it to display your bitmap or even use gdi to create the bitmap instead
-

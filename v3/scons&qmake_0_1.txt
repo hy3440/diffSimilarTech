@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-side,note,versatile
-as a side note i tried qmake for a while but found scons to be much more versatile
-

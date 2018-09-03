@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-confusing,faster
-nodevalue is a little more confusing to use but faster than innerhtml
-

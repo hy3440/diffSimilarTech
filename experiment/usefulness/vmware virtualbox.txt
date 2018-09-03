@@ -1,0 +1,6 @@
+630233
+in my experience i ve found that vmware seems to be faster than virtualbox although i don t have any hard data to back it up
+630233
+even though vmware has been faster for me i still use virtualbox because it s good enough and is free and im cheap
+901826
+at home w ubuntu linux virtualbox is easier to maintain performs as well as i require and is free

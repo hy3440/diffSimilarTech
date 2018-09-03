@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-mind,stronger
-which will never be true have in mind that the and-operator binds stronger than the or-operator
-
-higher,precedence,||,languages
-as far as i know the and-operator has the higher precedence than || or-operator in most of the languages
-

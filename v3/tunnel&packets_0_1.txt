@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-udp,difficult
-tunnel udp packets is somewhat more difficult
-

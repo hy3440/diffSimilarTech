@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-customsetup,custom,method,clearer
-i could just throw away customsetup and put all the custom code after super but having that abstract method makes clearer what you re supposed to put there
-

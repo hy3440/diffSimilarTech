@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-alternative,reliable,resources,sun
-scala does not provide an alternative and any alternative that was provided would likely be less reliable as typesafe does not have the resources that sun oracle ibm etc
-

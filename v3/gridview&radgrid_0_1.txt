@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-multiple,radgrids,heavier,asp.net
-each tab contains multiple radgrids as radgrid is heavier than asp.net gridview
-

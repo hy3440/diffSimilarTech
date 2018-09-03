@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-issues,advanced,coverity,respect
-though it has a couple of rules that check for specific security issues it s far less advanced than veracode coverity or fortify in this respect
-

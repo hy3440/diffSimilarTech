@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-op,static,use,compelling
-while it can be argued that the example in the op does not exhibit static polymorphism the use of specialization can make a more compelling case
-

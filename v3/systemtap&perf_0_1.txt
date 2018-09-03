@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-standard,tool,gpl,stap,better,red
-perf standard tool dtrace supported only in some linuxes have license problems - cddl incompatible with gpl stap systemtap works better with red linuxes like centos
-

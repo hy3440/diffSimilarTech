@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-jinja,flexible,alternative
-mako jinja genshi all offer a more flexible alternative to django templates
-

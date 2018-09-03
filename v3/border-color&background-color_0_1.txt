@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-10px,transparency,border,background,color
-still if you don t want the elements background-color to span more 10px because of the transparency border and you do not want to set the border-color to match the background color you can use css content property like this
-

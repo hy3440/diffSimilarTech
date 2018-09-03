@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-order,evaluations,unsequenced,object,unseqeucend
-the draft c++11 standard tells us that unless stated otherwise the order of evaluations of operands are unsequenced and if the same scalar object is modified more that once by unseqeucend side effects than we have undefined behavior
-
-instructions,array,higher,alignment
-vector instructions may use array operands that require a higher alignment than any scalar
-

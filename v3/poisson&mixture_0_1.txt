@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-variance,distribution
-so intutively it appears that to explain the variance we should go for mixture of more than two poisson distribution
-

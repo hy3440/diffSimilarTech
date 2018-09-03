@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-time,view,style,vsreport,limited,in-place,edit
-i have just spent a lot of time working with tlistview in view style mode vsreport and i find it is even more limited than tstringgrid for example it provides no in-place edit support
-

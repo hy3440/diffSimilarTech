@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-squares,alternate,ceiling,root,smaller,larger
-the other suggestion keep repeating until x stops changing does not work either because for non-perfect squares x will alternate between the floor and the ceiling of the root â because of integer mathematics the term n x will alternate when x is slightly smaller or slightly larger than sqrt n
-

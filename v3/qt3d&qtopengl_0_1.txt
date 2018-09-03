@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-earlier,qml,qtgui,module
-qt3d was developed earlier than qml became mature as an extension to the 2d world provided by the qtgui module or even qtopengl
-

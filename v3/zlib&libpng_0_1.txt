@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-forums,issue,implementation,ios,stb_image,lodepng,libraries,worse
-several things i found in the cocos2d forums lead me to believe it s an issue with the zlib implementation on ios but i ve tried using both stb_image and lodepng to avoid zlib and those libraries actually performed even worse than libpng
-

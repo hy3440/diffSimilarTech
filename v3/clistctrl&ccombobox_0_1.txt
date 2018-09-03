@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-faster,drawitem,owner,data
-possibly faster than ccombobox with drawitem would be an owner data clistctrl
-

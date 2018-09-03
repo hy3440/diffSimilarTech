@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-git,mercurial,subversion
-you may also want to take a look at why git is better than x a site that attempts to convince you of the superiority of git over mercurial bazaar subversion and perforce
-

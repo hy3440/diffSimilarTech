@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-private,members,setter,better,accessor
-these methods which give us access to private members are known as getter setter or better knows as accessor mutators
-

@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-packages,specific,present,rpm,newer
-since apparently all those packages mentioned require that specific versioning of libcrypto which again does not seem to be present inside the rpm you are trying to install this leaves only one solution you d have to upgrade all those packages to versioning accepting the newer openssl versioning themselves
-

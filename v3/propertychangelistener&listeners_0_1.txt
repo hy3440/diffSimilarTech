@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-kind,functionality,changelistener,springs,possible,candidest,powerful,events
-now this basically boils down to an observer pattern swing implements this kind of functionality in it s listeners changelistener springs to mind as a possible candidest but propertychangelistener is a more powerful option as it generates events based on the property that has changed
-

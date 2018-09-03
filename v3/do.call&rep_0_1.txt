@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-version,faster,rbind,slower
-if you include the explicit rbind version it is slightly faster than the do.call rbind rep list a n version but not by much and slower than either the apply or matrix versions
-

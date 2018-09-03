@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-oop,php5,framework,functions,hmvc,process,easier,pickup
-depends i came from php4 and didn t really touch the level of oop needed for the php5 kohana framework i ve used classes and functions but the hmvc is a process on it s own to learn when it comes to kohana vs yii i d have to say kohana is easier to pickup
-

@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-nested,widgets,qtab,able,qgraphicsscene,different,widget,higher,window
-i have a qgraphicsview nested within a few widgets qframe and then in a qtab and i want to be able to drag-and-drop a qtablewidget which is within the qgraphicsscene onto a totally different widget - another qtablewidget which is much higher up in the window but not a parent
-

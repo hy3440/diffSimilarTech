@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-event,handler
-mouseenter event handler will cause duplicate handler when mousedown event fired once more
-
-slower,touch,device
-this would explain why in your case mousedown or click are slower than mouseenter which in a touch device happens as soon as you touch the element being monitored
-

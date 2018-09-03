@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-crash,dump,simpler,sysinternals,error,message
-if you have a customer who is willing to work with you a bit it might shed some light on the situation to get a crash dump with adplus or maybe simpler with sysinternals procdump when the error message is showing
-

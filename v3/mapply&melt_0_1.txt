@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-girls,guys
-could i use mapply to do this more succinctly than running melt and dcast separately for each of employed girls guys
-

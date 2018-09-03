@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-introsort,comparison-based,algorithm,common
-why quicksort or introsort or any comparison-based sorting algorithm is more common than radix-sort
-
-comments,answers,popular
-which of the two consumes more memory is not defined and depends on the input sequence to be sorted as well as on algorithm tuning parameters see the comments to one of the answers to why quicksort is more popular than radix-sort
-

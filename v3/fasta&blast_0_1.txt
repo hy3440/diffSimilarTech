@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-better,alignments,dissimilar,sequences,similar
-i think fasta might be better at finding alignments between dissimilar sequences than blast but blast is better at aligning similar sequences
-

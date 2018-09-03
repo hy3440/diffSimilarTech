@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-use,better,localized
-since bootstrap-datetimepicker use momentjs it is better to use localized formats from the official documentation
-

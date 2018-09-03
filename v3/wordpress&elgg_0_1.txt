@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-.php,files,complex,long,period,nothing,site
-it is working only for simple .php files but wordpress is more complex and after long period of loading it show elgg nothing found site loaded
-

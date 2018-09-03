@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-record,tipc,several,years,older
-just for the record the tipc addressing scheme is several years older than distributed erlang
-

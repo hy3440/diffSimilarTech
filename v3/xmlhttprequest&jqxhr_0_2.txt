@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-dogmatic
-so i d rename xmlhttprequest to jqxhr which is more dogmatic jquery
-
-jqxhr.setrequestheader,x-requested-with
-jquery jqxhr - see jqxhr.setrequestheader x-requested-with xmlhttprequest
-

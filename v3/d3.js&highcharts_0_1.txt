@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-rich,interactive
-i found d3.js to be rich library but highcharts is more interactive i guess
-

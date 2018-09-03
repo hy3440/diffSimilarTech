@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-networks,stronger,network,reachable,help,peers.you,hole,punching
-also to be noted that p2p networks get stronger the more they grow you could aswell implement that peer already connected to the network and reachable from the outside help those others to connect to the other peers.you should look up p2p relaying and hole punching
-

@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-http,higher,rtp
-the chance of receiving video streams over http is higher than rtsp rtp rtmp and so on
-
-solution,videoview,seconds,stat,streaming,server
-all the solution works but videoview rtsp take more than 10 seconds to stat streaming from the server when rtmp take 2 seconds
-

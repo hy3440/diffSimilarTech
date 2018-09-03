@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-better,big,open,spaces,in-door
-quadtree is better for big open spaces and octree is better for in-door spaces with many levels
-

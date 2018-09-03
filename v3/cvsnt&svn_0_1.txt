@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-wild,server,observation,better,notion,mergepoints
-just a wild guess here but if you re using cvsnt on the server this observation might be based on the fact that cvsnt simply is much better at merging than svn because it has the notion of mergepoints
-

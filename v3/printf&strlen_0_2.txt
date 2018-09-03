@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-fast,alloca,faster,likely,slower
-strlen is fast alloca is fast copying the string up to the first n is fast puts is faster than printf but is is most likely far slower than all three operations mentioned before together
-
-hand,functions,overhead,call,putc,format,string,equivalent
-on the other hand functions like printf or puts have more overhead per call than putc printf has to process the format string and puts has to call strlen or equivalent but that overhead only happens once no matter how many bytes you re writing
-

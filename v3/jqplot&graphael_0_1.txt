@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-easier,options,documentation,flot
-i found jqplot easier to use with more options and better documentation than flot or graphael
-

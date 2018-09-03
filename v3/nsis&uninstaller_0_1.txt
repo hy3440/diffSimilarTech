@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-section
-can a nsis section create more than 1 uninstaller
-

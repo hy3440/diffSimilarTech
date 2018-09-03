@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-point,apache,indexing,sophisticated
-probably the most important point is that apache ignite indexing is a lot more sophisticated than hazelcast
-
-ram-hungry
-ignite is much more ram-hungry than hazelcast
-

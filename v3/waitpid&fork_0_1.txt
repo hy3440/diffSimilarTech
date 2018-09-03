@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-suggestions,comments,result,variable,safer,processes
-as for the suggestions in the comments keeping the fork result in a variable a then waiting with waitpid is safer when you have more processes as wait waits for the first ending process not a particular one
-

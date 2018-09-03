@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-syntax,new,project,readable
-this is actually the syntax of ocamlyacc which you should not use if you start a new project in that case you should use menhir which has a more readable syntax and is better for numerous other reasons
-

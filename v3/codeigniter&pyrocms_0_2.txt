@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-new,project,sensible,point
-unless you re writing trivial apps or just like re-writing code i wouldn t start any new project in codeigniter because pyrocms is the more sensible starting point
-
-easier
-the more i look into pyrocms the more i feel like it s codeigniter made easier
-

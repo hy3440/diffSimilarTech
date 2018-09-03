@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-use,easier,varlength,paths,tail,cards,end
-your use cases are actually much easier than the skip-lists algorithmically because you avoid most needs for varlength paths by keeping the tail to queue cards to the end directly
-
-array,double-ended,b,tree
-the most simple would be an array but a double-ended queue or an indexed skip-lists b tree could be better depending on the data size we are talking about
-

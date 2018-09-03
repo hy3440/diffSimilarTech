@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-docs,longer,coreos,link,container,kubernetes
-fleet docs say fleet is no longer actively developed or maintained by coreos and link to container orchestration moving from fleet to kubernetes
-

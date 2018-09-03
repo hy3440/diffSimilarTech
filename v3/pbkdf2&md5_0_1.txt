@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-sha512,significant,algorithm,computation
-so we can use pbkdf2 with sha512 to gain a very significant advantage over the phpass algorithm mainly because sha512 is a harder algorithm with more computation than md5
-

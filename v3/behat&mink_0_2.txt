@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-useful,purpose
-i would say behat + mink is more useful for that purpose
-
-web,applications,faster
-often especially when using mink to test web applications you will find that behat goes faster than your web application can keep up - it will try and click links or perform actions before the page has had chance to load and therefore result in a failing test that would have otherwise passed
-

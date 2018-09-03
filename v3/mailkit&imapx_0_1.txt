@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-familiar,efficient,instance
-i m not familiar enough with imapx to make this more efficient but if you were to use mailkit for instance you could do this
-

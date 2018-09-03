@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-complex
-where instead of expected many-to-one is much more complex and partially expressed many-to-many
-

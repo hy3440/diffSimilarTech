@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-value,little,nothing,object
-in such a case passing by value may no required actually passing anything at all -- the value that s passed is basically little or nothing more than a placeholder for this is the object
-
-std,flexible,expression,parameter,binding,support,headers
-this is clearer and simpler no need to know what std bind does or what the std placeholder are for more flexible it can support any expression not just parameter binding required no support headers and will probably compile a little faster too
-

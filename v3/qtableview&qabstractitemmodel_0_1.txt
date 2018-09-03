@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-specific,row
-how can i force a qabstractitemmodel to fetch more or up to a specific row and then force the qtableview to show it
-

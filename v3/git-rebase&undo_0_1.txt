@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-
-what i d like to do now is undo the git-rebase and redo it more thoughtfully
-

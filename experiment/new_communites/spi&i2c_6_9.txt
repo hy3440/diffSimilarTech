@@ -1,0 +1,35 @@
+complex, uart, communication, ---------------------------------------------------
+
+communication,complex,uart,solution
+communication via i2c is more complex that with uart or spi solution
+
+complex,slow,uart,etc.
+i know i2c is more complex slow than spi uart etc. but it s a constrain
+
+post, faster, ---------------------------------------------------
+
+post,faster
+post explaining why spi is faster than i2c
+
+faster
+i wanted to know that what makes spi faster than i2c
+
+control, top, bus, ---------------------------------------------------
+
+top,bus,slower,control,data
+on top of that the i2c bus is slower than spi because there are control data exchanged
+
+research,faster,last,control
+i have done some research about them and it seems to be that spi is faster than i2c but the last one ensures more control and error detection over the first one
+
+other---------------------------------------------------
+
+better,temperatures
+how is spi better than i2c at these temperatures
+
+limited
+spi is not less limited than i2c in this case
+
+bit,banging,complicated
+first bit banging i2c is way more complicated than bit banging spi
+

@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-shorter,output,frequency,lower,line,deliberate
-i guess that these lines have shorter output so the fflush frequency is lower i used the stdout line to print a deliberate help message
-
-method,common,stringio
-occasionally the stdout needs more than a write method fflush is another common one which stringio will handle
-

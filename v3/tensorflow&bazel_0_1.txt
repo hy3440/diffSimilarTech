@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-official,github,script,build_image_data.py,better,idea
-from tensorflow official github how to construct a new dataset for retraining use official python script build_image_data.py directly and bazel is a better idea
-

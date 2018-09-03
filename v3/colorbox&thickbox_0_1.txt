@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-plugin,different,better,sort-of-self-contained,widget
-colorbox is implemented as a jquery plugin which is a bit different and better than thickbox s sort-of-self-contained widget model
-

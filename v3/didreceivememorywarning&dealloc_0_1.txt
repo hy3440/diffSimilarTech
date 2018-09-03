@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-reference,better
-remove dealloc reference in didreceivememorywarning will be better
-

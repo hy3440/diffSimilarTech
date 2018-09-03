@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-better,fgets,available
-also your get_int would be better written with fgets or getline if available and strtol
-

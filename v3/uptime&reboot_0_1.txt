@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-yesterday,production,server,debian,3-y,3rd,party
-yesterday i needed to reboot production server on debian 6 with more than 3-y uptime and 3rd party configured billing system on it
-

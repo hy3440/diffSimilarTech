@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-dynamic,nested,multiple,arraylist
-nevertheless i need a dynamic list for my loops with nested loops which is processed more than 500 times and multiple if-statement therefore the arraylist
-

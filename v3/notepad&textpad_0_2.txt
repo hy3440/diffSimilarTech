@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-windows,machine,programmers,spell,checker,better,measure
-on windows machine i would probably go with textpad personally i now use programmers notepad 2 however it does not support a spell checker and i don t really thinks it s better than textpad by any measure
-
-advanced,able
-as it happens my choice is textpad but just about anything which is more advanced than notepad ought to be able to do this
-

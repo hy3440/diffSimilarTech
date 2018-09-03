@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-operation,pie,slices.here,split,differrent,row,column
-if you want to do a split slice operation on a pie charts first you need to create a pie charts with slices.here from what i understand you tried to give the option split charts first which actually is to make differrent pie charts in the same row or column which needs more than one pie-chart
-
-h,larger,radius,label,constant,r
-if h is larger than your pie-chart radius you are placing the label outside the charts you should consider a constant r for that with a nice looking line
-

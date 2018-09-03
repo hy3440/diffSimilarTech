@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-applications,use,jars,proguard,quicker,stable
-for the uber-jar applications i use maven-shade-plugin for merging jars into one + proguard for shrinking but appassembler is much quicker and stable to use
-

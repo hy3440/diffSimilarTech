@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-charset,better,function,sql,injections,abuse,character,sets
-as mysql_real_escape_string escapes characters according to default charset so it is better than addslashes function and it properly sanitizes sql injections arising out of abuse of multibyte character sets but in another article here a workaround-scenario is shown that explains that injection can still be done
-

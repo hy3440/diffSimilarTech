@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-better,use
-wsimport is better don t use wsdl2java
-

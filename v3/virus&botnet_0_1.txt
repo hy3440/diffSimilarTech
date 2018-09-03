@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-similar,answer,difference,inconvenient,thing,take,control,agent,change
-obviously very similar to the virus answer above the difference being that while viruses usually replicate spread do a preprogrammed inconvenient thing a botnet is more of a take control of your machine for a future usually nefarious but dynamic purpose. i think the hosts your agent can more easily change with a botnet too
-

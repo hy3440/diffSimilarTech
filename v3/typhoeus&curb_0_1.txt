@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-http,httparty,rest,client,easier,similar
-instead of net http i can use httparty curb rest client or typhoeus which makes everything easier but i can t find any similar solutions to replace enhance net ftp
-

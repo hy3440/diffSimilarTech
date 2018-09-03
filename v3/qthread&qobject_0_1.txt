@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-
-finally consider that you can have more than one qthread as well as more than one qobject running on a qthread
-

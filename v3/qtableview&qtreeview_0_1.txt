@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-slower,memory,plain,table,model
-qtreeview is known for being slower than a qtableview and consume a lot of memory and you are using a plain table model anyways so try with a qtableview
-

@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-c#,native,generator,faster
-i m using xamarin.android to write c# but the native java rsa key generator is much faster than the mono one
-

@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-newer,github,bit,support,limitations,memory,delivery
-opencover is newer and is also on github opencover on github it has 64 and 32 bit support and overcomes some of the limitations that partcover has memory and results delivery
-
-better,bit,support
-you may also find that opencover will work better than partcover as it has 32 and 64 bit support as well as supporting .net2 and .net4 - and copes much better with target processes that spin off more processes to do the actual testing
-

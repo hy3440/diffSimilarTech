@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-similar,android,surf,faster
-i have made an app similar to yours for android we use boofcv whose surf is much faster than opencv
-

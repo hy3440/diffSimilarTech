@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-issue,files,mdm,solution,present,file
-we are having an issue with uploading ipa files to our mdm solution when there is more than one info.plist present in the ipa file
-

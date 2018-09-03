@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-view,hierarchy,complicated,ios,big,surprise
-the internal view hierarchy of uialertview is much more complicated than it appears and starting from ios 7 it is not even added to any uiwindow so it s no big surprise that it doesn t participate to the responder chain as you expect
-

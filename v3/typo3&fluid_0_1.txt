@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-template,closer,look,sysext,viewhelpers,uri,imageviewhelper.php,installation
-if you are not using a fluid template take a closer look at typo3 sysext fluid classes viewhelpers uri imageviewhelper.php within your typo3 installation
-

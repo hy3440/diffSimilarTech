@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-faster,apps,toolbelt,powerful,client,tools
-having used both i can tell you that it s a much more polished platform the servers are about 4ã faster you can run as many apps as you want and the heroku toolbelt is much more powerful than the openshift s client tools
-

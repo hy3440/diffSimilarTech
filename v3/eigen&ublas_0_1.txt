@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-mtl4,faster
-from my own experience mtl4 is much faster than ublas and it is also faster than eigen
-

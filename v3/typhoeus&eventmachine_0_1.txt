@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-http,excon,patron,line,configuration
-if you re using faraday and start out with net http you can later decide to use excon typhoeus patron or eventmachine without changing more than a line or two of configuration
-

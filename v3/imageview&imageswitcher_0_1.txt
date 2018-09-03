@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-problems,space,try,peek,hierarchyviewer,sdk
-if you still have problems with your imageview inside imageswitcher taking more space than needed try to peek at the imageview with the hierarchyviewer in the sdk tools
-

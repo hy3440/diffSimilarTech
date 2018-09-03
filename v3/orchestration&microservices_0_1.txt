@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-content,header,footer,zookeeper,push,model
-if you want to have content synchronized between all the microservices in your case the header and footer i d suggest zookeeper it s designed for distributed orchestration and has more of a push model - you d update the header in zookeeper and all of your services would receive that update almost instantly
-

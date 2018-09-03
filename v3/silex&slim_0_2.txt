@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-uglier,afraid,current,version
-i think silex produces a bit uglier code than slim but i m afraid to choose slim because it s changing constantly and i will be stuck with the current version if it breaks backward compatibility
-
-bigger,community,point,view
-silex seems to have a bigger community than slim maybe it s just my point of view
-

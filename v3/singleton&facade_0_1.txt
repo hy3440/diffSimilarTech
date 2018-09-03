@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-better,session,class,design,patterns
-can any one tell me which one is better between session facade class and singleton object design patterns in asp.net
-

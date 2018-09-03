@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-api,top,tensorflow,cntk,main,difference,backend,features
-it is similar in spirit to keras which is built as a high-level api on top of theano tensorflow cntk although the main difference is that lasagne implements only one backend allowing it to integrate more deeply with theano features
-
-keras,simpler,nns,pure,side,research
-and using keras or lasagne is way simpler to develop nns then pure theano which was just side research project in montreal to support development of pylearn
-

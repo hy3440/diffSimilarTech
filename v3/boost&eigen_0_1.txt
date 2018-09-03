@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-sequential,access,faster,sum,raw,multi_array
-inspecting the assembly shows that in the sequential access case eigen is faster because the sum becomes vectorized while it does not when using raw boost multi_array
-

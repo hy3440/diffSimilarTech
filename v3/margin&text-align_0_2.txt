@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-auto,inline-block,div,parent,center,better
-using margin 0 auto or an inline-block div with a parent with text-align center are both better bets
-
-center,old,ie6,newer,browsers
-the text-align center is for old ie6 whereas margin works for newer browsers
-

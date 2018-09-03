@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-shy,quality,output,collocation,analysis,broader,range
-nltk is shy of stanford-nlp in terms of quality of output and for everything other than statistical collocation analysis as far as i can tell stanford-nlp has a broader range of practical algorithms
-

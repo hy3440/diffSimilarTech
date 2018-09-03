@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-load,testing,better,enough,funding,loadrunner,rational,performance
-for load testing jmeter is better option but you have quite enough funding then go for loadrunner neoload rational performance tester and for cloud try blazemeter
-

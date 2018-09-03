@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-better,concurrency,threadsafe,confgi,multi-thread
-puma also has better concurrency but that threadsafe confgi make webrick multi-thread for me
-

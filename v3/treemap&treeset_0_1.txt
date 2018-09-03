@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-class,wrapper,direct,use,faster
-there is also the treeset class that probably is what you need but since it is just a wrapper to treemap the direct use of treemap would be faster
-

@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-equivalent,webstorm,powerful
-if you re looking for a ctrlp equivalent webstorm has a fuzzyfinder that s actually much more powerful than ctrlp
-

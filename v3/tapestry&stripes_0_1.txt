@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-pattern,struts2,spring,component-based,jsf,wicket
-and beware that in this area there are many much more alternatives or fragmentation than in .net some more oriented to the mvc pattern struts struts2 stripes spring mvc some more component-based jsf tapestry wicket and some others gwt
-

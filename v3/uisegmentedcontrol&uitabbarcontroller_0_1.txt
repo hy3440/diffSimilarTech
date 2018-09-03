@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-different,look,better
-if you want a different look than what is provided by the uisegmentedcontrol using the uitabbarcontroller is the better option
-

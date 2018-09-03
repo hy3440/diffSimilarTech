@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-experience,gem,nice,interface,common,tasks
-based on my own experience i would look into a gem like minimagick which provides a nice interface to imagemagick which is a more common library for the tasks you re trying to do
-

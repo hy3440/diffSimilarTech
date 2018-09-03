@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-right,jboss,business-bean-classes,ejb-local-interface
-well glassfish is more right than jboss and weblogic business-bean-classes should all have their own ejb-local-interface
-
-application,server,ee,ibm,bleeding,edge,oracle,liberty
-oracle s other application server weblogic still doesn t even fully support java ee 7 - both they and ibm seem to have similar strategies of maintaining stability in their full-fat releases while being more bleeding edge with glassfish for oracle and the liberty profile for ibm s websphere
-

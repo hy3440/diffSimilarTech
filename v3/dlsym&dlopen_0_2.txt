@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-simple,program,subsequent,exits
-given that i know little about apache modules i would try to remove apache from the equation try writing a simple c program that does little more than a dlopen and possibly the subsequent dlsym then exits
-
-imo,easier
-on linux it would be easier for you to link to shared library and use symlinks to correct version - imo it s much easier than using dlopen + dlsym
-

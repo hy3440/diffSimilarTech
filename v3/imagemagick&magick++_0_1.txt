@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-thing,correct
-now i m trying to do the same thing with imagemagick to be more correct with magick++
-

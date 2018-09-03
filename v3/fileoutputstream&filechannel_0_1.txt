@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-faster
-i don t see any reason why filechannel could be any faster than fileoutputstream in this case
-

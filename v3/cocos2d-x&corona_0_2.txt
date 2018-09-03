@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-consensus,easier,open,source
-the consensus seems to be that corona is easier to use but that cocos2d-x has the advantages that come from being open source easy to customize merge with other code community etc
-
-opinion,better,free
-i would recommend cocos2d-x as it is in my opinion equally or even better than corona and it is free
-

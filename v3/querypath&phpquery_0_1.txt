@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-faster,fewer,features
-it is said that phpquery is often faster than querypath because of fewer overall features
-

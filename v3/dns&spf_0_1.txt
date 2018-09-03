@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-record,lookups,process
-your spf record requires more than 10 dns lookups to process
-

@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-
-together resharper was finding more than justcode
-

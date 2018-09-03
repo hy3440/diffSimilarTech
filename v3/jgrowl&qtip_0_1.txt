@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-removedata,hack,single,element,time,multiple
-craig wrote the removedata is just a hack to allow more than one qtip to be bound to a single element at any one time hence allowing multiple jgrowl s
-

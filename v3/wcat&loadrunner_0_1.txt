@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-application,stress-testing,underpowered,buggy,edition,products,easier,better-integrated
-microsoft s free application for stress-testing wcat is underpowered and buggy but the full blown test edition goes up against products like loadrunner but is easier to use better-integrated with vs asp.net and for much less money per virtual user
-

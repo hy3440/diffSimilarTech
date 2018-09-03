@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-trouble,game,resolution,impossible,ida
-the trouble is the game runs fullscreen in 800x600 resolution and really doesn t like being minimized which makes it more or less impossible to actually use ida while the game is running
-

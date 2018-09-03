@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-strtof,former,errors,flexible,atoi
-i understand that strtol and strtof are preferred to atoi atof since the former detect errors and also strtol is much more flexible than atoi when it comes to non-base-10
-
-note,similar,functions,values,point,strings,int
-note atof and similar functions don t detect overflows and return zero on error so there s no way to know if it failed not sure if it sets errno see also keith s comments about undefined behaviour for certain values so the point is you should use strtol for converting from strings to int and strtod for converting to double those have much better error handling
-

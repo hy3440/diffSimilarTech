@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-package,easier,work
-lubridate is another package from the tidyverse it makes easier work with dates and times
-

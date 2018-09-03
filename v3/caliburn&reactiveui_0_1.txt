@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-unusual,things,awful,easier
-personally i really like reactiveui which is fairly unusual but does make getting things right an awful lot easier than caliburn
-

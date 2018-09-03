@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-module,time,trials,accurate
-you should always use the timeit module for time trials it is far more accurate than cprofile here
-

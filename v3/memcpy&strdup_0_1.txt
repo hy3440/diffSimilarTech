@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-strlen,malloc,faster,strcpy
-because of the above replace strdup with strlen malloc memcpy memcpy is slightly faster than strcpy
-

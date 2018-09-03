@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-better,alternative,calendrical,types
-fortunately ecto 2.1 has a better alternative since it s supports the built-in calendrical types from elixir 1.3
-

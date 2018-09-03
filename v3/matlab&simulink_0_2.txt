@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-difficult,model,variable-step,solver,time,steps,file,accurate
-it s difficult to tell without seeing the simulink model but i suspect that in simulink you are using a variable-step solver which is able to take much smaller time steps than in your matlab file giving you more accurate results
-
-purpose,model,version,launch,script,process,faster,environment
-for that purpose i want to transform the simulink model into a c version and launch it from a matlab script so that the process would be much faster than opening simulink environment
-

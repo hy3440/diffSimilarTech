@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-explanations,complex,common,programming
-i m also looking for more examples and explanations of complex combinators more complex than fold in common programming languages
-

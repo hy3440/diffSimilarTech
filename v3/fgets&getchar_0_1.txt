@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-use,character
-use fgets instead of getchar to retrieve more than one character
-

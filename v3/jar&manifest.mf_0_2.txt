@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-project,better,main_class
-i think that s why i can t use to launch my project this way works but jar way is better because everything including the main_class is described in manifest.mf
-
-file,jar-relative,class-path,entry,sufficient
-putting it in the jar file among the classes or adding its jar-relative path to the class-path entry of the jar s manifest.mf file is more than sufficient
-

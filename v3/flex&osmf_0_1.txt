@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-older,capable,version,platform,videoplayer
-flex uses an older less capable version of the osmf platform for its videoplayer
-

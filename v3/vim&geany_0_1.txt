@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-slower
-it looks like vim is slower than geany
-

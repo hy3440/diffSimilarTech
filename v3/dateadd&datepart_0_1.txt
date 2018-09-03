@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-current_timestamp,datediff,datename,getdate,isdate
-case cast convert current_timestamp dateadd datediff datename datepart getdate isdate left len lower ltrim replace replicate reverse right rtrim space str substring substring expression start length sysdatetime upper
-

@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-plugins,radio,single,experience,help
-i ve been trying to apply icheck plugins to my radio and checkbox and i just cannot figure out why my radio button keep selecting more than a single option with no experience in jquery i think i might need help with this
-

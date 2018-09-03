@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-complicated,powerful,simple,functions,slower
-colt does this already but i have found it is more complicated and more powerful than jama which may explain why simple functions are slower with colt
-

@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-notification,mouseup,mouseleave
-this may make for various race conditions and may necessitate using events which give you earlier notification than mouseup mousedown mouseenter mouseleave mouseover mouseout
-
-easier
-mouseover rather than on mousedown makes it easier to catch moving
-

@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-low,level
-qwindow is more low level than qwidget
-

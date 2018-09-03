@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-resharper,expensive
-as of now i think dotcover and resharper combined are less expensive than ncover
-

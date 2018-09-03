@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-windows,pc,easier
-i use windows on my pc to tinker around so decided on using waitress but perhaps gunicorn would be easier
-

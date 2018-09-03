@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-efficient,secure,full-featured,sip,calls
-i need a sip server hopefully simpler more efficient and more secure than asterisk or other full-featured pbx to just terminate sip calls and play audio based on the incoming number
-

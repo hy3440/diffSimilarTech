@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-svn,bamboo
-since perforce is less commonly used compared to cvs svn amongst bamboo users we generally get less feedback about it and hear less about existing issues
-

@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-better,windows,unix,commands
-imho cmder is better in windows than cygwin to work with unix commands
-

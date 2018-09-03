@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-dao,out-of-the-box,roo,great,addon,hades,job,better
-if you actually need dao s this is something that comes out-of-the-box in appfuse and put partly in spring roo but there is also a great addon for spring roo hades addon that does a great job at this maybe even better than appfuse
-

@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-longer,url,able,right,site.openweb
-since spsite takes a longer url you may also be able to open the right spweb as well using site.openweb
-

@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-animation,easier,intuitive
-uiview animation is generally easier and more intuitive to use than caanimation
-

@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-receiver,multiple
-otherwise if oncreate is being called more than ondestroy receiver is registered multiple time and the app mis-behaves
-

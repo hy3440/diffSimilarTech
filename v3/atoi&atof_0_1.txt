@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-n.m,comments,float,input,sequence,int,appropriate
-as pointed out by n.m in the comments atof takes a float as input - the fibonacci sequence is generated using an int so atoi is more appropriate
-

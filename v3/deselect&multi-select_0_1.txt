@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-ctrl,click,ones
-hold down ctrl and click to multi-select or do ctrl + a to select all and then deselect the ones you don t want with ctrl + shift +click
-

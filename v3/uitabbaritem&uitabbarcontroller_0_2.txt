@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-morenavigationcontroller,available
-i have a uitabbarcontroller with more than 5 uitabbaritem so the morenavigationcontroller is available
-
-images,tab
-after googling i found that we can t add images on more tab in uitabbarcontroller because more tab is automatically displayed by uitabbarcontroller when uitabbaritem is more then 5
-

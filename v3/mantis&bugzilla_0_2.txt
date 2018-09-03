@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-complete,features,separate
-since mantis is a bit more complete than bugzilla when it comes to features you could define separate issues with custom field for your tasks
-
-research,simpler,idea,it.can,steps,order,bug,tracking
-research showed me that mantis is simpler to use over bugzilla so i decided to use mantis but have no idea how to install it.can anyone please tell me what are the steps you need to take in order to install mantis bug tracking system in a small company to track website mobile portal bugs
-

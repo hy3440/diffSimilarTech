@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-server,database,school,cafe,advanced,features,columns,relations
-i think you should install phpmyadmin on your server this will allow you to access your database from work school cafe etc mysql-workbench is more advanced and gives you more features so you can deal with changing the structure and editing any rows columns relations and much more look at phpmyadmin s features it has most if not all
-

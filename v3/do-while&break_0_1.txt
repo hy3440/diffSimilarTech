@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-convention,loop,appropriate
-if you want to break this convention then perhaps changing it to a do-while loop is more appropriate
-

@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-cleaner,access,property,fragile,synthesis,antiquity
-this redeclaration allows a cleaner way to access and mutate the property internally without resorting to fragile ivar synthesis which is becoming an antiquity now that the compiler does it for you
-

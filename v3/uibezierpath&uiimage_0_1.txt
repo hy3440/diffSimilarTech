@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-class,easier,drawing
-the uibezierpath class seems easier to use so how could i get that drawing in a uiimage
-

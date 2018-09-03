@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-last,year
-over the last year it looks like mongoid has been more regularly maintained and updated than mongomapper
-
-2.3.x,projects,stable
-i prefer mongomapper for 2.3.x projects but mongoid has seemed much more stable for me in rails 3 projects
-

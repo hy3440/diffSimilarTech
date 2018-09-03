@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-modularity,framework,mvvm
-prism is more of a modularity framework and caliburn is more of a mvvm framework i know both have overlapping features but it would be great to take best features from two frameworks when they are combined
-

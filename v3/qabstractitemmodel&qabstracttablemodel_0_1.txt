@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-implementation,little,bit,specialized,interface
-well obviously you created an implementation qabstracttablemodel which has a little bit more specialized interface than qabstractitemmodel
-

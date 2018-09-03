@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-availability,params,easier,concern
-if anything i would imagine scope and availability through passed params in a dynamic-languages would be considerably easier to establish without the typechecking concern
-

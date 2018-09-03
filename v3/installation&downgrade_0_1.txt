@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-sql,server,data,obvious,previous,newer,version,present,database,schema
-unfortunately sql server 2008 r2 sp2 and sql server 2012 does not support installation over that data which is especially obvious if the previous installation was a newer version than the present one in which case there is no way to downgrade the database schema versions
-

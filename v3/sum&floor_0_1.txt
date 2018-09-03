@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-formula,integers,odd,-ve,number,average
-this formula fails for integers whose sum is an odd -ve number as their floor is one less than their average
-

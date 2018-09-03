@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-requirements,suitable
-also from your requirements autocompletetextview is more suitable than spinner
-
-select,great
-if you don t want to write anything on autocompletetextview and select items you have to implement the spinner is more great
-

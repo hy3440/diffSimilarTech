@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-line,endl,better,performance,likely,ios,sync_with_stdio
-not flushing after each line endl fflush will be better for performance in pipelines if you want performance you ll also likely want to turn of syncing with stdio by doing ios sync_with_stdio false
-

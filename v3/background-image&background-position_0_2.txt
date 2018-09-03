@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-css,control,background-size
-instead using css you have a lot more control with background-image background-size and background-position
-
-smaller,photo,element,top,container
-background-position will align a smaller photo to the bottom of a larger element but when the background photo is larger than the element it keeps the top of the background-image aligned with the top of the container
-

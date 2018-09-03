@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-faster,scalable,level,memcached,server,couchdb
-i d like to add that couchbase is a faster and more scalable option than couchdb the 2.0 version introduces views at a high level it s a distributed memcached membase server merged with couchdb but of course more sophisticated than just mashing them together
-

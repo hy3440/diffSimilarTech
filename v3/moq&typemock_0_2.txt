@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-tool,better
-or would a tool like typemock be better suited than moq in this case
-
-moles,set,facilities,rhinomocks,sweet
-moles is more often compared contrasted to typemock in that it offers a set of facilities outside of moq and or rhinomocks sweet spot
-

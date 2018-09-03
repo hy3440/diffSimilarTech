@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-graph,operations,needs,graphs
-it feels like arangodb is focused on graph operations and neo4j fits more the needs of using graphs if you have more relations than rows the reason to use graphs instead of relations with joins
-

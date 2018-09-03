@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-nothing,public,attributes,variables,methods,result,application,project
-the code is riddled with classes which contain nothing more than public shared attributes variables and methods functions the result of which restrict the application from opening more than one project at a time
-
-file,access,files
-this allows a file shared to offer more restrict access to some files than if the same user were attempt to access them locally
-

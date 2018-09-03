@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-larger,buffer,error,return,getlasterror,returns
-the datagram is larger than your buffer so it gets trucated you get an error return from recvfrom and getlasterror returns 10040 wsaemsgsize
-
-wsaemsgsize,buffer,smaller,incoming
-wsaemsgsize usually means that the buffer you provided to recvfrom was smaller than the incoming datagram
-

@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-superior,event,informations
-a more superior way is to call addeventlistener in javascript itself on the event domcontentloaded here are more informations
-

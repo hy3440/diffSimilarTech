@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-edit,h.265,better,compression,size,support,widespread,stick
-edit h.265 hevc is even better at compression 50 of h.264 size in some cases but support is not yet widespread so stick with h.264 for now
-
-sizes,larger
-at the qualities i m recording 720p or 1080p the file size of an hevc-encoded video should be 40-60 of an identical h.264-encoded video and i am seeing this when i use the default camera app on ios but when i use avassetwriter as above or in the project linked above i m seeing file sizes be about three times larger with hevc than with h.264
-

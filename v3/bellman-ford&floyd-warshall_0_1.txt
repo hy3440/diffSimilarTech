@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-runs,time,approach,faster
-because bellman-ford runs in time o mn the overall asymptotic runtime is still o mn + n 2 log n so if m o n 2 note that this is little-o of n this approach is asymptotically faster than using floyd-warshall
-

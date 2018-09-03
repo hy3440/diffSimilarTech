@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-note,updates,costly,complicated,good
-note that a quadtree can be queried very quickly and efficiently but updates are a bit more costly that is if your items move a lot across your map this becomes more complicated to do with a good performance
-

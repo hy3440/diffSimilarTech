@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-validation,easier,useful,feature,relationships
-however i started using ardent to make validation easier and noticed that it has a useful feature for defining eloquent relationships
-

@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-opinion,mature,jbehave,rspec
-i ve not tried them but common opinion is they re less mature than cucumber jbehave concordion rspec etc
-

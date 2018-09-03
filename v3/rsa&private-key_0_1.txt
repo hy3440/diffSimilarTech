@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-implementations,years,decades,complicated,efficient,chinese
-essentially all rsa implementations for about 30 years do not simply do c up d mod n as shown in the first few paragraphs of wikipedia or billions of blogs copied from brief news clippings or exceprts from decades ago but instead use a more complicated private-key that supports the more efficient chinese remainder theorem computation as explained if you read all of the wikipedia article or look at a text by an author who actually knows about modern cryptography
-

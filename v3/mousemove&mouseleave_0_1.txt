@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-look,events,better,combinations
-take a look at mouseenter and mouseleave events they are better than mousemove and mouseenter combinations
-

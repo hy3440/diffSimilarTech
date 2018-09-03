@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-slower
-basically imagemagick was only slightly slower than libjpeg
-

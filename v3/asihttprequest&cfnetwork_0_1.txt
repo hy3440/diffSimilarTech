@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-better
-you can use asihttprequest which is quite better than cfnetwork
-

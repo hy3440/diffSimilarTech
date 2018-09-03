@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-successfull,application,features
-agile could be more successfull when the application is in maintenance mode where the application is already in production and the dev is simply adding more features to the application in each sprint
-

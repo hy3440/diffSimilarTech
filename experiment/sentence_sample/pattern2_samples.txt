@@ -1,0 +1,199 @@
+ yes 
+lisp	scheme
+overall common lisp is much more uniform than scheme and more radical language experiments if done at all are usually embedded as a portable library rather than defining a whole new language dialect
+
+ no 
+clang	llvm
+you may notice that modules in clang llvm are faster than precompiled headers
+
+ yes 
+postgresql	mysql
+or maybe i want to use mysql for forum posts but postgresql for geo-clustering more realistic for me heh
+
+ yes 
+postgresql	mysql
+does anyone know issues with mysql s in support and if postgresql would be better placed for building an application with indic language support kannada telugu tamil etc using utf- encoding
+
+ yes 
+mp	ogg
+if mp ogg is better try different compression ratios and sample rates to see which goes faster
+
+ yes 
+addition	multiplication
+instead of computing the slower it instead computed x + x because addition is faster than multiplication
+
+ yes 
+lemmatization	stemming
+lemmatization is relatively more complicated as compare to stemming that is why it s harder to find some ready and free solution
+
+ yes 
+google-chrome	safari
+i have had issues with dynamically created nodes that use filters and animatemotion has been a bugged in google-chrome for way too long... we use ff+ as our interactive interfaces for this reason safari is getting better too
+
+ yes 
+webclient	httpwebrequest
+i recently just finished a web app using asp.net mvc . and i ran into some limitations while using webclient instead i opted for httpwebrequest which gave me more options to fine tune my requests
+
+ yes 
+disk	ram
+number of cores cpus in slurm disk space and ram are more tricky to get as it might be different on different nodes
+
+ yes 
+strcpy	strncpy
+to copy a string in c use carefully strcpy  often strncpy is better
+
+ yes 
+boxd	scened
+so basically when boxd is more about how objects will behave themselves during application running the scened is more about how you write your code before application running
+
+ yes 
+cvs	svn	perforce	cvs	perforce	svn
+since perforce is less commonly used compared to cvs svn amongst bamboo users we generally get less feedback about it and hear less about existing issues
+
+ no 
+explode	implode
+i m not sure why you d serialize it in php either because implode and explode would be more appropriate
+
+ yes 
+.htaccess	httpd.conf
+using apaches httpd.conf is faster since accessing the .htaccess adds a small overheadâ apache checks every directoryâ and parent directoryâ for the file and it will be loaded for every request
+
+ yes 
+nunit	mstest
+nunit is faster as compared to mstest
+
+ yes 
+sorting	filtering	listview	gridview	gridview	repeater
+i think the performance depends a lot on the data provider paging and sorting and filtering the data are easily the most expensive tasks when dealing with databases - so picking a renderer gridview listview repeater is more dependent on your comfort with that particular control
+
+ yes 
+autocompletetextview	spinner
+if you don t want to write anything on autocompletetextview and select items you have to implement the spinner is more great
+
+ yes 
+postgresql	mysql
+i don t like mysql licence firebird and postgresql are better
+
+ yes 
+innodb	myisam
+while myisam can be faster for some queries innodb is usually quicker if properly tuned
+
+ yes 
+client-side	server-side
+client-side validations can be overriden hacked thus server-side are more secure
+
+ yes 
+aggregate-functions	sum
+aggregate-functions is more general version of sum
+
+ yes 
+ienumerable	ilist
+ienumerable is less specific than an ilist that is ilist has functions that ienumerable does not
+
+ no 
+gif	png
+this properly means if the file is an image of gif or jpeg or png and is less than that size
+
+ yes 
+for-loop	loops
+a for-loop is faster than a foreach loops
+
+ yes 
+jruby	mri
+i ve noticed however that jruby is more sensitive to memory leaks than mri
+
+ yes 
+ord	unpack
+unpack will be more efficient than split and ord because it doesn t have to make a bunch of temporary -character strings
+
+ yes 
+verilog	vhdl
+it used to be that vhdl had more non-synthesizable language features that aided verification that old-school verilog
+
+ yes 
+google-chrome	firefox
+it s clearly visible in firefox and is far more subtle yet also distinguishable in google-chrome
+
+ yes 
+typedef	struct
+following the linux kernel coding gudelines i don t fancy typedef because they tend to make the data definitions opaque if something is declared elsewhere as the typedefined type understanding that is a struct is somewhat more complicated
+
+ yes 
+mbunit	nunit
+from what i have read on here i here that nunit is more popular over mbunit
+
+ yes 
+mbunit	nunit
+nunit is more popular because it was there first therefore more articles about it on the web and better tooling and because most programmers don t care about or need the advanced features that mbunit offers
+
+ yes 
+scylla	cassandra
+i wrote a detailed description of the sstable format on scylla s site scylla is a more efficient c++ re-implementation of cassandra to which i contribute
+
+ yes 
+libstdc++	libc++
+in crystax ndk both gnu libstdc++ and llvm libc++ are much more stable and fully conforming to c++ standard at least at the same level as they conform to it on gnu linux
+
+ yes 
+realloc	malloc
+i mean i think realloc is way smarter so why do we even need malloc
+
+ yes 
+gridview	repeater
+maybe a repeater is better but you will be fine with a gridview if you are familiar with it
+
+ yes 
+qtableview	qgraphicsscene
+technically this could also be done by customizing a qtableview widget but qgraphicsscene is more robust for custom graphics and performance
+
+ yes 
+hash	md
+obviously md is much more difficult to reverse even in this anything that will hash to the right value sense then a simplistic algorithm like take the last two digits
+
+ no 
+google-chrome	firefox
+google-chrome and firefox seem much more forgiving but with ie  the inclusion of a bad caused a blank view to be displayed
+
+ yes 
+ant	maven
+testing and support of ant code is quite expensive and integration with maven adds even more complexity
+
+ yes 
+int	chars
+which even if some technique is used to prevent promotion of unsigned chars to int before doing the comparisons in the loop operations on int may be more effective anyway
+
+ yes 
+irc	xmpp
+regardless the irc protocol is more simplistic in nature can handle orders of magnitude more client connections than xmpp for the same memory utilization uses less bandwidth on the wire doesn t require authentication although you can add this feature etc
+
+ yes 
+quicksort	heapsort
+so for even small inputs quicksort does less work than heapsort and is physically faster for every n
+
+ yes 
+svg.js	snap.svg
+the snap.svg syntax is a bit more concise the svg.js code is more readable
+
+ yes 
+post	get
+i am aware that a post is better for this kind of thing but my question is is this expected from a get request
+
+ yes 
+lxml	beautifulsoup
+i prefer the beautifulsoup syntax as i find it more natural but i find that lxml is better when i m trying to parse unknown quantities on the fly based on variables-- generating xpath strings that include variable values which i will then use to extract specific elements from varying pages
+
+ yes 
+robocopy	xcopy
+the robocopy command provides a more intelligent exclusion feature switches xd and xf than xcopy does which you could use for your task
+
+ no 
+jsf	seam
+well for that you ll need jsf that is better integrated with seam and jsf does not handle file uploads that actually everyone use so you have to put also icefaces that actually are better managed by maven that you currenty are not using... neverending story
+
+ yes 
+apache	nginx	gunicorn	uwsgi
+as other already suggested nginx + gunicorn or better nginx + uwsgi are better options than apache + mod_python to serve your django app
+
+ yes 
+public	protected
+many developers have established a coding convention instead and used public for those cases where protected may have made more sense

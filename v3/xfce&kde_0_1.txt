@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-wms,gnome,resource,hungry,laptops,desktop
-since the more mainstream wms like gnome or kde become more and more resource hungry it wasn t long before i replaced gnome with xfce on laptops and desktop computers
-

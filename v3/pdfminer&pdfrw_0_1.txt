@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-pdf,files,useful,tools
-if you really want to deeply examine text pdf files pdfminer might be more useful -- pdfrw has not yet really grown the tools to do that too well
-

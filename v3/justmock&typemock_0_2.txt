@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-expensive
-justmock less expensive than typemock but still expensive
-
-profiler,frameworks,isolator,easier,commercial
-other profiler based mocking frameworks like typemock isolator or justmock are probably easier to work with but they are commercial solutions
-

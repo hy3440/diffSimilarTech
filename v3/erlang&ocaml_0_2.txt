@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-expressive,pattern,matching
-while erlang is more expressive ocaml pattern matching is simpler which means a simpler language definition compiler etc. and you still can do what you need at the cost of writing more code
-
-haskell,ml,miranda,alice,oz,twelf,coq
-haskell ml ocaml miranda alice oz erlang twelf coq prolog all demonstrate more rigorous applications of mathematics to programming
-

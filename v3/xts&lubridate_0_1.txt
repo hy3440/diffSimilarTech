@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-practical,ggplot,objects
-hence i conclude lubridate to be more practical here also because ggplot does not understand xts objects right away
-

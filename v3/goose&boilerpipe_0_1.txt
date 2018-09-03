@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-slower,average,faster
-2 readability library content is passable slower on average than goose but faster than boilerpipe
-

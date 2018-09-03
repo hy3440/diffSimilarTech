@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-hover,events,efficient
-lastly the hover creates two events of which the mouseleave isn t needed for your code so you can use just mouseenter to make it more efficient
-
-div,thicker,automatic
-mouseleave div becomes thicker which will cause an almost automatic mouseenter
-

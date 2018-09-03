@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-readable,fashion,css,selectors
-or you could do it in a way more readable fashion with rvest which ultimately uses rcurl and css selectors
-

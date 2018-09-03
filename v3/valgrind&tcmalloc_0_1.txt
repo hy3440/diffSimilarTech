@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-heap,profiler,useful
-try tcmalloc you are looking for a heap profiler although valgrind might be more useful initially
-

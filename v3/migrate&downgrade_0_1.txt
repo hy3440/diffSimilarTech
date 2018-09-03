@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-env,rake,upgrade,smaller
-if you overwrite the env versioning the rake db migrate will go downgrade rather than upgrade if versioning is smaller than last known versioning in db schema so please check and avoid similar environment variable
-

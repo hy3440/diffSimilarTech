@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-uiviewcontroller,smaller,view,size
-the framespace for the uiviewcontroller becomes smaller because uinavigationcontroller manipulates the view by adding a uinavigationbar which is 44.0f in size
-
-different,backgrounds,uitabbar,categories
-the ardalahmet solution is not the right one if you need different backgrounds for each uinavigationbar when you have more than one uinavigationcontroller such as in a uitabbar because it using uinavigationbar categories
-

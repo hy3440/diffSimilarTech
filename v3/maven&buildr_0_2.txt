@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-everybody,slow,2-6x,faster
-and even though everybody says ruby is slow buildr was 2-6x faster than maven
-
-blog,article,tool,faster,simple
-i read in a blog article that buildr a ruby based build tool was two times faster than maven for a simple build
-

@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-faster
-also i started this out in d3.js and was thinking chart.js might be faster
-
-steeper,learning,curve,graph,it.official
-d3.js has a steeper learning curve than chart.js but once you get the hang of it you can do pretty much anything graph related with it.official site is here
-

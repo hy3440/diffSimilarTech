@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-construct,comparative,slower
-construct java.util.calendar is comparative slower than java.util.date
-
-good,practice,method,flexible
-additionally using java.util.date is not good practice at all since most of its method are deprecated so i suggest you to use java.util.calendar which is more flexible
-

@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-ga,added-value,easier,integration,apis,raw
-consider using force.com canvas now ga which is an added-value iframe with more security and easier integration with salesforce apis than raw iframes - see
-

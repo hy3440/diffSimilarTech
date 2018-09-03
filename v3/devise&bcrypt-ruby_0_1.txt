@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-force,newer,version,gemfile,auto,dependency,bundle
-how can i force devise to use the newer version of bcrypt-ruby that is in the gemfile 3.1.1 and not the auto installed dependency 3.0.1 because adding bcrypt-ruby 3.1.1 to gemfile and running bundle update install does does not seem to solve the problem
-

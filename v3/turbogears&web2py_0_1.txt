@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-young,mailing,month,similar
-web2py may be young but the mailing list has 2000 messages month which is similar to django and far more than turbogears
-

@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-builds,project,packages,better
-i made a docker image to use it with my builds of a project in wercker i did this because i thought having the require packages already installed in the environments is better than installing them in each build of my project
-

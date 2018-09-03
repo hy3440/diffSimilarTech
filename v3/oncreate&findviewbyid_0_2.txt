@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-better,normal,views,compilation,activity,efficient,standard
-this is better than normal findviewbyid because the views are create on compilation and are injected automatically inside the activity at oncreate being way more efficient than your standard initialization
-
-earlier
-you can t findviewbyid earlier than oncreate
-

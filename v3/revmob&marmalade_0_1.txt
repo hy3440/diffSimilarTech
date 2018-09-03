@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-promising,banner,positioning,callbacks,possible,cocos2d-x,gl
-this one is more promising than revmob because banner positioning and event callbacks appear to be possible but due to marmalade and cocos2d-x s gl conflicts this might turn out to be just as bad a solution as iwgameads
-

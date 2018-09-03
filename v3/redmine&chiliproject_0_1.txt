@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-1.x,older,versions
-chiliproject 1.x and redmine are on older versions of rails 2.3.5 and 2.3.11 and don t use bundler at all
-

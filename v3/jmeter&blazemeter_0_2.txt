@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-better
-why blazemeter is better than jmeter
-
-load,testing,better,enough,tester,cloud
-for load testing jmeter is better option but you have quite enough funding then go for loadrunner neoload rational performance tester and for cloud try blazemeter
-

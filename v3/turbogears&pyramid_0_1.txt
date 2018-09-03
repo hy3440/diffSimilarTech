@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-difference,pylons,repoze.bfg,api,resources
-the difference between pylons and pyramid are the merge of repoze.bfg and turbogears which brings more api resources
-

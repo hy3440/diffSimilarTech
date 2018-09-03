@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-printstream,better,filewriter
-you need to create a fileoutputstream and decorates it with printstream or better filewriter with printwriter
-

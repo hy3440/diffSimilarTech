@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-ghostscript,able,quicker
-ghostscript and imagemagick convert should also be able to do this for you although libtiff is supposedly quicker
-

@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-mp3,compression,format,music,content,better,speech
-mp3 or aac compression format is suited for music content and amr is better suited for speech content
-

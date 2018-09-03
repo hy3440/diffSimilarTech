@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-impossible,better,operations,cross-process,communication,updates,locks
-but consider this it s literally impossible to do any better than interlocked operations for cross-process communication with atomic updates and no locks are held
-

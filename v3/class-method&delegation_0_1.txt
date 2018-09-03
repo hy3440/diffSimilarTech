@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-better,use,explicit,foo.relating_to
-however often it s better to delegation use cases like these to other class-method which are more explicit about what they do for example foo.relating_to bar
-

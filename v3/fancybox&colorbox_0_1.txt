@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-lyebox,faster,problems,scripts,lightbox,work
-i ve had to replace lyebox with colorbox which is much faster and seemingly has less problems conflicting with other scripts lightbox fancybox and others wouldn t work for me
-

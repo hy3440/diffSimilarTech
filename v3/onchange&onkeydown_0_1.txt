@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-work,data,better
-onkeydown although it wouldn t work for pasted data where onchange is probably better
-

@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-performance,issues,action-based,frameworks,requests,component
-still jsf might have performance issues as compared to action-based frameworks like stripes which work more closely to http requests without building component model which is using more memory more network bandwidth
-
-pattern,struts2,spring,component-based,tapestry,wicket
-and beware that in this area there are many much more alternatives or fragmentation than in .net some more oriented to the mvc pattern struts struts2 stripes spring mvc some more component-based jsf tapestry wicket and some others gwt
-

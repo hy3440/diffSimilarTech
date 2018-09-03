@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-good,answers,versatile,overloads
-building on the previous good answers stringwriter is actually much more versatile than stringbuilder providing lots of overloads
-

@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-url,site,better,bet
-looking for a swfupload url their site is down so maybe plupload is a better bet
-

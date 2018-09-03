@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-up-to-date,version,low
-janusgraph is a more up-to-date version of titan despite the low version number
-

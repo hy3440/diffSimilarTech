@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-cluster,ui
-can i configure more than one hadoop cluster via ui of ambari
-

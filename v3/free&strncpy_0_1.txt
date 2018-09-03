@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-previous,answers,char,pointer,malloc,safer,function,inconsistent
-in addition to the previous answers the strncpy char pointer which seems unsafe for my opinion and the malloc which is safer but you need to remember to free it outside of the function and its inconsistent with the hierarchy of the program you can do the following
-

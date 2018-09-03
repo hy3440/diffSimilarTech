@@ -1,0 +1,34 @@
+afaik, production, deployments, ---------------------------------------------------
+
+afaik,production,deployments,better
+afaik jboss is much more adopted in production deployments than glassfish but this doesn t necessarily mean it s better
+
+better,j2ee,server
+i think glassfish is a better j2ee app server to start with than jboss
+
+other---------------------------------------------------
+
+implementation,smaller,whole
+as for me jboss implementation is smaller than the whole glassfish so i m using
+
+right,weblogic,business-bean-classes
+well glassfish is more right than jboss and weblogic business-bean-classes should all have their own ejb-local-interface
+
+v3,production,environment,application,server,features,stability
+glassfish v3 vs jboss 7.0 in using in production environment i know more people use jboss the application server but glassfish has more features and stability over jboss
+
+better,slick,gui-based,admin,console,command,line
+glassfish however performs better than jboss and has a very slick gui-based admin console whereas jboss can only be administrated with a command line
+
+location,popular,idea
+but in my location jboss is more popular than glassfish so i have a idea
+
+opinion,user,friendly,use,project
+in my opinion glassfish is more user friendly than jboss so i decided use glassfish for my project
+
+larger,community
+jboss has a larger community than glassfish
+
+better,product,next,project,documentation
+even if jboss is the better product in my next project i will shift to glassfish because of the better documentation
+

@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-smaller,set,linux,docs,eintr-safe,family,methods
-most particular platforms restrict the list of calls that can be interrupted to a smaller set than pthreads allows so you d have to look at the linux docs to be sure exactly what is and isn t eintr-safe but the epoll family of methods along with read recv write send and friends are almost certain to be unsafe
-

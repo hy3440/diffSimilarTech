@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-powermockito,tests,runner,powermockrunner
-i am going to need to use powermockito - mockito to create some more tests but before i start writing those tests i am just switching the junit runner to powermockrunner
-

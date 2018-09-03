@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-
-i want to removeclass when scrolltop is more then 200px
-
-work,equal,nav
-i can t seem to figure out why removeclass doesn t work when my scrolltop is less than or not equal to my nav s offset .top value
-

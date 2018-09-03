@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-qdatastream
-a qfile may be used by itself or more conveniently with a qtextstream or qdatastream
-

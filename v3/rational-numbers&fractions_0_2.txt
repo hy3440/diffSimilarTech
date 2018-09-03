@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-computer,decimal,power
-and most importantly all decimals stored on a computer are terminating because in a computer a decimal fractions is not much more than a rational-numbers m n with n being a power of 2
-
-representation,better,finite
-if all rational-numbers could occur maybe the representation as fractions would be better since it is always finite
-

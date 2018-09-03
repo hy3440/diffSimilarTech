@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-team,experienced
-my team is more experienced with api.ai and only starting to learn luis
-

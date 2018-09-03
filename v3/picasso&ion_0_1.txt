@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-libraries,square,universal-image-loader,general,purpose
-use one of the image loading libraries glide square picasso universal-image-loader or ion ion is actually more of a general purpose async loading tool to do the dirty work for you
-

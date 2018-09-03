@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-dtmilano,tool,easier
-i recomend to use dtmilano tool androidviewclient that is easier to use than monkeyrunner
-
-fast,possible,slower
-i need to perform several device.touch events as fast as possible however androidviewclient seems to achieve those significantly slower than monkeyrunner
-

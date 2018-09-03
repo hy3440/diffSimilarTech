@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-easier,hacking,plugin,several,counters
-ps i think that writing script is easier than hacking valgrind plugin callgrind with adding several counters for every instruction type
-
-various,tool,cpu,google-perfutils
-nevertheless various profiling callgrind tool in valgrind cpu profiling google-perfutils and perf doesn t find those debugging symbols resulting in more or less useless output
-

@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-larger,double,size,smaller
-it seems like if the uiimage is slightly larger the ciimage is double the size whereas if the uiimage is slightly smaller this isn t the case
-

@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-preferable,event,longer
-sometimes it s preferable because onload event takes longer to fire then domcontentloaded
-

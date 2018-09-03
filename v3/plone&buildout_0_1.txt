@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-archetypes,atcontentypes,older,versions,example,pinnedversions.cfg,file
-i ve even tried to pin archetypes and atcontentypes so that the buildout uses older versions example those used in plone 4.2 by adding the following to my pinnedversions.cfg file which gets called after everything else
-

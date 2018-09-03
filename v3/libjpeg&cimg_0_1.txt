@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-better
-using libjpeg inside cimg is definitely better
-

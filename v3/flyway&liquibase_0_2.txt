@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-flexibility,rollbacks
-liquibase seems to have everything flyway has and more flexibility when it comes to rollbacks
-
-big,part,appeal,simplicity,better
-the downside is that you are losing the big part of the flyway s appeal in its simplicity and technically could be better off by using liquibase s dsl
-

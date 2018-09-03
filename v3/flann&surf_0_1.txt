@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-matchers,higher,number,keypoint,orb,large,sets
-its however best to used flann based matchers for sift or surf since they extract a higher number of keypoint as compared to orb and flann is suited to large sets of keypoint read more about it here
-

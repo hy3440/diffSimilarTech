@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-chandresh,directive,false,value,better
-edit as mentioned by chandresh using the ng-show directive with a true false value would be a better option than using ng-class
-

@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-customizable
-and also don t forget - http.sys much more customizable than httplistener
-

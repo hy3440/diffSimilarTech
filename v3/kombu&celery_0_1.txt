@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-reading,able,thinking,lower,level
-i did some reading on kombu and it seems to be able to do what i m thinking of although at a much lower level than celery
-

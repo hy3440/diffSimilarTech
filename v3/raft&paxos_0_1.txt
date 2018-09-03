@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-better,split-brain,nodes,cluster
-i couldn t understand why paxos is better for split-brain scenarios or other network failures than traditional bully algorithm because i can easily find out when quorum of nodes leave from the cluster without using raft
-

@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-efficient,split,bunch,temporary
-unpack will be more efficient than split and ord because it doesn t have to make a bunch of temporary 1-character strings
-

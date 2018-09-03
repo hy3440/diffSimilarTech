@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-forums,likely
-first off based on the forums i have been reading you should not include respond.js from modernizr they are more than likely going to drop it
-

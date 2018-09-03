@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-onchange,work,sane
-also onchange won t work you ll need to use onkeyup although onblur is probably more sane
-

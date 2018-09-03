@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-conversion,functions,functionality,easier,intuitive
-instead of using the endian conversion functions you could use the qdatastream functionality with any qiodevice which is much easier and more intuitive in my opinion
-

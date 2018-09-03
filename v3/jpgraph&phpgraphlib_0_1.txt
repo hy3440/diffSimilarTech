@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-capabilities
-jpgraph has far more capabilities than phpgraphlib
-

@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-successful,industry,better,tools
-microchip is more successful in industry and has better tools than avr
-
-gnu,toolchain,complex,use,unix
-as far as easy goes they are both equivalent in terms of difficulty both provide assembly and c except that the gnu toolchain for avr is more complex than microchip because it requires use of unix command line etc
-

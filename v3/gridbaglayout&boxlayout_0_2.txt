@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-easier,constraints
-boxlayout is far easier than gridbaglayout because you don t have to learn how to specify constraints
-
-madprogrammers,comment,easier,solution,helpful,layout
-although madprogrammers comment to use a gridbaglayout is an easier solution but knowing about glue and struts can be helpful for customizing the layout of a boxlayout
-

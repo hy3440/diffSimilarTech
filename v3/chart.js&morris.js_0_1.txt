@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-investigation,animation,difficult
-after some investigation to try and get morris.js to do the animation this was found to be extremely difficult so i opted to go for making chart.js appear more like morris.js
-

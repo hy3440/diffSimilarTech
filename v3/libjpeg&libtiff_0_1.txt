@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-critical,platform,narrower,functionality,available
-the situation is critical if on some platform libtiff provides a narrower functionality and does not link to libjpeg which will not be available on that platform at all so the above command for linking will fail due to unsatisfied library dependency
-

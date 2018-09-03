@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-android,better,luck
-if you really want to use selenium inside an android app you might have better luck with appium
-
-mobile,c#,tests
-you can use appium more mobile oriented than selenium and you can use c# to write your tests
-

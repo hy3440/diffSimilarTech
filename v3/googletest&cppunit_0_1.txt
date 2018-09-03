@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-better,chance,framework
-if you use older version of gcc compiler or if your code under tests runs on vxworks or vxsim you might have a better chance with cppunit than googletest framework
-

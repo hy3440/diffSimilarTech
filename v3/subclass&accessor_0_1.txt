@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-functionality,better,methods,core
-the indirection has some costs and is kinda ugly so if you want to keep this functionality you might be better off by implementing accessor methods and only log in a subclass of core
-

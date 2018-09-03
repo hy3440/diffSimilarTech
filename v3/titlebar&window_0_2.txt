@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-annoying,scrollbars,bigger
-the reason i ask is i am running proficy ifix 5.0 and when i run aero it adds annoying scrollbars to everything as the titlebar of the window is bigger than it normally is
-
-windows,width,smaller,space,buttons,icon
-apparently windows won t allow the width of the window to be smaller than the space required for the buttons and icon on the titlebar
-

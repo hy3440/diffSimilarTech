@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-resolution,pdf,quiet,easier
-if you are okay with lower resolution of the pdf you can try using html2canvas library along with jspdf which is quiet easier approach
-

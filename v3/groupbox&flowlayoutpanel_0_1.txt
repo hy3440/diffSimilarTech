@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-flowdirection,topdown,smaller,side
-by the way we also added the flowdirection topdown to the flowlayoutpanel but if the groupbox become smaller it places them side by side instead of topdown
-

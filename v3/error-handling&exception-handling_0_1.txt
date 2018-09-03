@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-natural,mechanism
-exception-handling are more natural error-handling mechanism for c++ language
-

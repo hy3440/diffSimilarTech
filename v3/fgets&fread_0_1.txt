@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-long,better,alternative,chars
-also as others have stated while i took too long to answer fread may be a better alternative since fgets won t necessarily read 10 chars
-

@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-maximum,minimum,value,set,dates,length
-the difference between the maximum and minimum value of the set of ordinals dates is one more than the length of the set
-

@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-amount,gpu,memory,use,larger,test,resnet-50
-i like caffe but the amount of gpu memory caffe use is larger than mxnet i test in resnet-50 with mxnet-memonger
-

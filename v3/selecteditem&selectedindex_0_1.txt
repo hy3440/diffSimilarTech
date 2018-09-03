@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-reliable
-i ve found that setting the selecteditem is more reliable than setting the selectedindex
-

@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-authentication,system,similar,federated,identity
-conceptually it seems like a type of central authentication system cas but is more similar to shibboleth also a federated identity management system
-

@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-support,lower,level,abstraction,nsfileversion
-if you do not wish to use it you ll have to drop support for nsdocument and use a lower level abstraction like nsfilemanager + nsfileversion
-

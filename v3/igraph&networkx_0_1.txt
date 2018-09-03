@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-easier,performance,brute,force,order,magnitude
-networkx is much easier to deal with and usually performance is good enough but for large brute force algorithms like this igraph will probably be at least an order of magnitude faster
-

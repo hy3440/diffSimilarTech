@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-common,image,base,lesser,extent
-common lisp is an image base language although usually to a lesser extent than smalltalk
-
-methods,fine-grained,functions,good
-smalltalk methods tend to be more fine-grained than lisp functions so that may be a good place to begin
-

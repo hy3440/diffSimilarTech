@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-map,multiset,binary,balancing,rules,impression,knowledge
-the map set multimap and multiset are normally implemented as binary trees with red-black balancing rules for example and deque is possibly more impression than knowledge a circular queue in an array exploiting an array-doubling or similar growth pattern
-

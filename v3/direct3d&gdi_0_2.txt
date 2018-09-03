@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-apis,opengl,line,drawing
-still i expect the vector based apis offered by opengl and direct3d should perform far more reliably - gdi line drawing is not something driver writers strive to optimize
-
-faster
-so decide what you want to use direct3d is significaly faster than gdi
-

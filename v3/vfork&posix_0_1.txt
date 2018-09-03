@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-systems,special,call,strict,limitations,requireemnts,copy,performance
-both old and some modern systems implement a special vfork call which has somewhat strict limitations although less strict than the posix requireemnts for vfork but avoid this copy for performance reasons
-

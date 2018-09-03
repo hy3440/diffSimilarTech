@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-example,sense,difference,observer,intent
-in my example that probably makes less sense then directly referencing the mediator but in many cases using observer-pattern to implement mediator would make sense and the difference between observer and mediator would be more one of intent than a difference in the code itself
-

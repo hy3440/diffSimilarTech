@@ -1,0 +1,32 @@
+70421
+quicksort is more popular because it
+70423
+but there are many citations of real world tests which show that heapsort is significantly slower than quicksort on average
+70427
+quicksort has a better average case complexity but in some applications it is the wrong choice
+70430
+typically quicksort is significantly faster in practice than other î nlogn algorithms because its inner loop can be efficiently implemented on most architectures and in most real-world data it is possible to make design choices which minimize the probability of requiring quadratic time
+70430
+in the worst case they are the same amount of algorithmic time but mergesort requires more storage
+70440
+quicksort is usually faster than mergesort just because it s easier to code a tight implementation and the operations it does can go faster
+70440
+it s because that quicksort is generally faster that people use it instead of mergesort
+70627
+quicksort is not better it is well suited for a different kind of application than mergesort
+77945
+quicksort is not better than mergesort
+77945
+quicksort has less overhead so with small n and slow computers it is better
+90477
+as many people have noted the average case performance for quicksort is faster than mergesort
+1727198
+one psychological reason that has not been given is simply that quicksort is more cleverly named
+39156435
+when comparison function is a callback function like in qsort libc implementation quicksort is slower than mergesort by 15 on random input and 30 for already sorted array for 64 bit integers
+39156435
+for simpler tasks quicksort will be faster
+42183380
+quicksort consistently has less recursive calls than mergesort
+42183380
+that way quicksort can reach recursive base case more quicker than mergesort

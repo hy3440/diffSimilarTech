@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-newer,version,3.0.1-x86-mingw32,automaticaly
-if the bundler is newer then version 1.1.2 it will remove bcrypt-ruby 3.0.1-x86-mingw32 automaticaly
-

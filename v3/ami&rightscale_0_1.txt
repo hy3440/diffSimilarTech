@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-earlier,provider,chantheman
-rightscale which was mentioned earlier as an ami provider in chantheman s tutorial is one of them but you can have a look at enstratus and scalr as well disclaimer i work there
-

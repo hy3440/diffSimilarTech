@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-stuff,quicker,user,friendly
-alternatively the stanford parser can do the same stuff and might be a bit quicker being java based or lingpipe but nltk is waaaaaay more user friendly
-
-easier
-lingpipe probably also has something built in but nltk is much easier to use
-

@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-usage,watin,developers,selenium,functionality,watir
-i can see the usage of watin and watij reducing as more developers move to selenium 2.0 webdriver which will offer the same functionality as watir using a different api and multiple programming languages
-

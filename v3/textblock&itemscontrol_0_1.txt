@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-closer,textbox,smaller,column
-which once again is closer to what i need as my itemscontrol is now stretching all the way as i ve set its and my textbox are still aligned to the textblock and are stretching all the way across but the problem now is that the textblock should be smaller as the column is set to auto but they appear to behave as if the column was set to and i guess i m losing the purpose of using issharedsizescope since it has been removed
-

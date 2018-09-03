@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-reinstall,leftover,data,users,roaming,pgadmin
-i try reinstall after uninstaller delete all leftover data and delete c users yourusername appdata roaming pgadmin delete all data inside pgadmin folder
-
-reinstall,locations,subsubsub,folder,higher,user
-unfortunately looks like it requires uninstaller and reinstall as the locations seems to have changed drastically from some subsubsub folder off of appdata to something higher up under user directory
-

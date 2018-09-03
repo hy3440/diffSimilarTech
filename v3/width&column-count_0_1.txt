@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-.topcolortile,div.topcolorcard,node,larger,parent
-and you also set width of .topcolortile div.topcolorcard by 375px it s wrong here you can not set with of child node larger than width of parent column-count
-

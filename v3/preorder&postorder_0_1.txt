@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-child,pointers,traversal,appropriate
-if you have dynamic element sizes you can t write out child pointers in preorder so postorder traversal is more appropriate
-

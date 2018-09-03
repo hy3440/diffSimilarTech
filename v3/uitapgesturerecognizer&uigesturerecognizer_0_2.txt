@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-check,class
-i added the check for uitapgesturerecognizer in case your class handles more than 1 uigesturerecognizer s and you only want to remove that
-
-thing,specific,type
-the one thing that argues against this in your case is that if you are not actually using anything that uitapgesturerecognizer offers over uigesturerecognizer then specifying the more specific type would be over-specifying the argument type relative to what the code actually expects
-

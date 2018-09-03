@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-widget,robust,custom
-technically this could also be done by customizing a qtableview widget but qgraphicsscene is more robust for custom graphics and performance
-

@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-important,.net,recent,fx
-however it s important to recall that most of .net cryptography is based on cryptoapi even if cng is being more and more exposed in recent fx releases
-

@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-easier,common,gis
-it s much easier with a shapefile than a geojson as shapefile are much more common in gis software
-

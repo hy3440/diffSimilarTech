@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-eclipse,plugin,coverage,better,cobertura,easier,maven
-also forgot to mention junit testing framework and a great eclipse plugin eclemma for code coverage much better than cobertura ecobertura and easier to use and of course you can try maven as the other post mentionned or try ant as build tool
-
-plugin,nicer,mature
-the eclemma plugin is nicer and more mature then ecobertura
-

@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-use,accurate
-don t use nsdateformatter use nscalendar which is much more accurate
-

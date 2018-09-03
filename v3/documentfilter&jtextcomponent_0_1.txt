@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-changes,documentlistener,control,chars,word
-for listening changes into jtextcomponent is there documentlistener if you have to need control over inputed char sings whitespace chars or word s you have to implements documentfilter
-

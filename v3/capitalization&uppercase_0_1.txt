@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-conditions,easier,comparison,whitespace
-i would make the conditions easier by ignoring capitalization by converting to uppercase before comparison and leading trailing whitespace by using the strip method
-

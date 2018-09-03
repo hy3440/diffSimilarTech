@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-ienumerable,better,generic,good
-generally ienumerable and iqueryable are even better than ilist as they re more generic unless you want to limit this with good reason of course
-

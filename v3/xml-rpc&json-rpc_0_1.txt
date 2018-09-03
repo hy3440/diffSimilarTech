@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-pythonic,shudder,soap
-json-rpc is more pythonic than xml-rpc or shudder soap
-

@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-older,v.5.1,newer,available,nvidia
-currently tensorflow supports the older cudnn v.5.1 while there is a newer cudnn 6.0 available on nvidia site
-

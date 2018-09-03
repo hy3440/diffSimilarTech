@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-constrictive
-i know that teamcity has a way of achieving this but i think that jenkins is more constrictive
-
-popular
-i prefer using teamcity but jenkins is much more popular
-

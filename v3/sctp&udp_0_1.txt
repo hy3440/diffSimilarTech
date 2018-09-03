@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-ipv4,private,public,address,mappings,gateways,tricky,connectionless,transport
-sctp mapped over udp ipv4 allows more private hosts per public address but udp mappings in ipv4 nat gateways are notoriously tricky to establish and keep maintained due to the fact that udp is a connectionless transport without any explicit state for a nat to track
-

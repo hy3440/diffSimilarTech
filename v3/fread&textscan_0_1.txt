@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-powerful,fscanf,differences
-then for reading i find textscan to be more powerful than fread fscanf the differences between them all are summarized here
-

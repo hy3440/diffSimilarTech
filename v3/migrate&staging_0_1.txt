@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-bigger,issues,production,regions
-its not necessary and will potentially introduce bigger issues as you migrate your code to staging and production regions
-

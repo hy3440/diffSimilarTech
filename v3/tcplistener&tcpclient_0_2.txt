@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-server,side,nothing,socket,factory
-on the server side you re using tcplistener which is nothing more than a socket or tcpclient factory
-
-socket,class,easy
-what i suggest that you use sockets for you needs you can use the framework socket class but tcplistener class and tcpclient class are much more easy to use
-

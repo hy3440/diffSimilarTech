@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-difficult,setup,faster
-xapian is slightly more difficult to setup but is much faster than whoosh
-

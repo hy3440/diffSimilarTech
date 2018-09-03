@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-small,differences,stricter,syntax,semantics,adobe,decisions,performance,compatibility,slower
-there are many other small differences railo is generally stricter about syntax and semantics than adobe coldfusion and often those decisions are driven by performance concerns in that compatibility with adobe coldfusion would make railo slower
-
-inaccurate,adobe,better
-note line value may be inaccurate in adobe coldfusion though railo is much better with this
-

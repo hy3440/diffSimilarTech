@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-better,show,hidden,class,approach
-for some reason fadein works better than show or simply removing a hidden class via removeclass if you take that approach
-
-faster,method,class
-that s because removeclass is executed faster than fadein method you can remove the class when animation is complete
-

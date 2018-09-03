@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-actionlink,url,route,values
-actionlink helpers is more often used to generate url properly based on the actioncontroller route values etc and anchor tag based on htmlattributes etc
-

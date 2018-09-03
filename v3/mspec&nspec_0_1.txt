@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-simplest,tests,simpler
-you ll find that the simplest mspec tests are simpler in nspec
-

@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-nb,implementation,smo,wrapper,faster,note,docs
-nb weka contains its own implementation - smo but it also provides wrapper for libsvm and libsvm runs faster than smo note that it requires installed libsvm see docs
-
-able,data,dense,format,muuch,slower
-i am using a sparse format but suggestions are welcome on other formats too i am able to use the data with weka in a dense format using the function names as variables and it works just muuch slower than with libsvm
-

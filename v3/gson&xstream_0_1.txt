@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-json-based,persistence,vein,heavyweight,applet
-gson is more about json-based persistence in the vein of xstream which can do json too and sounds a bit too heavyweight for just an applet
-

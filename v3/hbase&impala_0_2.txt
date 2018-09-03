@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-schema,external,tables
-hbase is schema less and from hbase you can create impala or hive external tables
-
-faster,good,schema,hive,filters,type
-hbase will be faster if you have a good key design and a proper schema because just like with hive impala will translate your where into scan filters it ll depend a lot on the type of queries you run
-

@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-tests,x75,faster
-from my tests bitblt is x75 faster than stretchblt
-

@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-ecpm,mobfox,higher
-i set ecpm for inmobi and mobfox higher than for admob
-

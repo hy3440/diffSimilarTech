@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-dependently-typed,languages,useful
-in dependently-typed languages like idris it s probably more useful than in haskell
-

@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-line
-textarea has one more line than pre
-
-better,html,element
-also you can do this with textarea or better with pre html element
-

@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-note,better,libraries,real,time
-as a note jchart2d is way better than other libraries as jfreechart for real time applications
-

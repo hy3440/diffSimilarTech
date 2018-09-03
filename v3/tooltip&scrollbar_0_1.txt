@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-text
-tooltip text is more scrollbar is displayed to scroll through to
-

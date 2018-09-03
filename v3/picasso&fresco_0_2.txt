@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-guidance
-see picasso v s imageloader v s fresco vs glide for more guidance
-
-use,load,images,cards,easier,better,memory
-use picasso glide or fresco to load images inside those cards picasso and glide are easier to use compared to fresco but fresco is better with memory
-

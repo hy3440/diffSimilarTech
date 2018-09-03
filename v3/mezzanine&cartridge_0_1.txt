@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-requirements,better,solution
-you requirements sound like mezzanine + cartridge would be a better solution for you
-

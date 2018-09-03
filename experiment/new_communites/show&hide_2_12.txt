@@ -1,0 +1,40 @@
+action, method, getsupportactionbar, ---------------------------------------------------
+
+action,bar,method,getsupportactionbar,minsdkversion,higher
+to hide action bar invoke hide method using getsupportactionbar getactionbar in case of minsdkversion is 11 or higher as show below
+
+status,bar,level,higher,functionality
+you can hide show the status bar on android 4.1 api level 16 and higher by using hide show functionality
+
+other---------------------------------------------------
+
+faster,slight,second
+i suppose it is because you hide them faster than you show them so for a slight second the overal page height is shorter than it should
+
+better,visibility,sets,none
+also as mentioned elsewhere show is a better option to css visibility as hide sets display none and not visibility
+
+term,appropriate,run-time,dynamic
+term hide is more appropriate for run-time dynamic show hide
+
+prevents,stuff
+it doesn t show at all if hide is called less than 0.5s after show and it show for at least 0.5s this prevents very fast flickering stuff that you might see with naive implementations
+
+value,cross,table,menu
+if you re simply looking to hide the value from your cross table you shouldn t need anything more than the show hide items menu
+
+button,.thanks
+show less will be hide and load more button will be show .thanks
+
+object,model,details,good,bad
+ironically enough its object model show more details than it hide - good for learning but bad for abstraction
+
+index,indices,columns
+the issue is that if i scroll to the right and click on say column index 20 really any index that hide indices on the left it will freeze all columns below that index which causes the table to snap back to index 0 and not allowing me to scroll because more columns than show are frozen
+
+anyone,onload,delta,scroll
+can anyone help me to hide it onload and show when is more than delta and hide on scroll up when is before delta
+
+ie7,thing,longer,description.,words,first,column,second
+it displays things normally on the screen of course but when you go to print preview in ie7 the only thing that show is longer description. so in other words it hide that first column and it also hide the second column
+

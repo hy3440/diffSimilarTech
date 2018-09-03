@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-perldoc,control,download
-you could use libwww-perl perldoc lwp and have more control about the download process
-

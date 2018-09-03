@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-kinds,diagnosis,available,plugins,default,behavior
-they attach to a running jvm process and allow for thread snapshots and various other kinds of diagnosis visualvm has a lot of available plugins but that can take awhile to sort through to configure and understand if you want to go beyond default behavior whereas jfr is instrumented with more by default
-

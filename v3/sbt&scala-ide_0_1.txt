@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-nice,tighter,integration
-it d be really nice if scala-ide supported tighter integration with sbt
-

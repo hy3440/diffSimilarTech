@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-sort,good,better
-sort | uniq is good but comm might be even better
-

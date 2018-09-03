@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-able,better,license,blog,post
-you should be able to do this in flotr which has a better license than highcharts by just throwing what they showed in this blog post on its side
-

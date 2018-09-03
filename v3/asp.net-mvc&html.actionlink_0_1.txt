@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-method,idictionary
-i am using asp.net-mvc 2 and i see more than one html.actionlink method that takes an idictionary as a parameter for the html attributes
-

@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-open,source,expensive,point,better
-nuxeo is based on open source but you have to pay the license and is pretty expensive at this point documentum is better anyway
-

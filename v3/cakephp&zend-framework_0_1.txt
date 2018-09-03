@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-lighter,look
-since cakephp seems to be much lighter than zend-framework i would suggest that you take a look at cakephp
-

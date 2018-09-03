@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-dig,unprecise,result,better,precision
-i didn t dig on why scikit-learn gives such unprecise result but it seems scipy gives better precision
-

@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-bigger,contentsize
-uitableview is reporting a bigger contentsize than expected when using a uisearchbar
-

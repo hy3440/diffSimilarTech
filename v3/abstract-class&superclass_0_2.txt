@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-class,type.i,type,difference,general,behavior
-you can think of extends from a superclass if the derived class is of the same type.i mean that when a class extends an abstract-class they both should be of the same type the only difference being that the superclass has a more general behavior and the sub class has a more specific behavior
-
-subclassing,specific,type,abstract,fruit,apple,strawberries,non-abstract,relationship,dad
-for example you want to use abstract-class in such a case that each of the subclassing is a more specific type of its abstract superclass fruit apple orange banana grape strawberries etc. and you want to use non-abstract superclass in a relationship such as dad and son
-

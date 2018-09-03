@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-improvements,activiti,better,useful,time
-besides i would be glad to hear your ideas about if the improvements of activiti bpmn will make it better or useful than jbpm as time goes on
-

@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-slower
-glassfish seems to be slower than resin
-
-experience,tomcat,mysql,database,copy
-i have previous jsp experience but with using tomcat and resin and i would like to connect to a mysql database using glassfish and hoped that more or less copy and pasting the code would work
-

@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-better,intent,draining,battery
-this is better than alarmmanager pending intent - no wakelock draining of battery etc.
-
-better,idea
-it also uses a wakelock while in my case i think an alarmmanager could be a better idea
-

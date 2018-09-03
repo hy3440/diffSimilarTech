@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-math.floor,method,faster,mod
-the math.floor ceil method being marginally faster than parseint and mod
-

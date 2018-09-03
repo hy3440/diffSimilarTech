@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-control,modal,window
-telerik has a control called radwindow which is more or less a modal window
-

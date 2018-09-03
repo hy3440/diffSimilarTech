@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-possible,positive,greater
-is there any way in haskell to get the constant that is the largest and smallest possible positive rational-numbers greater than zero that can be represented by doubles
-

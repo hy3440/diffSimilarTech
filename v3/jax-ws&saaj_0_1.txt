@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-soap,attachments,lower,level
-one could use saaj soap with attachments api for java which runs at a lower level than jax-ws
-

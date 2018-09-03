@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-implementation,slower,cython,memory,matrix,slow
-pdist implementation was always slower than cython and takes much more memory because it explicitly creates a distance matrix which is slow because of sqrt
-
-euclidean,faster
-also note that in my code above manually calculating the euclidean distance is much faster then calling pdist
-

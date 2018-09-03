@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-workflow,logic,data,back-end,separate,sense
-if the identifier really only makes sense in the context of a workflow then putting the logic in activiti and storing the data in some back-end separate from alfresco might make more sense
-

@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-read,level,printf,fopen,likely,newer
-you re more likely to be using the low level open close read and write which are a level below the stdio printf fopen stdout you re more likely to be used to as a newer programmer
-

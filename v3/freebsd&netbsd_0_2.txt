@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-dragonfly,bsd,issetugid
-but freebsd dragonfly bsd and netbsd define issetugid more strictly
-
-iirc,benchmarks,consistent,results,load,quicker,slower
-iirc freebsd s benchmarks returned consistent results under any load whereas netbsd started off quicker and gradually got slower
-

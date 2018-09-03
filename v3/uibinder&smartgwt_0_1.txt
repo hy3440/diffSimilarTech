@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-sophisticated,widgets,gwt,use,conjunction
-while smartgwt has much more sophisticated widgets than gwt you still can t use uibinder in conjunction with it which is why i rejected using smartgwt
-

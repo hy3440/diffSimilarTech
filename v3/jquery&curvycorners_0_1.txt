@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-plugin,corner,available,size,bigger
-i know another plugin named jquery corner is available however it s file size being massively bigger than curvycorners i decided to with curvycorners
-

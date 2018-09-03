@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-general,hmisc
-stargazer is at least in my experience more general than latex from hmisc
-

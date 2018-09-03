@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-wish,custom,internal,cggradient,smoother,results
-however i wish to use a custom calayer that uses an internal cggradient for drawing instead as this should produce smoother results than cagradientlayer see here
-

@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-android,portability,portable
-however due to it lack of android portability i have to replace all of my glfw code with sdl since sdl is more portable
-

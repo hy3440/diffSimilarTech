@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-couple,days,conclusion,better,actual,html
-i had previously used aptana 3 for a couple days and may have come to the conclusion that it is better than dreamweaver at actual html css coding
-

@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-better,ubuntu
-i think you should use gitkraken it will be better than smartgit on ubuntu
-

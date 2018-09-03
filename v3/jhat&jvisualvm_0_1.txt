@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-thing,user,friendly,memory,consuming
-another way to do the same thing is to use jvisualvm which is much more user friendly but also more memory consuming than jhat
-

@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-priority,level,lower
-the priority level of ng-controller is lower than that of ng-include
-

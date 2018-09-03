@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-iterating,string,faster,regex
-i ve found that using a simple for-loop iterating over all elements in the string and comparing using charat performs faster than indexof or regex
-

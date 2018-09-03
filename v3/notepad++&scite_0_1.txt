@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-minimalistic,approach,editor,personal,bits,lightweight
-by the way if you like minimalistic approach there is also scite editor which is my personal preference for doing small bits of code it s even more lightweight than notepad++
-

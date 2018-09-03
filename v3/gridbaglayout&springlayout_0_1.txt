@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-problems,easy,groupedlayout,robust
-not many layout problems can t be conquered using it and its easy to understand as opposed to springlayout groupedlayout etc and far less code and more robust than gridbaglayout
-

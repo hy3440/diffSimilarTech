@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-simd,fork,better,performance,plain,comparisons
-there exists a simd fork of pillow which claims to have much better performance than imagemagick or plain pillow but there are no comparisons to opencv
-

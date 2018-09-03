@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-important,issue,easier,django
-anyway the most important issue is that web2py is easier than django pylons php and rails
-

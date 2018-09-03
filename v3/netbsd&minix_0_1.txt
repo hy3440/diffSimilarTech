@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-higher,versions,best,os,systems,better,posix-compatible
-i want test unix-like operating systems on historicial computers like commodore amiga atari st and i386 cpu and run posix compatible apps like pkgsrc x window system and blackbox wm for 40mhz higher versions minix 1.5 is best os for those systems better than netbsd but it is not posix-compatible
-

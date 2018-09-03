@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-developers,effective,replacement
-in it developers seem to agree that grouplayout is a more effective replacement of springlayout
-

@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-better,integration,ip,designer,little,control
-the mismatch between blackbox and module io emission is a legacy api for better integration with verilog ip where the chisel designer has little to no control over the verilog
-

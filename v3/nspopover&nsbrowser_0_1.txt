@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-addition,ios,nsoutlineview,elegant
-in addition i d like to display the list in an nspopover as i do on ios and placing an nsoutlineview or a nsbrowser inside a nspopover might look less than elegant
-

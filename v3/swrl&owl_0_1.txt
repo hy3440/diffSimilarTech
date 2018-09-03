@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-higher,power,protã,gã,use,multiple,implementations
-drools and jess have a higher power than swrl but protã gã supports swrl in that it supports owl so the use case is to support multiple swrl implementations
-

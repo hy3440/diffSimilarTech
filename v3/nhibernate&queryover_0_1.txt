@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-robust,community,criteria
-right now queryover is much more robust in the nhibernate community mainly because it is based on criteria queries which have been around for quite some time
-

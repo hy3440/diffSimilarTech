@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-dropzone,area,template,processor
-i could add the dropzone in a ng-include above the area and have it hidden when the template is looking elsewhere but have heard that ng-include uses more processor than ng-view so would prefer to keep it all together
-

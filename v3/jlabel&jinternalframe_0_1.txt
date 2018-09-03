@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-jscrollpane,size,smaller
-my problem is this i don t want the jlabel or the jscrollpane to stretch to the size of the jinternalframe if the jlabel is smaller than the jinternalframe
-

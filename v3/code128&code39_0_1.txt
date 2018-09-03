@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-data,density,better,replies
-data density in code128 is better than code39 - since it gets mentioned that often in other replies
-

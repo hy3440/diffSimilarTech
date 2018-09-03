@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-clue,answer,broader,class,specific,variant
-i have a clue to the answer may be currentculture is for a broader class of language en and uiculture is for more specific variant of the language like en-us but am not sure if this is true
-

@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-low,high,smaller,value,real
-you should also adjust your conditionals to check for a low high range as it should quickly get smaller as your median value approaches the real value
-
-hand,number,smaller,better,beginning,array,selection,algorithm
-on the other hand if the number of range is smaller than log n it may be better to move elements of a given range to the beginning of the array and use a linear time selection algorithm to find the median
-

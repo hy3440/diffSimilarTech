@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-larger,ambitious,project
-well jspm is much larger and ambitious project than bower
-

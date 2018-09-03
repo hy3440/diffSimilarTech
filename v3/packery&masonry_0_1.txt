@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-project,better,gaps,first,possible
-for my project packery is better then masonry because packery is filling up all gaps masonry is just looking for the first possible gap and doesn t fill empty gaps
-

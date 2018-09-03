@@ -1,0 +1,85 @@
+next, able, myproperty, ---------------------------------------------------
+
+value,next,myproperty
+i can verify that by unchecking the checkbox it does flip the value because i enable disable the next button depending on the myproperty value - i have more than one checkbox btw
+
+image,next
+as image shows below i want to make next button enabled only if more than one checkbox get checked
+
+value,disable,disabled.after,able
+initially the value of button is disable because value of button is true so the button is disabled.after selecting the checkbox now the button should be able to click
+
+able,column,need,row
+currently i am able to generate checkbox in column what i need is one more column with button same as checkbox in each row
+
+radio, better, uncheck, ---------------------------------------------------
+
+uncheck,better,radio
+using checkbox to check uncheck is better than radio button
+
+dropdown,radio,suitable
+if you want the users to select only one option perhaps a dropdown or radio button list is more suitable rather than checkbox
+
+radio,names,different,false,better
+actually i found out why using two radio button with same names and different values true and false is better than checkbox
+
+select,radio
+one more thing i also want select only one radio button when i have selected more than 2 checkbox
+
+colour,radio,better,idea
+if it s only one colour you want selecting you can use a radio button instead which would be a better idea than a checkbox
+
+better,fit
+checkbox may be a better fit than button here
+
+radio,user,select,none
+unlike radio button the user can select more than one checkbox at once or select none of them at all
+
+page, status, error, ---------------------------------------------------
+
+page,status,select,error,index
+i have an asp page where the status of a list is approved by selecting checkbox and then pressing approve button however when i select more than one checkbox it throws the error index was out of range
+
+user,asp.net,event,select,alert,box
+how to restrict user to select not more than 10 asp.net checkbox on button click event if user select more than 10 checkbox then alert box will pop up that you can not select more than 10 checkbox
+
+custom, hidden, field, ---------------------------------------------------
+
+custom,better,hidden,field,onclick,functions,value
+so i think a custom checkbox is the better choice here but if you really want to use a button i would use a hidden checkbox field and apply onclick functions to the button to change the value of a hidden checkbox field
+
+multiple,radio,value,property,weird,better,values,work
+you ll want to have multiple radio button each with it s own value to set some property to although this is weird for a yes no you are better off with a checkbox but if you had multiple values this is how radio button work
+
+other---------------------------------------------------
+
+html,pages,select,more.because,becuase,mobile,check,jsfiddle.net
+when i reload my html pages its button select and checkbox are goes added more and more.because all the html data fetch from a data base and after added new things in the page i store all the html of the page in data base and when i display this page agiain becuase of jquery mobile its button select and checkbox are increased check here visit jsfiddle.net sharma9853 gbe6p 7
+
+images,larger,text,line
+what i d like to do is make the button images slightly larger than the checkbox and have the text checkbox and both button on the same line
+
+form,multiple,default,disable,active
+i have a form with multiple checkbox and a button by default the button will be disable but after checking at least 2 or more than 2 checkbox the button should become active
+
+form,multiple,script,sum,values,greater,box,appears.the,sweetalert,last
+i have created a php form with multiple checkbox and there is a script that controls if the sum sum of all checkbox values is greater than a specific number.if yes a sweetalert box appears.the problem is that when i click the ok button on the sweetalert i want to remove the last checked attribute and to remove that value from the sum to execute the script again and display the right results.i cannot figure this out..any ideas will be helpful
+
+useful,multiple,objects
+i saw he used checkbox which to seems much more useful than button since you can take multiple objects out at a time
+
+group,li,tag,query,result,text
+i have group of checkbox each of this checkbox associated to a li tag which contain a query result i have also button so i want when i check more than one checkbox and after that click on button i want to display text of li tag for each selected checkobox
+
+small,bigger,width,space
+in both cases plus minus same except in case where is the small checkbox the button is bigger on width maybe it is related with space for checkbox
+
+fine
+but works fine if more than 6 checkbox are selected then reduced to 6 with more than one button click
+
+show,functionality,sense
+obviously for something like show hide functionality a checkbox makes more sense than a button
+
+uncheckall,single
+checkall and uncheckall on single button is worked if there is more than one checkbox present.but it will not worked for single checkbox
+

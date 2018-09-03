@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-workaround,unpack,better,additional
-i found a workaround and then manually unpack with maven-antrun-plugin but my pom.xml looked better without those additional 15 lines.
-

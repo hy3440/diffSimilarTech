@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-implication,small,memstore,faster,smaller
-the implication is that if you re writing a lot of small puts your memstore fflush will run faster but will produce smaller hfiles on disk than expected
-
-batch,better,single,rpc,size,buffer
-for batch puts it s better if you construct a list of puts and then call because it uses a single rpc call to commit the batch but depending on the size of the list write buffer may fflush it all or not
-

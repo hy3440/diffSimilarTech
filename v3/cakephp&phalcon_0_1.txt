@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-powerful,verstile,better,developer
-phalcon is more powerful verstile but to get started with it i feel you have to be a better php developer than you do to get started with something like cakephp
-

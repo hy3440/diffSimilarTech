@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-loads,faster,fileformat
-but i heard that xlsb loads way faster than xlsm so i would not like to change the fileformat
-

@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-complete,tool,switch
-i know summernote does that but fckeditor is a more complete tool than summernote so i cant switch to that
-

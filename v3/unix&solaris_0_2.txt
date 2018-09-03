@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-particular,servers,generic,bsd,tools
-my case in particular is with solaris servers but generic unix bsd tools are more than welcome
-
-windows,systems,exotic,aix,zlinux,hpux
-it is compiled on windows and unix systems including somewhat more exotic platforms like aix zlinux solaris and hpux
-

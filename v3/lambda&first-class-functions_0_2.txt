@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-summary
-in summary java 8 lambda are more first-class-functions than i had originally thought
-
-delegates,events,listeners,better,quality
-to list to callbacks in c# you have delegates events and lambda that replace java listeners acting as first-class-functions and allowing a better quality of coding patterns
-

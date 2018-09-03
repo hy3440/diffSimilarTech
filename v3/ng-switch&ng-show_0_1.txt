@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-note,little,faster,ng-if,file-based
-note that some people feel that ng-show is a little faster than ng-switch and ng-if for file-based templates
-

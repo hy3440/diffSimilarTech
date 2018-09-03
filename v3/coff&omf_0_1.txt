@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-windows,popular
-windows dmd produces omf while coff is more popular now
-

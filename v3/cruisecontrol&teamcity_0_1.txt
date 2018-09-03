@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-man,shop,easier,setup,configure
-for a one man shop teamcity is far easier to setup and configure than cruisecontrol
-

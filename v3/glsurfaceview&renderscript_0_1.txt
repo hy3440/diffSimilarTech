@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-opengl,high,graphics,control,.but,current,versions
-both a renderscript and opengl are used for getting high performance graphics and animation s.but still opengl is the best option to get high performance graphics because it is well documented and you will have more control over the glsurfaceview .but in renderscript some of the classes are depreciated in the current versions .its almost not possible to make a rssurfaceview to transparent
-

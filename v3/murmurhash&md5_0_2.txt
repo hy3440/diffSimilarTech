@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-128-bit,versions,experiment,faster,owing,cryptographic,hash
-murmurhash has 64 and 128-bit versions so you can experiment between the two and it s faster than md5 largely owing to md5 being a cryptographic hash function whereas murmur doesn t have the added expense complexity of being cryptographically secure i m assuming that you re not concerned about anybody attempting to intentionally generate hash collisions or anything like that
-
-reference,faster,functions,direct
-but as that reference points out murmurhash is way faster than md5 and sha functions although it doesn t do a direct comparison to the object.gethashcode method i mentioned above
-

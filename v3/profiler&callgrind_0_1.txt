@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-kcachegrind,faster,max
-compared to callgrind kcachegrind the profiler runs much faster having max 5 slowdown typically and it s much deeper as to why the code runs slow as it understands vectorization and running in real time means i o profiling is accurate
-

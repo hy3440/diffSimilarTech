@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-bytes,call,worse
-for a few bytes passed in just one call probably the bufferedwriter is even worse because it problably later calls fileoutputstream
-

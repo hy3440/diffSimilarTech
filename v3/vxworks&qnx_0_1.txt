@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-choices,wider,neutrino
-in the non open-source world choices are wider such as qnx neutrino and vxworks
-

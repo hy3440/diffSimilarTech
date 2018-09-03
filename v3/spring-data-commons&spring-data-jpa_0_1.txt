@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-noclassdeffounderror,version,older
-you may encounter noclassdeffounderror if the version of spring-data-commons is older then required by spring-data-jpa
-

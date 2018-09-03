@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-nicer,syntax,strongly-typed,former
-fakeiteasy seems to have an overall nicer syntax than moq like the strongly-typed way the former deals with passing parameters to a constructor of a faked class
-
-powerful
-btw why do you want to use fakeiteasy it looks to me less powerful than moq
-

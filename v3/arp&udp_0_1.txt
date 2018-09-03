@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-check,netdiscover,lower,level,tcp,apps
-if you are using linux check out netdiscover this uses arp i think arp is lower level than tcp udp and with java you can only create apps from tcp udp and above
-

@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-better
-getline is probably better than getchar in most cases
-

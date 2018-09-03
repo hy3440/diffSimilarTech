@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-better,results
-also using strstr instead of strcmp might produce better results
-

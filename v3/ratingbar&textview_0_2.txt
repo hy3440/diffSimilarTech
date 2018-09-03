@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-smaller
-unfortunately i dont understand what you mean by stating ratingbar is smaller than textview
-
-thing,smaller,correct,aligment
-the thing is like ratingbar is smaller than the textview i don t get a correct aligment
-

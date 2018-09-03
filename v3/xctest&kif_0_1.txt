@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-ui,testing,apis,complex
-kif makes ui testing really easy and useful with lots of great apis that are less complex than xctest
-

@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-thought,faster
-so i thought of using hbase but i googled up and known that hypertable is faster
-

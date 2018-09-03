@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-test,hashmap,treemap,slower,ability,submaps
-after a few test hashmap linkedhashmap and treemap are way slower than arraylist and i wanted to use them just for the ability to create submaps
-
-hashmaps,final
-it gives me arraylist but arraylist has a linkedhashmap which contains some more linked hashmaps containing final values
-

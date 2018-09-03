@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-tool,chain,different,beast
-so if initially xamarin.mac was more of a tool chain based on monomac from then on it became a completely different beast with new powers to conquer more challenges
-

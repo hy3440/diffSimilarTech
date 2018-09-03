@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-tooling,jdk,jconsole,reliable
-the tooling provided with the jdk jstat jconsole jvisualvm is much more reliable
-

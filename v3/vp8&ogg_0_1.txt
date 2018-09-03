@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-mp4,better
-i suspect this is because the encoding ogg mp4 vp8 are better suited to forward playback
-

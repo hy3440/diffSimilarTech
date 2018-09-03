@@ -1,0 +1,50 @@
+pleasant, feature, worse, ---------------------------------------------------
+
+api,easier
+besides the dbcontext api is easier to use than objectcontext
+
+pleasant,api
+dbcontext is a much more pleasant api than objectcontext
+
+feature,api,worse
+it is a feature it is about objectcontext api but the same is true or worse with dbcontext api
+
+better, older, newer, ---------------------------------------------------
+
+api,easier,approaches,former
+dbcontext api is easier to work with than objectcontext but both approaches use the former
+
+api,better,older,downgrade
+there are many reasons why the dbcontext api is better than the older objectcontext api but in your case it may initially feel like a downgrade
+
+understanding,newer,better,different,api
+my understanding is that although dbcontext is newer it s not necessarily better than objectcontext it just provides a different api that might be considered simpler but doesn t that depend on the use case
+
+newer,api,better,older
+dbcontext is newer api which should polish developers experience when using most common tasks - simply the api is better designed but you still have to get objectcontext from dbcontext and use the older api if you want to use some more complex features
+
+simpler, common, development, ---------------------------------------------------
+
+simpler,common,development
+dbcontext is much simpler to use than objectcontext and will serve the most common development needs
+
+simpler,common,development
+and dbcontext is much simpler to use than objectcontext and will serve the most common development needs
+
+other---------------------------------------------------
+
+states,performance,linq,query,better
+in 6.7 a graph it shown that states that the performance of a objectcontext linq query is better than dbcontext linq query
+
+driver,technologies,first,model,base,lighter
+you just need to connect using the entity framework driver and if you develop in any of technologies that uses dbcontext includes code first model first and data base first but is lighter than objectcontext you can use the list below
+
+entity,removals,slower
+when it comes to deletion it even gets worse when saving at the end of all entity removals dbcontext is around 18 times slower than objectcontext
+
+changes,end,slower,btw.,large
+if adding 2000 entities and saving the changes at the end dbcontext is 3 to 5 times slower than objectcontext btw. i know that adding a large amount of entities would be better using sqlbulkcopy but that s not the point
+
+models,ways,steps,self,alot,changes,thing,deference,newer,better,things,migrations,method
+i used to use dbcontext for all of my db models until i read ways to optimize entity framework after following the steps i found my self forced to switch to objectcontext instead so there were alot of code changes to be done but i am not sure that i doing the right thing specially after googling the deference i ve noticed that dbcontext is newer and better than objectcontext and also i noticed that i lost alot of things while switching to objectcontext like migrations and find method and much more.
+

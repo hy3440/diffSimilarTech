@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-better,php5.3,subtract,functions
-that said the date class is much better in php5.3 -- it even has dateadd subtract functions which would also solve your problem much better than strtotime .
-

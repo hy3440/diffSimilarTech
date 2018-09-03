@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-original,pdf,signature,hex,smaller,files,jpgs
-at first i tried reading the original pdf with a fileinputstream and finding the signature hex strings to split it into smaller files with a fileoutputstream as i have done with jpgs
-

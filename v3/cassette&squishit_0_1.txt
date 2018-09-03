@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-project
-another project you might want to look at is cassette which pretty much does everything squishit does and more
-

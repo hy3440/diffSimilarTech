@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-linearsvc,class,better,whch,surprising,wrapper
-also linearsvc class from scikit-learn performs even better than liblinear whch is also surprising considering that it s a wrapper of liblinear
-
-sklearn.linear_model.logisticregression,scalable,libsvm,linear,models
-you can also try sklearn.linear_model.logisticregression and sklearn.svm.linearsvc both implemented using liblinear that is more scalable than libsvm albeit less memory efficients than other linear models in scikit-learn
-

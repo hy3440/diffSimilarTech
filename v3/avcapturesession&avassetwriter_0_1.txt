@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-rudimentary,avaudiorecorder,facilities,audio,samples
-avcapturesession is far more rudimentary compared to avaudiorecorder - it does not provide any recording facilities by itself for example and so if you wanted to also record the audio you would need to use an avassetwriter to save the samples
-

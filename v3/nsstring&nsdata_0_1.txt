@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-reliable,json
-however converting from nsstring to nsdata gives more reliable json data
-

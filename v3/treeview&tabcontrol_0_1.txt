@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-height,smaller,larger
-i can t find any way to make the treeview s height smaller or the tabcontrol s larger
-

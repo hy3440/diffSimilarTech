@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-cheaper,tco,superior,platform,polished,hortonworks
-mapr has clearly cheaper tco and technologically superior platform cloudera is a bit more polished hortonworks for pure open source don t read this as free or cheap as most companies end up spending more money on hw to get any value
-

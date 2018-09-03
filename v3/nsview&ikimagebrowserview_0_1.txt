@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-overhead,numerous,standard,coupling,nscell,reusable
-while i haven t used nscollectionview myself my gut feeling is that there s probably going to be a greater overhead with numerous nsview s compared to ikimagebrowserview which uses the standard coupling of an nsview with an nscell -like reusable drawing mechanism to help improve performance
-

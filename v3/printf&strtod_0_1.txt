@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-comparison,stringstream,sscanf,line,functions,slower,faster
-a fairer comparison would be comparing stringstream to the printf sscanf line of functions which would be slower than strtod but still faster than stringstream
-

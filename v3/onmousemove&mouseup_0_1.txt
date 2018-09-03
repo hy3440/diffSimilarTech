@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-mouse,better,state,event
-the active selector handles the mouse click much better than mouseup down you just need a way of reading that state in the onmousemove event
-

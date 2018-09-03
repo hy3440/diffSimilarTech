@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-work,applications,ezpublish,professional
-i didn t work with these applications yet but afaik typo3 and ezpublish both php are considered much more professional than joomla
-

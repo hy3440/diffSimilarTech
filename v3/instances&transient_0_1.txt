@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-basic,scaling,longer,deadlines,long-running,requests,issues,upgrades
-manual and basic scaling instances also allow much longer deadlines 24 hours but very long-running requests may fail occasionally due to transient issues or upgrades
-

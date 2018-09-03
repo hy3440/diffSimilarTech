@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-moment,better,gedit
-if vim seems too much by the moment i think that kate is better than gedit
-

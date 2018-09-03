@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-facebox,smaller
-i m using facebox and fancybox both smaller than thickbox
-

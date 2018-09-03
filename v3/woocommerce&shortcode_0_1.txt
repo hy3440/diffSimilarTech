@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-custom,variable,easier
-woocommerce recommends creating a custom variable but i would imagine building a shortcode would be easier to deal with
-

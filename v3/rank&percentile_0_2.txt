@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-larger,scale
-i m thinking that this is just happening at a larger scale with your percentile since you re basically condensing their rank into a 1 to 100 scale
-
-ntile,number,query
-since ntile might put the same number in more than one percentile i use a query to calculate the percentile using rank
-

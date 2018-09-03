@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-text,selection,better
-edit i just found out that text selection is done before onclick is fired a better option is onmousedown
-
-good,practice,event,sooner,ga
-sometimes it is good practice to use onmousedown event instead of onclick because onmousedown is fired sooner so ga script has more time to execute event tracking it s only a few milliseconds difference but can help
-

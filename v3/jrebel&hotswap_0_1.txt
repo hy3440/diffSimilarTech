@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-commercial,product,powerful
-it is worth mentioning that there is a commercial product named jrebel that is much more powerful than jvm hotswap
-

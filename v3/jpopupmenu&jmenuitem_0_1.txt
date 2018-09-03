@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-behavior
-the jpopupmenu has this behavior but i need more than just jmenuitem
-

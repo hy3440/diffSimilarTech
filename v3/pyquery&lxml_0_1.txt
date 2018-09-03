@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-faster,beautifulsoup
-pyquery is based on lxml so it s also much faster than beautifulsoup
-

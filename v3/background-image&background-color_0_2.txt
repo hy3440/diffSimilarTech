@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-http,request,processing
-i understand that the background-color one doesn t require an http request and that the background-image takes more processing
-
-answers,comments,rgba,faster,efficient,compatibility,friendly
-a lot of answers comments are mentioning that the background-color rgba is faster and more efficient but that background-image is more compatibility friendly
-

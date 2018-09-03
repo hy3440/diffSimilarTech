@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-file,programming,similar,better,parsec
-if you are decoding some formatted file rather than something like a programming language attoparsec or similar might be better than parsec or uu-parsinglib
-

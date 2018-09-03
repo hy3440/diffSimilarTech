@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-older,format,segment,newer,readers,strict
-this allows older readers to correctly handle the older format jfif segment while newer readers also decode the following exif segment being less strict about requiring it to appear first
-

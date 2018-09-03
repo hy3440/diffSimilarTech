@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-ios.
-btw multitasking is really more fast switching than backgrounding in ios.
-

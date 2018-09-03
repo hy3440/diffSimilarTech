@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-browser,event,better
-there are certain types of browser event that selenium struggles with that sahi handles much better
-

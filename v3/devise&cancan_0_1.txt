@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-authentication,better,user
-devise is mostly used for authentication but cancan is better to deal with user privileges
-

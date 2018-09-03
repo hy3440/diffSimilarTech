@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-acceptance,tool,elegant,kind,test
-1 split those tests to unit and acceptance and use a tool like codeception to help you do acceptance which is way more elegant than phpunit for this kind of test
-

@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-example,approach,involved
-posting here an example showing how to implement same approach but now applied to qtreewidget which a bit more involved than qlistwidget
-

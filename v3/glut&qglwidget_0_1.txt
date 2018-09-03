@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-
-first of all qglwidget does everything glut does plus more
-

@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-folder,ant,file
-if you put the jar to lib folder write the ant code to exclude the jar for the .war file
-

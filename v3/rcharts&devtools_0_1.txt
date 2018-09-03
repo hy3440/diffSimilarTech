@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-colors,newer,install_github,ramnathv,source,value
-not sure what colors you want but if you have installed the newer rcharts with devtools install_github ramnathv rcharts here is how you might color based on the source value with a demo here
-

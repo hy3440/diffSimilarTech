@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-milliseconds,better,entries,correct
-i want to have the milliseconds or better captured by fluentd and then passed on to elasticsearch so that the entries are shown in the correct order
-

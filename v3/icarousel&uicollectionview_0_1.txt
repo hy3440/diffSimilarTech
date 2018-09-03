@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-better,approach,off-hand,comments,poor
-my only problem is that is seems that using uicollectionview is a better approach and i have read some seemingly off-hand comments about icarousel being a poor approach
-

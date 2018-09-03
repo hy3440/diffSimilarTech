@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-format,common,grayscale,images
-you could use the tga format which is more common than ppm and allows true grayscale images
-

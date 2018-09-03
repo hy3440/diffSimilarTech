@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-lessons,benchmark,theano,implementation,higher,level
-finally i don t expect to learn many meaningful lessons from this benchmark both cntk and theano are calling the same cudnn implementation the advantages of cntk are more around higher level things such as a comes with a high-level library b the user doesn t have to worry about the batch and sequence axes except for a few specialized operations c efficient recurrent networks d efficient i o e easy distributed training
-

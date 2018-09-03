@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-name,web,site
-its just a name they choosed it because odoo provides more than openerp for example web site modules
-

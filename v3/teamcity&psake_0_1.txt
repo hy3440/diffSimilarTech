@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-builds,useful,powerful
-i have been automating all my builds through psake and finding it really useful to get my teamcity build more powerful
-

@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-application,easier,newbies,features
-i ve created an application with this library instead of jgraph because i thought that jung is easier to learn than jgraph for newbies even if it provide less features
-
-use,better
-can i use jgraph or is jung better
-

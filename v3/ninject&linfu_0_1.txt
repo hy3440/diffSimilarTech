@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-mef,spring.net,faster
-mef linfu and spring.net are faster than ninject but still pretty
-

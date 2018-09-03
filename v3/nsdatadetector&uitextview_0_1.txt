@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-info,phone,numbers,mail,defaults
-you can read about nsdatadetector to get more info about it it can detect phone numbers mail adresses etc. the uitextview often detect some by defaults
-

@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-protocol,simplistic,client,connections,memory,utilization
-regardless the irc protocol is more simplistic in nature can handle orders of magnitude more client connections than xmpp for the same memory utilization uses less bandwidth on the wire doesn t require authentication although you can add this feature etc
-

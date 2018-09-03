@@ -1,0 +1,76 @@
+type, number, trues, ---------------------------------------------------
+
+number,trues,array,difficult,type,source
+but counting the number of trues in a boolean array is more difficult since the accumulated type int differs from the source type bool
+
+type,values,numeric,better,b
+perhaps using int type if values are all numeric would work better than boolean for a and b
+
+time, a.length, consuming, ---------------------------------------------------
+
+values,a.length,time,consuming,comparison
+however the second loop causes the additional task of casting each of the values between a.length and 0 to a boolean which is more time consuming than int comparison
+
+logic,objects,time,equivalence,false
+since the logic is the same i thought evaluating boolean objects takes more time than int equivalence true 1 and false 0 therefore i came up with the following benchmark and it turns out that i was correct
+
+value, size, variable, ---------------------------------------------------
+
+array,size,space,variable
+would a boolean array of size 32 take more space than an int variable for example
+
+value,bits,space
+it is saying this because using the int to store the value 32 bits is going to use less space than a boolean 256 as each allocated boolean will take up 8 bits 8 256 2048
+
+efficient,value,existence
+i always assumed that boolean were more efficient than int at storing an on off value - considering that s their reason for existence
+
+memory, heap, space, ---------------------------------------------------
+
+space
+a boolean takes less space than an int
+
+memory,heap
+int occupy more memory than boolean so the heap got corrupted
+
+other---------------------------------------------------
+
+interchangeable,aliases,meaningful,bool,int32
+from the link which is mentioned in question my question is that microsoft says the c# type keywords and their aliases are interchangeable but why we need aliases from my point of view boolean is more meaningful then bool and int32 is more meaningful then int then why aliases
+
+constant,arrays,array,indexing,longer,last
+but wait it s not really constant for boolean arrays and why does int array indexing take longer last case than boolean array indexing even if it has to process 5 times less elements
+
+likely,better,performance,formula,engine
+a boolean would most likely not yield better performance than int since the excel formula engine is dynamically typed
+
+better
+there is one case when boolean or int works better than boolean and int
+
+values,64bit,matrix
+since your patterns are just 0 and 1 values you can think of them as numeric values long is a 64bit int which is more than enough which can be converted later to a boolean matrix
+
+operation,longer,float
+so boolean operation is quite longer than for int or float
+
+version,faster
+the int version seems to execute much faster than the boolean one
+
+invalid,cannot
+which is invalid as a boolean cannot be less than an int
+
+meaningful
+boolean true is more meaningful than int or chars 1
+
+value,length,string,greater,sum,float
+if the boolean value is true and the length of the string is greater than the int value print the sum of the float and the int
+
+examples,better,kinda
+also your examples about why int would be better than boolean are kinda flawed
+
+method,error,able
+you can encode up to 32 boolean in an int as follows the method won t error on more than 32 boolean s but won t be able to unpack correctly
+
+use,system,space,single,bit,implementation,native,word
+keep in mind that depending on the use and on the system using it while a boolean takes less space because it s just a single bit depending on the implementation an int is the native word size of the hardware
+

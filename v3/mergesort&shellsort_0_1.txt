@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-insertionsort,faster,performance
-will using shellsort instead of insertionsort inside mergesort yields a faster performance
-

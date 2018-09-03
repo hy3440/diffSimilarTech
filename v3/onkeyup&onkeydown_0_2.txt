@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-support,event,0ms,timer,little,better
-for browsers that don t support either event you can fall back to onkeydown with a 0ms timer for the check which is a little better than onkeyup
-
-preferable,combo
-usually onkeydown is more preferable then onkeyup for such combo
-

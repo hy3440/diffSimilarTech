@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-difficulty,long,operations,use,nested
-but i ve had difficulty implementing this it seems as though nsprogress is meant more for long operations that execute all their code on one background thread but have separate sections that make it easy to determine when progress has been made if this is the case then the use of the term suboperation is a bit misleading as it brings to mind the use of nested nsoperation
-

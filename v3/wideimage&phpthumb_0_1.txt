@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-modern,php5,approach,features
-wideimage is the more modern php5 approach while phpthumb has much more features
-

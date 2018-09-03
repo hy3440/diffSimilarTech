@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-e.g.,labels,generic,continue,special,mechanisms,present
-e.g. break with labels as in java or even a more generic goto. continue does not seem more special than other control-structure mechanisms except that it is present in more languages
-

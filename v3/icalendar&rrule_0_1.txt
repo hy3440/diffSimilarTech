@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-possible,shorter,calculations,hard
-it s possible for icalendar software to make this a lot shorter with rrule but these calculations are hard and not everybody implements it
-

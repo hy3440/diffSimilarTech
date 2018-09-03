@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-format,better,cms,use,backend,nothing
-thinking you can format magento blocks any better in a cms such as expressionengine and use magento just for the backend will put you on a hiding to nothing to end up with a fairly useless setup that isn t going to go anywhere
-

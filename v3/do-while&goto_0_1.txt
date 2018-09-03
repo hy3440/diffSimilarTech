@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-modern,likely,better,loop,compiler
-but goto is rarely used in modern coding it is not likely to perform any better than a do-while loop after compiler optimizations are applied and it has limitations on how it can be used
-

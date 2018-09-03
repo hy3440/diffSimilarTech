@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-easy
-achartengine is easy to use mpandroidchart has more option but is less easy to use than achartengine
-

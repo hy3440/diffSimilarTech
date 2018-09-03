@@ -1,0 +1,47 @@
+jython, c, areas, ---------------------------------------------------
+
+faster,c#,areas,problems
+ironpython is faster than c# in certain areas but not faster than cpython however you can link ironpython to any language thus over coming problems but then again you can do the same with cpython
+
+possible,jython,faster,virtual,machines
+it s possible that jython and ironpython are much faster than cpython as well as they are backed by heavily optimized virtual machines jvm and .net clr
+
+implementations,jython,slower
+also on implementations like jython or ironpython could be a lot slower than with cpython
+
+jython,jit-compiled,jits,faster,kind,work
+ironpython and jython are also jit-compiled although using the more generic jvm and .net jits so they tend to be faster than cpython for this kind of work as well
+
+files, database, things, ---------------------------------------------------
+
+files,database,faster,things,slower
+if there s any heavy application logic as opposed to all of the work being networking files database ironpython is much faster than cpython at a few things and much slower at a few others so you probably need to profile and perf-test before you go too far down either path
+
+slower,text,files
+it seems ironpython is just slower than cpython for reading text files
+
+conclusion, faster, ---------------------------------------------------
+
+conclusion,faster
+i m not sure exactly how you re drawing the conclusion that ironpython is faster than cpython
+
+faster
+consequently ironpython is potentially faster than cpython is especially for multithreading scenarios
+
+other---------------------------------------------------
+
+django,smart,cross-platform,work,frameworks,worse
+so if you want to use django or something like that it s probably not smart to use ironpython because it isn t really cross-platform doesn t work with some frameworks and it performs worse than cpython
+
+largest,benefits,gil,multi-threaded,performance,better,multiple,process
+one of the largest benefits of ironpython is that it has effectively no gil - meaning that if you are both writing python code and it is multi-threaded - you can often get performance that is better than cpython without having to spawn multiple process and pickle objects across the boundaries
+
+better,ide,support,present,factor,choosing
+cpython probably has better ide support at present than ironpython - so this may be a factor in the choosing of one over the other
+
+guru,.net,platform
+i am however no cpython guru and can get so much more out of ironpython than cpython as i can easily leverage the .net platform on which i am far more at home
+
+understanding,vanilla,comfortable,hard
+my understanding was it was written in vanilla python cpython but if you are more comfortable with ironpython it shouldn t be hard to translate
+

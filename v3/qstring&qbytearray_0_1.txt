@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-file,contents,order,bytes,cleanest,method,size,new,smaller
-i have to convert the qstring of the file s contents to qbytearray in order to compare them or vice versa and comparing bytes seems like the cleanest method however when converted from qstring to qbytearray the size of the new qbytearray is smaller than what it should be
-

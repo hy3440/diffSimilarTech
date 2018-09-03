@@ -1,8 +1,0 @@
-others---------------------------------------------------
-
-features,paging,row,details,selection,data,search
-other features i am looking for grid are paging row expander to view more details selection change event sorting bind xml json data and search within grid
-
-intention,group,margin,side,groups,columns,centre
-my intention is to have each group as an expander but with a margin either side so as more groups are added the grid columns become squeezed more into the centre
-

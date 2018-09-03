@@ -1,5 +1,0 @@
-others---------------------------------------------------
-
-number,platforms,files
-it runs on a number of platforms and supports more than just elf files i believe it also supports coff and a few others
-
