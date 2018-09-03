@@ -1,6 +1,6 @@
 [submodule "diffTech"]
 	path = diffTech
 	url = https://github.com/hy3440/diffTech
-[submodule "mining_analogous_libraries"]
+[submodule "similarTech"]
 	path = mining_analogous_libraries
 	url = https://github.com/cjxuan1995/mining_analogous_libraries
