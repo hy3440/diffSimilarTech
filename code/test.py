@@ -16,8 +16,6 @@ from prepros import *
 # print pattern
 
 
-
-
 # # Insert pairs.txt into mysql
 # cursor = connection.cursor()
 # count = 1
