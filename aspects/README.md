@@ -2,7 +2,7 @@
 
 Two versions:
 
-1. [aspects.pkl](https://github.com/hy3440/diffSimilarTech/blob/master/aspects/aspects.pkl). As [aspects.txt](https://github.com/hy3440/diffSimilarTech/blob/master/aspects/aspects.txt) shows, the same format as before
+1. [aspects.pkl](../aspects/aspects.pkl). As [aspects.txt](https://github.com/hy3440/diffSimilarTech/blob/master/aspects/aspects.txt) shows, the same format as before
 
 ```
 {(TECHA, TECHB): (TECH1, RELATION, TECH2, TOPIC, POST ID, SENTENCE)}
