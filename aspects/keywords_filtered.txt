@@ -6,10 +6,8 @@ practical
 optimized
 riskier
 tricks
-flags
 restricted
 inexact
-team
 procedure
 powerful
 optimization
@@ -29,7 +27,6 @@ behaviour
 coarser
 freeform
 busier
-way
 opera
 components
 images
@@ -37,7 +34,6 @@ details
 cache
 runtime
 direct
-once
 fulltext
 extensions
 concurrent
@@ -131,9 +127,6 @@ reliable
 strange
 blocks
 communication
-parameters
-binary
-always
 compact
 reasonable
 solver
@@ -147,7 +140,6 @@ api
 rendering
 compression
 possibilities
-ui
 toolbelt
 hull
 intuitive
@@ -161,7 +153,6 @@ critical
 even
 relatively
 precedence
-more-so
 package
 palette
 vertical
@@ -221,8 +212,6 @@ intelligent
 type-safe
 quicker
 types
-load
-lib
 priority
 approach
 clock
@@ -488,15 +477,12 @@ admittedly
 traffic
 libraries
 vastly
-safier
 regularly
 capacity
 abstract
 productive
 length
 rank
-time-behavior
-first
 simplistic
 long
 server
@@ -521,7 +507,6 @@ consistent
 parameter
 resistant
 performances
-just
 switch
 line
 output
@@ -540,7 +525,6 @@ tidier
 topbar
 columns
 error
-idx
 files
 bandwidth
 visually
@@ -548,7 +532,6 @@ nesting
 clunkier
 fit
 structure
-alone
 little
 finer
 resolution
@@ -571,7 +554,6 @@ statement
 platform-specific
 technote
 deal
-sets
 destiny
 high
 stable
@@ -584,7 +566,6 @@ source
 performant
 pickier
 integration
-text
 distribution
 error-prone
 richer
@@ -606,8 +587,6 @@ typically
 centimeter
 advantages
 out-of-the-box
-full-service
-last
 fonts
 processor
 luck
@@ -643,7 +622,6 @@ compatible
 process
 longer
 usually
-division-based
 float
 procedural
 somewhat
@@ -734,7 +712,6 @@ keys
 solution
 free
 mouseadapter
-knottier
 pure
 license
 alway
@@ -790,7 +767,6 @@ battery
 shader
 frequently
 friendlier
-ram-hungry
 iterations
 granular
 values
@@ -917,7 +893,6 @@ slightly
 heavy
 bells
 mechanisms
-time-effective
 worker
 brighter
 natively
